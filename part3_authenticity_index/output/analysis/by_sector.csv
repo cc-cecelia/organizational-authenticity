@@ -1,0 +1,4 @@
+sector,n,firms,mean_A,median_A,mean_A_ex_sh,mean_unstated
+Energy,9,1,0.526,0.417,0.391,0.111
+Financials,8,1,0.919,0.941,0.909,0.141
+Technology,9,1,0.798,0.778,0.798,0.108

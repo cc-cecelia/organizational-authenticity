@@ -1,0 +1,4 @@
+ticker,rank_tau0,rank_tau20,rank_drop,A_tau0,A_tau20
+MSFT,2.0,3.0,1.0,0.773,0.275
+JPM,1.0,1.0,0.0,0.941,0.294
+XOM,3.0,2.0,-1.0,0.604,0.292

@@ -1,0 +1,4 @@
+# Part 3 extras on top of the repo-level requirements.txt
+matplotlib>=3.8
+scipy>=1.11
+statsmodels>=0.14
