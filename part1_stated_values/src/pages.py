@@ -212,8 +212,10 @@ def validate(fetch: wayback.FetchResult, cand: Candidate, year: int,
 
     text, method = extract.extract_text(fetch.content, fetch.content_type)
     title = extract.page_title(fetch.content) if method != "pypdf" else ""
-    if config.SOFT_404_RE.search(title) or (
-            extract.word_count(text) < 150 and config.SOFT_404_RE.search(text)):
+    # Error pages announce themselves in the title or at the top of the body. A
+    # word-count gate (< 150) missed Starbucks' 150-word error page, so match the
+    # opening of the text regardless of length instead.
+    if config.SOFT_404_RE.search(title) or config.SOFT_404_RE.search(text[:400]):
         return False, "soft_404", text, method
     if extract.word_count(text) < config.MIN_WORDS:
         return False, "thin_text", text, method

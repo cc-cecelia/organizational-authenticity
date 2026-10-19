@@ -1,6 +1,6 @@
 # Part 1: Stated Values (Wayback Machine About/values pages)
 
-**Status:** scraping and text extraction are complete. The LLM analysis step (`changed_from_prior`, `theme_categories`, `analyst_notes`) is not built yet.
+**Status:** complete. The final dataset is `output/stated_values.csv`: 415 of 450 company-years, coded with the LLM step.
 
 ## What this does
 
@@ -110,6 +110,92 @@ The pre-fill is rule-based plus a manual read, and a reviewer spot-checks it. `s
 - A descriptive User-Agent.
 - Every CDX response and raw page is cached under `part1_stated_values/cache/` (git-ignored), so re-runs are offline and deterministic.
 
+## LLM analysis (`src/llm_analyze.py` → `output/stated_values.csv`)
+
+`stated_values.csv` has one row per company-year: 450 rows, with the 35 gap years kept as `status = missing`. The required columns come first: `ticker, company_name, sector, year, page_text_clean, changed_from_prior, theme_categories, analyst_notes`.
+
+### Theme categories
+- **Taxonomy.** Rows are coded into the **shared stakeholder taxonomy** (CLAUDE.md; Freeman 1984) that Part 2 uses for proxy statements. The 9 codes are customers, employees, dei, environment, community, shareholders, integrity, safety and innovation.
+- **Why this taxonomy.** Part 3 compares what a firm says (this page) with what it pays for and is pressed on (its proxy), stakeholder by stakeholder. That comparison only works if both sides use identical categories.
+- **No duplicated definitions.** The definitions and tie-break rules are imported read-only from Part 2's `theme_dictionary.py`, so the two parts cannot drift apart.
+
+For each category the model returns:
+- `sal_<cat>`: salience on a 0 to 3 scale.
+  - 0 = absent.
+  - 1 = passing mention.
+  - 2 = a stated value or commitment with some elaboration.
+  - 3 = a headline or named core value, or a dominant theme.
+- `ev_<cat>`: the single strongest **verbatim** evidence span.
+- `share_<cat>`: salience divided by the row's total salience. This is **normalized emphasis**: Part 3 compares how a page distributes its emphasis, not raw volume. Without it, long values pages would outscore short About pages simply because they say more (mean total salience is 13.2 on values pages vs 9.2 on About pages).
+- `theme_categories`: the categories with salience ≥ 1, in descending order of salience.
+- `page_type` is kept on every row so Part 3 can control for page type.
+
+Part 1 adds four rules to the shared tie-breaks. They come from the pilot hand check:
+- **Business description is not a value** unless the sentence states a commitment. This covers products, size, headcount, rankings and scale claims; "we are committed to…" does count.
+- **Calls to action, recruiting prompts and site chrome are never values.**
+- **"Benefit society" statements are `community`,** not `shareholders`.
+- **A span may only be cited for a category it addresses.**
+
+**Evidence verification.** Every span is checked against the page text, after normalizing whitespace, quotes, case and PDF line-break hyphens. 2,277 of 2,283 spans (99.7%) are found verbatim. The 6 that are not are listed in `evidence_unverified`; their salience is kept, so Part 3 can drop or down-weight them.
+
+### `changed_from_prior`
+The value is True (substantive change), False (no change, a minor edit, or a cosmetic change), or empty when no valid comparison exists. Each row is compared with the firm's previous collected year (`compared_to_year`, `years_since_prior`). The decision runs in this order, so the LLM is called only where text similarity cannot settle it:
+
+1. **First observation, or a page switch** (different `page_group` or `page_type`): `changed_from_prior` is empty. A switch to a different page is never counted as a content change.
+2. **Identical text** (same hash): False, with no LLM call.
+3. **Word-sequence similarity ≥ 0.98** (`text_similarity`, difflib): `minor_edit`, False, with no LLM call.
+4. **Otherwise** the LLM reads a line diff (not both full pages) and classifies the change as `substantive` or `cosmetic`, writing a `change_summary`.
+
+The 0.98 threshold was calibrated by reading diffs in each similarity band:
+- At 0.98 and above, the edits were figure updates and capitalization only ("121,000 → 120,300 employees").
+- Between 0.90 and 0.98, real values edits remained. MPC 2020→21 dropped "We aim for an accident-free, incident-free workplace" (similarity 0.947). JPM 2021→22 added a customer principle (0.941).
+
+LLM calls cost fractions of a cent, so the threshold favors recall.
+
+**Change prompt, version c2.** The first version labelled 75% of the diffs it saw as substantive, including rotating teasers. For example, BAC 2019 replaced an "Investing in women" teaser with a hunger-relief teaser. Version c2 defines **substantive** as a change to the page's own standing statements (mission, purpose, values, principles, commitments). Rotating featured content counts as **cosmetic** even when it mentions a value topic.
+
+Result: 122 substantive, 89 cosmetic, 30 minor edits, 92 identical, 32 page switches and 50 first observations.
+
+A random 12-call hand check of c2 agreed with 10 calls outright. The other two were borderline:
+- F 2016→17: removal of an executive's stated commitment, labelled substantive.
+- CVX 2019→20: reordering with one added phrase, labelled cosmetic.
+
+### `analyst_notes`
+`analyst_notes` gives at most 60 words per row on tone and framing:
+- aspirational vs. factual;
+- which stakeholder is addressed first;
+- voice;
+- hedged vs. absolute commitments;
+- distinctive wording.
+
+Together with `change_summary`, this is the per-year record of linguistic shifts.
+
+### Model, reproducibility, cost
+- **Model.** Claude Haiku 5.5 at effort `low`, with JSON constrained by a schema (`output_config.format`). Salience is an integer enum, because structured outputs do not support min/max.
+- **Reproducibility.** Haiku 5.5 rejects `temperature`, so reproducibility comes from a cache. Every request is keyed by a SHA-256 of (model, effort, prompt version, task, system prompt, prompt, schema), and a rerun never re-queries. Each task has its own prompt version, so the change prompt could be revised without re-sampling the hand-checked theme coding. The token budget class is the same as Part 2's.
+- **Cost.** About $0.55 for all 415 snapshots and 212 change calls.
+
+### Pilot and hand check
+The 10 pilot snapshots cover 5 values pages and 5 About pages. They were chosen for edge cases: a PDF (BRK.B), a card layout (XOM), a long principles page (JPM), a contact-only page (AAPL) and a teaser-heavy page (MS). The sheets are in `output/handcheck_sheet_p1v*.csv`.
+
+Version p1v1 had two kinds of error.
+
+Business description and chrome were coded as values:
+- AAPL's "Visit an Apple Store" coded as `customers`.
+- NVDA's "$100 trillion of industries" coded as `customers` and `shareholders`.
+- BRK.B's headcount coded as `employees`.
+
+Two evidence spans were silent paraphrases:
+- JNJ: "We provide" instead of the Credo's "We must provide".
+- BRK.B: "Charlie and I" instead of "Charlie Munger and I".
+
+Version p1v2 fixed all of these, with 0 unverified spans. One residual, which I documented rather than kept tuning: MS 2024 `customers` cites a diversity sentence where "put clients first" was the better span.
+
+### What the LLM step found about the scrape
+Starbucks 2016 came back coded zero in every category. Its "mission statement" snapshot was actually a site error page ("We're sorry — something has gone wrong…"). The soft-404 check was gated on pages under 150 words, and this page had exactly 150. The check now matches the top of any page, and SBUX 2016 uses Starbucks' real About page.
+
+The other 9 all-zero rows are genuine fact-sheet pages: AAPL 2016–17, ORCL 2017–18, JPM 2018 and VLO 2016–17 and 2019–20.
+
 ## Sample note
 The firm list is used exactly as given. It does not exactly match GICS sectors as of January 2024:
 - GOOGL and META have been in Communication Services since 2018.
@@ -146,9 +232,17 @@ Every gap has a row in `gap_log.csv`, and every capture tried has a row in `deci
 - **The archive is uneven.** A page that existed but was not captured in a given year becomes a gap, or a fallback to another page.
 - **Some content is invisible to us.** Sites rendered client-side by JavaScript, or content loaded after page load, may be thin in the raw `id_` HTML.
 - **One snapshot per year** misses changes made within a year and reverted.
+- **The salience coding comes from a single model.** It has no temperature control, and re-sampling can move a category by ±1; in the pilot, XOM 2018 innovation went from 1 to 2 between prompt versions. The cache freezes the published values, but inter-run reliability was not measured.
+- **About pages carry residual teaser content.** Values pages do not have the same problem, so `page_type` should be a control in any cross-firm comparison.
+- **The `change_type` boundary is a judgment call.** It separates a page's standing statements from rotating featured content, and borderline cases exist (see the hand check above).
 
 ## With more time
 - Classify page type from content (an LLM or a small classifier) instead of the URL.
 - Use `tldextract` for registrable domains (country-code TLDs at 500-firm scale).
-- Render JavaScript-heavy pages with a headless browser.
+- **Recover the JavaScript-rendered gaps (the 17 `thin_text` gaps: AVGO 6, EOG 6, LLY 3, NKE 2).** These pages exist in the archive, but their visible text is built by JavaScript in the browser, and the raw `id_` HTML holds only an app shell. AVGO 2021, for example, is 4.5 KB with 0 visible words. The fix:
+  - Load the archived page, without `id_`, in a headless browser (Playwright, Chromium) so that its scripts run.
+  - Wayback serves the archived script and API responses when they were captured; this often works for sites whose data calls were archived alongside the page.
+  - Extract the text from the rendered DOM with the same extraction pipeline.
+
+  Cost: a few seconds per page and a browser dependency, run only for `thin_text` gaps.
 - Add a second snapshot per year (January and July) to detect within-year churn.

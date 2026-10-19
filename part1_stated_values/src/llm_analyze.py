@@ -147,8 +147,8 @@ Then write analyst_notes: at most 60 words on tone and framing, for example aspi
 CHANGE_TASK = """{company}'s {page_kind} changed between {prior_year} and {year}. Below is a line diff of the visible text ("-" = removed in {year}, "+" = added in {year}).
 
 Classify the change:
-- substantive: adds, removes or reframes a value, commitment, mission/purpose statement or stakeholder, or clearly shifts emphasis between them;
-- cosmetic: layout, reordering without a shift in emphasis, typos, updated facts or figures, news or article teasers, navigation or legal text.
+- substantive: the page's own standing statements change. Its mission, purpose, vision, values, principles or stated commitments are added, removed or reworded in meaning, or the emphasis among them clearly shifts.
+- cosmetic: everything else. Layout, reordering without a shift in emphasis, typos, updated facts or figures, navigation or legal text, and rotating featured content (news, stories, article teasers, report, event or award promos, featured initiatives) even when that content mentions a value topic.
 Then summarize what changed in at most 40 words, quoting key added or removed words where useful.
 
 <diff>
@@ -232,8 +232,11 @@ def evidence_found(evidence: str, text: str) -> bool:
 
 
 def cache_key(task: str, prompt: str, schema: dict) -> str:
+    # Each task has its own prompt version so one task can be revised and re-run
+    # without invalidating (and re-sampling) the other task's cached results.
+    version = config.LLM_PROMPT_VERSION if task == "themes" else config.LLM_CHANGE_PROMPT_VERSION
     payload = json.dumps({"model": config.LLM_MODEL, "effort": config.LLM_EFFORT,
-                          "prompt_version": config.LLM_PROMPT_VERSION, "task": task,
+                          "prompt_version": version, "task": task,
                           "system": SYSTEM, "prompt": prompt, "schema": schema}, sort_keys=True)
     return hashlib.sha256(payload.encode()).hexdigest()
 

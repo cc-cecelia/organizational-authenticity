@@ -95,7 +95,10 @@ LOGIN_PATH_RE = re.compile(r"(login|signin|sign-in|logon|auth|sso|account)", re.
 UNRELATED_PATH_RE = re.compile(r"(sitemap|site-map|/search|/404|/error|not-?found)", re.I)
 SOFT_404_RE = re.compile(
     r"(page (you requested )?(was )?not (be )?found|404 error|error 404|"
-    r"page (cannot|can't|could not) be found|no longer available|page does not exist)",
+    r"page (cannot|can't|could not) be found|no longer available|page does not exist|"
+    # Starbucks 2016 error page (found by the LLM step coding it all-zero):
+    # "We're sorry — something has gone wrong ... We might have removed the page".
+    r"something (has )?gone wrong|might have removed the page|link you clicked might be old)",
     re.I,
 )
 
@@ -167,7 +170,11 @@ REVIEW_APPROVE_RE = re.compile(
 # never re-queries and published results are fixed.
 LLM_MODEL = "claude-haiku-5-5"
 LLM_EFFORT = "low"
-LLM_PROMPT_VERSION = "p1v2"    # bump after any prompt/schema edit (p1v2: pilot hand-check fixes)
+LLM_PROMPT_VERSION = "p1v2"    # themes task; bump after any prompt/schema edit (p1v2: pilot hand-check fixes)
+# change task (c2: rotating featured content is cosmetic; substantive needs a change
+# to the page's own standing statements. v1 called 75% of diffs substantive, many of
+# them teaser swaps such as BAC 2019 "Investing in women" -> hunger-relief teaser).
+LLM_CHANGE_PROMPT_VERSION = "c2"
 LLM_CACHE_DIR = CACHE_DIR / "llm"
 
 # Change detection: word-sequence similarity (difflib ratio) between a page and

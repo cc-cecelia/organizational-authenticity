@@ -13218,20 +13218,15 @@ Standing Up For Our Values
 Every day, we are demanding a better future for ourselves, our athletes, and our commu- nities. From EQUALITY to BeTrue, we use the power of sport as a catalyst for fairness, justice, and change around the globe."
 NKE,Nike,Consumer Discretionary,2023,missing,all_captures_rejected:thin_text,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
 NKE,Nike,Consumer Discretionary,2024,missing,all_captures_rejected:thin_text,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
-SBUX,Starbucks,Consumer Discretionary,2016,ok,,values,seed,starbucks.com/about-us/company-information/mission-statement,https://www.starbucks.com/about-us/company-information/mission-statement,False,http://www.starbucks.com:80/about-us/company-information/mission-statement,20160703071230,https://web.archive.org/web/20160703071230/http://www.starbucks.com:80/about-us/company-information/mission-statement,200,False,trafilatura,150.0,4454206fd8b248bb93b74c0868b4c6854d500ca1,"We’re sorry — something has gone wrong on our end.
-What could have caused this?
-- Well, something technical went wrong on our site.
-- We might have removed the page when we redesigned our website.
-- Or the link you clicked might be old and does not work anymore.
-- Or you might have accidentally typed the wrong URL in the address bar.
-What you can do?
-- You might try retyping the URL and trying again.
-- Or we could take you back to the Starbucks home page.
-- Or you could use the site map to find what you’re looking for.
-One more thing:
-If you want to help us fix this issue, we are here to help. Please contact us and let us know what went wrong. Be sure to let us know what Web Browser and Operating System you were using when this occurred.
-The error number is: N/A-20557048951890091"
-SBUX,Starbucks,Consumer Discretionary,2017,ok,,values,seed,starbucks.com/about-us/company-information/mission-statement,https://www.starbucks.com/about-us/company-information/mission-statement,False,https://www.starbucks.com/about-us/company-information/mission-statement,20170630205446,https://web.archive.org/web/20170630205446/https://www.starbucks.com/about-us/company-information/mission-statement,200,False,trafilatura,95.0,e9943518e6beba45d28963a5da354cfd7db73133,"OUR MISSION
+SBUX,Starbucks,Consumer Discretionary,2016,ok,,about,seed,starbucks.com/about-us,https://www.starbucks.com/about-us,False,http://www.starbucks.com/about-us,20160708095006,https://web.archive.org/web/20160708095006/http://www.starbucks.com/about-us,200,False,trafilatura,133.0,09d90bb1941ecda0a89a7c6525defec8e0ab82e9,"About Us
+It happens millions of times each week – a customer receives a drink from a Starbucks barista – but each interaction is unique.
+It’s just a moment in time – just one hand reaching over the counter to present a cup to another outstretched hand.
+But it’s a connection.
+We make sure everything we do honors that connection – from our commitment to the highest quality coffee in the world, to the way we engage with our customers and communities to do business responsibly.
+From our beginnings as a single store over forty years ago, in every place that we’ve been, and every place that we touch, we've tried to make it a little better than we found it.
+Starbucks Newsroom
+Read more and join the discussion through the Starbucks Newsroom."
+SBUX,Starbucks,Consumer Discretionary,2017,ok,,values,seed,starbucks.com/about-us/company-information/mission-statement,https://www.starbucks.com/about-us/company-information/mission-statement,True,https://www.starbucks.com/about-us/company-information/mission-statement,20170630205446,https://web.archive.org/web/20170630205446/https://www.starbucks.com/about-us/company-information/mission-statement,200,False,trafilatura,95.0,e9943518e6beba45d28963a5da354cfd7db73133,"OUR MISSION
 To inspire and nurture the human spirit – one person, one cup and one neighborhood at a time.
 OUR VALUES
 - Creating a culture of warmth and belonging, where everyone is welcome.
