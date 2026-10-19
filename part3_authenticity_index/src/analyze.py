@@ -145,10 +145,14 @@ def validity(d: pd.DataFrame, ok: pd.DataFrame, res: list) -> None:
     res += ["## Validity", "### Known groups"]
     for t, k, years, expect in (("WFC", "customers", range(2016, 2025), "low coverage 2016-2018"),
                                 ("XOM", "environment", range(2016, 2025), "coverage jumps from 2022")):
-        x = d[(d.ticker == t) & d.year.isin(years)][["year", f"s_{k}", f"d_{k}", f"cov_{k}", "A", "A_reason"]]
+        x = d[(d.ticker == t) & d.year.isin(years)][["year", f"s_{k}", f"d_{k}", f"cov_{k}", f"w_{k}", "A",
+                                                      "A_tau10", "A_reason"]].copy()
+        # Weighted coverage at the headline tau = 10%: min(w / 0.10, 1).
+        x.insert(5, f"cov10_{k}", (x[f"w_{k}"] / 0.10).clip(upper=1.0))
         x.to_csv(AN / f"known_group_{t}_{k}.csv", index=False)
-        res += [f"**{t} {k}** (expected: {expect}). `s` = stated salience, `d` = pay-linked criteria "
-                "(max over proxies t and t+1), `cov` = coverage indicator:", "", md_table(x, ".2f"), ""]
+        res += [f"**{t} {k}** (expected: {expect}). `s` = stated salience, `d` = pay-linked criteria and "
+                "`w` = plan weight (max over proxies t and t+1), `cov` = coverage indicator (τ→0), "
+                "`cov10` = weighted coverage at τ = 10%:", "", md_table(x, ".2f"), ""]
 
     res += ["### Discriminant check", "OLS of A (τ→0) on page type, log page word count and sector, "
             "standard errors clustered by firm. A valid alignment measure should not be explained by "

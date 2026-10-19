@@ -1,6 +1,6 @@
 # Part 3: Organizational Authenticity Index
 
-**Status: pilot.** The index is built on Part 2's *pilot* panel, which has pay data for MSFT, JPM and XOM only, giving 26 firm-years. Every number below that comes from the data is a pilot number. The pipeline reruns unchanged once Part 2 commits the full `lived_values_panel.csv`:
+**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `08de01f`). The primary index covers **383 of 450 firm-years across 48 firms**. To reproduce:
 
 ```
 .venv/bin/pip install -r part3_authenticity_index/requirements.txt
@@ -40,7 +40,7 @@ For firm *i*, year *t* and category *k* (the 9 shared codes):
 |---|---|---|
 | `s_ikt` | Part 1 `sal_<k>` | Stated salience, 0 to 3 |
 | `d_ikt` | Part 2 `pay_n_<k>` | Count of distinct pay-linked criteria |
-| `w_ikt` | Part 2 `aip_weight_share_<k>` (disclosed), else an imputed panel column | Share of the annual incentive plan |
+| `w_ikt` | Part 2 `cat_weight_<k>` (provenance in `weight_source`: `disclosed`, `derived_from_stated_split`, `imputed_emphasis` or `none`) | Share of the annual incentive plan's payout weight. The long-term plan's weights (`cat_weight_lti_*`) are not used: those plans are almost entirely financial (on average 95.6% of LTI weight is on shareholders, and 88% of plans put at least 90% there). |
 
 ```
 c_ikt(τ) = min( max(w_ik,t , w_ik,t+1) / τ , 1 )       coverage of category k
@@ -76,38 +76,70 @@ NaN reasons:
 | `say_only_shareholders` | `A_ex_shareholders` only |
 | `no_non_shareholder_pay_criteria` | `unstated_backing` only |
 
-### Guard on disclosed weights (found in the pilot)
-Part 2 keeps only weights stated as a share of the plan total. Microsoft's 2019 and 2020 bonus was split as follows:
-- 50% financial.
-- 50% "qualitative", split equally across customers, product/innovation and culture.
+### Interim guard on weights (decision pending)
+**Why the guard was added.** In the pilot, Part 2 kept only weights stated as a share of the plan total. Microsoft's 2019 and 2020 bonus was 50% financial plus 50% "qualitative", split equally across customers, product/innovation and culture. That qualitative half landed in `other`, so the three categories read 0% instead of about 16.7% each, and the weighted index scored MSFT 2019 at 0.0 next to a count-based 1.0. Part 3 therefore ignores a proxy year's weights when 5% or more of its plan sits in `other`, and the weighted versions are NaN with reason `disclosed_weights_unresolved` when no other year's weights are usable. The primary τ → 0 index never uses weights.
 
-Part 2 records the whole qualitative half as `other`, so customers, innovation and employees read 0%, though each was really about 16.7%. The weighted index then returned 0.0 for a firm with full count-based coverage.
+**Status after Part 2's weight layer.** Part 2 now resolves nested splits: MSFT 2019 has customers 15.8%, employees 8.3% and `other` 0%. `cat_weight_other` now holds genuine non-stakeholder criteria, such as individual-performance factors, team scorecards and strategic milestones.
 
-Part 3 therefore uses disclosed weights only when less than 5% of the plan is unresolved in `other`. Otherwise the weighted index uses imputed weights once Part 2 adds them, or is NaN with reason `disclosed_weights_unresolved`. The primary τ → 0 index is unaffected. The nested-weight case is flagged for Part 2 to resolve.
+The removal rule was "remove the guard if no row has ≥ 5% in `other`". **136 of 375 weighted proxy-years still have ≥ 5% in `other`**, so the guard stays for now, but those rows are no longer unresolved weights. With the guard, the τ = 10% index is defined for 253 firm-years (mean 0.29); without it, for 350 (mean 0.33).
 
-## Results (pilot: 3 firms, 26 firm-years)
-`output/analysis/results.md` holds every table. Figures are in `output/figures/`.
+The guard also distorts individual rows. WFC 2016's 5.7% customer weight is dropped because its plan also has 5.7% in `other`. Whether to remove the guard is pending a decision.
 
-- **Distribution.** A (τ → 0) has mean 0.74 and median 0.80, ranging from 0.33 to 1.00. Without shareholders, the mean is 0.69 and the minimum 0.
-  - XOM is lowest (median 0.42). Its pages state innovation every year, and customers, community and integrity in 5 of 9 years, none of which its pay plan rewards in those years.
-  - JPM is highest (median 0.94). Its Business Principles name nearly the same stakeholders as its pay scorecard; innovation is the only regular gap (4 years).
-- **Weighted versions are much lower** (mean A at τ = 10% is 0.35). Most non-financial pay criteria are unweighted holistic factors or small slices of the plan. **The gap between `A` and `A_tau10` is itself informative: it separates nominal backing from material backing.**
-- **Sensitivity.** The Spearman machinery runs, but with 3 firms it is not interpretable. It reruns on the full panel.
-- **Known groups.**
-  - **XOM environment: passes.** Environment pay criteria go 0 → 1 → 4 as the 2022 proxy adds energy-transition metrics. With the t/t+1 window, this shows as coverage from page-year 2020 (the 2021 proxy's first criterion) and full strength from 2021. The page meanwhile keeps environment at low salience (1, rising to 2 in 2024): pay moved before the page did.
-  - **WFC customers: pending.** WFC has no pay data in the pilot panel.
-- **Discriminant check: pending.** It needs at least 4 firms across sectors.
+## Results (full panel: 48 firms, 383 firm-years)
+`output/analysis/results.md` holds every table, and figures are in `output/figures/`. Numbers below are for the primary index A (τ → 0) unless stated.
+
+**Distribution.**
+- A has mean 0.41 and median 0.38, spanning the full 0 to 1 range (10th percentile 0, 90th percentile 0.82).
+- `A_ex_shareholders` has mean 0.35.
+- `unstated_backing` has mean 0.20: a fifth of a typical firm's non-financial pay categories go unmentioned on its page.
+- The index varies more between firms than within them over time: the SD of firm means is 0.24, against an average within-firm SD of 0.16.
+- 2 firms have no index. AAPL has no page with codable values, and BRK.B has no pay-metric section to extract.
+
+**The rankings are interpretable.**
+- **Lowest firm means** are SCHW 0.02, NVDA 0.03, CRM 0.09, GOOGL 0.12, ABT 0.14 and AMZN 0.14. Their pay is purely financial or equity-based, while their pages state customers, innovation and community.
+- **Highest firm means** are JPM 0.92, VLO 0.82, MSFT 0.80, BLK 0.71 and WFC 0.69. These firms run stakeholder scorecards.
+- EOG (1.00) rests on only 3 firm-years because of Part 1 gaps.
+
+**By sector and year.**
+- Energy (0.53) and Financials (0.52) score highest. Consumer Discretionary (0.30) and Technology (0.32) score lowest.
+- The year means are flat (0.36 to 0.46) with no trend.
+
+**Weighted versions are much lower:** mean 0.33 at τ = 5%, 0.29 at τ = 10% and 0.24 at τ = 20%. Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
+
+**Sensitivity to τ** (41 firms with weights): the firm rankings are stable. Spearman correlations are 0.94 between τ → 0 and 5%, 0.89 with 10%, and 0.82 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight.
+
+| Firm | Rank at τ → 0 | Rank at τ = 20% |
+|---|---|---|
+| TGT | 16 | 34 |
+| TMO | 13 | 31 |
+| NKE | 26 | 41 |
+| WFC | 5 | 17 |
+| MSFT | 4 | 15 |
+
+**Validity: known groups.**
+- **XOM environment: passes.** Environment pay criteria go 0 → 1 → 4 as the 2022 proxy adds energy-transition metrics. With the t/t+1 window, that shows as coverage from page-year 2020 and full strength from 2021. The page keeps environment at low salience (1, then 2 in 2024): pay moved before the page did.
+- **WFC customers: partly fails, and the failure is informative.** Coverage was expected to be low in 2016 to 2018, around the fake-accounts scandal.
+  - Page-year 2017 has no customer pay criteria, as expected.
+  - Page-year 2016 is covered by a 2016 holistic factor: "furthering the Company's objectives of creating deep and enduring relationships with our customers". That is the cross-selling objective at the root of the scandal, which the coding treats as `customers`.
+  - Page-year 2018 borrows the 2019 proxy's new post-scandal "Customer Service and Advice" metric through the t+1 window.
+  - Weighted coverage is low in all three years (0, 0 and 0.42 at τ = 10%).
+  - The lesson is a threat to validity: **a category match cannot tell a customer metric that serves customers from one that harmed them.**
+
+**Validity: discriminant check.** OLS of A on page type, log word count and sector, with firm-clustered standard errors, gives R² = 0.16.
+- Page type (values vs About: +0.10, p = 0.11) and page length (p = 0.17) do not significantly explain the score, so the index is not an artifact of which page was scraped or how long it is.
+- Sector does explain the score: Energy is +0.24 (p = 0.001) and Financials +0.23 (p = 0.009), relative to Consumer Discretionary.
+- This is consistent with substance rather than artifact. Energy pay plans carry safety and environment scorecards, and bank plans carry risk and conduct criteria, which matches what those firms state. Cross-firm comparisons are best made within sector.
 
 ## Limitations and threats to validity
 1. **LLM label noise on both sides.** Salience (Part 1) and pay-criterion categories (Part 2) are single-model codings without temperature control. Both were hand-checked on samples, but re-sampling can move a category by ±1 salience or flip a borderline criterion's category. The index is a ratio over a few categories, so one flip can move a firm-year by 0.1 to 0.3. Firm-level means over years are more robust than single years.
-2. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights, and some disclose nested weights that Part 2 cannot yet resolve (see above). This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
+2. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights. 168 of the firm-years with weights rest on Part 2's `imputed_emphasis` weights, which are estimates. This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
 3. **Say-side coverage gaps and the page mix.**
    - 35 firm-years have no page (Part 1 gaps), and 9 pages state no codable value.
    - About pages and values pages differ systematically: values pages have higher total salience and more integrity and employees content. Comparisons across firms should control for `page_type`, which is what the discriminant check tests.
 4. **Survivorship.** The sample is the 2024 constituents of the S&P 500, observed back to 2016. Firms that fell out of the index, possibly those whose rhetoric and practice diverged most, are not observed. Levels are therefore likely biased upward, and the 2016 cross-section is not representative of the 2016 S&P 500.
-5. **Recall is not precision.** A firm that states almost nothing scores well if that little is paid for. `say_all_zero` rows are excluded rather than scored, but thin pages still make high scores cheap. Read `A` together with total salience and `unstated_backing`.
+5. **A category match is not a values match.** WFC 2016 shows this: a pay criterion coded `customers` can reward the very behavior that harmed customers. The index measures whether the same stakeholder appears on both sides, not whether pay serves the stated value.
+6. **Recall is not precision.** A firm that states almost nothing scores well if that little is paid for. `say_all_zero` rows are excluded rather than scored, but thin pages still make high scores cheap. Read `A` together with total salience and `unstated_backing`.
 
 ## With more time
-- Resolve nested weights (parent × component) for weighted coverage, and estimate weights for holistic factors (equal split within their parent component).
 - A precision-side companion: the share of material pay weight in categories the page states. The two together would give an F1-style alignment.
 - Measure inter-run reliability of both LLM codings, and report index confidence intervals by re-sampling labels.
