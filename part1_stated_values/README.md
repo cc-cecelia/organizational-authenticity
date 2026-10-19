@@ -246,3 +246,10 @@ Every gap has a row in `gap_log.csv`, and every capture tried has a row in `deci
 
   Cost: a few seconds per page and a browser dependency, run only for `thin_text` gaps.
 - Add a second snapshot per year (January and July) to detect within-year churn.
+
+## Linguistic shifts per firm (`src/linguistic_shifts.py` → `output/linguistic_shifts.csv`)
+This file answers part (c): one row per firm summarizing 2016 to 2024. It is built from `stated_values.csv` with no new LLM calls.
+- `rising_themes` and `falling_themes`: categories whose mean salience in the firm's last 3 observed years differs from its first 3 by at least 1 point. Each comes with the year of its largest single-year step in that direction.
+- The biggest substantive change: the year-over-year change marked substantive that has the largest shift in the salience vector. It comes with the LLM's change summary and one verbatim quote from each side, taken from the category that moved most.
+- The first sentence of `analyst_notes` in the first and last year.
+- `page_type_changed` flags firms whose page type differs between the early and late windows. For those firms (e.g. BAC, WFC), part of the shift reflects which page was available, not changed wording.
