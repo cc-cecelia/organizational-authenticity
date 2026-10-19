@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0001193125-26-142826",
+  "task": "incentives",
+  "section_words": 7023,
+  "section_method": "heading",
+  "cache_key": "d39311e63dac49114c5199517752628d9edafe7a97fe175d4ada09150ed127d5",
+  "est_input_tokens": 16489
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18550,
+  "output_tokens": 273,
+  "request_id": "req_011CgCJYWXz2RuCd243Zgsyv"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "continued to use adjusted diluted EPS as the performance measure for the CEBP"
+   },
+   {
+    "metric": "ROTCE divided by COE (ROTCE exceeds COE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance measured by the amount by which ROTCE exceeds COE"
+   }
+  ]
+ }
+}

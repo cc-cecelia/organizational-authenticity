@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "9a06f011c828d0f617465d11a6a87ee38d4d2da3ad9b07f0b7cd94c96c0522e4",
+  "est_input_tokens": 11117
+ },
+ "usage": {
+  "input_tokens": 11672,
+  "output_tokens": 285
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee chose Relative TSR as a straightforward and objective metric for Apple's shareholders to evaluate our performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures."
+   }
+  ]
+ }
+}

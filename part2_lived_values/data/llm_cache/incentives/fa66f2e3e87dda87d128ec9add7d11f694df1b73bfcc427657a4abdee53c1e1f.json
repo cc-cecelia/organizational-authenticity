@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001108524-26-000085",
+  "task": "incentives",
+  "section_words": 18006,
+  "section_method": "opening_sentence",
+  "cache_key": "fa66f2e3e87dda87d128ec9add7d11f694df1b73bfcc427657a4abdee53c1e1f",
+  "est_input_tokens": 40910
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 43922,
+  "output_tokens": 5522,
+  "request_id": "req_011CgCJQkZdBF3eQhoNMQWU2"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Subscription and Support Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "bonus payouts are based on two equally weighted financial metrics: subscription and support revenue and non-GAAP income from operations"
+   },
+   {
+    "metric": "Non-GAAP Income from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "bonus payouts are based on two equally weighted financial metrics: subscription and support revenue and non-GAAP income from operations"
+   },
+   {
+    "metric": "Strategic objectives multiplier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial results may be adjusted up or down (+/- 25%) by a strategic objectives multiplier"
+   },
+   {
+    "metric": "Agentforce and Data 360 adoption",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "these priorities centered on accelerating Agentforce and Data 360 adoption and maximizing customer success and retention"
+   },
+   {
+    "metric": "Customer success and retention",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "exceeding its objectives for customer success and retention"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "approved individual performance multipliers of 100% for each NEO"
+   },
+   {
+    "metric": "Margin & Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "pays out based on relative TSR and an operational metric, weighted equally"
+   },
+   {
+    "metric": "Non-GAAP operating margin (Margin & Growth)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Margin & Growth metric will be determined based on the sum of our (1) non-GAAP operating margin"
+   },
+   {
+    "metric": "Subscription and support revenue growth (Margin & Growth)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "and (2) subscription and support revenue growth, in constant currency"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "vesting is tied to our TSR performance compared to the Nasdaq-100 Index group of companies"
+   },
+   {
+    "metric": "Absolute TSR cap",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts are capped at 100% of target if our absolute TSR is negative"
+   },
+   {
+    "metric": "Agentforce & Data 360 ARR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-Based Stock Options: Tied directly to Agentforce & Data 360 ARR."
+   },
+   {
+    "metric": "Operating Margin (OM PRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "these PRSUs vest based on our non-GAAP operating margin performance"
+   }
+  ]
+ }
+}

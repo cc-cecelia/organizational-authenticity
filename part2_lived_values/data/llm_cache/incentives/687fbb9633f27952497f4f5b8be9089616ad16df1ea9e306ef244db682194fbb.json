@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0001140361-26-012975",
+  "task": "incentives",
+  "section_words": 13082,
+  "section_method": "heading",
+  "cache_key": "687fbb9633f27952497f4f5b8be9089616ad16df1ea9e306ef244db682194fbb",
+  "est_input_tokens": 30179
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 32733,
+  "output_tokens": 1151,
+  "request_id": "req_011CgCJW6qQXjXYGVJ5PNcP9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Annual incentive: discretionary assessment of Firm performance across Strategy, Culture, Financial Strength and Growth pillars",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDS Committee approves executive annual incentive compensation after a comprehensive review and evaluation of Firm, business segment and individual performance for the year"
+   },
+   {
+    "metric": "Strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "STRATEGY The CMDS Committee evaluated Mr. Pick's execution of a clear and consistent strategy to raise, manage, and allocate capital"
+   },
+   {
+    "metric": "Culture",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDS Committee evaluated Mr. Pick's continued cultivation of a culture of rigor, humility, and partnership"
+   },
+   {
+    "metric": "Financial Strength",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDS Committee evaluated Mr. Pick's accomplishments with respect to the Firm's financial strength through strong capital, liquidity and earnings"
+   },
+   {
+    "metric": "Growth",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDS Committee evaluated Mr. Pick based on generation of new opportunities to capture client share and grow the business"
+   },
+   {
+    "metric": "Absolute and relative ROTCE performance (relative ROTCE within a range, absolute ROTCE outside it) over 2026\u20132028",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of PSUs earned ... based on the Firm's average ROTCE over the three-year performance period (MS ROTCE) and/or ... relative to the ROTCE of each member of a peer group"
+   },
+   {
+    "metric": "Total shareholder return payout governor (multiplier capped at 1.5 if no positive TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "in no event will the multiplier (ii) exceed 1.5 if Morgan Stanley does not demonstrate positive TSR over the performance period"
+   }
+  ]
+ }
+}

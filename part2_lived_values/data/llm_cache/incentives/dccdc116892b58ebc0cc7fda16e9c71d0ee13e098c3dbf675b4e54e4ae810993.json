@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0001104659-25-036829",
+  "task": "incentives",
+  "section_words": 10050,
+  "section_method": "heading",
+  "cache_key": "dccdc116892b58ebc0cc7fda16e9c71d0ee13e098c3dbf675b4e54e4ae810993",
+  "est_input_tokens": 19403
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23460,
+  "output_tokens": 1296,
+  "request_id": "req_011CgCJaC9VvmWdyfVB713uv"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue* | 30% | $381.3 billion | $401.4 billion | $421.5 billion"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income* | 30% | $31.1 billion | $36.6 billion | $42.1 billion"
+   },
+   {
+    "metric": "Cash Flow from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations* | 15% | $26.4 billion | $31.0 billion | $35.7 billion"
+   },
+   {
+    "metric": "Stewardship: NPS Index (absolute), NPS Market Gap (relative), Employee Experience Index (EXI)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Stewardship: \u2022 NPS Index (absolute) \u2022 NPS Market Gap (relative) \u2022 Employee Experience Index (EXI) | 25%"
+   },
+   {
+    "metric": "NPS Index (absolute)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2024, our enhanced evaluations split the measure equally between an NPS Index that measures absolute NPS performance relative to targets"
+   },
+   {
+    "metric": "NPS Market Gap (relative)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a relative NPS measuring Company NPS performance relative to select health care competitors"
+   },
+   {
+    "metric": "Employee Experience Index (EXI)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We use our human capital management metric tailored to the Company \u2013 the Employee Experience Index (EXI)"
+   },
+   {
+    "metric": "Cumulative Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative Adjusted Earnings Per Share | 50% | $67.90 | $71.80 | $77.23"
+   },
+   {
+    "metric": "Return on Equity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance share grants were selected ... weighted equally between cumulative earnings per share and average return on equity for the three-year performance period."
+   }
+  ]
+ }
+}

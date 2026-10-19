@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "BRK.B",
+  "sector": "Financials",
+  "filing_year": 2025,
+  "accession": "0001193125-25-054877",
+  "task": "incentives",
+  "section_words": 2835,
+  "section_method": "heading",
+  "cache_key": "867180a2b418e6d8b246d3c982c716de34d1fceaf6c1795fe6903015a1a24202",
+  "est_input_tokens": 6869
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9045,
+  "output_tokens": 11,
+  "request_id": "req_011CgCJSdggainPUwreo7XY4"
+ },
+ "result": {
+  "metrics": []
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2025,
+  "accession": "0001140361-25-012302",
+  "task": "incentives",
+  "section_words": 12264,
+  "section_method": "heading",
+  "cache_key": "6f875ed6d98818c1f0afadb3ad340721842f4352e6c7ab26d8d95c5a3fa032ae",
+  "est_input_tokens": 28444
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31082,
+  "output_tokens": 1163,
+  "request_id": "req_011CgCJVuP6KzNSptodVwT2D"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Performance priorities: quantitative and qualitative (annual incentive, holistic assessment of Firm and individual performance)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDS Committee evaluated Firm and individual performance in light of the pre-established performance priorities"
+   },
+   {
+    "metric": "Firm net revenues, net income and EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Firm achieved strong financial performance across revenues, net income and EPS."
+   },
+   {
+    "metric": "ROTCE and efficiency ratio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Firm delivered ROTCE of 18.8% and Efficiency Ratio of 71% in 2024"
+   },
+   {
+    "metric": "CET1 capital and capital position",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strong capital position reflected in CET1 Ratio of 15.9%, approximately 240 basis points above our regulatory requirement"
+   },
+   {
+    "metric": "Total shareholder return",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "delivered total shareholder returns of 40% for the year"
+   },
+   {
+    "metric": "Risk management performance (conduct and non-financial risk)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "incorporates financial and non-financial risk management performance factors, including conduct risk, in making compensation decisions"
+   },
+   {
+    "metric": "Average ROTCE (MS Average ROTCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "One-half of the target PSU award is earned based on the Firm's average ROTCE over the three-year performance period"
+   },
+   {
+    "metric": "Relative ROTCE versus peer group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The other half of the target PSU award is earned based on the Firm's average ROTCE over the three-year performance period relative to the ROTCE of each member of a peer group"
+   }
+  ]
+ }
+}

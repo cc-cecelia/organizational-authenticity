@@ -1,0 +1,4 @@
+ticker,filing_year,task,metric,field,expected,new,reason
+JPM,2024,incentives,"Risk, Controls & Conduct",weight_pct,50.0,,"Source: 'an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customer/client/stakeholder and teamwork & leadership'. The 50% covers the three qualitative dimensions together; the extraction attached it to one, giving the other two (and their DEI, environment and customer criteria) 0%. Found in Part 4 review. With no per-dimension weight, the weight layer splits the remaining 50% across the three by emphasis."
+JPM,2024,incentives,"Risk, Controls & Conduct",weight_of,plan_total,none,Same override as above.
+JPM,2024,incentives,"Risk, Controls & Conduct",application,weighted,holistic_factor,"Same override; consistent with JPM 2023, where these dimensions are holistic factors."

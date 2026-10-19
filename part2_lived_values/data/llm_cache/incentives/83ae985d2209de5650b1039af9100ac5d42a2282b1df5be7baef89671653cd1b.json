@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001193125-26-402816",
+  "task": "incentives",
+  "section_words": 9752,
+  "section_method": "heading",
+  "cache_key": "83ae985d2209de5650b1039af9100ac5d42a2282b1df5be7baef89671653cd1b",
+  "est_input_tokens": 22480
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24534,
+  "output_tokens": 2028,
+  "request_id": "req_011CgCJR2pfoJDLYsJbzU34Z"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Non-GAAP operating income year-over-year growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee selected year-over-year growth in our non-GAAP operating income as the financial performance metric for determining bonuses"
+   },
+   {
+    "metric": "Total Non-GPU Infrastructure Bookings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Non-GPU Infrastructure Bookings, weighted 30%"
+   },
+   {
+    "metric": "GPU Bookings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "GPU Bookings, weighted 10%"
+   },
+   {
+    "metric": "Total SaaS Bookings Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total SaaS Bookings Growth, weighted 10%"
+   },
+   {
+    "metric": "Non-GAAP Software Revenue Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-GAAP Software Revenue Growth, weighted 20%"
+   },
+   {
+    "metric": "Non-GAAP Total Operating Income Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-GAAP Total Operating Income Growth, weighted 30%"
+   },
+   {
+    "metric": "Fiscal 2028 non-GAAP total revenues (PSO performance metric)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance metric is Oracle non-GAAP total revenue for fiscal 2028 measured on a non-GAAP basis as reported in Oracle's fourth quarter fiscal 2028 earnings release."
+   }
+  ]
+ }
+}

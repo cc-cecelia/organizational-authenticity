@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001308179-26-000008",
+  "task": "incentives",
+  "section_words": 7416,
+  "section_method": "heading",
+  "cache_key": "7b0a9b6bfce088fd027367bb373ac66eb8779a6d9623f5d32b6cd8cf42322552",
+  "est_input_tokens": 17334
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18372,
+  "output_tokens": 443,
+  "request_id": "req_011CgCJPcEYE5q3CQ5Ch33eq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest depends entirely on Apple's Relative TSR for the performance period."
+   }
+  ]
+ }
+}

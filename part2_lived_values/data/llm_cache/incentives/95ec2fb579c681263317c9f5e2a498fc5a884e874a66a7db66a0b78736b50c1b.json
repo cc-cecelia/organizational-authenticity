@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001045810-26-000036",
+  "task": "incentives",
+  "section_words": 7693,
+  "section_method": "heading",
+  "cache_key": "95ec2fb579c681263317c9f5e2a498fc5a884e874a66a7db66a0b78736b50c1b",
+  "est_input_tokens": 17317
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20556,
+  "output_tokens": 381,
+  "request_id": "req_011CgCJPmJVqCQzRBcGBaw3X"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue (determines cash payout)"
+   },
+   {
+    "metric": "Non-GAAP Operating Income",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-GAAP Operating Income (determines number of shares eligible to vest)"
+   },
+   {
+    "metric": "3-Year Relative TSR vs S&P 500",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR relative to the S&P 500 (determines number of shares eligible to vest)"
+   }
+  ]
+ }
+}

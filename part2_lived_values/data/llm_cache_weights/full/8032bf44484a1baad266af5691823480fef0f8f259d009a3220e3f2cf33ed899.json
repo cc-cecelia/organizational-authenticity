@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "8032bf44484a1baad266af5691823480fef0f8f259d009a3220e3f2cf33ed899",
+  "est_input_tokens": 12914
+ },
+ "usage": {
+  "input_tokens": 12955,
+  "output_tokens": 441
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee chose net sales and operating income, calculated in accordance with generally accepted accounting principles, as the financial performance measures for the 2021 annual cash incentive program."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee chose net sales and operating income, calculated in accordance with generally accepted accounting principles, as the financial performance measures for the 2021 annual cash incentive program."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The ESG Modifier is based on a holistic evaluation by the Compensation Committee of key accomplishments and actions taken during the year to advance our Apple values"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of performance-based RSUs that vest depends entirely on Apple's total shareholder return relative to the other companies in the S&P 500 (\"Relative TSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Payouts for our named executive officers under the annual cash incentive program are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures"
+   }
+  ]
+ }
+}

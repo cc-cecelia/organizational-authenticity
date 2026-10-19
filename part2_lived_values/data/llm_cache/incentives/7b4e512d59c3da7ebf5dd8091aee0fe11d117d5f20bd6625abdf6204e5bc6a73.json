@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0000019617-26-000096",
+  "task": "incentives",
+  "section_words": 12594,
+  "section_method": "heading",
+  "cache_key": "7b4e512d59c3da7ebf5dd8091aee0fe11d117d5f20bd6625abdf6204e5bc6a73",
+  "est_input_tokens": 28287
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30599,
+  "output_tokens": 1017,
+  "request_id": "req_011CgCJUhiprXC3mdcChvAxt"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC applies ~50% weighting to its consideration of absolute and relative Business Results"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "~50% weighting to its qualitative consideration of Client/Customer/Stakeholder; Risk, Controls & Conduct; and Teamwork & Leadership"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk, Controls & Conduct; and Teamwork & Leadership (how they have accomplished results)"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teamwork & Leadership (how they have accomplished results)"
+   },
+   {
+    "metric": "Absolute and relative ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSU payout ... based on absolute and relative average ROTCE; payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "Risk, control & conduct features (protection-based vesting, clawback)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Awards subject to reduction/cancellation/clawback based on risk, control & conduct features (including protection-based vesting)"
+   },
+   {
+    "metric": "Minimum Risk-based Hurdle (CET1 capital ratio at least 8%)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the Firm's CET1 capital ratio is less than 8% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ]
+ }
+}

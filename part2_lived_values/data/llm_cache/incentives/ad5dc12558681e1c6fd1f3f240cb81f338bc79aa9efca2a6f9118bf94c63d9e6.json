@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2025,
+  "accession": "0001193125-25-072811",
+  "task": "incentives",
+  "section_words": 8171,
+  "section_method": "heading",
+  "cache_key": "ad5dc12558681e1c6fd1f3f240cb81f338bc79aa9efca2a6f9118bf94c63d9e6",
+  "est_input_tokens": 18887
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21274,
+  "output_tokens": 320,
+  "request_id": "req_011CgCJYTYuM3n6Bj9bCJfp7"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee chose to use adjusted diluted EPS as the performance criterion for the CEBP"
+   },
+   {
+    "metric": "ROTCE divided by COE (ROTCE exceeds COE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee approved a target performance goal based on the extent to which ROTCE exceeds COE for the three-year performance period from January 1, 2024 through December 31, 2026"
+   }
+  ]
+ }
+}

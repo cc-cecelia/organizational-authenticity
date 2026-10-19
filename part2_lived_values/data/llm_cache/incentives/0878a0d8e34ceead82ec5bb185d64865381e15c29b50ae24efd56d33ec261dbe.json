@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0000072971-26-000200",
+  "task": "incentives",
+  "section_words": 13316,
+  "section_method": "heading",
+  "cache_key": "0878a0d8e34ceead82ec5bb185d64865381e15c29b50ae24efd56d33ec261dbe",
+  "est_input_tokens": 31219
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 32024,
+  "output_tokens": 4328,
+  "request_id": "req_011CgCJVDu34SqfiimK2UNzV"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC considered financial and non-financial performance criteria in evaluating 2025 Company performance."
+   },
+   {
+    "metric": "Return on Tangible Common Equity (ROTCE)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We achieved our prior ROTCE1 target of 15%"
+   },
+   {
+    "metric": "Risk, Regulatory, & Control",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC focused on our NEOs' progress in enhancing our risk and control infrastructure"
+   },
+   {
+    "metric": "Successfully closed 14 regulatory orders since 2019",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Successfully closed 14 regulatory orders since 2019"
+   },
+   {
+    "metric": "Customer-Centric Culture & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer-Centric Culture & Conduct"
+   },
+   {
+    "metric": "Talent & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Talent & Leadership"
+   },
+   {
+    "metric": "Technology & Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Technology & Innovation"
+   },
+   {
+    "metric": "Operational Excellence",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operational Excellence"
+   },
+   {
+    "metric": "Community & Stakeholder Engagement",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Community & Stakeholder Engagement"
+   },
+   {
+    "metric": "Sustainable finance activities",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reported our progress of approximately $264 billion in sustainable finance activities"
+   },
+   {
+    "metric": "Absolute ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year average absolute ROTCE (weighted 75%)"
+   },
+   {
+    "metric": "Relative ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year average relative ROTCE (weighted 25%)"
+   },
+   {
+    "metric": "Relative TSR performance modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR 1 performance modifier adjusts the ultimate payout by 20% (positively or negatively)"
+   }
+  ]
+ }
+}

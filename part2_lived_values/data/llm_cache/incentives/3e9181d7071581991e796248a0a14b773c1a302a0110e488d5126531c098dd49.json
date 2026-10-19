@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2025,
+  "accession": "0001308179-25-000511",
+  "task": "incentives",
+  "section_words": 7342,
+  "section_method": "heading",
+  "cache_key": "3e9181d7071581991e796248a0a14b773c1a302a0110e488d5126531c098dd49",
+  "est_input_tokens": 15436
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18656,
+  "output_tokens": 1016,
+  "request_id": "req_011CgCJPnMzXwndjs8vHhwWa"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "TSR relative to S&P 100 (PSU performance goals)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Alphabet's TSR for the three-year performance period was 22.55%, which ranked Alphabet's TSR at the 49.49th percentile of the S&P 100."
+   }
+  ]
+ }
+}

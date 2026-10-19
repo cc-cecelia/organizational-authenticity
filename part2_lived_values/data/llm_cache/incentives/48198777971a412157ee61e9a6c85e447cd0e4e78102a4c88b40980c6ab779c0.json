@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0001193125-25-075101",
+  "task": "incentives",
+  "section_words": 11114,
+  "section_method": "heading",
+  "cache_key": "48198777971a412157ee61e9a6c85e447cd0e4e78102a4c88b40980c6ab779c0",
+  "est_input_tokens": 25460
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26838,
+  "output_tokens": 1440,
+  "request_id": "req_011CgCJbFn4g2YENWXQVmXzd"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Organic revenue growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth | 35% | 156.4% | 54.7%"
+   },
+   {
+    "metric": "Adjusted net income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Net Income | 30% | 186.7% | 56.0%"
+   },
+   {
+    "metric": "Free cash flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow | 5% | 200.0% | 10.0%"
+   },
+   {
+    "metric": "Non-financial strategic performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-financial | 30% | 100.0% | 30.0%"
+   },
+   {
+    "metric": "Advancing our strategic position",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Support our communities through colleague involvement and STEM education"
+   },
+   {
+    "metric": "Position Company to drive meaningful growth in revenue and adjusted operating income through the strategic plan horizon",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Improve Customer Allegiance Score (CAS) vs. 2023"
+   },
+   {
+    "metric": "Effectively execute capital deployment strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Successfully close and integrate Olink"
+   },
+   {
+    "metric": "Organic revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (50%) (1)(2) | Adjusted EPS (50%) (1)(2)"
+   },
+   {
+    "metric": "Adjusted earnings per share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EPS (50%) (1)(2)"
+   },
+   {
+    "metric": "Total shareholder return",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Top Quartile (75 th percentile or greater) | +30% | +10%"
+   },
+   {
+    "metric": "Relative TSR metric (stock option awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "For maximum vesting of 100%, Thermo Fisher's TSR must rank in the top ten companies (i.e., top third)"
+   }
+  ]
+ }
+}

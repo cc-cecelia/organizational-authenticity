@@ -429,16 +429,6 @@ item_id,metric,category,true,emphasis,equal,ticker,filing_year,err_emphasis,err_
 3,Enterprise Strategic Goals,other,30.0,33.333,25.0,JNJ,2023,3.3329999999999984,5.0
 0,Enterprise financial goals (Operational sales),shareholders,70.0,50.0,50.0,JNJ,2024,20.0,20.0
 4,Enterprise long-term strategic goals,other,30.0,50.0,50.0,JNJ,2024,20.0,20.0
-0,"Business Results (absolute and relative multi-year financial performance: Managed Revenue, Pre-tax income ex. LLR, Net Income, ROTCE)",shareholders,50.0,33.333,25.0,JPM,2024,16.667,25.0
-1,"Risk, Controls & Conduct",integrity,50.0,22.222,25.0,JPM,2024,27.778,25.0
-4,Focus on customer experience,customers,0.0,4.444,5.0,JPM,2024,4.444,5.0
-5,Serving a diverse customer base,dei,0.0,4.444,5.0,JPM,2024,4.444,5.0
-6,Investing in and supporting our communities,community,0.0,4.444,5.0,JPM,2024,4.444,5.0
-7,Delivery on external DEI commitments,dei,0.0,4.444,5.0,JPM,2024,4.444,5.0
-8,Integrating environmental sustainability into business decisions,environment,0.0,4.444,5.0,JPM,2024,4.444,5.0
-9,"Creating an open, respectful, inclusive culture",employees,0.0,5.556,8.333,JPM,2024,5.556,8.333
-10,"Active attraction, retention, promotion and upskilling of talent",employees,0.0,11.111,8.333,JPM,2024,11.111,8.333
-11,Delivery on internal DEI initiatives,dei,0.0,5.556,8.333,JPM,2024,5.556,8.333
 0,Revenue performance,shareholders,25.0,33.333,33.333,LLY,2016,8.332999999999998,8.332999999999998
 1,EPS performance,shareholders,50.0,33.333,33.333,LLY,2016,16.667,16.667
 2,Pipeline progress,innovation,25.0,33.333,33.333,LLY,2016,8.332999999999998,8.332999999999998

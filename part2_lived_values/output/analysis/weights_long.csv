@@ -1978,19 +1978,19 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 14,long_term_incentive,ROTCE (absolute and relative average over three years),shareholders,,3,True,60.0,imputed_emphasis,JPM,2023
 15,long_term_incentive,CET1 capital ratio minimum risk-based hurdle,integrity,,2,True,40.0,imputed_emphasis,JPM,2023
 0,annual_incentive,"Business Results (absolute and relative multi-year financial performance: Managed Revenue, Pre-tax income ex. LLR, Net Income, ROTCE)",shareholders,,3,True,50.0,disclosed,JPM,2024
-1,annual_incentive,"Risk, Controls & Conduct",integrity,,3,False,50.0,disclosed,JPM,2024
-2,annual_incentive,Client/Customer/Stakeholder,customers,,3,False,0.0,disclosed,JPM,2024
-3,annual_incentive,Teamwork & Leadership,employees,,3,False,0.0,disclosed,JPM,2024
-4,annual_incentive,Focus on customer experience,customers,2.0,2,True,0.0,disclosed,JPM,2024
-5,annual_incentive,Serving a diverse customer base,dei,2.0,2,True,0.0,disclosed,JPM,2024
-6,annual_incentive,Investing in and supporting our communities,community,2.0,2,True,0.0,disclosed,JPM,2024
-7,annual_incentive,Delivery on external DEI commitments,dei,3.0,2,True,0.0,disclosed,JPM,2024
-8,annual_incentive,Integrating environmental sustainability into business decisions,environment,2.0,2,True,0.0,disclosed,JPM,2024
-9,annual_incentive,"Creating an open, respectful, inclusive culture",employees,3.0,2,True,0.0,disclosed,JPM,2024
-10,annual_incentive,"Active attraction, retention, promotion and upskilling of talent",employees,3.0,2,True,0.0,disclosed,JPM,2024
-11,annual_incentive,Delivery on internal DEI initiatives,dei,3.0,2,True,0.0,disclosed,JPM,2024
-12,annual_incentive,Sound governance and controls,integrity,1.0,2,True,25.0,imputed_emphasis,JPM,2024
-13,annual_incentive,"Focus on safety & security, including cyber",safety,1.0,2,True,25.0,imputed_emphasis,JPM,2024
+1,annual_incentive,"Risk, Controls & Conduct",integrity,,3,False,16.667,derived_from_stated_split,JPM,2024
+2,annual_incentive,Client/Customer/Stakeholder,customers,,3,False,16.667,derived_from_stated_split,JPM,2024
+3,annual_incentive,Teamwork & Leadership,employees,,3,False,16.667,derived_from_stated_split,JPM,2024
+4,annual_incentive,Focus on customer experience,customers,2.0,2,True,4.167,imputed_emphasis,JPM,2024
+5,annual_incentive,Serving a diverse customer base,dei,2.0,2,True,4.167,imputed_emphasis,JPM,2024
+6,annual_incentive,Investing in and supporting our communities,community,2.0,2,True,4.167,imputed_emphasis,JPM,2024
+7,annual_incentive,Delivery on external DEI commitments,dei,3.0,2,True,4.167,imputed_emphasis,JPM,2024
+8,annual_incentive,Integrating environmental sustainability into business decisions,environment,2.0,2,True,4.167,imputed_emphasis,JPM,2024
+9,annual_incentive,"Creating an open, respectful, inclusive culture",employees,3.0,2,True,4.167,imputed_emphasis,JPM,2024
+10,annual_incentive,"Active attraction, retention, promotion and upskilling of talent",employees,3.0,2,True,4.167,imputed_emphasis,JPM,2024
+11,annual_incentive,Delivery on internal DEI initiatives,dei,3.0,2,True,4.167,imputed_emphasis,JPM,2024
+12,annual_incentive,Sound governance and controls,integrity,1.0,2,True,8.333,imputed_emphasis,JPM,2024
+13,annual_incentive,"Focus on safety & security, including cyber",safety,1.0,2,True,8.333,imputed_emphasis,JPM,2024
 16,long_term_incentive,"Risk, control & conduct features (reduction, cancellation or clawback of PSUs)",integrity,,2,True,28.571,imputed_emphasis,JPM,2024
 14,long_term_incentive,ROTCE (absolute and relative average over three-year performance period),shareholders,,3,True,42.857,imputed_emphasis,JPM,2024
 15,long_term_incentive,CET1 capital ratio hurdle (downward adjustment if below 8%),integrity,,2,True,28.571,imputed_emphasis,JPM,2024

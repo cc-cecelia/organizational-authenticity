@@ -346,7 +346,7 @@ Result (annual incentive, 375 firm-years): 60 `disclosed`, 33
 to ~4-5% (2022-24); Energy reaches 12% environment and 11% safety in 2024.
 
 ### Masking test (validation of the imputation)
-Run on the 180 firm-years whose annual-incentive tier weights are fully
+Run on the 179 firm-years whose annual-incentive tier weights are fully
 disclosed. **Leakage control:** the CD&A and the item names are redacted so
 the answer cannot be read:
 - every digit, and every spelled-out number or fraction word, becomes `#`;
@@ -356,7 +356,7 @@ the answer cannot be read:
 
 A first, looser redaction (digits only) was audited and failed: 26 of 180
 documents still contained phrases like "fifty percent", and 155 contained
-"equal". The strict version leaves **zero** such cues in all 180 documents.
+"equal". The strict version leaves **zero** such cues in all 180 documents audited.
 Masked calls are cached separately; their fingerprint includes the redaction
 version. Weights are rebuilt from the masked structure by (a) an equal split
 within every tier and (b) emphasis. They are compared with the disclosed truth
@@ -365,12 +365,14 @@ stated split), so tiers with unweighted named sub-criteria still count.
 
 | MAE, percentage points | n | Equal split | Emphasis |
 |---|---|---|---|
-| Items with known weight | 799 | 10.20 | **9.55** |
-| Categories carrying weight | 424 | 9.82 | **9.69** |
-| Same, excluding shareholders | 246 | 9.16 | **8.99** |
+| Items with known weight | 789 | 10.21 | **9.56** |
+| Categories carrying weight | 417 | 9.74 | **9.64** |
+| Same, excluding shareholders | 240 | 9.08 | **8.91** |
 
-Per firm-year, emphasis beats the equal split in 66, loses in 38 and ties in
-76 (sign test p = 0.008). An equal split is exactly right in only 9%.
+Per firm-year, emphasis beats the equal split in 65, loses in 38 and ties in
+76 (sign test p = 0.010). An equal split is exactly right in only 9%. (Rerun
+after the JPM 2024 override below, which moved JPM 2024 out of the
+fully-disclosed set.)
 
 **Reading.** Emphasis is a modest but significant improvement at the item
 level (-6% MAE). At the category level the gain is small (-1%), because most
@@ -387,6 +389,39 @@ roughly ±10 pp item-level error. Part 3 should treat it as an approximation:
 run sensitivity checks restricted to `disclosed` and
 `derived_from_stated_split` rows, and prefer within-firm changes over
 cross-firm levels.
+
+## Manual extraction overrides (`data/extraction_overrides.csv`)
+Documented corrections, applied by `llm_extract.py` after reading the cache,
+so the model output and the cache stay untouched. Each override names the
+value it expects to replace; if the extracted value differs, the run stops,
+so a stale override never applies silently. Every application is logged.
+
+| Firm-year | Correction | Why |
+|---|---|---|
+| JPM 2024 | "Risk, Controls & Conduct": weight 50% → none, `weight_of` plan_total → none, application weighted → holistic_factor | The source says "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customer/client/stakeholder and teamwork & leadership": the 50% covers the three dimensions together. Attaching it to one dimension gave the other two, and their DEI, environment and customer criteria, 0%. After the fix the weight layer splits the 50% across the three by emphasis: DEI 12.5% (was 0%). Found in the Part 4 review; a scan of all firm-years found no other instance. |
+
+## Out-of-sample extension: filing years 2025-2026
+`P2_EXTENSION=2025_2026` runs the unchanged pipeline (same rules, CIK
+overrides and flags) on filing years 2025-2026 and writes everything to
+`output/extension_2025_2026/`. The 2016-2024 panel and Part 3's inputs are
+untouched. Purpose: Part 4's timing test, because 2023-2024 filings report pay
+plans designed before the June 2023 SFFA ruling.
+
+```bash
+export P2_EXTENSION=2025_2026
+python part2_lived_values/src/download_proxies.py
+python part2_lived_values/src/text_measures.py
+python part2_lived_values/src/llm_extract.py --tasks incentives
+```
+- Coverage: 98 of 100 firm-years. MSFT 2026 (files in late October) and TSLA
+  2026 had not been filed when the SEC filing lists were cached
+  (2026-10-19). Flagged: SLB 2025 (special-meeting proxy excluded) and PSX
+  2025 (contested election, DEFC14A).
+- BLK: the 2024 holding-company reorganisation moved proxy filing to the new
+  BlackRock, Inc. (CIK 2012383) from 2025. It is now part of BLK's CIK chain;
+  it has no definitive proxy before 2025, so the 2016-2024 panel is unchanged.
+- The CD&A length guard needs a firm's other years, so with two years it is
+  inactive in the extension.
 
 ## Known limitations
 - `company_tickers.json` is a current snapshot. Ticker reuse or registrant changes

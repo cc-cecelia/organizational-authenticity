@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0000059478-26-000029",
+  "task": "incentives",
+  "section_words": 5785,
+  "section_method": "heading",
+  "cache_key": "98f4a1a4e3754988ad96b5ba3afb367dc8e009070a83aa8321042a8ee5bc2916",
+  "est_input_tokens": 14215
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15946,
+  "output_tokens": 1267,
+  "request_id": "req_011CgCJZran3mWSDz1WRMXrK"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Product revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee maintained the Bonus Plan's three equally weighted measures for 2025: product revenue, EPS, and pipeline progress."
+   },
+   {
+    "metric": "EPS performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS performance | 33.3%"
+   },
+   {
+    "metric": "Pipeline progression",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline progression | 33.3%"
+   },
+   {
+    "metric": "Discovery / Early Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Discovery / Early Development: Output from discovery, entries into clinical development, and early-phase clinical readouts"
+   },
+   {
+    "metric": "Late Development / Regulatory",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Late Development / Regulatory: Entries into registrational studies, Phase 3 readouts, and regulatory outcomes"
+   },
+   {
+    "metric": "Business Development / Strategic Initiatives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Business Development / Strategic Initiatives: Entries into Lilly R&D portfolio from business development and achievement of strategic priorities"
+   },
+   {
+    "metric": "Game Changer Events",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Game Changer Events: Study readouts that achieve significant scientific advances and generate substantial value for Lilly and patients"
+   },
+   {
+    "metric": "Shareholder Value Awards (SVA) share price relative to cost of capital",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each NEO's stock target is allocated equally between SVAs (50%) and RVAs (50%)."
+   },
+   {
+    "metric": "Relative Value Awards (RVA) three-year TSR relative to peers",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each NEO's stock target is allocated equally between SVAs (50%) and RVAs (50%)."
+   }
+  ]
+ }
+}

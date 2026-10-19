@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0001558370-25-003537",
+  "task": "incentives",
+  "section_words": 9443,
+  "section_method": "heading",
+  "cache_key": "c8bbf4081d43b28a20dced9ee5827d7cca5546991caa4093d8b96229ce372702",
+  "est_input_tokens": 19385
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24044,
+  "output_tokens": 4997,
+  "request_id": "req_011CgCJakQUYXEMY1wgf164M"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Non-GAAP Income Before Taxes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "B. Non - GAAP Income Before Taxes $24.4 BN $23.5 BN 96% $24.6 BN 105%"
+   },
+   {
+    "metric": "Platform Revenue, Operating Margin, and Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "metric": "Platform Revenue",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Platform Revenue is a non-GAAP metric comprised of net revenues less total Humira sales"
+   },
+   {
+    "metric": "Operating Margin",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "D. Non - GAAP Operating Margin $25.7 BN (3) $25.3 BN 98% $26.2 BN"
+   },
+   {
+    "metric": "Return on Assets",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "C. Adjusted Return on Assets 20.6% 20.7% 100% 22.2% 107%"
+   },
+   {
+    "metric": "ESG goal",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "metric": "Equity, equality, diversity, and inclusion (EEDI) strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the equity, equality, diversity, and inclusion (EEDI) strategy"
+   },
+   {
+    "metric": "Strategic and leadership goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each NEO achieved or exceeded their 2024 strategic and leadership goals"
+   },
+   {
+    "metric": "2024 Adjusted Diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Performance Shares"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR is measured over a 3 - year performance period and used as a modifier"
+   },
+   {
+    "metric": "Relative ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Performance-Vested Restricted Stock Units"
+   }
+  ]
+ }
+}

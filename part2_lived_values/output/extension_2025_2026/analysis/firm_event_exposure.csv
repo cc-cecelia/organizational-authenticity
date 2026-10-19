@@ -1,0 +1,301 @@
+ticker,sector,event_id,event_date,first_exposed_filing_year,first_exposed_filing_date
+AAPL,Technology,racial_justice_2020,2020-05-25,2025,2025-01-10
+AAPL,Technology,sec_human_capital_2020,2020-11-09,2025,2025-01-10
+AAPL,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-01-10
+AAPL,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-01-10
+AAPL,Technology,esg_backlash_2022,2022-08-01,2025,2025-01-10
+AAPL,Technology,sffa_2023,2023-06-29,2025,2025-01-10
+ABBV,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-24
+ABBV,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-24
+ABBV,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-24
+ABBV,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-24
+ABBV,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-24
+ABBV,Healthcare,sffa_2023,2023-06-29,2025,2025-03-24
+ABT,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-14
+ABT,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-14
+ABT,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-14
+ABT,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-14
+ABT,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-14
+ABT,Healthcare,sffa_2023,2023-06-29,2025,2025-03-14
+AMZN,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-04-10
+AMZN,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-04-10
+AMZN,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-10
+AMZN,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-04-10
+AMZN,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-04-10
+AMZN,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-04-10
+AVGO,Technology,racial_justice_2020,2020-05-25,2025,2025-03-03
+AVGO,Technology,sec_human_capital_2020,2020-11-09,2025,2025-03-03
+AVGO,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-03
+AVGO,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-03-03
+AVGO,Technology,esg_backlash_2022,2022-08-01,2025,2025-03-03
+AVGO,Technology,sffa_2023,2023-06-29,2025,2025-03-03
+AXP,Financials,racial_justice_2020,2020-05-25,2025,2025-03-14
+AXP,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-14
+AXP,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-14
+AXP,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-14
+AXP,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-14
+AXP,Financials,sffa_2023,2023-06-29,2025,2025-03-14
+BAC,Financials,racial_justice_2020,2020-05-25,2025,2025-03-10
+BAC,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-10
+BAC,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-10
+BAC,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-10
+BAC,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-10
+BAC,Financials,sffa_2023,2023-06-29,2025,2025-03-10
+BLK,Financials,racial_justice_2020,2020-05-25,2025,2025-04-04
+BLK,Financials,sec_human_capital_2020,2020-11-09,2025,2025-04-04
+BLK,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-04
+BLK,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-04-04
+BLK,Financials,esg_backlash_2022,2022-08-01,2025,2025-04-04
+BLK,Financials,sffa_2023,2023-06-29,2025,2025-04-04
+BMY,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-26
+BMY,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-26
+BMY,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-26
+BMY,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-26
+BMY,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-26
+BMY,Healthcare,sffa_2023,2023-06-29,2025,2025-03-26
+BRK.B,Financials,racial_justice_2020,2020-05-25,2025,2025-03-14
+BRK.B,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-14
+BRK.B,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-14
+BRK.B,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-14
+BRK.B,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-14
+BRK.B,Financials,sffa_2023,2023-06-29,2025,2025-03-14
+C,Financials,racial_justice_2020,2020-05-25,2025,2025-03-18
+C,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-18
+C,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-18
+C,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-18
+C,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-18
+C,Financials,sffa_2023,2023-06-29,2025,2025-03-18
+COP,Energy,racial_justice_2020,2020-05-25,2025,2025-03-31
+COP,Energy,sec_human_capital_2020,2020-11-09,2025,2025-03-31
+COP,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-31
+COP,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-03-31
+COP,Energy,esg_backlash_2022,2022-08-01,2025,2025-03-31
+COP,Energy,sffa_2023,2023-06-29,2025,2025-03-31
+CRM,Technology,racial_justice_2020,2020-05-25,2025,2025-04-24
+CRM,Technology,sec_human_capital_2020,2020-11-09,2025,2025-04-24
+CRM,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-24
+CRM,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-04-24
+CRM,Technology,esg_backlash_2022,2022-08-01,2025,2025-04-24
+CRM,Technology,sffa_2023,2023-06-29,2025,2025-04-24
+CVX,Energy,racial_justice_2020,2020-05-25,2025,2025-04-09
+CVX,Energy,sec_human_capital_2020,2020-11-09,2025,2025-04-09
+CVX,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-09
+CVX,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-04-09
+CVX,Energy,esg_backlash_2022,2022-08-01,2025,2025-04-09
+CVX,Energy,sffa_2023,2023-06-29,2025,2025-04-09
+EOG,Energy,racial_justice_2020,2020-05-25,2025,2025-03-28
+EOG,Energy,sec_human_capital_2020,2020-11-09,2025,2025-03-28
+EOG,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-28
+EOG,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-03-28
+EOG,Energy,esg_backlash_2022,2022-08-01,2025,2025-03-28
+EOG,Energy,sffa_2023,2023-06-29,2025,2025-03-28
+F,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-03-28
+F,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-03-28
+F,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-28
+F,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-03-28
+F,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-03-28
+F,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-03-28
+GOOGL,Technology,racial_justice_2020,2020-05-25,2025,2025-04-25
+GOOGL,Technology,sec_human_capital_2020,2020-11-09,2025,2025-04-25
+GOOGL,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-25
+GOOGL,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-04-25
+GOOGL,Technology,esg_backlash_2022,2022-08-01,2025,2025-04-25
+GOOGL,Technology,sffa_2023,2023-06-29,2025,2025-04-25
+GS,Financials,racial_justice_2020,2020-05-25,2025,2025-03-14
+GS,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-14
+GS,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-14
+GS,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-14
+GS,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-14
+GS,Financials,sffa_2023,2023-06-29,2025,2025-03-14
+HAL,Energy,racial_justice_2020,2020-05-25,2025,2025-04-01
+HAL,Energy,sec_human_capital_2020,2020-11-09,2025,2025-04-01
+HAL,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-01
+HAL,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-04-01
+HAL,Energy,esg_backlash_2022,2022-08-01,2025,2025-04-01
+HAL,Energy,sffa_2023,2023-06-29,2025,2025-04-01
+HD,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-04-07
+HD,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-04-07
+HD,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-07
+HD,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-04-07
+HD,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-04-07
+HD,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-04-07
+IBM,Technology,racial_justice_2020,2020-05-25,2025,2025-03-10
+IBM,Technology,sec_human_capital_2020,2020-11-09,2025,2025-03-10
+IBM,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-10
+IBM,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-03-10
+IBM,Technology,esg_backlash_2022,2022-08-01,2025,2025-03-10
+IBM,Technology,sffa_2023,2023-06-29,2025,2025-03-10
+INTC,Technology,racial_justice_2020,2020-05-25,2025,2025-03-27
+INTC,Technology,sec_human_capital_2020,2020-11-09,2025,2025-03-27
+INTC,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-27
+INTC,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-03-27
+INTC,Technology,esg_backlash_2022,2022-08-01,2025,2025-03-27
+INTC,Technology,sffa_2023,2023-06-29,2025,2025-03-27
+JNJ,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-12
+JNJ,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-12
+JNJ,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-12
+JNJ,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-12
+JNJ,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-12
+JNJ,Healthcare,sffa_2023,2023-06-29,2025,2025-03-12
+JPM,Financials,racial_justice_2020,2020-05-25,2025,2025-04-07
+JPM,Financials,sec_human_capital_2020,2020-11-09,2025,2025-04-07
+JPM,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-07
+JPM,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-04-07
+JPM,Financials,esg_backlash_2022,2022-08-01,2025,2025-04-07
+JPM,Financials,sffa_2023,2023-06-29,2025,2025-04-07
+LLY,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-21
+LLY,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-21
+LLY,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-21
+LLY,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-21
+LLY,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-21
+LLY,Healthcare,sffa_2023,2023-06-29,2025,2025-03-21
+LOW,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-04-17
+LOW,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-04-17
+LOW,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-17
+LOW,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-04-17
+LOW,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-04-17
+LOW,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-04-17
+MCD,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-04-07
+MCD,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-04-07
+MCD,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-07
+MCD,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-04-07
+MCD,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-04-07
+MCD,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-04-07
+MDT,Healthcare,racial_justice_2020,2020-05-25,2025,2025-08-25
+MDT,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-08-25
+MDT,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-08-25
+MDT,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-08-25
+MDT,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-08-25
+MDT,Healthcare,sffa_2023,2023-06-29,2025,2025-08-25
+META,Technology,racial_justice_2020,2020-05-25,2025,2025-04-17
+META,Technology,sec_human_capital_2020,2020-11-09,2025,2025-04-17
+META,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-17
+META,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-04-17
+META,Technology,esg_backlash_2022,2022-08-01,2025,2025-04-17
+META,Technology,sffa_2023,2023-06-29,2025,2025-04-17
+MPC,Energy,racial_justice_2020,2020-05-25,2025,2025-03-17
+MPC,Energy,sec_human_capital_2020,2020-11-09,2025,2025-03-17
+MPC,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-17
+MPC,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-03-17
+MPC,Energy,esg_backlash_2022,2022-08-01,2025,2025-03-17
+MPC,Energy,sffa_2023,2023-06-29,2025,2025-03-17
+MRK,Healthcare,racial_justice_2020,2020-05-25,2025,2025-04-09
+MRK,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-04-09
+MRK,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-09
+MRK,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-04-09
+MRK,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-04-09
+MRK,Healthcare,sffa_2023,2023-06-29,2025,2025-04-09
+MS,Financials,racial_justice_2020,2020-05-25,2025,2025-04-04
+MS,Financials,sec_human_capital_2020,2020-11-09,2025,2025-04-04
+MS,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-04
+MS,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-04-04
+MS,Financials,esg_backlash_2022,2022-08-01,2025,2025-04-04
+MS,Financials,sffa_2023,2023-06-29,2025,2025-04-04
+MSFT,Technology,racial_justice_2020,2020-05-25,2025,2025-10-21
+MSFT,Technology,sec_human_capital_2020,2020-11-09,2025,2025-10-21
+MSFT,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-10-21
+MSFT,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-10-21
+MSFT,Technology,esg_backlash_2022,2022-08-01,2025,2025-10-21
+MSFT,Technology,sffa_2023,2023-06-29,2025,2025-10-21
+NKE,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-07-17
+NKE,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-07-17
+NKE,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-07-17
+NKE,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-07-17
+NKE,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-07-17
+NKE,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-07-17
+NVDA,Technology,racial_justice_2020,2020-05-25,2025,2025-05-13
+NVDA,Technology,sec_human_capital_2020,2020-11-09,2025,2025-05-13
+NVDA,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-05-13
+NVDA,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-05-13
+NVDA,Technology,esg_backlash_2022,2022-08-01,2025,2025-05-13
+NVDA,Technology,sffa_2023,2023-06-29,2025,2025-05-13
+ORCL,Technology,racial_justice_2020,2020-05-25,2025,2025-09-26
+ORCL,Technology,sec_human_capital_2020,2020-11-09,2025,2025-09-26
+ORCL,Technology,nasdaq_board_diversity_2021,2021-08-06,2025,2025-09-26
+ORCL,Technology,engine_no1_xom_2021,2021-05-26,2025,2025-09-26
+ORCL,Technology,esg_backlash_2022,2022-08-01,2025,2025-09-26
+ORCL,Technology,sffa_2023,2023-06-29,2025,2025-09-26
+OXY,Energy,racial_justice_2020,2020-05-25,2025,2025-03-20
+OXY,Energy,sec_human_capital_2020,2020-11-09,2025,2025-03-20
+OXY,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-20
+OXY,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-03-20
+OXY,Energy,esg_backlash_2022,2022-08-01,2025,2025-03-20
+OXY,Energy,sffa_2023,2023-06-29,2025,2025-03-20
+PFE,Healthcare,racial_justice_2020,2020-05-25,2025,2025-03-13
+PFE,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-03-13
+PFE,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-13
+PFE,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-03-13
+PFE,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-03-13
+PFE,Healthcare,sffa_2023,2023-06-29,2025,2025-03-13
+PSX,Energy,racial_justice_2020,2020-05-25,2025,2025-04-08
+PSX,Energy,sec_human_capital_2020,2020-11-09,2025,2025-04-08
+PSX,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-08
+PSX,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-04-08
+PSX,Energy,esg_backlash_2022,2022-08-01,2025,2025-04-08
+PSX,Energy,sffa_2023,2023-06-29,2025,2025-04-08
+SBUX,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-01-24
+SBUX,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-01-24
+SBUX,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-01-24
+SBUX,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-01-24
+SBUX,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-01-24
+SBUX,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-01-24
+SCHW,Financials,racial_justice_2020,2020-05-25,2025,2025-04-04
+SCHW,Financials,sec_human_capital_2020,2020-11-09,2025,2025-04-04
+SCHW,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-04
+SCHW,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-04-04
+SCHW,Financials,esg_backlash_2022,2022-08-01,2025,2025-04-04
+SCHW,Financials,sffa_2023,2023-06-29,2025,2025-04-04
+SLB,Energy,racial_justice_2020,2020-05-25,2025,2025-02-20
+SLB,Energy,sec_human_capital_2020,2020-11-09,2025,2025-02-20
+SLB,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-02-20
+SLB,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-02-20
+SLB,Energy,esg_backlash_2022,2022-08-01,2025,2025-02-20
+SLB,Energy,sffa_2023,2023-06-29,2025,2025-02-20
+TGT,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-04-28
+TGT,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-04-28
+TGT,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-28
+TGT,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-04-28
+TGT,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-04-28
+TGT,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-04-28
+TJX,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-05-01
+TJX,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-05-01
+TJX,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-05-01
+TJX,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-05-01
+TJX,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-05-01
+TJX,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-05-01
+TMO,Healthcare,racial_justice_2020,2020-05-25,2025,2025-04-08
+TMO,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-04-08
+TMO,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-08
+TMO,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-04-08
+TMO,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-04-08
+TMO,Healthcare,sffa_2023,2023-06-29,2025,2025-04-08
+TSLA,Consumer Discretionary,racial_justice_2020,2020-05-25,2025,2025-09-17
+TSLA,Consumer Discretionary,sec_human_capital_2020,2020-11-09,2025,2025-09-17
+TSLA,Consumer Discretionary,nasdaq_board_diversity_2021,2021-08-06,2025,2025-09-17
+TSLA,Consumer Discretionary,engine_no1_xom_2021,2021-05-26,2025,2025-09-17
+TSLA,Consumer Discretionary,esg_backlash_2022,2022-08-01,2025,2025-09-17
+TSLA,Consumer Discretionary,sffa_2023,2023-06-29,2025,2025-09-17
+UNH,Healthcare,racial_justice_2020,2020-05-25,2025,2025-04-21
+UNH,Healthcare,sec_human_capital_2020,2020-11-09,2025,2025-04-21
+UNH,Healthcare,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-21
+UNH,Healthcare,engine_no1_xom_2021,2021-05-26,2025,2025-04-21
+UNH,Healthcare,esg_backlash_2022,2022-08-01,2025,2025-04-21
+UNH,Healthcare,sffa_2023,2023-06-29,2025,2025-04-21
+VLO,Energy,racial_justice_2020,2020-05-25,2025,2025-03-18
+VLO,Energy,sec_human_capital_2020,2020-11-09,2025,2025-03-18
+VLO,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-18
+VLO,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-03-18
+VLO,Energy,esg_backlash_2022,2022-08-01,2025,2025-03-18
+VLO,Energy,sffa_2023,2023-06-29,2025,2025-03-18
+WFC,Financials,racial_justice_2020,2020-05-25,2025,2025-03-19
+WFC,Financials,sec_human_capital_2020,2020-11-09,2025,2025-03-19
+WFC,Financials,nasdaq_board_diversity_2021,2021-08-06,2025,2025-03-19
+WFC,Financials,engine_no1_xom_2021,2021-05-26,2025,2025-03-19
+WFC,Financials,esg_backlash_2022,2022-08-01,2025,2025-03-19
+WFC,Financials,sffa_2023,2023-06-29,2025,2025-03-19
+XOM,Energy,racial_justice_2020,2020-05-25,2025,2025-04-07
+XOM,Energy,sec_human_capital_2020,2020-11-09,2025,2025-04-07
+XOM,Energy,nasdaq_board_diversity_2021,2021-08-06,2025,2025-04-07
+XOM,Energy,engine_no1_xom_2021,2021-05-26,2025,2025-04-07
+XOM,Energy,esg_backlash_2022,2022-08-01,2025,2025-04-07
+XOM,Energy,sffa_2023,2023-06-29,2025,2025-04-07

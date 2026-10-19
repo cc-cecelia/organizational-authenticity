@@ -161,9 +161,13 @@ def select_items(met: pd.DataFrame) -> pd.DataFrame:
 
 
 def fingerprint(prompt: str) -> str:
-    payload = json.dumps({"model": config.LLM_MODEL, "effort": config.LLM_EFFORT, "layer": LAYER_VERSION,
-                          "redaction": REDACTION_VERSION if "[w]" in prompt else None,
-                          "system": SYSTEM, "prompt": prompt, "schema": SCHEMA}, sort_keys=True)
+    key = {"model": config.LLM_MODEL, "effort": config.LLM_EFFORT, "layer": LAYER_VERSION,
+           "system": SYSTEM, "prompt": prompt, "schema": SCHEMA}
+    # Redaction version only for masked prompts: adding the key to unmasked
+    # prompts would change every production fingerprint and force re-calls.
+    if "[w]" in prompt:
+        key["redaction"] = REDACTION_VERSION
+    payload = json.dumps(key, sort_keys=True)
     return hashlib.sha256(payload.encode()).hexdigest()
 
 

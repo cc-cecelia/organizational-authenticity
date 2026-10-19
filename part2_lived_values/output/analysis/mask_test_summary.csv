@@ -1,5 +1,5 @@
 level,subset,n,mae_equal_pp,mae_emphasis_pp
-item,all known-weight items,799,10.2,9.55
-category,all 10 categories (incl. true zeros),1800,2.31,2.28
-category,categories carrying weight,424,9.82,9.69
-category,"carrying, excluding shareholders",246,9.16,8.99
+item,all known-weight items,789,10.21,9.56
+category,all 10 categories (incl. true zeros),1790,2.27,2.24
+category,categories carrying weight,417,9.74,9.64
+category,"carrying, excluding shareholders",240,9.08,8.91

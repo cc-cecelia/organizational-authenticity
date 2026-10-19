@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0001193125-26-117433",
+  "task": "incentives",
+  "section_words": 14101,
+  "section_method": "heading",
+  "cache_key": "f8240f9f23d12a863477f83b3e6d11d78725a2c8827fb38d5b0d6180f91120f7",
+  "est_input_tokens": 32564
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 34166,
+  "output_tokens": 1917,
+  "request_id": "req_011CgCJVU3avQGpVzsYbLgEt"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Assessment Framework: Financial Performance (ROE, ROTE, Efficiency ratio, TSR, CET1 ratio, BVPS growth, Pre-tax earnings, Net revenues, EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee assesses performance in a holistic manner, guided by its Assessment Framework (using metrics determined in early 2025), without ascribing specific weight to any single factor or metric"
+   },
+   {
+    "metric": "Assessment Framework: Strategic Priorities & Clients",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Progress towards our strategic objectives; Cross-business strategy / collaboration in support of One Goldman Sachs; Strength of client feedback"
+   },
+   {
+    "metric": "Assessment Framework: Risk Management & Controls",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Standing with regulators; Risk \u2013 including: Management across categories; Internal Audit findings; Compliance, conduct and disciplinary matters"
+   },
+   {
+    "metric": "Assessment Framework: People & Culture",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued focus on the firm's Core Values, including through: Talent Lifecycle; Culture & Morale; Leadership Development"
+   },
+   {
+    "metric": "Progress towards our strategic objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Progress towards our strategic objectives"
+   },
+   {
+    "metric": "Strength of client feedback",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strength of client feedback"
+   },
+   {
+    "metric": "Standing with regulators",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Standing with regulators"
+   },
+   {
+    "metric": "Compliance, conduct and disciplinary matters",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compliance, conduct and disciplinary matters"
+   },
+   {
+    "metric": "Culture & Morale",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture & Morale"
+   },
+   {
+    "metric": "Year-End PSUs (absolute and relative ROE)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2026-2028, using absolute and relative metrics"
+   },
+   {
+    "metric": "Carried Interest Program (fund performance and firm ROE/CET1 distribution conditions)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "No distributions (other than tax distributions) will be paid to participants for a year in which the firm's ROE is less than 5% or its CET1 ratio falls below regulatory minimums"
+   },
+   {
+    "metric": "Shareholder Value Creation Awards (cumulative absolute and relative TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   },
+   {
+    "metric": "Year-End PSUs (absolute and relative ROE) granted January 2026",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs granted in January 2026 will settle in 2029 (when final information regarding applicable Peer performance is available)"
+   }
+  ]
+ }
+}

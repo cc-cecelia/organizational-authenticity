@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001308179-26-000342",
+  "task": "incentives",
+  "section_words": 4414,
+  "section_method": "heading",
+  "cache_key": "1c746d511047f05055c15a7f2df41620c45a1d70ef4cce6de37f5c2d5a396ac8",
+  "est_input_tokens": 10553
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12325,
+  "output_tokens": 2234,
+  "request_id": "req_011CgCJPqFsaQCGWbJwafsH9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative total shareholder return (TSR) vs S&P 100 companies, 2025-2027 PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU payout depends on Alphabet's relative total shareholder return relative to S&P 100 companies (TSR)."
+   },
+   {
+    "metric": "Relative TSR vs S&P 100 companies, 2026-2028 PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "The PSU payout depends on Alphabet's TSR."
+   },
+   {
+    "metric": "Waymo Bet Performance Units (increase in per unit value)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "ceo",
+    "evidence": "will vest, if at all, based on Waymo LLC's and Wing Aviation LLC's increase in per unit value over a target three-year period"
+   },
+   {
+    "metric": "Wing Bet Performance Units (increase in per unit value)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "ceo",
+    "evidence": "will vest, if at all, based on Waymo LLC's and Wing Aviation LLC's increase in per unit value over a target three-year period"
+   }
+  ]
+ }
+}

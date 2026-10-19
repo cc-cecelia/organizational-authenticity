@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0000059478-25-000107",
+  "task": "incentives",
+  "section_words": 7309,
+  "section_method": "heading",
+  "cache_key": "dae8526fa7aa22f02069a82798e30d7113e79eb71e4bcf368c5dca30668697c9",
+  "est_input_tokens": 17167
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18776,
+  "output_tokens": 3307,
+  "request_id": "req_011CgCJZn8dAB7hz9nWKiwyN"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Product revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee updated the Bonus Plan for 2024, which now equally weights product revenue, EPS, and pipeline progress."
+   },
+   {
+    "metric": "EPS performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product revenue | 33.3% EPS performance | 33.3% Pipeline progression | 33.3%"
+   },
+   {
+    "metric": "Pipeline progression",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the pipeline scorecard measures progress across the following categories"
+   },
+   {
+    "metric": "Discovery and Early Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Discovery and Early Development: Output from Discovery, entries into clinical development, and early phase clinical readouts"
+   },
+   {
+    "metric": "Late Development and Regulatory",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Late Development and Regulatory: Entries into registrational studies, Phase 3 readouts, and regulatory outcomes"
+   },
+   {
+    "metric": "Business Development / Strategic Initiatives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Business Development / Strategic Initiatives: Entries into Lilly R&D portfolio from business development and achievement of strategic priorities"
+   },
+   {
+    "metric": "Game Changer Events",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Game Changer Events: Study readouts (events) that achieve significant scientific advances and generate substantial value for Lilly and patients"
+   },
+   {
+    "metric": "Shareholder Value Award (share price growth versus cost of capital)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with 50 percent allocated to shareholder value awards and 50 percent allocated to relative value awards"
+   },
+   {
+    "metric": "Relative Value Award (three-year TSR relative to peer group)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative value awards are earned based on Lilly's three-year TSR performance relative to our industry peer group."
+   },
+   {
+    "metric": "Two-year cumulative EPS growth relative to peer group (2023-2025 performance award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payout is based on the company's two-year growth in EPS relative to the median external analyst-anticipated peer group EPS growth."
+   }
+  ]
+ }
+}

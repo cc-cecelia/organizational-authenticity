@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2026,
+  "accession": "0001206774-26-000185",
+  "task": "incentives",
+  "section_words": 2433,
+  "section_method": "heading",
+  "cache_key": "b2e7a07583710db514b6b1fdec927061d3270c3e6957cdbdd391fd664effe8bf",
+  "est_input_tokens": 6224
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8196,
+  "output_tokens": 1527,
+  "request_id": "req_011CgCJZoPXbvvQcBVMYqP3a"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial Pillar",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The goals fall into four performance pillars: Financial, Risk and Control, Client and Franchise, and Leadership."
+   },
+   {
+    "metric": "Risk and Control Pillar",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "covered employees can receive adjustments to their incentive awards in amounts ranging from negative 100% to positive 25% of total compensation to reflect their performance rating for the Risk and Control Pillar."
+   },
+   {
+    "metric": "Client and Franchise Pillar",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The goals fall into four performance pillars: Financial, Risk and Control, Client and Franchise, and Leadership."
+   },
+   {
+    "metric": "Leadership Pillar",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The goals fall into four performance pillars: Financial, Risk and Control, Client and Franchise, and Leadership."
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2025,
+  "accession": "0001108524-25-000009",
+  "task": "incentives",
+  "section_words": 16603,
+  "section_method": "opening_sentence",
+  "cache_key": "b494c4c00dd5316e3fb7d22cb39026fae3ef6e7de3230f2d228be6d22eb3cbcc",
+  "est_input_tokens": 37884
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 40019,
+  "output_tokens": 884,
+  "request_id": "req_011CgCJQh33k5jfVCcoJ8NNw"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee approved the following three equally weighted Company financial performance metrics: revenue, operating cash flow, and non-GAAP income from operations"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted Company financial performance metrics: revenue, operating cash flow, and non-GAAP income from operations"
+   },
+   {
+    "metric": "Non-GAAP Income from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted Company financial performance metrics: revenue, operating cash flow, and non-GAAP income from operations"
+   },
+   {
+    "metric": "Non-GAAP Operating Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-GAAP Operating Margin PRSUs | 50% | FY25 | FY26 | FY27 | Earned PRSUs Cliff Vest March 2027"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR PRSUs | 50% Goals established at grant"
+   },
+   {
+    "metric": "Performance Options Agentforce and Data Cloud metric",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Introduced performance options for all NEOs, earned based on attainment against a one-year Agentforce and Data Cloud performance metric"
+   }
+  ]
+ }
+}

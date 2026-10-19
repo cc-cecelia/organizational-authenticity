@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2025,
+  "accession": "0001326801-25-000040",
+  "task": "incentives",
+  "section_words": 6685,
+  "section_method": "heading",
+  "cache_key": "0338e9e05e923c80b7badcc615b85aac8186ceb1bcd65e5856f2781d8dc6a5ac",
+  "est_input_tokens": 15689
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16023,
+  "output_tokens": 1111,
+  "request_id": "req_011CgCJPvXNafBwpSKgUJRno"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Build awesome things.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Build awesome things. | Make our business successful. | Make progress on societal issues related to our business. | Go out and tell our story."
+   },
+   {
+    "metric": "Make our business successful.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   },
+   {
+    "metric": "Make progress on societal issues related to our business.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Make progress on societal issues related to our business."
+   },
+   {
+    "metric": "Go out and tell our story.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Go out and tell our story."
+   }
+  ]
+ }
+}

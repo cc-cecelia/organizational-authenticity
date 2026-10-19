@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "7cbdebb666029d5ca33f0913dacd4d5d34ee0250aeccc9bbf0889af8accfc688",
+  "est_input_tokens": 9272
+ },
+ "usage": {
+  "input_tokens": 10632,
+  "output_tokens": 284
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net income growth (#) \u2022 Relative net income growth vs. tech peers (#) \u2022 Operational goals (#)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative net income growth vs. tech peers (#)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational goals (#)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR vs. S&P #IT Index (#) \u2022 Cumulative EPS growth compared to a target (#)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative EPS growth compared to a target (#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

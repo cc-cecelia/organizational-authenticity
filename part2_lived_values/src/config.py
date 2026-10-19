@@ -33,6 +33,18 @@ GAPS_OUT = OUTPUT_DIR / "coverage_gaps.csv"
 FIRST_YEAR = 2016
 LAST_YEAR = 2024
 
+# Out-of-sample extension (Part 4's timing test). P2_EXTENSION=2025_2026 runs the
+# same pipeline, rules and overrides on filing years 2025-2026 and writes every
+# output to output/extension_2025_2026/, leaving the 2016-2024 panel untouched.
+EXTENSION = os.environ.get("P2_EXTENSION", "")
+if EXTENSION:
+    FIRST_YEAR, LAST_YEAR = (int(x) for x in EXTENSION.split("_"))
+    OUTPUT_DIR = OUTPUT_DIR / f"extension_{EXTENSION}"
+    CIK_MAP_OUT = OUTPUT_DIR / "cik_map.csv"
+    MANIFEST_OUT = OUTPUT_DIR / "filings_manifest.csv"
+    COVERAGE_OUT = OUTPUT_DIR / "proxy_coverage.csv"
+    GAPS_OUT = OUTPUT_DIR / "coverage_gaps.csv"
+
 # Definitive proxy forms. In a contested director election (proxy fight)
 # the company's annual proxy is filed as DEFC14A instead of DEF 14A
 # (e.g. XOM 2021 vs Engine No. 1). Dissidents also file DEFC14A under the

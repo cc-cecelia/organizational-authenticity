@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0001104659-26-046125",
+  "task": "incentives",
+  "section_words": 11120,
+  "section_method": "heading",
+  "cache_key": "2f82352f182c6fafa1be6e877436fc70aab27d8905409a6b38843905d87fb012",
+  "est_input_tokens": 19986
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25804,
+  "output_tokens": 2090,
+  "request_id": "req_011CgCJaGsmEVDgRp9TP8RSq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Annual cash incentive awards are based on three financial metrics (revenue, operating income and cash flow from operations)"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income* | 30% | $32.7 billion | $38.5 billion | $44.3 billion"
+   },
+   {
+    "metric": "Cash Flow from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations* | 15% | $27.2 billion | $32.0 billion | $36.8 billion"
+   },
+   {
+    "metric": "NPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 12.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "absolute customer experience (NPS) and employee engagement (EXI)"
+   },
+   {
+    "metric": "EXI",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 12.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "NPS | 12.5% | 2025 Performance: Between threshold and target for NPS EXI | 12.5%"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share (three-year cumulative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Weighted equally between three-year cumulative adjusted earnings per share and three-year average return on equity"
+   },
+   {
+    "metric": "Return on Equity (three-year average)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Weighted equally between three-year cumulative adjusted earnings per share and three-year average return on equity"
+   }
+  ]
+ }
+}

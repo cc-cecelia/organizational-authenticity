@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2025,
+  "accession": "0000072971-25-000090",
+  "task": "incentives",
+  "section_words": 13184,
+  "section_method": "heading",
+  "cache_key": "e1cd2c2dd0e2f56b64fc0e1f1492c382b16183bbd3fb61294cba5e74269650ba",
+  "est_input_tokens": 30787
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31621,
+  "output_tokens": 3872,
+  "request_id": "req_011CgCJV29rWbTgdCSiD7bJ2"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 65,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "65% of Mr. Scharf's variable compensation should be determined by overall Company performance and 35% by Mr. Scharf's individual performance"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "65% of Mr. Scharf's variable compensation should be determined by overall Company performance and 35% by Mr. Scharf's individual performance"
+   },
+   {
+    "metric": "Risk, Regulatory, & Control",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Financial",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Operational Excellence",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Customer-Centric Culture & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Technology & Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Community Engagement",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Talent & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed 2024 Company performance using the following performance categories"
+   },
+   {
+    "metric": "Deliver on ESG priorities: sustainable finance deployment towards $500 billion by 2030",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "towards our goal to deploy $500 billion in sustainable finance by 2030"
+   },
+   {
+    "metric": "Three-year average absolute ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year average absolute ROTCE (weighted 75%)"
+   },
+   {
+    "metric": "Three-year average relative ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year average relative ROTCE (weighted 25%)"
+   },
+   {
+    "metric": "Relative TSR performance modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR performance modifier adjusts the ultimate payout by 20% (positively or negatively) if relative TSR results are above the 75 th percentile"
+   }
+  ]
+ }
+}

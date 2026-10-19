@@ -292,6 +292,38 @@ def flatten(runs: list) -> tuple:
     return pd.DataFrame(metrics), pd.DataFrame(proposals)
 
 
+def apply_overrides(df: pd.DataFrame, task: str) -> pd.DataFrame:
+    """Documented manual corrections (data/extraction_overrides.csv), applied after
+    reading the cache so model outputs and cache stay untouched. Each override must
+    match the extracted value it replaces (`expected`), otherwise the run stops:
+    a stale override never applies silently."""
+    path = config.DATA_DIR / "extraction_overrides.csv"
+    if not path.exists() or df.empty:
+        return df
+    ov = pd.read_csv(path, dtype=str, keep_default_na=False)
+    ov = ov[ov["task"] == task]
+    for o in ov.itertuples():
+        mask = ((df["ticker"] == o.ticker) & (df["filing_year"] == int(o.filing_year))
+                & (df["metric" if task == "incentives" else "title"] == o.metric))
+        if mask.sum() != 1:
+            if not ((df["ticker"] == o.ticker) & (df["filing_year"] == int(o.filing_year))).any():
+                continue   # firm-year not in this run (e.g. a --tickers subset or the extension)
+            raise RuntimeError(f"override matches {mask.sum()} rows: {o.ticker} {o.filing_year} {o.metric}")
+        cur = df.loc[mask, o.field].iloc[0]
+        if str(cur) != o.expected and not (pd.isna(cur) and o.expected == ""):
+            try:
+                same = float(cur) == float(o.expected)
+            except (TypeError, ValueError):
+                same = False
+            if not same:
+                raise RuntimeError(f"override expected {o.field}={o.expected!r}, found {cur!r}: "
+                                   f"{o.ticker} {o.filing_year} {o.metric}")
+        new = None if o.new == "" else (float(o.new) if o.field == "weight_pct" else o.new)
+        df.loc[mask, o.field] = new
+        print(f"  override applied: {o.ticker} {o.filing_year} {o.metric} {o.field}: {cur!r} -> {new!r}")
+    return df
+
+
 def firm_year_aggregates(runs_df: pd.DataFrame, met: pd.DataFrame, prop: pd.DataFrame) -> pd.DataFrame:
     """One row per firm-year: incentive emphasis and proposal pressure by category."""
     keys = ["ticker", "sector", "filing_year"]
@@ -416,6 +448,8 @@ def main(argv=None) -> int:
     if args.dry_run:
         return 0
     met, prop = flatten(runs)
+    met = apply_overrides(met, "incentives")
+    prop = apply_overrides(prop, "proposals")
     met.to_csv(out / "incentive_metrics.csv", index=False)
     prop.to_csv(out / "shareholder_proposals.csv", index=False)
     firm_year_aggregates(runs_df, met, prop).to_csv(out / "llm_firm_year.csv", index=False)

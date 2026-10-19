@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2026,
+  "accession": "0001628280-26-025532",
+  "task": "incentives",
+  "section_words": 6480,
+  "section_method": "heading",
+  "cache_key": "ec92d680bdd6ce84eb9834f0cc21a163bf83b0c7a45f70444d5ed7c5ef166e69",
+  "est_input_tokens": 15332
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15611,
+  "output_tokens": 1291,
+  "request_id": "req_011CgCJQBvLJa7p9UBRcrHTS"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Build awesome things.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Build awesome things. | Make our business successful. | Make progress on societal issues related to our business. | Go out and tell our story."
+   },
+   {
+    "metric": "Make our business successful.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Build awesome things. | Make our business successful. | Make progress on societal issues related to our business. | Go out and tell our story."
+   },
+   {
+    "metric": "Make progress on societal issues related to our business.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Make progress on societal issues related to our business."
+   },
+   {
+    "metric": "Go out and tell our story.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Go out and tell our story."
+   }
+  ]
+ }
+}

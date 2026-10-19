@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2025,
+  "accession": "0001193125-25-220801",
+  "task": "incentives",
+  "section_words": 10081,
+  "section_method": "heading",
+  "cache_key": "6bdba27e4c2d39a6e6d989ef0fb576d8ab2f26858c9dc1cb29b6d05470b8ffe4",
+  "est_input_tokens": 22989
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25210,
+  "output_tokens": 3170,
+  "request_id": "req_011CgCJR25HCRhcwh9r7EPg5"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-over-year growth in non-GAAP operating income (Executive Bonus Plan)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The annual cash bonuses, if any, payable to Ms. Catz and Messrs. Ellison, Henley and Screven are based solely on financial performance tied to growth in non-GAAP operating income."
+   },
+   {
+    "metric": "$80 stock price goal (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Oracle's average stock price was $80 or more for 30 calendar days ending in June 2021, thereby satisfying the PSO stock price goal"
+   },
+   {
+    "metric": "Market capitalization goals (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Oracle's market capitalization increased by more than $100 billion compared to the baseline market capitalization set in fiscal 2018"
+   },
+   {
+    "metric": "Non-GAAP total SaaS revenues of $10 billion in a fiscal year (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the operational goal of attaining $10 billion in non-GAAP total SaaS revenues in a fiscal year;"
+   },
+   {
+    "metric": "Non-GAAP PaaS/IaaS gross margins of at least 30% for three of eight fiscal years (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the operational goal of maintaining non-GAAP PaaS/IaaS gross margins of at least 30% for three of the eight fiscal years;"
+   },
+   {
+    "metric": "Non-GAAP total cloud revenues of $20 billion in a fiscal year (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "attaining $20 billion in non-GAAP total cloud revenues in a fiscal year (fourth tranche)"
+   },
+   {
+    "metric": "Non-GAAP total PaaS and IaaS revenues of $10 billion in a fiscal year (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "attaining $10 billion in non-GAAP total PaaS and IaaS revenues in a fiscal year (fifth tranche)"
+   }
+  ]
+ }
+}

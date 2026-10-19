@@ -1,0 +1,51 @@
+ticker,company_name,sector,sec_ticker,sec_title,cik_from_tickers_json,cik_source,cik_note,cik,entity_name,former_names,earliest_filing,history_covers_window
+MSFT,Microsoft,Technology,MSFT,MICROSOFT CORP,789019,company_tickers.json,,789019,MICROSOFT CORP,,1994-02-14,True
+AAPL,Apple,Technology,AAPL,Apple Inc.,320193,company_tickers.json,,320193,Apple Inc.,APPLE INC; APPLE COMPUTER INC; APPLE COMPUTER INC/ FA,1994-01-26,True
+NVDA,NVIDIA,Technology,NVDA,NVIDIA CORP,1045810,company_tickers.json,,1045810,NVIDIA CORP,NVIDIA CORP/CA,1998-03-06,True
+GOOGL,Alphabet,Technology,GOOGL,Alphabet Inc.,1652044,company_tickers.json,,1652044,Alphabet Inc.,,2015-10-02,True
+META,Meta Platforms,Technology,META,"Meta Platforms, Inc.",1326801,company_tickers.json,,1326801,"Meta Platforms, Inc.",Facebook Inc,2005-05-06,True
+AVGO,Broadcom,Technology,AVGO,Broadcom Inc.,1730168,override,"Broadcom Pte. Ltd. (formerly Broadcom Limited, Singapore) filed the 2016-2018 proxies; company_tickers.json maps AVGO to Broadcom Inc., created by the April 2018 US redomiciliation. | Broadcom Inc. (Delaware), registrant from 2018; files the 2019-2024 proxies.",1649338;1730168,Broadcom Pte. Ltd. ; Broadcom Inc.,Broadcom Ltd; Pavonia Ltd ; Broadcom Ltd,2015-07-29,True
+CRM,Salesforce,Technology,CRM,"Salesforce, Inc.",1108524,company_tickers.json,,1108524,"Salesforce, Inc.","SALESFORCE.COM, INC.; SALESFORCE COM INC",2003-12-18,True
+ORCL,Oracle,Technology,ORCL,ORACLE CORP,1341439,company_tickers.json,,1341439,ORACLE CORP,Ozark Holding Inc.,2005-10-19,True
+IBM,IBM,Technology,IBM,INTERNATIONAL BUSINESS MACHINES CORP,51143,company_tickers.json,,51143,INTERNATIONAL BUSINESS MACHINES CORP,,1994-03-10,True
+INTC,Intel,Technology,INTC,INTEL CORP,50863,company_tickers.json,,50863,INTEL CORP,,1994-02-10,True
+BRK.B,Berkshire Hathaway,Financials,BRK-B,BERKSHIRE HATHAWAY INC,1067983,company_tickers.json,,1067983,BERKSHIRE HATHAWAY INC,NBH INC,1998-08-10,True
+JPM,JPMorgan Chase,Financials,JPM,JPMORGAN CHASE & CO,19617,company_tickers.json,,19617,JPMORGAN CHASE & CO,JPMORGAN CHASE & CO; J P MORGAN CHASE & CO; CHASE MANHATTAN CORP /DE/; CHEMICAL BANKING CORP,1994-01-20,True
+BAC,Bank of America,Financials,BAC,BANK OF AMERICA CORP /DE/,70858,company_tickers.json,,70858,BANK OF AMERICA CORP /DE/,BANKAMERICA CORP/DE/; NATIONSBANK CORP,1994-02-22,True
+WFC,Wells Fargo,Financials,WFC,WELLS FARGO & COMPANY/MN,72971,company_tickers.json,,72971,WELLS FARGO & COMPANY/MN,WELLS FARGO & CO/MN; NORWEST CORP,1994-01-12,True
+GS,Goldman Sachs,Financials,GS,GOLDMAN SACHS GROUP INC,886982,company_tickers.json,,886982,GOLDMAN SACHS GROUP INC,GOLDMAN SACHS GROUP INC/,1998-08-24,True
+MS,Morgan Stanley,Financials,MS,MORGAN STANLEY,895421,company_tickers.json,,895421,MORGAN STANLEY,MORGAN STANLEY; MORGAN STANLEY; MORGAN STANLEY DEAN WITTER & CO; MORGAN STANLEY DEAN WITTER DISCOVER & CO; DEAN WITTER DISCOVER & CO,1993-11-08,True
+BLK,BlackRock,Financials,BLK,"BlackRock, Inc.",2012383,override,"company_tickers.json maps BLK to CIK 2012383, the holding company created in the 2024 GIP acquisition (first filing 2024-02). 2016-2024 proxies were filed by the original BlackRock, Inc., since renamed BlackRock Finance, Inc., CIK 1364742. | BlackRock, Inc. (new holding company formed in the 2024 GIP acquisition); files the proxies from 2025. No definitive proxy before 2025, so the 2016-2024 panel is unchanged.",1364742;2012383,"BlackRock Finance, Inc. ; BlackRock, Inc.","BlackRock Inc.; BlackRock, Inc.; New BlackRock, Inc. ; BlackRock, Inc.; BlackRock Funding, Inc. /DE",2006-06-09,True
+SCHW,Charles Schwab,Financials,SCHW,SCHWAB CHARLES CORP,316709,company_tickers.json,,316709,SCHWAB CHARLES CORP,,1994-02-14,True
+AXP,American Express,Financials,AXP,AMERICAN EXPRESS CO,4962,company_tickers.json,,4962,AMERICAN EXPRESS CO,,1994-01-25,True
+C,Citigroup,Financials,C,CITIGROUP INC,831001,company_tickers.json,,831001,CITIGROUP INC,CITIGROUP INC; TRAVELERS GROUP INC; TRAVELERS INC,1994-01-05,True
+LLY,Eli Lilly,Healthcare,LLY,ELI LILLY & Co,59478,company_tickers.json,,59478,ELI LILLY & Co,LILLY ELI & CO; LILLY ELI & CO ET AL,1994-02-08,True
+UNH,UnitedHealth Group,Healthcare,UNH,UNITEDHEALTH GROUP INC,731766,company_tickers.json,,731766,UNITEDHEALTH GROUP INC,UNITED HEALTHCARE CORP,1995-02-02,True
+JNJ,Johnson & Johnson,Healthcare,JNJ,JOHNSON & JOHNSON,200406,company_tickers.json,,200406,JOHNSON & JOHNSON,JOHNSON & JOHNSON ET AL,1994-03-10,True
+ABBV,AbbVie,Healthcare,ABBV,AbbVie Inc.,1551152,company_tickers.json,,1551152,AbbVie Inc.,,2012-06-04,True
+MRK,Merck,Healthcare,MRK,"Merck & Co., Inc.",310158,company_tickers.json,,310158,"Merck & Co., Inc.",Merck & Co. Inc.; SCHERING PLOUGH CORP,1994-03-07,True
+TMO,Thermo Fisher Scientific,Healthcare,TMO,THERMO FISHER SCIENTIFIC INC.,97745,company_tickers.json,,97745,THERMO FISHER SCIENTIFIC INC.,THERMO ELECTRON CORP,1994-02-14,True
+ABT,Abbott Laboratories,Healthcare,ABT,ABBOTT LABORATORIES,1800,company_tickers.json,,1800,ABBOTT LABORATORIES,,1994-02-14,True
+PFE,Pfizer,Healthcare,PFE,PFIZER INC,78003,company_tickers.json,,78003,PFIZER INC,PFIZER INC,1994-03-18,True
+MDT,Medtronic,Healthcare,MDT,Medtronic plc,1613103,company_tickers.json,,1613103,Medtronic plc,Medtronic Ltd; Medtronic Holdings Ltd,2014-07-14,True
+BMY,Bristol-Myers Squibb,Healthcare,BMY,BRISTOL MYERS SQUIBB CO,14272,company_tickers.json,,14272,BRISTOL MYERS SQUIBB CO,,1994-03-15,True
+AMZN,Amazon,Consumer Discretionary,AMZN,AMAZON COM INC,1018724,company_tickers.json,,1018724,AMAZON COM INC,,1997-03-24,True
+TSLA,Tesla,Consumer Discretionary,TSLA,"Tesla, Inc.",1318605,company_tickers.json,,1318605,"Tesla, Inc.",TESLA MOTORS INC,2005-02-17,True
+HD,Home Depot,Consumer Discretionary,HD,"HOME DEPOT, INC.",354950,company_tickers.json,,354950,"HOME DEPOT, INC.",HOME DEPOT INC,1994-04-19,True
+MCD,McDonald's,Consumer Discretionary,MCD,MCDONALDS CORP,63908,company_tickers.json,,63908,MCDONALDS CORP,,1994-01-18,True
+NKE,Nike,Consumer Discretionary,NKE,"NIKE, Inc.",320187,company_tickers.json,,320187,"NIKE, Inc.",NIKE INC,1995-01-17,True
+SBUX,Starbucks,Consumer Discretionary,SBUX,STARBUCKS CORP,829224,company_tickers.json,,829224,STARBUCKS CORP,,1994-06-09,True
+TGT,Target,Consumer Discretionary,TGT,TARGET CORP,27419,company_tickers.json,,27419,TARGET CORP,DAYTON HUDSON CORP,1994-02-10,True
+LOW,Lowe's,Consumer Discretionary,LOW,LOWES COMPANIES INC,60667,company_tickers.json,,60667,LOWES COMPANIES INC,,1994-01-10,True
+TJX,TJX Companies,Consumer Discretionary,TJX,TJX COMPANIES INC /DE/,109198,company_tickers.json,,109198,TJX COMPANIES INC /DE/,TJX COMPANIES INC /DE/,1994-02-14,True
+F,Ford Motor,Consumer Discretionary,F,FORD MOTOR CO,37996,company_tickers.json,,37996,FORD MOTOR CO,,1994-01-20,True
+XOM,ExxonMobil,Energy,XOM,ExxonMobil Holdings Corp,2115436,override,"company_tickers.json now maps XOM to CIK 2115436 (ExxonMobil Holdings Corp, first filing 2026-07). 2016-2024 proxies were filed by Exxon Mobil Corp, CIK 34088.",34088,EXXON MOBIL CORP,EXXON CORP,1994-03-04,True
+CVX,Chevron,Energy,CVX,CHEVRON CORP,93410,company_tickers.json,,93410,CHEVRON CORP,CHEVRONTEXACO CORP,1994-02-03,True
+COP,ConocoPhillips,Energy,COP,CONOCOPHILLIPS,1163165,company_tickers.json,,1163165,CONOCOPHILLIPS,CORVETTEPORSCHE CORP,2001-12-07,True
+EOG,EOG Resources,Energy,EOG,EOG RESOURCES INC,821189,company_tickers.json,,821189,EOG RESOURCES INC,ENRON OIL & GAS CO,1994-02-08,True
+SLB,SLB (Schlumberger),Energy,SLB,SLB LIMITED/NV,87347,company_tickers.json,,87347,SLB LIMITED/NV,SCHLUMBERGER LIMITED/NV; SCHLUMBERGER LTD /NV/; SCHLUMBERGER LTD /NY/,1996-05-15,True
+MPC,Marathon Petroleum,Energy,MPC,Marathon Petroleum Corp,1510295,company_tickers.json,,1510295,Marathon Petroleum Corp,,2011-01-25,True
+PSX,Phillips 66,Energy,PSX,Phillips 66,1534701,company_tickers.json,,1534701,Phillips 66,,2011-11-14,True
+VLO,Valero Energy,Energy,VLO,VALERO ENERGY CORP/TX,1035002,company_tickers.json,,1035002,VALERO ENERGY CORP/TX,VALERO REFINING & MARKETING CO,1997-05-13,True
+OXY,Occidental Petroleum,Energy,OXY,OCCIDENTAL PETROLEUM CORP /DE/,797468,company_tickers.json,,797468,OCCIDENTAL PETROLEUM CORP /DE/,,1995-01-11,True
+HAL,Halliburton,Energy,HAL,HALLIBURTON CO,45012,company_tickers.json,,45012,HALLIBURTON CO,,1994-01-25,True

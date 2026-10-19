@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0000200406-25-000099",
+  "task": "incentives",
+  "section_words": 10195,
+  "section_method": "heading",
+  "cache_key": "e85ee2886f53538923b559f51c895d7908415a720210457c71df5a7eec5bdfd0",
+  "est_input_tokens": 23230
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24531,
+  "output_tokens": 3254,
+  "request_id": "req_011CgCJaTYTgWinuczLu1tiF"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Enterprise financial goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2024 annual incentive payouts for our named executive officers were based 70% on Enterprise financial goals and 30% on Enterprise strategic goals."
+   },
+   {
+    "metric": "Operational sales",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our operational sales and adjusted operational EPS financial targets align with the guidance we provided to the investment community."
+   },
+   {
+    "metric": "Adjusted operational EPS",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our operational sales and adjusted operational EPS financial targets align with the guidance we provided to the investment community."
+   },
+   {
+    "metric": "Free cash flow",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "At the Enterprise level, we exceeded our operational sales, adjusted operational EPS, and our free cash flow goals."
+   },
+   {
+    "metric": "Enterprise strategic goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee determines the strategic payout factor within a range of 0% to 200% based on its evaluation of performance versus our strategic objectives."
+   },
+   {
+    "metric": "Critical business objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Critical business objectives: We performed strongly against our product pipeline value and innovation platform goals."
+   },
+   {
+    "metric": "Enabling our purpose: human capital management goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We made substantial progress against our human capital management goals, enhancing our talent pipeline and succession planning"
+   },
+   {
+    "metric": "Enabling our purpose: quality and compliance objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "metric": "Enabling our purpose: key safety goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We achieved all of our key safety goals."
+   },
+   {
+    "metric": "Enabling our purpose: global sustainability goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We exceeded our global sustainability goals and continued to advance our efforts to fight global public health challenges."
+   },
+   {
+    "metric": "Cumulative adjusted operational EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1/2 Earnings per share: three-year cumulative adjusted operational EPS. 1/2 Relative total shareholder return (TSR)"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1/2 Relative total shareholder return (TSR): three-year compound annual growth rate versus the competitor composite peer group."
+   }
+  ]
+ }
+}

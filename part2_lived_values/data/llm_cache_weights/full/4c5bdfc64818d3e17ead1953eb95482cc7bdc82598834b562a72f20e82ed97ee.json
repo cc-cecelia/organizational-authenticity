@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "4c5bdfc64818d3e17ead1953eb95482cc7bdc82598834b562a72f20e82ed97ee",
+  "est_input_tokens": 15641
+ },
+ "usage": {
+  "input_tokens": 16803,
+  "output_tokens": 604
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share | 20%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Revenues, Income Before Taxes, Operating Margin, Humira Sales, and Return on Assets | 20% to 60%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Revenues | 0% to 200% of target"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Margin | 0% to 200% of target"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "R&D/Biosimilars | 0% to 50%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Business Development | 0% to 20%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Other (including strategic initiatives, etc.) | 0% to 30%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The qualitative assessment reflects NEOs' overall leadership, progress on strategic initiatives, advancement of the pipeline, and enhancement of AbbVie's biopharmaceutical culture."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the committee considers all financial and non-financial goals holistically, without specific weightings, when evaluating CEO performance."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance-vested restricted stock was 75% of the total long-term incentive (LTI) value delivered to the NEOs in 2015."
+   }
+  ],
+  "equal_split": []
+ }
+}

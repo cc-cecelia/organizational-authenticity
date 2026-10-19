@@ -3,3 +3,4 @@ XOM,34088,"company_tickers.json now maps XOM to CIK 2115436 (ExxonMobil Holdings
 AVGO,1649338,"Broadcom Pte. Ltd. (formerly Broadcom Limited, Singapore) filed the 2016-2018 proxies; company_tickers.json maps AVGO to Broadcom Inc., created by the April 2018 US redomiciliation."
 AVGO,1730168,"Broadcom Inc. (Delaware), registrant from 2018; files the 2019-2024 proxies."
 BLK,1364742,"company_tickers.json maps BLK to CIK 2012383, the holding company created in the 2024 GIP acquisition (first filing 2024-02). 2016-2024 proxies were filed by the original BlackRock, Inc., since renamed BlackRock Finance, Inc., CIK 1364742."
+BLK,2012383,"BlackRock, Inc. (new holding company formed in the 2024 GIP acquisition); files the proxies from 2025. No definitive proxy before 2025, so the 2016-2024 panel is unchanged."

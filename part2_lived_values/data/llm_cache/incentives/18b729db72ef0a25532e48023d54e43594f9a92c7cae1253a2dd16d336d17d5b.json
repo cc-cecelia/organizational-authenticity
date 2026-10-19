@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2025,
+  "accession": "0001308179-25-000008",
+  "task": "incentives",
+  "section_words": 7674,
+  "section_method": "heading",
+  "cache_key": "18b729db72ef0a25532e48023d54e43594f9a92c7cae1253a2dd16d336d17d5b",
+  "est_input_tokens": 17960
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18823,
+  "output_tokens": 609,
+  "request_id": "req_011CgCJPcDYYYngvoYFKkzJk"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Annual Assessment of the Progress Across Apple Values and Key Community Initiatives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "it may apply a modifier to the preliminary payout opportunity of up to 10% upwards or downwards, or determine not to make any adjustment at all."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest, if any, depends entirely on Relative TSR for the applicable performance period."
+   }
+  ]
+ }
+}
