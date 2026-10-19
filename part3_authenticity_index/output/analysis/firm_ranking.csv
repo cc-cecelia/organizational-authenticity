@@ -2,9 +2,9 @@ ticker,sector,n,mean_A,mean_A_ex_sh,mean_unstated,flag
 SCHW,Financials,9,0.019,0.0,,
 NVDA,Technology,9,0.028,0.0,,
 CRM,Technology,8,0.088,0.067,0.333,
-GOOGL,Technology,8,0.117,0.0,,
 AMZN,Consumer Discretionary,3,0.14,0.0,,n<5
 ABT,Healthcare,9,0.143,0.143,0.75,
+GOOGL,Technology,8,0.153,0.041,0.444,
 HD,Consumer Discretionary,9,0.156,0.0,,
 AVGO,Technology,2,0.167,0.167,0.75,n<5
 HAL,Energy,9,0.181,0.165,0.45,

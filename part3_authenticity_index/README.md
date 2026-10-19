@@ -1,6 +1,6 @@
 # Part 3: Organizational Authenticity Index
 
-**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `f098411`, which includes the JPM 2024 weight correction). For page-year 2024 it also uses the 2025 proxies from Part 2's out-of-sample extension. The primary index covers **384 of 450 firm-years across 48 firms**. To reproduce:
+**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `8008c55`, which includes the JPM 2024 weight correction and the GOOGL and TJX recodes). For page-year 2024 it also uses the 2025 proxies from Part 2's out-of-sample extension. The primary index covers **384 of 450 firm-years across 48 firms**. To reproduce:
 
 ```
 .venv/bin/pip install -r part3_authenticity_index/requirements.txt
@@ -86,11 +86,11 @@ NaN reasons:
 ### Weight guard (added in the pilot, now removed) and the `other` residual
 - **Why the guard existed.** In the pilot, Part 2 parked nested weight splits in `other`. MSFT's 2019 to 2020 bonus was 50% "qualitative", split equally across customers, innovation and culture, and all of it was recorded as `other`. That made those categories read 0%, so Part 3 temporarily ignored any proxy-year with 5% or more in `other`.
 - **Why it was removed.** Part 2's weight layer now resolves nested splits (MSFT 2019: customers 15.8%, employees 8.3%, `other` 0%). `cat_weight_other` now holds only criteria that fit no stakeholder, and the index does not count them. The guard was therefore removed.
-- **What removing it changed.** The τ = 10% index is now defined for 350 firm-years instead of 253. The primary index is unchanged.
-- **Documented residual.** 136 of 375 proxy-years with weights (34 firms) still put 5% or more of the bonus in `other` (`output/analysis/other_residual.csv`, which lists each row's criteria).
+- **What removing it changed.** The τ = 10% index is now defined for 352 firm-years instead of 253. The primary index is unchanged.
+- **Documented residual.** 134 of 377 proxy-years with weights (33 firms) still put 5% or more of the bonus in `other` (`output/analysis/other_residual.csv`, which lists each row's criteria).
   - These are mostly individual-performance factors (META in all 9 years, IBM, NKE), team or operational components (INTC, MDT) and strategic projects (MS).
   - They lower weighted coverage only by leaving less of the plan for stakeholders, which is the intended reading.
-  - Two entries are coarse labels that may hide stakeholder content: GOOGL 2024's "Environmental, Social, and Governance Bonus" (100% `other`) and TJX's plan-name entries. A finer Part 2 coding could move them into categories.
+  - Two coarse labels flagged in an earlier run have since been recoded by Part 2 (commit `8008c55`). GOOGL's 2023 to 2024 "Environmental, Social, and Governance Bonus" is now split 50/50 into environment and community, and TJX's 2017 plan-name entry is now adjusted pre-tax income.
 
 ## Results (full panel: 48 firms, 384 firm-years)
 `output/analysis/results.md` holds every table, and figures are in `output/figures/`. Numbers below are for the primary index A (τ → 0) unless stated.
@@ -103,7 +103,7 @@ NaN reasons:
 - 2 firms have no index. AAPL has no page with codable values, and BRK.B has no pay-metric section to extract.
 
 **The rankings, and what they measure.** The full table is `output/analysis/firm_ranking.csv`. Firms with fewer than 5 firm-years are flagged **(n<5)**.
-- **Lowest firm means:** SCHW 0.02, NVDA 0.03, CRM 0.09, GOOGL 0.12, AMZN 0.14 (n<5), ABT 0.14 and HD 0.16.
+- **Lowest firm means:** SCHW 0.02, NVDA 0.03, CRM 0.09, AMZN 0.14 (n<5), ABT 0.14, GOOGL 0.15 and HD 0.16.
 - **Highest firm means:** EOG 1.00 (n<5), JPM 0.92, VLO 0.82, MSFT 0.82, WFC 0.75 and BLK 0.71.
 - **A measures whether stated values enter executive incentive design. It does not measure honesty in general.**
   - NVDA, SCHW and GOOGL score near 0 because their annual bonus is purely financial *by design*. Their pages state customers, innovation and community, and their pay philosophy deliberately ties executive incentives to financial results and equity value alone.
@@ -115,9 +115,9 @@ NaN reasons:
 - Energy (0.53) and Financials (0.53) score highest. Consumer Discretionary (0.31) and Technology (0.33) score lowest.
 - The year means range from 0.36 to 0.47, with no clear trend. 2023 (0.46) and 2024 (0.47) are the two highest years, a small late rise that two years cannot establish as a trend.
 
-**Weighted versions are lower:** mean 0.38 at τ = 5%, 0.34 at τ = 10% and 0.26 at τ = 20% (350 firm-years). Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
+**Weighted versions are lower:** mean 0.38 at τ = 5%, 0.34 at τ = 10% and 0.26 at τ = 20% (352 firm-years). Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
 
-**Sensitivity to τ** (46 firms, 350 firm-years with weights): the firm rankings are stable. Spearman correlations of firm mean A are 0.95 between τ → 0 and 5%, 0.92 with 10%, and 0.87 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
+**Sensitivity to τ** (46 firms, 352 firm-years with weights): the firm rankings are stable. Spearman correlations of firm mean A are 0.95 between τ → 0 and 5%, 0.92 with 10%, and 0.86 with 20%; across all pairs of thresholds they range from 0.86 to 0.98. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
 
 | Firm | Rank at τ → 0 | Rank at τ = 20% | n |
 |---|---|---|---|
@@ -173,7 +173,7 @@ NaN reasons:
    - Conversely, a firm can score high by adding a stakeholder line to a bonus scorecard while its practice is unchanged.
    - Read A as "incentive alignment of stated values", one observable channel through which a firm can make its stated values costly, not as a verdict on authenticity.
 2. **LLM label noise on both sides.** Salience (Part 1) and pay-criterion categories (Part 2) are single-model codings without temperature control. Both were hand-checked on samples, but re-sampling can move a category by ±1 salience or flip a borderline criterion's category. The index is a ratio over a few categories, so one flip can move a firm-year by 0.1 to 0.3. Firm-level means over years are more robust than single years.
-3. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights. 251 of the 350 firm-years with weights rest only on Part 2's `imputed_emphasis` weights, which are estimates; the stated-weights robustness check above shows where this matters (INTC, SLB). This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
+3. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights. 253 of the 352 firm-years with weights rest only on Part 2's `imputed_emphasis` weights, which are estimates; the stated-weights robustness check above shows where this matters (INTC, SLB). This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
 4. **Say-side coverage gaps and the page mix.**
    - 35 firm-years have no page (Part 1 gaps), and 9 pages state no codable value.
    - About pages and values pages differ systematically: values pages have higher total salience and more integrity and employees content. Comparisons across firms should control for `page_type`, which is what the discriminant check tests.

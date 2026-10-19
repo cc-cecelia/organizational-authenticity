@@ -7,12 +7,12 @@ Firm-years with A: 384; firms: 48.
 
 | measure | count | mean | std | min | 10% | 25% | 50% | 75% | 90% | max |
 |---|---|---|---|---|---|---|---|---|---|---|
-| A | 384.000 | 0.415 | 0.290 | 0.000 | 0.000 | 0.167 | 0.400 | 0.667 | 0.833 | 1.000 |
-| A_ex_shareholders | 381.000 | 0.359 | 0.306 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 0.778 | 1.000 |
-| unstated_backing | 287.000 | 0.193 | 0.289 | 0.000 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 1.000 |
-| A_tau5 | 350.000 | 0.384 | 0.279 | 0.000 | 0.000 | 0.165 | 0.355 | 0.596 | 0.773 | 1.000 |
-| A_tau10 | 350.000 | 0.335 | 0.250 | 0.000 | 0.000 | 0.158 | 0.306 | 0.499 | 0.686 | 1.000 |
-| A_tau20 | 350.000 | 0.261 | 0.200 | 0.000 | 0.000 | 0.121 | 0.241 | 0.359 | 0.511 | 1.000 |
+| A | 384.000 | 0.416 | 0.290 | 0.000 | 0.000 | 0.167 | 0.400 | 0.667 | 0.833 | 1.000 |
+| A_ex_shareholders | 381.000 | 0.360 | 0.306 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 0.778 | 1.000 |
+| unstated_backing | 290.000 | 0.196 | 0.288 | 0.000 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 1.000 |
+| A_tau5 | 352.000 | 0.384 | 0.278 | 0.000 | 0.000 | 0.162 | 0.351 | 0.587 | 0.772 | 1.000 |
+| A_tau10 | 352.000 | 0.335 | 0.249 | 0.000 | 0.000 | 0.158 | 0.304 | 0.499 | 0.686 | 1.000 |
+| A_tau20 | 352.000 | 0.261 | 0.199 | 0.000 | 0.000 | 0.124 | 0.241 | 0.358 | 0.510 | 1.000 |
 
 ### By sector
 | sector | n | firms | mean_A | median_A | mean_A_ex_sh | mean_unstated |
@@ -21,7 +21,7 @@ Firm-years with A: 384; firms: 48.
 | Energy | 76 | 10 | 0.533 | 0.533 | 0.461 | 0.216 |
 | Financials | 79 | 9 | 0.530 | 0.600 | 0.478 | 0.186 |
 | Healthcare | 85 | 10 | 0.365 | 0.333 | 0.331 | 0.202 |
-| Technology | 70 | 9 | 0.329 | 0.177 | 0.289 | 0.199 |
+| Technology | 70 | 9 | 0.333 | 0.225 | 0.294 | 0.217 |
 
 ### By year
 | year | n | mean_A | median_A | mean_A_ex_sh | mean_unstated |
@@ -32,9 +32,9 @@ Firm-years with A: 384; firms: 48.
 | 2019 | 42 | 0.383 | 0.333 | 0.329 | 0.205 |
 | 2020 | 44 | 0.402 | 0.357 | 0.348 | 0.179 |
 | 2021 | 45 | 0.363 | 0.333 | 0.305 | 0.159 |
-| 2022 | 44 | 0.415 | 0.425 | 0.370 | 0.180 |
-| 2023 | 41 | 0.460 | 0.500 | 0.422 | 0.189 |
-| 2024 | 40 | 0.471 | 0.500 | 0.425 | 0.185 |
+| 2022 | 44 | 0.417 | 0.425 | 0.372 | 0.189 |
+| 2023 | 41 | 0.463 | 0.500 | 0.425 | 0.193 |
+| 2024 | 40 | 0.473 | 0.500 | 0.427 | 0.195 |
 
 ## Firm ranking (mean A over firm-years)
 Firms flagged `n<5` rest on fewer than 5 firm-years; read their position with caution.
@@ -46,9 +46,9 @@ Lowest 8:
 | SCHW | Financials | 9 | 0.019 | 0.000 |  |  |
 | NVDA | Technology | 9 | 0.028 | 0.000 |  |  |
 | CRM | Technology | 8 | 0.088 | 0.067 | 0.333 |  |
-| GOOGL | Technology | 8 | 0.117 | 0.000 |  |  |
 | AMZN | Consumer Discretionary | 3 | 0.140 | 0.000 |  | n<5 |
 | ABT | Healthcare | 9 | 0.143 | 0.143 | 0.750 |  |
+| GOOGL | Technology | 8 | 0.153 | 0.041 | 0.444 |  |
 | HD | Consumer Discretionary | 9 | 0.156 | 0.000 |  |  |
 | AVGO | Technology | 2 | 0.167 | 0.167 | 0.750 | n<5 |
 
@@ -66,16 +66,16 @@ Highest 8:
 | GS | Financials | 9 | 0.672 | 0.617 | 0.171 |  |
 
 ## Sensitivity to τ
-Compared on the 350 firm-years (46 firms) where all four τ values are defined (the weighted versions need disclosed or imputed weights).
+Compared on the 352 firm-years (46 firms) where all four τ values are defined (the weighted versions need disclosed or imputed weights).
 
 Spearman rank correlation of firm rankings (firm mean A):
 
 |  | τ→0 | τ=5% | τ=10% | τ=20% |
 |---|---|---|---|---|
-| τ→0 | 1.000 | 0.953 | 0.923 | 0.865 |
-| τ=5% | 0.953 | 1.000 | 0.976 | 0.904 |
-| τ=10% | 0.923 | 0.976 | 1.000 | 0.963 |
-| τ=20% | 0.865 | 0.904 | 0.963 | 1.000 |
+| τ→0 | 1.000 | 0.948 | 0.918 | 0.863 |
+| τ=5% | 0.948 | 1.000 | 0.976 | 0.906 |
+| τ=10% | 0.918 | 0.976 | 1.000 | 0.963 |
+| τ=20% | 0.863 | 0.906 | 0.963 | 1.000 |
 
 Firms whose rank drops most as τ rises (token coverage: pay criteria exist but carry little weight):
 
@@ -83,14 +83,14 @@ Firms whose rank drops most as τ rises (token coverage: pay criteria exist but 
 |---|---|---|---|---|---|---|---|
 | TMO | 16.000 | 36.000 | 20.000 | 0.548 | 0.117 | 9 |  |
 | MSFT | 4.000 | 20.000 | 16.000 | 0.817 | 0.292 | 9 |  |
+| NKE | 31.000 | 46.000 | 15.000 | 0.262 | 0.009 | 7 |  |
 | SLB | 19.000 | 34.000 | 15.000 | 0.505 | 0.150 | 9 |  |
-| NKE | 31.000 | 45.000 | 14.000 | 0.262 | 0.009 | 7 |  |
 | TGT | 18.000 | 29.000 | 11.000 | 0.507 | 0.197 | 9 |  |
 | BMY | 15.000 | 23.000 | 8.000 | 0.580 | 0.237 | 7 |  |
-| IBM | 34.000 | 41.000 | 7.000 | 0.250 | 0.066 | 9 |  |
+| IBM | 34.000 | 42.000 | 8.000 | 0.250 | 0.066 | 9 |  |
 | WFC | 5.000 | 11.000 | 6.000 | 0.752 | 0.359 | 9 |  |
-| JNJ | 9.000 | 15.000 | 6.000 | 0.682 | 0.343 | 9 |  |
-| GOOGL | 43.000 | 46.000 | 3.000 | 0.138 | 0.000 | 2 | n<5 |
+| JNJ | 9.000 | 14.000 | 5.000 | 0.682 | 0.343 | 9 |  |
+| GOOGL | 36.000 | 39.000 | 3.000 | 0.216 | 0.096 | 3 | n<5 |
 
 ## Robustness: stated weights only
 The weighted index recomputed with only `disclosed` and `derived_from_stated_split` weights (Part 2's `imputed_emphasis` estimates excluded). Defined for 99 firm-years, 23 firms. Rankings compared on the same firm-years.
@@ -130,18 +130,17 @@ Firm means (τ = 10%):
 | ABT | 4 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 22.500 | 21.500 | n<5 |
 
 ## Residual: bonus weight on criteria with no stakeholder (`other` >= 5%)
-136 of 375 proxy-years with weights put >= 5% of the bonus on criteria that fit no stakeholder (34 firms; full list in `other_residual.csv`). These weights are not counted toward any category, so they lower weighted coverage only by leaving less weight for stakeholders; they are not unresolved splits.
+134 of 377 proxy-years with weights put >= 5% of the bonus on criteria that fit no stakeholder (33 firms; full list in `other_residual.csv`). These weights are not counted toward any category, so they lower weighted coverage only by leaving less weight for stakeholders; they are not unresolved splits.
 
 | ticker | years | mean_other | example |
 |---|---|---|---|
-| GOOGL | 1 | 1.00 | Environmental, Social, and Governance Bonus |
-| TJX | 2 | 0.64 | Fiscal 2017 MIP (Corporate) |
 | PFE | 2 | 0.59 | Annual operating, financial and strategic objectives |
 | META | 9 | 0.42 | Individual performance percentage; Overall performance, impact, and results; Lea |
 | NKE | 2 | 0.33 | Individual performance (Committee discretion to reduce or eliminate award) |
 | MDT | 1 | 0.31 | Team Performance; Individual Performance |
 | MS | 5 | 0.30 | Major infrastructure initiatives |
 | INTC | 6 | 0.29 | Operational Performance Component |
+| TJX | 1 | 0.29 | Key Business Priorities during the Pandemic; Operational Recovery |
 | IBM | 4 | 0.25 | Individual Contribution Factor (ICF); Factors beyond IBM's financial performance |
 | AVGO | 3 | 0.25 | Individual performance multiplier |
 | MRK | 1 | 0.25 | Individual performance |
@@ -218,12 +217,12 @@ OLS of A (τ→0) on page type, log page word count and sector, standard errors 
 
 | term | coef | se | p |
 |---|---|---|---|
-| Intercept | 0.576 | 0.230 | 0.012 |
-| C(page_type)[T.values] | 0.093 | 0.061 | 0.127 |
+| Intercept | 0.566 | 0.227 | 0.013 |
+| C(page_type)[T.values] | 0.095 | 0.060 | 0.115 |
 | C(sector)[T.Energy] | 0.231 | 0.071 | 0.001 |
 | C(sector)[T.Financials] | 0.234 | 0.091 | 0.010 |
-| C(sector)[T.Healthcare] | 0.054 | 0.071 | 0.453 |
-| C(sector)[T.Technology] | 0.045 | 0.105 | 0.665 |
-| log_words | -0.052 | 0.038 | 0.173 |
+| C(sector)[T.Healthcare] | 0.054 | 0.071 | 0.451 |
+| C(sector)[T.Technology] | 0.049 | 0.104 | 0.634 |
+| log_words | -0.050 | 0.038 | 0.182 |
 
-R² = 0.155 (adj. 0.141), n = 384 firm-years, 48 firms.
+R² = 0.154 (adj. 0.140), n = 384 firm-years, 48 firms.
