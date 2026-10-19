@@ -255,7 +255,7 @@ def select_year(cands: List[Candidate], year: int, allowed_domains: Set[str]
             try:
                 fetch = wayback.fetch_snapshot(cap["timestamp"], cap["original"])
             except wayback.WaybackError as exc:
-                attempts.append(Attempt(cand, cap, False, f"fetch_error: {exc}"[:200]))
+                attempts.append(Attempt(cand, cap, False, f"fetch_error: {exc.cause}"))
                 continue
             ok, reason, text, method = validate(fetch, cand, year, allowed_domains)
             att = Attempt(cand, cap, ok, reason, fetch, text, method)

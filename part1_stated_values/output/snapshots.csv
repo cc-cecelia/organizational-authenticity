@@ -1,0 +1,969 @@
+ticker,company_name,sector,year,status,gap_reason,page_type,page_source,page_group,page_url,page_switched,final_url,snapshot_timestamp,wayback_url,capture_status,redirected,extraction_method,word_count,text_sha1,page_text_clean
+MSFT,Microsoft,Technology,2016,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,http://www.microsoft.com:80/en-us/about/values,20160603075705,https://web.archive.org/web/20160603075705/http://www.microsoft.com:80/en-us/about/values,200,False,trafilatura,160,c4b7dfeaae30729edf80ec5c9d86411097bace24,"Learn about innovations from our computer science research organization. With more than 1,000 researchers in our labs, it’s one of the largest in the world.
+Explore how we maximize every person’s contribution—from our employees to our customers—so that the way we innovate naturally includes diverse thought.
+See how we work to be a responsible partner to those who place their trust in us, conducting business in a way that is inclusive, transparent, and respectful of human rights.
+Find out how we empower people by investing technology, money, employee talent, and the company’s voice in programs that promote digital inclusion.
+Discover how we lead the way in sustainability and use our technologies to minimize the impact of our operations and products.
+Check out how we deliver secure, private, and reliable computing experiences based on sound business practices.
+Microsoft Store
+Downloads
+Values
+- Contact us
+- Privacy and cookies
+- Terms of use
+- Trademarks
+- About our ads
+- © 2016 Microsoft"
+MSFT,Microsoft,Technology,2017,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20170701091106,https://web.archive.org/web/20170701091106/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,145,47d15afef8fb08f41472178112e2b69ca6dc9d4d,"What we value
+Learn about innovations from our computer science research organization. With more than 1,000 researchers in our labs, it’s one of the largest in the world.
+Explore how we maximize every person’s contribution—from our employees to our customers—so that the way we innovate naturally includes diverse thought.
+See how we work to be a responsible partner to those who place their trust in us, conducting business in a way that is inclusive, transparent, and respectful of human rights.
+Find out how we empower people by investing technology, money, employee talent, and the company’s voice in programs that promote digital inclusion.
+Discover how we lead the way in sustainability and use our technologies to minimize the impact of our operations and products.
+Check out how we deliver secure, private, and reliable computing experiences based on sound business practices."
+MSFT,Microsoft,Technology,2018,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,http://www.microsoft.com:80/en-us/about/values,20180624184503,https://web.archive.org/web/20180624184503/http://www.microsoft.com:80/en-us/about/values,200,False,trafilatura,145,47d15afef8fb08f41472178112e2b69ca6dc9d4d,"What we value
+Learn about innovations from our computer science research organization. With more than 1,000 researchers in our labs, it’s one of the largest in the world.
+Explore how we maximize every person’s contribution—from our employees to our customers—so that the way we innovate naturally includes diverse thought.
+See how we work to be a responsible partner to those who place their trust in us, conducting business in a way that is inclusive, transparent, and respectful of human rights.
+Find out how we empower people by investing technology, money, employee talent, and the company’s voice in programs that promote digital inclusion.
+Discover how we lead the way in sustainability and use our technologies to minimize the impact of our operations and products.
+Check out how we deliver secure, private, and reliable computing experiences based on sound business practices."
+MSFT,Microsoft,Technology,2019,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20190625180618,https://web.archive.org/web/20190625180618/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,190,46ab59a39f095b3def7f9d8d5485bfd104a62177,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate social responsibility
+See how we work to be a responsible partner to those who place their trust in us, conducting business in a way that is inclusive, transparent, and respectful of human rights.
+Philanthropies
+Find out how we empower people by investing technology, money, employee talent, and the company’s voice in programs that promote digital inclusion.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+Trustworthy Computing
+Check out how we deliver secure, private, and reliable computing experiences based on sound business practices."
+MSFT,Microsoft,Technology,2020,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20200630171905,https://web.archive.org/web/20200630171905/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,146,64bfd6c33c54176fceac8564289c3b0cda89360f,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate Social Responsibility
+We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more."
+MSFT,Microsoft,Technology,2021,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20210630123544,https://web.archive.org/web/20210630123544/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,201,e276560e316f531aabb6320fd5ec71626923cde2,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate Social Responsibility
+We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+Trustworthy Computing
+Responding to COVID-19 together
+As the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers."
+MSFT,Microsoft,Technology,2022,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20220628023304,https://web.archive.org/web/20220628023304/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,201,e276560e316f531aabb6320fd5ec71626923cde2,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate Social Responsibility
+We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+Trustworthy Computing
+Responding to COVID-19 together
+As the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers."
+MSFT,Microsoft,Technology,2023,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20230627101801,https://web.archive.org/web/20230627101801/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,201,e276560e316f531aabb6320fd5ec71626923cde2,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate Social Responsibility
+We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+Trustworthy Computing
+Responding to COVID-19 together
+As the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers."
+MSFT,Microsoft,Technology,2024,ok,,values,seed,microsoft.com/en-us/about/values,https://www.microsoft.com/en-us/about/values,False,https://www.microsoft.com/en-us/about/values,20240629114532,https://web.archive.org/web/20240629114532/https://www.microsoft.com/en-us/about/values,200,False,trafilatura,201,e276560e316f531aabb6320fd5ec71626923cde2,"What we value
+Our mission is to empower every person and every organization on the planet to achieve more.
+Innovation
+We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.
+Diversity and inclusion
+We thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.
+Corporate Social Responsibility
+We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.
+AI
+We believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.
+Trustworthy Computing
+Responding to COVID-19 together
+As the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers."
+JPM,JPMorgan Chase,Financials,2016,ok,,values,seed,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,False,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,20160425155827,https://web.archive.org/web/20160425155827/https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,200,False,trafilatura,333,7aaf68c71da8608f85fc620d3542ff07ba860682,"Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time. Adhering to each of these principles is how we will become the best and most respected bank in the world. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing. We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud.
+“The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.”
+Exceptional Client Service
+Throughout our 200-year history, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients.
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+A Commitment to Integrity, Fairness and Responsibility
+Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents — customers, employees, the Board, shareholders, regulators – and to ourselves.
+A Great Team
+and Winning Culture
+Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win."
+JPM,JPMorgan Chase,Financials,2017,ok,,values,seed,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,False,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,20170702071457,https://web.archive.org/web/20170702071457/https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,200,False,trafilatura,333,7aaf68c71da8608f85fc620d3542ff07ba860682,"Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time. Adhering to each of these principles is how we will become the best and most respected bank in the world. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing. We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud.
+“The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.”
+Exceptional Client Service
+Throughout our 200-year history, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients.
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+A Commitment to Integrity, Fairness and Responsibility
+Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents — customers, employees, the Board, shareholders, regulators – and to ourselves.
+A Great Team
+and Winning Culture
+Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win."
+JPM,JPMorgan Chase,Financials,2018,ok,,about,seed,jpmorganchase.com/corporate/about-jpmc/about-us.htm,https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm,True,https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm,20180907224655,https://web.archive.org/web/20180907224655/https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm,200,False,trafilatura,112,f7a57160a2746bcc5ee683fbd825defee325d9d1,"About Us
+JPMorgan Chase (NYSE: JPM) is one of the oldest financial institutions in the United States. With a history dating back over 200 years, here's where we stand today:
+- We are a leading global financial services firm with assets of $2.6 trillion.
+- We have a presence in over 100 markets.
+- We have over 250,000 employees.
+- We serve millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients.
+- We are a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.
+- Our stock is a component of the Dow Jones Industrial Average."
+JPM,JPMorgan Chase,Financials,2019,ok,,values,seed,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,True,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,20190821011908,https://web.archive.org/web/20190821011908/https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,200,False,trafilatura,333,7aaf68c71da8608f85fc620d3542ff07ba860682,"Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time. Adhering to each of these principles is how we will become the best and most respected bank in the world. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing. We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud.
+“The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.”
+Exceptional Client Service
+Throughout our 200-year history, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients.
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+A Commitment to Integrity, Fairness and Responsibility
+Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents — customers, employees, the Board, shareholders, regulators – and to ourselves.
+A Great Team
+and Winning Culture
+Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win."
+JPM,JPMorgan Chase,Financials,2020,ok,,values,seed,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,False,http://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,20200412222335,https://web.archive.org/web/20200412222335/http://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,301,False,trafilatura,333,7aaf68c71da8608f85fc620d3542ff07ba860682,"Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time. Adhering to each of these principles is how we will become the best and most respected bank in the world. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing. We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud.
+“The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.”
+Exceptional Client Service
+Throughout our 200-year history, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients.
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+A Commitment to Integrity, Fairness and Responsibility
+Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents — customers, employees, the Board, shareholders, regulators – and to ourselves.
+A Great Team
+and Winning Culture
+Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win."
+JPM,JPMorgan Chase,Financials,2021,ok,,values,redirect_alias,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/about/our-business/business-principles,False,https://www.jpmorganchase.com/about/our-business/business-principles,20210621230849,https://web.archive.org/web/20210621230849/https://www.jpmorganchase.com/about/our-business/business-principles,200,False,trafilatura,1872,b9b6ec437838f5dd457006e2cbe77e089b94ae72,"WHO WE ARE
+Business Principles
+Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time.
+Overview
+Client
+Service
+Operational
+Excellence
+A Commitment to Integrity,
+Fairness and Responsibility
+A Great Team and
+Winning Culture
+We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud.
+We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing.
+""The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.""
+_______
+Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+Exceptional Client Service
+Throughout our 200-year history, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients. Our job is to always do right by them and consistently strive not only to meet their needs but also to exceed their expectations and continually make it easy for clients to do business with us.
+As much as any company on the planet, we are helping individuals, businesses of all sizes, governments, nonprofits and communities seize the opportunities of our times. We can do this because of the strong company we have built – global in reach, local in execution, with an impressive set of products and capabilities and a steadfast commitment to provide exceptional client service.
+We Focus on the Customer
+- Exceed expectations by listening to customers and anticipating their needs, making it easy for them to do business with us
+- Earn trust by always focusing on customers’ best interests; high-quality customers will grow along with the company
+- Give customers a good, fair deal – offer high-quality, competitively priced products and services
+- Consider the full range of products and services that will fit customer needs, cross selling when appropriate
+- Never allow short-term profit considerations to get in the way of doing what’s right for the customer
+- Use our own products – when it comes to understanding the customer, nothing beats being a customer
+We Are Field and Client Driven; We Operate at the Local Level
+- Use our size as a strength to execute well at the local level
+- Spend time in local markets to understand everything about the customer (and what the competition might be doing for him or her)
+- Provide the resources and authority needed for decision making in the field
+- Innovate, test and learn – we know some ideas will fail, and that’s okay
+We Build World Class Franchises, Investing for the Long Term, to Serve Our Clients
+- Make good, long-term decisions that allow us to do well in the good times and withstand the tough times
+- Be proud of what we are doing
+- Do right by the customer in all our interactions
+- Ensure our company will stand the test of time
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+We Set the Highest Standards of Performance
+- Measure performance with a detailed, balanced scorecard
+- Strive for excellence, don't settle for mediocrity
+- Recognize that teamwork also requires a maximum individual effort
+- Compare yourself with the best
+We Demand Financial Rigor and Risk Discipline. We Will Always Maintain a Fortress Balance Sheet
+- Monitor, track and report the right things the right way — fix ineffective reporting
+- Ensure that accounting is fair, accurate and transparent
+- Create capital flexibility and manage risk dynamically
+- Share consistent, comprehensive information with shareholders and each other
+- Make analysis disciplined, real and fact based, focused on areas for improvement
+- Anticipate problems, be prepared with solutions
+- Be a risk manager; raising red flags is every employee's responsibility
+We Strive for the Best Internal Governance and Controls
+- Commit to enterprise-wide world-class governance, controls and compliance
+- Cultivate strong relationships with our regulators – be transparent, direct and respectful
+- Build a safety-first culture
+- Ensure that our controls infrastructure is as robust as our business
+- Remember that good compliance is good business
+We Act and Think Like Owners and Partners
+- Work for profitable, sustainable, long-term growth
+- Streamline management and encourage an appropriate disregard for hierarchy
+- Guard the firm’s resources; spend the firm’s money as if it were your own
+- Invest wisely for the future – including on infrastructure and people
+- Recognize that competitive intelligence is competitive advantage
+- Foster a spirit of partnership
+We Strive to Build and Maintain the Best Most Efficient Systems and Operations
+- Promote efficiencies and remember that leaner is better
+- Leverage technology to make operations fast and simple
+- Cut waste relentlessly – and eliminate unnecessary bureaucracy
+- Be an expert and ensure we know our business best
+We Are Disciplined in Everything We Do
+- Be rigorous and detailed, with continuous follow-up
+- Maintain an intense work ethic to get the job done right
+- Always strive for improvement and have the ability to drive change – make a list and get it done
+- Act in a thoughtful, coordinated way – not in haste or in isolation
+- Do it consistently – like exercising or weeding the garden
+- Conduct regular, well-organized and thorough business reviews of functions and controls
+We Execute with Both Skill and Urgency
+- Work with energy and focus; take responsibility and deliver on commitments
+- Ensure that every role, every person and every detail count
+- Get a little better every day – continually raise the bar
+- Deliver results; investigate, analyze and improve when problems arise
+- Know the details, commit to follow-ups, and meet deadlines for clients and colleagues
+- Manage change with deliberate speed
+A Commitment to Integrity, Fairness and Responsibility
+In business, as in every other arena, ethical behavior does not just happen. It has to be cultivated and repeatedly affirmed throughout the organization. At JPMorgan Chase, acting with integrity is paramount– and it applies to every aspect of our company. Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents – customers, employees, the Board, shareholders, regulators – and to ourselves.
+We Will Not Compromise Our Integrity
+- Do the right thing even when it’s not the easy thing
+- Have zero tolerance for unethical behavior
+- Be accountable, straightforward and honest in all your dealings
+- Abide by the spirit and the letter of the laws and regulations
+We Face Facts
+- Look at the facts in a cold-blooded way; admit and learn from mistakes
+- Acknowledge the negatives
+- Have only one truth for all audiences
+- Keep one set of books
+- Get the right people in the room (and the best answers will be found)
+We Have Fortitude
+- Have a fierce resolve in everything you do
+- Demonstrate determination, resiliency and tenacity
+- Do not let temporary setbacks become permanent excuses
+- Use mistakes and problems as opportunities to get better – not reasons to quit
+We Foster an Environment of Respect, Inclusiveness, Humanity and Humility
+- Treat all people properly and with respect – from clerks to CEOs
+- Excel by embracing an inclusive work environment and diverse teams
+- Be open to different management and individual styles; there are many ways to be successful
+- Respect people’s personal lives and show compassion when an employee is struggling
+- Help each other – whether in serving clients or in navigating careers at the firm
+- Hire and promote those people who deserve respect (would you let your kids report to them?)
+- Have a deep acknowledgment of those who came before you – who helped pave the way and shape who we are
+We Help Strengthen the Communities in Which We Live and Work
+- Leverage our success in order to give back to the communities where we do business
+- Be good, engaged citizens
+- View ourselves as a local small business: Know our customers, create summer jobs and support local organizations
+A Great Team and Winning Culture
+Eventually, it all comes down to people. Creating a winning team and self-sustaining culture takes hard work, and there is no substitute for it. Teams do not win because they have a new stadium or the most attractive uniforms. Some of the best teams do not even have the most talented individual athletes. Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win.
+We Hire, Train and Retain Great, Diverse Employees
+- Hire great people and train them well
+- Encourage everyone to contribute to the best of his/her ability
+- Treat everyone with respect – everyone counts
+- Acknowledge and reward high performers; that helps identify and develop leaders
+- Recognize that we gain strength from a diverse workforce – embrace our differences
+We Build Teamwork, Loyalty and Morale
+- Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company
+- Recognize that teamwork can mean both getting along and having the courage to stand alone and do the right thing
+- Consistently provide honest and direct feedback; encourage people to say what is on their minds
+- Remove obstacles in order to facilitate the team’s success
+- Put loyalty to the institution ahead of your or anyone else’s personal agenda; collaborate and act as if the company’s priorities are your own
+- Serve and support each other
+We Maintain an Open, Entrepreneurial Meritocracy for All
+- Know your people well; put them in the right jobs and assess them honestly
+- Make people decisions based on merit
+- Deal with people issues; take action with non-performers
+We Communicate Honestly, Clearly and Consistently
+- Recognize that information is power; share it as quickly as possible
+- Set clear goals and priorities, reinforce them, ensure follow-up and communicate progress often
+- Encourage constructive, open debate and consider different approaches
+- Drive to reach decisions and go forward with one agenda
+- Share your passion for learning and knowledge
+- Reinforce important messages clearly
+- Provide constant feedback – tell people when they are doing a good job and, more important, when they are not
+We Strive to Be Good Leaders
+- Remember that leadership is an honor and a responsibility
+- Understand that leadership is personal
+- Act quickly on tough issues and have the courage to fight for what you believe in
+- Share your passion to win
+- Support people who are willing to speak up – encourage constructive challenge
+- Be fair, be just, be willing to do the right thing – not the easy thing
+- Get the incentives right (but that is not enough; people must feel they are valued and their contributions are important)
+- Be a leader in your community
+- Strive for continual improvement – drive change and innovation and never stop learning
+- Help our people take care of themselves – their health and spirit"
+JPM,JPMorgan Chase,Financials,2022,ok,,values,seed,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm,False,https://www.jpmorganchase.com/about/our-business/business-principles,20220522143944,https://web.archive.org/web/20220522143944/https://www.jpmorganchase.com/about/our-business/business-principles,301,True,trafilatura,2088,ff0df87f6ee00073890742b19e7ecfb22adbc4aa,"WHO WE ARE
+Business Principles
+Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time.
+Overview
+Exceptional Client
+Service
+Operational
+Excellence
+A Commitment to Integrity,
+Fairness and Responsibility
+A Great Team and
+Winning Culture
+We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing.
+""The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.""
+_______
+Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+Exceptional Client Service
+For more than two centuries, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients. Our job is to always do right by them and consistently strive not only to meet their needs but also to exceed their expectations and continually make it easy for clients to do business with us.
+As much as any company on the planet, we are helping individuals, businesses of all sizes, governments, nonprofits and communities seize the opportunities of our times. We can do this because of the strong company we have built – global in reach, local in execution, with an impressive set of products and capabilities and a steadfast commitment to provide exceptional client service.
+We Focus on the Customer
+- Treat the customer the way you want to be treated and make sure you see everything from the customer’s eyes
+- Read customer complaints – and be the customer’s advocate
+- Exceed expectations by listening to customers and anticipating their needs, making it easy for them to do business with us
+- Earn trust by always focusing on customers’ best interests; high-quality customers will grow along with the company
+- Give customers a good, fair deal – offer high-quality, competitively priced products and services
+- Consider the full range of products and services that will fit customer needs, cross selling when appropriate
+- Never allow short-term profit considerations to get in the way of doing what’s right for the customer
+- Use our own products – when it comes to understanding the customer, nothing beats being a customer
+We Are Field and Client Driven; We Operate at the Local Level
+- Use our size as a strength to execute well at the local level
+- Spend time in local markets to understand everything about the customer (and what the competition might be doing for him or her)
+- Provide the resources and authority needed for decision making in the field
+- Innovate, test and learn – we know some ideas will fail, and that’s okay
+We Build World Class Franchises, Investing for the Long Term, to Serve Our Clients
+- Make good, long-term decisions that allow us to do well in the good times and withstand the tough times
+- Be proud of what we are doing
+- Do right by the customer in all our interactions
+- Ensure our company will stand the test of time
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+We Set the Highest Standards of Performance
+- Measure performance with a detailed, balanced scorecard
+- Strive for excellence, don't settle for mediocrity
+- Recognize that teamwork also requires a maximum individual effort
+- Compare yourself with the best
+- Stay hungry; competition is everywhere, so you cannot be lulled into a false sense of security – complacency kills
+We Demand Financial Rigor and Risk Discipline. We Will Always Maintain a Fortress Balance Sheet
+- Monitor, track and report the right things the right way — fix ineffective reporting
+- Ensure that accounting is fair, accurate and transparent
+- Create capital flexibility and manage risk dynamically
+- Remember, we do not worry about the stock price or quarterly earnings in the short run; if you continue to build a great company, the stock price will take care of itself
+- Share consistent, comprehensive information with shareholders and each other
+- Make analysis disciplined, real and fact based, focused on areas for improvement
+- Anticipate problems, be prepared with solutions
+- Be a risk manager; raising red flags is every employee's responsibility
+We Strive for the Best Internal Governance and Controls
+- Commit to enterprisewide world-class governance, controls and compliance
+- Cultivate strong relationships with our regulators – be transparent, direct and respectful
+- Build a safety-first culture
+- Ensure that our controls infrastructure is as robust as our business
+- Remember that good compliance is good business
+We Act and Think Like Owners and Partners
+- Work for profitable, sustainable, long-term growth
+- Streamline management and encourage an appropriate disregard for hierarchy
+- Guard the firm’s resources; spend the firm’s money as if it were your own
+- Invest wisely for the future – including on infrastructure and people
+- Recognize that competitive intelligence is competitive advantage
+- Foster a spirit of partnership
+- Ensure compensation is fair and fully transparent to senior management based on a balanced scorecard; any special deals should be minimized and for good reason
+- Respect and learn from your people / team
+We Strive to Build and Maintain the Best Most Efficient Systems and Operations
+- Promote efficiencies and remember that leaner is better
+- Leverage technology to make operations fast and simple
+- Cut waste relentlessly – and eliminate unnecessary bureaucracy
+- Be an expert and ensure we know our business best
+We Are Disciplined in Everything We Do
+- Be rigorous and detailed, with continuous follow-up
+- Maintain an intense work ethic to get the job done right
+- Always strive for improvement and have the ability to drive change – make a list and get it done
+- Act in a thoughtful, coordinated way – not in haste or in isolation
+- Always fight complacency by analyzing our own actions and our own weaknesses; management should celebrate our successes, but also emphasize the negatives
+- Enforce a good decision-making process and eliminate “waste of time” meetings; stand up war rooms to get the right people in the room and kill bureaucracy
+- Do it consistently – like exercising or weeding the garden
+- Conduct regular, well-organized and thorough business reviews of functions and controls
+We Execute with Both Skill and Urgency
+- Work with energy and focus; take responsibility and deliver on commitments
+- Ensure that every role, every person and every detail count
+- Get a little better every day – continually raise the bar
+- Deliver results; investigate, analyze and improve when problems arise
+- Know the details, commit to follow-ups, and meet deadlines for clients and colleagues
+- Manage change with deliberate speed
+A Commitment to Integrity, Fairness and Responsibility
+In business, as in every other arena, ethical behavior does not just happen. It has to be cultivated and repeatedly affirmed throughout the organization. At JPMorgan Chase, acting with integrity is paramount– and it applies to every aspect of our company. Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents – customers, communities, employees, the Board, shareholders, regulators – and to ourselves.
+We Will Not Compromise Our Integrity
+- Do the right thing even when it’s not the easy thing
+- Have zero tolerance for unethical behavior
+- Be accountable, straightforward and honest in all your dealings
+- Abide by the spirit and the letter of the laws and regulations
+We Face Facts
+- Look at the facts in a cold-blooded way; admit and learn from mistakes
+- Acknowledge the negatives
+- Have only one truth for all audiences
+- Keep one set of books
+- Get the right people in the room (and the best answers will be found)
+We Have Fortitude
+- Have a fierce resolve in everything you do
+- Demonstrate determination, resiliency and tenacity
+- Do not let temporary setbacks become permanent excuses
+- Use mistakes and problems as opportunities to get better – not reasons to quit
+We Foster an Environment of Respect, Inclusiveness, Humanity and Humility
+- Treat all people properly and with respect – from clerks to CEOs
+- Excel by embracing an inclusive work environment and diverse teams
+- Be open to different management and individual styles; there are many ways to be successful
+- Respect people’s personal lives and show compassion when an employee is struggling
+- Encourage all employees to take care of themselves – their mind, body, spirit and soul – and their friends and family
+- Help each other – whether in serving clients or in navigating careers at the firm
+- Have the humility to recognize that you don’t know everything – and foster an environment of openness, trust and sharing
+- Hire and promote those people who deserve respect (would you let your kids report to them?)
+- Have a deep acknowledgment of those who came before you – who helped pave the way and shape who we are
+We Help Strengthen the Communities in Which We Live and Work
+- Leverage our success in order to give back to the communities where we do business
+- Be good, engaged citizens
+- View ourselves as a local small business: Know our customers, create summer jobs and support local organizations
+A Great Team and Winning Culture
+Eventually, it all comes down to people. Creating a winning team and self-sustaining culture takes hard work, and there is no substitute for it. Teams do not win because they have a new stadium or the most attractive uniforms. Some of the best teams do not even have the most talented individual athletes. Teams succeed because they are disciplined, work well together, execute consistently and have a passion to win.
+We Hire, Train and Retain Great, Diverse Employees
+- Hire great people and train them well
+- Encourage everyone to contribute to the best of his/her ability
+- Treat everyone with respect – everyone counts
+- Encourage life-long learning and a deep curiosity
+- Acknowledge and reward high performers; that helps identify and develop leaders
+- Recognize that we gain strength from a diverse workforce – embrace our differences
+We Build Teamwork, Loyalty and Morale
+- Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company
+- Recognize that teamwork can mean both getting along and having the courage to stand alone and do the right thing
+- Consistently provide honest and direct feedback; encourage people to say what is on their minds
+- Remove obstacles in order to facilitate the team’s success
+- Put loyalty to the institution ahead of your or anyone else’s personal agenda; collaborate and act as if the company’s priorities are your own
+- Serve and support each other
+We Maintain an Open, Entrepreneurial Meritocracy for All
+- Know your people well; put them in the right jobs and assess them honestly
+- Make people decisions based on merit
+- Deal with people issues; take action with non-performers
+We Communicate Honestly, Clearly and Consistently
+- Recognize that information is power; share it as quickly as possible
+- Set clear goals and priorities, reinforce them, ensure follow-up and communicate progress often
+- Encourage constructive, open debate and consider different approaches
+- Drive to reach decisions and go forward with one agenda
+- Share your passion for learning and knowledge
+- Reinforce important messages clearly
+- Provide constant feedback – tell people when they are doing a good job and, more important, when they are not
+We Strive to Be Good Leaders
+- Remember that leadership is an honor and a responsibility
+- Understand that leadership is personal
+- Act quickly on tough issues and have the courage to fight for what you believe in
+- Share your passion to win
+- Support people who are willing to speak up – encourage constructive challenge
+- Be fair, be just, be willing to do the right thing – not the easy thing
+- Challenge the status quo: Fight social, racial and economic inequities
+- Get the incentives right (but that is not enough; people must feel they are valued and their contributions are important)
+- Be a leader in your community
+- Strive for continual improvement – drive change and innovation and never stop learning
+- Help our people take care of themselves – their health and spirit"
+JPM,JPMorgan Chase,Financials,2023,ok,,values,redirect_alias,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/about/our-business/business-principles,False,https://www.jpmorganchase.com/about/our-business/business-principles,20230701133304,https://web.archive.org/web/20230701133304/https://www.jpmorganchase.com/about/our-business/business-principles,200,False,trafilatura,2088,ff0df87f6ee00073890742b19e7ecfb22adbc4aa,"WHO WE ARE
+Business Principles
+Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time.
+Overview
+Exceptional Client
+Service
+Operational
+Excellence
+A Commitment to Integrity,
+Fairness and Responsibility
+A Great Team and
+Winning Culture
+We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing.
+""The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.""
+_______
+Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+Exceptional Client Service
+For more than two centuries, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients. Our job is to always do right by them and consistently strive not only to meet their needs but also to exceed their expectations and continually make it easy for clients to do business with us.
+As much as any company on the planet, we are helping individuals, businesses of all sizes, governments, nonprofits and communities seize the opportunities of our times. We can do this because of the strong company we have built – global in reach, local in execution, with an impressive set of products and capabilities and a steadfast commitment to provide exceptional client service.
+We Focus on the Customer
+- Treat the customer the way you want to be treated and make sure you see everything from the customer’s eyes
+- Read customer complaints – and be the customer’s advocate
+- Exceed expectations by listening to customers and anticipating their needs, making it easy for them to do business with us
+- Earn trust by always focusing on customers’ best interests; high-quality customers will grow along with the company
+- Give customers a good, fair deal – offer high-quality, competitively priced products and services
+- Consider the full range of products and services that will fit customer needs, cross selling when appropriate
+- Never allow short-term profit considerations to get in the way of doing what’s right for the customer
+- Use our own products – when it comes to understanding the customer, nothing beats being a customer
+We Are Field and Client Driven; We Operate at the Local Level
+- Use our size as a strength to execute well at the local level
+- Spend time in local markets to understand everything about the customer (and what the competition might be doing for him or her)
+- Provide the resources and authority needed for decision making in the field
+- Innovate, test and learn – we know some ideas will fail, and that’s okay
+We Build World Class Franchises, Investing for the Long Term, to Serve Our Clients
+- Make good, long-term decisions that allow us to do well in the good times and withstand the tough times
+- Be proud of what we are doing
+- Do right by the customer in all our interactions
+- Ensure our company will stand the test of time
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+We Set the Highest Standards of Performance
+- Measure performance with a detailed, balanced scorecard
+- Strive for excellence, don't settle for mediocrity
+- Recognize that teamwork also requires a maximum individual effort
+- Compare yourself with the best
+- Stay hungry; competition is everywhere, so you cannot be lulled into a false sense of security – complacency kills
+We Demand Financial Rigor and Risk Discipline. We Will Always Maintain a Fortress Balance Sheet
+- Monitor, track and report the right things the right way — fix ineffective reporting
+- Ensure that accounting is fair, accurate and transparent
+- Create capital flexibility and manage risk dynamically
+- Remember, we do not worry about the stock price or quarterly earnings in the short run; if you continue to build a great company, the stock price will take care of itself
+- Share consistent, comprehensive information with shareholders and each other
+- Make analysis disciplined, real and fact based, focused on areas for improvement
+- Anticipate problems, be prepared with solutions
+- Be a risk manager; raising red flags is every employee's responsibility
+We Strive for the Best Internal Governance and Controls
+- Commit to enterprisewide world-class governance, controls and compliance
+- Cultivate strong relationships with our regulators – be transparent, direct and respectful
+- Build a safety-first culture
+- Ensure that our controls infrastructure is as robust as our business
+- Remember that good compliance is good business
+We Act and Think Like Owners and Partners
+- Work for profitable, sustainable, long-term growth
+- Streamline management and encourage an appropriate disregard for hierarchy
+- Guard the firm’s resources; spend the firm’s money as if it were your own
+- Invest wisely for the future – including on infrastructure and people
+- Recognize that competitive intelligence is competitive advantage
+- Foster a spirit of partnership
+- Ensure compensation is fair and fully transparent to senior management based on a balanced scorecard; any special deals should be minimized and for good reason
+- Respect and learn from your people / team
+We Strive to Build and Maintain the Best Most Efficient Systems and Operations
+- Promote efficiencies and remember that leaner is better
+- Leverage technology to make operations fast and simple
+- Cut waste relentlessly – and eliminate unnecessary bureaucracy
+- Be an expert and ensure we know our business best
+We Are Disciplined in Everything We Do
+- Be rigorous and detailed, with continuous follow-up
+- Maintain an intense work ethic to get the job done right
+- Always strive for improvement and have the ability to drive change – make a list and get it done
+- Act in a thoughtful, coordinated way – not in haste or in isolation
+- Always fight complacency by analyzing our own actions and our own weaknesses; management should celebrate our successes, but also emphasize the negatives
+- Enforce a good decision-making process and eliminate “waste of time” meetings; stand up war rooms to get the right people in the room and kill bureaucracy
+- Do it consistently – like exercising or weeding the garden
+- Conduct regular, well-organized and thorough business reviews of functions and controls
+We Execute with Both Skill and Urgency
+- Work with energy and focus; take responsibility and deliver on commitments
+- Ensure that every role, every person and every detail count
+- Get a little better every day – continually raise the bar
+- Deliver results; investigate, analyze and improve when problems arise
+- Know the details, commit to follow-ups, and meet deadlines for clients and colleagues
+- Manage change with deliberate speed
+A Commitment to Integrity, Fairness and Responsibility
+In business, as in every other arena, ethical behavior does not just happen. It has to be cultivated and repeatedly affirmed throughout the organization. At JPMorgan Chase, acting with integrity is paramount– and it applies to every aspect of our company. Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents – customers, communities, employees, the Board, shareholders, regulators – and to ourselves.
+We Will Not Compromise Our Integrity
+- Do the right thing even when it’s not the easy thing
+- Have zero tolerance for unethical behavior
+- Be accountable, straightforward and honest in all your dealings
+- Abide by the spirit and the letter of the laws and regulations
+We Face Facts
+- Look at the facts in a cold-blooded way; admit and learn from mistakes
+- Acknowledge the negatives
+- Have only one truth for all audiences
+- Keep one set of books
+- Get the right people in the room (and the best answers will be found)
+We Have Fortitude
+- Have a fierce resolve in everything you do
+- Demonstrate determination, resiliency and tenacity
+- Do not let temporary setbacks become permanent excuses
+- Use mistakes and problems as opportunities to get better – not reasons to quit
+We Foster an Environment of Respect, Inclusiveness, Humanity and Humility
+- Treat all people properly and with respect – from clerks to CEOs
+- Excel by embracing an inclusive work environment and diverse teams
+- Be open to different management and individual styles; there are many ways to be successful
+- Respect people’s personal lives and show compassion when an employee is struggling
+- Encourage all employees to take care of themselves – their mind, body, spirit and soul – and their friends and family
+- Help each other – whether in serving clients or in navigating careers at the firm
+- Have the humility to recognize that you don’t know everything – and foster an environment of openness, trust and sharing
+- Hire and promote those people who deserve respect (would you let your kids report to them?)
+- Have a deep acknowledgment of those who came before you – who helped pave the way and shape who we are
+We Help Strengthen the Communities in Which We Live and Work
+- Leverage our success in order to give back to the communities where we do business
+- Be good, engaged citizens
+- View ourselves as a local small business: Know our customers, create summer jobs and support local organizations
+A Great Team and Winning Culture
+Eventually, it all comes down to people. Creating a winning team and self-sustaining culture takes hard work, and there is no substitute for it. Teams do not win because they have a new stadium or the most attractive uniforms. Some of the best teams do not even have the most talented individual athletes. Teams succeed because they are disciplined, work well together, execute consistently and have a passion to win.
+We Hire, Train and Retain Great, Diverse Employees
+- Hire great people and train them well
+- Encourage everyone to contribute to the best of his/her ability
+- Treat everyone with respect – everyone counts
+- Encourage life-long learning and a deep curiosity
+- Acknowledge and reward high performers; that helps identify and develop leaders
+- Recognize that we gain strength from a diverse workforce – embrace our differences
+We Build Teamwork, Loyalty and Morale
+- Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company
+- Recognize that teamwork can mean both getting along and having the courage to stand alone and do the right thing
+- Consistently provide honest and direct feedback; encourage people to say what is on their minds
+- Remove obstacles in order to facilitate the team’s success
+- Put loyalty to the institution ahead of your or anyone else’s personal agenda; collaborate and act as if the company’s priorities are your own
+- Serve and support each other
+We Maintain an Open, Entrepreneurial Meritocracy for All
+- Know your people well; put them in the right jobs and assess them honestly
+- Make people decisions based on merit
+- Deal with people issues; take action with non-performers
+We Communicate Honestly, Clearly and Consistently
+- Recognize that information is power; share it as quickly as possible
+- Set clear goals and priorities, reinforce them, ensure follow-up and communicate progress often
+- Encourage constructive, open debate and consider different approaches
+- Drive to reach decisions and go forward with one agenda
+- Share your passion for learning and knowledge
+- Reinforce important messages clearly
+- Provide constant feedback – tell people when they are doing a good job and, more important, when they are not
+We Strive to Be Good Leaders
+- Remember that leadership is an honor and a responsibility
+- Understand that leadership is personal
+- Act quickly on tough issues and have the courage to fight for what you believe in
+- Share your passion to win
+- Support people who are willing to speak up – encourage constructive challenge
+- Be fair, be just, be willing to do the right thing – not the easy thing
+- Challenge the status quo: Fight social, racial and economic inequities
+- Get the incentives right (but that is not enough; people must feel they are valued and their contributions are important)
+- Be a leader in your community
+- Strive for continual improvement – drive change and innovation and never stop learning
+- Help our people take care of themselves – their health and spirit"
+JPM,JPMorgan Chase,Financials,2024,ok,,values,redirect_alias,jpmorganchase.com/corporate/about-jpmc/ab-business-principles.htm,https://www.jpmorganchase.com/about/our-business/business-principles,False,https://www.jpmorganchase.com/about/our-business/business-principles,20240601035726,https://web.archive.org/web/20240601035726/https://www.jpmorganchase.com/about/our-business/business-principles,200,False,trafilatura,2088,ff0df87f6ee00073890742b19e7ecfb22adbc4aa,"WHO WE ARE
+Business Principles
+Certain principles are fundamental to our success. They focus on how we strengthen, safeguard and grow our company over time.
+Overview
+Exceptional Client
+Service
+Operational
+Excellence
+A Commitment to Integrity,
+Fairness and Responsibility
+A Great Team and
+Winning Culture
+We will work with fierce resolve to make this a company of which our customers, employees, shareholders and communities can be proud. We cannot promise specific outcomes or risk-free results. From time to time, we may fall short in our efforts and if that happens, we will renew our commitment to these principles and re-double our efforts. What we can and will promise is to be truthful and give honest assessments of our businesses and prospects; act with integrity and honor; and do the right thing—not necessarily the easy or expedient thing.
+""The strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.""
+_______
+Jamie Dimon, Chairman and CEO, JPMorgan Chase & Co.
+Exceptional Client Service
+For more than two centuries, JPMorgan Chase has always been there for our constituents around the world. In the toughest of times when strong banks are needed the most, we never waver in our support, and we never lose sight of our main mission: serving our clients. Our job is to always do right by them and consistently strive not only to meet their needs but also to exceed their expectations and continually make it easy for clients to do business with us.
+As much as any company on the planet, we are helping individuals, businesses of all sizes, governments, nonprofits and communities seize the opportunities of our times. We can do this because of the strong company we have built – global in reach, local in execution, with an impressive set of products and capabilities and a steadfast commitment to provide exceptional client service.
+We Focus on the Customer
+- Treat the customer the way you want to be treated and make sure you see everything from the customer’s eyes
+- Read customer complaints – and be the customer’s advocate
+- Exceed expectations by listening to customers and anticipating their needs, making it easy for them to do business with us
+- Earn trust by always focusing on customers’ best interests; high-quality customers will grow along with the company
+- Give customers a good, fair deal – offer high-quality, competitively priced products and services
+- Consider the full range of products and services that will fit customer needs, cross selling when appropriate
+- Never allow short-term profit considerations to get in the way of doing what’s right for the customer
+- Use our own products – when it comes to understanding the customer, nothing beats being a customer
+We Are Field and Client Driven; We Operate at the Local Level
+- Use our size as a strength to execute well at the local level
+- Spend time in local markets to understand everything about the customer (and what the competition might be doing for him or her)
+- Provide the resources and authority needed for decision making in the field
+- Innovate, test and learn – we know some ideas will fail, and that’s okay
+We Build World Class Franchises, Investing for the Long Term, to Serve Our Clients
+- Make good, long-term decisions that allow us to do well in the good times and withstand the tough times
+- Be proud of what we are doing
+- Do right by the customer in all our interactions
+- Ensure our company will stand the test of time
+Operational Excellence
+As important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.
+We Set the Highest Standards of Performance
+- Measure performance with a detailed, balanced scorecard
+- Strive for excellence, don't settle for mediocrity
+- Recognize that teamwork also requires a maximum individual effort
+- Compare yourself with the best
+- Stay hungry; competition is everywhere, so you cannot be lulled into a false sense of security – complacency kills
+We Demand Financial Rigor and Risk Discipline. We Will Always Maintain a Fortress Balance Sheet
+- Monitor, track and report the right things the right way — fix ineffective reporting
+- Ensure that accounting is fair, accurate and transparent
+- Create capital flexibility and manage risk dynamically
+- Remember, we do not worry about the stock price or quarterly earnings in the short run; if you continue to build a great company, the stock price will take care of itself
+- Share consistent, comprehensive information with shareholders and each other
+- Make analysis disciplined, real and fact based, focused on areas for improvement
+- Anticipate problems, be prepared with solutions
+- Be a risk manager; raising red flags is every employee's responsibility
+We Strive for the Best Internal Governance and Controls
+- Commit to enterprisewide world-class governance, controls and compliance
+- Cultivate strong relationships with our regulators – be transparent, direct and respectful
+- Build a safety-first culture
+- Ensure that our controls infrastructure is as robust as our business
+- Remember that good compliance is good business
+We Act and Think Like Owners and Partners
+- Work for profitable, sustainable, long-term growth
+- Streamline management and encourage an appropriate disregard for hierarchy
+- Guard the firm’s resources; spend the firm’s money as if it were your own
+- Invest wisely for the future – including on infrastructure and people
+- Recognize that competitive intelligence is competitive advantage
+- Foster a spirit of partnership
+- Ensure compensation is fair and fully transparent to senior management based on a balanced scorecard; any special deals should be minimized and for good reason
+- Respect and learn from your people / team
+We Strive to Build and Maintain the Best Most Efficient Systems and Operations
+- Promote efficiencies and remember that leaner is better
+- Leverage technology to make operations fast and simple
+- Cut waste relentlessly – and eliminate unnecessary bureaucracy
+- Be an expert and ensure we know our business best
+We Are Disciplined in Everything We Do
+- Be rigorous and detailed, with continuous follow-up
+- Maintain an intense work ethic to get the job done right
+- Always strive for improvement and have the ability to drive change – make a list and get it done
+- Act in a thoughtful, coordinated way – not in haste or in isolation
+- Always fight complacency by analyzing our own actions and our own weaknesses; management should celebrate our successes, but also emphasize the negatives
+- Enforce a good decision-making process and eliminate “waste of time” meetings; stand up war rooms to get the right people in the room and kill bureaucracy
+- Do it consistently – like exercising or weeding the garden
+- Conduct regular, well-organized and thorough business reviews of functions and controls
+We Execute with Both Skill and Urgency
+- Work with energy and focus; take responsibility and deliver on commitments
+- Ensure that every role, every person and every detail count
+- Get a little better every day – continually raise the bar
+- Deliver results; investigate, analyze and improve when problems arise
+- Know the details, commit to follow-ups, and meet deadlines for clients and colleagues
+- Manage change with deliberate speed
+A Commitment to Integrity, Fairness and Responsibility
+In business, as in every other arena, ethical behavior does not just happen. It has to be cultivated and repeatedly affirmed throughout the organization. At JPMorgan Chase, acting with integrity is paramount– and it applies to every aspect of our company. Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents – customers, communities, employees, the Board, shareholders, regulators – and to ourselves.
+We Will Not Compromise Our Integrity
+- Do the right thing even when it’s not the easy thing
+- Have zero tolerance for unethical behavior
+- Be accountable, straightforward and honest in all your dealings
+- Abide by the spirit and the letter of the laws and regulations
+We Face Facts
+- Look at the facts in a cold-blooded way; admit and learn from mistakes
+- Acknowledge the negatives
+- Have only one truth for all audiences
+- Keep one set of books
+- Get the right people in the room (and the best answers will be found)
+We Have Fortitude
+- Have a fierce resolve in everything you do
+- Demonstrate determination, resiliency and tenacity
+- Do not let temporary setbacks become permanent excuses
+- Use mistakes and problems as opportunities to get better – not reasons to quit
+We Foster an Environment of Respect, Inclusiveness, Humanity and Humility
+- Treat all people properly and with respect – from clerks to CEOs
+- Excel by embracing an inclusive work environment and diverse teams
+- Be open to different management and individual styles; there are many ways to be successful
+- Respect people’s personal lives and show compassion when an employee is struggling
+- Encourage all employees to take care of themselves – their mind, body, spirit and soul – and their friends and family
+- Help each other – whether in serving clients or in navigating careers at the firm
+- Have the humility to recognize that you don’t know everything – and foster an environment of openness, trust and sharing
+- Hire and promote those people who deserve respect (would you let your kids report to them?)
+- Have a deep acknowledgment of those who came before you – who helped pave the way and shape who we are
+We Help Strengthen the Communities in Which We Live and Work
+- Leverage our success in order to give back to the communities where we do business
+- Be good, engaged citizens
+- View ourselves as a local small business: Know our customers, create summer jobs and support local organizations
+A Great Team and Winning Culture
+Eventually, it all comes down to people. Creating a winning team and self-sustaining culture takes hard work, and there is no substitute for it. Teams do not win because they have a new stadium or the most attractive uniforms. Some of the best teams do not even have the most talented individual athletes. Teams succeed because they are disciplined, work well together, execute consistently and have a passion to win.
+We Hire, Train and Retain Great, Diverse Employees
+- Hire great people and train them well
+- Encourage everyone to contribute to the best of his/her ability
+- Treat everyone with respect – everyone counts
+- Encourage life-long learning and a deep curiosity
+- Acknowledge and reward high performers; that helps identify and develop leaders
+- Recognize that we gain strength from a diverse workforce – embrace our differences
+We Build Teamwork, Loyalty and Morale
+- Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company
+- Recognize that teamwork can mean both getting along and having the courage to stand alone and do the right thing
+- Consistently provide honest and direct feedback; encourage people to say what is on their minds
+- Remove obstacles in order to facilitate the team’s success
+- Put loyalty to the institution ahead of your or anyone else’s personal agenda; collaborate and act as if the company’s priorities are your own
+- Serve and support each other
+We Maintain an Open, Entrepreneurial Meritocracy for All
+- Know your people well; put them in the right jobs and assess them honestly
+- Make people decisions based on merit
+- Deal with people issues; take action with non-performers
+We Communicate Honestly, Clearly and Consistently
+- Recognize that information is power; share it as quickly as possible
+- Set clear goals and priorities, reinforce them, ensure follow-up and communicate progress often
+- Encourage constructive, open debate and consider different approaches
+- Drive to reach decisions and go forward with one agenda
+- Share your passion for learning and knowledge
+- Reinforce important messages clearly
+- Provide constant feedback – tell people when they are doing a good job and, more important, when they are not
+We Strive to Be Good Leaders
+- Remember that leadership is an honor and a responsibility
+- Understand that leadership is personal
+- Act quickly on tough issues and have the courage to fight for what you believe in
+- Share your passion to win
+- Support people who are willing to speak up – encourage constructive challenge
+- Be fair, be just, be willing to do the right thing – not the easy thing
+- Challenge the status quo: Fight social, racial and economic inequities
+- Get the incentives right (but that is not enough; people must feel they are valued and their contributions are important)
+- Be a leader in your community
+- Strive for continual improvement – drive change and innovation and never stop learning
+- Help our people take care of themselves – their health and spirit"
+XOM,ExxonMobil,Energy,2016,ok,,about,seed,corporate.exxonmobil.com/en/company/about-us,https://corporate.exxonmobil.com/en/company/about-us,False,http://corporate.exxonmobil.com:80/en/company/about-us,20160710130259,https://web.archive.org/web/20160710130259/http://corporate.exxonmobil.com:80/en/company/about-us,200,False,bs4_fallback_recall,123,eb9c1f0868f1192fad967192d8813806cc789882,"ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world’s growing energy needs. We hold an industry-leading inventory of resources and are one of the world’s largest integrated refiners, marketers of petroleum products and chemical manufacturers.
+We must continuously achieve superior financial and operating results while simultaneously adhering to high ethical standards.
+Over the last 125 years ExxonMobil has evolved from a regional marketer of kerosene to the largest publicly traded energy company in the world.
+ExxonMobil has a long history of leadership in the petroleum and petrochemical industries.
+Also in Management
+Our commitment to high ethical standards, compliance and integrity is reflected in our safety and environmental policies and practices."
+XOM,ExxonMobil,Energy,2017,ok,,about,seed,corporate.exxonmobil.com/en/company/about-us,https://corporate.exxonmobil.com/en/company/about-us,False,http://corporate.exxonmobil.com/en/company/about-us,20170630062243,https://web.archive.org/web/20170630062243/http://corporate.exxonmobil.com/en/company/about-us,200,False,bs4_fallback_recall,123,eb9c1f0868f1192fad967192d8813806cc789882,"ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world’s growing energy needs. We hold an industry-leading inventory of resources and are one of the world’s largest integrated refiners, marketers of petroleum products and chemical manufacturers.
+We must continuously achieve superior financial and operating results while simultaneously adhering to high ethical standards.
+Over the last 125 years ExxonMobil has evolved from a regional marketer of kerosene to the largest publicly traded energy company in the world.
+ExxonMobil has a long history of leadership in the petroleum and petrochemical industries.
+Also in Management
+Our commitment to high ethical standards, compliance and integrity is reflected in our safety and environmental policies and practices."
+XOM,ExxonMobil,Energy,2018,ok,,about,seed,corporate.exxonmobil.com/en/company/about-us,https://corporate.exxonmobil.com/en/company/about-us,False,http://corporate.exxonmobil.com:80/en/company/about-us,20180712091109,https://web.archive.org/web/20180712091109/http://corporate.exxonmobil.com:80/en/company/about-us,200,False,bs4_fallback_recall,123,eb9c1f0868f1192fad967192d8813806cc789882,"ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world’s growing energy needs. We hold an industry-leading inventory of resources and are one of the world’s largest integrated refiners, marketers of petroleum products and chemical manufacturers.
+We must continuously achieve superior financial and operating results while simultaneously adhering to high ethical standards.
+Over the last 125 years ExxonMobil has evolved from a regional marketer of kerosene to the largest publicly traded energy company in the world.
+ExxonMobil has a long history of leadership in the petroleum and petrochemical industries.
+Also in Management
+Our commitment to high ethical standards, compliance and integrity is reflected in our safety and environmental policies and practices."
+XOM,ExxonMobil,Energy,2019,ok,,about,seed,corporate.exxonmobil.com/en/company/about-us,https://corporate.exxonmobil.com/en/company/about-us,False,https://corporate.exxonmobil.com/en/company/about-us,20190122131503,https://web.archive.org/web/20190122131503/https://corporate.exxonmobil.com/en/company/about-us,200,False,bs4_fallback_recall,123,eb9c1f0868f1192fad967192d8813806cc789882,"ExxonMobil, the largest publicly traded international oil and gas company, uses technology and innovation to help meet the world’s growing energy needs. We hold an industry-leading inventory of resources and are one of the world’s largest integrated refiners, marketers of petroleum products and chemical manufacturers.
+We must continuously achieve superior financial and operating results while simultaneously adhering to high ethical standards.
+Over the last 125 years ExxonMobil has evolved from a regional marketer of kerosene to the largest publicly traded energy company in the world.
+ExxonMobil has a long history of leadership in the petroleum and petrochemical industries.
+Also in Management
+Our commitment to high ethical standards, compliance and integrity is reflected in our safety and environmental policies and practices."
+XOM,ExxonMobil,Energy,2020,ok,,about,seed,corporate.exxonmobil.com/en/company/about-us,https://corporate.exxonmobil.com/en/company/about-us,False,https://corporate.exxonmobil.com/en/Company/Who-we-are,20200619074133,https://web.archive.org/web/20200619074133/https://corporate.exxonmobil.com/en/Company/Who-we-are,301,True,bs4_fallback_recall,523,21bc10039d030f194a9d1e403295731d30e92a43,"Our Mission Fueling the world safely and responsibly
+Access to energy underpins human comfort, mobility, economic prosperity and social progress. It touches nearly every aspect of modern life. Over the course of its long history of more than a century, ExxonMobil has evolved from a regional marketer of kerosene to an advanced energy and chemical innovator, and one of the largest publicly traded companies in the world. An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world’s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.
+Worldwide, ExxonMobil markets fuels and lubricants under four brands: Esso, Exxon, Mobil and ExxonMobil Chemical.
+Our guiding principles
+Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company. To that end, we must continuously achieve superior financial and operating results while adhering to high ethical standards. Who we are Article
+Standards of business conduct
+How we achieve strong results is as important as the results themselves. The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business. Who we are Article
+Our history
+Over the past 135 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to the largest publicly traded petroleum and petrochemical enterprise in the world. Who we are Article
+Management Committee
+ExxonMobil has a long history of leadership in the petroleum and chemical manufacturing industries. The company’s greatest strengths are its high quality directors, officers and employees, ingenuity and long-term perspective.
+Meet the executive team
+Corporate governance
+Good governance is essential for creating long-term viability of business and the economic development of the communities where we operate.
+ExxonMobil Board of Directors
+Contact Directors
+Corporate governance guidelines and additional policies
+Code of ethics
+Management committee
+Corporate officers and affiliated companies
+Certificate of incorporation and by-laws
+Consumer and business products
+Quality fuels
+Get an inside look at the innovation and technology behind our latest Synergy™ unleaded gasoline and diesel fuel products.
+Gas cards and payment
+Stay on the go with a range of convenient payment methods such as personal credit cards, gas gift cards and the Speedpass+ mobile payment app.
+Exxon Mobil Rewards+™
+Save on gas, snacks and more with the Exxon Mobil Rewards+™ program. Join now and earn 3¢/gal in points on Synergy™ gas and diesel, and 2¢ in points per $1 spent in the store.
+Motor oil
+Finding the right oil is just as important as finding the right fuel. Learn how our advanced Mobil motor oils can optimize and protect your engine.
+Our stations
+Ready to fill up? More than 10,000 fueling stations await nationwide. Use our Fuel Finder to locate a station near you or one along your way.
+Service station customer-related inquiries
+For decades, Esso, Exxon and Mobil have provided reliable and trusted fuels that not only meet, but exceed customer confidence and expectations."
+XOM,ExxonMobil,Energy,2021,ok,,about,seed,corporate.exxonmobil.com/about-us/who-we-are,https://corporate.exxonmobil.com/About-us/Who-we-are,True,https://corporate.exxonmobil.com/About-us/Who-we-are,20210623063030,https://web.archive.org/web/20210623063030/https://corporate.exxonmobil.com/About-us/Who-we-are,200,False,bs4_fallback_recall,674,54ff499d06030d5d60057c21e2afa2708accc5ca,"Fueling the world safely and responsibly
+Access to energy underpins human comfort, mobility, economic prosperity and social progress. It touches nearly every aspect of modern life. Over the course of its long history of more than a century, ExxonMobil has evolved from a regional marketer of kerosene to an advanced energy and chemical innovator, and one of the largest publicly traded companies in the world. An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world’s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.
+Worldwide, ExxonMobil markets fuels and lubricants under four brands: Esso, Exxon, Mobil and ExxonMobil Chemical.
+Our what
+Our why
+This is where it all begins. Where the story of safely and responsibly meeting the global demand for energy starts. Across the upstream, our geologists, engineers and scientists work tirelessly to explore for and develop oil and natural gas using innovation and industry-leading technology.
+As one of the largest refiners in the world, we manufacture and distribute products derived from crude oil and other feedstocks. Our global network of manufacturing plants, transportation systems, and distribution centers provides fuels, basestocks, finished lubricants, and other high-value products to customers, including business-to-business segments.
+ExxonMobil Chemical is one of the largest chemical companies in the world. Our facilities convert crude oil and natural gas into petrochemical feedstocks that are used in medical equipment, electronics, clothing, vitamin capsules, tires and many other products.
+Learn more about the products, services and projects within our Upstream, Downstream and Chemical businesses.
+Our guiding principles
+Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company. To that end, we must continuously achieve superior financial and operating results while adhering to high ethical standards. Who we are Article
+Standards of business conduct
+How we achieve strong results is as important as the results themselves. The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business. Who we are Article
+Our history
+Over the past 135 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to one of the largest publicly traded petroleum and petrochemical enterprises in the world. Who we are Article
+Management Committee
+ExxonMobil has a long history of leadership in the petroleum and chemical manufacturing industries. The company’s greatest strengths are its high quality directors, officers and employees, ingenuity and long-term perspective.
+Meet the executive team
+Corporate governance
+Good governance is essential for creating long-term viability of business and the economic development of the communities where we operate.
+ExxonMobil Board of Directors
+Contact Directors
+Corporate governance guidelines and additional policies
+Code of ethics
+Management committee
+Corporate officers and affiliated companies
+Certificate of incorporation and by-laws
+Consumer and business products
+Quality fuels
+Get an inside look at the innovation and technology behind our latest Synergy™ unleaded gasoline and diesel fuel products.
+Gas cards and payment
+Stay on the go with a range of convenient payment methods such as personal credit cards, gas gift cards and the Speedpass+ mobile payment app.
+Exxon Mobil Rewards+™
+Save on gas, snacks and more with the Exxon Mobil Rewards+™ program. Join now and earn 3¢/gal in points on Synergy™ gas and diesel, and 2¢ in points per $1 spent in the store.
+Motor oil
+Finding the right oil is just as important as finding the right fuel. Learn how our advanced Mobil motor oils can optimize and protect your engine.
+Our stations
+Ready to fill up? More than 10,000 fueling stations await nationwide. Use our Fuel Finder to locate a station near you or one along your way.
+Service station customer-related inquiries
+For decades, Esso, Exxon and Mobil have provided reliable and trusted fuels that not only meet, but exceed customer confidence and expectations."
+XOM,ExxonMobil,Energy,2022,ok,,about,seed,corporate.exxonmobil.com/about-us/who-we-are,https://corporate.exxonmobil.com/About-us/Who-we-are,False,https://corporate.exxonmobil.com/About-us/Who-we-are,20220626151352,https://web.archive.org/web/20220626151352/https://corporate.exxonmobil.com/About-us/Who-we-are,200,False,bs4_fallback_recall,540,c9ea96311edb0caba7a148b0c805217362442434,"Fueling the world safely and responsibly
+Access to energy underpins human comfort, mobility, economic prosperity and social progress. It touches nearly every aspect of modern life. Over the course of its long history of more than a century, ExxonMobil has evolved from a regional marketer of kerosene to an advanced energy and chemical innovator, and one of the largest publicly traded companies in the world. An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world’s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.
+Worldwide, ExxonMobil markets fuels, lubricants and chemicals under four brands: Esso, Exxon, Mobil and ExxonMobil.
+Our what
+Our why
+Our guiding principles
+Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company. To that end, we must continuously achieve superior financial and operating results while adhering to high ethical standards. Who we are Article
+Standards of business conduct
+How we achieve strong results is as important as the results themselves. The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business. Who we are Article
+Our history
+Over the past 135 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to one of the largest publicly traded petroleum and petrochemical enterprises in the world. Who we are Article
+Investor relations Corporate governance
+Good corporate governance creates a business environment conducive to long-term growth. ExxonMobil employs a variety of policies and processes to uphold high ethical standards and promote transparency. Our efforts are underpinned by a board of directors that provides strategic and independent oversight of our corporation’s affairs.
+Corporate governance
+Good governance is essential for creating long-term viability of business and the economic development of the communities where we operate.
+ExxonMobil Board of Directors
+Contact Directors
+Corporate governance guidelines and additional policies
+Code of ethics
+Management committee
+Corporate and affiliate officers
+Certificate of incorporation and by-laws
+Consumer and business products
+Quality fuels
+Get an inside look at the innovation and technology behind our latest Synergy™ unleaded gasoline and diesel fuel products.
+Gas cards and payment
+Stay on the go with a range of convenient payment methods such as personal credit cards, gas gift cards and the Speedpass+ mobile payment app.
+Exxon Mobil Rewards+™
+Save on gas, snacks and more with the Exxon Mobil Rewards+™ program. Join now and earn 3¢/gal in points on Synergy™ gas and diesel, and 2¢ in points per $1 spent in the store.
+Motor oil
+Finding the right oil is just as important as finding the right fuel. Learn how our advanced Mobil motor oils can optimize and protect your engine.
+Our stations
+Ready to fill up? More than 10,000 fueling stations await nationwide. Use our Fuel Finder to locate a station near you or one along your way.
+Service station customer-related inquiries
+For decades, Esso, Exxon and Mobil have provided reliable and trusted fuels that not only meet, but exceed customer confidence and expectations."
+XOM,ExxonMobil,Energy,2023,ok,,about,seed,corporate.exxonmobil.com/about-us/who-we-are,https://corporate.exxonmobil.com/About-us/Who-we-are,False,https://corporate.exxonmobil.com/about-us/who-we-are,20230402111053,https://web.archive.org/web/20230402111053/https://corporate.exxonmobil.com/about-us/who-we-are,200,False,trafilatura,450,ea3be135edf9086807f13c43b6791f9f8f277195,"Who we are
+ExxonMobil, one of the world’s largest publicly traded energy providers and chemical manufacturers, develops and applies next-generation technologies to help safely and responsibly meet the world’s growing needs for energy and high-quality chemical products.
+Fueling the world safely and responsibly
+Access to energy underpins human comfort, mobility, economic prosperity and social progress. It touches nearly every aspect of modern life. Over the course of its long history of more than a century, ExxonMobil has evolved from a regional marketer of kerosene to an advanced energy and chemical innovator, and one of the largest publicly traded companies in the world. An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world’s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.
+Worldwide, ExxonMobil markets fuels, lubricants and chemicals under four brands: Esso, Exxon, Mobil and ExxonMobil.
+Our guiding principles
+Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company. To that end, we must continuously achieve superior financial and operating results while adhering to high ethical standards.Who we are Article
+Standards of business conduct
+How we achieve strong results is as important as the results themselves. The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business.Who we are Article
+Our history
+Over the past 140 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to one of the largest publicly traded petroleum and petrochemical enterprises in the world.Who we are Article
+Corporate governance
+Consumer and business products
+Quality fuels
+Get an inside look at the innovation and technology behind our latest Synergy™ unleaded gasoline and diesel fuel products.
+Gas cards and payment
+Stay on the go with a range of convenient payment methods such as personal credit cards, gas gift cards and the Speedpass+ mobile payment app.
+Exxon Mobil Rewards+™
+Save on gas, snacks and more with the Exxon Mobil Rewards+™ program. Join now and earn 3¢/gal in points on Synergy™ gas and diesel, and 2¢ in points per $1 spent in the store.
+Motor oil
+Finding the right oil is just as important as finding the right fuel. Learn how our advanced Mobil motor oils can optimize and protect your engine.
+Our stations
+Ready to fill up? More than 10,000 fueling stations await nationwide. Use our Fuel Finder to locate a station near you or one along your way."
+XOM,ExxonMobil,Energy,2024,ok,,about,seed,corporate.exxonmobil.com/about-us/who-we-are,https://corporate.exxonmobil.com/About-us/Who-we-are,False,https://corporate.exxonmobil.com/who-we-are,20240313181346,https://web.archive.org/web/20240313181346/https://corporate.exxonmobil.com/who-we-are,301,True,trafilatura,354,dd172a81ebd95e062d76238689f4efa6be4044fc,"Who we are
+Fueling the world safely and responsibly
+We work to provide the fuels and chemicals that make modern life possible and support human progress. For us, providing the energy our global economy requires while also offering lower-emission solutions shouldn’t be an either/or choice; we like to think of it as an “and” equation, and that’s an equation we’re built to help solve.
+Operating in more than 60 countries, we are constantly seeking solutions to meet society’s evolving needs – something ExxonMobil has been doing for more than 140 years.
+At heart, we are a global team of 62,000 scientists, engineers, researchers, technicians, professionals and other employees, representing more than 160 nationalities, who are focused on safely meeting the world’s energy and product needs. Together, we’re determined to play a key role in a thoughtful transition to an energy-secure, lower-emissions future for society.
+Our guiding principles
+Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company. To that end, we must continuously achieve superior financial and operating results while adhering to high ethical standards.Standards of business conduct
+How we achieve strong results is as important as the results themselves. The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business.Our history
+Over the past 140 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to one of the largest publicly traded petroleum and petrochemical enterprises in the world.Consumer and business products
+We continue to evolve to meet growing global demand for oil, natural gas and refined products and aim to play a leading role in the energy transition.
+-
+A combination of scale, technology, integration, and expertise makes us uniquely positioned to provide new solutions for industry.
+Get an inside look at the innovation and technology behind our latest Synergy™ unleaded gasoline and diesel fuel products.
+Finding the right oil is just as important as finding the right fuel. Learn how our advanced Mobil motor oils can optimize and protect your engine."

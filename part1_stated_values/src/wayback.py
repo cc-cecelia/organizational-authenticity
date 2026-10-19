@@ -35,7 +35,15 @@ WAYBACK_URL_RE = re.compile(r"/web/(\d{14})(?:[a-z]{2}_)?/(.+)$")
 
 
 class WaybackError(Exception):
-    """Raised when a request still fails after all retries."""
+    """Raised when a request still fails after all retries.
+
+    `cause` holds the last underlying error (HTTP status or exception text) so
+    that logs show why, not just which URL.
+    """
+
+    def __init__(self, message: str, cause: str = ""):
+        super().__init__(message)
+        self.cause = cause or message
 
 
 def _throttle() -> None:
@@ -73,8 +81,15 @@ def _get(url: str, params: Optional[dict] = None, timeout: int = 60,
                 time.sleep(min(int(retry_after), 300))
                 continue
         if attempt < max_retries:
-            time.sleep(config.BACKOFF_BASE_S * (2 ** attempt))
-    raise WaybackError(f"giving up on {url} {params or ''}: {last_exc}")
+            wait = config.BACKOFF_BASE_S * (2 ** attempt)
+            # 429/503 are archive.org's throttling signals; short backoffs were
+            # observed to keep failing during the pilot, so wait longer.
+            if isinstance(last_exc, WaybackError) and any(
+                    f"HTTP {c}" in str(last_exc) for c in (429, 503)):
+                wait = max(wait, config.THROTTLE_BACKOFF_MIN_S)
+            time.sleep(wait)
+    raise WaybackError(f"giving up on {url} {params or ''}: {last_exc}",
+                       cause=f"{type(last_exc).__name__}: {last_exc}"[:200])
 
 
 # --------------------------------------------------------------------------- #
@@ -102,7 +117,8 @@ def cdx_query(params: Dict[str, object], use_cache: bool = True,
     resp = _get(config.CDX_ENDPOINT, params=params, timeout=config.CDX_TIMEOUT_S,
                 max_retries=max_retries)
     if resp.status_code != 200:
-        raise WaybackError(f"CDX HTTP {resp.status_code}: {params}")
+        raise WaybackError(f"CDX HTTP {resp.status_code}: {params}",
+                           cause=f"HTTP {resp.status_code}")
     text = resp.text.strip()
     data = json.loads(text) if text else []
     rows = [dict(zip(data[0], r)) for r in data[1:]] if data else []

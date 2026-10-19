@@ -57,6 +57,7 @@ USER_AGENT = (
 MIN_REQUEST_INTERVAL_S = 1.5   # global spacing between requests to archive.org
 MAX_RETRIES = 5                # retries on 429 / 5xx / connection errors
 BACKOFF_BASE_S = 4.0           # exponential backoff: 4, 8, 16, 32, 64 s
+THROTTLE_BACKOFF_MIN_S = 20.0  # floor for the wait after HTTP 429 / 503
 CDX_TIMEOUT_S = 90
 FETCH_TIMEOUT_S = 60
 

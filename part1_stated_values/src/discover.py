@@ -84,10 +84,11 @@ def discover_firm(firm: pd.Series, gap_years: Set[int]) -> Dict:
                 # in scrape.py, so this only affects ranking).
                 "collapse": "timestamp:4",
                 "limit": "20000",
-            }, max_retries=1)
+            }, max_retries=3)
             query_log.append({"prefix": prefix, "status": "ok", "rows": len(rows)})
         except wayback.WaybackError as exc:
-            query_log.append({"prefix": prefix, "status": f"error: {exc}"[:200], "rows": 0})
+            # Failed prefixes are not cached, so re-running discovery retries them.
+            query_log.append({"prefix": prefix, "status": f"error: {exc.cause}", "rows": 0})
             continue
         for r in rows:
             years[r["urlkey"]].add(int(r["timestamp"][:4]))
@@ -100,7 +101,11 @@ def discover_firm(firm: pd.Series, gap_years: Set[int]) -> Dict:
         path = urlparse(url).path
         if pages.canonical(url) in seed_keys:
             continue
-        if not config.DISCOVERY_KEEP_RE.search(path) or config.DISCOVERY_DROP_RE.search(url):
+        # Keywords must appear in the page's own (last) path segment: a keyword in
+        # a parent directory ("/corporate/About-JPMC/esg.htm") marks a sub-page
+        # of the About section, not the About page itself.
+        last = [s for s in path.split("/") if s][-1:] or [""]
+        if not config.DISCOVERY_KEEP_RE.search(last[0]) or config.DISCOVERY_DROP_RE.search(url):
             continue
         if len([s for s in path.split("/") if s]) > config.DISCOVERY_MAX_DEPTH:
             continue
