@@ -83,8 +83,10 @@ def discover_firm(firm: pd.Series, gap_years: Set[int]) -> Dict:
             rows = wayback.cdx_query({
                 "url": prefix,
                 "matchType": "prefix",
-                "from": str(config.YEARS[0]),
-                "to": str(config.YEARS[-1]),
+                # Only scan the gap-year range: smaller index scans, faster
+                # queries, and pages outside the gaps cannot help anyway.
+                "from": str(min(gap_years)),
+                "to": str(max(gap_years)),
                 "fl": "urlkey,timestamp,original,statuscode",
                 "filter": ["statuscode:[23]..", "mimetype:text/html"],
                 # One row per URL per year. Caveat: collapse compares adjacent

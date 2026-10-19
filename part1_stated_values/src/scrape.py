@@ -186,7 +186,17 @@ def main():
     all_rows, all_log, all_gaps = [], [], []
     for _, firm in firms.iterrows():
         print(f"[{firm.ticker}] scraping...", flush=True)
-        rows, log, gaps = scrape_firm(firm)
+        try:
+            rows, log, gaps = scrape_firm(firm)
+        except Exception as exc:  # one firm's failure must not abort the run
+            msg = f"{type(exc).__name__}: {exc}"[:300]
+            print(f"[{firm.ticker}] FAILED: {msg}", flush=True)
+            base = {"ticker": firm.ticker, "company_name": firm.company_name, "sector": firm.sector}
+            rows = [{**base, "year": y, "status": "missing", "gap_reason": "scrape_error"}
+                    for y in config.YEARS]
+            gaps = [{**base, "year": y, "reason": "scrape_error", "detail": msg,
+                     "discovery_run": False} for y in config.YEARS]
+            log = []
         ok = sum(r["status"] == "ok" for r in rows)
         print(f"[{firm.ticker}] {ok}/{len(rows)} years, {len(log)} captures tried", flush=True)
         all_rows += rows

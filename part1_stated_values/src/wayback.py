@@ -60,7 +60,7 @@ def _get(url: str, params: Optional[dict] = None, timeout: int = 60,
          max_retries: int = config.MAX_RETRIES) -> requests.Response:
     """GET with global throttling and exponential backoff.
 
-    Retries on connection errors, timeouts, HTTP 429 and HTTP 5xx (archive.org
+    Retries on connection errors, timeouts, truncated bodies, HTTP 429 and HTTP 5xx (archive.org
     returns these under load). Honors Retry-After when present. Any other status
     (including 404) is returned to the caller, because a 404 from Wayback is a
     meaningful answer ("not archived"), not a transient failure.
@@ -70,7 +70,10 @@ def _get(url: str, params: Optional[dict] = None, timeout: int = 60,
         _throttle()
         try:
             resp = _session.get(url, params=params, timeout=timeout, allow_redirects=True)
-        except (requests.ConnectionError, requests.Timeout) as exc:
+        except (requests.ConnectionError, requests.Timeout,
+                requests.exceptions.ChunkedEncodingError,
+                requests.exceptions.ContentDecodingError) as exc:
+            # Includes responses archive.org truncates mid-body under load.
             last_exc = exc
         else:
             if resp.status_code != 429 and resp.status_code < 500:
