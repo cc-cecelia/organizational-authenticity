@@ -1,1 +1,36 @@
 ticker,company_name,sector,year,reason,detail,discovery_run
+AAPL,Apple,Technology,2018,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2019,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2020,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2021,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2022,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2023,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AAPL,Apple,Technology,2024,all_captures_rejected:redirect_unrelated_page,2 capture(s) tried: redirect_unrelated_page x2,True
+AVGO,Broadcom,Technology,2016,no_captures_in_year,"4 candidate URL(s) have no 2xx/3xx capture in 2016; archived years across candidates: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]",True
+AVGO,Broadcom,Technology,2019,all_captures_rejected:thin_text,7 capture(s) tried: thin_text x7,True
+AVGO,Broadcom,Technology,2020,all_captures_rejected:thin_text,7 capture(s) tried: thin_text x7,True
+AVGO,Broadcom,Technology,2021,all_captures_rejected:thin_text,10 capture(s) tried: thin_text x10,True
+AVGO,Broadcom,Technology,2022,all_captures_rejected:thin_text,5 capture(s) tried: thin_text x5,True
+AVGO,Broadcom,Technology,2023,all_captures_rejected:thin_text,5 capture(s) tried: thin_text x5,True
+AVGO,Broadcom,Technology,2024,all_captures_rejected:thin_text,4 capture(s) tried: thin_text x4,True
+CRM,Salesforce,Technology,2016,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2016; archived years across candidates: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]",True
+LLY,Eli Lilly,Healthcare,2021,all_captures_rejected:thin_text,5 capture(s) tried: thin_text x4; redirect_target_not_archived x1,True
+LLY,Eli Lilly,Healthcare,2022,all_captures_rejected:thin_text,13 capture(s) tried: thin_text x13,True
+LLY,Eli Lilly,Healthcare,2023,all_captures_rejected:thin_text,9 capture(s) tried: thin_text x9,True
+BMY,Bristol-Myers Squibb,Healthcare,2016,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2016; archived years across candidates: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]",True
+MCD,McDonald's,Consumer Discretionary,2019,all_captures_rejected:redirect_type_mismatch,3 capture(s) tried: redirect_type_mismatch x2; redirect_unrelated_page x1,True
+NKE,Nike,Consumer Discretionary,2023,all_captures_rejected:thin_text,11 capture(s) tried: thin_text x11,True
+NKE,Nike,Consumer Discretionary,2024,all_captures_rejected:thin_text,9 capture(s) tried: thin_text x7; fetch_error x2,True
+LOW,Lowe's,Consumer Discretionary,2016,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2016; archived years across candidates: [2020, 2021, 2022, 2023, 2024]",True
+LOW,Lowe's,Consumer Discretionary,2017,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2017; archived years across candidates: [2020, 2021, 2022, 2023, 2024]",True
+LOW,Lowe's,Consumer Discretionary,2018,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2018; archived years across candidates: [2020, 2021, 2022, 2023, 2024]",True
+LOW,Lowe's,Consumer Discretionary,2019,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2019; archived years across candidates: [2020, 2021, 2022, 2023, 2024]",True
+EOG,EOG Resources,Energy,2019,all_captures_rejected:thin_text,5 capture(s) tried: thin_text x4; redirect_target_not_archived x1,True
+EOG,EOG Resources,Energy,2020,all_captures_rejected:thin_text,4 capture(s) tried: thin_text x4,True
+EOG,EOG Resources,Energy,2021,all_captures_rejected:thin_text,4 capture(s) tried: thin_text x3; redirect_target_not_archived x1,True
+EOG,EOG Resources,Energy,2022,all_captures_rejected:thin_text,3 capture(s) tried: thin_text x3,True
+EOG,EOG Resources,Energy,2023,all_captures_rejected:thin_text,4 capture(s) tried: thin_text x4,True
+EOG,EOG Resources,Energy,2024,all_captures_rejected:thin_text,4 capture(s) tried: thin_text x3; redirect_target_not_archived x1,True
+PSX,Phillips 66,Energy,2016,no_captures_in_year,"3 candidate URL(s) have no 2xx/3xx capture in 2016; archived years across candidates: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]",True
+PSX,Phillips 66,Energy,2023,all_captures_rejected:redirect_homepage,2 capture(s) tried: redirect_homepage x2,True
+PSX,Phillips 66,Energy,2024,all_captures_rejected:redirect_homepage,2 capture(s) tried: redirect_homepage x2,True

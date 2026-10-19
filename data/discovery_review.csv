@@ -1,0 +1,38 @@
+ticker,url,page_type,years,gap_years_filled,page_title,approved,reason,judged_by
+AVGO,https://www.broadcom.com/company/citizenship/corporate-culture,values,2019 2020 2021,2019 2020 2021,Corporate Citizenship | Corporate Culture,True,"manual: Broadcom corporate-culture (values) page; ""citizenship"" is only the section directory",claude_review
+AVGO,https://www.broadcom.com/company/industry-analyst-report/forrester-envisioning-end-to-end-process-redesign-In-financial-services,values,2022 2023,2022 2023,"Forrester, Envisioning End-To-End Process Redesign In Financial Services",False,function or sub-organization page ('service'),auto+claude_review
+AVGO,https://www.broadcom.com/about/,about,2021,2021,Broadcom Inc. | Connecting Everything,True,parent-company About/values page ('about'),auto+claude_review
+AAPL,https://www.apple.com/about/ergonomics/vision.html,values,2018 2019,2018 2019,Ergonomics - Eyes and Vision - Apple,False,"manual: ergonomics page about eyesight; ""vision"" matched by accident",claude_review
+LLY,https://www.lilly.com/who-we-are/powered-by-purpose,values,2023,2023,Lilly is Powered by Purpose | Eli Lilly and Company,True,parent-company About/values page ('purpose'),auto+claude_review
+LLY,http://www.lilly.com/about/overview/values.html,values,2022,2022,,True,parent-company About/values page ('values'),auto+claude_review
+LLY,https://www.lilly.com/who-we-are/about-,about,2022,2022,Lilly.com | Eli Lilly and Company,False,manual: malformed (truncated) archived URL; duplicates who-we-are/about-lilly,claude_review
+LLY,https://www.lilly.com/who-we-are/about-lilly.5,about,2022,2022,Lilly.com | Eli Lilly and Company,False,manual: malformed archived URL variant; duplicates who-we-are/about-lilly,claude_review
+LLY,http://www.lilly.com/about/Pages/about.aspx,about,2021,2021,,True,parent-company About/values page ('about'),auto+claude_review
+UNH,http://www.unitedhealthgroup.com/About/MissionValues.aspx,values,2016 2017 2018 2021 2023 2024,2016 2017 2023 2024,UnitedHealth Group - Mission & Values,True,parent-company About/values page ('Mission'),auto+claude_review
+UNH,https://www.unitedhealthgroup.com/about/mission-values.html,values,2019 2020 2022 2023 2024,2023 2024,Mission & Values - UnitedHealth Group,True,parent-company About/values page ('mission'),auto+claude_review
+UNH,https://www.unitedhealthgroup.com/who-we-are/mission-values.html,values,2020 2021 2022 2023 2024,2023 2024,Mission & Values - UnitedHealth Group,True,parent-company About/values page ('mission'),auto+claude_review
+UNH,https://www.unitedhealthgroup.com/who-we-are/our-culture.html,values,2020 2021 2022 2023 2024,2023 2024,Our People & Culture - UnitedHealth Group,True,parent-company About/values page ('culture'),auto+claude_review
+UNH,http://unitedhealthgroup.com/aboutus/missionandvalues.aspx,values,2016 2021 2023,2016 2023,,True,manual: same site (bare domain of www host); UNH Mission & Values page,claude_review
+BAC,http://about.bankofamerica.com:80/en-us/who-we-are/values-and-principles.html,values,2017 2018 2019 2020,2017 2018 2019 2020,Bank of America Values & Principles: Our Core Company Values,True,parent-company About/values page ('values'),auto+claude_review
+BAC,http://about.bankofamerica.com:80/en-us/our-story/our-values.html,values,2016 2017 2018 2019,2016 2017 2018 2019,Bank of America values and principles | Our values,True,parent-company About/values page ('values'),auto+claude_review
+BAC,http://about.bankofamerica.com:80/en-us/who-we-are.html,about,2017 2018 2019 2020,2017 2018 2019 2020,Bank of America: Our Story and Purpose,True,parent-company About/values page ('who-we-are'),auto+claude_review
+BAC,http://about.bankofamerica.com:80/en-us/who-we-are/our-company.html,about,2017 2018 2019 2020,2017 2018 2019 2020,"Bank of America Corporation: Company Profile, Facts & Vision",True,parent-company About/values page ('our-company'),auto+claude_review
+BAC,http://about.bankofamerica.com:80/en-us/who-we-are/our-culture.html,values,2017 2019 2020,2017 2019 2020,Bank of America Culture - Integrity & Risk Management,True,parent-company About/values page ('culture'),auto+claude_review
+ABBV,http://www.abbvie.com/about-us.html,about,2016,2016,,True,parent-company About/values page ('about'),auto+claude_review
+TJX,http://www.tjx.com:80/about,about,2016,2016,"About Us - The TJX Companies, Inc.",True,parent-company About/values page ('about'),auto+claude_review
+MPC,http://www.marathonpetroleum.com:80/About_MPC/Our_Values,values,2016 2017 2018,2016 2017 2018,Marathon Petroleum Corporation - Our Values,True,parent-company About/values page ('Values'),auto+claude_review
+MPC,http://www.marathonpetroleum.com:80/Corporate_Citizenship/Political_Engagement_and_Disclosure/Philosophy_and_Purpose,values,2016 2017 2018,2016 2017 2018,Philosophy and Purpose,False,function or sub-organization page ('Citizenship'),auto+claude_review
+MPC,http://www.marathonpetroleum.com:80/About_MPC,about,2016 2017 2018,2016 2017 2018,Marathon Petroleum Corporation - About Us,True,parent-company About/values page ('About'),auto+claude_review
+MPC,https://www.marathonpetroleum.com/Corporate_Citizenship/Health_Environment_Safety_Security/Vision_Mission/,values,2016 2017,2016 2017,Vision & Mission,False,function or sub-organization page ('Citizenship'),auto+claude_review
+MPC,http://www.marathonpetroleum.com:80/About_MPC/Our_Values/Diversity/Our_Corporate_Culture_/,values,2016 2017,2016 2017,Our Corporate Culture,False,function or sub-organization page ('Diversity'),auto+claude_review
+OXY,http://www.oxy.com:80/aboutOccidental/Pages/Vision-and-Values.aspx,values,2016 2017 2018 2019 2020 2021,2016 2017 2018 2019 2020 2021,Vision and Values,True,parent-company About/values page ('Vision'),auto+claude_review
+OXY,http://www.oxy.com:80/aboutOccidental,about,2016 2017 2018 2020 2021,2016 2017 2018 2020 2021,Request Rejected,True,"manual: OXY About page; sampled capture was an error page (""Request Rejected""), each capture is still validated (soft-404/thin checks)",claude_review
+OXY,https://www.oxy.com/about/,about,2021 2022 2023 2024,2021 2022 2023 2024,About,True,parent-company About/values page ('about'),auto+claude_review
+OXY,http://www.oxy.com/OurBusinesses/Chemicals/_vti_bin/permissions.asmx,values,2017 2021,2017 2021,Permissions Web Service,False,function or sub-organization page ('Service'),auto+claude_review
+OXY,http://www.oxy.com/OurBusinesses/midstreamMarketing/_vti_bin/permissions.asmx,values,2017 2021,2017 2021,Permissions Web Service,False,function or sub-organization page ('Service'),auto+claude_review
+COP,http://www.conocophillips.com:80/who-we-are,about,2016,2016,,True,parent-company About/values page ('who-we-are'),auto+claude_review
+HAL,http://www.halliburton.com:80/en-us/about-us,about,2016 2017 2018,2016 2017 2018,,True,parent-company About/values page ('about'),auto+claude_review
+HAL,http://www.halliburton.com/AboutUs/,about,2016 2018,2016 2018,,True,parent-company About/values page ('About'),auto+claude_review
+PSX,http://www.phillips66.com/about.5%E2%80%9CAndeavor,about,2024,2024,,False,manual: garbage URL from a mis-parsed link,claude_review
+EOG,http://www.eogresources.com/about/overview.html,about,2016 2017 2018 2019 2021 2024,2016 2017 2018 2019 2021 2024,"Overview : EOG Resources, Inc.",True,parent-company About/values page ('overview'),auto+claude_review
+EOG,http://www.eogresources.com:80/about,about,2016,2016,,True,parent-company About/values page ('about'),auto+claude_review

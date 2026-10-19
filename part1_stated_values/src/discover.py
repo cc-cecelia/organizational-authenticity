@@ -159,8 +159,11 @@ def auto_judge(firm: pd.Series, cand: Dict, title: str):
     Reject: other host; sub-organizations (institute, foundation, subsidiary);
     function pages (governance, careers, investors, ESG, products, ...).
     """
-    seed_hosts = {urlparse(u.strip()).hostname for u in str(firm.seed_urls).split(";")}
-    host = urlparse(cand["url"]).hostname
+    def _host(u):  # "www." is the same site as the bare domain
+        h = (urlparse(u.strip()).hostname or "").lower()
+        return h[4:] if h.startswith("www.") else h
+    seed_hosts = {_host(u) for u in str(firm.seed_urls).split(";")}
+    host = _host(cand["url"])
     path = urlparse(cand["url"]).path
     if host not in seed_hosts:
         return False, f"different host ({host})"
