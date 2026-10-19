@@ -1,0 +1,28 @@
+ticker,filing_year,cda_found,cda_method,cda_words,cda_end_marker,proposals_found,proposals_words,proposals_signal_hits,proposals_end_marker
+JPM,2016,True,heading,11944,Executive compensation tables,True,7901.0,17.0,General information about the meeting
+JPM,2017,True,heading,12586,Executive compensation tables,True,6509.0,22.0,General information about the meeting
+JPM,2018,True,heading,12239,Executive compensation tables,True,4239.0,9.0,Information about the annual shareholder meeting
+JPM,2019,True,heading,12679,Executive compensation tables,True,3592.0,7.0,ANNUAL MEETING INFORMATION
+JPM,2020,True,heading,15476,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,7673.0,14.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING
+JPM,2021,True,heading,18345,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,4995.0,11.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING
+JPM,2022,True,heading,19787,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,True,8055.0,16.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING
+JPM,2023,True,heading,16309,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,True,12371.0,29.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING
+JPM,2024,True,heading,16437,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,11712.0,45.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING
+MSFT,2016,True,heading,8765,Compensation Committee report,True,1951.0,6.0,7. Information about the meeting
+MSFT,2017,True,heading,8186,Summary compensation table,False,,,
+MSFT,2018,True,opening_sentence,8245,The Compensation Committee has reviewed and discussed with management the Compen,False,,,
+MSFT,2019,True,heading,8837,Compensation Committee Report,True,1986.0,4.0,5. Information About the Meeting
+MSFT,2020,True,heading,11758,Summary Compensation Table,True,1588.0,4.0,5. Information About the Meeting
+MSFT,2021,True,heading,11749,Summary Compensation Table,True,1012.0,3.0,Additional Information
+MSFT,2022,True,heading,12412,Summary Compensation Table,True,2133.0,7.0,Additional Information
+MSFT,2023,True,heading,11263,Compensation Committee Report,True,10958.0,23.0,5. Information About the Meeting
+MSFT,2024,True,heading,12787,Compensation Committee Report,True,8697.0,15.0,5. Information About the Meeting
+XOM,2016,True,heading,7555,EXECUTIVE COMPENSATION TABLES,True,11234.0,27.0,ADDITIONAL INFORMATION
+XOM,2017,True,heading,7395,EXECUTIVE COMPENSATION TABLES,True,7923.0,22.0,ADDITIONAL INFORMATION
+XOM,2018,True,heading,7062,EXECUTIVE COMPENSATION TABLES,True,3833.0,11.0,ADDITIONAL INFORMATION
+XOM,2019,True,heading,7372,EXECUTIVE COMPENSATION TABLES,True,7308.0,25.0,ADDITIONAL INFORMATION
+XOM,2020,True,heading,6076,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2019 Change in Pens,True,6506.0,17.0,ADDITIONAL INFORMATION
+XOM,2021,True,heading,9472,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2020 Pension Value ,True,8784.0,22.0,ADDITIONAL INFORMATION
+XOM,2022,True,heading,8479,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2021 Change inPensi,True,7976.0,24.0,ADDITIONAL INFORMATION
+XOM,2023,True,heading,9328,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2022 Change in Pens,True,18632.0,83.0,ADDITIONAL INFORMATION
+XOM,2024,True,heading,9057,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2023 Change in Pens,True,11342.0,49.0,ADDITIONAL INFORMATION

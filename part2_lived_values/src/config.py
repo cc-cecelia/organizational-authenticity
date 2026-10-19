@@ -64,3 +64,23 @@ HEADER_URL = "https://www.sec.gov/Archives/edgar/data/{cik}/{acc_nodash}/{acc}-i
 # (NVDA 2022 filed an 86-word notice as a separate DEF 14A) or a body split
 # across several files, so we flag it rather than silently accept it.
 MIN_EXPECTED_WORDS = 5_000
+
+# --- Analysis --------------------------------------------------------------
+ANALYSIS_DIR = OUTPUT_DIR / "analysis"
+LLM_CACHE_DIR = DATA_DIR / "llm_cache"     # committed: makes LLM results reproducible
+
+# Loughran-McDonald Master Dictionary (1993-2025 release), downloaded from the
+# authors' Google Drive link on https://sraf.nd.edu/loughranmcdonald-master-dictionary/
+# Free for academic use; not redistributed in this repo, fetched on first run
+# and verified against this checksum.
+LM_URL = ("https://drive.usercontent.google.com/download?"
+          "id=1iq2RUf8qGFEAk1g8wQntP3habOnR3fXF&export=download&confirm=t")
+LM_SHA256 = "e2d1328682bab7d2187684fb9f5420bb730401c9eefc00daf835edd203f4859d"
+LM_PATH = CACHE_DIR / "Loughran-McDonald_MasterDictionary_1993-2025.csv"
+
+# LLM extraction. Haiku 5.5 rejects non-default sampling parameters, so
+# temperature 0 is not available; determinism comes from schema-constrained
+# output plus a content-hash cache (each section is extracted exactly once).
+LLM_MODEL = "claude-haiku-5-5"
+LLM_EFFORT = "low"
+LLM_PROMPT_VERSION = "v1"   # bump to invalidate the cache after prompt edits

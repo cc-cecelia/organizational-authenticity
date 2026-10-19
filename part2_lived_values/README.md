@@ -1,9 +1,11 @@
 # Part 2: Lived values (SEC proxy statements)
 
-**Status:** data collection is complete for all 50 firms. The analysis is not built yet.
+**Status:** data collection is complete for all 50 firms. The analysis has been
+piloted on MSFT, JPM and XOM: the classical layer has run, the LLM layer is built
+and dry-run, and the full run is pending.
 
-**Coverage: 449 of 450 firm-years have a proxy.** 440 are clean and 9 are flagged
-for review. The only gap is AAPL 2018, a filing-timing artefact explained below.
+**Coverage: 450 of 450 firm-years have a proxy.** 441 are clean and 9 are flagged
+for review (listed below).
 
 ## What
 For each of the 50 sample firms and each filing year 2016–2024, we retrieve the
@@ -122,24 +124,95 @@ compressed (about 43MB in total).
 ## Coverage results (full run)
 | Status | Firm-years |
 |---|---|
-| `ok` | 440 |
+| `ok` | 441 |
 | `ok_flagged` | 9 |
-| `gap` | 1 |
+| `gap` | 0 |
 
-**The one gap: AAPL 2018.** Apple files its proxy in late December or early
-January. Calendar 2017 therefore contains two annual proxies: 2017-01-06 (fiscal
-2016) and 2017-12-27 (fiscal 2017, for the February 2018 meeting). Calendar 2018
-contains none. Under the filing-year rule this is a true gap, not missing data.
-The Dec-2017 filing is in the manifest and in `proxy_text/` (`selected = false`).
+**Timing-shift rule (fills AAPL 2018).** Apple files its proxy in late December
+or early January. Calendar 2017 therefore holds two annual proxies: 2017-01-06
+(fiscal 2016) and 2017-12-27 (fiscal 2017, for the February 2018 meeting).
+Calendar 2018 holds none. A narrow rule in `assign_panel_years()` moves a
+December-filed annual proxy to the next year only when (a) its own year still
+has another annual proxy and (b) the next year has no eligible filing at all.
+It never displaces a filing and never empties a year. In this sample it fires
+only for AAPL 2018. The row is flagged, and `filing_date` keeps the true date.
 
 **Flagged rows (usable, but worth knowing about):**
 | Firm-year | Why flagged |
 |---|---|
 | XOM 2021, MCD 2022, SBUX 2024 | Contested election: the company proxy is a DEFC14A, so its content is shaped by the proxy fight |
 | TSLA 2018, TJX 2018, AVGO 2018 | A special-meeting proxy filed the same year was excluded (TSLA: March 2018 vote on the Musk CEO Performance Award; TJX: special meeting, Oct 2018; AVGO: redomiciliation scheme meeting) |
-| AAPL 2017 | Two annual proxies in one year (see the gap above); the earlier one is selected |
+| AAPL 2018 | Timing shift: the 2017-12-27 proxy for the Feb-2018 meeting is assigned to 2018 (rule above) |
 | NVDA 2022 | An 86-word notice was filed as a separate DEF 14A; the full proxy is selected |
 | OXY 2019 | OXY's own DEFC14A responding to Icahn's consent solicitation (July 2019, not a meeting proxy) was not selected; the March annual proxy is |
+
+## Analysis (pilot: MSFT, JPM, XOM)
+Both layers code text into the shared stakeholder taxonomy defined in the repo's
+CLAUDE.md (customers, employees, dei, environment, community, shareholders,
+integrity, safety, innovation; the definitions are mirrored in
+`theme_dictionary.CATEGORY_DEFINITIONS`).
+
+```bash
+python part2_lived_values/src/text_measures.py --tickers MSFT JPM XOM     # layer 1
+python part2_lived_values/src/plot_trends.py
+python part2_lived_values/src/llm_extract.py --tickers MSFT JPM XOM --dry-run
+python part2_lived_values/src/llm_extract.py --tickers MSFT JPM XOM --handcheck 10   # needs ANTHROPIC_API_KEY
+```
+Extra packages: `part2_lived_values/requirements.txt`.
+
+### Layer 1: classical NLP on the full text (`text_measures.py`)
+Scalable, transparent and free to rerun.
+- **Seed dictionary** (`theme_dictionary.py`, exported to `output/analysis/theme_dictionary.csv`).
+  Every term has a written rationale. Proxy machinery is excluded explicitly:
+  bare "shareholder(s)" (procedural), bare "equity" (stock awards), "non-employee
+  director", "Consumer & Community Banking", "safe harbor", "Black-Scholes",
+  "Section 16(a) … reporting compliance". Lobbying and political-spending terms
+  are coded `integrity` (they are disclosure and accountability proposals), not
+  `community`. Matched terms were audited on the pilot before freezing.
+- **Three texts per firm-year:** full proxy (`rate_*`), **firm voice** (`fv_rate_*`,
+  the full proxy minus the shareholder-proposal section, whose text is largely
+  written by proponents), and CD&A only (`cda_rate_*`, how the firm explains
+  pay). Firm voice is the headline "say in the proxy" measure. It matters:
+  XOM 2016 scores 100 per 10k words on environment in the full text, but only
+  9 in its own voice, because the rest was proponents' climate text.
+- **Shares** (`*share_*`): each category's share of all theme hits, a
+  composition measure independent of length. This is the scale to compare
+  with Part 1's About pages.
+- **Tone:** Loughran-McDonald 1993-2025 (`lm_dictionary.py`; downloaded and
+  checksum-verified, not redistributed). We report standard LM negative and net
+  tone, plus `_adj` versions without proxy-procedural negatives (AGAINST,
+  OPPOSITION, DISSIDENT, TERMINATION, FORFEITURE, CLAWBACK …). Those words track
+  the number of proposals and the length of the pay tables, not tone. Without
+  this adjustment, a firm's tone "worsens" whenever it receives more
+  shareholder proposals.
+- **Year trends:** `sector_year_trends.csv` (equal-weight firm means) and
+  `figures/trends_firm_voice.png`, `figures/trends_cda.png`. Events
+  (`events.py`) are drawn on the categories they are expected to move, at the
+  first filing year after the event. That year is computed per firm from its
+  own filing calendar in `firm_event_exposure.csv`, so MSFT's October proxies
+  react in the same calendar year.
+
+### Layer 2: LLM extraction from targeted sections (`llm_extract.py`, `sections.py`)
+- **Sections, not whole documents.** `sections.py` finds the CD&A and the
+  shareholder-proposal section. It generates every heading-to-end-marker span
+  and picks the longest valid CD&A, and the proposal span densest in proposal
+  language. This handles tables of contents, cross-references, glossaries and
+  pages rendered as single lines. If a CD&A heading is an image, the fallback
+  uses the section's standard opening sentence (MSFT 2018). Pilot: CD&A found
+  in 27/27 firm-years; proposals in 25/27 (MSFT 2017 and 2018 had none).
+- **Tasks:** (a) every incentive-pay metric, with plan, stated weight (never
+  inferred), weighted/modifier/holistic application, quantitative or
+  qualitative, category, and evidence quote; (b) every shareholder proposal,
+  with topic, category and the board's recommendation.
+- **Model and determinism:** Claude Haiku 5.5 with schema-constrained JSON
+  output and effort `low`. Haiku 5.5 rejects non-default `temperature`, so
+  temperature 0 is not available. Each request is cached in `data/llm_cache/`
+  under a SHA-256 of model + prompt version + prompts + schema + section text.
+  Results are fixed once extracted, and a rerun costs nothing.
+- **Cost:** about 0.8M input tokens for the pilot (about $0.10), roughly $1.50
+  for all 50 firms.
+- **Hand-check:** `--handcheck 10` samples 10 firm-years across firms into
+  `handcheck_sheet.csv` for item-by-item verification against the source text.
 
 ## Known limitations
 - `company_tickers.json` is a current snapshot. Ticker reuse or registrant changes
@@ -153,3 +226,10 @@ The Dec-2017 filing is in the manifest and in `proxy_text/` (`selected = false`)
   statement" and appear fewer than 20 times stay in the text as minor noise.
 - Text and graphics inside images (infographics, pay-mix charts) are not
   captured.
+- Dictionary rates measure emphasis (how much a firm talks about a stakeholder),
+  not commitment or sentiment toward it. "We oppose this DEI proposal" still
+  counts as dei language. The LLM layer's board-recommendation field partly
+  addresses this for proposals.
+- Proxy length and format changed a lot over 2016-2024 (more graphics,
+  pay-versus-performance tables from 2023), which can move per-10k-word rates
+  without any change in substance. Shares are less exposed to this.

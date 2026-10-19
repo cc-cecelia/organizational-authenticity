@@ -13,6 +13,7 @@ Usage: python part2_lived_values/src/package_text.py   (after download_proxies.p
 from __future__ import annotations
 
 import gzip
+import io
 import json
 import sys
 
@@ -24,7 +25,7 @@ OUT_DIR = config.OUTPUT_DIR / "proxy_text"
 MAX_FILE_BYTES = 50 * 1024 * 1024
 
 # Metadata carried with each text so the files stand alone.
-FIELDS = ["ticker", "company_name", "sector", "cik", "filing_year", "accession", "form",
+FIELDS = ["ticker", "company_name", "sector", "cik", "filing_year", "panel_year", "accession", "form",
           "filing_date", "meeting_type", "selected", "prose_words", "table_words"]
 
 
@@ -38,7 +39,10 @@ def main() -> int:
     too_big = []
     for sector, grp in m.groupby("sector"):
         path = OUT_DIR / f"{sector.lower().replace(' ', '_')}.jsonl.gz"
-        with gzip.open(path, "wt", encoding="utf-8", compresslevel=9) as f:
+        # mtime=0: byte-identical output for identical content, so git only
+        # sees a change when the text actually changes.
+        with gzip.GzipFile(path, "wb", compresslevel=9, mtime=0) as raw, \
+                io.TextIOWrapper(raw, encoding="utf-8") as f:
             for r in grp.sort_values(["ticker", "filing_date"]).to_dict("records"):
                 rec = {k: r[k] for k in FIELDS}
                 rec["selected"] = bool(rec["selected"])

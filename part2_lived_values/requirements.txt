@@ -1,0 +1,4 @@
+# Part 2 extras on top of the repo-level requirements.txt.
+# anthropic 0.125.0 is the last SDK release supporting Python 3.9 (the repo venv).
+anthropic==0.125.0
+matplotlib>=3.8

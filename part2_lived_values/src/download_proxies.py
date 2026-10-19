@@ -85,6 +85,32 @@ def fetch_and_extract(client: EdgarClient, ticker: str, f: dict) -> dict:
     return f
 
 
+def assign_panel_years(manifest: list) -> None:
+    """Set each filing's panel_year (normally its filing year).
+
+    Narrow timing-shift rule: a firm that files in late December for a
+    meeting early the next year (AAPL: 2017-12-27 for the Feb-2018 meeting)
+    can end up with two annual proxies in one calendar year and none in the
+    next. A December-filed annual proxy moves to year Y+1 only when (a) its
+    own year Y still has another annual proxy and (b) Y+1 has no eligible
+    filing at all. It never displaces a filing and never empties a year.
+    """
+    for r in manifest:
+        r["panel_year"] = r["filing_year"]
+    annual = [r for r in manifest
+              if r["eligible"] and "error" not in r and r.get("meeting_type") == "annual"]
+    for r in sorted(annual, key=lambda r: r["filing_date"]):
+        y = r["panel_year"]
+        if r["filing_date"][5:7] != "12" or y + 1 > config.LAST_YEAR:
+            continue
+        others_in_y = [o for o in annual if o["panel_year"] == y and o is not r]
+        next_year = [o for o in manifest if o["eligible"] and o["panel_year"] == y + 1]
+        if others_in_y and not next_year:
+            r["panel_year"] = y + 1
+            r["timing_shift"] = (f"timing shift: filed {r['filing_date']} for the next year's meeting; "
+                                 f"assigned to {y + 1}, which has no other proxy")
+
+
 def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
     """Return (manifest_rows, coverage_rows, cik_row) for one firm."""
     t = firm["ticker"]
@@ -138,9 +164,11 @@ def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
                 log.warning("%s %s: %s", t, f["accession"], f["error"])
         manifest.append(dict(base, filing_year=int(f["filing_date"][:4]), **f))
 
+    assign_panel_years(manifest)
+
     coverage = []
     for y in YEARS:
-        in_year = [r for r in manifest if r["filing_year"] == y]
+        in_year = [r for r in manifest if r["panel_year"] == y]
         originals = [r for r in in_year if r["eligible"]]
         n_amend = sum(r["form"] in config.AMENDMENT_FORMS for r in in_year)
         row = dict(base, cik=cik_row["cik"], filing_year=y, n_definitive_in_year=len(originals),
@@ -175,6 +203,8 @@ def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
                     others = [f"{r['accession']} ({r.get('meeting_type', 'n/a')})"
                               for r in originals if r is not chosen]
                     notes.append("multiple definitive proxies; not selected: " + ", ".join(others))
+                if chosen.get("timing_shift"):
+                    notes.append(chosen["timing_shift"])
                 if chosen["form"] == config.CONTESTED_FORM:
                     notes.append("contested election: company proxy filed as DEFC14A")
                 if chosen.get("meeting_type") == "unknown":
