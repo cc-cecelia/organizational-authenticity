@@ -11,6 +11,10 @@ disappeared from pay too. Most companies replaced them with broader "people"
 or "culture" goals. Whether those new goals still measure the same things is
 something the current disclosures cannot tell us.
 
+![DEI: what companies say vs what executive pay rewards, 2016-2026](output/figures/dei_say_vs_do_summary.png)
+
+*Proxy statements went quiet on DEI first. Executive pay followed a year or two later, falling from 25 companies with a DEI bonus goal to 3. Websites were still at their peak in mid-2024, the last year collected.*
+
 ## How we got there
 
 **1. The hypothesis: "quiet retention".** A popular view holds that companies

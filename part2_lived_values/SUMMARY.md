@@ -24,6 +24,11 @@ documents: 97% of pay criteria and 100% of shareholder proposals were
 extracted correctly.
 
 ## What we found
+
+![Non-financial goals in executive pay: how common vs how much money](output/analysis/figures/pay_criteria_summary.png)
+
+*Environmental and diversity goals went from rare to common in executive pay (left), but each still carries only a few percent of the bonus (right). Financial results take about 70%.*
+
 1. **Executive pay is overwhelmingly financial.** About 70% of annual-bonus
    weight sits on financial results (profit, revenue, returns) in every year,
    and that share barely moves over nine years.

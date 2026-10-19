@@ -70,8 +70,9 @@ Website channel in more detail (Part 1, About/values pages):
 | Share emphasizing DEI (salience ≥ 2) | 22% | 31% | 37% | 41% | 41% | 40% |
 | Share mentioning DEI at all (salience ≥ 1) | 33% | 44% | 48% | 59% | 59% | 60% |
 
-Figure: `output/figures/say_vs_do_trends.png` (each series indexed to its
-2021-2022 mean, with Part 2's event markers). Data: `output/say_do_trends.csv`.
+![Say vs do trends for DEI and environment, 2016-2026](output/figures/say_vs_do_trends.png)
+
+*What to look for: in the DEI panel, proxy language (green) falls from 2024, pay-linked DEI (orange) collapses only in the 2025-2026 out-of-sample filings, and page salience (blue) is still flat at its peak in 2024. Each series is indexed to its 2021-2022 mean, with Part 2's event markers. Data: `output/say_do_trends.csv`.*
 
 ## Data and method
 - **Say:**
@@ -157,6 +158,10 @@ SFFA) test this directly.
 - Environment retreats mainly in talk (cut say only: BLK, COP, CVX, MSFT,
   OXY, PSX, SBUX, WFC). Pay-linked environment criteria fall only modestly
   (26 → 15 firm-years), and ABBV, JNJ, SLB, VLO and XOM keep both.
+
+![DEI: what companies say vs what executive pay rewards, 2016-2026](output/figures/dei_say_vs_do_summary.png)
+
+*What to look for: the orange pay line peaks at 25 companies in the 2023 filings and falls to 3 by 2026, one to two years after proxy DEI language (green) turns down. Each line is shown as a share of its own peak (`src/plot_summary_figure.py`).*
 
 The out-of-sample collapse is not an extraction artifact. Median CD&A length
 (about 9.7-10k words) and criteria per firm-year (10-12) are flat from 2021 to
@@ -258,11 +263,12 @@ closest thing to genuine quiet retention in this sample.
 |---|---|
 | `src/say_do.py` | Firm-year table, quadrant classification (4 specifications), DEI pay exits |
 | `src/plot_say_do.py` | Say-vs-do trend figure |
+| `src/plot_summary_figure.py` | DEI say-vs-do figure for non-technical readers (`output/figures/dei_say_vs_do_summary.png`) |
 | `output/say_do_firm_year.csv` | One row per firm × year × theme, 2016-2026 |
 | `output/quadrants.csv` | One row per firm × theme × specification, with every per-measure verdict |
 | `output/quadrant_counts.csv` | Counts by theme, specification, sector |
 | `output/dei_pay_exits.csv` | 2024 DEI-paying firms and what their latest plan does |
 | `output/say_do_trends.csv`, `output/figures/say_vs_do_trends.png` | Year trends |
 
-Run: `python part4_proposal/src/say_do.py && python part4_proposal/src/plot_say_do.py`
+Run: `python part4_proposal/src/say_do.py && python part4_proposal/src/plot_say_do.py && python part4_proposal/src/plot_summary_figure.py`
 (needs Part 2's `extension_2025_2026` outputs for the out-of-sample years).

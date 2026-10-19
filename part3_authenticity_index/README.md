@@ -6,6 +6,7 @@
 .venv/bin/pip install -r part3_authenticity_index/requirements.txt
 .venv/bin/python part3_authenticity_index/src/build_index.py   # -> output/authenticity_index.csv
 .venv/bin/python part3_authenticity_index/src/analyze.py       # -> output/analysis/, output/figures/
+.venv/bin/python part3_authenticity_index/src/plot_summary_figure.py   # -> output/figures/firms_vs_years_summary.png
 ```
 
 ## The index in plain words
@@ -102,20 +103,40 @@ NaN reasons:
 - The index varies more between firms than within them over time: the SD of firm means is 0.25, against an average within-firm SD of 0.16.
 - 2 firms have no index. AAPL has no page with codable values, and BRK.B has no pay-metric section to extract.
 
+![Distribution of the authenticity index A](output/figures/hist_A.png)
+
+*What to look for: scores spread across the whole 0 to 1 range, with a pile-up at 0 (stated values with no pay backing at all) and no single typical value.*
+
 **The rankings, and what they measure.** The full table is `output/analysis/firm_ranking.csv`. Firms with fewer than 5 firm-years are flagged **(n<5)**.
 - **Lowest firm means:** SCHW 0.02, NVDA 0.03, CRM 0.09, AMZN 0.14 (n<5), ABT 0.14, GOOGL 0.15 and HD 0.16.
 - **Highest firm means:** EOG 1.00 (n<5), JPM 0.92, VLO 0.82, MSFT 0.82, WFC 0.75 and BLK 0.71.
 - **A measures whether stated values enter executive incentive design. It does not measure honesty in general.**
-  - NVDA, SCHW and GOOGL score near 0 because their annual bonus is purely financial *by design*. Their pages state customers, innovation and community, and their pay philosophy deliberately ties executive incentives to financial results and equity value alone.
+  - NVDA, SCHW and HD score near 0 because their annual bonus is purely financial *by design*: in every year, none of their pay criteria falls outside the shareholders category. Their pages state customers, innovation and community, and their pay philosophy deliberately ties executive incentives to financial results and equity value alone. (GOOGL is also near the bottom, but it added an ESG bonus in 2023.)
   - A firm with a purely financial pay philosophy therefore scores low by construction, whatever it practices elsewhere.
   - JPM, MSFT and the energy firms score high because they run stakeholder scorecards that name the same stakeholders their pages do.
   - This is the first threat to validity below.
+
+![Each company's average score and its range across years](output/figures/firms_vs_years_summary.png)
+
+*What to look for: company averages run from 0.02 to 0.92, while the all-company yearly average (shaded band) stays between 0.36 and 0.47. Individual years still swing when a page or pay plan changes.*
 
 **By sector and year.**
 - Energy (0.53) and Financials (0.53) score highest. Consumer Discretionary (0.31) and Technology (0.33) score lowest.
 - The year means range from 0.36 to 0.47, with no clear trend. 2023 (0.46) and 2024 (0.47) are the two highest years, a small late rise that two years cannot establish as a trend.
 
+![Authenticity index by sector](output/figures/A_by_sector.png)
+
+*What to look for: Energy and Financials medians sit well to the right of Consumer Discretionary and Technology, though every sector spans most of the 0 to 1 range.*
+
+![Authenticity index by year](output/figures/A_by_year.png)
+
+*What to look for: the yearly medians (black bars) stay within a narrow band (0.33 to 0.50), while firm-years within each year spread across the whole 0 to 1 range.*
+
 **Weighted versions are lower:** mean 0.38 at τ = 5%, 0.34 at τ = 10% and 0.26 at τ = 20% (352 firm-years). Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
+
+![Authenticity index by materiality threshold τ](output/figures/A_by_tau.png)
+
+*What to look for: the median falls steadily as τ rises, because most non-financial criteria carry too little bonus weight to count as fully backed.*
 
 **Sensitivity to τ** (46 firms, 352 firm-years with weights): the firm rankings are stable. Spearman correlations of firm mean A are 0.95 between τ → 0 and 5%, 0.92 with 10%, and 0.86 with 20%; across all pairs of thresholds they range from 0.86 to 0.98. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
 

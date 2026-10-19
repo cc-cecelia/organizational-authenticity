@@ -19,6 +19,11 @@ A stricter version counts a value as fully backed only when at least 10% of the 
 ## What we found
 1. **The typical company backs about two-fifths of what it says.** The average score is **0.42**, and **0.34** on the stricter test. Many non-financial goals appear in bonus plans only as unweighted "factors the committee considers", with no money attached.
 2. **Companies differ more from each other than they change over time.** Rankings cover the 45 companies with at least five years of data.
+
+   ![Each company's average score and its range across years](output/figures/firms_vs_years_summary.png)
+
+   *Each row is a company: the dot is its average score, the bar its lowest to highest year. Company averages run from 0.02 to 0.92, while the average across all companies stayed between 0.36 and 0.47 every year.*
+
    - **Highest:** JPMorgan Chase (0.92), Valero (0.82) and Microsoft (0.82). Their executive scorecards name the same stakeholders their pages do.
    - **Lowest:** Charles Schwab (0.02), NVIDIA (0.03) and Salesforce (0.09). Their pages stress customers, innovation and community (NVIDIA's, innovation above all). Schwab's and NVIDIA's bonuses depended only on financial results in every year.
 3. **Energy companies and banks score highest; consumer and tech companies lowest.**

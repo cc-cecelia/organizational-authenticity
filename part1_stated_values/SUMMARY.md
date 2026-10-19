@@ -21,7 +21,13 @@ It also judged whether each year's page had **substantively** changed its stated
    - Customers and community appear on 82% of pages, and innovation on 76%.
    - As *headline* values, customers (30% of pages), integrity (30%) and innovation (29%) dominate.
    - Safety is the least stated theme (29% of pages). Half of its mentions come from energy companies, and a fifth from healthcare (product safety).
-2. **From 2016 to 2024, the stated stakeholder circle widened.** Among the 42 companies observed in both years:
+2. **From 2016 to 2024, the stated stakeholder circle widened.**
+
+   ![Share of values pages clearly emphasizing each theme, 2016-2024](output/figures/themes_summary.png)
+
+   *Diversity, employees, environment and community all gained emphasis; shareholders is the only theme that fell.*
+
+   Among the 42 companies observed in both years:
    - Diversity and inclusion rose the most: average prominence went from 0.6 to 1.1 on the 0 to 3 scale.
    - Employees (1.0 to 1.4), environment (0.6 to 1.0), community (1.5 to 1.9) and safety (0.3 to 0.7) also rose.
    - Shareholders is the only theme that fell (1.1 to 0.9). Integrity stayed flat.

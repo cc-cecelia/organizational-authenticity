@@ -33,6 +33,7 @@ SEC JSON, filing headers and raw documents are cached on disk.
 | `extract_text.py` | Raw HTML → clean text; classifies a proxy as annual or special meeting |
 | `download_proxies.py` | Driver: download, extract, select one proxy per firm-year, log gaps |
 | `package_text.py` | Writes the clean text to gzipped JSON Lines files per sector for the repo (each under 50MB) |
+| `plot_summary_figure.py` | Figure for non-technical readers: how common non-financial pay goals are vs how much bonus rides on them (`output/analysis/figures/pay_criteria_summary.png`) |
 
 ## Decisions and why
 1. **Firm-year = calendar year of the filing date.** This matches Part 1, where
@@ -211,6 +212,14 @@ Scalable, transparent and free to rerun.
   own filing calendar in `firm_event_exposure.csv`, so MSFT's October proxies
   react in the same calendar year.
 
+![Stakeholder language in proxy statements (firm voice), by sector](output/analysis/figures/trends_firm_voice.png)
+
+*What to look for: DEI language rises from 2020 and peaks around 2022-2023 before falling, while Energy's environment and safety language climbs well above other sectors.*
+
+![Stakeholder language in the CD&A, by sector](output/analysis/figures/trends_cda.png)
+
+*What to look for: the same categories in the section explaining executive pay. Financials' DEI language spikes in 2019-2021 and then falls; Energy dominates environment and safety.*
+
 ### Scaling the section finder from 3 to 50 firms
 The pilot's heading rules did not generalise. On all 450 proxies they missed
 the CD&A in 22 firm-years and left proposals outside the found section in 149.
@@ -344,6 +353,10 @@ Result (annual incentive, 375 firm-years): 60 `disclosed`, 33
 `none` have long-term criteria only. Average weight on shareholder
 (financial) criteria is ~70% in every year. Environment rises from 0.4% (2016)
 to ~4-5% (2022-24); Energy reaches 12% environment and 11% safety in 2024.
+
+![Non-financial goals in executive pay: how common vs how much money](output/analysis/figures/pay_criteria_summary.png)
+
+*What to look for: environment and DEI goals appear in about half of companies' pay by 2023-2024 (left), yet each carries only about 2-6% of the bonus (right). Made by `src/plot_summary_figure.py`.*
 
 ### Masking test (validation of the imputation)
 Run on the 179 firm-years whose annual-incentive tier weights are fully

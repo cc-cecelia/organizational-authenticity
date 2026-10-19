@@ -29,6 +29,9 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python part1_stated_values/src/scrape.py              # seeds (+ approved discoveries)
 .venv/bin/python part1_stated_values/src/discover.py --from-gaps  # slow; fills review CSV
 # spot-check data/discovery_review.csv, then re-run scrape.py (fetches are cached)
+.venv/bin/python part1_stated_values/src/llm_analyze.py         # LLM coding (cached; offline)
+.venv/bin/python part1_stated_values/src/linguistic_shifts.py   # per-firm shifts
+.venv/bin/python part1_stated_values/src/plot_summary_figure.py # theme-trend figure
 ```
 
 ## Decisions and why
@@ -254,3 +257,7 @@ This file answers part (c): one row per firm summarizing 2016 to 2024. It is bui
 - The biggest substantive change: the year-over-year change marked substantive that has the largest shift in the salience vector. It comes with the LLM's change summary and one verbatim quote from each side, taken from the category that moved most.
 - The first sentence of `analyst_notes` in the first and last year.
 - `page_type_changed` flags firms whose page type differs between the early and late windows. For those firms (e.g. BAC, WFC), part of the shift reflects which page was available, not changed wording.
+
+![Share of values pages clearly emphasizing each theme, 2016-2024](output/figures/themes_summary.png)
+
+*What to look for: across all firms, diversity, employees, environment and community gain clear emphasis (salience 2 or 3) from 2016 to 2024, while shareholders is the only theme that falls. Made by `src/plot_summary_figure.py`.*

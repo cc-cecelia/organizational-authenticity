@@ -18,6 +18,10 @@ The Organizational Authenticity Index then asks, firm by firm and year by year: 
 | `part3_authenticity_index/` | Index construction and analysis (`src/`); firm-year index with per-category inputs (`output/authenticity_index.csv`); distribution, sensitivity, robustness and validity results and figures (`output/analysis/`, `output/figures/`) | The typical firm backs about two-fifths of its stated emphasis with executive pay (mean 0.42; 0.34 when a value must carry at least 10% of the bonus). The ratio stayed flat from 2016 to 2024 because pages broadened as pay did. Rankings are driven by pay philosophy and sector. |
 | `part4_proposal/` | Say vs do after the 2023 DEI backlash, with an out-of-sample timing test on 2025 to 2026 proxies | Proxies went quiet on DEI first, websites had not by mid-2024, and pay followed one to two years later. Explicit DEI pay goals fell from 23 companies (2024) to 3 (2026), mostly replaced by broader people or culture goals. |
 
+![DEI: what companies say vs what executive pay rewards, 2016-2026](part4_proposal/output/figures/dei_say_vs_do_summary.png)
+
+*The Part 4 headline in one chart. Proxy statements went quiet on DEI first. Executive pay followed a year or two later, falling from 25 companies with a DEI bonus goal (2023 filings) to 3 (2026). Websites were still at their peak in mid-2024, the last year collected.*
+
 Each part has a `README.md` (methods, decisions, coverage, limitations, what we would do with more time) and a `SUMMARY.md` for non-technical readers.
 
 ## How to reproduce
@@ -43,6 +47,7 @@ python3 -m venv .venv
 | Part 3: index, analysis, figures | `python part3_authenticity_index/src/build_index.py && python part3_authenticity_index/src/analyze.py` | Committed outputs of Parts 1 and 2 only | **Offline**, free |
 | Part 4 | `python part4_proposal/src/say_do.py && python part4_proposal/src/plot_say_do.py` | Committed outputs of Parts 1 to 3 | **Offline**, free |
 | Part 1: per-firm shifts | `python part1_stated_values/src/linguistic_shifts.py` | `stated_values.csv` | **Offline**, free |
+| Summary figures (one per part) | `python <part>/src/plot_summary_figure.py` for `part1_stated_values`, `part2_lived_values`, `part3_authenticity_index`, `part4_proposal` | Committed outputs | **Offline**, free |
 | Part 1: scrape | `python part1_stated_values/src/scrape.py` (then optionally `discover.py --from-gaps`) | Network (Wayback Machine). The raw HTML cache is gitignored. | Free; about 1 to 2 hours first run (polite rate limit), discovery several hours |
 | Part 1: LLM coding | `python part1_stated_values/src/llm_analyze.py` | API, but the **cache is committed** (854 responses in `part1_stated_values/cache/llm/`), so a rerun from the committed `snapshots.csv` makes no API calls | **Offline**, $0 with the committed cache; about $0.6 from an empty one |
 | Part 2: proxies | `python part2_lived_values/src/download_proxies.py` | Network (SEC EDGAR). Rebuilds the per-filing text the LLM steps read. | Free; about 5 minutes |
