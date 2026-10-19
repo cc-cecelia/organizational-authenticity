@@ -1,0 +1,4 @@
+# Re-creatable from EDGAR by running src/download_proxies.py
+data/cache/
+data/raw/
+data/text/

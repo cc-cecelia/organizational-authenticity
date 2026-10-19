@@ -1,0 +1,4 @@
+ticker,company_name,sector,sec_ticker,sec_title,cik_from_tickers_json,cik,cik_source,cik_note,entity_name,former_names,earliest_filing,history_covers_window
+MSFT,Microsoft,Technology,MSFT,MICROSOFT CORP,789019,789019,company_tickers.json,,MICROSOFT CORP,,1994-02-14,True
+JPM,JPMorgan Chase,Financials,JPM,JPMORGAN CHASE & CO,19617,19617,company_tickers.json,,JPMORGAN CHASE & CO,JPMORGAN CHASE & CO; J P MORGAN CHASE & CO; CHASE MANHATTAN CORP /DE/; CHEMICAL BANKING CORP,1994-01-20,True
+XOM,ExxonMobil,Energy,XOM,ExxonMobil Holdings Corp,2115436,34088,override,"company_tickers.json now maps XOM to CIK 2115436 (ExxonMobil Holdings Corp, first filing 2026-07). 2016-2024 proxies were filed by Exxon Mobil Corp, CIK 34088.",EXXON MOBIL CORP,EXXON CORP,1994-03-04,True
