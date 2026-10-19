@@ -132,3 +132,24 @@ DISCOVERY_DROP_RE = re.compile(
 )
 DISCOVERY_MAX_DEPTH = 4         # path segments; deeper pages are rarely the About page
 DISCOVERY_TOP_K = 5             # discovered candidates appended after seeds
+
+# Human-in-the-loop gate: discovered candidates are written here with a
+# pre-filled `approved` judgment and `reason`; scrape.py uses approved rows only.
+DISCOVERY_REVIEW_CSV = REPO_ROOT / "data" / "discovery_review.csv"
+
+# Pre-fill rules for the review CSV (applied to URL path + page title).
+# Reject first: sub-organizations and pages about a specific function.
+REVIEW_REJECT_RE = re.compile(
+    r"(institute|foundation|subsidiar|ventures|capital-markets|governance|"
+    r"board|director|committee|career|job|recruit|investor|esg|sustainab|"
+    r"citizenship|diversity|inclusion|human-rights|supplier|procurement|"
+    r"news|press|policy|policies|leadership|executive|management-committee|"
+    r"client|product|service|solution)",
+    re.I,
+)
+# Approve: the page is clearly about the parent company or its values.
+REVIEW_APPROVE_RE = re.compile(
+    r"(values|mission|purpose|principles|credo|culture|who-we-are|who we are|"
+    r"our-company|our company|about|our-story|our story|overview|vision)",
+    re.I,
+)

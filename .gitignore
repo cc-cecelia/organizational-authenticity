@@ -15,3 +15,7 @@ data/cache/
 .DS_Store
 .vscode/
 .idea/
+
+# Project notes and assignment materials (kept local, not committed)
+CLAUDE.md
+docs/

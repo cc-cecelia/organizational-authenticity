@@ -13,8 +13,13 @@ keyword sits deeper in the path (e.g. /corporate/About-JPMC/...) is only found
 if a seed points into that directory, which is why seed parent directories are
 added as extra prefixes.
 
-Results are cached per firm in cache/discovery/<TICKER>.json and are picked up
-automatically by scrape.py on its next run.
+Results are cached per firm in cache/discovery/<TICKER>.json. Discovery is
+noisy (it surfaces sub-organization and function pages under /about), so every
+candidate is appended to data/discovery_review.csv with a pre-filled
+`approved` judgment and `reason` (rules in config.REVIEW_*_RE, applied to the
+URL path and the archived page title). A human spot-checks that file; scrape.py
+uses approved rows only. Existing rows are never overwritten, so manual edits
+survive re-runs.
 
 Usage (from repo root; slow, meant for the background):
     .venv/bin/python part1_stated_values/src/discover.py --from-gaps
@@ -35,7 +40,11 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import config  # noqa: E402
 import pages  # noqa: E402
+import extract  # noqa: E402
 import wayback  # noqa: E402
+
+REVIEW_COLUMNS = ["ticker", "url", "page_type", "years", "gap_years_filled",
+                  "page_title", "approved", "reason", "judged_by"]
 
 
 def prefixes_for(firm: pd.Series) -> List[str]:
@@ -123,6 +132,68 @@ def discover_firm(firm: pd.Series, gap_years: Set[int]) -> Dict:
             "candidates": [d for d in found if d["gap_years_filled"]][:config.DISCOVERY_TOP_K]}
 
 
+def fetch_title(url: str, years: List[int]) -> str:
+    """Title of one archived capture of `url` (latest year first), for review."""
+    caps = wayback.captures_for_url(url, config.YEARS[0], config.YEARS[-1])
+    ok = sorted((c for c in caps if c["statuscode"] == "200"),
+                key=lambda c: c["timestamp"], reverse=True)
+    for c in ok[:2]:
+        try:
+            f = wayback.fetch_snapshot(c["timestamp"], c["original"])
+        except wayback.WaybackError:
+            continue
+        if f.http_status == 200:
+            return extract.page_title(f.content)
+    return ""
+
+
+def auto_judge(firm: pd.Series, cand: Dict, title: str):
+    """Pre-fill (approved, reason) following the review rules.
+
+    Approve: same host as a seed, and path or title clearly about the parent
+    company or its values/mission/purpose/principles/credo.
+    Reject: other host; sub-organizations (institute, foundation, subsidiary);
+    function pages (governance, careers, investors, ESG, products, ...).
+    """
+    seed_hosts = {urlparse(u.strip()).hostname for u in str(firm.seed_urls).split(";")}
+    host = urlparse(cand["url"]).hostname
+    path = urlparse(cand["url"]).path
+    if host not in seed_hosts:
+        return False, f"different host ({host})"
+    m = config.REVIEW_REJECT_RE.search(path) or config.REVIEW_REJECT_RE.search(title)
+    if m:
+        return False, f"function or sub-organization page ('{m.group(0)}')"
+    # Approval must rest on the page's own name (last segment) or its title, not
+    # on a parent directory such as "/About-JPMC/".
+    last = ([seg for seg in path.split("/") if seg][-1:] or [""])[0]
+    m = config.REVIEW_APPROVE_RE.search(last) or config.REVIEW_APPROVE_RE.search(title)
+    if m:
+        return True, f"parent-company About/values page ('{m.group(0)}')"
+    return False, "not clearly an About/values page"
+
+
+def update_review_csv(firm: pd.Series, candidates: List[Dict]) -> pd.DataFrame:
+    """Append new candidates to the review CSV; keep existing (possibly edited) rows."""
+    path = config.DISCOVERY_REVIEW_CSV
+    review = (pd.read_csv(path, dtype=str, keep_default_na=False) if path.exists()
+              else pd.DataFrame(columns=REVIEW_COLUMNS))
+    have = {(r.ticker, pages.canonical(r.url)) for r in review.itertuples()}
+    new = []
+    for c in candidates:
+        if (firm.ticker, pages.canonical(c["url"])) in have:
+            continue
+        title = fetch_title(c["url"], c["years"])
+        approved, reason = auto_judge(firm, c, title)
+        new.append({"ticker": firm.ticker, "url": c["url"], "page_type": c["page_type"],
+                    "years": " ".join(map(str, c["years"])),
+                    "gap_years_filled": " ".join(map(str, c["gap_years_filled"])),
+                    "page_title": title, "approved": str(approved), "reason": reason,
+                    "judged_by": "auto"})
+    review = pd.concat([review, pd.DataFrame(new, columns=REVIEW_COLUMNS)], ignore_index=True)
+    review.to_csv(path, index=False)
+    return review[review.ticker == firm.ticker]
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--tickers", nargs="*", help="firms to run discovery for")
@@ -147,6 +218,8 @@ def main():
         if out.exists() and not args.force:
             print(f"[{t}] cached, skipping")
             continue
+        if t not in gap_years and not args.tickers:
+            continue
         firm = firms[firms.ticker == t].iloc[0]
         print(f"[{t}] discovering ({len(prefixes_for(firm))} prefixes)...", flush=True)
         res = discover_firm(firm, gap_years.get(t, set(config.YEARS)))
@@ -154,8 +227,10 @@ def main():
         n_err = sum(q["status"] != "ok" for q in res["queries"])
         print(f"[{t}] {res['n_urls_seen']} URLs seen, {len(res['candidates'])} candidates kept, "
               f"{n_err} prefix queries failed", flush=True)
-        for c in res["candidates"]:
-            print(f"     {c['page_type']:6s} {c['url']}  fills {c['gap_years_filled']}")
+        rows = update_review_csv(firm, res["candidates"])
+        for r in rows.itertuples():
+            print(f"     {'APPROVE' if r.approved == 'True' else 'reject '} {r.page_type:6s} "
+                  f"{r.url}  [{r.page_title[:50]}]  ({r.reason})", flush=True)
 
 
 if __name__ == "__main__":

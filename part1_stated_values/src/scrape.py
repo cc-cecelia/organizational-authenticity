@@ -42,9 +42,17 @@ def load_companies(tickers: List[str] = None) -> pd.DataFrame:
 
 
 def load_discovered(ticker: str) -> List[Dict]:
-    """Discovered candidates from discover.py, if that step has been run."""
-    path = config.DISCOVERY_CACHE_DIR / f"{ticker}.json"
-    return json.loads(path.read_text())["candidates"] if path.exists() else []
+    """Discovered candidates approved in data/discovery_review.csv, in file order.
+
+    Only rows with approved == True are used: discovery output is noisy, and the
+    review CSV is the human-in-the-loop gate (pre-filled by rule, spot-checked).
+    """
+    path = config.DISCOVERY_REVIEW_CSV
+    if not path.exists():
+        return []
+    review = pd.read_csv(path, dtype=str, keep_default_na=False)
+    ok = review[(review.ticker == ticker) & (review.approved.str.lower() == "true")]
+    return [{"url": u} for u in ok.url]
 
 
 def scrape_firm(firm: pd.Series):
