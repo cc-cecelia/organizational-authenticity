@@ -31,8 +31,8 @@ EOG,Energy,dei,main,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,False,True,na,
 EOG,Energy,environment,main,,,37.644999999999996,45.195,1.0,1.0,0.037500000000000006,0.075,,,,,False,True,na,kept,kept,rise,kept,kept,True,kept_both
 F,Consumer Discretionary,dei,main,0.0,0.0,6.904999999999999,3.995,0.0,,0.0,,0.0,,0.0,,False,True,kept,cut,na,na,cut,na,False,no_pre_do
 F,Consumer Discretionary,environment,main,2.0,1.0,6.694999999999999,8.355,0.0,,0.0,,0.0,,0.0,,False,True,cut,kept,na,na,cut,na,False,no_pre_do
-GOOGL,Technology,dei,main,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,,,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
-GOOGL,Technology,environment,main,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GOOGL,Technology,dei,main,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,0.5,0.41666666666666663,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
+GOOGL,Technology,environment,main,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,0.5,0.41666666666666663,0.5,1.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
 GS,Financials,dei,main,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
 GS,Financials,environment,main,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.06945,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
 HAL,Energy,dei,main,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.06665,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
@@ -131,8 +131,8 @@ EOG,Energy,dei,lag,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,False,True,na,r
 EOG,Energy,environment,lag,,,37.644999999999996,45.195,1.0,1.0,0.05,0.075,,,,,False,True,na,kept,kept,kept,kept,kept,True,kept_both
 F,Consumer Discretionary,dei,lag,0.0,0.0,6.904999999999999,3.995,,,,,0.0,,0.0,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
 F,Consumer Discretionary,environment,lag,2.0,1.0,6.694999999999999,8.355,,,,,0.0,,0.0,,False,False,cut,kept,na,na,cut,na,False,no_pre_do
-GOOGL,Technology,dei,lag,1.0,1.0,17.96,18.89,0.0,0.0,,0.0,,,0.0,0.0,False,True,kept,kept,kept,na,kept,kept,False,no_pre_do
-GOOGL,Technology,environment,lag,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GOOGL,Technology,dei,lag,1.0,1.0,17.96,18.89,0.0,0.0,,0.0,0.5,0.41666666666666663,0.0,0.0,False,True,kept,kept,kept,na,kept,kept,False,no_pre_do
+GOOGL,Technology,environment,lag,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,0.5,0.41666666666666663,0.5,1.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
 GS,Financials,dei,lag,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
 GS,Financials,environment,lag,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.0833,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
 HAL,Energy,dei,lag,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.0333,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
@@ -231,8 +231,8 @@ EOG,Energy,dei,imputed_weights,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,Fal
 EOG,Energy,environment,imputed_weights,,,37.644999999999996,45.195,1.0,1.0,0.037500000000000006,0.075,,,,,False,True,na,kept,kept,rise,kept,rise,True,kept_both
 F,Consumer Discretionary,dei,imputed_weights,0.0,0.0,6.904999999999999,3.995,0.0,,0.0,,0.0,,0.0,,False,True,kept,cut,na,na,cut,na,False,no_pre_do
 F,Consumer Discretionary,environment,imputed_weights,2.0,1.0,6.694999999999999,8.355,0.0,,0.0,,0.0,,0.0,,False,True,cut,kept,na,na,cut,na,False,no_pre_do
-GOOGL,Technology,dei,imputed_weights,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,,,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
-GOOGL,Technology,environment,imputed_weights,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GOOGL,Technology,dei,imputed_weights,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,0.5,0.41666666666666663,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
+GOOGL,Technology,environment,imputed_weights,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,0.5,0.41666666666666663,0.5,1.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
 GS,Financials,dei,imputed_weights,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
 GS,Financials,environment,imputed_weights,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.06945,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
 HAL,Energy,dei,imputed_weights,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.06665,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
@@ -331,8 +331,8 @@ EOG,Energy,dei,ext,,,9.81,3.29,0.0,0.0,0.0,,,,,,False,True,na,cut,kept,na,cut,ke
 EOG,Energy,environment,ext,,,37.644999999999996,36.81999999999999,1.0,0.0,0.037500000000000006,,,,,,False,True,na,kept,cut,na,kept,cut,True,cut_do_only
 F,Consumer Discretionary,dei,ext,0.0,,6.904999999999999,5.165,0.0,0.0,0.0,,0.0,,0.0,,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
 F,Consumer Discretionary,environment,ext,2.0,,6.694999999999999,9.309999999999999,0.0,0.0,0.0,,0.0,,0.0,,True,True,na,rise,kept,na,rise,kept,False,no_pre_do
-GOOGL,Technology,dei,ext,1.0,,17.96,7.300000000000001,0.0,0.0,,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
-GOOGL,Technology,environment,ext,0.0,,10.41,4.755,0.0,0.0,,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+GOOGL,Technology,dei,ext,1.0,,17.96,7.300000000000001,0.0,0.0,,,0.5,0.41666666666666663,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+GOOGL,Technology,environment,ext,0.0,,10.41,4.755,0.0,0.0,,,0.5,0.41666666666666663,0.5,1.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
 GS,Financials,dei,ext,2.5,,21.0,5.9350000000000005,1.0,0.0,0.0909,,0.2,0.4,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
 GS,Financials,environment,ext,0.0,,16.98,10.11,0.0,0.0,0.0,,0.2,0.4,0.5,1.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
 HAL,Energy,dei,ext,2.0,,7.970000000000001,2.505,0.0,0.5,0.0,,0.0,0.1,0.0,0.0,True,True,na,cut,rise,na,cut,rise,False,no_pre_do

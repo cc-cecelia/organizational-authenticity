@@ -2,7 +2,8 @@
 
 **Status:** exploratory. 50 firms, two themes (DEI and environment), filing
 years 2016-2026. Everything here reads other parts' outputs; nothing in
-Parts 1-3 is modified.
+Parts 1-3 is modified. Inputs as committed: Part 2 `8008c55` (panel and
+2025-2026 extension) and Part 3 `b4f9bc5`.
 
 ## Motivation
 From mid-2023, US companies faced a sharp turn against DEI and ESG: the SFFA
@@ -136,7 +137,8 @@ say only BLK and INTC; cut do only ABBV.
 Part 3's complement points the same way. Among firm-years paying for DEI, the
 share whose page does not mention DEI rose from 19% (2022) to 30% (2023) and
 38% (2024). Part of this is composition: firms that newly adopted DEI pay
-criteria may not have updated their pages.
+criteria may not have updated their pages. For environment the same share
+went 13% (2022), 27% (2023), 30% (2024).
 
 ### 2. The timing test reverses the reading
 A proxy filed in year t reports pay for fiscal t-1, usually designed early in
