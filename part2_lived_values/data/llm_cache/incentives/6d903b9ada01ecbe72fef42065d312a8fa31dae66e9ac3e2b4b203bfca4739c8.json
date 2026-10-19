@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001193125-23-100079",
+  "task": "incentives",
+  "section_words": 9328,
+  "section_method": "heading",
+  "cache_key": "6d903b9ada01ecbe72fef42065d312a8fa31dae66e9ac3e2b4b203bfca4739c8",
+  "est_input_tokens": 22679
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24843,
+  "output_tokens": 1647,
+  "request_id": "req_011CgBHuJKzRK453YTLWqtMF"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Progress Toward Strategic Objectives\u2014Operations Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Dimension Progress Toward Strategic Objectives\u2014Operations Performance\u2014Financial Performance\u2014Energy Transition\u2014Business Portfolio"
+   },
+   {
+    "metric": "Financial Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Dimension Progress Toward Strategic Objectives\u2014Operations Performance\u2014Financial Performance\u2014Energy Transition\u2014Business Portfolio"
+   },
+   {
+    "metric": "Energy Transition",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Committee maintains its focus on the energy transition objective and GHG emissions intensity metrics"
+   },
+   {
+    "metric": "Business Portfolio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee assigns equal weight to each of the four strategic objectives"
+   },
+   {
+    "metric": "Safety",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "metric": "GHG emissions intensity reductions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Progressed robust 2030 GHG Emissions Reduction Plans"
+   },
+   {
+    "metric": "Spills",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Over 15% reduction in number of spills versus prior 3-year average"
+   },
+   {
+    "metric": "ROCE",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Average Capital Employed (ROCE)"
+   },
+   {
+    "metric": "CFOAS",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations and Asset Sales (CFOAS)"
+   },
+   {
+    "metric": "TSR",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock"
+   },
+   {
+    "metric": "Bonus program size set as percent change in annual earnings (% change in annual earnings x (2/3))",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Performance shares metrics applied at grant (TSR, ROCE, CFOAS, Safety, GHG emissions intensity, Spills)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Long restriction periods coupled with performance metrics applied at grant"
+   },
+   {
+    "metric": "GHG emissions intensity",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee maintains its focus on the energy transition objective and GHG emissions intensity metrics"
+   }
+  ]
+ }
+}

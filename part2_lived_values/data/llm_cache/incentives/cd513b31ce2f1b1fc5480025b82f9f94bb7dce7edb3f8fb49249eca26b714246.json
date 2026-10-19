@@ -1,0 +1,227 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-310951",
+  "task": "incentives",
+  "section_words": 8186,
+  "section_method": "heading",
+  "cache_key": "cd513b31ce2f1b1fc5480025b82f9f94bb7dce7edb3f8fb49249eca26b714246",
+  "est_input_tokens": 19141
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20395,
+  "output_tokens": 1832,
+  "request_id": "req_011CgBHmsFfm3hEsZAQW1otk"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive Plan revenue (25%)*"
+   },
+   {
+    "metric": "Incentive Plan operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive Plan operating income (25%)*"
+   },
+   {
+    "metric": "Product & strategy",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "metric": "Customers & stakeholders",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "metric": "Culture & organizational leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.66,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "metric": "Customer satisfaction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer satisfaction Leadership effectiveness"
+   },
+   {
+    "metric": "Organizational diversity and inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organizational diversity and inclusion"
+   },
+   {
+    "metric": "Compliance and integrity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "metric": "Corporate citizenship",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Corporate citizenship"
+   },
+   {
+    "metric": "Contribution margin",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Contribution margin"
+   },
+   {
+    "metric": "Innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Innovation"
+   },
+   {
+    "metric": "Commercial cloud revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 34,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "metric": "Commercial cloud subscribers",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "metric": "Windows 10 monthly active devices",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Windows 10 monthly active devices (11%)"
+   },
+   {
+    "metric": "Surface gross margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Surface gross margin (11%)"
+   },
+   {
+    "metric": "Consumer post-sales monetization gross margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "metric": "Relative TSR multiplier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the relative TSR multiplier can increase the PSA shares awarded by up to 50%"
+   }
+  ]
+ }
+}

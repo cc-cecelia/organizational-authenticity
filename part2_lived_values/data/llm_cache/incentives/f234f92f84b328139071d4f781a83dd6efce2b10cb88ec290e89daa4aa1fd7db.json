@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001193125-23-100079",
+  "task": "incentives",
+  "section_words": 9328,
+  "section_method": "heading",
+  "cache_key": "f234f92f84b328139071d4f781a83dd6efce2b10cb88ec290e89daa4aa1fd7db",
+  "est_input_tokens": 16798
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24142,
+  "output_tokens": 1120,
+  "request_id": "req_011CgBHPQSWjz3TKAg17NNzf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operations Performance (safety, emissions-intensity reductions, environmental performance, reliability)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "The Committee assigns equal weight to each of the four strategic objectives."
+   },
+   {
+    "metric": "Financial Performance (industry-leading earnings and cash flow growth)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "metric": "Energy Transition (lead industry in hard-to-decarbonize GHG emissions reductions)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "evidence": "Lead industry in hard-to-decarbonize GHG emissions reductions"
+   },
+   {
+    "metric": "Business Portfolio (optimize existing business portfolio, resilient to a transitioning energy system)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "metric": "Bonus program size (percent change tied to year-over-year change in annual earnings, two-thirds adjustment)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Performance shares (stock units tied to long-term shareholder returns, performance metrics applied at grant)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "intended to link executive pay to the returns of long-term shareholders"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Financial and operating metrics further support the Committee's assessment."
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales (CFOAS)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Financial and Operating Metrics\u2014Safety, ROCE, CFOAS, TSR"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Financial and Operating Metrics\u2014Safety, ROCE, CFOAS, TSR"
+   }
+  ]
+ }
+}

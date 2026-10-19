@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001193125-23-259247",
+  "task": "proposals",
+  "section_words": 10958,
+  "section_method": "heading",
+  "cache_key": "73bec8258f374a24d864f8ee70447dd25002bf507eb27106bca3bc6705aa7ef8",
+  "est_input_tokens": 26809
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29595,
+  "output_tokens": 1470,
+  "request_id": "req_011CgBJ7wsYJTqB3KBnAr3u4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Report on Gender-Based Compensation and Benefit Gaps (Shareholder Proposal)",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a report on median compensation and benefits gaps across gender, including associated risks, omitting proprietary and litigation information.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Risk from Omitting Ideology in EEO Policy (Shareholder Proposal)",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a public report on risks from omitting viewpoint and ideology from the written EEO policy, including hiring, retention and litigation risks.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Government Takedown Requests (Shareholder Proposal)",
+    "proponent": "Martin Matthew Guldner",
+    "topic_summary": "Requests a semi-annual published report on policy for responding to US government takedown requests and an itemized listing of such requests.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Risks of Weapons Development (Shareholder Proposal)",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests an independent third-party report assessing reputational and financial risks of being identified as a company involved in developing military weapons.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Climate Risks to Retirement Plan Beneficiaries (Shareholder Proposal)",
+    "proponent": "As You Sow and co-filers",
+    "topic_summary": "Requests a report on how the company protects 401(k) plan beneficiaries from portfolio climate risk created by high-carbon investments.",
+    "category": "environment",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Tax Transparency (Shareholder Proposal)",
+    "proponent": "AkademikerPension and co-filers",
+    "topic_summary": "Requests a tax transparency report prepared in consideration of the GRI Tax Standard, excluding confidential information.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "11",
+    "title": "Report on Data Operations in Human Rights Hotspots (Shareholder Proposal)",
+    "proponent": "Eko and a co-filer",
+    "topic_summary": "Requests a report assessing implications of siting cloud datacenters in countries of human rights concern and mitigation strategies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "12",
+    "title": "Mandate for Third-Party Political Reporting (Shareholder Proposal)",
+    "proponent": "Tulipshare Capital LLC",
+    "topic_summary": "Requests a policy requiring trade associations and political groups receiving company funds to report political expenditures, posted on the website.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "13",
+    "title": "Report on AI Misinformation and Disinformation (Shareholder Proposal)",
+    "proponent": "Arjuna Capital and a co-filer",
+    "topic_summary": "Requests an annually updated report on risks from AI-generated misinformation and disinformation to operations, finances and public welfare, and remediation steps.",
+    "category": "innovation",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   }
+  ]
+ }
+}

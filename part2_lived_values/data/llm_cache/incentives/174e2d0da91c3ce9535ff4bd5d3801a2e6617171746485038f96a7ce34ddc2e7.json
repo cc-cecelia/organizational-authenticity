@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-310951",
+  "task": "incentives",
+  "section_words": 8186,
+  "section_method": "heading",
+  "cache_key": "174e2d0da91c3ce9535ff4bd5d3801a2e6617171746485038f96a7ce34ddc2e7",
+  "est_input_tokens": 14144
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19694,
+  "output_tokens": 1072,
+  "request_id": "req_011CgBHHyh5ts6gLxdME5RG4"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan revenue",
+    "plan": "annual_incentive",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan revenue (25%)"
+   },
+   {
+    "metric": "Incentive Plan operating income",
+    "plan": "annual_incentive",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan operating income (25%)"
+   },
+   {
+    "metric": "Product & strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "metric": "Customers & stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "metric": "Culture & organizational leadership",
+    "plan": "annual_incentive",
+    "weight_pct": 16.66,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "metric": "Commercial cloud revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 34,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "metric": "Commercial cloud subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 33,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "metric": "Windows 10 monthly active devices",
+    "plan": "long_term_incentive",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Windows 10 monthly active devices (\"MAD\")"
+   },
+   {
+    "metric": "Surface gross margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Surface gross margin (11%)"
+   },
+   {
+    "metric": "Consumer post-sales monetization gross margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "metric": "Relative TSR multiplier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The relative TSR multiplier can increase the PSA shares awarded by up to 50%."
+   }
+  ]
+ }
+}

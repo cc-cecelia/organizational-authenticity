@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-300115",
+  "task": "incentives",
+  "section_words": 8245,
+  "section_method": "opening_sentence",
+  "cache_key": "113d0ce91b65e9df2492548d05d8b193411b285983cdcc5ba062a65bbd8c8552",
+  "est_input_tokens": 14046
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20201,
+  "output_tokens": 1208,
+  "request_id": "req_011CgBHHyjKFtuL5hZGRPCUo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": 25.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Revenue (25%)*"
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": 25.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Operating Income (25%)*"
+   },
+   {
+    "metric": "Product & strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "metric": "Customers & stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "metric": "Culture & organizational leadership",
+    "plan": "annual_incentive",
+    "weight_pct": 16.66,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "metric": "Commercial cloud revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 34.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "metric": "Commercial cloud subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 33.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "metric": "Windows 10 monthly active devices",
+    "plan": "long_term_incentive",
+    "weight_pct": 11.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Windows 10 monthly active devices (11%)"
+   },
+   {
+    "metric": "Consumer post-sales monetization gross margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 11.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "metric": "LinkedIn sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 6.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn sessions (6%)"
+   },
+   {
+    "metric": "Surface gross margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 5.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Surface gross margin (5%)"
+   },
+   {
+    "metric": "3-year relative TSR multiplier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Relative TSR multiplier (1-1.5x) is triggered only if Microsofts TSR is positive and above the 60th percentile of the S&P 500"
+   }
+  ]
+ }
+}

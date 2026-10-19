@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-098338",
+  "task": "incentives",
+  "section_words": 12679,
+  "section_method": "heading",
+  "cache_key": "8e3cff6ffd0b70e761423ec929a79ed2ddbe4ea1fadd8adc1e05a08f6c50655c",
+  "est_input_tokens": 21040
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31948,
+  "output_tokens": 1081,
+  "request_id": "req_011CgBHKJbujf7WuMg7qBJ4o"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC uses a balanced discretionary approach to assess performance against four broad categories: I. Business Results"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "II. Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder Focus",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "III. Client/Customer/Stakeholder Focus, including our engagement in communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "IV. Teamwork & Leadership, including creating a diverse and inclusive environment that encourages employees to speak up"
+   },
+   {
+    "metric": "Absolute ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the ultimate number of PSUs paid out at vesting is determined by a formula based on absolute and relative ROTCE performance, with the value of the payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "Relative ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Payout by relative ROTCE Scale 1st Quartile 150% 2nd Quartile 100% to 125% 3rd Quartile 70% to 100% 4th Quartile 25% to 55%"
+   },
+   {
+    "metric": "Common equity Tier 1 capital ratio minimum hurdle",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio is less than 7.5% at any year-end, then unvested PSUs referencing that performance year will be subject to downward adjustment by the CMDC"
+   },
+   {
+    "metric": "Absolute ROTCE goal for 2018 PSU award calibrated to 18%",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "evidence": "For the 2018 PSU award granted in January 2019, the Committee calibrated the Absolute ROTCE goal to 18% based on the current forecast of the Firm's future performance"
+   }
+  ]
+ }
+}

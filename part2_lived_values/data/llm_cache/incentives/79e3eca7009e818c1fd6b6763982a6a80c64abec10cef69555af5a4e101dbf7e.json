@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-098865",
+  "task": "incentives",
+  "section_words": 15476,
+  "section_method": "heading",
+  "cache_key": "79e3eca7009e818c1fd6b6763982a6a80c64abec10cef69555af5a4e101dbf7e",
+  "est_input_tokens": 34354
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38431,
+  "output_tokens": 1154,
+  "request_id": "req_011CgBJ9gaLwe6xQvGtiTa2r"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDC uses a balanced discretionary approach to assess OC member performance throughout the year against four broad dimensions"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive and respectful environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "creating a diverse, inclusive and respectful environment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive and respectful environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "engagement in communities",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "metric": "ROTCE (absolute and relative, three-year average)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Firm's absolute and relative ROTCE performance over the subsequent three years, with the value of the payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "CET1 capital ratio minimum hurdle",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ]
+ }
+}

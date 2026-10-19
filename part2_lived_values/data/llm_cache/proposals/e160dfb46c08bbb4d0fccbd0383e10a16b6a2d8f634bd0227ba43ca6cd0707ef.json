@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-103474",
+  "task": "proposals",
+  "section_words": 7527,
+  "section_method": "heading",
+  "cache_key": "e160dfb46c08bbb4d0fccbd0383e10a16b6a2d8f634bd0227ba43ca6cd0707ef",
+  "est_input_tokens": 17083
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18250,
+  "output_tokens": 1098,
+  "request_id": "req_011CgBHtAuUaHybdKyE2wRUW"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Chairman",
+    "proponent": "The Kestrel Foundation",
+    "topic_summary": "Requires the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition, with waiver if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to amend bylaws so holders of 10% of outstanding common stock can call a special shareowner meeting without going to court.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Board Matrix",
+    "proponent": "New York City Retirement Systems",
+    "topic_summary": "Requests disclosure of each director's gender, race/ethnicity, and skills and attributes in a matrix form in the proxy statement and website.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Climate Change Board Committee",
+    "proponent": "Adam Seitchik, a client of Arjuna Capital",
+    "topic_summary": "Requests the board charter a new Board Committee on Climate Change to review strategy and oversee responses to climate-related risks and opportunities.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Risks of Gulf Coast Petrochemical Investments",
+    "proponent": "Andrew Behar, a client of As You Sow",
+    "topic_summary": "Requests a report assessing public health risks of expanding petrochemical operations in areas prone to climate-induced storms, flooding, and sea level rise.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests a semiannually updated report disclosing policies for electoral contributions and non-deductible electoral expenditures, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests an annually updated report disclosing direct and indirect lobbying and grassroots lobbying payments, recipients, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

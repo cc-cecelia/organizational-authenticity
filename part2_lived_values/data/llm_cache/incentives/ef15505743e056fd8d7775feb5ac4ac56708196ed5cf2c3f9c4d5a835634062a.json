@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0000019617-17-000340",
+  "task": "incentives",
+  "section_words": 12586,
+  "section_method": "heading",
+  "cache_key": "ef15505743e056fd8d7775feb5ac4ac56708196ed5cf2c3f9c4d5a835634062a",
+  "est_input_tokens": 20821
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29885,
+  "output_tokens": 614,
+  "request_id": "req_011CgBHK4y7rVZtZJmNXJfVP"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Absolute ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the ultimate number of PSUs earned at vesting is based on a formula using absolute and relative ROTCE performance, with the value of the payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "Relative ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Achievement of median performance results in target payout (100%) consistent with peer practices"
+   },
+   {
+    "metric": "Business results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC uses a balanced discretionary approach to assess performance against four broad categories: I. Business results"
+   },
+   {
+    "metric": "Risk and control",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "II. Risk and control"
+   },
+   {
+    "metric": "Customers and clients",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "III. Customers and clients"
+   },
+   {
+    "metric": "People and leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "IV. People and leadership"
+   }
+  ]
+ }
+}

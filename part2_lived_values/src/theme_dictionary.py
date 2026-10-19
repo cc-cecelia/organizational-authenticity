@@ -30,8 +30,8 @@ CATEGORIES = ["customers", "employees", "dei", "environment", "community",
 # in the LLM prompts so both layers code against identical definitions.
 CATEGORY_DEFINITIONS = {
     "customers": "Customer focus, satisfaction, service quality, product access and affordability",
-    "employees": "Workforce, talent, culture, engagement, pay equity, wellbeing, human capital",
-    "dei": "Diversity, equity, inclusion: representation goals, board diversity, racial/gender equity, belonging",
+    "employees": "Workforce, talent, culture, engagement, wellbeing, workforce-wide pay and benefits, human capital",
+    "dei": "Diversity, equity, inclusion: representation goals, board diversity, gender/racial pay equity, belonging",
     "environment": "Climate, emissions, energy transition, sustainability, natural resources",
     "community": "Communities, philanthropy, social impact, human rights, broader society",
     "shareholders": "Shareholder value, financial performance, returns, growth, capital discipline",
@@ -39,6 +39,20 @@ CATEGORY_DEFINITIONS = {
     "safety": "Health and safety of workers and operations, process safety, product safety",
     "innovation": "Innovation, R&D, technology, new products, transformation",
 }
+
+# Tie-break rules for ambiguous cases, found in the pilot hand check. Used in
+# the LLM prompts and mirrored in CLAUDE.md so Part 1 codes the same way.
+CODING_RULES = [
+    "Financial, stock-market and capital metrics (EPS, TSR, ROE, revenue, cash flow, margins) are shareholders.",
+    "Business-volume metrics (subscribers, active users, market share, unit sales) are shareholders: they measure "
+    "business growth. customers is for customer outcomes: satisfaction, NPS, service quality, access, affordability.",
+    "Risk, controls, conduct, compliance and capital-adequacy safeguards (e.g. a CET1 capital hurdle) are integrity.",
+    "Gender or racial pay equity and representation are dei, not employees.",
+    "Executive pay design (severance, vesting, golden parachutes, pay mix) is shareholders; clawbacks and misconduct "
+    "are integrity. Executives are not the employees stakeholder: employees means the workforce.",
+    "Board structure, independence, lobbying and political spending are integrity; shareholder voting rights "
+    "(special meetings, written consent, proxy access, vote counting) are shareholders.",
+]
 
 THEME_TERMS = {
     "customers": [

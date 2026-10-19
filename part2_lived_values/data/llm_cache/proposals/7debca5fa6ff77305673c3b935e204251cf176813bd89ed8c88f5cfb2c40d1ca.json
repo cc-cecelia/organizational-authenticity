@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-102226",
+  "task": "proposals",
+  "section_words": 6506,
+  "section_method": "heading",
+  "cache_key": "7debca5fa6ff77305673c3b935e204251cf176813bd89ed8c88f5cfb2c40d1ca",
+  "est_input_tokens": 11166
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15850,
+  "output_tokens": 899,
+  "request_id": "req_011CgBHMeKNy17Xm2w9Rf2Q7"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Chairman",
+    "proponent": "Olga Monks Pertzoff Trust 1945",
+    "topic_summary": "Adopt policy requiring the Board Chair, whenever possible, to be an independent director, phased in at next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Amend bylaws to let holders of 10% of outstanding common stock call a special shareholder meeting without going to court.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Environmental Expenditures",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Publish annual report of costs and actual benefits to shareholders, public health and environment from voluntary environmental activities.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Risks of Petrochemical Investments",
+    "proponent": "Park Foundation, a client of As You Sow",
+    "topic_summary": "Publish report assessing public health risks of expanding petrochemical operations in areas prone to climate-induced storms, flooding and sea level rise.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Semiannually report policies and all direct and indirect electoral contributions, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Annually report direct and indirect lobbying and grassroots communication payments, policies and oversight, aligned with public positions.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

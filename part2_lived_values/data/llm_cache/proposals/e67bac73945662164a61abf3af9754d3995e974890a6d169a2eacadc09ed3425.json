@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001193125-24-092545",
+  "task": "proposals",
+  "section_words": 11342,
+  "section_method": "heading",
+  "cache_key": "e67bac73945662164a61abf3af9754d3995e974890a6d169a2eacadc09ed3425",
+  "est_input_tokens": 19895
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29129,
+  "output_tokens": 699,
+  "request_id": "req_011CgBHP1Zqjv9DxsDvnVkmj"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Revisit Executive Pay Incentives for GHG Emission Reductions",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Asks the Compensation Committee to revisit executive pay incentives and consider eliminating greenhouse gas reduction targets and other climate-related goals from compensation.",
+    "category": "environment",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it."
+   },
+   {
+    "item_number": "5",
+    "title": "Additional Pay Report on Gender and Racial Basis",
+    "proponent": "Broz Family Investments, LLC",
+    "topic_summary": "Requests a report on median and adjusted pay gaps across race and gender, including associated risks related to recruiting and retaining diverse talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it."
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Plastic Production Under SCS Scenario",
+    "proponent": "United Church Funds",
+    "topic_summary": "Requests a report on how a significant reduction in virgin plastic demand under Breaking the Plastic Wave's System Change Scenario would affect the Company's financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it."
+   },
+   {
+    "item_number": "7",
+    "title": "Additional Social Impact Report",
+    "proponent": "United Steelworkers, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union",
+    "topic_summary": "Requests a report on social impact on workers and communities from facility closures or energy transition, and alternatives to mitigate such impacts.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it."
+   }
+  ]
+ }
+}

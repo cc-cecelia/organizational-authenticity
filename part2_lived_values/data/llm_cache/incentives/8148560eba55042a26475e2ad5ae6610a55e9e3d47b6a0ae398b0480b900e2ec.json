@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001193125-24-092545",
+  "task": "incentives",
+  "section_words": 9057,
+  "section_method": "heading",
+  "cache_key": "8148560eba55042a26475e2ad5ae6610a55e9e3d47b6a0ae398b0480b900e2ec",
+  "est_input_tokens": 16340
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23712,
+  "output_tokens": 906,
+  "request_id": "req_011CgBHPPyixDfRVYUFjxUTB"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operations Performance (safety, emissions-intensity reductions, environmental performance, reliability)",
+    "plan": "other",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "The Committee assigns equal weight to each of the four strategic objectives."
+   },
+   {
+    "metric": "Financial Performance",
+    "plan": "other",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "metric": "Energy Transition",
+    "plan": "other",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "evidence": "Lead industry in reducing emissions in hard-to-decarbonize sectors"
+   },
+   {
+    "metric": "Business Portfolio",
+    "plan": "other",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "metric": "Bonus program size (% change = % change in annual earnings x 2/3)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Individual performance assessment against goals and objectives",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Annual performance assessment against goals and objectives results in a performance category that translates to adjustment in salary, bonus award, and performance share grant."
+   },
+   {
+    "metric": "Performance shares (stock units tied to performance at grant)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Applying performance metrics at grant enables restriction periods of 10 years; results tie directly to award level"
+   },
+   {
+    "metric": "Operations Performance (safety, emissions-intensity reductions, environmental performance, reliability)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Performance assessed against pre-established goals and objectives"
+   }
+  ]
+ }
+}

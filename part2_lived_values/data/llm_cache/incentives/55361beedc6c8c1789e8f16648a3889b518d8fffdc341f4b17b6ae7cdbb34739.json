@@ -1,0 +1,263 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-300115",
+  "task": "incentives",
+  "section_words": 8245,
+  "section_method": "opening_sentence",
+  "cache_key": "55361beedc6c8c1789e8f16648a3889b518d8fffdc341f4b17b6ae7cdbb34739",
+  "est_input_tokens": 19010
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20902,
+  "output_tokens": 2266,
+  "request_id": "req_011CgBHn1EtdQcxTA99ucAEd"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive Plan Revenue (25%)*"
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive Plan Operating Income (25%)*"
+   },
+   {
+    "metric": "Product & strategy",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "metric": "Customers & stakeholders",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "metric": "Culture & organizational leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 16.66,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "metric": "Contribution margin",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation"
+   },
+   {
+    "metric": "Efficiency and productivity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "metric": "Innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "metric": "Corporate citizenship",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction"
+   },
+   {
+    "metric": "Customer satisfaction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "metric": "Culture",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "metric": "Diversity and inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "metric": "Organizational health",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "metric": "Commercial cloud revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 34.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "metric": "Commercial cloud subscribers",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "metric": "Windows 10 monthly active devices",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 11.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Windows 10 monthly active devices (11%)"
+   },
+   {
+    "metric": "Consumer post-sales monetization gross margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 11.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "metric": "LinkedIn sessions",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 6.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LinkedIn sessions (6%)"
+   },
+   {
+    "metric": "Surface gross margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 5.0,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Surface gross margin (5%)"
+   },
+   {
+    "metric": "Relative TSR multiplier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Potential relative TSR multiplier of up to 1.5, triggered if Microsoft's TSR is positive and above the 60 th percentile of the S&P 500"
+   }
+  ]
+ }
+}

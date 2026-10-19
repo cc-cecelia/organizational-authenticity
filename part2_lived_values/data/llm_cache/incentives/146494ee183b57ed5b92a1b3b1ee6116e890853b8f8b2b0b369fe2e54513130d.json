@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001193125-20-272025",
+  "task": "incentives",
+  "section_words": 11758,
+  "section_method": "heading",
+  "cache_key": "146494ee183b57ed5b92a1b3b1ee6116e890853b8f8b2b0b369fe2e54513130d",
+  "est_input_tokens": 19395
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29698,
+  "output_tokens": 1303,
+  "request_id": "req_011CgBHJD22ZJHyYYqEn5x58"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Revenue (25%) \u2022 Incentive Plan Operating Income (25%)"
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Operating Income (25%)"
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & Strategy (16.67%)"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 16.67,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & Stakeholders (16.67%)"
+   },
+   {
+    "metric": "Culture & Organizational Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": 16.66,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture & Organizational Leadership (16.66%)"
+   },
+   {
+    "metric": "Commercial Cloud Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Revenue* | Net revenue for commercial cloud-based solutions | 35%"
+   },
+   {
+    "metric": "Commercial Cloud Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 34,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Subscribers | Paid seats for current or new per-user SaaS cloud services | 34%"
+   },
+   {
+    "metric": "Teams Monthly Active Usage",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Teams Monthly Active Usage | Unique monthly active users of Teams | 10%"
+   },
+   {
+    "metric": "Xbox Game Pass Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 7,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Xbox Game Pass Subscribers | Current number of paid Game Pass Subscriptions | 7%"
+   },
+   {
+    "metric": "Surface Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 7,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Surface Revenue* | Net revenue for Surface branded family of devices and accessories | 7%"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 7,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator | 7%"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Performance stock awards included a relative TSR multiplier to reward significant positive outperformance"
+   }
+  ]
+ }
+}

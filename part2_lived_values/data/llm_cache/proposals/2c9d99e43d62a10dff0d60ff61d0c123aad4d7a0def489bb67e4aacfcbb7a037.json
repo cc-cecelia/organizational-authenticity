@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0000019617-16-000933",
+  "task": "proposals",
+  "section_words": 7901,
+  "section_method": "heading",
+  "cache_key": "2c9d99e43d62a10dff0d60ff61d0c123aad4d7a0def489bb67e4aacfcbb7a037",
+  "est_input_tokens": 17753
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18398,
+  "output_tokens": 983,
+  "request_id": "req_011CgBHq6dAhPWuUJmm2RFk1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent board chairman",
+    "proponent": "John Chevedden, as agent for William Steiner",
+    "topic_summary": "Requires the Board to adopt a policy that the Chair of the Board, whenever possible, be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "How votes are counted",
+    "proponent": "Newground Social investment, as agent for Ms. Mercy A. Rome and Equality Network Foundation",
+    "topic_summary": "Asks that non-binding shareholder proposals be decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Vesting for government service",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Requests a policy prohibiting vesting of equity-based awards for senior executives who voluntarily resign to enter government service.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Appoint a stockholder value committee",
+    "proponent": "Bartlett Naylor",
+    "topic_summary": "Asks the Board to appoint an independent-director committee to assess whether divesting non-core banking business segments would enhance shareholder value.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Clawback amendment",
+    "proponent": "John Chevedden, as agent for Kenneth Steiner",
+    "topic_summary": "Requires deferral of a substantial portion of executive officers' compensation for 10 years, forfeitable to satisfy monetary penalties for violations of law.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Executive compensation philosophy",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Asks the Firm to adopt an executive compensation philosophy considering relevant social factors to improve ethical conduct and public reputation.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

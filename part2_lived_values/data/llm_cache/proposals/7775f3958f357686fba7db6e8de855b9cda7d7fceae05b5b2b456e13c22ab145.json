@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0000019617-22-000303",
+  "task": "proposals",
+  "section_words": 8055,
+  "section_method": "heading",
+  "cache_key": "7775f3958f357686fba7db6e8de855b9cda7d7fceae05b5b2b456e13c22ab145",
+  "est_input_tokens": 13832
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18534,
+  "output_tokens": 936,
+  "request_id": "req_011CgBHKjaq49fXRqy9QfA6w"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Fossil fuel financing",
+    "proponent": "Mercy Investments Services, Inc.",
+    "topic_summary": "Adopt a policy by end of 2022 so financing does not contribute to new fossil fuel supplies inconsistent with the IEA Net Zero Emissions by 2050 Scenario.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special shareholder meeting improvement",
+    "proponent": "John Chevedden",
+    "topic_summary": "Amend governing documents so holders of 10% of outstanding common stock can call a special shareholder meeting, replacing the current 20% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Independent board chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Adopt a policy requiring separation of Chairman and CEO roles, with an independent Chairman who was not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Board diversity resolution",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Require initial lists of outside director candidates to include qualified diverse candidates and publish nominee skills matrices to shareholders.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Conversion to public benefit corporation",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Amend certificate of incorporation and bylaws to convert the company into a public benefit corporation in light of the Business Roundtable Statement.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Report on setting absolute contraction targets",
+    "proponent": "Sierra Club Foundation",
+    "topic_summary": "Issue a report setting absolute contraction targets for financed greenhouse gas emissions per UNEP FI recommendations for credible net zero commitments.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

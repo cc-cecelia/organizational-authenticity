@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0000019617-16-000933",
+  "task": "incentives",
+  "section_words": 11944,
+  "section_method": "heading",
+  "cache_key": "45fd0285e1cb3fbd7c9a012f19732ac098f8b8377fd5ff07408fb02bc8e6e4db",
+  "est_input_tokens": 27451
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29318,
+  "output_tokens": 632,
+  "request_id": "req_011CgBJ8fqfKYm9QUcyHa6wB"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business and financial results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDC uses a balanced approach to assess performance against four broad categories: 1. Business and financial results"
+   },
+   {
+    "metric": "Risk and control objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2. Risk and control objectives"
+   },
+   {
+    "metric": "Customer and client goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3. Customer and client goals"
+   },
+   {
+    "metric": "People management and leadership objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "4. People management and leadership objectives"
+   },
+   {
+    "metric": "ROTCE (absolute and relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the ultimate number of PSUs earned at vesting is based on a formula using absolute and relative ROTCE performance, with the value of the payout ranging from 0% to 150%"
+   }
+  ]
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-539460",
+  "task": "incentives",
+  "section_words": 7555,
+  "section_method": "heading",
+  "cache_key": "5d72263799c7df1ebecda3c32a803cab903e17ce2879ab33ba94e94f4bcac7d2",
+  "est_input_tokens": 12528
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18861,
+  "output_tokens": 1627,
+  "request_id": "req_011CgBHLSceTFdDEsbpe1t4Z"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "ROCE",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "TSR",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Shareholder Distributions",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Strategic Business Results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Project Execution",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Cumulative earnings per share (EPS) threshold",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Half of annual bonus delayed until cumulative earnings per share (EPS) reach a specified level; EPS threshold at $6.50 in 2014/2015"
+   },
+   {
+    "metric": "Size of annual bonus pool determined by formula aligned with change in annual earnings",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Size of annual bonus pool determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "Number of shares at grant determined by business and individual performance (chart 8, page 33)"
+   },
+   {
+    "metric": "ROCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "A requirement to demonstrate leadership in all 7 key performance areas establishes a significant performance standard at grant"
+   },
+   {
+    "metric": "TSR",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Performance criteria at grant allow ExxonMobil to have long vesting periods while maintaining a significant award performance basis"
+   }
+  ]
+ }
+}

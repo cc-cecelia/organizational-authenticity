@@ -1,0 +1,19 @@
+ticker,filing_year,task,v1_items,v1_problems,v2_items,v2_errors,notes
+MSFT,2017,incentives,11,none; scorecard sub-criteria not captured,17,0,Weights match source table (25/25/16.67x3; PSA 34/33/11/11/11 + TSR multiplier). v3 re-run: regression checks pass.
+MSFT,2018,incentives,12,none,20,0,"PSA weights incl. 2018 changes (LinkedIn 6%, Surface 11%->5%) match source. v3 re-run: regression checks pass."
+MSFT,2021,incentives,12,CEO-only weights reported as if for all NEOs,21,2,v2 separates CEO (70/30) from all-NEO rows; 2 category inconsistencies remain. v3 re-run: regression checks pass.
+MSFT,2021,proposals,1,4 of 5 proposals missed: section truncated at internal 'Additional Information' sub-heading,5,0,"Fixed in sections.py (marker removed, adjacent spans chained)."
+JPM,2016,incentives,5,PSU ROTCE marked future_year (inconsistent with other years),5,0, v3 re-run: regression checks pass.
+JPM,2016,proposals,6,exec-pay proposals coded employees,6,0,
+JPM,2020,incentives,7,DEI/community criteria under dimensions not captured,9,0, v3 re-run: regression checks pass.
+JPM,2020,proposals,6,pay-equity proposal coded employees,6,0,
+JPM,2023,incentives,6,"missed 3 named criteria (external DEI, internal DEI, environmental sustainability)",16,0,'~50% weighting' to business results is stated in source. v3 re-run: regression checks pass.
+JPM,2023,proposals,8,none,8,0,
+JPM,2024,incentives,6,ROTCE weight 100% inferred; CET1 coded shareholders; 3 named DEI/env criteria missed,14,0, v3 re-run: regression checks pass.
+JPM,2024,proposals,7,golden parachutes coded employees,7,0,
+XOM,2016,incentives,12,long-term award listed 3 of the 7 governing areas,14,0, v3 re-run: regression checks pass.
+XOM,2016,proposals,11,none,11,0,
+XOM,2021,incentives,9,strategic pillars not itemised,15,0,'Delivering lower emissions' pillar captured as environment. v3 re-run: regression checks pass.
+XOM,2021,proposals,7,none,7,0,
+XOM,2024,incentives,8,"safety/emissions bundle coded other; peer scorecard (Safety, ROCE, CFOAS, TSR, spills, GHG intensity) missed",14,2,25% weights derive from 'equal weight to each of the four strategic objectives'. v3 re-run: regression checks pass.
+XOM,2024,proposals,4,none,4,0,

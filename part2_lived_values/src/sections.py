@@ -46,10 +46,11 @@ SP_END = re.compile(
     r"|important (annual )?meeting information|annual meeting information|other matters"
     r"|frequently asked questions|questions and answers|voting (information|procedures)"
     r"|(shareholder|stockholder) proposals? (and director nominations )?(for|at) (next year|the 20\d\d)"
-    r"|(shareholder|stockholder) proposals and (director )?nominations|additional information"
+    r"|(shareholder|stockholder) proposals and (director )?nominations"
     r"|compensation discussion|summary compensation table|security ownership|audit committee", re.I)
 SP_SIGNAL = re.compile(r"\bproponents?\b|supporting statement|\bresolved\b|has (advised|notified) (us|the company)", re.I)
 SP_MIN_WORDS, SP_MAX_WORDS = 300, 30_000
+CHAIN_GAP = 5   # lines
 
 
 def _lines_and_offsets(text: str):
@@ -78,6 +79,11 @@ def _is_heading_hit(line: str, pattern) -> bool:
     if CROSS_REF.search(line[:HEAD_CHARS + 40]):
         return False
     if len(line) <= 60:
+        return True
+    # Mid-length line that opens with the phrase and does not end like a
+    # sentence: a long heading ("Shareholder Proposal 1: Report on Employee
+    # Representation on Board of Directors").
+    if len(line) <= 120 and m.start() <= 3 and not line.rstrip().endswith((".", ",", ";")):
         return True
     # Longer lines are sentences unless the heading is set in capitals.
     prefix, hit = line[:m.start()], m.group(0)
@@ -142,8 +148,20 @@ def find_proposals(text: str) -> Optional[dict]:
     lines, offsets, total = _lines_and_offsets(text)
     spans = _candidate_spans(lines, offsets, total, SP_START, SP_END, not_start=SP_NOT_START,
                              min_words=SP_MIN_WORDS, max_words=SP_MAX_WORDS)
+    # Chain spans that follow each other (next start within CHAIN_GAP lines of
+    # the previous end): one proposal per span is common when sub-headings
+    # inside a board response look like end markers.
+    chains = []
+    for s, e, n in sorted(spans):
+        if chains and chains[-1][0] <= s <= chains[-1][1] + CHAIN_GAP:
+            chains[-1][1] = max(chains[-1][1], e)
+        elif not (chains and s < chains[-1][1]):   # skip spans nested in the previous chain
+            chains.append([s, e])
     scored = []
-    for s, e, n in spans:
+    for s, e in chains:
+        n = offsets[e] - offsets[s]
+        if n > SP_MAX_WORDS:
+            continue
         signal = len(SP_SIGNAL.findall("\n".join(lines[s:e])))
         scored.append((signal, -n, s, e, n))
     scored = [x for x in scored if x[0] > 0]

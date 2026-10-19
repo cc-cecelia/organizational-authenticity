@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-102226",
+  "task": "incentives",
+  "section_words": 6076,
+  "section_method": "heading",
+  "cache_key": "37ae1d7e267987caee7d16094c0128fe23d2e352b38cac239d193fcb63d44427",
+  "est_input_tokens": 10993
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16109,
+  "output_tokens": 889,
+  "request_id": "req_011CgBHMEdbVwdFWjKgdeqo5"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Earnings Per Share (EPS) threshold for vesting of Earnings Bonus Units",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Vesting of the EBU occurs when cumulative earnings per share (EPS) threshold is achieved, currently $6.50"
+   },
+   {
+    "metric": "ExxonMobil annual earnings (bonus formula: % change in bonus program = % change in annual earnings x 2/3)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Progress Toward Strategic Objectives",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Forward looking: Companys progress toward strategic objectives"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE) over the business cycle"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Financial and Operating Performance Industry leadership over investment lead times (10 years) required in each pre-established metric"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE) over the business cycle"
+   },
+   {
+    "metric": "Total Shareholder Return (relative)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Lagging Total Shareholder Return"
+   }
+  ]
+ }
+}

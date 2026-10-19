@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-098865",
+  "task": "incentives",
+  "section_words": 15476,
+  "section_method": "heading",
+  "cache_key": "e4d74c4f42997acda4b6b7fcc8dfd3594133b0fd1b6917015059023ade0123ee",
+  "est_input_tokens": 34284
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38296,
+  "output_tokens": 1156,
+  "request_id": "req_011CgBHqtd8SJE5kNrNdop7n"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC does not assign relative weightings to these dimensions"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive and respectful environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "creating a diverse, inclusive and respectful environment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "creating a diverse, inclusive and respectful environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "engagement in communities",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "metric": "ROTCE (absolute and relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "formulaically determined payout based on absolute and relative ROTCE"
+   },
+   {
+    "metric": "CET1 capital ratio minimum hurdle",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   },
+   {
+    "metric": "Risk-related and conduct clawback triggers",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If performance in relation to the priorities for their position has been unsatisfactory for a sustained period of time"
+   }
+  ]
+ }
+}

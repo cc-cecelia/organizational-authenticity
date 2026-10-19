@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-103474",
+  "task": "incentives",
+  "section_words": 7372,
+  "section_method": "heading",
+  "cache_key": "e047191c6c44e1c596cdef878f28e003d5db64babb2e70d6ba875ad1d63a0090",
+  "est_input_tokens": 17032
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19834,
+  "output_tokens": 1487,
+  "request_id": "req_011CgBHt6MNvsE5cVHh5SH5E"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Earnings Bonus Units vesting on cumulative earnings per share (EPS) threshold",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% Earnings Bonus Units (EBU) Vesting delayed until cumulative earnings per share (EPS) reaches $6.50 per share"
+   },
+   {
+    "metric": "Annual change in bonus pool formula tied to annual earnings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Leading: Long-term cash flow from operations and asset sales outpacing competitors"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Not leading average of industry peers in 10-year TSR"
+   },
+   {
+    "metric": "Progress toward strategic objectives",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company's progress toward its strategic objectives"
+   },
+   {
+    "metric": "Reducing environmental impacts",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "REDUCING ENVIRONMENTAL IMPACTS Progressed low-emissions technologies, including advanced biofuels, carbon capture and storage"
+   },
+   {
+    "metric": "Operations integrity including environmental performance",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compensation Committee considers operations integrity, including environmental performance"
+   },
+   {
+    "metric": "Sustaining sound business controls and strong ethical and corporate governance environment",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also takes into account leadership demonstrated in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "metric": "Safety performance",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Applying a measure of safety results at the senior executive level is intended to hold senior leaders accountable"
+   }
+  ]
+ }
+}

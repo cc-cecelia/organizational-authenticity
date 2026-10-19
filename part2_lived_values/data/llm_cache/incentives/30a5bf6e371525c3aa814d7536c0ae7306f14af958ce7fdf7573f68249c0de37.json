@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-298757",
+  "task": "incentives",
+  "section_words": 11749,
+  "section_method": "heading",
+  "cache_key": "30a5bf6e371525c3aa814d7536c0ae7306f14af958ce7fdf7573f68249c0de37",
+  "est_input_tokens": 19490
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29886,
+  "output_tokens": 1483,
+  "request_id": "req_011CgBHJNS58D7T24GcRX1j9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Increased the weighting of the financial performance portion of the CEO's annual cash incentive from 50% to 70% for fiscal year 2021, split evenly between Incentive Plan Revenue (35%) and Incentive Plan Operating Income (35%)"
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "split evenly between Incentive Plan Revenue (35%) and Incentive Plan Operating Income (35%)"
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & Strategy (10.0% weight) | 145%"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "2 Customers & Stakeholders (10.0% weight) | 170%"
+   },
+   {
+    "metric": "Culture & Organizational Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "3 Culture & Organizational Leadership (10.0% weight) | 180%"
+   },
+   {
+    "metric": "Commercial Cloud Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 33,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Revenue* | Revenue from our commercial cloud business | 33%"
+   },
+   {
+    "metric": "Commercial Cloud Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 32,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Subscribers | Paid seats for current or new per-user SaaS cloud services primarily in commercial customer segment | 32%"
+   },
+   {
+    "metric": "Teams Monthly Active Usage",
+    "plan": "long_term_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Teams Monthly Active Usage | Unique monthly active users of Teams in Enterprise, Corporate, Small and Medium Business, and Education | 20%"
+   },
+   {
+    "metric": "Xbox Game Pass Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 5,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Xbox Game Pass Subscribers | Current number of paid Game Pass Subscriptions (Console, PC, Ultimate) | 5%"
+   },
+   {
+    "metric": "Surface Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 5,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Surface Revenue* | Revenue from Surface devices and accessories | 5%"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 5,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience | 5%"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Revised the relative TSR modifier for fiscal year 2021 PSAs to include a downside adjustment on PSA payouts if relative TSR falls below the 40th percentile of the S&P 500"
+   }
+  ]
+ }
+}

@@ -83,4 +83,4 @@ LM_PATH = CACHE_DIR / "Loughran-McDonald_MasterDictionary_1993-2025.csv"
 # output plus a content-hash cache (each section is extracted exactly once).
 LLM_MODEL = "claude-haiku-5-5"
 LLM_EFFORT = "low"
-LLM_PROMPT_VERSION = "v1"   # bump to invalidate the cache after prompt edits
+LLM_PROMPT_VERSION = "v3"   # bump to invalidate the cache after prompt edits (v2: hand-check fixes; v3: weight_of)

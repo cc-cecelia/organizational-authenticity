@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0000019617-18-000077",
+  "task": "incentives",
+  "section_words": 12239,
+  "section_method": "heading",
+  "cache_key": "e4bc7f79d71b681135fc9c809da8f62337c38eb932952f6171307da42e4dc79f",
+  "est_input_tokens": 27211
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29882,
+  "output_tokens": 1029,
+  "request_id": "req_011CgBHqV4HkZgdGZa9a7Gio"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "metric": "Client/Customer Focus",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "metric": "ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the ultimate number of PSUs earned at vesting is determined by a formula based on absolute and relative ROTCE performance"
+   },
+   {
+    "metric": "Absolute ROTCE goal",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Calibrated the Absolute ROTCE goal to 17% based on the current forecast of the Firm's future performance"
+   },
+   {
+    "metric": "Relative ROTCE performance versus competitors",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achievement of median relative performance results in target payout (100%)"
+   },
+   {
+    "metric": "Risk-based capital hurdle (Fully Phased-In CET1 ratio of 7.5%)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the Firm's Fully Phased-In CET1 capital ratio is less than 7.5% at any year-end, then unvested PSUs referencing that performance year will be subject to downward adjustment by the CMDC."
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-098338",
+  "task": "proposals",
+  "section_words": 3592,
+  "section_method": "heading",
+  "cache_key": "a8e2a475b2a02db03dae01d2900bda1c257c5229005b5d1a84c904001601c1eb",
+  "est_input_tokens": 6087
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8872,
+  "output_tokens": 488,
+  "request_id": "req_011CgBHKMMrp3gztYD9PWQQG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Gender pay equity report",
+    "proponent": "Arjuna Capital, on behalf of Rainer Yingling Judd",
+    "topic_summary": "Requests a report on the company's global median gender pay gap, including associated policy, reputational, competitive, operational risks and risks related to recruiting and retaining female talent.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Enhance shareholder proxy access",
+    "proponent": "John Chevedden, as agent for Kenneth Steiner",
+    "topic_summary": "Asks the board to amend proxy access bylaws so proxy access director candidates need not obtain a specific percentage vote to qualify as candidates at future meetings.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Cumulative voting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to adopt cumulative voting for director elections so shareholders may cast cumulated votes for single or few director candidates.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

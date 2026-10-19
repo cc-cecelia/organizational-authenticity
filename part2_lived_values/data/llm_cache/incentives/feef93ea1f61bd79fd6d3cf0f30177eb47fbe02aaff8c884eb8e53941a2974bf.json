@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-115091",
+  "task": "incentives",
+  "section_words": 7062,
+  "section_method": "heading",
+  "cache_key": "feef93ea1f61bd79fd6d3cf0f30177eb47fbe02aaff8c884eb8e53941a2974bf",
+  "est_input_tokens": 16176
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18231,
+  "output_tokens": 1162,
+  "request_id": "req_011CgBKUsfyWjp4WbWtB9i1c"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety & Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Added Cash Flow from Operations and Asset Sales"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reduced 2017 performance share awards for CEO and other Named Executive Officers due to 10-year Total Shareholder Return (TSR) performance that is not leading average of industry peers"
+   },
+   {
+    "metric": "Strategic Objectives, Business Results & Project Execution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Objectives, Business Results & Project Execution | CC Assessment"
+   },
+   {
+    "metric": "Earnings bonus units delayed on cumulative earnings per share (EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Half of the annual bonus is delayed and paid out when a specified level of cumulative earnings per share (EPS) is achieved or in three years at a reduced level."
+   },
+   {
+    "metric": "Annual bonus formula based on annual change in earnings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Size of annual bonus determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "metric": "Individual performance (negative discretion)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance."
+   }
+  ]
+ }
+}

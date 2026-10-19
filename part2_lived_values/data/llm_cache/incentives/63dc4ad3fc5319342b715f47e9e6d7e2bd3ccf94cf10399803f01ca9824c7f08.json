@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0000019617-18-000077",
+  "task": "incentives",
+  "section_words": 12239,
+  "section_method": "heading",
+  "cache_key": "63dc4ad3fc5319342b715f47e9e6d7e2bd3ccf94cf10399803f01ca9824c7f08",
+  "est_input_tokens": 20197
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29181,
+  "output_tokens": 735,
+  "request_id": "req_011CgBHKDcXdhzhf1AVvGEgr"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Performance Assessment Factors: Business Results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC uses a balanced discretionary approach to assess performance against four broad categories: I. Business Results"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC does not assign relative weightings to the above categories"
+   },
+   {
+    "metric": "Client/Customer Focus",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "III. Client/Customer Focus"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "IV. Teamwork & Leadership"
+   },
+   {
+    "metric": "ROTCE (absolute and relative)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the ultimate number of PSUs earned at vesting is determined by a formula based on absolute and relative ROTCE performance, with the value of the payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "Minimum Risk-based Hurdle (Fully Phased-In CET1 capital ratio)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "future_year",
+    "evidence": "If the Firm's Fully Phased-In CET1 capital ratio is less than 7.5% at any year-end, then unvested PSUs referencing that performance year will be subject to downward adjustment by the CMDC"
+   }
+  ]
+ }
+}

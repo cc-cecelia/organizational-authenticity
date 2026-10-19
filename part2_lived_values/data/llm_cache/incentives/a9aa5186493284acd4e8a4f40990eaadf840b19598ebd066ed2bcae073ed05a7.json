@@ -1,0 +1,203 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082140",
+  "task": "incentives",
+  "section_words": 9472,
+  "section_method": "heading",
+  "cache_key": "a9aa5186493284acd4e8a4f40990eaadf840b19598ebd066ed2bcae073ed05a7",
+  "est_input_tokens": 22602
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24691,
+  "output_tokens": 3628,
+  "request_id": "req_011CgBHtX4Rrd1GPVRLWn4nQ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company earnings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Earnings Per Share (EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payment of the EBU occurs when cumulative earnings per share threshold is achieved"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Individual grant levels determined by the above formula, changes in pay grade, and individual performance"
+   },
+   {
+    "metric": "Progress Toward Strategic Objectives",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the Committee does not apply a formula or specific weighting of factors, performance is assessed against goals and objectives"
+   },
+   {
+    "metric": "Financial and Operating Performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial and operating performance is assessed relative to industry peers over near- and long-term time horizons"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance in line with peers in Cash Flow from Operations and Asset Sales (CFOAS) and Total Shareholder Return (TSR)"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Below average performance versus peers in TSR"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Integrity and Return on Average Capital Employed (ROCE)"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Best-ever safety and reliability results"
+   },
+   {
+    "metric": "Strengthening the Upstream portfolio",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "STRENGTHENING THE UPSTREAM PORTFOLIO Preserving value with priority on most advantaged investments"
+   },
+   {
+    "metric": "Upgrading Downstream production",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "UPGRADING DOWNSTREAM PRODUCTION Positioning to be resilient in slow-demand recovery scenario"
+   },
+   {
+    "metric": "Leading in Chemical growth",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LEADING IN CHEMICAL GROWTH Unparalleled integration with refining and upstream"
+   },
+   {
+    "metric": "Delivering lower emissions",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "DELIVERING LOWER EMISSIONS Actively investing in development of lower-emission technologies"
+   },
+   {
+    "metric": "Investing with discipline",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "INVESTING WITH DISCIPLINE Despite challenging market environment, maintained dividend at 4Q 2019 levels"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Actual award determined by individual performance and pay grade metrics applied at grant"
+   }
+  ]
+ }
+}

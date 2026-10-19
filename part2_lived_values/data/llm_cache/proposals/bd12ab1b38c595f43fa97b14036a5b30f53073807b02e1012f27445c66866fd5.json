@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001193125-24-242883",
+  "task": "proposals",
+  "section_words": 8697,
+  "section_method": "heading",
+  "cache_key": "bd12ab1b38c595f43fa97b14036a5b30f53073807b02e1012f27445c66866fd5",
+  "est_input_tokens": 22101
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25143,
+  "output_tokens": 1071,
+  "request_id": "req_011CgBJ8LYYeqbNt9mQSzAhZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Report on Risks of Weapons Development (Shareholder Proposal)",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests an independent third-party report assessing reputational and financial risks to the company from being identified as involved in developing weapons used by the military.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Assessment of Investing in Bitcoin (Shareholder Proposal)",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests the Board conduct an assessment of whether diversifying the Company's balance sheet by including Bitcoin is in the best long-term interests of shareholders.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Data Operations in Human Rights Hotspots (Shareholder Proposal)",
+    "proponent": "Olga Bell Greenbaum D'Angelo and a co-filer",
+    "topic_summary": "Requests a report assessing implications of siting cloud datacenters in countries of human rights concern and the company's mitigation strategies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Artificial Intelligence and Machine Learning Tools for Oil and Gas Development and Production (Shareholder Proposal)",
+    "proponent": "As You Sow and co-filers",
+    "topic_summary": "Requests a report on risks to the company of providing advanced technology, including AI and machine learning tools, to facilitate new oil and gas development and production.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on AI Misinformation and Disinformation (Shareholder Proposal)",
+    "proponent": "Arjuna Capital and co-filers",
+    "topic_summary": "Requests a report assessing risks from misinformation and disinformation generated or disseminated via the company's AI, and steps to remediate harms.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on AI Data Sourcing Accountability (Shareholder Proposal)",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a report assessing risks from unethical or improper use of external data in training the company's AI offerings and mitigation steps.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   }
+  ]
+ }
+}

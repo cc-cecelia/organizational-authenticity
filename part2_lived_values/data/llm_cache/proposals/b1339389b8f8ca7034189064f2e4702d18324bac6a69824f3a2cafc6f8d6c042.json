@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-298757",
+  "task": "proposals",
+  "section_words": 1012,
+  "section_method": "heading",
+  "cache_key": "b1339389b8f8ca7034189064f2e4702d18324bac6a69824f3a2cafc6f8d6c042",
+  "est_input_tokens": 1924
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3680,
+  "output_tokens": 168,
+  "request_id": "req_011CgBHJQUMbWCDoRUoTcbSW"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "1",
+    "title": "Pay Equity",
+    "proponent": "Arjuna Capital and a co-filer",
+    "topic_summary": "Requests Microsoft report on median pay gaps across race and gender, including associated policy, reputational, competitive, operational, and talent-retention risks.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   }
+  ]
+ }
+}

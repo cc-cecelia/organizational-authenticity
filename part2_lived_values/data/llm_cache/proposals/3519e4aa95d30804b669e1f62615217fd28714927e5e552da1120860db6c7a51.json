@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0000019617-24-000273",
+  "task": "proposals",
+  "section_words": 12285,
+  "section_method": "heading",
+  "cache_key": "3519e4aa95d30804b669e1f62615217fd28714927e5e552da1120860db6c7a51",
+  "est_input_tokens": 29733
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30326,
+  "output_tokens": 1147,
+  "request_id": "req_011CgBKUA7v6259Ycyo8aoY6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring separation of Chairman and CEO roles, with the Chairman being an Independent Director whenever possible.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Humanitarian Risks Due to Climate Change Policies",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests an audit analyzing economic and humanitarian effects of JPM's climate transition policies on emerging nations, published as a report.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Indigenous Peoples' Rights Indicators",
+    "proponent": "United Church Funds",
+    "topic_summary": "Requests a report on effectiveness of JPM's policies and indicators for respecting Indigenous Peoples' rights in corporate and project financing.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proxy Voting Alignment",
+    "proponent": "The Maryknoll Sisters of St. Dominic, Inc.",
+    "topic_summary": "Requests a review of JPMAM's 2023 proxy voting record and voting policies on diversity and climate change, with a report to shareholders.",
+    "category": "integrity",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Due Diligence in Conflict-Affected and High-Risk Areas",
+    "proponent": "Sisters of the Presentation of the Blessed Virgin Mary of Aberdeen, South Dakota",
+    "topic_summary": "Requests an independent third-party report on JPMC's due diligence on human rights and other material risks in conflict-affected and high-risk areas.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Opportunity to Vote on Excessive Golden Parachutes",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests shareholder approval of senior executive pay packages with golden parachute payments exceeding 2.99 times base salary plus target bonus.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Report on Respecting Workforce Civil Liberties",
+    "proponent": "Bowyer Research Inc. on behalf of The Bahnsen Family Trust Dated July 14th 2003",
+    "topic_summary": "Requests an evaluation and report on how policies impact employees based on religious or political views and the associated business risks.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

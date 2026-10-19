@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-268531",
+  "task": "proposals",
+  "section_words": 3526,
+  "section_method": "heading",
+  "cache_key": "9456a56a962940e19aec35c3c94b670efeba8e0e383cfaa8bc764f7ccf83cb13",
+  "est_input_tokens": 8168
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9283,
+  "output_tokens": 331,
+  "request_id": "req_011CgBJ5hxaSoeKyerskrn2b"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "1",
+    "title": "Report on Employee Representation on Board of Directors",
+    "proponent": "A shareholder",
+    "topic_summary": "Requests a report describing opportunities to include non-management employee representation on the Board, including legal, practical and procedural impediments and benefits.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "2",
+    "title": "Report on Gender Pay Gap",
+    "proponent": "Two shareholders",
+    "topic_summary": "Requests a report on Microsoft's global median gender pay gap, including associated policy, reputational, competitive, operational risks and risks to recruiting and retaining female talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

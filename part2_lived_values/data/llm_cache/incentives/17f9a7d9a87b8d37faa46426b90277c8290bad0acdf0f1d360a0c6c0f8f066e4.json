@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-098865",
+  "task": "incentives",
+  "section_words": 15476,
+  "section_method": "heading",
+  "cache_key": "17f9a7d9a87b8d37faa46426b90277c8290bad0acdf0f1d360a0c6c0f8f066e4",
+  "est_input_tokens": 25502
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37595,
+  "output_tokens": 870,
+  "request_id": "req_011CgBHKStV62vDutgYX8aEf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC uses a balanced discretionary approach to assess OC member performance throughout the year against four broad dimensions: \u2022 Business Results"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive and respectful environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "Absolute ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "formulaic payout based on absolute and relative ROTCE; the value of the payout ranging from 0% to 150%"
+   },
+   {
+    "metric": "Relative ROTCE",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Payout under the PSU plan is calculated at the end of the three-year performance period based on absolute and relative average ROTCE"
+   },
+   {
+    "metric": "CET1 capital ratio minimum risk-based hurdle",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ]
+ }
+}

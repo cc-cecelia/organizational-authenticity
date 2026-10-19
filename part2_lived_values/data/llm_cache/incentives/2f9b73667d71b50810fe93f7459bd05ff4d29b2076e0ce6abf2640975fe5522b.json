@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-103474",
+  "task": "incentives",
+  "section_words": 7372,
+  "section_method": "heading",
+  "cache_key": "2f9b73667d71b50810fe93f7459bd05ff4d29b2076e0ce6abf2640975fe5522b",
+  "est_input_tokens": 12563
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19133,
+  "output_tokens": 944,
+  "request_id": "req_011CgBHLwxjfLg5KFAqjZJoJ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Leading: Long-term cash flow from operations and asset sales outpacing competitors"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Not leading average of industry peers in 10-year TSR"
+   },
+   {
+    "metric": "Progress toward strategic objectives",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "the Company's progress toward its strategic objectives"
+   },
+   {
+    "metric": "Earnings per share (EPS) cumulative threshold for EBU vesting",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "50 percent subject to delayed vesting feature that is based on future earnings performance"
+   },
+   {
+    "metric": "Annual change in annual earnings (bonus pool formula)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Individual bonus awards are then determined by the bonus program formula, changes in pay grade, and performance."
+   }
+  ]
+ }
+}

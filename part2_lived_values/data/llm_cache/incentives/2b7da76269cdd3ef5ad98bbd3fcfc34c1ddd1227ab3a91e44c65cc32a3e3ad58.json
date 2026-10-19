@@ -1,0 +1,191 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098314",
+  "task": "incentives",
+  "section_words": 8479,
+  "section_method": "heading",
+  "cache_key": "2b7da76269cdd3ef5ad98bbd3fcfc34c1ddd1227ab3a91e44c65cc32a3e3ad58",
+  "est_input_tokens": 20512
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22859,
+  "output_tokens": 1746,
+  "request_id": "req_011CgBHtqAqv5bS1wC2sjjWq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operations Performance (safety, emissions reductions, environmental performance, reliability)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee assigns equal weight to each of the four strategic objectives."
+   },
+   {
+    "metric": "Financial Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "metric": "Energy Transition",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee currently places additional emphasis on the energy transition objective and GHG metrics"
+   },
+   {
+    "metric": "Business Portfolio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "metric": "Safety",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintained best-ever safety performance"
+   },
+   {
+    "metric": "Spills",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% reduction in number of spills versus prior 3-year average"
+   },
+   {
+    "metric": "Operated GHG Emissions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Met 2025 GHG emission-reduction plans by YE 2021"
+   },
+   {
+    "metric": "Reliability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Exceeded plan across all business segments"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "RETURN ON AVERAGE CAPITAL EMPLOYED (ROCE)"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales (CFOAS)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations and Asset Sales (CFOAS) is the sum of the net cash provided by operating activities"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR recovering - 57.3 percent in 2021 leads peers"
+   },
+   {
+    "metric": "Annual bonus program change in earnings (% change in bonus program = % change in annual earnings x 2/3)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Performance Shares - Operations Performance, Financial Performance, Energy Transition, Business Portfolio",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Applying performance metrics at grant enables restriction periods of 10 years"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "intended to link executive pay to the returns of long-term shareholders"
+   }
+  ]
+ }
+}

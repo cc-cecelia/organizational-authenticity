@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-103474",
+  "task": "proposals",
+  "section_words": 7308,
+  "section_method": "heading",
+  "cache_key": "f38de90b81a39f8dcaf0c03d5bac5ede0cef1f474b090b4a5bb7d82aa84dcf29",
+  "est_input_tokens": 12471
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17462,
+  "output_tokens": 1080,
+  "request_id": "req_011CgBHMD9JQeyCMdbF7BKqA"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Chairman",
+    "proponent": "The Kestrel Foundation",
+    "topic_summary": "Adopt policy requiring the Board Chair, whenever possible, to be an independent director, phased in at next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting without petitioning a court.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Board Matrix",
+    "proponent": "New York City Retirement Systems",
+    "topic_summary": "Disclose each director's gender, race/ethnicity, and relevant skills in a matrix format in the proxy statement and on the website, updated annually.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Climate Change Board Committee",
+    "proponent": "Adam Seitchik, a client of Arjuna Capital",
+    "topic_summary": "Charter a new Board Committee on Climate Change to oversee strategy and responses to climate-related risks and opportunities.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Risks of Gulf Coast Petrochemical Investments",
+    "proponent": "Andrew Behar, a client of As You Sow",
+    "topic_summary": "Publish a report assessing public health risks of expanding petrochemical operations in areas prone to climate-induced storms, flooding, and sea level rise.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Prepare and semiannually update a report disclosing policies and direct and indirect electoral contributions, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Prepare an annually updated report disclosing direct, indirect, and grassroots lobbying policies, payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-740758",
+  "task": "proposals",
+  "section_words": 1951,
+  "section_method": "heading",
+  "cache_key": "3738cdb1cee8d02a1f8bdc8424704f9cab059351977f02ab8dc450f52f713bea",
+  "est_input_tokens": 3526
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5603,
+  "output_tokens": 211,
+  "request_id": "req_011CgBHHyiLU5WBhDgFLQ8WA"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Shareholder Proxy Access Enhancement",
+    "proponent": "James McRitchie",
+    "topic_summary": "Asks the board to adopt an enhanced proxy access bylaw: cap shareholder nominees at one quarter of directors or two, remove limits on aggregating shareholders, remove re-nomination vote limits, and defer nominee suitability to shareholder votes.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST approval of this shareholder proposal"
+   }
+  ]
+ }
+}

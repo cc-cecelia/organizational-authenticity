@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001193125-17-122538",
+  "task": "incentives",
+  "section_words": 7395,
+  "section_method": "heading",
+  "cache_key": "35cfc0551dabb7368c25963b89ee3f23678b994226ae82b53f35da5f2954720d",
+  "est_input_tokens": 16711
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18932,
+  "output_tokens": 2295,
+  "request_id": "req_011CgBHsT3JwnmxwWm7YfUJt"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Size of annual bonus pool determined by formula based on annual percent change in projected Corporate earnings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee establishes the overall size of the annual bonus pool (\"ceiling\") based on the annual percent change in projected Corporate earnings"
+   },
+   {
+    "metric": "Cumulative earnings per share (EPS) threshold for delayed half of annual bonus ($6.50 in 2014, 2015, and 2016)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Half of annual bonus delayed until cumulative earnings per share (EPS) reach a specified level; EPS threshold at $6.50 in 2014, 2015, and 2016"
+   },
+   {
+    "metric": "Seven pre-established performance areas and metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Individual bonus grants are determined by the performance award matrix on page 31, which differentiates award levels by individual performance and by pay grade. The performance award matrix is based on seven pre-established performance areas and metrics."
+   },
+   {
+    "metric": "Safety performance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "Return on average capital employed (ROCE)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "Leadership in sustaining sound business controls and a strong ethical and corporate governance environment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also takes into account leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "metric": "Seven pre-established performance areas and metrics",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Number of performance shares at grant determined by 7 pre-established performance areas and metrics"
+   },
+   {
+    "metric": "Safety performance",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "Return on average capital employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "Leadership in sustaining sound business controls and a strong ethical and corporate governance environment",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also takes into account leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "metric": "Individual performance assessment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Annual performance assessment through well-defined process covering executive officers and more than 1,700 executives worldwide"
+   }
+  ]
+ }
+}

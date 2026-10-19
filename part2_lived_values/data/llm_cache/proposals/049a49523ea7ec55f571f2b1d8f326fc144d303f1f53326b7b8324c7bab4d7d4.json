@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-539460",
+  "task": "proposals",
+  "section_words": 11452,
+  "section_method": "heading",
+  "cache_key": "049a49523ea7ec55f571f2b1d8f326fc144d303f1f53326b7b8324c7bab4d7d4",
+  "est_input_tokens": 26415
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27042,
+  "output_tokens": 1819,
+  "request_id": "req_011CgBHsFy3irQA8E97g4CcW"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "INDEPENDENT CHAIRMAN",
+    "proponent": "Ellen M. Higgins Trust 1959",
+    "topic_summary": "Requests board adopt policy and bylaws requiring the Chair be an independent director, phased in at next CEO transition, waivable if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "CLIMATE EXPERT ON BOARD",
+    "proponent": "Province of St. Joseph of the Capuchin Order",
+    "topic_summary": "Requests nomination of at least one independent board candidate with high climate change expertise relevant to hydrocarbon operations and renewable energy.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "HIRE AN INVESTMENT BANK",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests the company hire an investment bank to explore a sale of the company, possibly by dividing it into major pieces.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "PROXY ACCESS BYLAW",
+    "proponent": "New York City Employees' Retirement System, et al.",
+    "topic_summary": "Requests board adopt a proxy access bylaw allowing shareholders meeting ownership and holding criteria to nominate directors included in company proxy materials.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "REPORT ON COMPENSATION FOR WOMEN",
+    "proponent": "Eve S. Sprunt, PhD",
+    "topic_summary": "Requests annual report of percentage of female employees across ten equal workforce compensation fractions to show gender pay comparison.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "REPORT ON LOBBYING",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests annual report on direct and indirect lobbying policies, payments, trade association and ALEC memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "INCREASE CAPITAL DISTRIBUTIONS",
+    "proponent": "Eric McCallum, a client of Arjuna Capital/Baldwin Brothers Inc.",
+    "topic_summary": "Requests advisory commitment to increase total capital distributions (dividends and buybacks) in light of climate-related stranded asset risks.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "11",
+    "title": "POLICY TO LIMIT GLOBAL WARMING TO 2\u00b0C",
+    "proponent": "Sisters of St. Dominic of Caldwell New Jersey",
+    "topic_summary": "Requests board adopt policy acknowledging the imperative to limit global warming to 2\u00b0C and committing the company to support that goal.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "12",
+    "title": "REPORT ON IMPACTS OF CLIMATE CHANGE POLICIES",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Requests annual assessment of long-term portfolio impacts of public climate policies under a 2-degree scenario, through 2040 and beyond.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "13",
+    "title": "REPORT RESERVE REPLACEMENTS IN BTUs",
+    "proponent": "Adelaide Gomer, c/o As You Sow",
+    "topic_summary": "Requests annual reporting of reserve replacements in British Thermal Units by resource category, in addition to SEC reserve reporting.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "14",
+    "title": "REPORT ON HYDRAULIC FRACTURING",
+    "proponent": "Park Foundation",
+    "topic_summary": "Requests quantitative reporting on company practices to minimize environmental and community impacts of shale hydraulic fracturing operations.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

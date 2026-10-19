@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0000019617-23-000281",
+  "task": "incentives",
+  "section_words": 16309,
+  "section_method": "heading",
+  "cache_key": "8d3a733aa164ef239ce8fcdd0f1810326407aec820db0b1cebac49c3f6ef33b2",
+  "est_input_tokens": 26822
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38654,
+  "output_tokens": 817,
+  "request_id": "req_011CgBHKjiGJvVCYb2FexVNo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "ROTCE (absolute and relative average ROTCE over three-year performance period)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The CMDC selected ROTCE, a comprehensive performance metric that measures the Firm's net income applicable to common equity as a percentage of average tangible common equity."
+   },
+   {
+    "metric": "CET1 capital ratio minimum risk-based hurdle",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment by the CMDC for each such year."
+   },
+   {
+    "metric": "Business Results (the what, ~50% weighting)",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The CMDC applies an approximately 50% weighting to its consideration of absolute and relative business results, i.e. \"the what\""
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "Risk, Controls & Conduct \u2014 Continued to focus on: Investing significantly in our cyber defense capabilities"
+   },
+   {
+    "metric": "Client / Customer / Stakeholder",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Client / Customer / Stakeholder \u2014 Continued to put our customers first by building products and services that deliver value"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Teamwork & Leadership \u2014 Continued execution of a long-term succession planning strategy for the Firm's senior leadership"
+   }
+  ]
+ }
+}

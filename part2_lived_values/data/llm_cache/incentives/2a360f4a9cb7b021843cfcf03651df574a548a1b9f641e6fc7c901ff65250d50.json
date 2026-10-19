@@ -1,0 +1,191 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-539460",
+  "task": "incentives",
+  "section_words": 7555,
+  "section_method": "heading",
+  "cache_key": "2a360f4a9cb7b021843cfcf03651df574a548a1b9f641e6fc7c901ff65250d50",
+  "est_input_tokens": 16986
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19562,
+  "output_tokens": 1991,
+  "request_id": "req_011CgBHs6Ge693WgGbuwS3a2"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "ROCE",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "TSR",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Shareholder Distributions",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Strategic Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Project Execution",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "metric": "TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR, Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Shareholder Distributions",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Strategic Business Results",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "metric": "Project Execution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Business Results, and Project Execution"
+   }
+  ]
+ }
+}

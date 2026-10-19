@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-115091",
+  "task": "incentives",
+  "section_words": 7062,
+  "section_method": "heading",
+  "cache_key": "e3ec61d11363dafd8b60f3b050290f7e557d4e9fe1999847319a8c4d839eda9d",
+  "est_input_tokens": 11868
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17395,
+  "output_tokens": 1053,
+  "request_id": "req_011CgBHLUNozVjowXpvNs9HS"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety & Operations Integrity",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Performance Metrics (10-year) | Safety & Operations Integrity* | Return on Average Capital Employed (ROCE)* | Cash Flow from Operations and Asset Sales"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Reduced 2017 performance share awards for CEO and other Named Executive Officers due to 10-year Total Shareholder Return (TSR) performance that is not leading average of industry peers"
+   },
+   {
+    "metric": "Strategic Objectives, Business Results & Project Execution",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Strategic Objectives, Business Results & Project Execution | CC Assessment"
+   },
+   {
+    "metric": "Annual earnings-based bonus formula (change in annual earnings)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Size of annual bonus determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "metric": "Cumulative earnings per share (EPS) threshold for delayed bonus",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Half of the annual bonus is delayed and paid out when a specified level of cumulative earnings per share (EPS) is achieved or in three years at a reduced level."
+   },
+   {
+    "metric": "Individual performance negative discretion",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance."
+   }
+  ]
+ }
+}

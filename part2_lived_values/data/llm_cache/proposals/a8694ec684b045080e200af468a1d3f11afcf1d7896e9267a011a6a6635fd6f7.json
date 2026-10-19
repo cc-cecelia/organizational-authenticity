@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001193125-20-272025",
+  "task": "proposals",
+  "section_words": 1588,
+  "section_method": "heading",
+  "cache_key": "a8694ec684b045080e200af468a1d3f11afcf1d7896e9267a011a6a6635fd6f7",
+  "est_input_tokens": 3930
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5174,
+  "output_tokens": 169,
+  "request_id": "req_011CgBJ721JjdCwSG6uwhQLw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "Employee Representation on the Board of Directors",
+    "proponent": "NorthStar Asset Management, Inc.",
+    "topic_summary": "Asks the Board to prepare a report describing options to encourage inclusion of non-management employee representation on the Board of Directors.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

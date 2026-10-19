@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001193125-17-122538",
+  "task": "proposals",
+  "section_words": 7923,
+  "section_method": "heading",
+  "cache_key": "1d19760cb35c9de85a220aa62fb95cdf5ee1914643304cfce54c6a4985ee41f9",
+  "est_input_tokens": 18074
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18476,
+  "output_tokens": 1373,
+  "request_id": "req_011CgBHQvy5jSanYSsgFKNkd"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Independent Chairman",
+    "proponent": "Ellen M. Higgins Trust 1959",
+    "topic_summary": "Requests adoption of a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Majority Vote for Directors",
+    "proponent": "Southwest Regional Council of Carpenters Pension Fund",
+    "topic_summary": "Requests bylaw amendment so director nominees are elected by majority of votes cast in uncontested elections, retaining plurality for contested elections.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests steps to give holders of 15% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Restrict Precatory Proposals",
+    "proponent": "Steven J. Milloy",
+    "topic_summary": "Requests bylaw amendment ending shareholders' ability to submit precatory proposals unless the board approves their submission.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Compensation for Women",
+    "proponent": "Eve S. Sprunt, PhD",
+    "topic_summary": "Requests annual reporting of percentage of female employees in each of ten equal fractions of workforce ranked by total compensation.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests annual report disclosing direct and indirect lobbying, grassroots communications, trade association payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "11",
+    "title": "Increase Capital Distributions in Lieu of Investment",
+    "proponent": "Susan B. Inches",
+    "topic_summary": "Requests advisory commitment to increase total capital distributions (dividends and buybacks) given climate-related stranded asset risks.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "12",
+    "title": "Report on Impacts of Climate Change Policies",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Requests annual assessment of portfolio impacts of technological advances and climate policies under a 2 degree scenario through 2040.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "13",
+    "title": "Report on Methane Emissions",
+    "proponent": "Park Foundation, c/o As You Sow",
+    "topic_summary": "Requests annual quantitative report on actions beyond regulation to minimize methane emissions and leakage from hydraulic fracturing operations.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098314",
+  "task": "proposals",
+  "section_words": 7976,
+  "section_method": "heading",
+  "cache_key": "14366e0d2aea1cb10653adbfa2b0157d56f93ba62819270a14fe0450b2333bf3",
+  "est_input_tokens": 14219
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20277,
+  "output_tokens": 1107,
+  "request_id": "req_011CgBHN48MabNo3wRLkJTkm"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Remove Executive Perquisites",
+    "proponent": "Bernie J. Pafford",
+    "topic_summary": "Requests that payments and reimbursements to current and former NEOs for personal expenses not allowed to other salaried employees be discontinued.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Limit Shareholder Rights for Proposal Submission",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Requests bylaw amendment so shareholders may no longer submit precatory proposals unless the board approves their submission.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Reduce Company Emissions and Hydrocarbon Sales",
+    "proponent": "Follow This",
+    "topic_summary": "Requests medium- and long-term targets to reduce Scope 1, 2 and 3 greenhouse gas emissions consistent with the Paris Climate Agreement.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, the Board recommends a vote against this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Low Carbon Business Planning",
+    "proponent": "Kimberly Indresano and Brian Robert Romer JT Ten, clients of Arjuna Capital",
+    "topic_summary": "Requests a report on how the company could alter its business model to yield profits within a 1.5 degree Celsius scenario by reducing fossil fuel dependence.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Scenario Analysis",
+    "proponent": "Christian Brothers Investment Services, Inc.",
+    "topic_summary": "Requests an audited report on how applying IEA Net Zero 2050 assumptions would affect ExxonMobil's financial statement assumptions and valuations.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Plastic Production",
+    "proponent": "Andrew Behar",
+    "topic_summary": "Requests an audited report on how a significant reduction in virgin plastic demand would affect the company's financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board believes this proposal is unnecessary."
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests semiannual reporting of policies and of electoral contributions and expenditures, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board believes this proposal is unnecessary as current federal and state oversight are sufficient"
+   }
+  ]
+ }
+}

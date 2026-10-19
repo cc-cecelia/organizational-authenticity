@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001193125-23-259247",
+  "task": "incentives",
+  "section_words": 11263,
+  "section_method": "heading",
+  "cache_key": "bd35681394b651f91720d82d792a5971b6d4c556b8a32de93eab42e9a1063c89",
+  "est_input_tokens": 18797
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28056,
+  "output_tokens": 3570,
+  "request_id": "req_011CgBHJXH8MK3QdoDbhEM7q"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting the Company's fiscal year 2023 internal operating budget."
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting the Company's fiscal year 2023 internal operating budget."
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & Strategy (10%) | 150%"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & Stakeholders (10%) | 150%"
+   },
+   {
+    "metric": "Culture, Diversity & Sustainability",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture, Diversity & Sustainability (10%) | 110%"
+   },
+   {
+    "metric": "Microsoft Cloud Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 30,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Microsoft Cloud Revenue* | Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties | 30%"
+   },
+   {
+    "metric": "Microsoft Cloud Subscribers Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Microsoft Cloud Subscribers Growth | Paid seats for current or new per-user SaaS cloud services primarily in commercial customer segment | 20%"
+   },
+   {
+    "metric": "Teams Monthly Active Usage Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Teams Monthly Active Usage Growth | Unique monthly active users of Teams in Enterprise, Corporate, Small and Medium Business, Education, and Consumer | 20%"
+   },
+   {
+    "metric": "Xbox Content & Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Xbox Content & Services Revenue Growth* | Revenue from Xbox content and services | 10%"
+   },
+   {
+    "metric": "Windows 10/11 MAD Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Windows 10/11 MAD Growth | Windows monthly active devices (\"MAD\") growth is defined as the count of Windows 10 and Windows 11 devices that were active in the last 28 days | 10%"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience | 10%"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Performance stock awards include a relative TSR modifier to strengthen the alignment of the interests of our Named Executives with the long-term interests of our shareholders"
+   }
+  ]
+ }
+}

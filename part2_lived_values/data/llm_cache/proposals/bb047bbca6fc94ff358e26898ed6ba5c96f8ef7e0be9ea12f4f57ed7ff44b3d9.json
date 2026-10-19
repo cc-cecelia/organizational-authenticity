@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098314",
+  "task": "proposals",
+  "section_words": 8196,
+  "section_method": "heading",
+  "cache_key": "bb047bbca6fc94ff358e26898ed6ba5c96f8ef7e0be9ea12f4f57ed7ff44b3d9",
+  "est_input_tokens": 19419
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21074,
+  "output_tokens": 1123,
+  "request_id": "req_011CgBHtv9zmgMRc4w8qUUCM"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Remove Executive Perquisites",
+    "proponent": "Bernie J. Pafford",
+    "topic_summary": "Discontinue payments and reimbursements to current and former NEOs for personal expenses not allowed to other U.S. dollar-paid salaried employees.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Limit Shareholder Rights for Proposal Submission",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Amend bylaws to no longer permit shareholders to submit precatory (non-binding) proposals unless the board approves submission.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Reduce Company Emissions and Hydrocarbon Sales",
+    "proponent": "Follow This",
+    "topic_summary": "Set and publish medium- and long-term targets to reduce GHG emissions from operations and energy products (Scope 1, 2, and 3) consistent with the Paris Agreement.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, the Board recommends a vote against this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Low Carbon Business Planning",
+    "proponent": "Kimberly Indresano and Brian Robert Romer JT Ten, clients of Arjuna Capital",
+    "topic_summary": "Issue a report describing how the company could alter its business model to yield profits within a 1.5 degree Celsius scenario by reducing fossil fuel dependence.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Scenario Analysis",
+    "proponent": "Christian Brothers Investment Services, Inc.",
+    "topic_summary": "Seek an audited report assessing how applying IEA Net Zero 2050 assumptions would affect the assumptions and valuations underlying financial statements.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Plastic Production",
+    "proponent": "Andrew Behar",
+    "topic_summary": "Issue an audited report on how a significant reduction in virgin plastic demand under the System Change Scenario would affect the company's financial position.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board believes this proposal is unnecessary."
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Prepare and semiannually update a report disclosing policies and direct and indirect electoral contributions and expenditures, excluding lobbying.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board believes this proposal is unnecessary as current federal and state oversight are sufficient"
+   }
+  ]
+ }
+}

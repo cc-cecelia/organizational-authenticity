@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001193125-24-242883",
+  "task": "incentives",
+  "section_words": 12787,
+  "section_method": "heading",
+  "cache_key": "434c403bb93f3c85878b8cab4bcdad905e0a8edc245b047db9ca3fa69679dd9f",
+  "est_input_tokens": 21213
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31844,
+  "output_tokens": 1747,
+  "request_id": "req_011CgBHJdVwMekZFZKearE6c"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "For fiscal year 2024, the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "For fiscal year 2024, the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & Strategy (10%) | 150%"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & Stakeholders (10%) | 160%"
+   },
+   {
+    "metric": "Culture, Diversity & Sustainability",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture, Diversity & Sustainability (10%) | 145%"
+   },
+   {
+    "metric": "Azure and Other Cloud Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Azure and Other Cloud Services Revenue Growth | 35%"
+   },
+   {
+    "metric": "Microsoft Cloud Revenue Growth, excluding Azure and Other Cloud Services",
+    "plan": "long_term_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Microsoft Cloud Revenue Growth, excluding Azure and Other Cloud Services | 35%"
+   },
+   {
+    "metric": "Search and News Advertising Revenue (ex TAC) Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Search and News Advertising Revenue (ex TAC) Growth | 10%"
+   },
+   {
+    "metric": "Xbox Content and Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Xbox Content and Services Revenue Growth* | Revenue from Xbox content and services"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Results for the three years may be modified based on our Relative TSR percentile ranking as compared to the S&P 500, as shown below."
+   },
+   {
+    "metric": "Azure and Other Cloud Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 35,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "evidence": "FY25 PSA Metrics | Weights Azure and Other Cloud Services Revenue Growth | 35%"
+   },
+   {
+    "metric": "Consumer Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 15,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "evidence": "Consumer Services Revenue Growth | 15%"
+   },
+   {
+    "metric": "Xbox Content and Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "weight_pct": 15,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "evidence": "Xbox Content and Services Revenue Growth | 15%"
+   },
+   {
+    "metric": "Security",
+    "plan": "annual_incentive",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "future_year",
+    "evidence": "Security | 10% for CEO 16.67% for NEOs"
+   }
+  ]
+ }
+}

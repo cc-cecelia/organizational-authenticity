@@ -1,0 +1,191 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001193125-24-092545",
+  "task": "incentives",
+  "section_words": 9057,
+  "section_method": "heading",
+  "cache_key": "596af9080ee43617974824b130d106e273b0354d1dd3393af44f03b850793202",
+  "est_input_tokens": 22068
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24413,
+  "output_tokens": 1762,
+  "request_id": "req_011CgBHuVHYwDLjwGq4hE3nY"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operations Performance (safety, emissions-intensity reductions, environmental performance, reliability)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The Committee assigns equal weight to each of the four strategic objectives."
+   },
+   {
+    "metric": "Financial Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "metric": "Energy Transition",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Lead industry in reducing emissions in hard-to-decarbonize sectors"
+   },
+   {
+    "metric": "Business Portfolio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "metric": "Safety",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "metric": "Emissions-intensity reductions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver industry-leading performance in safety, emissions-intensity reductions, environmental performance, and reliability"
+   },
+   {
+    "metric": "Environmental performance (spills)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Over 50% reduction in number of spills"
+   },
+   {
+    "metric": "Reliability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total capacity loss trend on plan"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Average Capital Employed (ROCE)"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales (CFOAS)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations and Asset Sales (CFOAS) is the sum of the net cash provided by operating activities"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock over a specified period of time"
+   },
+   {
+    "metric": "Integrity and sound business controls (ethical and corporate governance environment)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee also takes into account demonstrated leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "metric": "Strategic objectives and plan goals (performance shares)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance assessed against pre-established goals and objectives, results tie directly to award level"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR) (performance shares)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "link executive pay to the returns of long-term shareholders"
+   }
+  ]
+ }
+}

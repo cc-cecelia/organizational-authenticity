@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0000019617-22-000303",
+  "task": "incentives",
+  "section_words": 19787,
+  "section_method": "heading",
+  "cache_key": "50fb0eb72ce0911afff9844a9d1117105a7ba03959da51da84601838d7523286",
+  "est_input_tokens": 33012
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 46234,
+  "output_tokens": 922,
+  "request_id": "req_011CgBHKd8doUsBzQHpDtLF5"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the CMDC uses informed judgement to determine OC members' pay based on four broad performance dimensions"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities and commitment to provide economic opportunity to underserved communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive, respectful and accountable environment, and developing employees, managers and leaders"
+   },
+   {
+    "metric": "Diversity, equity and inclusion priorities progress",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "evidence": "Diversity, equity and inclusion priorities and progress are incorporated into year-end performance evaluations and compensation decisions for OC members"
+   },
+   {
+    "metric": "ROTCE (absolute and relative, three-year average)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "the ultimate number of PSUs paid out at vesting is determined by a pre-established formula based on the Firm's absolute and relative ROTCE performance over the subsequent three years"
+   },
+   {
+    "metric": "CET1 capital ratio minimum risk-based hurdle",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ]
+ }
+}

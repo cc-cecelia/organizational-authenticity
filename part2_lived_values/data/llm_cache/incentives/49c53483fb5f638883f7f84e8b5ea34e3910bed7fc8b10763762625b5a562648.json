@@ -1,0 +1,239 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001193125-23-259247",
+  "task": "incentives",
+  "section_words": 11263,
+  "section_method": "heading",
+  "cache_key": "49c53483fb5f638883f7f84e8b5ea34e3910bed7fc8b10763762625b5a562648",
+  "est_input_tokens": 25345
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28757,
+  "output_tokens": 2395,
+  "request_id": "req_011CgBHpEzB8Wb5MheEG97SU"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For fiscal year 2023, the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product & Strategy (10%) | 150%"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customers & Stakeholders (10%) | 150%"
+   },
+   {
+    "metric": "Culture, Diversity & Sustainability",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Culture, Diversity & Sustainability (10%) | 110%"
+   },
+   {
+    "metric": "Efficiency and productivity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality \u2022 Revenue, consumption, and market share"
+   },
+   {
+    "metric": "Innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "metric": "Customer satisfaction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "metric": "Compliance and integrity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "metric": "Diversity and inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "metric": "Sustainability and carbon reduction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "metric": "Microsoft Cloud Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Microsoft Cloud Revenue* | Revenue from Azure and other cloud services | 30%"
+   },
+   {
+    "metric": "Microsoft Cloud Subscribers Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Microsoft Cloud Subscribers Growth | Paid seats for current or new per-user SaaS cloud services | 20%"
+   },
+   {
+    "metric": "Teams Monthly Active Usage Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teams Monthly Active Usage Growth | Unique monthly active users of Teams | 20%"
+   },
+   {
+    "metric": "Xbox Content & Services Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Xbox Content & Services Revenue Growth* | Revenue from Xbox content and services | 10%"
+   },
+   {
+    "metric": "Windows 10/11 MAD Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Windows 10/11 MAD Growth | Windows monthly active devices (\"MAD\") growth | 10%"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience | 10%"
+   },
+   {
+    "metric": "3-year Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Results for the three years may be modified based on our Relative TSR percentile ranking as compared to the S&P 500"
+   }
+  ]
+ }
+}

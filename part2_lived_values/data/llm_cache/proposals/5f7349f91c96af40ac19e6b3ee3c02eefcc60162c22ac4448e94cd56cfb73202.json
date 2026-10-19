@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0000019617-17-000340",
+  "task": "proposals",
+  "section_words": 6509,
+  "section_method": "heading",
+  "cache_key": "5f7349f91c96af40ac19e6b3ee3c02eefcc60162c22ac4448e94cd56cfb73202",
+  "est_input_tokens": 10846
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14822,
+  "output_tokens": 935,
+  "request_id": "req_011CgBHKALpRNsjxrfoBwQYw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Independent board chairman",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests board adopt policy requiring the Chair of the Board, whenever possible, to be an independent member of the Board.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "6",
+    "title": "Vesting for government service",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Requests policy prohibiting vesting of equity-based awards for senior executives upon voluntary resignation to enter government service.",
+    "category": "employees",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Clawback amendment",
+    "proponent": "John Chevedden, as agent for Kenneth Steiner",
+    "topic_summary": "Requests amending clawback policy so a substantial portion of executive pay is deferred 10 years and forfeitable to help satisfy monetary penalties for violations of law.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Gender pay equity",
+    "proponent": "Arjuna Capital, as agent for Rainer Yingling Judd",
+    "topic_summary": "Requests a report by October 2017 on the Company's policies and goals to reduce the gender pay gap.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "How votes are counted",
+    "proponent": "Investor Voice, as agent for Mercy Rome and Equality Network Foundation",
+    "topic_summary": "Requests amending governing documents so non-binding shareholder proposals are decided by simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Special shareowner meetings",
+    "proponent": "John Chevedden, as agent for William Steiner",
+    "topic_summary": "Requests bylaw amendment giving holders of 10% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

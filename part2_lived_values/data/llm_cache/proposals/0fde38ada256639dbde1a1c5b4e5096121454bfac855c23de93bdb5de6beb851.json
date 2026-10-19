@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-298757",
+  "task": "proposals",
+  "section_words": 5980,
+  "section_method": "heading",
+  "cache_key": "0fde38ada256639dbde1a1c5b4e5096121454bfac855c23de93bdb5de6beb851",
+  "est_input_tokens": 14775
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17015,
+  "output_tokens": 800,
+  "request_id": "req_011CgBJ781xpeEYBFFxYkiLF"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "1",
+    "title": "Pay Equity",
+    "proponent": "Arjuna Capital and a co-filer",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated risks and recruiting and retention of diverse talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "2",
+    "title": "Sexual Harassment",
+    "proponent": "Arjuna Capital",
+    "topic_summary": "Requests a transparency report assessing effectiveness of workplace sexual harassment policies, including results of independent investigations and accountability steps.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "3",
+    "title": "Not stated",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests the Board generally prohibit sales of facial recognition technology to all government entities and disclose any exceptions made.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "4",
+    "title": "Implementation of Public Commitment",
+    "proponent": "NorthStar Asset Management, Inc.",
+    "topic_summary": "Requests a report on how implementation of the Fair Chance Business Pledge has advanced progress toward eliminating racial discrimination in hiring, including criminal background checks.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Not stated",
+    "proponent": "The Congregation of the Sisters of St. Joseph of Peace and a number of co-filers",
+    "topic_summary": "Requests a public report on whether Microsoft's lobbying activities align with its policies on AI, public policy, human rights, and racial justice, and plans to mitigate misalignment.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal for the following reasons:"
+   }
+  ]
+ }
+}

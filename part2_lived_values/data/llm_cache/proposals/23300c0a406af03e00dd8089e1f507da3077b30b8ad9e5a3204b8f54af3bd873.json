@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-115091",
+  "task": "proposals",
+  "section_words": 4051,
+  "section_method": "heading",
+  "cache_key": "23300c0a406af03e00dd8089e1f507da3077b30b8ad9e5a3204b8f54af3bd873",
+  "est_input_tokens": 9130
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10790,
+  "output_tokens": 638,
+  "request_id": "req_011CgBKUvD2dffCyTiSJhufo"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Chairman",
+    "proponent": "The Kestrel Foundation",
+    "topic_summary": "Adopt policy requiring the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition, with waiver if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board believes it is important that shareholders have a meaningful right to call special shareholder meetings, a right that ExxonMobil currently provides."
+   },
+   {
+    "item_number": "6",
+    "title": "Board Diversity Matrix",
+    "proponent": "City of New York Retirement Systems",
+    "topic_summary": "Disclose each director's gender, race/ethnicity, and relevant skills and attributes in a matrix form in the proxy statement and on the website, updated annually.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Prepare annual report disclosing direct and indirect lobbying policies, payments, trade association and model legislation memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

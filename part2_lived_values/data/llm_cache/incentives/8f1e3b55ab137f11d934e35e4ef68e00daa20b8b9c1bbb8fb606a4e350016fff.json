@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082140",
+  "task": "incentives",
+  "section_words": 9472,
+  "section_method": "heading",
+  "cache_key": "8f1e3b55ab137f11d934e35e4ef68e00daa20b8b9c1bbb8fb606a4e350016fff",
+  "est_input_tokens": 16740
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23990,
+  "output_tokens": 2797,
+  "request_id": "req_011CgBHNMFk9p6y8xtf9nxy6"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company earnings (bonus formula: % change in bonus program = % change in annual earnings x 2/3)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Earnings Per Share (EPS) cumulative threshold for Earnings Bonus Units",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Payment of the EBU occurs when cumulative earnings per share threshold is achieved"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Individual grant levels determined by the above formula, changes in pay grade, and individual performance"
+   },
+   {
+    "metric": "Progress toward strategic objectives",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "evidence": "Demonstrated leadership and progress toward the Company's strategic objectives to generate sustainable, long-term growth in shareholder value are key factors in pay determination"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "Leading in Safety and Operations Integrity"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales (CFOAS)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Competitive in CFOAS"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Leading in Safety and Operations Integrity and Return on Average Capital Employed (ROCE)"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Below average performance versus peers in TSR"
+   },
+   {
+    "metric": "Lower emissions (delivering lower emissions)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "evidence": "Actively investing in development of lower-emission technologies with highest potential for large-scale deployment"
+   }
+  ]
+ }
+}

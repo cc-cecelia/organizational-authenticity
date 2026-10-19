@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-268531",
+  "task": "incentives",
+  "section_words": 8837,
+  "section_method": "heading",
+  "cache_key": "1566ca2ce88ae8dccf93e61baf90c8cb1ccd4d2e6f249bf299b3627a11d62ba1",
+  "est_input_tokens": 14891
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22712,
+  "output_tokens": 1463,
+  "request_id": "req_011CgBHHyi5pqyR6YeJ1muUX"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Plan Revenue",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Formulaic Financial Results (50% weight) ($ in billions) | Threshold | Target | Maximum | Actual FY19 Incentive Plan Revenue"
+   },
+   {
+    "metric": "Incentive Plan Operating Income",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "FY19 Incentive Plan Operating Income | $37.43 | $40.46 | $45.31 | $44.29"
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "Product & Strategy | Customers & Stakeholders | Culture & Organizational Leadership"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Customers & Stakeholders (33.3% weight) | 145%"
+   },
+   {
+    "metric": "Culture & Organizational Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "Culture & Organizational Leadership (33.3% weight) | 135%"
+   },
+   {
+    "metric": "Commercial Cloud Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": 34,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Revenue* | Net revenue for commercial cloud-based solutions | 34%"
+   },
+   {
+    "metric": "Commercial Cloud Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": 33,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Commercial Cloud Subscribers | Paid seats for current or new per-user SaaS cloud services | 33%"
+   },
+   {
+    "metric": "Windows 10 Monthly Active Devices",
+    "plan": "long_term_incentive",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "Windows 10 Monthly Active Devices | Comprises all Windows 10 monthly active devices | 11%"
+   },
+   {
+    "metric": "Consumer Post-Sales Monetization Gross Margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 11,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Consumer Post-Sales Monetization Gross Margin | Includes Search, Store, Display/Homepage, Gaming, and Office Consumer/Services | 11%"
+   },
+   {
+    "metric": "LinkedIn Sessions",
+    "plan": "long_term_incentive",
+    "weight_pct": 6,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience | 6%"
+   },
+   {
+    "metric": "Surface Gross Margin",
+    "plan": "long_term_incentive",
+    "weight_pct": 5,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Surface Gross Margin | Gross margin from Surface and first-party accessories, excluding Surface Hub | 5%"
+   },
+   {
+    "metric": "Relative TSR Multiplier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Our performance stock awards included a relative total shareholder return (\"TSR\") multiplier to reward significant positive outperformance"
+   }
+  ]
+ }
+}

@@ -30,15 +30,56 @@ import hashlib
 import json
 import os
 import sys
+import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 
 import pandas as pd
 
 import config
 import sections
-from theme_dictionary import CATEGORIES, CATEGORY_DEFINITIONS
+from theme_dictionary import CATEGORIES, CATEGORY_DEFINITIONS, CODING_RULES
 
 CATEGORY_ENUM = CATEGORIES + ["other"]
+
+# Account limits (from the anthropic-ratelimit-* response headers): 500k input
+# and 80k output tokens per minute. Output limits are charged against
+# max_tokens up front, so max_tokens is sized per task from the pilot's
+# observed outputs (incentives max 7.6k, proposals max 2.2k incl. thinking).
+MAX_TOKENS = {"incentives": 10_000, "proposals": 4_000}
+BUDGET_IN, BUDGET_OUT = 400_000, 64_000          # 80% of the per-minute limits
+
+
+class RateBudget:
+    """Rolling 60-second token budget shared by all worker threads."""
+
+    def __init__(self):
+        self.lock = threading.Lock()
+        self.events = []   # [timestamp, input_tokens, output_tokens]
+
+    def reserve(self, tin: int, tout: int, label: str) -> list:
+        waited = 0.0
+        while True:
+            with self.lock:
+                now = time.monotonic()
+                self.events = [e for e in self.events if now - e[0] < 60]
+                used_in = sum(e[1] for e in self.events)
+                used_out = sum(e[2] for e in self.events)
+                if used_in + tin <= BUDGET_IN and used_out + tout <= BUDGET_OUT or not self.events:
+                    ev = [now, tin, tout]
+                    self.events.append(ev)
+                    if waited:
+                        print(f"  waited {waited:.0f}s for token budget: {label}", flush=True)
+                    return ev
+            time.sleep(2)
+            waited += 2
+
+    def settle(self, ev: list, tin: int, tout: int) -> None:
+        with self.lock:
+            ev[1], ev[2] = tin, tout
+
+
+BUDGET = RateBudget()
 # Claude Haiku 5.5 list prices (USD per million tokens, prompts <= 100k tokens).
 PRICE_IN, PRICE_OUT = 0.10, 0.50
 
@@ -49,6 +90,7 @@ SYSTEM = (
     + "\n".join(f"- {k}: {v}" for k, v in CATEGORY_DEFINITIONS.items())
     + "\n- other: fits none of the above (e.g. individual performance, strategic milestones "
     "that name no stakeholder).\n\n"
+    "Coding rules for ambiguous cases:\n" + "\n".join(f"- {r}" for r in CODING_RULES) + "\n\n"
     "Rules: extract only what the text states. Never invent or infer a weight: if no weight is "
     "stated, use null. Evidence must be a verbatim quote from the text of at most 30 words."
 )
@@ -59,13 +101,16 @@ List every performance metric that the named executive officers' incentive pay i
 For each metric give:
 - metric: its name as written;
 - plan: annual_incentive, long_term_incentive or other;
-- weight_pct: the stated weight in percent, else null;
+- level: metric for a metric or assessment dimension; sub_criterion for a named criterion listed under a dimension;
+- weight_pct: the weight in percent stated in the text for this specific metric, else null. Do not derive a weight (a sole metric with no stated weight is null);
+- weight_of: plan_total if weight_pct is a share of the whole plan's payout; parent_component if it is a share of a component (e.g. three equal thirds of a 50% qualitative portion); none if weight_pct is null;
 - application: weighted (a component with a weight or formula), modifier (adjusts the payout up or down, e.g. a +/-10% ESG modifier), or holistic_factor (an unweighted factor in a discretionary or scorecard assessment);
 - measurement: quantitative (numeric target or formula) or qualitative;
 - category: the stakeholder category the metric serves. Financial and stock-market metrics (EPS, TSR, ROE, ROTCE, revenue, operating income, cash flow, margins) are shareholders;
-- applies_to: reported_year if it governed pay for the year the proxy reports on, future_year if it is a change announced for a later year;
+- applies_to: reported_year if it governed pay decided in the cycle the proxy reports on (including long-term awards granted in that cycle, although they vest later); future_year only for a change announced for a later cycle;
+- scope: all if the metric and weight apply to all named executives; ceo if they apply to the CEO only (when weights differ between the CEO and the others, report the CEO's and use ceo);
 - evidence: a short verbatim quote.
-If pay is decided by a holistic assessment with no formula, list the assessment dimensions the text names as holistic_factor metrics. Report each metric once per plan. Do not list compensation elements that are not performance metrics (salary, time-vested awards, benefits).
+If pay is decided by a holistic assessment with no formula, list the assessment dimensions the text names as holistic_factor metrics. When a dimension or scorecard item names specific criteria (e.g. "Delivery on DEI commitments", "emissions-intensity reductions", "integrating environmental sustainability"), also list each named criterion as its own sub_criterion item with its own category. Report each metric once per plan; if the same factors govern both the annual and the long-term award, list them under both. Do not list compensation elements that are not performance metrics (salary, time-vested awards, benefits).
 
 <cda>
 {text}
@@ -99,15 +144,18 @@ INCENTIVES_SCHEMA = {
             "properties": {
                 "metric": {"type": "string"},
                 "plan": {"type": "string", "enum": ["annual_incentive", "long_term_incentive", "other"]},
+                "level": {"type": "string", "enum": ["metric", "sub_criterion"]},
                 "weight_pct": NULLABLE_NUMBER,
+                "weight_of": {"type": "string", "enum": ["plan_total", "parent_component", "none"]},
                 "application": {"type": "string", "enum": ["weighted", "modifier", "holistic_factor"]},
                 "measurement": {"type": "string", "enum": ["quantitative", "qualitative"]},
                 "category": {"type": "string", "enum": CATEGORY_ENUM},
                 "applies_to": {"type": "string", "enum": ["reported_year", "future_year"]},
+                "scope": {"type": "string", "enum": ["all", "ceo"]},
                 "evidence": {"type": "string"},
             },
-            "required": ["metric", "plan", "weight_pct", "application", "measurement",
-                         "category", "applies_to", "evidence"],
+            "required": ["metric", "plan", "level", "weight_pct", "weight_of", "application", "measurement",
+                         "category", "applies_to", "scope", "evidence"],
             "additionalProperties": False,
         }},
     },
@@ -153,24 +201,37 @@ def cache_key(task: str, prompt: str, schema: dict) -> str:
     return hashlib.sha256(payload.encode()).hexdigest()
 
 
-def call_model(client, prompt: str, schema: dict) -> dict:
+def call_model(client, prompt: str, schema: dict, max_tokens: int, label: str) -> dict:
     """One schema-constrained request. Returns {'result', 'usage'} or {'error'}."""
     import anthropic
-    try:
-        resp = client.messages.create(
-            model=config.LLM_MODEL,
-            max_tokens=16000,
-            system=SYSTEM,
-            messages=[{"role": "user", "content": prompt}],
-            output_config={"effort": config.LLM_EFFORT,
-                           "format": {"type": "json_schema", "schema": schema}},
-        )
-    except anthropic.BadRequestError as e:          # not retryable: record and move on
-        return {"error": f"bad_request: {e.message}"}
-    except anthropic.APIStatusError as e:           # SDK already retried 429/5xx
-        return {"error": f"api_status_{e.status_code}: {e.message}"}
-    except anthropic.APIConnectionError as e:
-        return {"error": f"connection: {e}"}
+    # The account has an input-tokens-per-minute limit and sections are large
+    # (up to ~40k tokens), so parallel workers hit 429s. The SDK's own quick
+    # retries are not enough: wait as long as the server's retry-after says.
+    for attempt in range(8):
+        ev = BUDGET.reserve(len(prompt) // 3, max_tokens, label)
+        try:
+            resp = client.messages.create(
+                model=config.LLM_MODEL,
+                max_tokens=max_tokens,
+                system=SYSTEM,
+                messages=[{"role": "user", "content": prompt}],
+                output_config={"effort": config.LLM_EFFORT,
+                               "format": {"type": "json_schema", "schema": schema}},
+            )
+            BUDGET.settle(ev, resp.usage.input_tokens, resp.usage.output_tokens)
+            break
+        except anthropic.RateLimitError as e:
+            if attempt == 7:
+                return {"error": f"rate_limited: {e.message}"}
+            wait = min(int(e.response.headers.get("retry-after", "20")), 90) + 2 * attempt
+            print(f"  429 on {label}, retry {attempt + 1} in {wait}s", flush=True)
+            time.sleep(wait)
+        except anthropic.BadRequestError as e:          # not retryable: record and move on
+            return {"error": f"bad_request: {e.message}"}
+        except anthropic.APIStatusError as e:       # SDK already retried 5xx
+                return {"error": f"api_status_{e.status_code}: {e.message}"}
+        except anthropic.APIConnectionError as e:
+            return {"error": f"connection: {e}"}
 
     usage = {"input_tokens": resp.usage.input_tokens, "output_tokens": resp.usage.output_tokens,
              "request_id": resp._request_id}
@@ -196,14 +257,15 @@ def run_one(client, r: dict, task: str, dry_run: bool) -> dict:
     prompt = template.format(company=r["company_name"], filing_date=r["filing_date"], text=sec["text"])
     key = cache_key(task, prompt, schema)
     base.update(section_words=sec["words"], section_method=sec["method"], cache_key=key,
-                est_input_tokens=len(prompt) // 4)
+                est_input_tokens=len(prompt) // 3)  # pilot: ~3 chars/token on proxy text
     path = config.LLM_CACHE_DIR / task / f"{key}.json"
     if path.exists():
         rec = json.loads(path.read_text())
         return dict(base, status="cached", **rec.get("usage", {}), result=rec["result"])
     if dry_run:
         return dict(base, status="dry_run")
-    out = call_model(client, prompt, schema)
+    out = call_model(client, prompt, schema, MAX_TOKENS[task], f"{r['ticker']} {r['filing_year']} {task}")
+    print(f"  done {r['ticker']} {r['filing_year']} {task}", flush=True)
     if "error" in out:
         return dict(base, status="error", error=out["error"], **out.get("usage", {}))
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -231,17 +293,40 @@ def firm_year_aggregates(runs_df: pd.DataFrame, met: pd.DataFrame, prop: pd.Data
     fy.columns = [f"status_{c}" if c in TASKS else c for c in fy.columns]
     if len(met):
         cur = met[met["applies_to"] == "reported_year"]
+        n_sub = cur[cur["level"] == "sub_criterion"].groupby(keys).size().rename("n_sub_criteria")
+        sub_cats = (cur[cur["level"] == "sub_criterion"].pivot_table(index=keys, columns="category", values="metric",
+                                                                       aggfunc="size", fill_value=0)
+                    .add_prefix("n_sub_criteria_"))
+        cur = cur[cur["level"] == "metric"]
         agg = cur.groupby(keys).agg(n_metrics=("metric", "size"),
                                     n_nonfinancial=("category", lambda s: (s != "shareholders").sum()),
                                     has_modifier=("application", lambda s: (s == "modifier").any()))
         # Count share: each listed metric counts once, whether or not it is weighted.
         cnt = cur.pivot_table(index=keys, columns="category", values="metric", aggfunc="size", fill_value=0)
         cnt = cnt.div(cnt.sum(axis=1), axis=0).add_prefix("inc_count_share_")
-        # Weight share: among weighted components with stated weights only.
-        w = cur[(cur["application"] == "weighted") & cur["weight_pct"].notna()]
-        ws = w.pivot_table(index=keys, columns="category", values="weight_pct", aggfunc="sum", fill_value=0)
-        ws = ws.div(ws.sum(axis=1), axis=0).add_prefix("inc_weight_share_")
-        fy = fy.merge(agg.join(cnt, how="left").join(ws, how="left").reset_index(), on=keys, how="left")
+        # Weight share of the annual incentive. Only weights stated as a share of the
+        # plan total count (nested weights would double count), and only when one
+        # scope's weights are complete (sum to ~100%): firms often disclose weights
+        # for part of the plan or only for the CEO, and a partial set would give a
+        # misleading share. Prefer all-executive rows, else CEO rows; else leave empty.
+        w = cur[(cur["plan"] == "annual_incentive") & (cur["application"] == "weighted")
+                & (cur["weight_of"] == "plan_total") & cur["weight_pct"].notna()]
+        picked = []
+        for k, g in w.groupby(keys):
+            for scope in ("all", "ceo"):
+                gs = g[g["scope"] == scope]
+                if 95 <= gs["weight_pct"].sum() <= 105:
+                    picked.append(gs)
+                    break
+        if picked:
+            w = pd.concat(picked)
+            ws = w.pivot_table(index=keys, columns="category", values="weight_pct", aggfunc="sum", fill_value=0)
+            ws = ws.div(ws.sum(axis=1), axis=0).add_prefix("aip_weight_share_")
+            ws["aip_weight_scope"] = w.groupby(keys)["scope"].first()
+        else:
+            ws = pd.DataFrame(index=agg.index)
+        fy = fy.merge(agg.join(cnt, how="left").join(ws, how="left").join(n_sub, how="left")
+                      .join(sub_cats, how="left").reset_index(), on=keys, how="left")
     if len(prop):
         pa = prop.groupby(keys).agg(n_proposals=("title", "size"),
                                     share_board_against=("board_recommendation", lambda s: (s == "against").mean()))
@@ -266,7 +351,11 @@ def write_handcheck(runs_df: pd.DataFrame, met: pd.DataFrame, prop: pd.DataFrame
             rows.append({"ticker": t, "filing_year": y, "task": "proposals", "item": p["title"],
                          "extracted": f"{p['category']} | board={p['board_recommendation']}",
                          "evidence": p["evidence"], "hc_verdict": "", "hc_notes": ""})
-    out = config.ANALYSIS_DIR / "handcheck_sheet.csv"
+    # One sheet per prompt version; never overwrite a sheet that may hold verdicts.
+    out = config.ANALYSIS_DIR / f"handcheck_sheet_{config.LLM_PROMPT_VERSION}.csv"
+    if out.exists():
+        print(f"hand-check sheet exists, not overwritten: {out}")
+        return
     pd.DataFrame(rows).to_csv(out, index=False)
     print(f"hand-check sheet: {len(sample)} firm-years, {len(rows)} items -> {out}")
 
@@ -276,7 +365,7 @@ def main(argv=None) -> int:
     ap.add_argument("--tickers", nargs="*")
     ap.add_argument("--tasks", nargs="*", default=list(TASKS))
     ap.add_argument("--dry-run", action="store_true", help="find sections and estimate cost; no API calls")
-    ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--handcheck", type=int, default=0, help="write a hand-check sheet for N firm-years")
     args = ap.parse_args(argv)
 

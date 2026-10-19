@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082140",
+  "task": "proposals",
+  "section_words": 8784,
+  "section_method": "heading",
+  "cache_key": "442d7fd4b7650934ad3a73d8cec88a6213013967453650945e013cabf7cb4088",
+  "est_input_tokens": 15162
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21071,
+  "output_tokens": 1100,
+  "request_id": "req_011CgBHN62T89KxhqUnNoi7C"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Chairman",
+    "proponent": "Olga Monks Pertzoff Trust 1945",
+    "topic_summary": "Adopt policy requiring the Board Chair, whenever possible, to be an independent director, phased in at next CEO transition.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Amend governing documents so holders of a combined 10% of outstanding stock can call a special shareholder meeting without court approval.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Scenario Analysis",
+    "proponent": "Christian Brothers Investment Services, Inc.",
+    "topic_summary": "Issue an audited report on whether and how a significant reduction in fossil fuel demand in the IEA Net Zero 2050 scenario would affect financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Environmental Expenditures",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Publish annual report on costs and actual benefits to shareholders, public health and environment of voluntary environment-related activities exceeding compliance requirements.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Prepare semiannually updated report disclosing policies and electoral contributions and expenditures, direct and indirect, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Prepare annually updated report disclosing direct and indirect lobbying policies, payments, grassroots communications and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Climate Lobbying",
+    "proponent": "BNP Paribas Asset Management",
+    "topic_summary": "Evaluate and report whether direct and trade association lobbying aligns with Paris Agreement goal of well below 2 degrees Celsius and address misalignment risks.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

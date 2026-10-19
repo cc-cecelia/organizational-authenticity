@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-103474",
+  "task": "incentives",
+  "section_words": 7372,
+  "section_method": "heading",
+  "cache_key": "5d3136c682995999d934de8e71414a2a7876a59a14c7e78c56c1ecdedf69ae74",
+  "est_input_tokens": 17102
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19969,
+  "output_tokens": 1164,
+  "request_id": "req_011CgBKUxZRJm2dmrByjE18K"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "While the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations and Asset Sales(7)"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued industry leadership in 3 of 4 financial and operating performance metrics. Lagging TSR performance continued in 2018."
+   },
+   {
+    "metric": "Progress Toward Strategic Objectives",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company's progress toward its strategic objectives, as described on pages 36 to 39"
+   },
+   {
+    "metric": "Annual earnings-based bonus formula (% change in annual earnings)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Cumulative earnings per share (EPS) threshold for Earnings Bonus Units vesting",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% Earnings Bonus Units (EBU) Vesting delayed until cumulative earnings per share (EPS) reaches $6.50 per share"
+   },
+   {
+    "metric": "Individual performance assessment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Actual award determined by individual performance and pay grade"
+   }
+  ]
+ }
+}

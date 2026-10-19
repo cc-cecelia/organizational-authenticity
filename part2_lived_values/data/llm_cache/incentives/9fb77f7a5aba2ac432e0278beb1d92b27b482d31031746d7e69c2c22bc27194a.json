@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-102226",
+  "task": "incentives",
+  "section_words": 6076,
+  "section_method": "heading",
+  "cache_key": "9fb77f7a5aba2ac432e0278beb1d92b27b482d31031746d7e69c2c22bc27194a",
+  "est_input_tokens": 14939
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16810,
+  "output_tokens": 1243,
+  "request_id": "req_011CgBHtE9grChSP7727wu4r"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Earnings Per Share (EPS) threshold for Earnings Bonus Units",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Vesting of the EBU occurs when cumulative earnings per share (EPS) threshold is achieved, currently $6.50"
+   },
+   {
+    "metric": "Company earnings performance (bonus formula based on annual earnings)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Progress Toward Strategic Objectives",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Forward looking: Companys progress toward strategic objectives"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE) over the business cycle."
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations and Asset Sales is the sum of the net cash provided by operating activities and proceeds"
+   },
+   {
+    "metric": "Total Shareholder Return (relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Lagging Total Shareholder Return"
+   },
+   {
+    "metric": "Safety and Operations Integrity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE)"
+   },
+   {
+    "metric": "Industry-leading financial and operating performance vs. peers (3 of 4 pre-established metrics)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Leading industry peers in 3 of 4 financial and operating metrics"
+   },
+   {
+    "metric": "Demonstrated leadership in sustaining sound business controls and strong ethical and corporate governance environment",
+    "plan": "other",
+    "level": "metric",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee takes into account demonstrated leadership in sustaining sound business controls and a strong ethical and corporate governance environment"
+   }
+  ]
+ }
+}

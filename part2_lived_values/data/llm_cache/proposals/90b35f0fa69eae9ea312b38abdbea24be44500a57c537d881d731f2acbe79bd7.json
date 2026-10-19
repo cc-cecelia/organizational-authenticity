@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0000019617-18-000077",
+  "task": "proposals",
+  "section_words": 4239,
+  "section_method": "heading",
+  "cache_key": "90b35f0fa69eae9ea312b38abdbea24be44500a57c537d881d731f2acbe79bd7",
+  "est_input_tokens": 7241
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10062,
+  "output_tokens": 591,
+  "request_id": "req_011CgBHKELg49i1rLX6VtxrA"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Independent Board chairman",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests board adopt policy requiring the Chair of the Board, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "7",
+    "title": "Vesting for government service",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Requests policy prohibiting vesting of equity-based awards for senior executives upon voluntary resignation to enter government service.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal to report on investments tied to genocide",
+    "proponent": "William L. Rosenfeld",
+    "topic_summary": "Requests report analyzing how published corporate values align with policies on investments in companies tied to genocide, including PetroChina/CNPC.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Cumulative voting",
+    "proponent": "John Chevedden, as agent for William Steiner",
+    "topic_summary": "Requests board take steps necessary to adopt cumulative voting for director elections.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

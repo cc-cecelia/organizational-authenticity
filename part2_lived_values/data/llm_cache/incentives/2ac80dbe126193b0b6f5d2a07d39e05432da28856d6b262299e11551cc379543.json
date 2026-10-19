@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-740758",
+  "task": "incentives",
+  "section_words": 8765,
+  "section_method": "heading",
+  "cache_key": "2ac80dbe126193b0b6f5d2a07d39e05432da28856d6b262299e11551cc379543",
+  "est_input_tokens": 15132
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21057,
+  "output_tokens": 3501,
+  "request_id": "req_011CgBHHye7tefTwLzXkWPFK"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results (EIP Revenue, EIP Operating Income, EIP Gross Margin, Three-Year TSR)",
+    "plan": "annual_incentive",
+    "weight_pct": 40,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%"
+   },
+   {
+    "metric": "Product & Strategy",
+    "plan": "annual_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "evidence": "business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%"
+   },
+   {
+    "metric": "Customers & Stakeholders",
+    "plan": "annual_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "evidence": "business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%"
+   },
+   {
+    "metric": "Culture & Organizational Leadership",
+    "plan": "annual_incentive",
+    "weight_pct": 20,
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "evidence": "business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%"
+   },
+   {
+    "metric": "EIP Revenue and EIP Operating Income (formulaic, 50% of annual cash incentive)",
+    "plan": "annual_incentive",
+    "weight_pct": 50,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "evidence": "50% will be determined formulaically based on pre-established targets for EIP Revenue and EIP Operating Income"
+   },
+   {
+    "metric": "EIP Revenue",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The EIP Revenue and EIP Operating Income targets for the fiscal year 2016 PSAs were based on achieving the Company's 2016 operating budget"
+   },
+   {
+    "metric": "EIP Operating Income",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The EIP Revenue and EIP Operating Income targets for the fiscal year 2016 PSAs were based on achieving the Company's 2016 operating budget"
+   },
+   {
+    "metric": "Commercial Cloud ARR",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "metric": "Commercial Cloud Subscribers",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "metric": "Windows 10 MAD",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "metric": "Relative TSR multiplier",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "The multiplier will increase the number of shares linearly up to an additional 1/3 of earned shares when Microsoft's relative TSR is at or above the 80th percentile."
+   }
+  ]
+ }
+}

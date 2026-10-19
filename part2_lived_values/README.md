@@ -1,8 +1,8 @@
 # Part 2: Lived values (SEC proxy statements)
 
-**Status:** data collection is complete for all 50 firms. The analysis has been
-piloted on MSFT, JPM and XOM: the classical layer has run, the LLM layer is built
-and dry-run, and the full run is pending.
+**Status:** data collection is complete for all 50 firms. Both analysis layers
+have run on the MSFT, JPM and XOM pilot, and the LLM layer has been hand-checked on
+10 firm-years (results below). The 50-firm run is pending.
 
 **Coverage: 450 of 450 firm-years have a proxy.** 441 are clean and 9 are flagged
 for review (listed below).
@@ -198,21 +198,63 @@ Scalable, transparent and free to rerun.
   and picks the longest valid CD&A, and the proposal span densest in proposal
   language. This handles tables of contents, cross-references, glossaries and
   pages rendered as single lines. If a CD&A heading is an image, the fallback
-  uses the section's standard opening sentence (MSFT 2018). Pilot: CD&A found
-  in 27/27 firm-years; proposals in 25/27 (MSFT 2017 and 2018 had none).
-- **Tasks:** (a) every incentive-pay metric, with plan, stated weight (never
-  inferred), weighted/modifier/holistic application, quantitative or
-  qualitative, category, and evidence quote; (b) every shareholder proposal,
-  with topic, category and the board's recommendation.
+  uses the section's standard opening sentence (MSFT 2018). Adjacent spans
+  are chained, because sub-headings inside a board response can look like end
+  markers. Pilot: CD&A found in 27/27 firm-years; proposals in 25/27 (MSFT 2017
+  and 2018 had none). QA in `sections.csv`: every "RESOLVED" in the proxy
+  except the say-on-pay resolution must fall inside the proposal section.
+- **Tasks:**
+  - (a) Every incentive-pay metric, with:
+    - plan;
+    - level: a metric, or a named sub-criterion under a holistic dimension;
+    - stated weight, never inferred, and `weight_of` (plan total or parent
+      component, because weights are often nested);
+    - weighted / modifier / holistic application;
+    - scope: all executives or CEO only;
+    - category and an evidence quote.
+  - (b) Every shareholder proposal, with topic, category and the board's
+    recommendation.
+- **Shared coding rules** (`theme_dictionary.CODING_RULES`, mirrored in
+  CLAUDE.md) settle the ambiguous cases the hand check exposed: business-volume
+  metrics, capital hurdles, pay equity, executive pay, governance and voting
+  rights.
+- **Which aggregate to use:** `llm_firm_year.csv` gives, per firm-year,
+  - counts of pay-linked metrics and of named sub-criteria by category: the
+    robust lived-values measure, verified in the hand check;
+  - `aip_weight_share_*`: the annual-incentive weight by category. It is filled
+    only when one scope's plan-total weights add up to about 100%, so 17 of 27
+    pilot firm-years are empty. That is largely substantive: JPM and XOM decide
+    pay holistically and state no weights;
+  - proposal counts by category and the share the board opposed.
 - **Model and determinism:** Claude Haiku 5.5 with schema-constrained JSON
   output and effort `low`. Haiku 5.5 rejects non-default `temperature`, so
   temperature 0 is not available. Each request is cached in `data/llm_cache/`
   under a SHA-256 of model + prompt version + prompts + schema + section text.
   Results are fixed once extracted, and a rerun costs nothing.
-- **Cost:** about 0.8M input tokens for the pilot (about $0.10), roughly $1.50
-  for all 50 firms.
-- **Hand-check:** `--handcheck 10` samples 10 firm-years across firms into
-  `handcheck_sheet.csv` for item-by-item verification against the source text.
+- **Cost and rate limits:** about 1.25M input and 0.09M output tokens per pilot
+  run (about $0.17), so roughly $3 for all 50 firms. The account allows 80k output
+  tokens per minute, and that limit is charged against `max_tokens` up front, so
+  `max_tokens` is sized per task from observed outputs. A shared rolling token
+  budget keeps workers under 80% of both limits; every wait is logged.
+
+### Hand check (10 firm-years, `handcheck_results.csv`)
+Sample: MSFT 2017, 2018, 2021; JPM 2016, 2020, 2023, 2024; XOM 2016, 2021, 2024
+(seeded, spread across firms). Every item was read against the source section:
+weights against the pay tables, proposals against the section's headings.
+Evidence grounding was also measured for all items, as the share of each
+quote's 4-word sequences found in the source.
+
+| Round | Incentive items | Proposals | Main problems |
+|---|---|---|---|
+| v1 | ~88 items, several misses | 50/54 found | Named DEI/environment criteria under JPM's holistic dimensions missed (2023, 2024); XOM 2024 safety/emissions bundle coded `other` and peer scorecard missed; XOM 2016 long-term award listed 3 of 7 areas; JPM 2024 ROTCE weight inferred (100%); CEO-only weights unmarked; pay-equity and executive-pay proposals coded `employees`; **MSFT 2021: 4 of 5 proposals missed** (section-finder bug) |
+| v2/v3 | 145 items, 4 errors (97.2%) | 54/54 found, 0 errors | 3 category inconsistencies (MSFT 2021 LinkedIn Sessions, MSFT 2021 CEO-row Product & Strategy, XOM 2024 parent bundle) and 1 paraphrased evidence quote |
+
+Fixes between rounds: the section-finder bug (an "Additional Information"
+sub-heading inside MSFT's board responses ended the section; spans are now
+chained), the shared coding rules, sub-criterion extraction, the never-derive
+weight rule, and the `scope` and `weight_of` fields. On v3, evidence grounding
+for the sampled items averages 98.8%, and the round-1 failures are encoded as
+regression checks. Item-level sheet: `handcheck_sheet_v3.csv`.
 
 ## Known limitations
 - `company_tickers.json` is a current snapshot. Ticker reuse or registrant changes
@@ -230,6 +272,11 @@ Scalable, transparent and free to rerun.
   not commitment or sentiment toward it. "We oppose this DEI proposal" still
   counts as dei language. The LLM layer's board-recommendation field partly
   addresses this for proposals.
+- LLM category coding is reliable for clear cases but leans on the coding rules
+  at the margins. The remaining errors are category inconsistencies, not
+  invented items. Holistic-assessment firms produce long lists of named
+  criteria, so count measures should be compared within firm over time rather
+  than across firms in levels.
 - Proxy length and format changed a lot over 2016-2024 (more graphics,
   pay-versus-performance tables from 2023), which can move per-10k-word rates
   without any change in substance. Shares are less exposed to this.

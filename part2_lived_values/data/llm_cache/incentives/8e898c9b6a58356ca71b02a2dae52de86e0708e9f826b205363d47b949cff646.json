@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0000019617-21-000275",
+  "task": "incentives",
+  "section_words": 18345,
+  "section_method": "heading",
+  "cache_key": "8e898c9b6a58356ca71b02a2dae52de86e0708e9f826b205363d47b949cff646",
+  "est_input_tokens": 41177
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 43916,
+  "output_tokens": 1658,
+  "request_id": "req_011CgBKTeWBbVRvw1ycuSdBV"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Business Results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDC uses a balanced and disciplined approach to assess OC member performance throughout the year against four broad dimensions"
+   },
+   {
+    "metric": "Risk, Controls & Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "To promote a proper pay-for-performance alignment, the CMDC does not assign relative weightings to these dimensions"
+   },
+   {
+    "metric": "Client/Customer/Stakeholder",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities and commitment to provide economic opportunity to underserved communities"
+   },
+   {
+    "metric": "Teamwork & Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive, respectful and accountable environment and developing employees, managers and leaders"
+   },
+   {
+    "metric": "Diversity, equity and inclusion priorities and progress in executive accountability framework",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "incorporate diversity, equity and inclusion priorities and progress into year-end performance evaluations and compensation decisions for OC members"
+   },
+   {
+    "metric": "Committed $30B to advance racial equity (Path Forward)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "committed $30B to advance racial equity, harnessing our expertise in business, public policy and philanthropy"
+   },
+   {
+    "metric": "Announced commitment to align financing activities with the goals of the Paris Agreement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Announced a commitment to align our financing activities in three sectors with the goals of the Paris Agreement"
+   },
+   {
+    "metric": "Committed $250M to support communities globally",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Committed $250M to support communities globally through economic and public health challenges"
+   },
+   {
+    "metric": "Protected and supported our employees throughout the COVID-19 pandemic",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Protected and supported our employees throughout the COVID-19 pandemic, including: alternative work arrangements"
+   },
+   {
+    "metric": "Return on tangible common equity (ROTCE) absolute and relative",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU calculation links the ultimate payout of awards to pre-established absolute and relative ROTCE goals"
+   },
+   {
+    "metric": "Common equity Tier 1 (CET1) capital ratio minimum risk-based hurdle",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ]
+ }
+}

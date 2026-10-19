@@ -43,6 +43,7 @@ from lm_dictionary import LM_CATEGORIES, load_lm
 from theme_dictionary import CATEGORIES, as_rows, compiled
 
 WORD_RE = re.compile(r"[a-z]+(?:['-][a-z]+)*")
+RESOLVED_RE = re.compile(r"\bresolved\b", re.I)
 PER = 10_000
 
 
@@ -119,6 +120,10 @@ def main(argv=None) -> int:
             "cda_words": cda and cda["words"], "cda_end_marker": cda and cda["end_marker"],
             "proposals_found": sp is not None, "proposals_words": sp and sp["words"],
             "proposals_signal_hits": sp and sp["signal_hits"], "proposals_end_marker": sp and sp["end_marker"],
+            # QA: every "RESOLVED" in the proxy except the say-on-pay resolution should
+            # fall inside the proposal section; a gap > 1 means proposals were missed.
+            "resolved_in_doc": len(RESOLVED_RE.findall(text)),
+            "resolved_in_section": len(RESOLVED_RE.findall(sp["text"])) if sp else 0,
         })
 
         row = {k: r[k] for k in ("ticker", "company_name", "sector", "filing_year", "filing_date",

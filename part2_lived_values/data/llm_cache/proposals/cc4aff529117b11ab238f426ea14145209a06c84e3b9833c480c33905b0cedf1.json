@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-268531",
+  "task": "proposals",
+  "section_words": 1986,
+  "section_method": "heading",
+  "cache_key": "cc4aff529117b11ab238f426ea14145209a06c84e3b9833c480c33905b0cedf1",
+  "est_input_tokens": 3474
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5560,
+  "output_tokens": 167,
+  "request_id": "req_011CgBHHyiqCrMpXxX9gNRzt"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "2",
+    "title": "Report on Gender Pay Gap",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on Microsoft's global median gender pay gap, including associated policy, reputational, competitive, operational risks and risks to recruiting and retaining female talent.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal"
+   }
+  ]
+ }
+}

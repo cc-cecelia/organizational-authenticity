@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098314",
+  "task": "incentives",
+  "section_words": 8479,
+  "section_method": "heading",
+  "cache_key": "5f8edbaa738b1744b8325d4bb01f3ed73d71df325429e100ed586a0543f4c146",
+  "est_input_tokens": 15173
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22158,
+  "output_tokens": 1353,
+  "request_id": "req_011CgBHMmjcY8Kr6iBVFRLjX"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Bonus program % change = (% change in annual earnings) x (2/3)",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "metric": "Operations Performance: Safety, emissions, environmental performance, reliability",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "evidence": "Deliver industry-leading performance in safety, emissions reductions, environmental performance, and reliability"
+   },
+   {
+    "metric": "Financial Performance: industry-leading earnings and cash flow growth",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "metric": "Energy Transition: lead industry in hard-to-decarbonize GHG emissions reductions",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "evidence": "Lead industry in hard-to-decarbonize GHG emissions reductions"
+   },
+   {
+    "metric": "Business Portfolio: optimize existing business portfolio, resilient to a transitioning energy system",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "metric": "Sustained business controls and strong ethical and corporate governance environment",
+    "plan": "annual_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "evidence": "The Compensation Committee also takes into account demonstrated leadership in sustaining sound business controls and a strong ethical and corporate governance environment"
+   },
+   {
+    "metric": "Performance Shares tied to ROCE, CFOAS, TSR, Safety, Spills, Operated GHG Emissions (performance dimensions applied at grant)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Financial and Operating Metrics - Safety, ROCE, CFOAS, TSR Position relative to industry peers - Spills, Operated GHG Emissions"
+   },
+   {
+    "metric": "Return on Average Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Return on Average Capital Employed (ROCE) for the Corporation is net income attributable to ExxonMobil excluding the after-tax cost of financing"
+   },
+   {
+    "metric": "Cash Flow from Operations and Asset Sales (CFOAS)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Cash Flow from Operations and Asset Sales (CFOAS) is the sum of the net cash provided by operating activities and proceeds"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR)",
+    "plan": "long_term_incentive",
+    "weight_pct": null,
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock over a specified period of time"
+   }
+  ]
+ }
+}

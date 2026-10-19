@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-098865",
+  "task": "proposals",
+  "section_words": 7673,
+  "section_method": "heading",
+  "cache_key": "71b416f873de8df3c47c590900a9eb6a54dc82f4b587e6aace68e6dd35a5aa25",
+  "est_input_tokens": 13346
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18634,
+  "output_tokens": 1050,
+  "request_id": "req_011CgBHKTWhEKyCCV9U7L9o1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent board chairman",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Requires the Chairman of the Board to be an independent director whenever possible, with discretion to phase in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "5",
+    "title": "Oil and gas company and project financing related to the Arctic and the Canadian oil sands",
+    "proponent": "Trillium Asset Management LLC, as agent for Oneida Trust Minors",
+    "topic_summary": "Requests a report describing how JPMorgan plans to respond to reputational risks and societal questions about financing Canadian oil sands and Arctic oil and gas.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "6",
+    "title": "Climate change risk reporting",
+    "proponent": "As You Sow, on behalf of Brian Patrick Kariger Revocable Trust",
+    "topic_summary": "Requests a report on whether and how JPMorgan will reduce GHG emissions from its lending activities in alignment with Paris Agreement goals.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Amend shareholder written consent provisions",
+    "proponent": "John Chevedden",
+    "topic_summary": "Amends bylaws so any single stockholder seeking written consent need only request the board fix a record date, rather than meeting the 20% ownership threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following"
+   },
+   {
+    "item_number": "8",
+    "title": "Charitable contributions disclosure",
+    "proponent": "Thomas Strobhar",
+    "topic_summary": "Requests the Board disclose on the company website any recipient receiving $1,000 or more in direct charitable contributions, excluding employee matching gifts.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following"
+   },
+   {
+    "item_number": "9",
+    "title": "Gender/Racial pay equity",
+    "proponent": "Arjuna Capital, on behalf of Rainer Yingling Judd, Laura J. Ballance and Lucas Jozef Suer",
+    "topic_summary": "Requests a report on JPMorgan's global median gender/racial pay gap and associated risks, including recruiting and retaining diverse talent.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   }
+  ]
+ }
+}
