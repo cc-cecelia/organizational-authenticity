@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "995f334b60c33d9fe982ed06266221fef76b8638f08dd8db1950cc9637eede6b",
+  "est_input_tokens": 36394
+ },
+ "usage": {
+  "input_tokens": 38164,
+  "output_tokens": 145
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "451f909ed0a60423db5ba486ca33cf4ac9ecda68243d80b34d9354b2dbcdb4d2",
+  "est_input_tokens": 24748
+ },
+ "usage": {
+  "input_tokens": 24578,
+  "output_tokens": 365
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The objective financial performance goals consist # of the overall Annual Incentive Bonus Plan payout"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "is based on a consolidated adjusted operating income goal"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The IPF is [w] at # of the total payout under the Annual Incentive Bonus Plan."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "based on an assessment of individual performance against certain strategic, operational, leadership and ESG goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs, where the number of shares earned is based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of # based on relative TSR performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "ba03dbcddee779d35002f0506666f0074de48fe3285777dd579cb033885c6200",
+  "est_input_tokens": 31289
+ },
+ "usage": {
+  "input_tokens": 30908,
+  "output_tokens": 287
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary basis on which we set our annual performance expectations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each NEO's annual cash incentive opportunity is tied to achievement of quantitative and qualitative objectives that are specific to that NEO's position"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs that will be earned, if at all, based on a relative return on capital employed (\"ROCE\") metric over a #-year performance period"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The other # of the LTI award value was in the form of PSUs that are subject to a performance goal based on our cumulative free cash flow"
+   }
+  ],
+  "equal_split": []
+ }
+}

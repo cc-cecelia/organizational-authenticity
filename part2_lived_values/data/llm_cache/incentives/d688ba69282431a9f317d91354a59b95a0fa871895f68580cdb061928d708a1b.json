@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0000059478-16-000331",
+  "task": "incentives",
+  "section_words": 6010,
+  "section_method": "heading",
+  "cache_key": "d688ba69282431a9f317d91354a59b95a0fa871895f68580cdb061928d708a1b",
+  "est_input_tokens": 13728
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15338,
+  "output_tokens": 907,
+  "request_id": "req_011CgCAQizC4ujx3MxLG2MEL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "metric": "EPS performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "metric": "Pipeline progress",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "metric": "Pipeline progress: NME product approvals and significant approvals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1 new molecular entity (NME) product approval consistent with goal, and 10 other significant approvals versus a goal of 6."
+   },
+   {
+    "metric": "Pipeline progress: Subjective assessment of pipeline quality",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Subjective assessment of the quality of the pipeline, considering many factors"
+   },
+   {
+    "metric": "EPS growth relative to peer group (2015-2016 PA)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the committee reset the target at one percent compounded annually"
+   },
+   {
+    "metric": "Shareholder Value Award stock price growth / TSR (2015-2017 SVA)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "SVAs may be earned based on Lilly's share price performance over a three-year period."
+   }
+  ]
+ }
+}

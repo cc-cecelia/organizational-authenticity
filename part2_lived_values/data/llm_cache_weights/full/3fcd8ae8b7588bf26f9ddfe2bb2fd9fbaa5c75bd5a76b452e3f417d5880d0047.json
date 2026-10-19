@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "3fcd8ae8b7588bf26f9ddfe2bb2fd9fbaa5c75bd5a76b452e3f417d5880d0047",
+  "est_input_tokens": 22852
+ },
+ "usage": {
+  "input_tokens": 24207,
+  "output_tokens": 2248
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Days sales outstanding target for Fiscal Year 2015 was 42 days."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Zero Audit Adjustments (17%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Division or function performance metrics also typically include metrics for direct expenses incurred by the division or function"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The corporate performance goals for Fiscal Year 2015 were revenue growth as compared to Fiscal Year 2014 pro forma revenue"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (20%)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (20%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Non-GAAP gross margin target for Fiscal Year 2015 was 58.3%."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance criteria for these RSU awards are based on sustained increases in the Company's share price"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

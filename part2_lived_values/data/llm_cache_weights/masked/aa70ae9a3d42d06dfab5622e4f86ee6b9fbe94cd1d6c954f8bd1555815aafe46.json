@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "aa70ae9a3d42d06dfab5622e4f86ee6b9fbe94cd1d6c954f8bd1555815aafe46",
+  "est_input_tokens": 20127
+ },
+ "usage": {
+  "input_tokens": 20273,
+  "output_tokens": 1182
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Business Results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture & Organizational Leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "EIP Revenue*  | #billion, slightly below target"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EIP Operating Income* | #billion, above target"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EIP Gross Margin* | #billion, above target"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Three-Year Annualized Total Shareholder Return (\"TSR\") as of June ##and Percentile of Peer Group"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Reinvent Productivity and Business Processes"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Build the Intelligent Cloud"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Create More Personal Computing"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Customers, Partners, and Brand"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Government Relations and Corporate Citizenship"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Employee Sentiment on Company Direction, Leadership, and Culture"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Diversity and Inclusion"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Talent Management"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance metrics for the PSAs focus entirely on strategic measures"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "revenue and operating income will no longer be used because they will be included as a key component in our annual cash incentive"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We incorporated a relative total shareholder return multiplier for PSAs to reward significant outperformance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "four performance categories"
+   }
+  ]
+ }
+}

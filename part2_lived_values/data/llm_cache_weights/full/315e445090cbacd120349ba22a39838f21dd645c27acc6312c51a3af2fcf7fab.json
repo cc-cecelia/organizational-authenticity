@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "315e445090cbacd120349ba22a39838f21dd645c27acc6312c51a3af2fcf7fab",
+  "est_input_tokens": 21693
+ },
+ "usage": {
+  "input_tokens": 23189,
+  "output_tokens": 880
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income per Barrel of crude oil throughput compared to a group of peer companies"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Synergy Capture tracks annualized ongoing enhanced revenue or margin, cost savings and avoided planned capital outlays"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow at MPLX is a non-GAAP measure reflecting cash flow available to be paid to MPLX's common unitholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA is a non-GAAP performance metric derived from our consolidated financial statements."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability measures the availability of the processing equipment in our refineries"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Marathon Safety Performance Index measures our success and commitment to employee safety."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate measures our ability to identify, understand and control certain process hazards."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Designated Environmental Incidents measures certain internal environmental performance metrics."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Quality Incidents measures the impact of product quality incidents and cumulative costs to us."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 30% of Company performance is evaluated by the Compensation and Organization Development Committee based upon a number of discretionary factors"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progress on diversity and inclusion initiatives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "conditioning payout on the performance of our TSR relative to that of our peers over a three-year period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "synergy performance units under a new performance unit incentive program intended to promote our realization of annual run-rate synergies"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "conditioning payout on the performance of MPLX's total unitholder return and distributable cash flow relative to that of its peers"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-283993",
+  "task": "proposals",
+  "section_words": 4965,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2c634458610ac9580e0e684305bcbd7cf38c6209f1a822d22f0ca2996e844725",
+  "est_input_tokens": 11313
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11929,
+  "output_tokens": 744,
+  "request_id": "req_011CgC9aD5GBWW1AjkzcLQzj"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING PAY EQUITY REPORT",
+    "proponent": "Pax World Mutual Funds",
+    "topic_summary": "Requests a report identifying whether a gender pay gap exists among employees and, if so, steps being taken to reduce it.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board unanimously recommends a vote AGAINST adoption of Proposal No. 4."
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING POLITICAL CONTRIBUTIONS REPORT",
+    "proponent": "The New York State Common Retirement Fund",
+    "topic_summary": "Requests a public report disclosing policies and recipients of corporate political contributions and expenditures, including trade association payments used for political purposes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 5."
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING LOBBYING REPORT",
+    "proponent": "Boston Common Asset Management, LLC, with co-sponsor Walden Asset Management",
+    "topic_summary": "Requests an annual report disclosing direct and indirect lobbying policies, payments, model-legislation organization memberships, and board oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING INDEPENDENT BOARD CHAIR",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests adoption of a policy requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 7."
+   }
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000375",
+  "task": "incentives",
+  "section_words": 8082,
+  "section_method": "heading",
+  "cache_key": "34077fc2816429aa47395235e81a13b7ace3d12d4d51803af0ed2c2625e1dff8",
+  "est_input_tokens": 18299
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20415,
+  "output_tokens": 1760,
+  "request_id": "req_011CgCBZYQ5QvhDQACHCxA7W"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive EBIT represented 75% of the financial component of the STIP payout"
+   },
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "sales was introduced to complement Incentive EBIT with a weighting of 25% at-goal of the financial component of the STIP payout"
+   },
+   {
+    "metric": "Personal performance review (enterprise leadership, development of a high performing and diverse team, commitment to high ethical standards, achievement of strategic goals)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Review scores are a subjective element within our mix of variable compensation elements"
+   },
+   {
+    "metric": "Development of a high performing and diverse team",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the development of a high performing and diverse team"
+   },
+   {
+    "metric": "Strong commitment to high ethical standards",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a strong commitment to high ethical standards"
+   },
+   {
+    "metric": "Change in Market Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The three relative metrics used in our PSU plan are: Change in Market Share"
+   },
+   {
+    "metric": "EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations"
+   },
+   {
+    "metric": "After-Tax ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax (NOPAT) divided by average invested capital"
+   },
+   {
+    "metric": "Total Shareholder Return (relative TSR, PBRSU)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PBRSUs cliff vest three years from the date of grant with the number of shares based on relative three-year TSR performance versus our retail peer group"
+   },
+   {
+    "metric": "Total Sales Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Goal: 3% Compound Annual Growth Rate (CAGR) Maximum: 4.5% CAGR No payout for 0% CAGR"
+   },
+   {
+    "metric": "Digital Channel Sales Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Goal: 30% CAGR Maximum: 45% CAGR No payout for 0% CAGR"
+   },
+   {
+    "metric": "EBIT Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Goal: increase Segment EBIT by $500 million (2016 v. 2014)"
+   },
+   {
+    "metric": "Return on Invested Capital Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "To earn additional upside, requires at least 13.75% for fiscal 2016"
+   }
+  ]
+ }
+}

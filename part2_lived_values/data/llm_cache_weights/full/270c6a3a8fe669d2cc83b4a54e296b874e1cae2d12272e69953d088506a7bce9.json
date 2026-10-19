@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "270c6a3a8fe669d2cc83b4a54e296b874e1cae2d12272e69953d088506a7bce9",
+  "est_input_tokens": 21064
+ },
+ "usage": {
+  "input_tokens": 22654,
+  "output_tokens": 401
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mr. Culver earned an EMBP award of 24% of target primarily reflecting the performance of the Starbucks Global Retail business"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted operating income ... For Messrs. Schultz, Johnson, Maw, Burrows, Mutty and Ms. Helm, 50% of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the number of shares earned is dependent on the achievement of two-year EPS and ROIC goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the target ROIC goal under the PRSUs is not met, the number of PRSUs to be delivered based on achievement of the adjusted EPS goal will be adjusted downward by as much as 50%."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "adjusted net revenue and adjusted operating income have sliding scales"
+   }
+  ]
+ }
+}

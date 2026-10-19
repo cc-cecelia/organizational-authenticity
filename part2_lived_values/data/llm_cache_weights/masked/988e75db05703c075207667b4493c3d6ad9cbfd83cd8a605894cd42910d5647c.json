@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "988e75db05703c075207667b4493c3d6ad9cbfd83cd8a605894cd42910d5647c",
+  "est_input_tokens": 35263
+ },
+ "usage": {
+  "input_tokens": 34796,
+  "output_tokens": 1584
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Everything we do depends on safely executing our business plans and operating to high standards of HSE stewardship. We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational (VCIP only) As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Financial metrics in our compensation programs strongly align with our returns-focused strategy and are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Milestones are set annually for VCIP, and Objectives are included for each three-year PSP period."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe it is important to include TSR in both VCIP and PSP because it is the most tangible, visible measure of the value we have created for stockholders"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We target top-quartile performance relative to our peers for Total Recordable Rate and absolute continuous improvement for Process Safety Events."
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our primary source of revenue and cash flow is the sale of our produced oil and gas. Therefore, we set an annual Production target"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Capital target was modestly higher than the #target to account for scope changes and optimizations across the business."
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The target was set at #billion, which excluded adjustments for expected #acquisitions and dispositions and was consistent with the operating plan"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions that support delivery of our plan."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP and PSP, our Financial compensation metrics include adjusted ROCE and adjusted CROCE based on absolute improvement relative to peers."
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Adjusted Cash Return on Capital Employed (\"CROCE\") \u2013 Similar to adjusted ROCE, adjusted CROCE measures ConocoPhillips' performance"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Returned ~# of CFO #to stockholders"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Year-end Debt | #B | Debt reduction exceeded target"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Production/Year-end Debt Adjusted Share CAGR | ># | Delivered underlying production growth"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return (VCIP and PSP) We believe our Operational and Financial measures and Strategic Milestones and Objectives"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial metrics include adjusted ROCE and adjusted CROCE based on absolute improvement relative to peers."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Objectives are aligned with our strategic cash flow allocation priorities and support our goal to deliver superior returns"
+   },
+   {
+    "id": 19,
+    "parent_id": 17,
+    "emphasis": 1,
+    "evidence": "Adjusted ROCE (absolute improvement relative to peers)"
+   },
+   {
+    "id": 20,
+    "parent_id": 17,
+    "emphasis": 1,
+    "evidence": "Adjusted CROCE (absolute improvement relative to peers)"
+   },
+   {
+    "id": 21,
+    "parent_id": 18,
+    "emphasis": 1,
+    "evidence": "resetting the strategy and positioning for long-term success"
+   },
+   {
+    "id": 22,
+    "parent_id": 18,
+    "emphasis": 1,
+    "evidence": "reducing the cost of supply and advancing the strategy for organic resource development and exploration"
+   },
+   {
+    "id": 23,
+    "parent_id": 18,
+    "emphasis": 1,
+    "evidence": "improving Controllable Cost/BOE relative to peers"
+   }
+  ],
+  "equal_split": []
+ }
+}

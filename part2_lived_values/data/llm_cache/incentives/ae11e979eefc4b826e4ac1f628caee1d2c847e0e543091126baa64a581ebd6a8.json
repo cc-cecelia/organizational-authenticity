@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001206774-19-000869",
+  "task": "incentives",
+  "section_words": 14852,
+  "section_method": "heading",
+  "cache_key": "ae11e979eefc4b826e4ac1f628caee1d2c847e0e543091126baa64a581ebd6a8",
+  "est_input_tokens": 34101
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 34885,
+  "output_tokens": 2125,
+  "request_id": "req_011CgCAHqygYk5fmqgkos3kj"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative ROE comparison",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance shares to include relative ROE comparison and relative TSR modifier"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance shares to include relative ROE comparison and relative TSR modifier"
+   },
+   {
+    "metric": "Colleague metric portion of Company scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the colleague metric portion of our Company scorecard, which guides us in reporting across talent retention and diversity and inclusion efforts"
+   },
+   {
+    "metric": "Talent retention",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "which guides us in reporting across talent retention and diversity and inclusion efforts"
+   },
+   {
+    "metric": "Diversity and inclusion efforts",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "which guides us in reporting across talent retention and diversity and inclusion efforts"
+   }
+  ]
+ }
+}

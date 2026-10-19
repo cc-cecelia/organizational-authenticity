@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001193125-22-079120",
+  "task": "proposals",
+  "section_words": 12503,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "316b51321fefca8ab0b5bd03251ecd0fcfdf29318e25378b80ae57926009a0fc",
+  "est_input_tokens": 27902
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30887,
+  "output_tokens": 828,
+  "request_id": "req_011CgCA3GWPv3BDFwTgerLD4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4. Shareholder Proposal Regarding Charitable Giving Reporting",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests the company list recipients of corporate charitable contributions of $5,000 or more on the company website, plus restrictions and monitoring of contributions.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5. Shareholder Proposal Regarding a Policy for an Independent Chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a policy requiring the Chair of the Board to be an independent member of the Board, amending bylaws as necessary.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6. Shareholder Proposal Regarding a Policy to Ensure Lending and Underwriting do not Contribute to New Fossil Fuel Development",
+    "proponent": "The Sierra Club Foundation",
+    "topic_summary": "Requests a policy by end of 2022 ensuring lending and underwriting do not contribute to new fossil fuel development, consistent with net zero commitments.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7. Shareholder Proposal Regarding Special Shareholder Meeting Thresholds",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests amending governing documents to give holders of 10% of outstanding common stock the power to call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

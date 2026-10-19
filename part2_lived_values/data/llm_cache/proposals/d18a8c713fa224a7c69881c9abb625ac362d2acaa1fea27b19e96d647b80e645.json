@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001326801-18-000022",
+  "task": "proposals",
+  "section_words": 6054,
+  "section_method": "resolved_windows",
+  "cache_key": "d18a8c713fa224a7c69881c9abb625ac362d2acaa1fea27b19e96d647b80e645",
+  "est_input_tokens": 13805
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14532,
+  "output_tokens": 1503,
+  "request_id": "req_011CgC9MtVjot8SaPi6LuSMQ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "STOCKHOLDER PROPOSAL REGARDING CHANGE IN STOCKHOLDER VOTING",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan giving all outstanding stock one vote per share, including negotiating with Class B holders to relinquish disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING A RISK OVERSIGHT COMMITTEE",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board report on the merits of establishing a separate Risk Oversight Committee of the board.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING SIMPLE MAJORITY VOTE",
+    "proponent": "not stated",
+    "topic_summary": "Requests eliminating charter and bylaw voting requirements above a simple majority, replacing them with a majority of votes cast or simple majority.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING A CONTENT GOVERNANCE REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report reviewing enforcement of content policies and assessing risks from content controversies such as election interference, hate speech and violence.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our stockholders"
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING MEDIAN PAY BY GENDER",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on policies and goals to reduce the gender pay gap, including pay gap percentages and quantitative reduction targets.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our stockholders vote against this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "STOCKHOLDER PROPOSAL REGARDING TAX PRINCIPLES",
+    "proponent": "not stated",
+    "topic_summary": "Requests adopting and disclosing principles limiting offshore tax avoidance, considering impacts on local economies, government services and stakeholder reputation.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our stockholders vote against this proposal."
+   }
+  ]
+ }
+}

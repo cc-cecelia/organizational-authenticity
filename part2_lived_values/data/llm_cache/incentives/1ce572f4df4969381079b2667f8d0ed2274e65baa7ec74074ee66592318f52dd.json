@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-080799",
+  "task": "incentives",
+  "section_words": 6801,
+  "section_method": "heading",
+  "cache_key": "1ce572f4df4969381079b2667f8d0ed2274e65baa7ec74074ee66592318f52dd",
+  "est_input_tokens": 15469
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17271,
+  "output_tokens": 3155,
+  "request_id": "req_011CgCC2p5tiu9PiG58EYnUf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Achieve 45% all-in after-tax rate of return on total capital expenditures",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve 45% all-in after-tax rate of return* on total capital expenditures | 20%"
+   },
+   {
+    "metric": "Achieve double-digit ROCE",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve double-digit ROCE* | 15%"
+   },
+   {
+    "metric": "Generate free cash flow and reduce net debt-to-total capitalization ratio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Generate free cash flow* and reduce net debt-to-total capitalization ratio* | 10%"
+   },
+   {
+    "metric": "Achieve the following production and unit cost targets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve the following production and unit cost targets: | 10%"
+   },
+   {
+    "metric": "696 MBoed total production",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "697 MBoed total production"
+   },
+   {
+    "metric": "DD&A unit cost per Boe",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "$13.35/Boe DD&A | Actual DD&A \u2013 $13.09/Boe"
+   },
+   {
+    "metric": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 5%"
+   },
+   {
+    "metric": "Strategic and other operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic and other operational goals, such as: | 40%"
+   },
+   {
+    "metric": "Drill 90% premium wells",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Drill 90% \"premium\" wells"
+   },
+   {
+    "metric": "Improve strong safety and environmental record",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Improve strong safety and environmental record"
+   },
+   {
+    "metric": "EOG TSR relative to peer companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our TSR is measured relative to the TSR of our peer companies"
+   }
+  ]
+ }
+}

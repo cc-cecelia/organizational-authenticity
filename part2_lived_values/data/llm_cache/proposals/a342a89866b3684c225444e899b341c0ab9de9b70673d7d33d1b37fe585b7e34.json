@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-087284",
+  "task": "proposals",
+  "section_words": 9983,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a342a89866b3684c225444e899b341c0ab9de9b70673d7d33d1b37fe585b7e34",
+  "est_input_tokens": 22211
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23670,
+  "output_tokens": 361,
+  "request_id": "req_011CgCAJ6hTTDr2GfjiSpeoS"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Relating to Action by Written Consent",
+    "proponent": "Kenneth Steiner (introduced by John Chevedden)",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, including on any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Relating to Annual Report on Diversity",
+    "proponent": "As You Sow (representing Betsy Krieger)",
+    "topic_summary": "Asks the company to publish annually a report assessing the effectiveness of its diversity, equity and inclusion programs, including goals, metrics and trends.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal as it believes such a report is unnecessary because:"
+   }
+  ]
+ }
+}

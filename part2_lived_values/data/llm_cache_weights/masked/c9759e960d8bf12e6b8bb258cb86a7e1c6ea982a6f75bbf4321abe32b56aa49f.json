@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "c9759e960d8bf12e6b8bb258cb86a7e1c6ea982a6f75bbf4321abe32b56aa49f",
+  "est_input_tokens": 26964
+ },
+ "usage": {
+  "input_tokens": 27378,
+  "output_tokens": 721
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top-line growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Increases BMS-wide focus on delivery of our late-stage pipeline and continued development of a robust pipeline through both internal efforts and business development"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes delivery of the late-stage pipeline , which drives near-term value"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression and successes of the R&D pipeline at various stages of development"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reflects management's holistic evaluation of our pipeline performance, including such considerations as the performance of high value assets"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an Individual Performance Factor, which is calculated based on individual achievements against pre-defined strategic and operational goals"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance Share Unit Awards: reward the achievement of key financial goals and the value created for shareholders"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures for #PSU awards are cumulative total revenues (ex-fx), cumulative non-GAAP operating margin, and relative TSR"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incorporating the #-year relative TSR as a core performance measure rather than a modifier"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: reward the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": []
+ }
+}

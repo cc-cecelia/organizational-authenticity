@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "21489105be0eb674d6baf12f8f9bccba3d21914ccf27e75fa34c608ba49dc529",
+  "est_input_tokens": 21554
+ },
+ "usage": {
+  "input_tokens": 22916,
+  "output_tokens": 2260
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we did not achieve the revenue performance goal for Fiscal Year 2019"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted non-GAAP operating margin was 54.4%, which was above the pre-established target attainment levels of performance."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Represents direct expenses of the division or function, as applicable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (15%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Bookings (12.5%)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (12.5%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (25%)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (25%)"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "applied judiciously to recognize the extraordinary efforts of our executives"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each PSU Award may be earned, if at all, based on our Relative TSR and absolute TSR performance"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR and absolute TSR performance, each over four overlapping performance periods"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

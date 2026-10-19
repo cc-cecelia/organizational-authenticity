@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "479fb35645a879b6b2de6c00cd72b582c0571f7f1b5128f4d66dd8783bc7e2cb",
+  "est_input_tokens": 38207
+ },
+ "usage": {
+  "input_tokens": 42474,
+  "output_tokens": 1021
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Company performance across four broad categories: financials, capital management, operating performance, and health, environmental and safety."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital Management\u2014#"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Performance\u2014#"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environmental and Safety\u2014#"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#reported earnings of #billion and #EPS exceeded Plan."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014Chevron delivered positive cash flow in #driven by actions taken to selectively sell assets"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of # exceeded Plan."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures\u2014#C&E totaled #billion, #billion, or #, lower than budget"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled #billion, better than Plan"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates below Plan, primarily due to unplanned shutdowns at non-operated joint ventures"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on several measures"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance was better than Plan; spill volume above Plan."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "TSR is the best overall pay-for-performance measure to align our CEO's and other NEOs' performance with stockholder interests."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is equal to the closing common stock price on the grant date."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Five-year cliff vesting lengthens equity holding time, which enhances retention and alignment with stockholders."
+   }
+  ],
+  "equal_split": []
+ }
+}

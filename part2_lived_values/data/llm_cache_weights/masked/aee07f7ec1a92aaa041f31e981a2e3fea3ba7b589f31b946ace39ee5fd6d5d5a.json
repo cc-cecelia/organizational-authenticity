@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "aee07f7ec1a92aaa041f31e981a2e3fea3ba7b589f31b946ace39ee5fd6d5d5a",
+  "est_input_tokens": 29777
+ },
+ "usage": {
+  "input_tokens": 29277,
+  "output_tokens": 841
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The HRC assigned an overall Company performance achievement level, as discussed in more detail below."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Achievement Level"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "Risk and control infrastructure is the top strategic priority for Wells Fargo"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Financial Deliver financial results and make progress on efficiency initiatives"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operational Excellence | \u2022 Continued to execute on our multi-year efficiency initiatives"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Customer Centric Culture & Conduct | \u2022 Provided products to help customers avoid overdraft fees"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Technology & Innovation | \u2022 Completed full rollout of Fargo TM , our AI-powered virtual assistant"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ESG (including DE&I and Community Engagement) | \u2022 Released a supplement to CO2eMission SM"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Talent & Leadership | \u2022 Continued focus on developing strong executive leadership team"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Set refreshed operational sustainability goals for #. These goals include reducing greenhouse gas emissions"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Continued focus and discipline to increase diverse representation and enhance a culture of inclusion across the Company."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "absolute and relative ROTCE are the primary performance conditions in our PSAs"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "absolute and relative ROTCE are the primary performance conditions in our PSAs"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the HRC continued to apply an award payout modifier of +/-# based on our relative TSR over the #-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

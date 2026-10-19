@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-092204",
+  "task": "proposals",
+  "section_words": 2318,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "667d5772e18b9ab99742e4b7186b08910caba6f06954ba827bfffb6933b93532",
+  "est_input_tokens": 5562
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6622,
+  "output_tokens": 250,
+  "request_id": "req_011CgCADmZQrEupfeDZwrDPW"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL",
+    "proponent": "Scott M. Stringer, Comptroller of the City of New York, on behalf of the New York City Employees' Retirement System, the New York City Teachers' Retirement System, the New York City Police Pension Fund, and the New York City Board of Education Retirement System",
+    "topic_summary": "Requests the Board adopt and enforce a policy requiring annual public disclosure of EEO-1 workforce data broken down by race and gender across 10 employment categories, beginning in 2019.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "We recommend that you vote against the stockholder proposal."
+   }
+  ]
+ }
+}

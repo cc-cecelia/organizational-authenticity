@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "56e12dd58e75126e2911b7c0ef8700add023e932037f68b93994290b6fb4284b",
+  "est_input_tokens": 17799
+ },
+ "usage": {
+  "input_tokens": 21113,
+  "output_tokens": 964
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on non-GAAP performance measures such as: \u2014 Net revenues \u2014 Income before taxes \u2014 Operating margin \u2014 Return on assets \u2014 Strategic and leadership goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A formal payout matrix based on net revenues and income before taxes guides the committee by capping the range of final awards"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "AbbVie's operating margin was 24.8% on a GAAP basis or 48.0% of net revenues on an adjusted basis."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Return on Assets | 30.5% | 20.7% (3) | N/A | (3) | 22.1% | 107%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reputation/Sustainability ... R&D/Innovation: Achieve key research and development milestones per company strategy"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "BUSINESS DEVELOPMENT AbbVie acquired Allergan creating a more diversified biopharmaceutical company"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "our NEOs continued to take a formal goal aligned to protecting AbbVie's reputation as a top employer and ensuring its long-term sustainability"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Allergan Integration"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic and leadership goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance shares ... earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Relative TSR is measured over a 3 \u2010 year performance period and used as a modifier"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance-Vested Restricted Stock (40% of total LTI award) \u2014These awards have the potential to vest at 0% to 200% of target in one-third increments"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-Qualified Stock Options (20% of total LTI award) \u2014These awards have the potential to vest in one-third increments"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Beginning with performance-vested restricted stock awards made in 2020, we replaced the relative return on equity (ROE) metric with a relative ROIC metric"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "d38ac9fec2f273a7eefc4504495bcb9faf9b88a7be51228d51f77bc57256a1cc",
+  "est_input_tokens": 17702
+ },
+ "usage": {
+  "input_tokens": 19907,
+  "output_tokens": 730
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The absolute financial component represents # of the annual incentive cash payout formula and is based on year-over-year growth of Intel's net income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Financial Component. The relative financial component represents # of the annual incentive cash payout formula and is based on Intel's year-over-year net income growth compared with net income growth of technology peer companies."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an operational performance component (# [w]). Each corporate performance component is targeted around a score of #"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "This component rewards executive officers for achieving meaningful measures of performance based on performance in key areas, including financial performance, product development and launch roadmaps"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "and corporate responsibility and environmental sustainability. The operational goals established by the committee"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For #the corporate level goal was focused on hiring and retention of diverse talent, which was achieved, increasing corporate level annual incentive cash payouts by # of target."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares of Intel common stock to be received at vesting will range from # to # of the target amount, based on the TSR of Intel common stock measured against the median TSR of the technology peer group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "a relative financial component (# [w]), and an operational performance component (# [w])."
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-550325",
+  "task": "proposals",
+  "section_words": 7427,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "508c400398fbcc3e9b6dace97b8a72b22c6517b525296beda2cecd02b5ca3a52",
+  "est_input_tokens": 16072
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17881,
+  "output_tokens": 450,
+  "request_id": "req_011CgC9VSgvrwUgrQkYFY4KQ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5\u2014Stockholder Proposal Regarding Change in Control Policy",
+    "proponent": "Comptroller of the State of New York, as trustee of the New York State Common Retirement Fund; Chevy Chase Trust, as trustee of the AFL-CIO Equity Index Fund",
+    "topic_summary": "Adopt a policy prohibiting acceleration of vesting of equity awards for senior executives upon a change in control, except pro rata vesting up to termination.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6\u2014Stockholder Proposal Regarding Share Retention Policy",
+    "proponent": "International Brotherhood of Electrical Workers Pension Benefit Fund",
+    "topic_summary": "Adopt a policy requiring senior executives to retain a significant percentage of equity-compensation shares until normal retirement age or termination, with at least 50% retention and no hedging.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 6 for the following reasons:"
+   }
+  ]
+ }
+}

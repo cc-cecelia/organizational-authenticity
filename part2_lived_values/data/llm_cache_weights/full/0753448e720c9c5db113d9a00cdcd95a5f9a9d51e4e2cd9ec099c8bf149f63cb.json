@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "0753448e720c9c5db113d9a00cdcd95a5f9a9d51e4e2cd9ec099c8bf149f63cb",
+  "est_input_tokens": 25376
+ },
+ "usage": {
+  "input_tokens": 27220,
+  "output_tokens": 1096
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial measures are key indicators of our profitable growth and are aligned with our external operating framework"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "three equally weighted Company financial performance goals for fiscal 2023: revenue; operating cash flow; and non-GAAP income from operations"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "three equally weighted Company financial performance goals for fiscal 2023: revenue; operating cash flow; and non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "three equally weighted Company financial performance goals for fiscal 2023: revenue; operating cash flow; and non-GAAP income from operations"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ESG performance as part of the annual bonus plan targets for our Executive Officers, including our NEOs"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Equality (50%) | U.S. Underrepresented Minorities & Women (25%)"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "U.S. Underrepresented Minorities & Women (25%) | 47.5% of our U.S. Employees will identify as Underrepresented Minorities"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Global Women (25%) | 36.5% of our Global Employees will identify as Women as of the end of fiscal 2023"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Sustainability (50%) | Air Travel (25%) | 50% Reduction in air travel emissions intensity"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "50% Reduction in air travel emissions intensity (2) (GHG emissions / Revenue) for fiscal 2023 relative to fiscal 2020 levels"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "10% of Spend in fiscal 2023 with suppliers who have signed an agreement with a Salesforce Supplier Sustainability Exhibit"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance may increase (up to a maximum of 125% of target bonus) or decrease payouts"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Target payout requires 60 th percentile relative TSR performance compared to the Nasdaq 100 Index group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Four equally weighted ESG measures: Equality (U.S. Underrepresented Minorities and Women; and Global Women) and Sustainability (Air Travel and Supplier Engagement)"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "three equally weighted Company financial performance goals for fiscal 2023: revenue; operating cash flow; and non-GAAP income from operations"
+   }
+  ]
+ }
+}

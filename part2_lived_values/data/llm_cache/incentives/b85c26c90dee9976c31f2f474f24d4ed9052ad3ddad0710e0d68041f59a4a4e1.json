@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0000059478-18-000111",
+  "task": "incentives",
+  "section_words": 6535,
+  "section_method": "heading",
+  "cache_key": "b85c26c90dee9976c31f2f474f24d4ed9052ad3ddad0710e0d68041f59a4a4e1",
+  "est_input_tokens": 14902
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16355,
+  "output_tokens": 1260,
+  "request_id": "req_011CgCARdGRWbwMMPahQapZa"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "metric": "EPS performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "metric": "Pipeline progress",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "metric": "Approvals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Approvals | 1 new drug first approval 9 other approvals"
+   },
+   {
+    "metric": "Plan Boldly",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "metric": "Deliver to Launch",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "metric": "Qualitative Assessment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Qualitative Assessment | Chief scientific officer's assessment of performance against strategic objectives"
+   },
+   {
+    "metric": "Two-year cumulative EPS growth (performance awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "established a cumulative, compounded two-year EPS growth target of 5.3 percent per year"
+   },
+   {
+    "metric": "Share price growth (shareholder value awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "shareholder value awards, which are performance-based equity awards that pay out based on absolute company stock price growth"
+   },
+   {
+    "metric": "Relative TSR modifier (shareholder value awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Executive officer awards are subject to a relative TSR modifier, as outlined in the grid below."
+   }
+  ]
+ }
+}

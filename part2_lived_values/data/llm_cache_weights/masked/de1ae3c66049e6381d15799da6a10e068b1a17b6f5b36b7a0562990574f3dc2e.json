@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "de1ae3c66049e6381d15799da6a10e068b1a17b6f5b36b7a0562990574f3dc2e",
+  "est_input_tokens": 21830
+ },
+ "usage": {
+  "input_tokens": 22253,
+  "output_tokens": 1688
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee considers adjusted EBITDA to be a good indicator of the quality of our earnings."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a critical element of a strong balance sheet, and it allows us to sustainably return value to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we incorporated into our STI plan a new quantitative component focused on reducing our Scope #emissions intensity and improving gender diversity."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce Scope #emissions intensity by # year on year."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The Committee incorporated a gender diversity metric into our NEOs' STI plan, in support of SLB's targets"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Early each year, our Compensation Committee reviews and, subject to approval by the Board's independent directors, approves our CEO's strategic personal objectives"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee also selected absolute FCF margin as the performance metric for a portion of our NEOs' #LTI awards"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Compensation Committee has based a portion of our NEOs' LTI awards on a relative ROCE metric since #"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In maintaining the maximum payout opportunity for the #TSR PSUs at #, which is below the maximum payout for the #FCF Margin PSUs and #ROCE PSUs"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "awarded in the form of three-year, time-based RSUs"
+   }
+  ],
+  "equal_split": []
+ }
+}

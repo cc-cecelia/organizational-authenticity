@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-099179",
+  "task": "proposals",
+  "section_words": 2430,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "65e47e2116919ecb5df4a4cc45ef988fa4bc5ca63c518950188f5184ab27796d",
+  "est_input_tokens": 5475
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7039,
+  "output_tokens": 194,
+  "request_id": "req_011CgCA7PZAp4Hb7kCzpjyaw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Regarding an Annual Report on Lobbying Expenses",
+    "proponent": "Boston Common Asset Management, LLC",
+    "topic_summary": "Requests an annual report disclosing company lobbying policies, direct and indirect lobbying and grassroots payments, amounts and recipients, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

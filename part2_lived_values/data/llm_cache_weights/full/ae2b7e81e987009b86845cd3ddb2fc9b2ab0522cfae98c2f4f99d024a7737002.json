@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "ae2b7e81e987009b86845cd3ddb2fc9b2ab0522cfae98c2f4f99d024a7737002",
+  "est_input_tokens": 13431
+ },
+ "usage": {
+  "input_tokens": 14159,
+  "output_tokens": 230
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approved performance goals based on ROCE and COE with potential payouts ranging from 100% to 200% of the target shares granted."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "COE is calculated using the Capital Asset Pricing Model (CAP-M), which is a commonly used financial metric"
+   }
+  ],
+  "equal_split": []
+ }
+}

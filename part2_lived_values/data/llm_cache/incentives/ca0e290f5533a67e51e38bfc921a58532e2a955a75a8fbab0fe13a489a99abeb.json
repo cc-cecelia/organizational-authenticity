@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001206774-18-000792",
+  "task": "incentives",
+  "section_words": 5009,
+  "section_method": "heading",
+  "cache_key": "ca0e290f5533a67e51e38bfc921a58532e2a955a75a8fbab0fe13a489a99abeb",
+  "est_input_tokens": 11690
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13550,
+  "output_tokens": 1719,
+  "request_id": "req_011CgCAMkY7mVja92iZxwuDz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Citigroup Income from Continuing Operations Before Taxes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Mr. Corbat's performance was rated 2 out of 5 on each of the five financial goals set for the CEO scorecard"
+   },
+   {
+    "metric": "Citigroup Efficiency Ratio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Citigroup Efficiency Ratio | 57.7% | 2"
+   },
+   {
+    "metric": "Citigroup Return on Tangible Common Equity",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Citigroup Return on Tangible Common Equity | 8.1% | 2"
+   },
+   {
+    "metric": "Citigroup Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Citigroup Return on Assets | 0.84% | 2"
+   },
+   {
+    "metric": "Citigroup Risk Appetite Ratio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Citigroup Risk Appetite Ratio | 118%"
+   },
+   {
+    "metric": "Citigroup Risk Appetite Surplus",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Citigroup Risk Appetite Surplus | $2.93 billion | 2"
+   },
+   {
+    "metric": "Strategic direction",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Non-Financial Goal | Rating (2) Strategic direction | 2"
+   },
+   {
+    "metric": "Risk and controls management",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Risk and controls management | 2"
+   },
+   {
+    "metric": "Personnel management",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Personnel management | 2"
+   },
+   {
+    "metric": "Relations with external stakeholders",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Relations with external stakeholders | 1"
+   },
+   {
+    "metric": "Return on Tangible Common Equity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earned units based 50% on return on tangible common equity in 2020 and 50% on cumulative earnings per share over 2018-2020"
+   },
+   {
+    "metric": "Cumulative Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earned units based 50% on return on tangible common equity in 2020 and 50% on cumulative earnings per share over 2018-2020"
+   },
+   {
+    "metric": "Total Shareholder Return modifier on Performance Share Units",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Ultimate value of earned units linked to Citi total shareholder returns"
+   }
+  ]
+ }
+}

@@ -46,7 +46,7 @@ CATEGORY_ENUM = CATEGORIES + ["other"]
 # and 80k output tokens per minute. Output limits are charged against
 # max_tokens up front, so max_tokens is sized per task from the pilot's
 # observed outputs (incentives max 7.6k, proposals max 2.2k incl. thinking).
-MAX_TOKENS = {"incentives": 10_000, "proposals": 4_000}
+MAX_TOKENS = {"incentives": 10_000, "proposals": 8_000}   # proposals raised after COP 2018 hit 4k
 BUDGET_IN, BUDGET_OUT = 400_000, 64_000          # 80% of the per-minute limits
 
 
@@ -246,10 +246,16 @@ def call_model(client, prompt: str, schema: dict, max_tokens: int, label: str) -
         return {"error": f"invalid_json: {e}", "usage": usage}
 
 
+CDA_TARGETS = {}   # (ticker, year) -> firm's median CD&A length in other years; set in main()
+
+
 def run_one(client, r: dict, task: str, dry_run: bool) -> dict:
     template, schema, finder, _ = TASKS[task]
     text = (config.REPO_DIR / r["text_path"]).read_text()
-    sec = finder(text)
+    if task == "incentives":
+        sec = sections.find_cda(text, CDA_TARGETS.get((r["ticker"], r["filing_year"])))
+    else:
+        sec = finder(text)
     base = {"ticker": r["ticker"], "sector": r["sector"], "filing_year": r["filing_year"],
             "accession": r["accession"], "task": task}
     if sec is None:
@@ -384,6 +390,11 @@ def main(argv=None) -> int:
             return 2
         client = anthropic.Anthropic(max_retries=5)
 
+    # CD&A targets use all of a firm's years, whatever subset is being run.
+    allcov = pd.read_csv(config.COVERAGE_OUT)
+    allcov = allcov[(allcov["status"] != "gap") & allcov["ticker"].isin(cov["ticker"])]
+    CDA_TARGETS.update(sections.cda_targets(
+        (r.ticker, r.filing_year, (config.REPO_DIR / r.text_path).read_text()) for r in allcov.itertuples()))
     jobs = [(r, t) for r in cov.to_dict("records") for t in args.tasks]
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         runs = list(pool.map(lambda j: run_one(client, j[0], j[1], args.dry_run), jobs))

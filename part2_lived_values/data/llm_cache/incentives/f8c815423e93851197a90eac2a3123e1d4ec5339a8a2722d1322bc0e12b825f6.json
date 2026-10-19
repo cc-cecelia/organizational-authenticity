@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001047469-20-002403",
+  "task": "incentives",
+  "section_words": 13912,
+  "section_method": "heading",
+  "cache_key": "f8c815423e93851197a90eac2a3123e1d4ec5339a8a2722d1322bc0e12b825f6",
+  "est_input_tokens": 17872
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33157,
+  "output_tokens": 298,
+  "request_id": "req_011CgCAVsZXAJLUEMqdawApr"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cumulative EPS measure",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance shares the executive officer will receive is dependent upon the achievement of a cumulative EPS measure and an average ROE measure"
+   },
+   {
+    "metric": "Average ROE measure",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance shares the executive officer will receive is dependent upon the achievement of a cumulative EPS measure and an average ROE measure"
+   }
+  ]
+ }
+}

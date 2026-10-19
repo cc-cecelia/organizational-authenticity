@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "d637cf13da8a0f7242d28443fb30e0f3e27b11a850b32571cb6c93275dd98736",
+  "est_input_tokens": 14415
+ },
+ "usage": {
+  "input_tokens": 15138,
+  "output_tokens": 431
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each of the 12 tranches of the 2018 CEO Performance Award vested upon certification by the Board that both (i) the market capitalization milestone"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability, was met"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the market capitalization milestone for such tranche, which began at $100 billion for the first tranche and increased by increments of $50 billion thereafter"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "divided equally among 12 separate tranches that were each equivalent to 1% of the issued and outstanding shares"
+   }
+  ]
+ }
+}

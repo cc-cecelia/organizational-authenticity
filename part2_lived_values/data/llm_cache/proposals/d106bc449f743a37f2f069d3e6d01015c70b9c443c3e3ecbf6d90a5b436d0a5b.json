@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001104659-24-040871",
+  "task": "proposals",
+  "section_words": 5849,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "d106bc449f743a37f2f069d3e6d01015c70b9c443c3e3ecbf6d90a5b436d0a5b",
+  "est_input_tokens": 13412
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15104,
+  "output_tokens": 595,
+  "request_id": "req_011CgCBn1d1zaHHzCsHbFi3i"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2014 Equal Voting Rights for Each Share",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the Board to ensure all outstanding stock has one vote per share, including encouraging holders of multiple-vote shares to relinquish those rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 because it is not in the best interests of Ford or its shareholders."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6 \u2014 Child Labor Audit",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Asks Ford to report on the extent its electric vehicle and charging station business plans may rely on child labor outside the United States.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 6 because it is not in the best interests of Ford and its shareholders."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2014 Supply Chain Transparency and Traceability Report",
+    "proponent": "Green Century Capital Management, on behalf of Dunkelman Descendants Trust FBO Zane Behnke",
+    "topic_summary": "Asks Ford to report on aluminum, steel, mineral, rubber and leather supply chains regarding deforestation risk, GHG emissions and sustainable material procurement targets.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 7 because it is not in the best interests of Ford and its shareholders."
+   }
+  ]
+ }
+}

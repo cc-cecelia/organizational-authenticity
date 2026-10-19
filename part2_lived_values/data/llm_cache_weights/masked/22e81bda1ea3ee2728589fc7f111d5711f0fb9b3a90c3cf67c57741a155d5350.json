@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "22e81bda1ea3ee2728589fc7f111d5711f0fb9b3a90c3cf67c57741a155d5350",
+  "est_input_tokens": 18062
+ },
+ "usage": {
+  "input_tokens": 18926,
+  "output_tokens": 435
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs on effective merchandising, driving market share gains and the enhancement of the Company's omnichannel sales and marketing"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for profitability of Company operations and focuses management on operational efficiency and expense management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on improving inventory management, which generates cash flow for investing in the business and returning value to shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on growing Pro market share, which drives long-term sustainable sales growth and profitability for the business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC is a comprehensive long-term financial metric that incorporates both operating profit and balance sheet performance in the calculation"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a relative TSR modifier, which compares the Company's TSR to the median TSR of companies listed in the S&P"
+   }
+  ],
+  "equal_split": []
+ }
+}

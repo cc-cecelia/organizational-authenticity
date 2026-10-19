@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0000354950-20-000024",
+  "task": "proposals",
+  "section_words": 13648,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ba56183e02e43673e9dda91b8b1b31801d5a8075991355dbb695c68905280107",
+  "est_input_tokens": 29842
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31492,
+  "output_tokens": 665,
+  "request_id": "req_011CgCBJskEQ6DXSKLAj9bRK"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Initiate Meaningful Shareholder Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws so a single stockholder seeking written consent can request a record date, rather than holders of 25% of shares.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Company recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "EEO-1 Disclosure",
+    "proponent": "The Congregation of Benedictine Sisters, Boerne, Texas",
+    "topic_summary": "Requests a diversity report with employee gender and race data by EEOC job category, affirmative action summary, and diversity programs description, available by September 2020.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Executive Ownership Guidelines",
+    "proponent": "The Lynne M Gerber Traditional Beneficial IRA of Judith S Gerber, together with other co-filers, represented by As You Sow",
+    "topic_summary": "Asks the Compensation Committee to require senior executives to retain a significant percentage of equity-acquired shares for a significant period after employment ends.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Electioneering Contributions Congruency Analysis",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Requests an annual report analyzing whether political and electioneering expenditures are congruent with publicly stated company values and policies, including brand risk analysis.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

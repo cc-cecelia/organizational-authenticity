@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0000354950-23-000101",
+  "task": "proposals",
+  "section_words": 16415,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8f37946f932508689d227ce2ce68584a940836302de64f8b0f5786b5b2761489",
+  "est_input_tokens": 35761
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 36205,
+  "output_tokens": 873,
+  "request_id": "req_011CgCBKvpZa7RFusjrC3SeK"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Improve Shareholder Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to enable holders of 10% of shares to request a record date to initiate shareholder written consent, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "WE RECOMMEND THAT YOU VOTE \"AGAINST\" THE ADOPTION OF THIS SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Request for Board of Directors to Adopt Policy for an Independent Chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Asks the board to adopt a policy requiring separation of the Chairman and CEO roles, with the Chairman to be independent whenever possible and not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "WE RECOMMEND THAT YOU VOTE \"AGAINST\" THE ADOPTION OF THIS SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "POLITICAL SPENDING MISALIGNMENT",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Requests an annual report analyzing whether political and electioneering expenditures are congruent with publicly stated company values and policies, and actions taken as a result.",
+    "category": "integrity",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Rescission of 2022 Racial Equity Audit Proposal",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Asks shareholders to commit to rescinding the 2022 racial equity audit proposal and to reject racially discriminatory practices at the company.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Senior Management Commitment to Avoid Political Speech",
+    "proponent": "American Conservative Values ETF",
+    "topic_summary": "Asks the board to encourage a senior management commitment to avoid public positions on controversial social or political issues unless justified by business strategy.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

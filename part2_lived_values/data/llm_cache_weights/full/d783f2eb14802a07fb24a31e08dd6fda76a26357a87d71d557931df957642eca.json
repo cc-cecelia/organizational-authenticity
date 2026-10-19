@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "d783f2eb14802a07fb24a31e08dd6fda76a26357a87d71d557931df957642eca",
+  "est_input_tokens": 26613
+ },
+ "usage": {
+  "input_tokens": 28298,
+  "output_tokens": 1163
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Income Per Barrel | Measures domestic operating income per barrel of crude oil throughput"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA (b) | As derived from the consolidated financial statements"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mechanical availability is an essential element in achieving our financial and operational objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To focus employees on selling, general and administrative cost management of controllable expenditures"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To emphasize the importance of capturing synergies between MPLX and MarkWest"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The metrics below measure our success in meeting our goals for the health and safety of our employees"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Measurement of MPC's success and commitment to employee safety. Goals are set annually at best-in-class industry performance"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Measures the success of MPC's ability to identify, understand and control process hazards"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Measures environmental performance and consists of tracking certain: a) releases of hazardous substances"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Measures the impact of product quality incidents and cumulative costs to MPC"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Talent development, retention, succession and acquisition"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Enhancement of shareholder value through return of capital and unlocking midstream asset value"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "System integration, optimization and debottlenecking"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Growth through organic expansion and acquisition opportunities"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Growth of market share for gasoline and diesel"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Preparation of assets for potential dropdown to MPLX"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Progress on diversity initiatives"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee continues to believe TSR relative to a peer group is the single best metric for our performance unit program"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock options provide a direct but variable link between our NEOs' and other executive officers' long-term compensation"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MPLX Board continues to believe TUR relative to a peer group is the single best metric for its performance program"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "The metrics below measure our success in meeting our goals for the health and safety of our employees"
+   }
+  ]
+ }
+}

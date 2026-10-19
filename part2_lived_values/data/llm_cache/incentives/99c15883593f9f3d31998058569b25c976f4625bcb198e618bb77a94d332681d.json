@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001047469-16-011835",
+  "task": "incentives",
+  "section_words": 8216,
+  "section_method": "heading",
+  "cache_key": "99c15883593f9f3d31998058569b25c976f4625bcb198e618bb77a94d332681d",
+  "est_input_tokens": 14752
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21330,
+  "output_tokens": 1292,
+  "request_id": "req_011CgCBiUkJkdrCe9qXmExCr"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Global PBT",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "global PBT (35% weight); Total Automotive Operating-Related Cash Flow (35% weight)"
+   },
+   {
+    "metric": "Total Automotive Operating-Related Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Automotive Operating-Related Cash Flow (35% weight)"
+   },
+   {
+    "metric": "Cost Performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cost Performance, Market Share, and Quality (10% weight each)"
+   },
+   {
+    "metric": "Market Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cost Performance, Market Share, and Quality (10% weight each)"
+   },
+   {
+    "metric": "Quality",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cost Performance, Market Share, and Quality (10% weight each)"
+   },
+   {
+    "metric": "Automotive Operating Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Automotive Operating Margin (30% weight); Automotive Operating-Related Cash Flow (20% weight)"
+   },
+   {
+    "metric": "Automotive Operating-Related Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Automotive Operating-Related Cash Flow (20% weight); Automotive Revenue (20% weight)"
+   },
+   {
+    "metric": "Automotive Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Automotive Revenue (20% weight); Quality (20% weight)"
+   },
+   {
+    "metric": "Quality",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Quality (20% weight); Ford Credit PBT (10% weight)"
+   },
+   {
+    "metric": "Ford Credit PBT",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Ford Credit PBT (10% weight)"
+   }
+  ]
+ }
+}

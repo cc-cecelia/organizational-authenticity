@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001206774-19-000719",
+  "task": "incentives",
+  "section_words": 2392,
+  "section_method": "heading",
+  "cache_key": "1dbe1ed2abb0edf76bf1acda89ebe991e28a9fc7351f0a01e941f1c85d0e2e42",
+  "est_input_tokens": 6014
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7949,
+  "output_tokens": 2248,
+  "request_id": "req_011CgCANCPNRGaVhwENLfonY"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Efficiency ratio",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year"
+   },
+   {
+    "metric": "Return on tangible common equity",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year"
+   },
+   {
+    "metric": "Return on assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year"
+   },
+   {
+    "metric": "Individual executive performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "is based on the overall achievements of Citi and individual executive performance against predetermined goals set at the beginning of each year"
+   },
+   {
+    "metric": "Return on tangible common equity",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "metric": "Cumulative earnings per share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000828",
+  "task": "proposals",
+  "section_words": 2747,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a79fba3529b7c0b7670ec4e29569fb4a513ebfa8456d0a0c6ad808f6cfa06d6b",
+  "est_input_tokens": 6138
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7122,
+  "output_tokens": 190,
+  "request_id": "req_011CgCBbDsuJh22KevsYdPHR"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder proposal to adopt a policy for an independent chairman",
+    "proponent": "John Chevedden",
+    "topic_summary": "Adopt a policy requiring separate CEO and Chairman roles, with the Chairman whenever possible an independent director; phase-in possible at next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal to adopt a policy for an independent chairman."
+   }
+  ]
+ }
+}

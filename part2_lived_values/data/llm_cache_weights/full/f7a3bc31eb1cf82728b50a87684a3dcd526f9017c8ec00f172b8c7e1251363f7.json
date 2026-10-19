@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "f7a3bc31eb1cf82728b50a87684a3dcd526f9017c8ec00f172b8c7e1251363f7",
+  "est_input_tokens": 17405
+ },
+ "usage": {
+  "input_tokens": 17240,
+  "output_tokens": 586
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts for our named executive officers under the annual cash incentive program are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts for our named executive officers under the annual cash incentive program are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We included a modifier in the annual cash incentive program beginning in 2021 as a measure to evaluate the actions taken during the year to advance our Apple values and key community initiatives."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Achieving progress towards 2030 goal via the following five pillars across Apple: low carbon product design; energy efficiency; renewable electricity; direct emissions abatement; and carbon removal"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increasing representation of diverse groups with a particular focus on engineering and leadership and continuing to build and reinforce a strong inclusive culture"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee chose Relative TSR as the metric for performance-based RSUs with the S&P 500 as the comparative group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Payouts for our named executive officers under the annual cash incentive program are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   }
+  ]
+ }
+}

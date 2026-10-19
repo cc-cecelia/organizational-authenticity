@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001047469-17-001870",
+  "task": "incentives",
+  "section_words": 8847,
+  "section_method": "heading",
+  "cache_key": "d166e0d494b141002ef3e3b2585f56263c2c46e43a8244b37f264182d26ac8ee",
+  "est_input_tokens": 18876
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22312,
+  "output_tokens": 1608,
+  "request_id": "req_011CgCCCf1j2axHLEVgVC1CR"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBITDA (40%) Operating Excellence (35%) Adjusted Controllable Costs (15%) High-Performing Organization (10%)"
+   },
+   {
+    "metric": "Operating Excellence",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In 2016, we increased the weighting of this metric from 25 percent to 35 percent"
+   },
+   {
+    "metric": "Combined TRR and LWCR",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Combined TRR and LWCR: Our performance in personal safety was top quartile compared to our industry group"
+   },
+   {
+    "metric": "Process Safety Rate",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Process Safety Rate: Our Process Safety Event Rate was the best in our Company history"
+   },
+   {
+    "metric": "Environmental Events",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "metric": "Asset Availability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Asset Availability: The Compensation Committee determined that our availability was 98.6 percent across all of our lines of business"
+   },
+   {
+    "metric": "Adjusted Controllable Costs",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Controllable Costs (15%)"
+   },
+   {
+    "metric": "High-Performing Organization",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In 2016, we added the High-Performing Organization metric to measure the effectiveness of our talent management initiatives"
+   },
+   {
+    "metric": "Individual Modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Individual Performance Adjustments can range from +/\u201350 percent of target award."
+   },
+   {
+    "metric": "Relative ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative ROCE (25%) Absolute ROCE (25%) Relative TSR (50%)"
+   },
+   {
+    "metric": "Absolute ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative ROCE (25%) Absolute ROCE (25%) Relative TSR (50%)"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50 percent ROCE, equally weighted between absolute and relative, and 50 percent relative TSR"
+   }
+  ]
+ }
+}

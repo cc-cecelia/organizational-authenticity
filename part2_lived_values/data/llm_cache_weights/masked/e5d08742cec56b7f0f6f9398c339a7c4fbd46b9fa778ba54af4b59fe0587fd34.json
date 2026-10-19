@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "e5d08742cec56b7f0f6f9398c339a7c4fbd46b9fa778ba54af4b59fe0587fd34",
+  "est_input_tokens": 31304
+ },
+ "usage": {
+  "input_tokens": 30831,
+  "output_tokens": 1127
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Company performance was a key input into the determination of NEOs' #variable compensation."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the HRC determined that # of Mr. Scharf's variable compensation should be determined by overall Company performance and # by Mr. Scharf's individual performance."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Below we summarize the key financial results reviewed by the HRC, which together with our non-financial results"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Risk, Regulatory, & Control | \u2022 Continued progress in addressing risk, control, and regulatory issues"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Customer Centric Culture & Conduct | \u2022 Enhanced the customer experience through innovative products and services"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Talent & Leadership | \u2022 Continued focus on developing strong executive leadership team"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Technology & Innovation | \u2022 Modernized Wells Fargo Mobile \u00ae app for consumer and small business customers."
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operational Excellence | \u2022 Realized approximately #billion in gross expense savings through efficiency initiatives in #."
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ESG (including DE&I and Community Engagement) | \u2022 Donated approximately #million to over #nonprofits in support of housing"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Risk, Regulatory, & Control Execute against milestones to reduce outstanding regulatory deliverables, and continue to strengthen risk and control infrastructure"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Strategy, Technology, & Innovation Execute against key strategic priorities, including multi-year technology plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Financial Deliver financial results and make progress on efficiency initiatives"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Talent, Leadership, & Culture (including DE&I) Advance talent management and diverse representation strategy"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute and relative ROTCE are used as the primary performance conditions in our PSAs."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute and relative ROTCE are used as the primary performance conditions in our PSAs."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the HRC added an award payout modifier of +/-# based on our relative TSR over the #-year performance period."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "For any year in the performance period that our Company incurs a Net Operating Loss (\" NOL \") #, the target number of PSAs will be reduced by # #."
+   }
+  ],
+  "equal_split": []
+ }
+}

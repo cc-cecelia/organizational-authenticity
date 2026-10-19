@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "3efd5589864165a27a8ce716e22ed6e779ea333fbbebd606e5862661f595b4e6",
+  "est_input_tokens": 17233
+ },
+ "usage": {
+  "input_tokens": 17685,
+  "output_tokens": 1004
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incentive Operating Income (50%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 33% of their STIP is based on a team scorecard, designed to strongly align pay to Target's strategic agenda."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "market share gains in Apparel & Accessories, Home, Essentials & Beauty, Food & Beverage, and at the enterprise level"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "digital channel sales that continue to outpace the industry"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "advanced brand portfolio management capabilities"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "numerous new store openings and remodels"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The three relative metrics used in our PSU plan are:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating income dollar growth (three-year CAGR)"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year average ROIC"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The payout is further subject to an incremental additive or subtractive modification based on sales growth compared to Target's Census addressable market growth"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Sales growth. The compound annual growth rate in Adjusted Sales over the performance period, relative to our retail peer group."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS growth. The compound annual growth rate of our EPS versus the reported EPS of our retail peer group."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC. Three-year average net operating profit after-tax divided by average invested capital"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The market share and EPS growth metrics utilize a base year of fiscal 2016 and a final performance year of fiscal 2019"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PBRSU amount will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third or bottom one-third"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "The remaining 33% of their STIP is based on a team scorecard"
+   }
+  ]
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "fc8e4bd7b4b4bba1f11a9b3ab9329ba3224e016f9101c0bfc150947d8c967ad5",
+  "est_input_tokens": 26303
+ },
+ "usage": {
+  "input_tokens": 29876,
+  "output_tokens": 1135
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Board and our Compensation Committee... Increased the weighting of the financial performance portion of the CEO's annual cash incentive from 50% to 70% for fiscal year 2021, split evenly between Incentive Plan Revenue (35%) and Incentive Plan Operating Income (35%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "split evenly between Incentive Plan Revenue (35%) and Incentive Plan Operating Income (35%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial results (50%) (70% for the CEO) | 200.00% | 200.00%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy (10%) \u2022 Customers & Stakeholders (10%) \u2022 Culture & Organizational Leadership (10%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational Assessment ... Customers & Stakeholders (10.0% weight) | 170%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3 Culture & Organizational Leadership (10.0% weight) | 180%"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Pursued efforts to strengthen net customer satisfaction scores to historically high levels"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Progress on Environmental, Social, and Governance goals"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Drove significant progress toward the Company goal to become carbon negative"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "id": 11,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Organizational health"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial Cloud Revenue (33%)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commercial Cloud Subscribers (32%)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teams Monthly Active Usage (20%)"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Xbox Game Pass Subscribers (5%)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Surface Revenue (5%)"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "LinkedIn Sessions (5%)"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revised the relative TSR modifier for fiscal year 2021 PSAs to include a downside adjustment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "split evenly between Incentive Plan Revenue (35%) and Incentive Plan Operating Income (35%)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-718528",
+  "task": "incentives",
+  "section_words": 9802,
+  "section_method": "heading",
+  "cache_key": "f58536d454e8cae53303fa4e4fa9030605be4aaf6156309783277c22b5dc2610",
+  "est_input_tokens": 22169
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24452,
+  "output_tokens": 1148,
+  "request_id": "req_011CgC9ZVN2XkWJZvgyULcM9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-over-year growth in non-GAAP pre-tax profits",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee selected year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our NEOs' annual cash bonuses for fiscal 2016"
+   },
+   {
+    "metric": "Hardware products profitability growth (hardware revenues growth relative to hardware products development expense growth)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Mr. Fowler's target cash bonus opportunity was based on a percentage of the amount by which hardware revenues growth between fiscal 2015 and fiscal 2016 exceeded the expense growth"
+   },
+   {
+    "metric": "Relative growth in total consolidated revenues (U.S. GAAP) versus PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Relative growth in total consolidated net cash flows from operating activities (U.S. GAAP) versus PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated net cash flows from operating activities measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Year-over-year growth in Oracle total revenues for Cloud SaaS and PaaS offerings (U.S. GAAP)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Mr. Kurian's 2016 PSUs are to be earned based on year-over-year growth in Oracle's total revenues for its cloud SaaS and PaaS offerings measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Year-over-year growth in Oracle Engineered Systems and storage products revenues (U.S. GAAP)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Mr. Fowler's 2016 PSUs are to be earned based on year-over-year growth in Oracle's total revenues for its Oracle Engineered Systems and storage products measured on a U.S. GAAP basis"
+   }
+  ]
+ }
+}

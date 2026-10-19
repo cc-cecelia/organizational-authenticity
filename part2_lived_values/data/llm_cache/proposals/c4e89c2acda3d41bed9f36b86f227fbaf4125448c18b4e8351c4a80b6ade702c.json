@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-068743",
+  "task": "proposals",
+  "section_words": 18780,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c4e89c2acda3d41bed9f36b86f227fbaf4125448c18b4e8351c4a80b6ade702c",
+  "est_input_tokens": 43419
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 46615,
+  "output_tokens": 1871,
+  "request_id": "req_011CgCA574g2NMeqRjRSmjio"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Regarding a Policy for an Independent Chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests Board adopt policy requiring separate Chairman and CEO, with the Chairman generally an Independent Director and not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding a Transparency in Lobbying Report",
+    "proponent": "John Chevedden, together with Oblate International Pastoral Investment Trust",
+    "topic_summary": "Requests annual report disclosing lobbying policies, lobbying and grassroots payments, trade association model legislation payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Outcome Report on Efforts Regarding Protected Classes of Employees",
+    "proponent": "The Nathan Cummings Foundation",
+    "topic_summary": "Requests annual public report quantifying outcomes of efforts to prevent harassment and discrimination against protected classes of employees.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Environmental Justice Impact Assessment",
+    "proponent": "Sierra Club Foundation, together with Harrington Investments, Inc.",
+    "topic_summary": "Requests rigorous assessment and disclosure of material environmental justice risks and opportunities from energy and power sector financing and underwriting.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding a Report Disclosure of Clean Energy Supply Financing Ratio",
+    "proponent": "New York City Comptroller, on behalf of New York City pension systems",
+    "topic_summary": "Requests annual disclosure of Clean Energy Supply Financing Ratio comparing low-carbon to fossil-fuel energy supply financing, with methodology.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal Regarding a GSAM Proxy Voting Review",
+    "proponent": "The Presbyterian Church (U.S.A.), together with Portico Benefit Services",
+    "topic_summary": "Requests board review of GSAM's 2023 proxy voting record and proxy voting policies on diversity and climate change.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal Regarding a Report on Financial Statement Assumptions Regarding Climate Change",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests audited report assessing how Energy Policy Research Foundation findings would affect financial statement assumptions, valuations and impairments.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal Regarding Pay Equity Reporting",
+    "proponent": "Mercy Rome, care of Newground Social Investment, together with co-filers",
+    "topic_summary": "Requests annual report on unadjusted and adjusted pay gaps across race and gender globally, with associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal Regarding Director Election Resignation Bylaw",
+    "proponent": "New York City Carpenters Pension Fund",
+    "topic_summary": "Requests adoption of director election resignation bylaw requiring irrevocable conditional resignations and automatic effectiveness for holdover directors.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

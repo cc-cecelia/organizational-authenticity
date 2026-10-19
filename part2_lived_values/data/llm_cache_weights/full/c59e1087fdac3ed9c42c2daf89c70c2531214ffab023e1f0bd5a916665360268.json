@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "c59e1087fdac3ed9c42c2daf89c70c2531214ffab023e1f0bd5a916665360268",
+  "est_input_tokens": 15562
+ },
+ "usage": {
+  "input_tokens": 16349,
+  "output_tokens": 222
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Selected the performance criteria of ROTCE for the 2020 PBRSUs"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee chose ROCE compared to COE as the performance criterion for these equity awards, because it reflects the creation of financial value for stockholders"
+   }
+  ],
+  "equal_split": []
+ }
+}

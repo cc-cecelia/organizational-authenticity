@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001326801-23-000050",
+  "task": "proposals",
+  "section_words": 16913,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a45e7bc657e70c78023840e890f898a9d2a90d68070e63932df3d01f25c6ca8c",
+  "est_input_tokens": 39835
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37879,
+  "output_tokens": 2503,
+  "request_id": "req_011CgC9RGfpatuiaG4PLBPH1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "Shareholder Proposal Regarding Government Takedown Requests",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a semi-annual published report on Meta's policy for responding to government takedown requests, itemizing each request, Meta's action, and rationale.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Therefore, our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Regarding Dual Class Capital Structure",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan and the Comptroller of the State of New York, Thomas P. DiNapoli, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests a recapitalization plan, phased out within seven years, giving all outstanding stock one vote per share by eliminating Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "We believe that our capital structure is in the best interests of Meta and its shareholders and that our current corporate governance structure is sound and effective."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Human Rights Impact Assessment of Targeted Advertising",
+    "proponent": "Mercy Investment Services, Inc. and co-filers AXA Investment Managers Paris, Benedictine Sisters of Mount St. Scholastica, CommonSpirit Health, Missionary Oblates of Mary Immaculate-US Province, and Northwest & Ethical Investments L.P.",
+    "topic_summary": "Requests publication by June 1, 2024 of an independent third-party Human Rights Impact Assessment of Facebook's targeted advertising policies and practices.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The requested report is unnecessary and would not provide additional benefit to shareholders in light of our existing practices, oversight, and disclosures regarding human rights."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Report on Lobbying Disclosures",
+    "proponent": "United Church Funds",
+    "topic_summary": "Requests an annually updated report disclosing Meta's lobbying policies, payments for direct, indirect and grassroots lobbying including recipients, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Given our existing transparency around our lobbying activity, our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Report on Allegations of Political Entanglement and Content Management Biases in India",
+    "proponent": "SumOfUs on behalf of Mari Mennel-Bell",
+    "topic_summary": "Requests a nonpartisan assessment of allegations of political entanglement and content moderation bias in Meta's India operations, with results disclosed to investors.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "the requested report is unnecessary and would not provide additional benefit to our shareholders."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding Report on Framework to Assess Company Lobbying Alignment with Climate Goals",
+    "proponent": "Presbyterian Church (U.S.A.) and co-filer Portico Benefit Services",
+    "topic_summary": "Requests a report on the framework for identifying and addressing misalignments between Meta's lobbying and its Net Zero 2030 emissions commitment.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the board of directors believes that the requested report is unnecessary."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal Regarding Report on Reproductive Rights and Data Privacy",
+    "proponent": "Arjuna Capital on behalf of Frank Konhaus and Ellen Cassilly",
+    "topic_summary": "Requests a report assessing feasibility of reducing abortion-related law enforcement data requests through expanded consumer privacy protections and controls over sensitive user data.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The requested report is unnecessary given our existing efforts to protect user privacy and ongoing transparency on this topic."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal Regarding Report on Enforcement of Community Standards and User Content",
+    "proponent": "As You Sow on behalf of Meyer Memorial Trust and co-filer As You Sow on behalf of the Remmer Family Foundation Inc and Thomas Van Dyck",
+    "topic_summary": "Requests a report analyzing why enforcement of Community Standards has been ineffective at limiting hate speech, disinformation and harmful content, with external assessment.",
+    "category": "safety",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Given our ongoing efforts to address this topic, the board of directors does not believe that the requested report would provide additional benefit to our shareholders."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal Regarding Report on Child Safety Impacts and Actual Harm Reduction to Children",
+    "proponent": "Proxy Impact on behalf of the Lisette Cooper 2015 Trust and the Linda C. Wisnewski Trust and co-filers Adrian Dominican Sisters, Maryknoll Sisters of St. Dominic, Inc., Sisters of St. Joseph of Peace, the Durocher Fund, and the Domestic and Foreign Missionary Society of the Protestant Episcopal Church in the United States of America",
+    "topic_summary": "Requests adoption of child safety targets and an annual report with quantitative metrics on Meta's performance in reducing harm to children on its platforms.",
+    "category": "safety",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Given our ongoing efforts to address this topic, the board of directors does not believe that the requested report would provide additional benefit to our shareholders."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal Regarding Report on Pay Calibration to Externalized Costs",
+    "proponent": "The Shareholder Commons on behalf of Catherine Raphael",
+    "topic_summary": "Requests a report on feasibility of setting specific weights or dollar amounts in executive base and bonus pay calibrated to costs externalized by company operations.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Shareholder Proposal Regarding Performance Review of the Audit & Risk Oversight Committee",
+    "proponent": "Harrington Investments, Inc. and co-filer Mary Hawkins",
+    "topic_summary": "Requests an independent review of the Audit and Risk Oversight Committee's role in Board oversight of material risks to public well-being from Meta's operations, with public summary.",
+    "category": "integrity",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our shareholders."
+   }
+  ]
+ }
+}

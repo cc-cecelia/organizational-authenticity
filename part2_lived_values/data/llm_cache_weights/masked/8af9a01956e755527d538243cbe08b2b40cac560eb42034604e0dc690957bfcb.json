@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "8af9a01956e755527d538243cbe08b2b40cac560eb42034604e0dc690957bfcb",
+  "est_input_tokens": 24581
+ },
+ "usage": {
+  "input_tokens": 25408,
+  "output_tokens": 445
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute Financial Performance (year-over-year growth of adjusted net income)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Financial Performance (net income growth vs. technology peer companies)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational Performance (business unit operational goals)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "subject to any adjustment for performance against corporate-level diversity and inclusion goal (focused on hiring and retaining diverse talent\u2014not achieved)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a # individual performance-based adjustment to the annual incentive cash performance results"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "This is primarily in the form of OSUs that vest based on Intel's TSR as measured against the S&P #IT Index over a three-year period"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Intel's TSR performance during the #-month period starting from the grant date will be measured against the S&P #IT Index"
+   }
+  ],
+  "equal_split": []
+ }
+}

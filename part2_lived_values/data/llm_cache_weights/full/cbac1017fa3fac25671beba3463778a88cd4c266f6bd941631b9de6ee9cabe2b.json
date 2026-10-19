@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "cbac1017fa3fac25671beba3463778a88cd4c266f6bd941631b9de6ee9cabe2b",
+  "est_input_tokens": 32279
+ },
+ "usage": {
+  "input_tokens": 34229,
+  "output_tokens": 607
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDS Committee weighed the Firm's overall financial performance and, as applicable, business unit performance and achievement of its long-term strategic objectives."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business unit performance: Institutional Securities net revenues, Wealth Management and Investment Management results discussed in detail"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In addition to the performance factors discussed above, the CMDS Committee considered the following individual contributions of the CEO and each other NEO."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Firm maintains strong risk management policies and considers the risk attributes of the Firm's incentive compensation arrangements and incorporates financial and non-financial risk management performance factors"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "incorporates financial and non-financial risk management performance factors, including conduct risk, in making compensation decisions"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One-half of the target PSU award is earned based on the Firm's average ROTCE over the three-year performance period (MS Average ROTCE)."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The other half of the target PSU award is earned based on the Firm's average ROTCE over the three-year performance period relative to the ROTCE of each member of a peer group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target PSU award is earned based on the Firm's average ROTCE over the three-year performance period"
+   }
+  ]
+ }
+}

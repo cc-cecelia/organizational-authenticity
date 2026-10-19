@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-142785",
+  "task": "incentives",
+  "section_words": 9810,
+  "section_method": "heading",
+  "cache_key": "542638eec7cdd753697f887d269f6af4951402b9fa59abd429587f214dbcefc1",
+  "est_input_tokens": 21104
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24676,
+  "output_tokens": 891,
+  "request_id": "req_011CgCBeu88yXAeQEG3Gdgyi"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Fiscal 2017 MIP (Corporate)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Fiscal 2017 MIP (Corporate)"
+   },
+   {
+    "metric": "Corporate performance target under LRPIP",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance-based conditions are tied to the corporate performance target under our LRPIP"
+   }
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "07dfe652515a300a48bfa1fb8b48e40939b540aef73c9d24b0654c2dabe99b30",
+  "est_input_tokens": 18692
+ },
+ "usage": {
+  "input_tokens": 21437,
+  "output_tokens": 756
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | 30% | 252.7 billion | 266.0 billion | 279.3 billion | 257.1 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the increased weight on Operating Income reflects that it is a primary driver of management decision making, a key metric for shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | 15% | 16.2 billion | 19.0 billion | 21.9 billion | 22.2 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reweighted the two resulting Stewardship metrics (Net Promoter Score and EXI) equally to comprise 25 percent of the annual incentive scorecard in aggregate."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Reweighted the two resulting Stewardship metrics (Net Promoter Score and EXI) equally to comprise 25 percent of the annual incentive scorecard in aggregate."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Replaced the teamwork and engagement metrics with a single Employee Experience Index (EXI) the Company has been using for several years."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity for the three-year performance period."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity | 50% | 20.8% | 22.8% | 24.8% | 24.0%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "Reweighted the two resulting Stewardship metrics (Net Promoter Score and EXI) equally to comprise 25 percent of the annual incentive scorecard in aggregate."
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity for the three-year performance period."
+   }
+  ]
+ }
+}

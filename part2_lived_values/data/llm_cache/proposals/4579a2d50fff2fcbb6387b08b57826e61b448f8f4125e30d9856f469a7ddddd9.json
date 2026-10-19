@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001047469-17-001778",
+  "task": "proposals",
+  "section_words": 3434,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "4579a2d50fff2fcbb6387b08b57826e61b448f8f4125e30d9856f469a7ddddd9",
+  "est_input_tokens": 7950
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9049,
+  "output_tokens": 371,
+  "request_id": "req_011CgCAbzBo198CsmqUmHNmF"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on Lobbying Report",
+    "proponent": "Zevin Asset Management, on behalf of William Creighton, and co-filer UAW Retiree Medical Benefits Trust",
+    "topic_summary": "Requests an annually updated report disclosing AbbVie's direct and indirect lobbying policies, payments, trade association model-legislation memberships, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal to Separate Chair and CEO",
+    "proponent": "Congregation of Sisters of St. Agnes",
+    "topic_summary": "Requests a policy, phased in at the next CEO transition, requiring the Board Chair to be an independent director whenever possible.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000059478-19-000146",
+  "task": "proposals",
+  "section_words": 2933,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1ff7c459bb14e7a25b5a183664a635e311355b1b08c433d39ebc95b5d070800d",
+  "est_input_tokens": 6588
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7590,
+  "output_tokens": 201,
+  "request_id": "req_011CgCARcYWfHm7irQT27yha"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal Requesting a Report Regarding Direct and Indirect Political Expenditures",
+    "proponent": "National Center for Public Policy Research (NCPPR)",
+    "topic_summary": "Requests an annually updated report disclosing lobbying policies, direct and indirect lobbying payments, grassroots lobbying communications, trade association model-legislation payments, and oversight decision-making.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

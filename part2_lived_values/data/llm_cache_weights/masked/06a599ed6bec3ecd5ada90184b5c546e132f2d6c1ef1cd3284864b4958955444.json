@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "06a599ed6bec3ecd5ada90184b5c546e132f2d6c1ef1cd3284864b4958955444",
+  "est_input_tokens": 20931
+ },
+ "usage": {
+  "input_tokens": 20598,
+  "output_tokens": 341
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue is defined as our GAAP revenues, as may be adjusted for certain acquisitions."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Operating Cash Flow\" is defined as our GAAP operating cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR as the performance metric, with the NASDAQ #Index group of companies as of the grant date being the comparison group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the bonus pool for executive officers is based on the Company's performance during the fiscal year compared to pre-established target levels for three [w] measures"
+   }
+  ]
+ }
+}

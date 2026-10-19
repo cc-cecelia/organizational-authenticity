@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001193125-17-083730",
+  "task": "proposals",
+  "section_words": 5120,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c797611d2d2c532ca654b306b610324b925e0a2342f98e56715846c24b49199e",
+  "est_input_tokens": 11600
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13707,
+  "output_tokens": 932,
+  "request_id": "req_011CgCC9249SKAejHKa6EiGf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proposal Seeking Various Disclosures Respecting Environmental and Human Rights Due Diligence",
+    "proponent": "Thomas P. DiNapoli, the Comptroller of the State of New York, as trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests a report describing the due diligence process used to identify and address environmental and social risks, including Indigenous rights risk, in reviewing potential acquisitions.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS YOU VOTE AGAINST THIS SHAREHOLDER PROPOSAL SEEKING VARIOUS DISCLOSURES RESPECTING ENVIRONMENTAL AND HUMAN RIGHTS DUE DILIGENCE."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal No. 6 \u2013 Shareholder Proposal Seeking the Disclosure of Our Strategy to Align Our Business Plan with the 2-Degree Goal of the Paris Agreement",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests a report by December 30, 2017 on the company's strategy for aligning its business plan with the well below 2 degree Celsius goal of the Paris Agreement.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS YOU VOTE AGAINST THIS SHAREHOLDER PROPOSAL SEEKING THE DISCLOSURE OF OUR STRATEGY TO ALIGN OUR BUSINESS PLAN WITH THE 2-DEGREE GOAL OF THE PARIS AGREEMENT."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal No. 7 \u2013 Shareholder Proposal Seeking Simple Majority Vote Provisions",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests elimination of supermajority voting requirements in the charter and bylaws, replaced by a majority of votes cast or simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS YOU VOTE AGAINST THIS SHAREHOLDER PROPOSAL SEEKING TO ELIMINATE LIMITED SUPERMAJORITY VOTING REQUIREMENTS FROM OUR CORPORATE GOVERNANCE DOCUMENTS."
+   }
+  ]
+ }
+}

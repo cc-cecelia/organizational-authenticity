@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0000354950-22-000116",
+  "task": "proposals",
+  "section_words": 16776,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ce229b7c657a49d0dcdb9645b632de563019c91af117ad161987d2afb3e504c2",
+  "est_input_tokens": 36898
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37345,
+  "output_tokens": 1694,
+  "request_id": "req_011CgCBK6AbhHh2wsHGMBEN7"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Right to Call a Special Shareholder Meeting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents so holders of 10% of outstanding common stock can call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Company recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Request for Board of Directors to Adopt Policy for an Independent Chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Asks the board to adopt a policy and amend bylaws requiring the Board Chair to be an independent member of the Board.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Company recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "POLITICAL SPENDING MISALIGNMENT",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Asks the company to publish an annual report analyzing whether political and electioneering expenditures align with publicly stated company values and policies.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Achieving Gender and Racial Equity on the Board of Directors",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Asks the board to report within six months on action steps to foster greater racial and gender equity on the board.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "REPORT ON DEFORESTATION",
+    "proponent": "Green Century Capital Management, Inc.",
+    "topic_summary": "Asks the company to issue a report assessing how it could increase the scale, pace, and rigor of efforts to eliminate deforestation and primary forest degradation in its supply chains.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "RACIAL EQUITY AUDIT",
+    "proponent": "Service Employees International Union Master Trust",
+    "topic_summary": "Urges the board to oversee an independent racial equity audit analyzing the company's adverse impacts on nonwhite stakeholders and communities of color, with public disclosure.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

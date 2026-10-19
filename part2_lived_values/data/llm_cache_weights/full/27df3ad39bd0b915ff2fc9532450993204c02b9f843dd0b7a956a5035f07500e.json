@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "27df3ad39bd0b915ff2fc9532450993204c02b9f843dd0b7a956a5035f07500e",
+  "est_input_tokens": 24516
+ },
+ "usage": {
+  "input_tokens": 25412,
+  "output_tokens": 746
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "60% of target is performance-based (Total Cost per Barrel (TCPB) and core Earnings per Share (Core EPS))"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Core Earnings per Share (Core EPS) was chosen as a performance metric to underlie the Annual Cash Incentive"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payout is determined by the Compensation Committee's subjective assessment of an executive's handling of certain key performance areas"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Succession planning;"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Functional and operating accomplishments;"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Governance and ethical conduct;"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Health, environment and safety responsibilities; and"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Encouragement of diversity and inclusion."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Return on Capital Employed (ROCE) Award. The ROCE award is designed to ensure a high level of executive focus on one of Occidental's key objectives"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Assets (ROA) Awards. The ROA awards are designed to reward operating unit executives for performance within their direct areas of responsibility"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (TSR) Award. The Compensation Committee believes that the comparison of Occidental's TSR"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance Retention Incentive (PRI) Award. The PRI award introduced in 2015 replaced the Restricted Stock Incentive (RSI) award."
+   }
+  ],
+  "equal_split": []
+ }
+}

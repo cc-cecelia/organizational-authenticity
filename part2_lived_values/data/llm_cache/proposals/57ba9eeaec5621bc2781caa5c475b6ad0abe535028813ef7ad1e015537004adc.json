@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001193125-20-108770",
+  "task": "proposals",
+  "section_words": 1659,
+  "section_method": "resolved_windows",
+  "cache_key": "57ba9eeaec5621bc2781caa5c475b6ad0abe535028813ef7ad1e015537004adc",
+  "est_input_tokens": 3891
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5203,
+  "output_tokens": 175,
+  "request_id": "req_011CgCBdstwi1BSzEoCyiUh2"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Make Shareholder Right to Call Special Meeting More Accessible",
+    "proponent": "not stated",
+    "topic_summary": "Asks the company to make it easier for shareholders to call a special meeting by lowering the ownership threshold, currently 25%.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" this shareholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001326801-16-000074",
+  "task": "incentives",
+  "section_words": 5912,
+  "section_method": "heading",
+  "cache_key": "9c8d73fdf16c68faa6cb2da62e8e716406b3cb555c2e8b997a1adbdb4ca22338",
+  "est_input_tokens": 13846
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14468,
+  "output_tokens": 2962,
+  "request_id": "req_011CgC9M3tkVtEjCtz7cu3gb"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company performance percentage",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The compensation & governance committee applied discretion in determining the company performance percentage on a qualitative basis"
+   },
+   {
+    "metric": "Individual performance percentage",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In 2015, potential individual performance percentages under our Bonus Plan were 0%, 85%, 100%, 125%, 200%, or 300%."
+   },
+   {
+    "metric": "Overall performance, impact, and results",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The compensation & governance committee evaluates our executive officers based on their overall performance, impact, and results"
+   },
+   {
+    "metric": "Leadership, long-term vision, effective execution, and management capabilities",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "as well as their demonstration of strong leadership, long-term vision, effective execution, and management capabilities"
+   },
+   {
+    "metric": "Grow our user base across all our products",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "grow our user base across all our products, increase sharing and engagement"
+   },
+   {
+    "metric": "Increase sharing and engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "grow our user base across all our products, increase sharing and engagement"
+   },
+   {
+    "metric": "Continue to achieve revenue growth",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency"
+   },
+   {
+    "metric": "Significant savings from efficiency",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency, improve product quality"
+   },
+   {
+    "metric": "Improve product quality",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improve product quality, improve our brand, and make progress toward our long-term investments"
+   },
+   {
+    "metric": "Improve our brand",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improve product quality, improve our brand, and make progress toward our long-term investments"
+   },
+   {
+    "metric": "Make progress toward our long-term investments",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improve product quality, improve our brand, and make progress toward our long-term investments"
+   }
+  ]
+ }
+}

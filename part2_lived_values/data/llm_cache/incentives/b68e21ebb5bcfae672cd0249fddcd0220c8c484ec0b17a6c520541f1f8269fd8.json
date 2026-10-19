@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000164",
+  "task": "incentives",
+  "section_words": 4476,
+  "section_method": "heading",
+  "cache_key": "b68e21ebb5bcfae672cd0249fddcd0220c8c484ec0b17a6c520541f1f8269fd8",
+  "est_input_tokens": 10384
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12639,
+  "output_tokens": 1256,
+  "request_id": "req_011CgCAgjuCTCxNJWwbnk4C1"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and pre-tax income are equally weighted at 40% each and targets are established based on our annual operating plan"
+   },
+   {
+    "metric": "Pre-tax income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and pre-tax income are equally weighted at 40% each"
+   },
+   {
+    "metric": "Pipeline",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline milestones are the final component of the Scorecard and are weighted at 20%."
+   },
+   {
+    "metric": "Approval Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Approval Milestones | 5%"
+   },
+   {
+    "metric": "Filing Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Filing Milestones | 5%"
+   },
+   {
+    "metric": "Global Development Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Global Development Milestones | 5%"
+   },
+   {
+    "metric": "Discovery & Early Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Discovery & Early Development | 5%"
+   },
+   {
+    "metric": "Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Beginning with awards granted in 2017, these metrics included earnings per share, OCF and relative TSR."
+   },
+   {
+    "metric": "Operating Cash Flow (OCF)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Beginning with awards granted in 2017, these metrics included earnings per share, OCF and relative TSR."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each percentage point of outperformance or underperformance versus the median modifies the earned award by +/- 5%."
+   }
+  ]
+ }
+}

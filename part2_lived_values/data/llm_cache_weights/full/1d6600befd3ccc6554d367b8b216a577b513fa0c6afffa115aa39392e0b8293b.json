@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "1d6600befd3ccc6554d367b8b216a577b513fa0c6afffa115aa39392e0b8293b",
+  "est_input_tokens": 14610
+ },
+ "usage": {
+  "input_tokens": 15213,
+  "output_tokens": 604
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Approvals | 1 new drug first approval 9 other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Chief scientific officer's assessment of performance against strategic objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "performance awards-equity awards that vest over three years with a performance component measuring the company's two-year growth in EPS"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Shareholder value awards are earned based on Lilly's share price (and beginning with 2016 grants, relative TSR performance)."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a modifier based on Lilly's three-year cumulative TSR relative to our peer companies' median TSR performance will be applied"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The 2017 weightings remained unchanged from the prior year"
+   }
+  ]
+ }
+}

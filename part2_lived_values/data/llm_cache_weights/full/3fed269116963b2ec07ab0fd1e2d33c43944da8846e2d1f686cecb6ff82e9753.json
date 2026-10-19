@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3fed269116963b2ec07ab0fd1e2d33c43944da8846e2d1f686cecb6ff82e9753",
+  "est_input_tokens": 22556
+ },
+ "usage": {
+  "input_tokens": 23809,
+  "output_tokens": 779
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue Growth (50%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings per Share (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity (25%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Promoter Score (33%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Retention (33%)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Merchant Locations (33%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Talent Retention (33%)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture (33%)"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diversity Representation"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic category: expand leadership in the premium consumer space, build on commercial payments"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Continue to uplift the control and compliance environment across the enterprise"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Continue to progress on key ESG goals"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Vesting of awards contingent on relative ROE and relative TSR performance versus a set of performance peers"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR performance in the 67th Percentile or better will not impact the relative ROE Performance payout"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Awards vest subject to positive cumulative net income over the 3-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Shareholder quadrant weights: Revenue Growth (50%), Earnings per Share (25%), Return on Equity (25%)"
+   }
+  ]
+ }
+}

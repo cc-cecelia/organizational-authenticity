@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-118007",
+  "task": "incentives",
+  "section_words": 11218,
+  "section_method": "heading",
+  "cache_key": "b20ecfc8674832e985327ee0b7745a2ec74cd1fbc74c41ba4e232d205bfe253b",
+  "est_input_tokens": 26302
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28671,
+  "output_tokens": 1128,
+  "request_id": "req_011CgCABEHAfHHK4qCQxVHcC"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial Performance (50% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "metric": "Business Strength (30% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "metric": "Organizational Strength (20% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% dependent on BlackRock's progress towards meeting its organizational priorities"
+   },
+   {
+    "metric": "Inclusion and diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Oversaw progress toward our senior women leadership target of 30%"
+   },
+   {
+    "metric": "Purpose and culture",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "emphasized the importance of culture globally, as evidenced by the 2020 Employee Opinion Survey results"
+   },
+   {
+    "metric": "Attract and inspire talent",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Drove increased senior leader accountability of talent and succession"
+   },
+   {
+    "metric": "Organic Revenue growth (3-year average annual, BPIP)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "metric": "Operating Margin, as adjusted (3-year average annual, BPIP)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on attainment of specified levels of Organic Revenue growth and Operating Margin, as adjusted, over the three-year performance period"
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001558370-23-005957",
+  "task": "proposals",
+  "section_words": 10850,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "889d7e28a10910260946ff4ea91292722d2b3aea4ae7864640b7e350bd3c6d13",
+  "est_input_tokens": 25884
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28656,
+  "output_tokens": 1287,
+  "request_id": "req_011CgCBPYFNFVAVcbCgWtziB"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Advisory Vote on Adoption of Antibiotics Policy (1 of 2)",
+    "proponent": "The Benedictine Sisters of Boerne, Texas; Green Century Capital Management, Inc., on behalf of the Green Century Equity Fund",
+    "topic_summary": "Requests an enterprise-wide policy to phase out medically-important antibiotics for disease prevention in beef and pork supply chains, with sourcing targets, timelines, metrics and third-party verification.",
+    "category": "customers",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Advisory Vote on Adoption of Antibiotics Policy (2 of 2)",
+    "proponent": "The Shareholder Commons, on behalf of H.E.S.T. Australia Ltd.",
+    "topic_summary": "Requests a policy that McDonald's comply with WHO Guidelines on Use of Medically Important Antimicrobials in Food-Producing Animals throughout its supply chains.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Advisory Vote on Annual Report on \"Communist China\"",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests an annual report on the nature and extent to which corporate operations depend on and are vulnerable to Communist China.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 7."
+   },
+   {
+    "item_number": "8",
+    "title": "Advisory Vote on Civil Rights & Returns to Merit Audit",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests an audit analyzing impacts of the Company's Diversity, Equity & Inclusion policies on civil rights, non-discrimination and returns to merit, publicly disclosed.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 8."
+   },
+   {
+    "item_number": "9",
+    "title": "Advisory Vote on Annual Report on Lobbying Activities",
+    "proponent": "SOC Investment Group",
+    "topic_summary": "Requests an annual report disclosing lobbying policies, direct and indirect lobbying and grassroots payments, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 9."
+   },
+   {
+    "item_number": "10",
+    "title": "Advisory Vote on Annual Report on Global Political Influence",
+    "proponent": "John Harrington",
+    "topic_summary": "Requests an annual transparency report on global public policy and political influence, disclosing expenditures and activities outside the United States.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 10."
+   },
+   {
+    "item_number": "11",
+    "title": "Advisory Vote on Poultry Welfare Disclosure",
+    "proponent": "The Humane Society of the United States",
+    "topic_summary": "Requests disclosure of the specific \"15 key welfare indicators\" used in the company's chicken animal welfare program and how each is used.",
+    "category": "other",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" Proposal 11."
+   }
+  ]
+ }
+}

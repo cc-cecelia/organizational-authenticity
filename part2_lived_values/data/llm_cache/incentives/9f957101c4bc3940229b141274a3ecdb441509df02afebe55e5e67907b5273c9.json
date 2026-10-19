@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001104659-24-053333",
+  "task": "incentives",
+  "section_words": 6750,
+  "section_method": "heading",
+  "cache_key": "9f957101c4bc3940229b141274a3ecdb441509df02afebe55e5e67907b5273c9",
+  "est_input_tokens": 14690
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16277,
+  "output_tokens": 875,
+  "request_id": "req_011CgCBCz4KppytfDzqC32Ag"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Revenue milestones (2018 CEO Performance Award operational milestones, $20B to $175B)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability, was met"
+   },
+   {
+    "metric": "Adjusted EBITDA milestones (2018 CEO Performance Award operational milestones, $1.5B to $14B)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "\"Adjusted EBITDA\" means (i) net income (loss) attributable to common stockholders before (ii) interest expense"
+   },
+   {
+    "metric": "Market capitalization milestones (2018 CEO Performance Award, first tranche $100 billion, increasing by $50 billion increments)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the market capitalization milestone for such tranche, which began at $100 billion for the first tranche and increased by increments of $50 billion thereafter"
+   },
+   {
+    "metric": "Sustained incremental $4 billion increase in market capitalization (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "metric": "Operational milestones relating to Model X or Model 3 development, aggregate vehicle production or gross margin target (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the achievement of a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   }
+  ]
+ }
+}

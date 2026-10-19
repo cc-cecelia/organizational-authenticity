@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0000320187-24-000045",
+  "task": "proposals",
+  "section_words": 9045,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f83d1b8dcd4f465d42c9e61c0437771abab8c0004e39e00caec297a374795f58",
+  "est_input_tokens": 21590
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23155,
+  "output_tokens": 1152,
+  "request_id": "req_011CgCBUri1NxgxQzq7KzTbB"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "PROPOSAL 4 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING SUPPLEMENTAL PAY EQUITY DISCLOSURE",
+    "proponent": "Robert and Mary McInnes, c/o Arjuna Capital",
+    "topic_summary": "Requests Nike report on median pay gaps across race and gender, including associated risks, at reasonable cost.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response"
+   },
+   {
+    "item_number": "5",
+    "title": "PROPOSAL 5 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING A SUPPLY CHAIN MANAGEMENT REPORT",
+    "proponent": "Tulipshare Ltd., c/o Tulipshare Capital LLC",
+    "topic_summary": "Requests a board report assessing supply chain infrastructure alignment with equity goals and human rights commitments, including forced labor and wage theft risks.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response"
+   },
+   {
+    "item_number": "6",
+    "title": "PROPOSAL 6 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING WORKER-DRIVEN SOCIAL RESPONSIBILITY",
+    "proponent": "Domini Impact Equity Fund and other co-filers",
+    "topic_summary": "Requests a report evaluating how worker-driven social responsibility principles and binding agreements would affect identifying and remediating human rights issues in high-risk sourcing.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response"
+   },
+   {
+    "item_number": "7",
+    "title": "PROPOSAL 7 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING ENVIRONMENTAL TARGETS",
+    "proponent": "Trium Sustainable Innovators funds",
+    "topic_summary": "Requests a report analyzing failure to meet FY15-20 sustainability targets, governance around sustainability, and measures to achieve sustainability objectives.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response"
+   },
+   {
+    "item_number": "8",
+    "title": "PROPOSAL 8 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING A DIVISIVE PARTNERSHIPS CONGRUENCY REPORT",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a report listing and analyzing voluntary partnerships and whether partners' agendas are congruent with the Company's fiduciary duty to shareholders.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response"
+   }
+  ]
+ }
+}

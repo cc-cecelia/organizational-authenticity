@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "f9868633d92c42d72994b76d74560bc9221ca24c9baf8ebdf9c2c410fe9a6f14",
+  "est_input_tokens": 11972
+ },
+ "usage": {
+  "input_tokens": 12802,
+  "output_tokens": 797
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial goals for Citi's business leaders, including the CEO, continue to be [w] # in the performance evaluation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the #non-financial goals reflect an enhanced emphasis on those considerations"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citigroup Income from Continuing Operations Before Taxes"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citigroup Efficiency Ratio"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "return on tangible common equity as our primary returns metric"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Ratio"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Surplus"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Risk management excellence and dedication to supporting robust control systems are a foundation of Citi's executive compensation program"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "leadership in establishing a culture of ethical business conduct"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "achievement against human capital management goals such as addressing representation of women and U.S. minorities in senior roles"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes # performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "cumulative earnings per share, which are forward-looking operational metrics used by investors to assess our performance over time"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Ultimate value of earned units linked to Citi total shareholder return"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Financial goals for Citi's business leaders, including the CEO, continue to be [w] # in the performance evaluation"
+   }
+  ]
+ }
+}

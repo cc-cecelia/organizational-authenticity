@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "a171031e4240214e33b91b4767702548153d93602ac385878d4b2ee93b100eff",
+  "est_input_tokens": 17947
+ },
+ "usage": {
+  "input_tokens": 18237,
+  "output_tokens": 418
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The [w] of each of the sales and operating profit measures was aligned to emphasize top line sales growth balanced with the Company's continued focus on profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our MIP paid out below the target level as a result of performance below target for the sales and operating profit metrics."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an increase in the inventory turns performance metric due to improved supply chain and inventory conditions"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "payout contingent on achieving pre-established average ROIC and average operating profit targets over the #-year performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "payout contingent on achieving pre-established average ROIC and average operating profit targets over the #-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Profit threshold must be met for any MIP payout to occur. The operating profit threshold must be met for any MIP payout to occur."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0000320187-22-000041",
+  "task": "incentives",
+  "section_words": 8409,
+  "section_method": "heading",
+  "cache_key": "6d3c207f7e030184ed264616c9279ff51fe2ea5a378b015fa7d70c31070370c8",
+  "est_input_tokens": 19790
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21815,
+  "output_tokens": 3710,
+  "request_id": "req_011CgCBRo7P646jDvz8kpccm"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In June 2021, the Compensation Committee selected three equally-weighted metrics and corresponding performance goals for the fiscal 2022 PSP awards."
+   },
+   {
+    "metric": "Adjusted Digital Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company revenue generated through sales on NIKE digital platforms (\"Digital Revenue\"), to support digital growth in connection with our Consumer Direct Acceleration strategy"
+   },
+   {
+    "metric": "Adjusted EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earnings before interest and taxes (\"EBIT\"), to manage overall profitability"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee selected as the metric for the fiscal 2022 \u2013 2024 PSU awards the Company's total shareholder return (\"Absolute TSR\")"
+   },
+   {
+    "metric": "People & Planet modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjust the earnout upwards or downwards by up to 20 percentage points"
+   },
+   {
+    "metric": "employee engagement and inclusion",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "metric": "leadership diversity",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "metric": "sustainability",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "NIKE's Relative TSR for fiscal years 2020 \u2013 2022 was at the 50th percentile, corresponding to an earnout of 89%"
+   }
+  ]
+ }
+}

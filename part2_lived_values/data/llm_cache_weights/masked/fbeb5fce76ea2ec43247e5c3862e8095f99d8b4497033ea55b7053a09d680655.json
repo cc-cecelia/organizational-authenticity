@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "fbeb5fce76ea2ec43247e5c3862e8095f99d8b4497033ea55b7053a09d680655",
+  "est_input_tokens": 17584
+ },
+ "usage": {
+  "input_tokens": 18497,
+  "output_tokens": 1175
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "to emphasize top line sales growth balanced with the Company's continued focus on profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "it is a key corporate goal that takes into account both revenue and expense"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the LDC Committee decided to reduce the [w] for the inventory turns goal from # to #"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC for each year in the performance period is defined as operating profit, net of tax"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "granted performance-based restricted stock awards that were forfeitable if operating profit was less than"
+   }
+  ],
+  "equal_split": []
+ }
+}

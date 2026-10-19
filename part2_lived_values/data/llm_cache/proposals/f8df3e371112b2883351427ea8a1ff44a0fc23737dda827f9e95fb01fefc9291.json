@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001206774-21-000875",
+  "task": "proposals",
+  "section_words": 5279,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f8df3e371112b2883351427ea8a1ff44a0fc23737dda827f9e95fb01fefc9291",
+  "est_input_tokens": 11977
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12970,
+  "output_tokens": 344,
+  "request_id": "req_011CgCByq5qBMbPQbq4qSNqp"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal \u2013 Simple Majority Vote Standard",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to eliminate supermajority voting requirements in charter and bylaws, replacing them with a majority of votes cast for and against applicable proposals.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "for",
+    "evidence": "The Board recommends you vote FOR this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal \u2013 Emission Reduction Targets",
+    "proponent": "Follow This",
+    "topic_summary": "Requests the company set GHG emission reduction targets covering operations and energy products (Scope 1, 2 and 3) consistent with the Paris Climate Agreement.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "70c950940a7b46c689259c3c0b9c0a543a8a2f4a9bddd834b479f65d3db34f68",
+  "est_input_tokens": 9607
+ },
+ "usage": {
+  "input_tokens": 9937,
+  "output_tokens": 303
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual incentive payouts are determined based on an equal weighting for the net sales and operating income performance measures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Net sales and operating income, as determined in accordance with generally accepted accounting principles, are used as the performance measures for the annual cash incentive program"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of performance-based RSUs that vest depends on Apple's total shareholder return relative to the other companies in the S&P 500 (\"Relative TSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Annual cash incentive payouts are determined based on an equal weighting for the net sales and operating income performance measures"
+   }
+  ]
+ }
+}

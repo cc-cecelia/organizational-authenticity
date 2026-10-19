@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "19b09daf975eea9be6c215df99e29492252a71aadb4b3e6c600375351a5f5e04",
+  "est_input_tokens": 29998
+ },
+ "usage": {
+  "input_tokens": 31850,
+  "output_tokens": 1299
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income Per Barrel | Measures domestic operating income per barrel of crude oil throughput, adjusted for unusual business items and accounting changes."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA (b) | As derived from our consolidated financial statements and adjusted for certain items."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical availability represents the percentage of capacity available for critical downstream and midstream equipment to perform its primary function for the full year."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our actual selling, general and administrative expenses adjusted for certain items."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "to add a metric based on distributable cash flow (DCF) attributable to MPLX to increase focus on growing the midstream business we sponsor."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Actual readiness and execution of dropping assets and services generating a specified amount of EBITDA to MPLX."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The metrics below measure our success in meeting our goals for the health and safety of our employees, contractors and neighboring communities"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Marathon Safety Performance Index (h) | Measurement of our success and commitment to employee safety."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate | Measures the success of our ability to identify, understand and control process hazards"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents | Measures environmental performance and consists of tracking certain"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Quality | Measures the impact of product quality incidents and cumulative costs to us"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Talent development, retention, succession and acquisition"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Enhancement of shareholder value through return of capital and unlocking midstream asset value"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "System integration, optimization and debottlenecking"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Growth through organic expansion and acquisition opportunities"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Growth of market share for gasoline and diesel"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Preparation of assets for potential dropdown to MPLX"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Progress on diversity initiatives"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPC performance units exceed target value only with above-median relative TSR ranking among our peers"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX performance units exceed target value only with above-median relative TUR ranking among our peers"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The DCF-per-MPLX-common-unit metric was added to all performance unit grants starting in 2017."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Achieving above target payouts from the MPLX performance unit program would require at least one of these two metrics"
+   }
+  ]
+ }
+}

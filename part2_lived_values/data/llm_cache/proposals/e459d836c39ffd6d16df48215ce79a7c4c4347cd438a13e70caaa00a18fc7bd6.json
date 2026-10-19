@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001308179-22-000265",
+  "task": "proposals",
+  "section_words": 2316,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e459d836c39ffd6d16df48215ce79a7c4c4347cd438a13e70caaa00a18fc7bd6",
+  "est_input_tokens": 5282
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6266,
+  "output_tokens": 209,
+  "request_id": "req_011CgCBaxyD6EX6FBqfUXzmR"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal to amend the proxy access bylaw to remove the shareholder group limit",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to enable shareholders to aggregate shares to reach 3% of stock held three years for proxy access, removing the 20-shareholder group limit.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal to amend the proxy access bylaw to remove the shareholder group limit."
+   }
+  ]
+ }
+}

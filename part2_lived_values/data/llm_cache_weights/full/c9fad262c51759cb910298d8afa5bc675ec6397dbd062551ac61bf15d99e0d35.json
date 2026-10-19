@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "c9fad262c51759cb910298d8afa5bc675ec6397dbd062551ac61bf15d99e0d35",
+  "est_input_tokens": 19578
+ },
+ "usage": {
+  "input_tokens": 20189,
+  "output_tokens": 2057
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentive Operating Income, a non-GAAP metric, represents Operating Income on a pre-short-term incentive compensation basis"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The team scorecard provides a general structure for discussing and measuring performance of the management team as a group."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "We retained $10 billion of unprecedented 2020 market share gains."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Positive progress on three-year enterprise DE&I goals. We met or exceeded our ambitious goals for representation, advancement, and experience."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Total company engagement was favorable based on our robust Annual TeamVoice survey."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Growth in same-day services, represented by 45% growth in Drive Up, Order Pickup, and Shipt"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increased guest engagement with Target Circle, bringing our total enrollment to more than 100 million members since launch."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted sales growth. The compound annual growth rate in adjusted sales over the performance period, relative to our retail peer group"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS growth. The compound annual growth rate of our EPS versus the reported EPS of our retail peer group."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC. Average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PBRSU amount will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third or bottom one-third"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Sales (50%) and Incentive Operating Income (50%)"
+   }
+  ]
+ }
+}

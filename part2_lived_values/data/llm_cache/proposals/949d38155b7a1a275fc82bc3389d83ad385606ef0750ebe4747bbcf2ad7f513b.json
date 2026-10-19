@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-528154",
+  "task": "proposals",
+  "section_words": 5599,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "949d38155b7a1a275fc82bc3389d83ad385606ef0750ebe4747bbcf2ad7f513b",
+  "est_input_tokens": 12719
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13723,
+  "output_tokens": 616,
+  "request_id": "req_011CgC9g28NaJsr1r2VpqkFt"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Implementing Principles Entitled \"Holy Land Principles\"",
+    "proponent": "Holy Land Principles, Inc.",
+    "topic_summary": "Asks the Board to make all possible lawful efforts to implement or increase activity on eight Holy Land equal employment principles in Palestine-Israel, including staff oversight and public reporting.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"Against\" this proposal because our company-wide policies already address the proposal's concerns"
+   },
+   {
+    "item_number": "5",
+    "title": "Allowing Stockholders to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the Board to permit shareholders holding the minimum votes needed to act to take action by written consent, including initiating any topic consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to grant stockholders the right to act by written consent."
+   },
+   {
+    "item_number": "6",
+    "title": "Adopting an Alternative Vote Counting Standard",
+    "proponent": "Eric Rehm and Mary Geary (represented by Newground Social Investment)",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder matters are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to adopt an alternative vote counting standard for all non-binding matters submitted by stockholders."
+   }
+  ]
+ }
+}

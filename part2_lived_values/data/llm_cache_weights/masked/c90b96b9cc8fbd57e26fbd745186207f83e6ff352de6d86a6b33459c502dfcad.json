@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "c90b96b9cc8fbd57e26fbd745186207f83e6ff352de6d86a6b33459c502dfcad",
+  "est_input_tokens": 17340
+ },
+ "usage": {
+  "input_tokens": 18799,
+  "output_tokens": 3306
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top-line growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "highlights the importance of pipeline delivery to the near-term and long-term success of the company"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Regulatory submissions and approvals for new medicines and new indications and formulations of marketed products in the U.S., EU, and Japan"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Development Candidates \u2022 First in Human \u2022 Proof of Confidence \u2022 Registrational Study Starts"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "When determining individual award levels, the Committee considers"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Drive performance of the business: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Enhance the value of the portfolio: Maximize portfolio value of new franchises/assets"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Enable a high performing organization and culture: Embed our strategy to engage, empower and enrich employees"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "continuing to deepen employee engagement as measured in surveys"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "continuing to set a firm \"tone at the top\" on a culture of business integrity, ethics and compliance"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "increased focus on the company's diversity and inclusion initiatives"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "total revenues net of foreign exchange (ex-fx), non-GAAP operating margin and #-year relative TSR"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "eliminating the use of non-GAAP EPS in our long-term incentive program"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Modifier: Relative #-year TSR"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards\u2014Performance Results"
+   }
+  ],
+  "equal_split": []
+ }
+}

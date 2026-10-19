@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "219bb4fcaa15302158065e06465a5b62ad3c318804bef30bd90630d7e9cf9035",
+  "est_input_tokens": 15301
+ },
+ "usage": {
+  "input_tokens": 17126,
+  "output_tokens": 903
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are equally weighted at 40% each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are equally weighted at 40% each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively weighted at 20% and are designed to ensure that we are focused on internal and external early discovery opportunities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2019 PSU program is linked to three-year cumulative EPS and OCF and three-year R-TSR."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three-year cumulative EPS and OCF metrics were each weighted at 25%, and R-TSR versus our pharmaceutical peer group was weighted at 50%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Assuming the spinoff occurs in 2021 as planned, we intend to revert to a three-year cumulative EPS and R-TSR design in 2022, with 50% tied to EPS and 50% tied to R-TSR."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Beginning in 2020, we removed the OCF metric and increased the weighting of EPS to streamline our program design, focusing on a single earnings metric."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The 2018 PSU program ended at the end of 2020 and the payout is described on the following page."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and Pre-Tax Income are equally weighted at 40% each"
+   }
+  ]
+ }
+}

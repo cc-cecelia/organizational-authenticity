@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000010",
+  "task": "proposals",
+  "section_words": 10297,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "6a4b44efe4c70d3d190afb6e5c757667ce4d9307b1efa8475ad9dde506c0f093",
+  "est_input_tokens": 23669
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24008,
+  "output_tokens": 889,
+  "request_id": "req_011CgC9CMgL4aXiUN1Hn7vk9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "EEO Policy Risk Report",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a public report on risks of omitting \"viewpoint\" and \"ideology\" from Apple's written EEO policy.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 4 because: we are committed to nurturing a culture where every great idea can be heard"
+   },
+   {
+    "item_number": "5",
+    "title": "Report on Ensuring Respect for Civil Liberties",
+    "proponent": "American Family Association, represented by Bowyer Research",
+    "topic_summary": "Requests an investigation and report on standards and procedures for curating app content and managing government-user rights disputes.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 5 because: Apple is committed to respecting human rights, including civil rights, freedom of expression"
+   },
+   {
+    "item_number": "6",
+    "title": "Racial and Gender Pay Gaps",
+    "proponent": "Anmol Mehra, represented by Arjuna Capital",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, with associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 6 because: we already have a comprehensive approach to promoting pay equity and diverse representation"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Use of AI",
+    "proponent": "AFL-CIO Equity Index Funds, represented by Segal Marco Advisors",
+    "topic_summary": "Requests a transparency report on Apple's use of AI in business operations and disclosure of its AI ethical guidelines.",
+    "category": "integrity",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 7 because: we are committed to responsibly advancing our products and services that use artificial intelligence"
+   },
+   {
+    "item_number": "8",
+    "title": "Congruency Report on Privacy and Human Rights",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a report analyzing congruency of Apple's privacy and human rights policies with its actions, especially in war zones and oppressive regimes.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 8 because: Apple is deeply committed to respecting human rights"
+   }
+  ]
+ }
+}

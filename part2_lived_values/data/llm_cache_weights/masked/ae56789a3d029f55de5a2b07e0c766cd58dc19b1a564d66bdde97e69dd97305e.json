@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "ae56789a3d029f55de5a2b07e0c766cd58dc19b1a564d66bdde97e69dd97305e",
+  "est_input_tokens": 31450
+ },
+ "usage": {
+  "input_tokens": 30921,
+  "output_tokens": 230
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary basis on which we set our annual performance expectations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Personal objectives are established at the start of the fiscal year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Fifty percent of the #LTI award value to our NEOs was in the form of performance share units"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The latter # of PSUs are also subject to a one-year mandatory hold period after vesting."
+   }
+  ],
+  "equal_split": []
+ }
+}

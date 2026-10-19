@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-078695",
+  "task": "proposals",
+  "section_words": 2330,
+  "section_method": "resolved_windows",
+  "cache_key": "51b424a52e705b7037770846a5e4f76610becd0249be9b9635d1e9b80a87cec3",
+  "est_input_tokens": 5531
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6708,
+  "output_tokens": 182,
+  "request_id": "req_011CgC9pJVbE1t8PRdxVyVRk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Independent Board Chair",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Requests Board adopt policy requiring the Chair of the Board be an independent member of the Board, whenever possible, with limited phase-in and waiver provisions.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" this stockholder proposal (Proposal 4)."
+   }
+  ]
+ }
+}

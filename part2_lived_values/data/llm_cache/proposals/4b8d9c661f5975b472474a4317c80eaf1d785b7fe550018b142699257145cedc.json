@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001510295-23-000028",
+  "task": "proposals",
+  "section_words": 7175,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "4b8d9c661f5975b472474a4317c80eaf1d785b7fe550018b142699257145cedc",
+  "est_input_tokens": 16793
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17869,
+  "output_tokens": 763,
+  "request_id": "req_011CgCCBgJ6F9seAf6bx4Kyw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Proposal 7. Shareholder Proposal Seeking a Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Replace each supermajority voting requirement in the charter and bylaws with a majority of votes cast for and against, or a simple majority.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends you vote AGAINST the following proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal 8. Shareholder Proposal Seeking an Amendment to Existing Clawback Provisions",
+    "proponent": "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union",
+    "topic_summary": "Expand the clawback policy to recoup incentive pay when executives' conduct or risk failures cause financial or reputational harm, and disclose such decisions.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and recommends you vote AGAINST it."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal 9. Shareholder Proposal Seeking a Report on Just Transition",
+    "proponent": "International Brotherhood of Teamsters General Fund",
+    "topic_summary": "Prepare a report on how the climate strategy affects workers and communities, consistent with ILO Just Transition guidelines, with measurable indicators.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and recommends you vote AGAINST it."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal 10. Shareholder Proposal Seeking an Audited Report on Asset Retirement Obligations",
+    "proponent": "State of New Jersey Common Pension Fund D",
+    "topic_summary": "Issue an audited report disclosing undiscounted expected costs to settle asset retirement obligations with indeterminate settlement dates by February 2024.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and recommends you vote AGAINST it."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-082951",
+  "task": "proposals",
+  "section_words": 8407,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "6c680c1d70132a957f894b35a65507a543ae963683cfef5e63cde25e21ba1b50",
+  "est_input_tokens": 18683
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21375,
+  "output_tokens": 203,
+  "request_id": "req_011CgC9zUdp2K6vopF8m97iv"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4. Shareholder Proposal Regarding Right to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board permit shareholders holding the minimum votes needed to act to take action by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

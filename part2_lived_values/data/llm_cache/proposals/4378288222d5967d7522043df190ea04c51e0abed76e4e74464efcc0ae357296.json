@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001047469-17-001940",
+  "task": "proposals",
+  "section_words": 2775,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "4378288222d5967d7522043df190ea04c51e0abed76e4e74464efcc0ae357296",
+  "est_input_tokens": 5831
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7618,
+  "output_tokens": 242,
+  "request_id": "req_011CgCAyw9MN6KKUi4sCvTAw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "ITEM 7\u2014SHAREHOLDER PROPOSAL TO LOWER THE SHARE OWNERSHIP THRESHOLD TO CALL SPECIAL SHAREHOLDER MEETINGS",
+    "proponent": "Mr. James McRitchie",
+    "topic_summary": "Asks the board to amend bylaws to let holders of 15% of outstanding common stock call a special shareowner meeting, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" the proposal."
+   }
+  ]
+ }
+}

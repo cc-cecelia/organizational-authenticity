@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001206774-21-000735",
+  "task": "incentives",
+  "section_words": 3270,
+  "section_method": "heading",
+  "cache_key": "e83490aa4b5ccbe00d76cbcee85569aec2182a8a62617c51bbceadd63fa0fcb7",
+  "est_input_tokens": 7815
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9528,
+  "output_tokens": 1572,
+  "request_id": "req_011CgCANk38jqDCdNCsP9Gyg"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The following financial performance highlights were considered by the Compensation Committee when awarding executive incentive pay for 2020"
+   },
+   {
+    "metric": "Risk and Control Management",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The following risk and control management performance highlights were considered by the Compensation Committee when awarding executive incentive pay for 2020"
+   },
+   {
+    "metric": "Leadership",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The following highlights were considered by the Compensation Committee as important examples of leadership for 2020"
+   },
+   {
+    "metric": "Client and Franchise",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The following highlights were considered by the Compensation Committee as important examples of our efforts to solidify client relationships and strengthen our franchise during 2020."
+   }
+  ]
+ }
+}

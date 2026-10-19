@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "e6adfc8ae7b3ac4d226e74ada7f8e0fa71460d8a1d8f37be31371c945e56e669",
+  "est_input_tokens": 20381
+ },
+ "usage": {
+  "input_tokens": 21192,
+  "output_tokens": 325
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "challenging overall Company goals based on adjusted operating income and adjusted net revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Operating Income. For Messrs. Schultz, Johnson, Maw, Burrows, Mutty and Ms. Helm, # of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs, where the number of shares earned is dependent on the achievement of two-year EPS and ROIC goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC. ROIC (measured on a consolidated basis) did not operate as a potential downward modifier of the fiscal #adjusted EPS result"
+   }
+  ],
+  "equal_split": []
+ }
+}

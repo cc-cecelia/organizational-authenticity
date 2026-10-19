@@ -1,0 +1,197 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "5fe5f25f5f8211115337baa1895c55f6d2148b2174bc953dfe46c6d96d195c84",
+  "est_input_tokens": 20386
+ },
+ "usage": {
+  "input_tokens": 22954,
+  "output_tokens": 1595
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash incentives are determined in two performance categories"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Incentive Plan Revenue\" and \"Incentive Plan Operating Income\" are non-GAAP financial measures defined at page 34."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Incentive Plan Revenue\" and \"Incentive Plan Operating Income\" are non-GAAP financial measures defined at page 34."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% determined qualitatively based on performance in three weighted performance categories"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Product & Strategy (33.3% weight) | 130%"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Revenue, consumption, and market share"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders (33.3% weight) | 145%"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Corporate social responsibility"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 14,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Developer engagement"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Culture & Organizational Leadership (33.3% weight) | 135%"
+   },
+   {
+    "id": 16,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "id": 17,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "Culture"
+   },
+   {
+    "id": 18,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion"
+   },
+   {
+    "id": 19,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "Organizational health"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial Cloud Revenue* | Net revenue for commercial cloud-based solutions | 34%"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial Cloud Subscribers | Paid seats for current or new per-user SaaS cloud services | 33%"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows 10 Monthly Active Devices | Comprises all Windows 10 monthly active devices | 11%"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consumer Post-Sales Monetization Gross Margin | Includes Search, Store, Display/Homepage, Gaming, and Office Consumer/Services | 11%"
+   },
+   {
+    "id": 24,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "id": 25,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Surface Gross Margin | Gross margin from Surface and first-party accessories, excluding Surface Hub | 5%"
+   },
+   {
+    "id": 26,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our performance stock awards included a relative total shareholder return (\"TSR\") multiplier to reward significant positive outperformance"
+   },
+   {
+    "id": 27,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LTPSA payouts are tied to Microsoft's total shareholder return relative to the S&P 500 (\"relative TSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "Qualitative performance results (50%) | 136.67% | 150.00%"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Product & Strategy (33.3% weight) | 130%"
+   }
+  ]
+ }
+}

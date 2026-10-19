@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001047469-16-011582",
+  "task": "incentives",
+  "section_words": 10334,
+  "section_method": "heading",
+  "cache_key": "4ead107cc37c78057ed31d427b31944c0e78b0ec335a68bdf5520fa6f7aa305e",
+  "est_input_tokens": 19827
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26099,
+  "output_tokens": 1073,
+  "request_id": "req_011CgCCBxVQnQh46QmqFj9Q8"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Safety, Process Safety and Operating Excellence",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Safety, Process Safety and Operating Excellence | 25% | Aligns payout with strategic focus on operating excellence"
+   },
+   {
+    "metric": "Cost Management",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cost Management | 25% | Effective cost management maintains a focus on operating excellence as well as enhancing returns"
+   },
+   {
+    "metric": "ROCE",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ROCE | 25% | Aligns payout with strategic focus on enhancing returns and growth initiatives"
+   },
+   {
+    "metric": "Adjusted Earnings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Earnings | 25% | Measures the effectiveness of strategic growth initiatives, operating excellence and quality of returns"
+   },
+   {
+    "metric": "Individual Modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Individual Modifier (+/\u201350% of target)"
+   },
+   {
+    "metric": "Relative ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative ROCE (25%) Absolute ROCE (25%) TSR (50%)"
+   },
+   {
+    "metric": "Absolute ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative ROCE (25%) Absolute ROCE (25%) TSR (50%)"
+   },
+   {
+    "metric": "TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative ROCE (25%) Absolute ROCE (25%) TSR (50%)"
+   }
+  ]
+ }
+}

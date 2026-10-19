@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001047469-20-002039",
+  "task": "proposals",
+  "section_words": 4777,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "b69ed9d291a529eb23a2f89610bad71579f21f286e339ce427c83d086b0aae7f",
+  "est_input_tokens": 10653
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11756,
+  "output_tokens": 383,
+  "request_id": "req_011CgCBkFMhNBtADWDhJ4C99"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Equal Voting Rights for Each Share",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the Board to ensure all outstanding stock has one vote per share, encouraging dual-class holders to relinquish preexisting super-voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 4 because it is not in the best interests of Ford and you."
+   },
+   {
+    "item_number": "5",
+    "title": "Lobbying disclosure report",
+    "proponent": "The Comptroller of the City of New York on behalf of various City employee retirement systems; Unitarian Universalist Association",
+    "topic_summary": "Requests an annually updated report disclosing Ford's direct and indirect lobbying policies, payments, grassroots communications, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 because it is not in the best interests of Ford and you."
+   }
+  ]
+ }
+}

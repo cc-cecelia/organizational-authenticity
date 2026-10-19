@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098301",
+  "task": "proposals",
+  "section_words": 9865,
+  "section_method": "resolved_windows",
+  "cache_key": "2515eff5fa4b2747b794ef980d6d7f11de62572ee21b4ec906036fa6c598f1df",
+  "est_input_tokens": 23641
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25701,
+  "output_tokens": 2358,
+  "request_id": "req_011CgCBvswuPQbabD2Ecni6G"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder proposal to adopt medium- and long-term GHG reduction targets",
+    "proponent": "not stated",
+    "topic_summary": "Set and publish medium- and long-term targets to reduce GHG emissions from operations and energy products (Scope 1, 2, and 3) consistent with Paris Agreement goals.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder proposal to report on impacts of net zero 2050 scenario",
+    "proponent": "not stated",
+    "topic_summary": "Provide an audited report on how IEA Net Zero by 2050 assumptions would affect financial statement assumptions and estimates, including asset impairments.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder proposal to report on reliability of methane emission disclosures",
+    "proponent": "not stated",
+    "topic_summary": "Prepare a report on the reliability of Chevron's methane emission disclosures, including direct measurement results and effects on Scope 1 emission estimates.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "for",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder proposal to report on business with conflict-complicit governments",
+    "proponent": "not stated",
+    "topic_summary": "Publish a report evaluating the feasibility of a policy of not doing business with governments complicit in genocide or crimes against humanity.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder proposal to report on racial equity audit",
+    "proponent": "not stated",
+    "topic_summary": "Commission and publicly disclose an independent racial equity audit analyzing whether Chevron's policies and practices discriminate against or disparately impact communities of color.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder proposal regarding special meetings",
+    "proponent": "not stated",
+    "topic_summary": "Amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowners meeting without excluding conditions.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote against items 5, 6, and 8\u201310 and for item 7 on the following pages."
+   }
+  ]
+ }
+}

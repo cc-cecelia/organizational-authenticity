@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "c8f8fa9332847b88fbe9af71d3092411f07ec45f10b60fd59fcb03014ea81588",
+  "est_input_tokens": 27268
+ },
+ "usage": {
+  "input_tokens": 29818,
+  "output_tokens": 1603
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial \u2022 Incentive Plan Revenue (#) \u2022 Incentive Plan Operating Income (#)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We include financial results in our cash incentive to measure our success in meeting internal annual financial performance goals for revenue and profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Customers & Stakeholders | Culture, Diversity & Sustainability"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture, Diversity & Sustainability"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Our annual cash incentive also includes an assessment of progress on sustainability."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Microsoft Cloud Revenue* | Revenue from Azure and other cloud services"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Microsoft Cloud Subscribers Growth | Paid seats for current or new per-user SaaS cloud services"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teams Monthly Active Usage Growth | Unique monthly active users of Teams"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Xbox Game Pass Subscribers Growth | Current number of paid Game Pass Subscriptions"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows OEM Revenue* Growth | Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "id": 24,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "measuring performance annually over our #-year performance period and modifying awards based on our #-year relative TSR provides the most accurate assessment"
+   }
+  ],
+  "equal_split": []
+ }
+}

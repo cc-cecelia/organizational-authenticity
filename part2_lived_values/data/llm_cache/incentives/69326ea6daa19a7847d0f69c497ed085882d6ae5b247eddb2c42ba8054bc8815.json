@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001104659-24-032641",
+  "task": "incentives",
+  "section_words": 8691,
+  "section_method": "heading",
+  "cache_key": "69326ea6daa19a7847d0f69c497ed085882d6ae5b247eddb2c42ba8054bc8815",
+  "est_input_tokens": 18047
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20974,
+  "output_tokens": 3758,
+  "request_id": "req_011CgC9fdruvHx7ogD96rsf2"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Based on full year performance of revenue and operating cash flow, the IBM pool funding score was 117."
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Based on full year performance of revenue and operating cash flow, the IBM pool funding score was 117."
+   },
+   {
+    "metric": "Diversity Modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This modifier can result in a 5 point reduction, no impact, or 5 point increase to the AIP scoring."
+   },
+   {
+    "metric": "Individual Contribution Factor",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The ICF is determined by evaluating individual performance against predetermined business objectives."
+   },
+   {
+    "metric": "Qualitative adjustment beyond financial performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee approved an upward adjustment to the score of ten points reflecting progress in AI and quantum computing"
+   },
+   {
+    "metric": "Client experience",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement."
+   },
+   {
+    "metric": "Market share",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement."
+   },
+   {
+    "metric": "Research and innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement."
+   },
+   {
+    "metric": "Culture and engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement."
+   },
+   {
+    "metric": "Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Revenue (40%), Operating EPS (30%) and Free Cash Flow (30%)."
+   },
+   {
+    "metric": "Operating EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Revenue (40%), Operating EPS (30%) and Free Cash Flow (30%)."
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Revenue (40%), Operating EPS (30%) and Free Cash Flow (30%)."
+   },
+   {
+    "metric": "Relative Return on Invested Capital (ROIC) modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This modifier reduces the score up to 20 points when performance falls below the S&P 500 Index median and increases the score up to 20 points"
+   }
+  ]
+ }
+}

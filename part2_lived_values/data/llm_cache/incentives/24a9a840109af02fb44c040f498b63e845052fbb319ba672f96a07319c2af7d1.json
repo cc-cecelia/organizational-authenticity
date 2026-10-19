@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000626",
+  "task": "incentives",
+  "section_words": 7654,
+  "section_method": "heading",
+  "cache_key": "24a9a840109af02fb44c040f498b63e845052fbb319ba672f96a07319c2af7d1",
+  "est_input_tokens": 17055
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19006,
+  "output_tokens": 1733,
+  "request_id": "req_011CgCBbMigo4W1u9rj8qnHf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Incentive Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Financial component",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 67,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial component (Sales 50%, Incentive Operating Income 50%) | 67% | 13% | 67% | 134%"
+   },
+   {
+    "metric": "Team scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Team scorecard | 33% | 7% | 33% | 66%"
+   },
+   {
+    "metric": "Improve inventory efficiency",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the specific team scorecard progress indicators included: improve inventory efficiency, maintain strong team engagement"
+   },
+   {
+    "metric": "Maintain strong team engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "maintain strong team engagement"
+   },
+   {
+    "metric": "Advance equity and inclusion initiatives across the team",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "advance equity and inclusion initiatives across the team"
+   },
+   {
+    "metric": "Meet or exceed sales plans for new and remodeled stores",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "meet or exceed sales plans for new and remodeled stores"
+   },
+   {
+    "metric": "Evaluate market share at the category level and at the enterprise level",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "evaluate market share at the category level and at the enterprise level"
+   },
+   {
+    "metric": "Adjusted Sales growth (relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "EPS growth (relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "ROIC (relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "Relative TSR (PBRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on relative three-year TSR performance versus our retail peer group"
+   }
+  ]
+ }
+}

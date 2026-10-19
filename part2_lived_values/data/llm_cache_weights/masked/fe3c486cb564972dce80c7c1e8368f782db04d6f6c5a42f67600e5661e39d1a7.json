@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "fe3c486cb564972dce80c7c1e8368f782db04d6f6c5a42f67600e5661e39d1a7",
+  "est_input_tokens": 32793
+ },
+ "usage": {
+  "input_tokens": 33644,
+  "output_tokens": 898
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share (EPS) (#) | Non-GAAP Diluted EPS"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (#) | Total Revenues, Net of Foreign Exchange"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our pipeline metric continues to play a critical role in our annual incentive plan."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (Submissions and approvals)"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential | Investigational new drug/clinical trial application approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Overlay | Reflects management's, the Science & Technology Committee's"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key Integration Metrics (#) | Used to encourage and reward our executives' ongoing commitment"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Human Capital Management (#) (Retain and engage critical talent"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Synergies (#) (Reflects commitment to deliver cumulative transaction synergies"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\"), based on individual performance (both Results and Values)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (ex-fx): # #-Year Relative TSR: #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx): # #-Year Relative TSR"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee approved individual awards; #-Year Relative TSR over a three-year period"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Our pipeline metric highlights the importance of pipeline delivery to the near-term and long-term success of the company."
+   }
+  ]
+ }
+}

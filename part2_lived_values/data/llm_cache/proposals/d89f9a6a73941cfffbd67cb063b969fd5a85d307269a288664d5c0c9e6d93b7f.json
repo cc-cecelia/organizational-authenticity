@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001510295-19-000021",
+  "task": "proposals",
+  "section_words": 2849,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "d89f9a6a73941cfffbd67cb063b969fd5a85d307269a288664d5c0c9e6d93b7f",
+  "est_input_tokens": 6558
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7676,
+  "output_tokens": 405,
+  "request_id": "req_011CgCC9PppwNLCorA1kD3eE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4. Shareholder Proposal Seeking a Shareholder Right to Action by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent on any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and unanimously recommends that you vote AGAINST it."
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal 5. Shareholder Proposal Seeking an Independent Chairman Policy",
+    "proponent": "United Steelworkers, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (USW)",
+    "topic_summary": "Asks the board to adopt a policy requiring the Chairman be an independent director who has not previously served as an executive officer of the Company.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and unanimously recommends you vote AGAINST it."
+   }
+  ]
+ }
+}

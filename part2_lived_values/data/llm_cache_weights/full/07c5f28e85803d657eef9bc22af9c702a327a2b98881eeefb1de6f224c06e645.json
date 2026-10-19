@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "07c5f28e85803d657eef9bc22af9c702a327a2b98881eeefb1de6f224c06e645",
+  "est_input_tokens": 31666
+ },
+ "usage": {
+  "input_tokens": 32925,
+  "output_tokens": 676
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA reflects the quality of the Company's earnings"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash flow generation is critical to achieving the Company's net debt reduction goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% based on strategic personal objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Digital | Achieve a specified percentage of digital revenue growth"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Sustainability | Establish industry-leading emissions reduction targets."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "New Energy | Accelerate expansion of new energy portfolio"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Investor Relations | Attract increased investments from new investors"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "HSE | Achieve total recordable injury frequency and automotive accident rate"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "25% Absolute FCF Margin PSUs: We replaced our previous free cash flow conversion rate metric"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% Relative TSR PSUs: We introduced PSUs based on a three-year relative TSR metric as a new element"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% Relative ROCE PSUs: We increased the rigor of the performance targets"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The 2021 LTI program consisted of four types of grants, equally weighted at target performance"
+   }
+  ]
+ }
+}

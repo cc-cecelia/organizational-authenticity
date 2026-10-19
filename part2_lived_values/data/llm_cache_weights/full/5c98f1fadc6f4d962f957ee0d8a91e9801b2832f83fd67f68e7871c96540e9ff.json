@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "5c98f1fadc6f4d962f957ee0d8a91e9801b2832f83fd67f68e7871c96540e9ff",
+  "est_input_tokens": 18202
+ },
+ "usage": {
+  "input_tokens": 19275,
+  "output_tokens": 759
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and EPS are equally weighted at 40% each"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and EPS are equally weighted at 40% each"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline milestones are the final component of the Scorecard and are weighted at 20%."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "ZEPATIER/KEYTRUDA Approval Milestones | U.S. filing and approval of KEYTRUDA as first and only anti-PD-1 therapy"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Additional Filings and Approvals | Multiple filings and approvals achieved for cancer, vaccine, infectious disease and diabetes products."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Global Development | Progressed late-stage drugs through various stages of development"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Early Development/ Discovery Research and Business Development | \u2013 Implemented two new discovery sites"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance, determine annual incentive payouts to the majority of our employees, including the NEOs."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on cumulative, three-year Operating Cash Flow (\"OCF\") and relative TSR performance versus our Peer Group, each weighted at 50%."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on cumulative, three-year Operating Cash Flow (\"OCF\") and relative TSR performance versus our Peer Group, each weighted at 50%."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and EPS are equally weighted at 40% each"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "each weighted at 50%"
+   }
+  ]
+ }
+}

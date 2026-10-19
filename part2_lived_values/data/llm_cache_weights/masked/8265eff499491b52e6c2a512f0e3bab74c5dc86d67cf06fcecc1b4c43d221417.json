@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "8265eff499491b52e6c2a512f0e3bab74c5dc86d67cf06fcecc1b4c43d221417",
+  "est_input_tokens": 18997
+ },
+ "usage": {
+  "input_tokens": 20347,
+  "output_tokens": 994
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We believe Adjusted EBITDA is useful in evaluating our annual core operating performance and is how we determine enterprise value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety, environmental stewardship and asset availability, is critical to meeting our corporate strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Combined TRR and LWCR: Our performance in LWCR was #[w] improved versus target"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we exceeded our target for LWCR"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "PSE Rate: Our PSE Rate was #[w] impaired versus our target."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: The Compensation Committee confirmed that our availability of #[w] across all of our lines of business"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Controllable Costs focuses on operating excellence and our ability to deliver differentiated returns to shareholders."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe maintaining and enhancing a high-performing organization is critical to our success."
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Culture foster behaviors that promote our unique culture"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Capability build depth and breadth in our skills"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Performance deliver exceptional, sustainable results"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee has the authority to adjust our NEOs' individual VCIP payouts by +/\u2013#[w] of the formula-based target payout."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Absolute ROCE: Absolute ROCE for the #-year performance period was #[w], or #[w] points above target"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE: Relative ROCE performance for the #-year performance period was #th out of #including #peer companies"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee also recognizes that relative TSR is the most common standard for relative comparisons to peers."
+   }
+  ],
+  "equal_split": []
+ }
+}

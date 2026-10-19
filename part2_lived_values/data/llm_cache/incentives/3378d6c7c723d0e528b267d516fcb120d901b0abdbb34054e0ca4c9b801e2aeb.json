@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001193125-24-140549",
+  "task": "incentives",
+  "section_words": 12590,
+  "section_method": "heading",
+  "cache_key": "3378d6c7c723d0e528b267d516fcb120d901b0abdbb34054e0ca4c9b801e2aeb",
+  "est_input_tokens": 28942
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31081,
+  "output_tokens": 1058,
+  "request_id": "req_011CgC9ZhzJ4Ch51kFWnWNkb"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee approved the following three equally weighted Company financial performance metrics: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted Company financial performance metrics: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Non-GAAP Income from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted Company financial performance metrics: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Equality measures (U.S. Underrepresented Minorities & Women; Global Women)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We included two equality measures and two sustainability measures, each weighted equally. Each metric accounts for 25% of the overall ESG component"
+   },
+   {
+    "metric": "Sustainability measures (Air Travel emissions intensity; Supplier Engagement)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity, as well as increasing the percentage of spend with suppliers who have signed Salesforce's Sustainability Exhibit"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We restructured our PRSU program to include non-GAAP operating margin, equally weighted with relative TSR."
+   },
+   {
+    "metric": "Non-GAAP Operating Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We restructured our PRSU program to include non-GAAP operating margin, equally weighted with relative TSR."
+   }
+  ]
+ }
+}

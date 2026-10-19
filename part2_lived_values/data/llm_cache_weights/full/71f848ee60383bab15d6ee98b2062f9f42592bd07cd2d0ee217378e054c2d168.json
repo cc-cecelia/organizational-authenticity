@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "71f848ee60383bab15d6ee98b2062f9f42592bd07cd2d0ee217378e054c2d168",
+  "est_input_tokens": 18583
+ },
+ "usage": {
+  "input_tokens": 19479,
+  "output_tokens": 276
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales (45%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Profit (45%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Inventory Turns (10%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

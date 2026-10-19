@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "7523f85d37fe48f0cf201214f119eea581b8961ef4269de96bf8864278f207f0",
+  "est_input_tokens": 18040
+ },
+ "usage": {
+  "input_tokens": 17853,
+  "output_tokens": 380
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Supports portfolio shift into a cognitive solutions and cloud platform company that will deliver the highest value opportunities for our clients and stockholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Performance Share Unit (PSU) metrics for the #\u2013#performance period were Operating EPS and Free Cash Flow, unchanged from previous years."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "long_term_incentive",
+    "evidence": "The PSU score is calculated as a [w] average of results against targets for Operating EPS (#) and Free Cash Flow (#)."
+   }
+  ]
+ }
+}

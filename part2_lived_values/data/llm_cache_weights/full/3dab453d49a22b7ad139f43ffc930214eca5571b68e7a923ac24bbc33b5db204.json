@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "3dab453d49a22b7ad139f43ffc930214eca5571b68e7a923ac24bbc33b5db204",
+  "est_input_tokens": 18709
+ },
+ "usage": {
+  "input_tokens": 19425,
+  "output_tokens": 560
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "replace Strategic Imperatives revenue with total IBM revenue, at the same 20% weighting."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Based on full year financial performance against total IBM revenue, operating net income, and operating cash flow, the weighted incentive score was 91."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow* | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payouts for each executive are calculated using an Individual Contribution Factor (ICF)."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This modifier reduces the score up to 20 points when performance falls below the S&P 500 Index median, and increases the score up to 20 points"
+   }
+  ],
+  "equal_split": []
+ }
+}

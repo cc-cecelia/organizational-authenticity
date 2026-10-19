@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "7779317111a0e5168813d653be10d1ee08770dc8f4d1e318c08b3f9802e5b1a0",
+  "est_input_tokens": 30010
+ },
+ "usage": {
+  "input_tokens": 30436,
+  "output_tokens": 731
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial half of our NEOs' 2015 annual cash incentive opportunity was based equally on (i) achievement of earnings per share from continuing operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the financial half of the NEOs' 2015 annual cash incentive was based equally on achievement of (i) EPS targets and (ii) relative financial performance criteria"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Fifty percent of an executive's annual cash incentive opportunity is tied to achievement of personal objectives that are specific to each executive officer position"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "people-related objectives such as retention and diversity;"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "ethics and compliance;"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "safety objectives;"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "new technology introduction; and"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Group or geographical profitability or revenue growth;"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "LTI awards for our NEOs and other senior executives are delivered through and equal mix of three-year PSUs and stock options"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee set goals for the 2015 PSUs based on Return on Capital Employed (\"ROCE\") goals for the Company"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The financial half of our NEOs' 2015 annual cash incentive opportunity was based equally on (i) achievement of earnings per share"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the Committee grants 50% of this value in PSUs and 50% in stock options"
+   }
+  ]
+ }
+}

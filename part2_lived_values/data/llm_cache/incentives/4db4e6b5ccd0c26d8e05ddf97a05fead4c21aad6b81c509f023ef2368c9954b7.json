@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001193125-20-108422",
+  "task": "incentives",
+  "section_words": 3513,
+  "section_method": "heading",
+  "cache_key": "4db4e6b5ccd0c26d8e05ddf97a05fead4c21aad6b81c509f023ef2368c9954b7",
+  "est_input_tokens": 8769
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9594,
+  "output_tokens": 11,
+  "request_id": "req_011CgCB4GLNhuTrYiAvtg3Sp"
+ },
+ "result": {
+  "metrics": []
+ }
+}

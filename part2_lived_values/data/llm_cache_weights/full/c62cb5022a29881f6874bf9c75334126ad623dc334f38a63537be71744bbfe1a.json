@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "c62cb5022a29881f6874bf9c75334126ad623dc334f38a63537be71744bbfe1a",
+  "est_input_tokens": 20515
+ },
+ "usage": {
+  "input_tokens": 21782,
+  "output_tokens": 753
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected year-over-year growth in our non-GAAP operating income as the financial performance metric for determining our NEOs' bonuses for fiscal 2022"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operational performance goals set forth in the PSOs are important drivers of Oracle's business."
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total SaaS revenues in a fiscal year"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) revenues in a fiscal year"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Attain non-GAAP SaaS gross margin of 80%"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Maintain non-GAAP PaaS/IaaS gross margin of at least 30% for three of the eight fiscal years in the performance period"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increase Oracle's market capitalization from a baseline of $207 billion by"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Oracle's average stock price for 30 calendar days must equal or exceed $80 in order for the tranche to be earned"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The PSOs granted to Mr. Ellison and Ms. Catz are divided into seven equal tranches"
+   }
+  ]
+ }
+}

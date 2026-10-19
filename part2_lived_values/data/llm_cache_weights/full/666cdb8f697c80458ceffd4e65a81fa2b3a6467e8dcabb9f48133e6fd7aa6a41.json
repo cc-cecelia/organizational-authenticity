@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "666cdb8f697c80458ceffd4e65a81fa2b3a6467e8dcabb9f48133e6fd7aa6a41",
+  "est_input_tokens": 25620
+ },
+ "usage": {
+  "input_tokens": 26277,
+  "output_tokens": 994
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance measured against: \u2022 60% NOPAT \u2022 20% Asset Turns \u2022 20% Non-Financial Strategic Metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Asset Turns | 20.0%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "equally weighted between our GHG emissions reduction performance and our DE&I performance"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "equally weighted between our GHG emissions reduction performance and our DE&I performance"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Convert North America hydraulic fracturing fleet to lower emission footprint"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce North America hydraulic fracturing GHG emissions intensity"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Automate sustainability label creation in ESG365 software suite"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Complete additional rounds of prospects for Halliburton Labs"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Gender Diversity: Advance gender diversity balance in professional hires"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Ethnic Diversity: Advance ethnic diversity balance in the U.S."
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Workforce Localization: Ensure appropriate global diversity mix through workforce localization"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Education: Educate management and Board of Directors through DE&I training"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee may also consider other business performance factors that are important to our investors, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Units (1) | 70% of Award | Rewards achievement of specific financial goals measured over a three-year performance period"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR modifier that compares three-year performance against the constituents of the OSX and can increase or decrease the incentive opportunity payout by 25%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "The new metrics, which are weighted equally, comprise 20% of the total award"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The new metrics, which are weighted equally, comprise 20% of the total award"
+   }
+  ]
+ }
+}

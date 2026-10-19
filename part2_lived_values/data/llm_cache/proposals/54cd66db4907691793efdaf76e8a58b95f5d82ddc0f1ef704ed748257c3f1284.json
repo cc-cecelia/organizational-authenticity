@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001104659-24-045910",
+  "task": "proposals",
+  "section_words": 36666,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "54cd66db4907691793efdaf76e8a58b95f5d82ddc0f1ef704ed748257c3f1284",
+  "est_input_tokens": 87493
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 88786,
+  "output_tokens": 3119,
+  "request_id": "req_011CgCB7hbjp46LBs1G5CPmN"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "ITEM 4\u2014SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE PUBLIC POLICY",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Requests the Board establish a Public Policy Committee to oversee public policy issues including human rights, DEI, climate, political spending and unionization.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an additional Board committee to oversee public policy."
+   },
+   {
+    "item_number": "5",
+    "title": "ITEM 5\u2014SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE THE FINANCIAL IMPACT OF POLICY POSITIONS",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a board committee on corporate financial sustainability to oversee and report on financial impact of policy positions, advocacy and charitable giving.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an additional Board committee to oversee the financial impact of policy positions."
+   },
+   {
+    "item_number": "6",
+    "title": "ITEM 6\u2014SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER DUE DILIGENCE",
+    "proponent": "American Baptist Home Mission Society",
+    "topic_summary": "Requests an independent third-party report assessing customer due diligence on human rights risks from use of surveillance, computer vision and cloud products.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer due diligence."
+   },
+   {
+    "item_number": "7",
+    "title": "ITEM 7\u2014SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON LOBBYING",
+    "proponent": "The Province of Saint Joseph of the Capuchin Order",
+    "topic_summary": "Requests annual report disclosing lobbying policies, direct and indirect and grassroots lobbying payments, and board decision-making oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on lobbying."
+   },
+   {
+    "item_number": "8",
+    "title": "ITEM 8\u2014SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON GENDER/RACIAL PAY",
+    "proponent": "Stanley Monroe and Laurie Carson, represented by Arjuna Capital",
+    "topic_summary": "Requests report on median gender and racial pay gaps and associated risks, including recruiting and retaining diverse talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on gender/racial pay."
+   },
+   {
+    "item_number": "9",
+    "title": "ITEM 9\u2014SHAREHOLDER PROPOSAL REQUESTING A REPORT ON VIEWPOINT RESTRICTION",
+    "proponent": "The American Family Association, represented by Bowyer Research",
+    "topic_summary": "Requests evaluation and report on how Amazon oversees risks of restricting service based on user viewpoint under hate speech and misinformation policies.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on viewpoint restriction."
+   },
+   {
+    "item_number": "10",
+    "title": "ITEM 10\u2014SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON STAKEHOLDER IMPACTS",
+    "proponent": "International Brotherhood of Teamsters General Fund",
+    "topic_summary": "Requests report on how climate strategy affects employees, supply chain workers and communities, consistent with Just Transition guidelines.",
+    "category": "employees",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on stakeholder impacts."
+   },
+   {
+    "item_number": "11",
+    "title": "ITEM 11\u2014SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PACKAGING MATERIALS",
+    "proponent": "PCR Children's TR FBO Ellen, represented by As You Sow",
+    "topic_summary": "Requests report on reducing plastic packaging footprint, making all packaging recyclable, reusable or compostable, and setting reduction goals.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on packaging materials."
+   },
+   {
+    "item_number": "12",
+    "title": "ITEM 12\u2014SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON FREEDOM OF ASSOCIATION",
+    "proponent": "Catherine Donnelly Foundation, represented by the Shareholder Association for Research & Education",
+    "topic_summary": "Requests independent third-party assessment of Amazon's adherence to workers' freedom of association and collective bargaining commitments.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on freedom of association."
+   },
+   {
+    "item_number": "13",
+    "title": "ITEM 13\u2014SHAREHOLDER PROPOSAL REQUESTING ALTERNATIVE EMISSIONS REPORTING",
+    "proponent": "Green Century Capital Management and Longview Largecap 500 Index Fund",
+    "topic_summary": "Requests Amazon disclose all material Scope 3 greenhouse gas emissions, including product-related value chain emissions.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting alternative emissions reporting."
+   },
+   {
+    "item_number": "14",
+    "title": "ITEM 14\u2014SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER USE OF CERTAIN TECHNOLOGIES",
+    "proponent": "John Harrington",
+    "topic_summary": "Requests independent study of Rekognition facial recognition covering privacy, civil rights risks and sales to repressive governments.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer use of certain technologies."
+   },
+   {
+    "item_number": "15",
+    "title": "ITEM 15\u2014SHAREHOLDER PROPOSAL REQUESTING A POLICY TO DISCLOSE DIRECTORS' POLITICAL AND CHARITABLE DONATIONS",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests board adopt policy requiring director nominees to disclose political and charitable donations before proxy publication.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a policy to disclose directors' political and charitable donations."
+   },
+   {
+    "item_number": "16",
+    "title": "ITEM 16\u2014SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE TO OVERSEE ARTIFICIAL INTELLIGENCE",
+    "proponent": "AFL-CIO Equity Index Funds, represented by Segal Marco Advisors",
+    "topic_summary": "Requests a new independent-director board committee on AI to address human rights risks of AI development and deployment.",
+    "category": "integrity",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an additional Board committee to oversee artificial intelligence."
+   },
+   {
+    "item_number": "17",
+    "title": "ITEM 17\u2014SHAREHOLDER PROPOSAL REQUESTING A REPORT ON WAREHOUSE WORKING CONDITIONS",
+    "proponent": "Thomas Dadashi Tazehozi, represented by Tulipshare Capital LLC",
+    "topic_summary": "Requests independent audit and report on warehouse worker working conditions, injury rates, performance metrics and targets.",
+    "category": "safety",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on warehouse working conditions."
+   }
+  ]
+ }
+}

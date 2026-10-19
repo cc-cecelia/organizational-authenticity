@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001140361-23-016930",
+  "task": "proposals",
+  "section_words": 5135,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9fbee3fb342161c5e47fef0e3c771b224c6dd0b3e626e4a85c13495dd3e60ca6",
+  "est_input_tokens": 11694
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13194,
+  "output_tokens": 377,
+  "request_id": "req_011CgCA8fKjXcTtki4w9WkpS"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Requesting Adoption of Improved Shareholder Right to Call a Special Shareholder Meeting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents so owners of a combined 10% of outstanding common stock can call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Requesting Adoption of a Policy to Cease Financing New Fossil Fuel Development",
+    "proponent": "The Sierra Club Foundation",
+    "topic_summary": "Asks the board to adopt a time-bound phase-out of lending and underwriting to companies engaged in new fossil fuel exploration and development.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

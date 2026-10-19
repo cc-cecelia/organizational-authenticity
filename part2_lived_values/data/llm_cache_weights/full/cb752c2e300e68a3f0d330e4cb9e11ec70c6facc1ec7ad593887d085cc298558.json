@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "cb752c2e300e68a3f0d330e4cb9e11ec70c6facc1ec7ad593887d085cc298558",
+  "est_input_tokens": 13189
+ },
+ "usage": {
+  "input_tokens": 12961,
+  "output_tokens": 1500
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "approved a set of company-wide priorities in order to focus our executive officers on key areas of performance"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "with a particular focus on revenue, user growth and engagement, and progress on the company's long-term investments"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "increase sharing, engagement, and utility"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve product quality; improve our brand"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve product quality; improve our brand"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "in particular the progress toward long-term investments"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The individual performance percentage is based upon each executive officer's individual performance assessment for the performance period under consideration."
+   }
+  ],
+  "equal_split": []
+ }
+}

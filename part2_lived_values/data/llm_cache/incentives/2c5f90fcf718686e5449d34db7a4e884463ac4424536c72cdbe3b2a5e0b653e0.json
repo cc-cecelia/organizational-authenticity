@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-283993",
+  "task": "incentives",
+  "section_words": 6598,
+  "section_method": "heading",
+  "cache_key": "2c5f90fcf718686e5449d34db7a4e884463ac4424536c72cdbe3b2a5e0b653e0",
+  "est_input_tokens": 13985
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18492,
+  "output_tokens": 2344,
+  "request_id": "req_011CgC9Zzah5fYv6WahB7u3n"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Oracle's financial performance relative to the PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "based on Oracle's financial performance relative to the performance of the PSU Comparator Companies"
+   },
+   {
+    "metric": "Growth in revenue of certain strategic lines of business",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "based on the growth in revenue of certain strategic lines of business he oversees"
+   },
+   {
+    "metric": "Stock price goals (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "attainment of certain stock price, market capitalization and operational goals within five fiscal years of the date of grant"
+   },
+   {
+    "metric": "Market capitalization goals (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "attainment of certain stock price, market capitalization and operational goals within five fiscal years of the date of grant"
+   },
+   {
+    "metric": "Operational goals (PSOs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "attainment of certain stock price, market capitalization and operational goals within five fiscal years of the date of grant"
+   }
+  ]
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "1042bed37527ed21478deeeb551ce65efc3c602e7b442c49ad3ae414305d9a26",
+  "est_input_tokens": 20425
+ },
+ "usage": {
+  "input_tokens": 22014,
+  "output_tokens": 1017
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Deliver industry-leading performance in safety, emissions reductions, environmental performance, and reliability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee currently places additional emphasis on the energy transition objective and GHG metrics"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Maintained best-ever safety performance,1, 2 exceeded reliability plans across all segments"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Met 2025 GHG emission-reduction plans by YE 2021,3 announced GHG emission-reduction plans for 2030"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "30% reduction in number of spills versus prior 3-year average"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Reliability Exceeded plan across all business segments; effectively responded to weather events"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Delivered industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 3,
+    "evidence": "the Committee has decided to place additional emphasis on the Company's role in leading the industry in hard-to-decarbonize emissions reductions"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Average Capital Employed (ROCE) for the Corporation is net income attributable to ExxonMobil"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations and Asset Sales (CFOAS) is the sum of the net cash provided by operating activities"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock over a specified period of time"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and Operating Metrics - Safety, ROCE, CFOAS, TSR"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Committee assigns equal weight to each of the four strategic objectives."
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Financial and operating metrics further support the Committee's assessment."
+   }
+  ]
+ }
+}

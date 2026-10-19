@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001193125-17-086538",
+  "task": "incentives",
+  "section_words": 11173,
+  "section_method": "heading",
+  "cache_key": "603fb675525a25c229affcf664b23b091754c02c06db634a621037ce1644bf4b",
+  "est_input_tokens": 23475
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28646,
+  "output_tokens": 635,
+  "request_id": "req_011CgC9z7JfzhuQnhNsXrJqk"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "ROE (annual, adjusting LTIP notional value, capped at 12%)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted upward or downward by an amount equal to our annual \"ROE\" (as calculated under the LTIP) for each year of the performance period, subject to an annual 12% cap"
+   },
+   {
+    "metric": "Average ROE over performance period",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted based 50% on our average \"ROE\" and 50% on our average change in BVPS"
+   },
+   {
+    "metric": "Average change in BVPS over performance period",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted based 50% on our average \"ROE\" and 50% on our average change in BVPS"
+   },
+   {
+    "metric": "Average ROE over performance period (PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "will be determined based on the firm's average \"ROE\" over 2015-2017 (with respect to the 2014 Year-End PSUs) and 2016-2018 (with respect to the 2015 Year-End PSUs)"
+   }
+  ]
+ }
+}

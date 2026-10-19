@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001206774-18-000866",
+  "task": "proposals",
+  "section_words": 8001,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "fb8c150e3c91387dc72d62869c28451f17c8df9e75c3537a95a5435cca098e27",
+  "est_input_tokens": 17258
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18869,
+  "output_tokens": 345,
+  "request_id": "req_011CgCAHgwTqKzsSxiATFtxr"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Relating to Action by Written Consent",
+    "proponent": "William Steiner (introduced by John Chevedden)",
+    "topic_summary": "Requests the board permit shareholders holding the minimum votes needed to authorize action to act by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Relating to Independent Board Chairman",
+    "proponent": "Myra K. Young (introduced by John Chevedden)",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, with discretion to phase in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

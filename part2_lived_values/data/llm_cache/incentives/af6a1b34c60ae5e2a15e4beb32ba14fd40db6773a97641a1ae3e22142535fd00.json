@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-568937",
+  "task": "incentives",
+  "section_words": 11369,
+  "section_method": "heading",
+  "cache_key": "af6a1b34c60ae5e2a15e4beb32ba14fd40db6773a97641a1ae3e22142535fd00",
+  "est_input_tokens": 25893
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27906,
+  "output_tokens": 1413,
+  "request_id": "req_011CgCBeSBeotqAqd6JTaPaA"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted pre-tax income (Corporate MIP goal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For fiscal 2016, the MIP performance targets and results (shown in the following table) were based on adjusted pre-tax income goals."
+   },
+   {
+    "metric": "Adjusted pre-tax income (Marmaxx divisional MIP goal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Marmaxx | $2,501,988 | 88.9% | $2,814,719 | $3,049,267 | 108.3% | $2,934,368 | 104.25% | 151.01%"
+   },
+   {
+    "metric": "Adjusted pre-tax income (TJX Europe divisional MIP goal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TJX Europe | \u00a3 178,240 | 80.0% | \u00a3 222,797 | \u00a3 254,624 | 114.3% | \u00a3 212,803 | 95.51% | 77.57%"
+   },
+   {
+    "metric": "Adjusted pre-tax income (TJX Canada divisional MIP goal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TJX Canada | C$317,592 | 83.3% | C$ 381,106 | C$428,742 | 112.5% | C$496,429 | 130.26% | 200.00%"
+   },
+   {
+    "metric": "Cumulative 3-year adjusted pre-tax income (LRPIP divisional goals)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the LRPIP performance target and results (shown in the table below) were based on adjusted pre-tax income goals for our four major divisions for the three-year period."
+   },
+   {
+    "metric": "Divisional weightings (Marmaxx 68.5%, HomeGoods, TJX Europe, TJX Canada 10.5% each) for LRPIP",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 68.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Marmaxx | $7,947,849 | 68.5% | $8,330,654 | 112.05% | 76.75%"
+   },
+   {
+    "metric": "Performance-based stock awards vesting on cumulative 3-year adjusted pre-tax income (fiscal 2016-2018 LRPIP)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Full vesting of the LRPIP-based awards is subject to satisfaction of three-year performance vesting conditions requiring achievement of a payout of not less than 67% of the target LRPIP payout"
+   },
+   {
+    "metric": "Fiscal 2016 corporate MIP performance (performance-based stock awards for CEO and CFO)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Performance conditions satisfied for periods ending in FY16"
+   }
+  ]
+ }
+}

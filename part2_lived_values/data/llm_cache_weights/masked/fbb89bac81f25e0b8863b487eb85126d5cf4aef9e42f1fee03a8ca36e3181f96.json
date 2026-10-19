@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "fbb89bac81f25e0b8863b487eb85126d5cf4aef9e42f1fee03a8ca36e3181f96",
+  "est_input_tokens": 25472
+ },
+ "usage": {
+  "input_tokens": 27104,
+  "output_tokens": 1335
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial results ([w] #)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital & cost management ([w] #)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating & safety performance ([w] #)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy transition ([w] #)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The award is delivered as an annual cash payment based on an individual bonus component reflecting executive leadership and performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2013 #reported earnings of #billion were significantly above Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2013 Chevron delivered operating cash flow of #billion"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow before distributions reconciliation (non-GAAP measure)"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2013 Reported ROCE for #of # was significantly above Plan"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Operating expense, excluding fuel and transportation \u2013 #billion, above Plan"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Capital and exploratory expenditures \u2013 #organic capital and exploratory expenditures totaled #billion"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "#affiliate capital and exploratory expenditures totaled #billion, slightly better than Plan."
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 13,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Permian \u2013 Unit development cost better than Plan."
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Net production \u2013 #million barrels of oil-equivalent per day in #excluding divestments, better than Plan"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Refinery reliability \u2013 Operational availability slightly below Plan mainly due to unplanned downtime."
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Personal safety \u2013 Opportunity for improvement remains in preventing fatal incidents and serious injuries."
+   },
+   {
+    "id": 17,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Process safety & environment \u2013 Gaps in preventing high-severity incidents"
+   },
+   {
+    "id": 18,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Greenhouse gas management \u2013 Identified, funded, and executed GHG reduction projects"
+   },
+   {
+    "id": 19,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Renewable fuels \u2013 Renewable fuels conversion project at the Pascagoula refinery"
+   },
+   {
+    "id": 20,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Hydrogen \u2013 Milestones to advance projects at our assets at Richmond and Kern County"
+   },
+   {
+    "id": 21,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Carbon capture and offsets \u2013 Advanced multiple carbon capture and offsets opportunities"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe TSR should be the primary pay-for-performance measure"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the addition of relative ROCE Improvement as a performance measure in our performance shares further strengthens the Company's alignment"
+   }
+  ],
+  "equal_split": []
+ }
+}

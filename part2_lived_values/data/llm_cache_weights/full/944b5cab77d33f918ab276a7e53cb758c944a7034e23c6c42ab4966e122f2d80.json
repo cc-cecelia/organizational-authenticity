@@ -1,0 +1,137 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "944b5cab77d33f918ab276a7e53cb758c944a7034e23c6c42ab4966e122f2d80",
+  "est_input_tokens": 22126
+ },
+ "usage": {
+  "input_tokens": 23676,
+  "output_tokens": 1121
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "% change in bonus program = (% change in annual earnings) x (2/3)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual performance assessment against goals and objectives results in a performance category that translates to adjustment in salary, bonus award, and performance share grant."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading performance in safety, emissions-intensity reductions, environmental performance, and reliability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Lead industry in reducing emissions in hard-to-decarbonize sectors"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Operations Performance Deliver industry-leading performance in safety, emissions-intensity reductions, environmental performance, and reliability"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee also takes into account demonstrated leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance assessed against pre-established goals and objectives, results tie directly to award level"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading performance in safety, emissions-intensity reductions, environmental performance, and reliability"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Lead industry in reducing emissions in hard-to-decarbonize sectors"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Emissions-intensity reductions"
+   },
+   {
+    "id": 15,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "environmental performance"
+   },
+   {
+    "id": 16,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Reliability"
+   },
+   {
+    "id": 17,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 8,
+    "plan": "long_term_incentive",
+    "evidence": "the Committee assigns equal weight to each of the four strategic objectives"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Companys strategic objectives are interdependent, with long-term success determined by delivery in each of the strategic objectives."
+   }
+  ]
+ }
+}

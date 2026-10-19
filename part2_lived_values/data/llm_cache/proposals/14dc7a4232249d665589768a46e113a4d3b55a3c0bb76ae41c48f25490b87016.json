@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-422528",
+  "task": "proposals",
+  "section_words": 10274,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "14dc7a4232249d665589768a46e113a4d3b55a3c0bb76ae41c48f25490b87016",
+  "est_input_tokens": 22177
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23145,
+  "output_tokens": 650,
+  "request_id": "req_011CgC9B7VGpxcoWUZg4LfzE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Net-Zero Greenhouse Gas Emissions by 2030",
+    "proponent": "Jantz Management LLC",
+    "topic_summary": "Requests a report assessing feasibility and policy options for net-zero greenhouse gas emissions for facilities and major suppliers by 2030.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal",
+    "proponent": "Mr. Antonio Avian Maldonado, II",
+    "topic_summary": "Asks the Board to adopt an accelerated recruitment policy to increase diversity of senior management and the board of directors.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Human Rights Review \u2013 High-Risk Regions",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a board review of guidelines for selecting countries and regions for operations and a report identifying criteria for investing in, operating in, and withdrawing from high-risk regions.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 7."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal 8 \u2013 Shareholder Proxy Access",
+    "proponent": "Mr. James McRitchie",
+    "topic_summary": "Asks the Board to adopt a proxy access bylaw allowing shareholder-nominated director candidates in company proxy materials under specified ownership and disclosure criteria.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 8."
+   }
+  ]
+ }
+}

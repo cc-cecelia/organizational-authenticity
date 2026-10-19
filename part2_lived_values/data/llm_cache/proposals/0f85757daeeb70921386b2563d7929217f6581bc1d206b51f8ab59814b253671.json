@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001047469-20-001710",
+  "task": "proposals",
+  "section_words": 4625,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0f85757daeeb70921386b2563d7929217f6581bc1d206b51f8ab59814b253671",
+  "est_input_tokens": 11066
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12164,
+  "output_tokens": 696,
+  "request_id": "req_011CgCAe4PcgnLRBD7FFBG4w"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on Lobbying Report",
+    "proponent": "Zevin Asset Management, on behalf of William Creighton, and co-filers Dana Investment Advisors, Friends Fiduciary Corporation, Fresh Pond Capital, and Echo Foundation",
+    "topic_summary": "Requests a annually updated report disclosing AbbVie's direct and indirect lobbying policies, payments, trade association model-legislation memberships, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal on Independent Chair",
+    "proponent": "The Employees' Retirement System of Rhode Island and co-filer Vermont Pension Investment Committee",
+    "topic_summary": "Requests the board adopt a policy requiring the Chair of the board to be an independent member of the board.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal on Compensation Committee Drug Pricing Report",
+    "proponent": "United Church Funds, and co-filers including The Sisters of Charity of Saint Elizabeth, Mercy Investment Services, Dominican Sisters of Springfield Illinois, Bon Secours Mercy Health, Inc., Sisters of Providence, Trinity Health, Robeco, Congregation of the Sisters of St. Joseph of Peace, and Benedictine Sisters of Virginia",
+    "topic_summary": "Requests the Compensation Committee publish a report assessing feasibility of incorporating public concern over high drug prices into senior executive compensation.",
+    "category": "shareholders",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

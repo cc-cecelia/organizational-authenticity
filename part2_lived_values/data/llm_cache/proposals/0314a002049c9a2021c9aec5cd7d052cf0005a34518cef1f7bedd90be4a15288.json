@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-472407",
+  "task": "proposals",
+  "section_words": 1964,
+  "section_method": "resolved_windows",
+  "cache_key": "0314a002049c9a2021c9aec5cd7d052cf0005a34518cef1f7bedd90be4a15288",
+  "est_input_tokens": 4384
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6514,
+  "output_tokens": 11,
+  "request_id": "req_011CgC9RqwoCBm6V6ZT8WSJd"
+ },
+ "result": {
+  "proposals": []
+ }
+}

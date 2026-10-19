@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "64425b23d4d3b840d2cd72553b88c6d25462ed1f7cfc44a9ab4ff85c27c81b80",
+  "est_input_tokens": 11978
+ },
+ "usage": {
+  "input_tokens": 12415,
+  "output_tokens": 449
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "determining STIP awards based on the combination of operating income growth (weighted 50%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Systemwide sales is important in a franchise business as income generation is closely correlated to sales growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable guest count growth is a measure of the long-term health of our business as well as growing income."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs granted in 2020 will vest on the third anniversary of the grant date, subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the PRSUs are subject to a modifier based on relative TSR measured over the three-year performance period compared to the S&P 500."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each component generally weighted equally"
+   }
+  ]
+ }
+}

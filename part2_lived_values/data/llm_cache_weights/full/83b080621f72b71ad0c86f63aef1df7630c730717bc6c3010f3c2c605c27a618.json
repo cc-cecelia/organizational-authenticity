@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "83b080621f72b71ad0c86f63aef1df7630c730717bc6c3010f3c2c605c27a618",
+  "est_input_tokens": 32846
+ },
+ "usage": {
+  "input_tokens": 34197,
+  "output_tokens": 921
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Net Income Growth vs. Tech 15 peers (1/3)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Net Income Growth vs. Tech 15 Peers"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "One Intel Goals\u2014Operational and ESG Performance. For 2020, there were five One Intel operational goal categories"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "1. Deliver Financial Commitments. Goals based on 2020 revenue, adjusted gross margin"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "2. Product Execution. Goals related to key milestones for 2020 and future products, and design excellence"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "3. Manufacturing Leadership. Goals related to current and future manufacturing processes"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "4. Big Bets. Business and product goals in areas such as AI, networking/5G, and the intelligent edge"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "5. Cultural Transformation. Goals related to quantitative improvements in the areas of employee engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Environmental. Goals related to increasing our global renewable energy use and water conservation"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity & Inclusion. Goals related to global inclusive hiring practices, including manager training"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Since 2019, our PSU awards have been equally weighted on two performance metrics"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative EPS growth is measured based on a three-year cumulative EPS growth rate"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Stock Price Appreciation"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Since 2019, our PSU awards have been equally weighted on two performance metrics"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the Compensation Committee changed the weighting of the three performance metrics under the Annual Cash Bonus Plan for 2020 to: year-over-year net income growth (1/3)"
+   }
+  ]
+ }
+}

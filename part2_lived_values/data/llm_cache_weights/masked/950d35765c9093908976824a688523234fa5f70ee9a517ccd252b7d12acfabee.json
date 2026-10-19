@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "950d35765c9093908976824a688523234fa5f70ee9a517ccd252b7d12acfabee",
+  "est_input_tokens": 17828
+ },
+ "usage": {
+  "input_tokens": 18732,
+  "output_tokens": 1117
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Revenue Growth"
+   },
+   {
+    "id": 1,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "EPS"
+   },
+   {
+    "id": 2,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "ROE"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee believes each performance metric is a key driver of Company performance."
+   },
+   {
+    "id": 4,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Net Promoter Score"
+   },
+   {
+    "id": 5,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Strong customer retention rates"
+   },
+   {
+    "id": 6,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Merchant Locations"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Customer"
+   },
+   {
+    "id": 8,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Diversity Representation"
+   },
+   {
+    "id": 9,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Talent Retention"
+   },
+   {
+    "id": 10,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Culture"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Outstanding progress in continuing to increase colleague engagement levels across all categories"
+   },
+   {
+    "id": 12,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Expand leadership in the premium consumer space"
+   },
+   {
+    "id": 13,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Build on our strong position in commercial payments"
+   },
+   {
+    "id": 14,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Strengthen our global, integrated network to provide unique value"
+   },
+   {
+    "id": 15,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to uplift control and compliance environment across the enterprise"
+   },
+   {
+    "id": 16,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to progress on key ESG goals"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In #we focused on expanding our leadership in the premium consumer space"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "took this into consideration in determining the #Company Performance Multiplier to be #"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Factors considered in determining the appropriate individual multiplier for the NEOs included the assessment of risk taking"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Vesting of awards contingent on relative ROE and relative TSR performance versus a set of performance peers"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "above target payouts are contingent on Total Shareholder Return (TSR) performance being in the top third of our peer group"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Awards vest subject to positive cumulative net income over the #-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Committee uses the same Company Scorecard to determine annual incentives for all executives"
+   }
+  ]
+ }
+}

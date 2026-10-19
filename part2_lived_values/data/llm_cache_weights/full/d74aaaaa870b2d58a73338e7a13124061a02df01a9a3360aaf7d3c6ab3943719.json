@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "d74aaaaa870b2d58a73338e7a13124061a02df01a9a3360aaf7d3c6ab3943719",
+  "est_input_tokens": 22476
+ },
+ "usage": {
+  "input_tokens": 23939,
+  "output_tokens": 815
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the corporate performance measures were non-GAAP revenue and non-GAAP operating income as a percentage of non-GAAP revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "non-GAAP operating income as a percentage of non-GAAP revenue for the year exceeded the maximum plan performance metric"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "WSD Revenue (25%) | 0%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "WSD Operating Margin (25%) | 0%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product Revenue (20%) | 106%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Design Wins (15%) | 88%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Direct Expenses (15%) (3) | 120%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Days Sales Outstanding (20%) (4) | 83%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Zero Audit Adjustments (10%) | 150%"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "individual performance multiplier ranging from 100% to 150%, including 150% for Mr. Tan, our CEO"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on our relative TSR performance as compared to the S&P Index as well as absolute growth in our share price"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance criteria for the PRSUs were based on sustained increases in our share price"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "The performance criteria for these awards will be met only if, and at such time as, the average of the closing prices of our ordinary shares over a 20 consecutive trading day period is equal to or greater than 120%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "each goal carried an equal weighting of 50% of the corporate performance component"
+   }
+  ]
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0000320187-23-000040",
+  "task": "incentives",
+  "section_words": 7849,
+  "section_method": "heading",
+  "cache_key": "da52d41a809e5455b38ab1a0770985e2917aac4d25d6f7cceca92a2f6ab3b151",
+  "est_input_tokens": 18497
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20484,
+  "output_tokens": 1059,
+  "request_id": "req_011CgCBTLASkDtamxk4H6wDQ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Revenue (1) (Weighted 33.3%)"
+   },
+   {
+    "metric": "Adjusted Digital Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Digital Revenue (1) (Weighted 33.3%)"
+   },
+   {
+    "metric": "Adjusted EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.3,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBIT (1) (Weighted 33.3%)"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee selected Relative TSR as the metric for the fiscal 2023 \u2013 2025 PSU awards"
+   },
+   {
+    "metric": "People & Planet modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "permits the Compensation Committee to adjust the earnout upwards or downwards by up to 20 percentage points"
+   },
+   {
+    "metric": "Employee engagement and inclusion",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "metric": "Leadership diversity",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increasing representation of women in our global corporate workforce and leadership positions"
+   },
+   {
+    "metric": "Sustainability",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "operating more sustainably with respect to carbon, waste, water, and chemistry"
+   }
+  ]
+ }
+}

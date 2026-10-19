@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "79cf2d5cbf5b401d4de1ebaecdcd7fe6046081ae55be35696e25386a7834eb42",
+  "est_input_tokens": 21802
+ },
+ "usage": {
+  "input_tokens": 22327,
+  "output_tokens": 2255
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Compensation Committee"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's Strategic Company Performance Goals were established in the first # of the #performance year by the Chief Executive Officer."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As a result of Valero's #EBITDA performance, the maximum bonus pool was fully funded."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Shares of Common Stock are earned with respect to vesting performance shares only upon Valero's achievement of TSR objectives"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Additional shares of Common Stock may be earned based on the accumulated value of dividends paid on Valero's Common Stock"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "restricted stock which vests over a period determined by the Compensation Committee"
+   }
+  ],
+  "equal_split": []
+ }
+}

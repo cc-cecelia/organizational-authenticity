@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "d91c837c87a967f96287002a342605a269a32b43582e74a0925d2df46d85be05",
+  "est_input_tokens": 23891
+ },
+ "usage": {
+  "input_tokens": 25244,
+  "output_tokens": 1210
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Chevron Incentive Plan is designed to recognize annual performance achievements based on the MCC's assessment of Company performance across # categories"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#reported earnings of -#billion were significantly below Plan, mainly due to lower Upstream realizations"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2014Chevron delivered operating cash flow of #billion in #significantly below Plan."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital management\u2014#[w] return on capital employed, organic capital and exploratory expenditures, major milestones"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of -#[w] was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2014#organic C&E totaled #billion, significantly better than and exceeded the Company's announced"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan: Tengizchevroil FGP/WPMP \u2014Achieved milestones for module fabrication"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating performance\u2014#[w] Net production, Operating expense, Refining utilization"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production \u2014#million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expense \u2014#billion, slightly better than Plan. Severance charges mostly offset cost savings in #."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining utilization \u2014Rates were intentionally below Plan by #[w] points, primarily due to the significant decline in demand"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "health, environmental and safety\u2014#[w] Personal safety, Process safety and environmental, Greenhouse gas management"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2014Industry-leading Total Recordable Incident rate and matched record low Serious Injury count"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Process safety and environmental \u2014Achieved record low with # Severe Tier #incident count for the Company."
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management \u2014On-track to achieve oil, gas, flaring, and methane intensity reductions."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe TSR should be the primary overall pay-for-performance measure to align our CEO's and other NEOs' performance"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added a second LTIP performance share metric, Relative ROCE Improvement \u2013 linking LTIP to our focus on delivering higher returns."
+   }
+  ],
+  "equal_split": []
+ }
+}

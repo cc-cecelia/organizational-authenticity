@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "642d3536e9014cf0fa5e2dc6dc731af113a464e3a4fd51dd5de5f1630a647f16",
+  "est_input_tokens": 11494
+ },
+ "usage": {
+  "input_tokens": 12516,
+  "output_tokens": 772
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Income from Continuing Operations Before Taxes | $22.8 billion | 2"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Efficiency Ratio | 57.7% | 2"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Tangible Common Equity | 8.1% | 2"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Assets | 0.84% | 2"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Citigroup Risk Appetite Ratio | 118%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Surplus | $2.93 billion | 2"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic direction | 2"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk and controls management | 2"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Personnel management | 2"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Relations with external stakeholders | 1"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earned units based 50% on return on tangible common equity in 2020 and 50% on cumulative earnings per share over 2018-2020"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Ultimate value of earned units linked to Citi total shareholder returns"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Earned units based 50% on return on tangible common equity in 2020 and 50% on cumulative earnings per share over 2018-2020"
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001193125-20-116317",
+  "task": "proposals",
+  "section_words": 8029,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "47e3e51c6bfdc1baba38ca86491a787b4e7e9e0b41b2f4169f79aa7189a2c19c",
+  "est_input_tokens": 17963
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18932,
+  "output_tokens": 799,
+  "request_id": "req_011CgCBfndkSibZBCG5nUoEj"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON REDUCING CHEMICAL FOOTPRINT",
+    "proponent": "Trillium Asset Management, LLC, on behalf of Trillium P21 Global Equity Fund; First Affirmative Financial Network, LLC, on behalf of Mark Demanes and Allen Hancock",
+    "topic_summary": "Requests a report, at reasonable cost and omitting proprietary information, describing if and how TJX plans to reduce its chemical footprint.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "REPORT ON ANIMAL WELFARE",
+    "proponent": "Brianna Lynn Harrington",
+    "topic_summary": "Requests an independent analysis of material risks of operating without a company-wide animal welfare policy or restrictions on animal-sourced products associated with cruelty.",
+    "category": "other",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SETTING TARGET AMOUNTS FOR CEO COMPENSATION",
+    "proponent": "Trillium Asset Management, LLC, on behalf of Kay Berkson and the Benedictine Sisters of Mount St. Scholastica",
+    "topic_summary": "Requests the compensation committee consider pay grades and salary ranges of all employee classifications when setting CEO target pay and describe compliance in proxy statements.",
+    "category": "shareholders",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "DISCLOSURE REGARDING EXECUTIVE SHARE RETENTION",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Urges the compensation committee to disclose whether it requires executives to retain a significant percentage of equity-acquired shares until normal retirement age.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "4e2f7a7ff07960c834cb6e39eb6215c760634b0caf537bbdf9f83e240278bfa3",
+  "est_input_tokens": 19092
+ },
+ "usage": {
+  "input_tokens": 22585,
+  "output_tokens": 2667
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For 2023, actual platform revenue performance was 103% compared to target, while actual income before taxes was 106% compared to target."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Platform Revenue is a non-GAAP metric comprised of net revenues less total Humira sales and adjusted for foreign exchange, as outlined in Appendix B."
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Platform Revenue is a non-GAAP metric comprised of net revenues less total Humira sales and adjusted for foreign exchange, as outlined in Appendix B."
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Advanced our strategy through outstanding operational execution and investments in innovation during 2023"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Our EEDI strategy includes specific priority areas to ensure AbbVie fosters a community that is inclusive and working for our people"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each NEO achieved or exceeded their 2023 strategic and leadership goals, which are listed below:"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Final awards are determined by the compensation committee and include a qualitative assessment of holistic performance."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the payout curve associated with EPS, which was anticipated to be impacted by U.S. Humira LOE, was reset"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Relative TSR is measured over a 3 - year performance period and used as a modifier"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on AbbVie's return on invested capital (ROIC) articulated as pre-set goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "Financial goals are equally weighted."
+   }
+  ]
+ }
+}

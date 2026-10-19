@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000247",
+  "task": "incentives",
+  "section_words": 9054,
+  "section_method": "heading",
+  "cache_key": "4acaa12583e6d770f7317310e350049e9beb102014fac5087a87cfc85bd49bad",
+  "est_input_tokens": 19793
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24567,
+  "output_tokens": 3263,
+  "request_id": "req_011CgCApvux5bVDhLB9mWSu9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Sales (2) | $43.61B | 25% | $39.77B"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Diluted EPS | $5.21 | 25% | $4.63"
+   },
+   {
+    "metric": "Adjusted ROA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted ROA | 15.9% | 10% | 13.7%"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Free Cash Flow | $8.6B | 10% | $6.3B"
+   },
+   {
+    "metric": "Diabetes Care Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Diabetes Care Sales Growth | 10% | 88.8% of target"
+   },
+   {
+    "metric": "EPD and Nutrition Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "EPD and Nutrition Sales Growth | 10% | 85.3% of Target"
+   },
+   {
+    "metric": "Meet talent, succession planning, and diversity targets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Goal (10% weight): Meet talent, succession planning, and diversity targets."
+   },
+   {
+    "metric": "Performance restricted shares vesting on Adjusted ROE target",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance restricted shares vest one-third each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "metric": "3-year relative TSR (LTI guideline positioning)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee positions LTI award guidelines relative to the market by comparing Abbott's 3-year TSR performance against our peers."
+   },
+   {
+    "metric": "Sales and Market Growth Contribution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: Sales and market growth"
+   },
+   {
+    "metric": "Margin Contribution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: Margin"
+   },
+   {
+    "metric": "Strategic Financial Contribution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: Strategic financial measures"
+   }
+  ]
+ }
+}

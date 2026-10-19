@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "6baef090e7c916a325ba044240b25a34f51bada9c03326a45be491d9f054a8d9",
+  "est_input_tokens": 19785
+ },
+ "usage": {
+  "input_tokens": 19867,
+  "output_tokens": 2543
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "growth in \"organic revenue\" (reported revenue adjusted for the impact of acquisitions and divestitures and for foreign currency changes) (35%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income as a percentage of revenue (15%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted earnings per share (15%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "free cash flow (operating cash flow net of capital expenditures"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 30% of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We achieved a new high on our customer allegiance score in 2017"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We had a strong cadence of new product launches and we delivered strong growth in China, India and Korea"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We ramped up our financial shared services center and further integrated our Life Sciences Solutions"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We received very positive feedback from our employees in our annual employee survey"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We exceeded our synergy targets for the Company's 2016 acquisition of FEI"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Supplemental Total Shareholder Return Long-Term Incentive Program"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "based on standalone organic revenue growth in equal proportion to adjusted earnings per share"
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001326801-24-000034",
+  "task": "proposals",
+  "section_words": 16414,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "536d6c8dedd4b8cf03de2730ecb2a9a40182464dbcf62b7435e1dfe41bdc34be",
+  "est_input_tokens": 39202
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37946,
+  "output_tokens": 2231,
+  "request_id": "req_011CgC9Revn6WkLoGKEuZsAK"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Dual Class Capital Structure",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan; Comptroller of the State of New York, Thomas P. DiNapoli, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests the board initiate a recapitalization plan giving all outstanding stock one vote per share through a phase-out of Class B disproportionate voting rights within seven years.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Report on Generative AI Misinformation and Disinformation Risks",
+    "proponent": "Arjuna Capital on behalf of John B. Alexander; Open MIC on behalf of Marguerite Casey Foundation and The Woodcock Foundation; Mary Hawkins",
+    "topic_summary": "Requests a report assessing risks to company operations, finances and public welfare from generative AI misinformation and disinformation, with remediation steps and effectiveness measures.",
+    "category": "community",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Disclosure of Voting Results Based on Class of Shares",
+    "proponent": "Treasurer for the State of Illinois and Trustee of the Bright Start College Savings Trust; Schroder Investment Management Limited; Wespath Benefits and Investments",
+    "topic_summary": "Requests disclosure of voting results separately for shares with one vote and shares with multiple votes beginning at the 2025 annual meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding Report on Human Rights Risks in Non-US Markets",
+    "proponent": "AkademikerPension on behalf of Kapitalforeningen MP Invest; Storebrand Asset Management AS; Amundi Asset Management; Christina O'Connell on behalf of Mari Mennel-Bell",
+    "topic_summary": "Requests a report on measures to prevent hate speech, disinformation and incitement to violence in the five largest non-US markets, including moderator language data and independent assessment.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal Regarding Amendment of Corporate Governance Guidelines",
+    "proponent": "The Shareholder Association for Research & Education (SHARE) on behalf of The Pension Fund of The United Church of Canada",
+    "topic_summary": "Requests amending Corporate Governance Guidelines so both the Chairperson and the Lead Independent Director can independently place items on board meeting agendas.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal Regarding Human Rights Impact Assessment on AI Systems Driving Targeted Advertising",
+    "proponent": "Mercy Investment Services, Inc.; NEI Investments",
+    "topic_summary": "Requests an independent third-party human rights impact assessment of AI systems driving targeted advertising, published by June 1, 2025.",
+    "category": "community",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal Regarding Report on Child Safety Impacts and Actual Harm Reduction to Children",
+    "proponent": "Proxy Impact on behalf of the Lisette Cooper 2015 Trust and the Linda C. Wisnewski Trust; Durocher Fund; Sisters of the Holy Names of Jesus and Mary U.S.-Ontario Province; CommonSpirit Health; The Maryknoll Sisters of St. Dominic, Inc.; The Domestic and Foreign Missionary Society of the Protestant Episcopal Church; Providence St. Joseph Health; Adrian Dominican Sisters",
+    "topic_summary": "Requests the board adopt quantitative child safety and harm reduction targets and publish an annual report measuring performance.",
+    "category": "safety",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal Regarding Report and Advisory Vote on Minimum Age for Social Media",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a third-party report on risks and benefits of a higher minimum age for social media users, followed by an advisory shareholder vote on raising it.",
+    "category": "safety",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Shareholder Proposal Regarding Report on Political Advertising and Election Cycle Enhanced Actions",
+    "proponent": "As You Sow on behalf of Thomas Van Dyck",
+    "topic_summary": "Requests a report assessing benefits and drawbacks of prohibiting all political advertising and restoring 2020 election cycle enhanced actions to reduce amplification of false information.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "14",
+    "title": "Shareholder Proposal Regarding Report on Framework to Assess Company Lobbying Alignment with Climate Goals",
+    "proponent": "The Presbyterian Church (USA); Portico Benefit Services",
+    "topic_summary": "Requests a public report on the framework for identifying and addressing misalignment between Meta's lobbying activities and its Net Zero climate commitments.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   }
+  ]
+ }
+}

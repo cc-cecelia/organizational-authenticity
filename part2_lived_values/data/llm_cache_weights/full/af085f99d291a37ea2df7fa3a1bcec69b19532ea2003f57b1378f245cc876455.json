@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "af085f99d291a37ea2df7fa3a1bcec69b19532ea2003f57b1378f245cc876455",
+  "est_input_tokens": 7326
+ },
+ "usage": {
+  "input_tokens": 7997,
+  "output_tokens": 221
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For Ruth and David, company performance is defined as Alphabet's financial and operational performance and progress against Alphabet's strategic goals."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "company performance is defined as Alphabet's financial and operational performance and progress against Alphabet's strategic goals."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Leadership Development and Compensation Committee also considers individual performance in determining each named executive officer's equity awards."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "ac566ac90f920845578460513e7662bc360f0f22c133023a9af901109421c13a",
+  "est_input_tokens": 20441
+ },
+ "usage": {
+  "input_tokens": 20886,
+  "output_tokens": 849
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on three areas of company performance measured relative to internal targets: revenue, EPS, and pipeline progress."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Approvals | 2 new drug first approvals 14-15 other approvals | 0 new drug first approvals 18 other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase III starts | 3 | 2"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase I starts | 16-17 | 12"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase III starts | 5 | 9"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific and medical officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "performance award, which is a performance-based equity award that vests over three years. Payout is based on the company's two-year growth in EPS"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "shareholder value award, which is a performance-based equity award that pays out based on absolute company stock price growth measured over a three-year period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative value award, which is a performance-based equity award that pays out based on company TSR results relative to peers measured over a three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Named executive officers have 35 percent of their equity target allocated to shareholder value awards and relative value awards, respectively, and 30 percent to performance awards."
+   }
+  ]
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "1ddee13912ad167fdb02b5e4642bea0555a84224b01efb1692d5cc524dbac186",
+  "est_input_tokens": 25310
+ },
+ "usage": {
+  "input_tokens": 26325,
+  "output_tokens": 1170
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual awards are determined based on a Company Performance Factor, which is calculated based on pre-defined financial and pipeline goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of topline growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increases BMS-wide focus on delivery of our late-stage pipeline and continued development of a robust pipeline"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Regulatory submissions and approvals for new medicines and new indications and formulations of key marketed products"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression and successes of the R&D pipeline at various stages of development"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reflects management's, the Science & Technology Committee's (S&T) and the Committee's holistic evaluation of our pipeline performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an Individual Performance Factor, which is calculated based on individual achievements against pre-defined strategic and operational goals"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Drive enterprise performance: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Enhance the value of the portfolio and diversify for long-term growth: Maximize portfolio value of brands/assets"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Evolve our culture and execute our People Strategy: Continue to deepen employee engagement, cultivate great managers and leaders"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Continue to deepen employee engagement, cultivate great managers and leaders"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "delivering measureable improvements in key areas of focus, including, among others, diversity and inclusion"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "continuing to set a firm \"tone at the top\" on a culture of business integrity and ethics and compliance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (ex-fx): # #-Year Relative TSR: #"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total revenues (ex-fx), cumulative non-GAAP operating margin, and relative TSR expressed as a percentile rank"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR performance must be at median for target shares to be earned."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "comprised of goals in two categories, Near-Term Value and Long-Term Growth Potential with a Qualitative Overlay on the entire metric"
+   }
+  ]
+ }
+}

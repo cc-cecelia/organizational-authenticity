@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000248",
+  "task": "incentives",
+  "section_words": 10831,
+  "section_method": "heading",
+  "cache_key": "35a06f76b69fa5410ac24f55e591b2d042ecd307e4d346d26bb14f84be2e96bd",
+  "est_input_tokens": 24706
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26445,
+  "output_tokens": 1619,
+  "request_id": "req_011CgCCJzXtqqHqDBRhYpQvC"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Cost per Barrel (TCPB)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "measured against (i) a Total Cost per Barrel (TCPB) target and (ii) a core earnings per share (Core EPS) target, weighted at 40% and 20% of the target overall Annual Cash Incentive award"
+   },
+   {
+    "metric": "Core Earnings per Share (Core EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "weighted at 40% and 20% of the target overall Annual Cash Incentive award, respectively"
+   },
+   {
+    "metric": "Bonus (discretionary portion) key performance areas: Organizational development",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organizational development; Succession planning; Functional and operating accomplishments; Governance and ethical conduct"
+   },
+   {
+    "metric": "Succession planning",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Succession planning"
+   },
+   {
+    "metric": "Functional and operating accomplishments",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Functional and operating accomplishments"
+   },
+   {
+    "metric": "Governance and ethical conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Governance and ethical conduct"
+   },
+   {
+    "metric": "Health, environment and safety responsibilities",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Health, environment and safety responsibilities"
+   },
+   {
+    "metric": "Encouragement of diversity and inclusion",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Encouragement of diversity and inclusion"
+   },
+   {
+    "metric": "Return on Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Accounts for 25% of value of long-term incentives for the other named executive officers"
+   },
+   {
+    "metric": "Return on Assets (ROA)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Assets for Oil and Gas segment as a whole (ROA-Total) or for the Middle East/North Africa region (ROA-MENA)"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR) relative to peer group and S&P 500",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Accounts for 25% of long-term incentives for the other named executive officers"
+   },
+   {
+    "metric": "Positive GAAP earnings per share (Performance Retention Incentive)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Accounts for 50% of long-term incentives for all of the named executive officers."
+   }
+  ]
+ }
+}

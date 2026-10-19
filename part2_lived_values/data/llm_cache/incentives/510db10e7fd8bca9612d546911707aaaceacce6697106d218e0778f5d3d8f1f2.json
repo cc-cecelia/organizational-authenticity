@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001193125-22-074612",
+  "task": "incentives",
+  "section_words": 9331,
+  "section_method": "heading",
+  "cache_key": "510db10e7fd8bca9612d546911707aaaceacce6697106d218e0778f5d3d8f1f2",
+  "est_input_tokens": 22199
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23632,
+  "output_tokens": 4120,
+  "request_id": "req_011CgC9wo1XySqqcbhy8aXz7"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial \u2022 Achieve our 2021 budget, including key financial measures and progress on efficiency initiatives and expense reduction"
+   },
+   {
+    "metric": "Risk, Regulatory & Control",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC assesses performance holistically and without a predetermined or set weighting as to any particular goals."
+   },
+   {
+    "metric": "Talent, Leadership, & Culture (including DE&I)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Talent, Leadership, & Culture (including DE&I) \u2022 Advance talent management and strategy"
+   },
+   {
+    "metric": "Progress diverse representation and develop programs to foster inclusion of under-represented groups",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Progress diverse representation and develop programs to foster inclusion of under-represented groups"
+   },
+   {
+    "metric": "Strategy, Technology, & Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategy, Technology, & Innovation \u2022 Execute medium-long term plans to advance the Company's key strategic priorities"
+   },
+   {
+    "metric": "Customer-Centric Culture and Conduct",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer- Centric Culture and Conduct"
+   },
+   {
+    "metric": "Operational Excellence",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operational Excellence | \u2022 Realized ~$4 billion in gross saves through efficiency initiatives"
+   },
+   {
+    "metric": "ESG (including DE&I and Community Engagement)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ESG (including DE&I and Community Engagement)"
+   },
+   {
+    "metric": "Announced goal of aligning our business activities with the goals of the Paris Climate Agreement, and achieving net-zero greenhouse gas emissions by 2050",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Announced goal of aligning our business activities with the goals of the Paris Climate Agreement, and achieving net-zero greenhouse gas emissions by 2050"
+   },
+   {
+    "metric": "Absolute ROTCE (three-year average)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "approved awards weighted to 75% absolute ROTCE and 25% relative ROTCE"
+   },
+   {
+    "metric": "Relative ROTCE (three-year)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "approved awards weighted to 75% absolute ROTCE and 25% relative ROTCE"
+   },
+   {
+    "metric": "Relative TSR performance condition",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusts the ultimate payout by 20% (positively or negatively) if relative TSR results are in the top quartile or bottom quartile"
+   },
+   {
+    "metric": "Net Operating Loss (NOL) reduction of target Performance Shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the target number of Performance Shares will be reduced by one-third"
+   }
+  ]
+ }
+}

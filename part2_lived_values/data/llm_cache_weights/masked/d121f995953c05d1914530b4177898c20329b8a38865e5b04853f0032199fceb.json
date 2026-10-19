@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "d121f995953c05d1914530b4177898c20329b8a38865e5b04853f0032199fceb",
+  "est_input_tokens": 26365
+ },
+ "usage": {
+  "input_tokens": 26504,
+  "output_tokens": 865
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MIP Incentive Pre-tax Income was the primary metric under our FY2#incentive plan"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Global MIP key priorities were the secondary measure under our FY2#incentive plan"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Developing talent \u2022 Increased award targets and expanded eligibility under our broad-based management incentive program"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Championing culture/workplace \u2022 Announced our four new global corporate targets"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Continued inclusion and diversity (I&D) education and communication efforts to support our global I&D priorities"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Announced our four new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Continued to receive positive indicators of customer satisfaction, as shown by customer survey data"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs granted to our NEOs in FY2#will be earned based on the achievement of FY2#-#Incentive EPS growth goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PSUs will also be subject to a downward Incentive ROIC modifier if the Company does not achieve its ROIC goals"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee determined that the cumulative adjusted pre-tax income measure detailed in the table below (referred to as LRPIP Pre-tax Income), was an appropriate and effective metric"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we plan to provide additional detail about the performance goals for cycles ending after FY2#once the applicable performance cycle is complete"
+   }
+  ],
+  "equal_split": []
+ }
+}

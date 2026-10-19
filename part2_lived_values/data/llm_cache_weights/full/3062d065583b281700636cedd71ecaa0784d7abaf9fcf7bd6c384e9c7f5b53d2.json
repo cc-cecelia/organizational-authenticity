@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3062d065583b281700636cedd71ecaa0784d7abaf9fcf7bd6c384e9c7f5b53d2",
+  "est_input_tokens": 29181
+ },
+ "usage": {
+  "input_tokens": 31105,
+  "output_tokens": 991
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Revenue (40%) | A leading indicator of performance and value creation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS (40%) | A measure of income that provides focus on profitable growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (20%) | A measure that provides focus on generating cash in the short term"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Modifiers of up to +/- 30 percentage points (PP): Pipeline Achievement (25 PP) and ESG Scorecard (5 PP)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Pipeline Growth (e.g., signs of clinical activity, proof of concept, pivotal study starts and product approvals measured by peak year revenues.)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ESG Scorecard \u2014 The three ESG metrics selected align with our strategy and are consistent with key guiding principles."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Percentage of Vice President and higher roles held by women (globally) | 44.3% | 44.8%"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Percentage of Vice President and higher roles held by minorities (U.S.) | 28.3% | 30.5%"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas Emissions (in metric tons CO2e) | \u22641.10M Mt | 1.09M Mt"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "consideration of other qualitative factors"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Long-Term Incentive Compensation (100% Performance-Based Equity) | 5- and 7-Year Total Shareholder Return Units (TSRUs) Represents 25% (each)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance Share Awards (PSAs) Represents 50% of total annual grant value | Adjusted Net Income (NI)* and relative TSR"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the NYSE Arca Pharmaceutical Index (DRG Index or DRG), over a three-year period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Total Revenue (40%) | Adjusted Diluted EPS (40%) | Cash Flow from Operations (20%)"
+   }
+  ]
+ }
+}

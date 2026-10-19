@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "6cb77fb9e1095746445c5d26fe2d07180a8ccc6dd10372777c085f728b7d28b5",
+  "est_input_tokens": 23902
+ },
+ "usage": {
+  "input_tokens": 25436,
+  "output_tokens": 1611
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income Per Barrel (a) | 5th or 6th Position | 3rd or 4th Position | 1st or 2nd Position"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Controllable Costs (b) | $7,015 | $6,680 | $6,510 | $6,498 | 10% | 20%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow at MPLX LP (c) | $2,335 | $2,595 | $2,725 | $2,781 | 10% | 20%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA (d) | $3,400 | $5,700 | $7,500 | $8,001 | 5% | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability (e) | 94% | 95% | 96% | 95.9% | 10% | 19%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Marathon Safety Performance Index (f) | 1.00 | 0.65 | 0.40 | 1.07 | 5% | \u2014"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate (g) | 0.60 | 0.39 | 0.23 | 0.27 | 5% | 8.8%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents (h) | 82 | 59 | 36 | 23 | 5% | 10%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Quality Incidents (i) | $500,000 | $250,000 | $125,000 | \u2014 | 5% | 10%"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 30% is driven by a number of discretionary factors, including business results in light of opportunities and challenges encountered during the year"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Talent development, retention, succession and acquisition | \u00fc | \u00fc | \u00fc | \u00fc"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Enhancement of shareholder value through return of capital and unlocking midstream asset value | \u00fc | \u00fc | \u00fc"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Excellence in environmental, personal safety and process safety improvement | \u00fc | \u00fc | \u00fc"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progress on diversity initiatives | \u00fc | \u00fc | \u00fc | \u00fc"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Margin-neutral EBITDA (b) | $2,762 | $3,249 | $3,573 | 50% | 200%"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Growth, Productivity and Synergy Improvements (c) | $437 | $486 | $559 | 20% | 200%"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cost Management (d) | $3,961 | $3,772 | $3,583 | 15% | 106%"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Process Safety Management (e) | 0.18 | 0.16 | 0.14 | 5% | \u2014"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Environmental (e) | 33 | 28 | 25 | 5% | 88%"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Personal Safety (f) | 0.73 | 0.57 | 0.51 | 5% | 84%"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Have long-term incentive (\"LTI\") awards based on relative total shareholder return"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceed target value only with above-median relative Total Unitholder Return (\"TUR\") ranking among our peers and Distributable Cash Flow"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This metric measures the growth of MPLX's full-year DCF over the three-year performance cycle."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 9,
+    "plan": "annual_incentive",
+    "evidence": "Each measurement period has four equally weighted measurement periods"
+   }
+  ]
+ }
+}

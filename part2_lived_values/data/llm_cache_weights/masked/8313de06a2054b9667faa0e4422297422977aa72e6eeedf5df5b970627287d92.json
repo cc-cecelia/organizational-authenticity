@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "8313de06a2054b9667faa0e4422297422977aa72e6eeedf5df5b970627287d92",
+  "est_input_tokens": 34500
+ },
+ "usage": {
+  "input_tokens": 34231,
+  "output_tokens": 661
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "tie the largest portion of our NEOs' annual cash incentive opportunity to the achievement of cash flow generation targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EBITDA reflects quality Company earnings driven by operational performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key personal objectives included sustainability and/or gender balance targets"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Materially increase representation of women in senior leadership, in line with our previously announced 3-year gender balance goal"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce CO2 emissions by a pre-established target in line with our previously announced emissions reduction goal"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce \"catastrophic, major and serious\" service quality events per million manhours by a pre-established target"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Achieve, by executing our strategy, North America Land margins to or exceeding a pre-established target."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Enter into a minimum number of digital contracts exceeding a specified target contract value."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a 3-year ROCE performance period"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a 3-year free cash flow conversion performance period"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A 3-year relative TSR modifier applies to all PSUs granted in"
+   }
+  ],
+  "equal_split": []
+ }
+}

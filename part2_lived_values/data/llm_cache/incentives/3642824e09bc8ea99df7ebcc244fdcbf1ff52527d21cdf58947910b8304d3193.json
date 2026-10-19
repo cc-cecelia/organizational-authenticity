@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0000354950-20-000024",
+  "task": "incentives",
+  "section_words": 8362,
+  "section_method": "heading",
+  "cache_key": "3642824e09bc8ea99df7ebcc244fdcbf1ff52527d21cdf58947910b8304d3193",
+  "est_input_tokens": 18669
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21213,
+  "output_tokens": 858,
+  "request_id": "req_011CgCBGudo3rT7haC1fGfg3"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 45,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales | 45% | $106.15 | 95% | 10% | $111.74 | $134.09 | 120% | 200%"
+   },
+   {
+    "metric": "Operating Profit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 45,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Profit | 45% | $14.45 | 90% | 10% | $16.06 | $19.27 | 120% | 200%"
+   },
+   {
+    "metric": "Inventory Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Inventory Turns | 10% | 4.60 | 90% | 10% | 5.11 | 6.14 | 120% | 200%"
+   },
+   {
+    "metric": "Three-Year Average ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "metric": "Three-Year Average Operating Profit",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-Year Average Operating Profit (50%) | $15.25 | $16.95 | $18.64 | $15.85"
+   },
+   {
+    "metric": "Operating Profit (performance-based restricted stock forfeiture condition)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Restricted stock is forfeited if Fiscal 2019 operating profit is not at least 90% of the MIP target."
+   }
+  ]
+ }
+}

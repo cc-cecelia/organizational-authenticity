@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "47e94e2d05b7e35829170591b55a3bd1ee2954635acb04e349cd2631100ecf58",
+  "est_input_tokens": 20555
+ },
+ "usage": {
+  "input_tokens": 21140,
+  "output_tokens": 1662
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "four weighted performance categories (business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Outcomes | Weight | Assessment"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "(3) Customers & Stakeholders | Outcomes | Weight | Assessment"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "(4) Culture & Organizational Leadership | Outcomes | Weight | Determination"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EIP Revenue* | $91.5 billion, slightly below target | 40% | 130%"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EIP Operating Income* | $27.3 billion, above target"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EIP Gross Margin* | $58.7 billion, above target"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Three-Year Annualized Total Shareholder Return (\"TSR\") as of June 30, 2016 and Percentile of Peer Group | 17.2% and 77.7 percentile rank"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Reinvent Productivity and Business Processes | \u2022 60% growth in Commercial Subscribers, including O365 & Dynamics"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Build the Intelligent Cloud | \u2022 Commercial Cloud ARR >$12.1 billion, on track for $20 billion FY18 goal | 20% | 100%"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Create More Personal Computing | \u2022 Windows 10 Monthly Active Devices (\"MAD\") >350 million, off track for FY18 goal"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Customers, Partners, and Brand | \u2022 Developed and expanded strategic partnerships and business transactions across a range of customers"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Government Relations and Corporate Citizenship | \u2022 Established Microsoft Philanthropies \u2022 Externally recognized for ESG performance"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Employee Sentiment on Company Direction, Leadership, and Culture | Sustained high employee perceptions | 20% | 140%"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Diversity and Inclusion | Representation of African American/Black and Hispanic/Latino in the U.S. increased slightly."
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Talent Management | Greatest number of new hires in Company history with significant progress vis-\u00e0-vis competitors for talent"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance measures | Objective Company-wide pre-established quantitative strategic and financial measures, with thresholds below which no shares will be earned"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The EIP Revenue and EIP Operating Income targets for the fiscal year 2016 PSAs were based on achieving the Company's 2016 operating budget"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows 10 MAD metrics incorporated publicly announced three-year targets"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We incorporated a relative total shareholder return multiplier for PSAs to reward significant outperformance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "four weighted performance categories (business results 40%; product and strategies 20%; customers and stakeholders 20%; and culture and organizational leadership 20%)"
+   }
+  ]
+ }
+}

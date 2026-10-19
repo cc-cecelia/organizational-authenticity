@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "326bfb1c8784c7b5694f7c11ff039fee2f03f4f56f88dfb8398d5fe9846e8fc2",
+  "est_input_tokens": 16125
+ },
+ "usage": {
+  "input_tokens": 15974,
+  "output_tokens": 537
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "IBM continued to measure five key financial metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Imperatives revenue supports IBM's portfolio shift into a cognitive solutions and cloud platform company"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both free cash flow and operating cash flow are important measures of IBM's ability to reinvest and return value to our shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating earnings per share and free cash flow are the two metrics in the Performance Share Unit Program"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both free cash flow and operating cash flow are important measures of IBM's ability to reinvest and return value to our shareholders"
+   }
+  ],
+  "equal_split": []
+ }
+}

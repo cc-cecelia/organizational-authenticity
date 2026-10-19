@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-148743",
+  "task": "proposals",
+  "section_words": 8378,
+  "section_method": "resolved_windows",
+  "cache_key": "120c9f57a3866a2ca7e321fe477bed4f8048e2e4ac52162d376cc531dbd429f6",
+  "est_input_tokens": 17799
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20001,
+  "output_tokens": 407,
+  "request_id": "req_011CgC9Vyu9DBpdY581gBRAQ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal 6 \u2014 Stockholder Proposal Requesting the Elimination of Supermajority Voting Requirements",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Requests the board eliminate charter and bylaw voting requirements above a simple majority, replacing them with a majority of votes cast for and against.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors Recommends a Vote AGAINST Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2014 Stockholder Proposal Requesting a Report on Salesforce's Criteria for Investing in, Operating in and Withdrawing from High-Risk Regions",
+    "proponent": "David Ridenour",
+    "topic_summary": "Requests a report, excluding proprietary information and due by December 2018, identifying criteria for investing in, operating in and withdrawing from high-risk regions with human rights concerns.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors Recommends a Vote AGAINST Proposal 7."
+   }
+  ]
+ }
+}

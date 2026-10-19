@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "416093fe1f129931e007d0cad4abaaeaddfc3d91481c9d11f6c1d784d0b09c0b",
+  "est_input_tokens": 11117
+ },
+ "usage": {
+  "input_tokens": 11672,
+  "output_tokens": 323
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Net sales and operating income, as determined in accordance with generally accepted accounting principles, were chosen as the performance measures for the 2015 annual cash incentive opportunity"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs granted to our named executive officers vest according to the applicable vesting schedules described below, depending on Apple's total shareholder return relative to the other companies in the S&P 500"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures."
+   }
+  ]
+ }
+}

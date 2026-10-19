@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "0a6185a5cd7aaf2c4a4e4081c97000948471c9ea07037d0a77592b7ee821773c",
+  "est_input_tokens": 16861
+ },
+ "usage": {
+  "input_tokens": 18665,
+  "output_tokens": 765
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Industry-leading performance over investment lead times of the business required in the following 7 key areas to achieve a top quintile bonus and long-term stock award: Safety and Operations Integrity, ROCE, TSR"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Free Cash Flow, Shareholder Distributions, Strategic Business Results, and Project Execution"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Shareholder Distributions"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Business Results"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Project Execution"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "While the seven key metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "TSR ranking has been determined by a Monte Carlo simulation"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Free Cash Flow"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Shareholder Distributions"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Business Results"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Project Execution"
+   }
+  ],
+  "equal_split": []
+ }
+}

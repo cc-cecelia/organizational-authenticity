@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-506771",
+  "task": "incentives",
+  "section_words": 11603,
+  "section_method": "heading",
+  "cache_key": "5482239ec0b08e840f36a6192967df082c6b760b07aaae93a8e28bf81365759e",
+  "est_input_tokens": 26438
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27354,
+  "output_tokens": 2062,
+  "request_id": "req_011CgC9uLaFZRDraxk4RRRUZ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Performance Policy threshold: EPS of at least $3.00 or RORCE of at least the median of the Financial Performance Peer Group",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS of at least $3.00 or (2) RORCE of at least the median of the Financial Performance Peer Group"
+   },
+   {
+    "metric": "Individual Performance (qualitative objectives including risk management, compliance and diversity and inclusion)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "These objectives include compliance with our policies on information security, regulatory compliance, risk management accountability and diversity and inclusion objectives"
+   },
+   {
+    "metric": "Diversity and inclusion objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "progress on diversity and inclusion initiatives"
+   },
+   {
+    "metric": "Risk management and accountability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reinforcing a strong risk culture and continuing to strengthen risk management practices in our businesses"
+   },
+   {
+    "metric": "Company Financial Performance (net income, EPS, RORCE, ROE, total stockholder return, capital return)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company's 2015 net income of $22.9 billion, diluted EPS of $4.12, and RORCE of 12.8%"
+   },
+   {
+    "metric": "Strategic Priorities (customer relationships, revenue growth, risk management, expense management, community engagement, diversity and inclusion)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the Company's progress on key strategic priorities, including building and maintaining enduring relationships with our customers"
+   },
+   {
+    "metric": "Connecting with communities (United Way workplace giving, corporate cash donations)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "connecting with communities, as reflected by ranked by United Way Worldwide as largest workplace-giving campaign"
+   },
+   {
+    "metric": "Customer relationships (deep and enduring relationships with customers)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "success in furthering the Company's objectives of creating deep and enduring relationships with our customers"
+   },
+   {
+    "metric": "Business line financial results and strategic business line objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC considered business line financial results not in isolation or with a predetermined or set importance or weight"
+   },
+   {
+    "metric": "Relative RORCE ranking versus Financial Performance Peer Group, subject to absolute RORCE performance levels",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2015 Performance Share awards are scheduled to vest in the first quarter of 2018 based on the average of the Company's RORCE over the three-year performance period"
+   },
+   {
+    "metric": "Net Operating Loss downward adjustment of target Performance Shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "for any year in the three-year performance period that the Company incurs a Net Operating Loss (NOL), the target number of Performance Shares will be reduced by one-third"
+   },
+   {
+    "metric": "Performance-based vesting conditions (risk and conduct triggers for cancellation of Performance Shares)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC has full discretion to cancel all or a portion of these Performance Share awards upon the occurrence of the specified performance-based vesting conditions"
+   },
+   {
+    "metric": "Performance-based vesting conditions (cancellation of RSRs for CEO annual incentive)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "subject to the HRC's full discretion to cancel all or a portion of this award upon the occurrence of specified performance-based vesting conditions"
+   }
+  ]
+ }
+}

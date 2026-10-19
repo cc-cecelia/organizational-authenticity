@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001104659-24-053333",
+  "task": "proposals",
+  "section_words": 50237,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "94cb1cc753c96f74f88a5ef8f358827244ad45fd63563d89ea7929212e4b227e",
+  "est_input_tokens": 107585
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 109210,
+  "output_tokens": 1382,
+  "request_id": "req_011CgCBFN7gxEgitoWvu9Fgq"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal Six: Elect Each Director Annually",
+    "proponent": "James McRitchie",
+    "topic_summary": "Asks the Company to declassify the Board so all directors are elected annually for one-year terms.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reduction of director terms to one year."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal Seven: Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the Board to replace supermajority voting requirements in the charter and bylaws with a majority-of-votes-cast standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal for simple majority voting provisions in our governing documents."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal Eight: Annual Reporting on Anti-Harassment and Discrimination Efforts",
+    "proponent": "Comptroller of the State of New York, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests an annual public report quantifying the effectiveness of efforts to prevent harassment and discrimination against employees.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding annual reporting on anti-harassment and discrimination efforts."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal Nine: Adoption of a Freedom of Association and Collective Bargaining Policy",
+    "proponent": "SOC Investment Group",
+    "topic_summary": "Asks the Board to adopt and disclose a non-interference policy upholding workers' freedom of association and collective bargaining rights.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding adoption of a freedom of association and collective bargaining policy."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal Ten: Reporting on Effects and Risks Associated with Electromagnetic Radiation and Wireless Technologies",
+    "proponent": "Lendri Purcell",
+    "topic_summary": "Requests a report on health effects and financial and competitive risks of electromagnetic radiation and wireless technologies in vehicles.",
+    "category": "safety",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reporting on effects and risks associated with electromagnetic radiation and wireless technologies."
+   },
+   {
+    "item_number": "11",
+    "title": "Proposal Eleven: Adopting Targets and Reporting on Metrics to Assess the Feasibility of Integrating Sustainability Metrics into Senior Executive Compensation Plans",
+    "proponent": "Tulipshare Securities Limited",
+    "topic_summary": "Asks the Compensation Committee to adopt targets and report metrics on integrating sustainability and senior executive diversity metrics into executive pay.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding adopting targets and reporting on metrics to assess the feasibility of integrating sustainability metrics into senior executive compensation plans."
+   },
+   {
+    "item_number": "12",
+    "title": "Proposal Twelve: Committing to a Moratorium on Sourcing Minerals from Deep Sea Mining",
+    "proponent": "As You Sow",
+    "topic_summary": "Asks Tesla to commit to a moratorium on sourcing minerals from deep sea mining, or disclose rationale and assess need for deep sea materials.",
+    "category": "environment",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding committing to a moratorium on sourcing minerals from deep sea mining."
+   }
+  ]
+ }
+}

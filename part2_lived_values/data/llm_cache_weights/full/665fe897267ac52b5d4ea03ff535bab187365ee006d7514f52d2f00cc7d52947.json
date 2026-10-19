@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "665fe897267ac52b5d4ea03ff535bab187365ee006d7514f52d2f00cc7d52947",
+  "est_input_tokens": 15375
+ },
+ "usage": {
+  "input_tokens": 17086,
+  "output_tokens": 193
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Variable Cash | Motivate and reward for annual corporate financial performance | At-Risk | Annual Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key indicator of our annual performance which drives value and contributes to Company's long-term success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Aligns directly with shareholder value creation over a lengthy period"
+   }
+  ],
+  "equal_split": []
+ }
+}

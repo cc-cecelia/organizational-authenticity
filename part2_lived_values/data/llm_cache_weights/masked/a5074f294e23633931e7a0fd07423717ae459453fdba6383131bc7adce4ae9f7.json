@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "a5074f294e23633931e7a0fd07423717ae459453fdba6383131bc7adce4ae9f7",
+  "est_input_tokens": 14132
+ },
+ "usage": {
+  "input_tokens": 14695,
+  "output_tokens": 416
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee continues to believe that driving operating income growth remains the primary indicator of Company performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable guest count growth is [w] at # to promote the long-term health of our business and support income growth."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As a single modifier, delivery sales can increase or decrease the payout opportunity range by up to #[w] points."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs granted in #as part of the annual cycle will vest on the # anniversary of the grant date, subject to the Company's achievement of # key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to the Company's achievement of # key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs are also subject to a modifier based on relative TSR over the #-#performance period."
+   }
+  ],
+  "equal_split": []
+ }
+}

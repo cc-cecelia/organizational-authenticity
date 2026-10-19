@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "F",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "a4bcb4fa1593292efc22984da6973391f30c5ebdf38ea10d1f7e54e41203a3ed",
+  "est_input_tokens": 22894
+ },
+ "usage": {
+  "input_tokens": 24415,
+  "output_tokens": 1063
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit profit before tax, and Quality in our incentive plans for 2016"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We outperformed in the Automotive Segment Operating Cash Flow and Automotive Segment Operating Margin."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We outperformed in the Automotive Segment Operating Cash Flow and Automotive Segment Operating Margin."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "We underperformed in the Automotive Segment Revenue, Ford Credit Profit Before Taxes, and Quality metrics."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Quality metric showed performance below plan."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Automotive Segment Revenue (weighted 25%): Performance is measured against a three-year cumulative total target."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Automotive Segment Operating Margin (weighted at 40%): Performance is measured against a straight three-year average margin target."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Ford Credit Profit Before Tax (weighted at 10%): Performance is measured against a three-year cumulative total target."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Automotive Segment Operating Cash Flow (weighted at 25%): Performance is measured against a three-year cumulative total target."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The external financial metric is Ford's TSR performance compared to a peer group of companies."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee awarded Mr. Fields 100% of the grant opportunity (that is, $2.5 million in value equaling 100% of the 0%-150% opportunity)"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Mr. Fields led the creation of Ford Smart Mobility LLC to affirmatively position Ford as both an auto and mobility company."
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "With clear focus on geographic markets that are essential to our future, Mr. Fields ensured the current and future expansion of products"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Given the strategic importance of Lincoln to our brand portfolio, Mr. Fields oversaw the successful launch of the Continental in the U.S. and China."
+   },
+   {
+    "id": 14,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Mr. Fields also fostered a lean mindset that permeates the company."
+   }
+  ],
+  "equal_split": []
+ }
+}

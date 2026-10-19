@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001193125-24-090173",
+  "task": "proposals",
+  "section_words": 1511,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "eddcf8585816f0d6c125ede87f50dc4d9e7878942eb66f88c519deb7ab16be23",
+  "est_input_tokens": 3616
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4944,
+  "output_tokens": 181,
+  "request_id": "req_011CgCAmvzLxQso8vvF5mCEF"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal to adopt a simple majority vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board replace supermajority voting requirements in charter and bylaws with a majority of votes cast for and against, or a simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST the proposal and asks shareholders to review the Board's statement in opposition"
+   }
+  ]
+ }
+}

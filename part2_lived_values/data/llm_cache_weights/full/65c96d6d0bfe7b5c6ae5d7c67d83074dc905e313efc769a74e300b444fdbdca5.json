@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "65c96d6d0bfe7b5c6ae5d7c67d83074dc905e313efc769a74e300b444fdbdca5",
+  "est_input_tokens": 22859
+ },
+ "usage": {
+  "input_tokens": 24733,
+  "output_tokens": 1316
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial | 40% | \u2022 Earnings/ Earnings per Share \u2022 Return on Capital Employed \u2022 Total Shareholder Return (one, three, and five years)"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Ranked 4 th on adjusted earnings per share, with ranking adversely affected by a higher weighting than peers"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Reported earnings of $4.6 billion and 2.5 percent ROCE in 2015"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Led peer group in Total Shareholder Returns for 10-year holding period; ranked 2 nd over the five-year period."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environment, and Safety | 20% | \u2022 Process Safety \u2022 Personal Safety \u2022 Environmental Performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "One of our best years in overall Operational Excellence performance."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We had one of our best years on virtually every measure of personal safety, process safety, and petroleum spills."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Petroleum spill volume matched 2014 record low."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Performance | 25% | \u2022 Operating Expenses \u2022 Segment Earnings per Barrel \u2022 Production \u2022 Reserves \u2022 Asset Utilization Rates"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Reduced operating expenses and capital expenditures $9 billion from 2014 to 2015."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Upstream adjusted earnings per barrel were $2.06, reflecting an 88 percent decline versus 2014."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Increased net oil-equivalent production by 2 percent compared with 2014."
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Achieved a 107 percent reserves replacement ratio for 2015, 94 percent for the three-year period"
+   },
+   {
+    "id": 13,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Achieved one of our best years in terms of Downstream facility utilization and reliability."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Milestones and Commercial | 15% | \u2022 Major Capital Projects \u2022 Commercial Transactions"
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "In Upstream, we achieved first production from the Lianzi Field, located in a unitized offshore zone"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "We realized significant proceeds from divestment of non-strategic assets, primarily from the sale of our 50 percent interest in Caltex Australia Limited."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MCC also takes into account individual performance. This is largely a personal leadership dimension"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance shares have value only if Chevron achieves TSR greater than or equal to that of at least one peer in our LTIP Performance Share Peer Group"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Stock options have value when absolute stock prices rise, but do not retain value if macroeconomic or industry-specific conditions force an overall decline"
+   }
+  ],
+  "equal_split": []
+ }
+}

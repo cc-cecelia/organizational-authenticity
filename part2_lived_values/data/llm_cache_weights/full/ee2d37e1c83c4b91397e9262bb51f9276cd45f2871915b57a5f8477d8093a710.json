@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "ee2d37e1c83c4b91397e9262bb51f9276cd45f2871915b57a5f8477d8093a710",
+  "est_input_tokens": 21360
+ },
+ "usage": {
+  "input_tokens": 25081,
+  "output_tokens": 845
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Officer financial goals are based on adjusted financial measures that reflect the true results of our ongoing operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Officer financial goals are based on adjusted financial measures that reflect the true results of our ongoing operations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Assets | Measures profitability and how effectively Company assets are used to generate profit."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | Recognizes the importance of generating cash to fund ongoing investments in our business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care Sales Growth | 10% | 17.5% | 20.1% | 22.5% | 21.9% | 13.7%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Key Cardiometabolic Product Sales Growth | 10% | 80.4% of Target | Target | 120.0% Of Target | Not Achieved | 0%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each of our officers, including our Chairman and CEO, carry human capital goals to ensure that we have a diverse and innovative workforce"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest one-third each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Abbott's process to determine long-term incentive awards is based on both Company and individual performance."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales and Market Share Growth Contribution | Exceeded (+1) | Exceeded (+1) | Met (0) | +2"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Margin Contribution | Exceeded (+1) | Exceeded (+1) | Met (0) | +2"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Metrics | Exceeded (+1) | Did Not Meet (-1) | Did Not Meet (-1) | -1"
+   }
+  ],
+  "equal_split": []
+ }
+}

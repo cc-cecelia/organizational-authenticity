@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "df0ce93808d5638228014cae407815c77a939576bde6a4a903694f72dc826e89",
+  "est_input_tokens": 26714
+ },
+ "usage": {
+  "input_tokens": 30781,
+  "output_tokens": 1236
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Compensation Committee places substantial importance on the assessment of firmwide performance when determining NEO compensation."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial factors that underpin how our financial results are achieved and support appropriate investment in the firm's future."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee considered progress towards achieving our strategic goals in 2021 by reviewing a dashboard of progress across various KPIs."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Effective risk management underpins everything that we do, and our compensation program is carefully designed to be consistent with the safety and soundness of our firm."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commitment to our People Strategy, including advancing our culture, diversity and talent development"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ROE 23.0% ( 11.9 pp YoY)"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ROTE (a) 24.3% ( 12.5 pp YoY)"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Net Revenues $59.3 billion ( 33% YoY)"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "EPS $59.45 ( 140% YoY)"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Pre-Tax Earnings $27.0 billion ( 117% YoY)"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "1-Year TSR 47.6% ( 30.1 pp YoY)"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Strength of client feedback"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Reputation"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Compliance"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Governance and controls"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Diversity, equity & inclusion (e.g., hiring and representation)"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Attrition"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs will be paid at 0 -150% of the initial award based on our average ROE over 2022-2024"
+   },
+   {
+    "id": 18,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "3-YEAR AVERAGE RELATIVE ROE% EARNED (a)"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 19,
+    "plan": "long_term_incentive",
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001193125-21-109793",
+  "task": "proposals",
+  "section_words": 8631,
+  "section_method": "resolved_windows",
+  "cache_key": "4bdb67ebd4b4a09ab81cff04586bdf83eedca57837bfe602f66ccdb77cf04605",
+  "est_input_tokens": 20026
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21397,
+  "output_tokens": 988,
+  "request_id": "req_011CgCBtmsxeVYX7SZbRmCfq"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "stockholder proposal to reduce scope 3 emissions",
+    "proponent": "not stated",
+    "topic_summary": "Asks the Company to substantially reduce greenhouse gas emissions of its energy products (Scope 3) in the medium and long term, as defined by the Company.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "stockholder proposal regarding report on impacts of net zero 2050 scenario",
+    "proponent": "not stated",
+    "topic_summary": "Requests an audited report on whether and how a significant reduction in fossil fuel demand under the IEA Net Zero 2050 scenario would affect financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Given Chevron's current disclosures and robust strategy, planning, and risk management processes, your Board believes that the requested report is unnecessary."
+   },
+   {
+    "item_number": "6",
+    "title": "stockholder proposal regarding shift to public benefit corporation",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board amend the certificate of incorporation to become a Public Benefit Corporation under Delaware law and submit the amendment for shareholder approval.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Converting to a public benefit corporation is unnecessary and not an appropriate way to ensure the Company meets its social and environmental responsibilities."
+   },
+   {
+    "item_number": "7",
+    "title": "stockholder proposal regarding report on lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annually updated report disclosing lobbying policies, payments, trade association and model legislation memberships, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board is confident that the Company's political activities are aligned with Chevron's goals and the long-term interests of our stockholders."
+   },
+   {
+    "item_number": "8",
+    "title": "stockholder proposal regarding independent chair",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy and bylaw amendment requiring that, whenever possible, the Board Chair be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "stockholder proposal regarding special meetings",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaw amendments giving holders of 10% of outstanding common stock the power to call a special shareowners meeting without exceptions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

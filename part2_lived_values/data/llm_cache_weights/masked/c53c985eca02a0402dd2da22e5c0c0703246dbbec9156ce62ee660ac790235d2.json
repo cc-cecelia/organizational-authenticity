@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "c53c985eca02a0402dd2da22e5c0c0703246dbbec9156ce62ee660ac790235d2",
+  "est_input_tokens": 26198
+ },
+ "usage": {
+  "input_tokens": 26248,
+  "output_tokens": 766
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary metric in our annual MIP program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Secondary measure in our FY#MIP program ([w] #), subject to a maximum payout limit"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "focused on driving profitable sales, increasing market share, developing talent, and championing culture/workplace"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Continued inclusion and diversity (I&D) education and communication efforts to support our global I&D priorities"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Announced our # new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Continued to receive positive indicators of customer satisfaction, as shown by customer survey data"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary metric in our PSU program"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Used as downward-only modifier"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Multi-year cumulative metric in our LRPIP program"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Multi-year cumulative metric in our LRPIP program"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "Key business priorities"
+   }
+  ]
+ }
+}

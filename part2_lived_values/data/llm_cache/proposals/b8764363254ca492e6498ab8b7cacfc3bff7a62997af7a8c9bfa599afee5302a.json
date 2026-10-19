@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001326801-17-000016",
+  "task": "proposals",
+  "section_words": 5259,
+  "section_method": "resolved_windows",
+  "cache_key": "b8764363254ca492e6498ab8b7cacfc3bff7a62997af7a8c9bfa599afee5302a",
+  "est_input_tokens": 11942
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12643,
+  "output_tokens": 876,
+  "request_id": "req_011CgC9MikqywGdjJUEASvtg"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "STOCKHOLDER PROPOSAL REGARDING CHANGE IN STOCKHOLDER VOTING",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board pursue a recapitalization plan giving one vote per share for all outstanding stock, including negotiating with Class B holders to relinquish disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING A LOBBYING REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annually updated report disclosing direct and indirect lobbying policies, payments, trade association memberships, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING FALSE NEWS",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report reviewing public policy issues associated with fake news enabled by Facebook, including impacts on democracy, free speech, and reputational and operational risks.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING A GENDER PAY EQUITY REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on Facebook's policies and goals to reduce the gender pay gap, including pay gap percentages and reduction targets.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING AN INDEPENDENT CHAIR",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair to be an independent director, applied prospectively, with a waiver if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   }
+  ]
+ }
+}

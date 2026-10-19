@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "f66d3fbf40dec16eb256ee8ba01e384f35eb40d37c994f86e9f2a10dfa59b9f4",
+  "est_input_tokens": 27033
+ },
+ "usage": {
+  "input_tokens": 28007,
+  "output_tokens": 282
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business and financial results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk and control objectives"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customer and client goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "People management and leadership objectives"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROTCE is calculated for each year in the Performance Period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the CMDC relies on its business judgment to determine appropriate compensation and does not assign relative weightings to these categories"
+   }
+  ]
+ }
+}

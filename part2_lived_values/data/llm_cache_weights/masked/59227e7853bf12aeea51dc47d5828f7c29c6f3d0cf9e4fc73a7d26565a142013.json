@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "59227e7853bf12aeea51dc47d5828f7c29c6f3d0cf9e4fc73a7d26565a142013",
+  "est_input_tokens": 34992
+ },
+ "usage": {
+  "input_tokens": 36906,
+  "output_tokens": 1053
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of topline growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "our pipeline metric continues to play a critical role in our annual incentive plan"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Regulatory submissions and approvals for new medicines and new indications and formulations of key marketed products in the U.S., EU, China and Japan"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Development Candidates \u2022 First in Human \u2022 Registrational Study Starts"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reflects management's, the Science & Technology Committee's (\"S&T Committee\") and CMDC's holistic evaluation of our pipeline performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the IPF was also based on transaction-related factors, such as deal execution, integration planning activities, human capital management, and synergy identification and planning"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Drive enterprise performance: Achieve budgeted financial targets established at the beginning of the year, including revenues, non-GAAP EPS and operating margin"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Evolve our culture and execute our People Strategy: Continue to cultivate great managers and leaders, drive global diversity and inclusion, and build talent."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "all employees at the Vice President level and above will have Key Integration metrics, including human capital management and synergy realization factors"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Synergy Realization, objectively measured as progress towards acquisition synergy cost avoidance and cost savings targets."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (ex-fx): # #-Year Relative TSR: #"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx): # #-Year Relative TSR: #"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative total shareholder return (or \"TSR\") over a three-year period"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "Pipeline Score scale of one to five, with three being target"
+   }
+  ]
+ }
+}

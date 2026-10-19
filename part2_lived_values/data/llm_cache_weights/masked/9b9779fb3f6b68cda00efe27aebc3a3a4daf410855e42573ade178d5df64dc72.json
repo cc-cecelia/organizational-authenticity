@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "9b9779fb3f6b68cda00efe27aebc3a3a4daf410855e42573ade178d5df64dc72",
+  "est_input_tokens": 22888
+ },
+ "usage": {
+  "input_tokens": 24268,
+  "output_tokens": 1264
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Chevron Incentive Plan is designed to recognize annual performance achievements based on the MCC's assessment of Company performance across # categories: financial results, capital management, operating performance, and health, environmental and safety performance."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#reported earnings of #billion was below Plan, reflecting Upstream impairment and write-offs totaling #billion and weaker Downstream margins."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2014Chevron delivered operating cash flow of #billion in #supported by strong production growth."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of #[w] was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of #[w] was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2014#organic C&E totaled #billion, in-line with budget."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled #billion, above Plan, with a slight increase in unit costs."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining utilization rates were below Plan by #[w] points."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, environmental and safety performance"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Personal Safety\u2014Maintained industry-leading Days Away From Work rate and achieved record low Serious Injury count for the Company."
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance and spill volume was better than Plan, with some gaps in severity."
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management\u2014on-track to achieve flaring and methane intensity reductions."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MCC also takes into account individual performance. This is largely a personal leadership dimension, recognizing the individual's effort, initiative, and impact."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The majority of the LTIP award derives value directly from TSR (relative and absolute)."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year cliff vesting lengthens equity holding time, which enhances retention and alignment with stockholders."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is [w] to Chevron's closing common stock price on the grant date."
+   }
+  ],
+  "equal_split": []
+ }
+}

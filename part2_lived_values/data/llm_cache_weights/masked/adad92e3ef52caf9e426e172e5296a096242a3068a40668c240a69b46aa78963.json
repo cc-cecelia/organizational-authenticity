@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "adad92e3ef52caf9e426e172e5296a096242a3068a40668c240a69b46aa78963",
+  "est_input_tokens": 14824
+ },
+ "usage": {
+  "input_tokens": 15521,
+  "output_tokens": 1017
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve double-digit ROCE*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of #billion and reduce net debt-to-total capitalization ratio*"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBoed total production"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe DD&A"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe LOE & Transportation Expense"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe G&A Expenses"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record, including a reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Lower finding costs by #"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Improve capital efficiency by #"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Drill # \"premium\" wells"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost by #"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Increase \"premium\" drilling inventory by #more locations than completed wells"
+   },
+   {
+    "id": 18,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Test and confirm new \"premium\" oil or gas prospects"
+   },
+   {
+    "id": 19,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Capture key acreage on new \"premium\" oil plays"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR versus peer companies over three-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "ff34d286203031b755d10d4300c454eeb907de9cbd07f228b81cf48585cda38b",
+  "est_input_tokens": 21005
+ },
+ "usage": {
+  "input_tokens": 22677,
+  "output_tokens": 492
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Absolute Financial Performance | 25% | 2017 Intel adjusted net income $15,045 \u00f7 2016 Intel net income $10,316"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Financial Performance | 25% | 2017 Intel adjusted net income growth of 146%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "an operational performance component (50% weighting)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "corporate-level goals that for 2017 related to hiring and retaining of diverse (women and under-represented minorities) talent"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a 20% individual performance-based adjustment in recognition of Mr. Krzanich leading the company's strategic transformation"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "OSUs are variable performance-based RSUs under which the number of shares of Intel common stock earned is based on Intel's relative TSR performance over a three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "an absolute financial component (25% weighting), a relative financial component (25% weighting), and an operational performance component (50% weighting)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "f6fc20011dcc3a201dad650cdd91ec08916a3170d5bacea76e388636c0349318",
+  "est_input_tokens": 21006
+ },
+ "usage": {
+  "input_tokens": 24783,
+  "output_tokens": 1108
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We believe Adjusted EBITDA is useful in evaluating our annual core operating performance and how we determine enterprise value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety, environmental stewardship and asset availability, is critical to meeting our corporate strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Combined TRR and LWCR: Our performance in LWCR was top quartile compared to our industry group"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Combined TRR and LWCR: Our performance in LWCR was top quartile compared to our industry group"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "PSE Rate: Our PSE Rate in #was top quartile performance."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: The Compensation Committee confirmed that our availability of #[w] across all of our lines of business"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Controllable Costs focuses on operating excellence and our ability to deliver differentiated returns to shareholders."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe maintaining and enhancing a high-performing organization is critical to our success."
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "overall quality and diversity of new hires;"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "employee and leadership development through rotational moves;"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "leadership development through effective succession management; and,"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "overall retention of the right talent."
+   },
+   {
+    "id": 13,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Achievement of corporate priorities centered around promoting our culture, building capabilities, and maximizing the performance of our people."
+   },
+   {
+    "id": 14,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Response and adaptation to changing market conditions. Our headquarters, Sweeny Refinery, # terminals, and several pipelines"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute ROCE: Our PSP Absolute ROCE for the #-year performance period was #[w], or #[w] points below target"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE: Our relative performance for the #-year performance period was #th out of #peer companies"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee also recognizes that relative TSR is the most common standard for relative comparisons to peers."
+   }
+  ],
+  "equal_split": []
+ }
+}

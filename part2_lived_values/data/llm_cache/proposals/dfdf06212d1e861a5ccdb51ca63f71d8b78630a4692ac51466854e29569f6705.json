@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001206774-18-001045",
+  "task": "proposals",
+  "section_words": 3931,
+  "section_method": "resolved_windows",
+  "cache_key": "dfdf06212d1e861a5ccdb51ca63f71d8b78630a4692ac51466854e29569f6705",
+  "est_input_tokens": 9048
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10550,
+  "output_tokens": 217,
+  "request_id": "req_011CgCCXFeZbLZUMt4CRASUm"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4: Policy to Use GAAP Financial Metrics for Purposes of Determining Executive Compensation",
+    "proponent": "Chevy Chase Trust Company, as Trustee of the AFL-CIO Equity Index Fund",
+    "topic_summary": "Asks the HRCC to adopt a policy using GAAP rather than non-GAAP metrics when evaluating performance for determining senior executive compensation.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

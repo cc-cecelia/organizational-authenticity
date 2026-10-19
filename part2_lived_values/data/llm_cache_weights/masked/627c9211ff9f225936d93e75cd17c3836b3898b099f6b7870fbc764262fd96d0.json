@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "627c9211ff9f225936d93e75cd17c3836b3898b099f6b7870fbc764262fd96d0",
+  "est_input_tokens": 19923
+ },
+ "usage": {
+  "input_tokens": 22322,
+  "output_tokens": 883
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reward achievement of challenging and rigorous pre-established corporate financial goals based on revenue and adjusted non-GAAP operating income"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Revenue and adjusted non-GAAP operating income are [w] [w] in the corporate financial goals."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Division Financial and Strategic Goals | \u2022 Direct expense and fiscal responsibility of the division \u2022 Divisional strategic goals"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "the division financial and strategic goals for Ms. Spears and Mr. Brazeal were based on metrics related to their specific divisions, including direct expense and fiscal responsibility"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Divisional strategic goals"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The third pillar under the APB Plan includes a review of each executive officer's performance over the fiscal year based on pre-established goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Strategic | \u2022 M&A activity, new product development, product innovation, advances in technology and/or growth initiatives"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Operational Excellence | \u2022 Operational efficiency, cybersecurity, risk, automation and organizational improvements"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Leadership, Values & Culture | \u2022 Talent retention, succession planning and reinforcing Broadcom's values and culture and employee engagement"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "each PSU award may be earned, if at all, based on our TSR performance compared to the S&P #(\"Relative TSR\") and absolute TSR performance"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Relative TSR at or greater than #th percentile, # of the total number of the target shares subject to the award will be earned."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "formidable stock price performance hurdles would be the most effective performance measure"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Stock price hurdles (##and #) are significantly higher than the #closing price"
+   }
+  ],
+  "equal_split": []
+ }
+}

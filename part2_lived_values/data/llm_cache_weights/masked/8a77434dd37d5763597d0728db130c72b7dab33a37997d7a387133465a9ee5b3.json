@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "8a77434dd37d5763597d0728db130c72b7dab33a37997d7a387133465a9ee5b3",
+  "est_input_tokens": 15539
+ },
+ "usage": {
+  "input_tokens": 16426,
+  "output_tokens": 571
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "While the performance metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Replaced Free Cash Flow (FCF) with Cash Flow from Operations and Asset Sales (CFOAS). CFOAS is more likely to drive desired behavior"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reduced #performance share awards for CEO and other Named Executive Officers due to #-year Total Shareholder Return (TSR) performance that is not leading"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong Strategic Objectives, Business Results, and Project Execution performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "of the annual bonus is delayed and paid out when a specified level of cumulative earnings per share (EPS) is achieved"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee establishes the overall size of the annual bonus pool (\"ceiling\") based on the annual [w] change in projected Corporate earnings"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance."
+   }
+  ],
+  "equal_split": []
+ }
+}

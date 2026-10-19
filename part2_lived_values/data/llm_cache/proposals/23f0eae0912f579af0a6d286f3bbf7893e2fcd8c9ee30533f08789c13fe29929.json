@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001045810-17-000063",
+  "task": "proposals",
+  "section_words": 1202,
+  "section_method": "resolved_windows",
+  "cache_key": "23f0eae0912f579af0a6d286f3bbf7893e2fcd8c9ee30533f08789c13fe29929",
+  "est_input_tokens": 2803
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4195,
+  "output_tokens": 11,
+  "request_id": "req_011CgC9CXYAdpz3EvegiFtqM"
+ },
+ "result": {
+  "proposals": []
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "82d96ef0254a10f110be90b18883369ead8edb53890f050a34101958ecf4ae3c",
+  "est_input_tokens": 19252
+ },
+ "usage": {
+  "input_tokens": 19757,
+  "output_tokens": 1104
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentives were performance-based, with 50% determined formulaically based on achievement against pre-established financial targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentive Plan Operating Income (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer acceptance"
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Organizational diversity and inclusion"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 13,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Leadership effectiveness"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Product development and implementation"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Developer community satisfaction"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Windows 10 monthly active devices (11%)"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Surface gross margin (11%)"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR multiplier is triggered only if Microsoft's TSR is positive and above the 60th percentile of the S&P 500."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "50% determined qualitatively based on performance in three weighted performance categories"
+   },
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "Product & strategy (16.67%)"
+   }
+  ]
+ }
+}

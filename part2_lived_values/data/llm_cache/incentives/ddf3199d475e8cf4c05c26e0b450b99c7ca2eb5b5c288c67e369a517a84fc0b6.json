@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001326801-20-000037",
+  "task": "incentives",
+  "section_words": 7727,
+  "section_method": "heading",
+  "cache_key": "ddf3199d475e8cf4c05c26e0b450b99c7ca2eb5b5c288c67e369a517a84fc0b6",
+  "est_input_tokens": 17850
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18143,
+  "output_tokens": 2359,
+  "request_id": "req_011CgC9NN2C6VrofGjZpCgEk"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company priorities (company performance percentage)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The compensation, nominating & governance committee exercised its discretion in determining the company performance percentage for our First Half 2019 and Second Half 2019 performance"
+   },
+   {
+    "metric": "continue making progress on the major social issues facing the Internet and our company, including privacy, safety, and security",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "continue making progress on the major social issues facing the Internet and our company, including privacy, safety, and security"
+   },
+   {
+    "metric": "build new experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "build new experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future"
+   },
+   {
+    "metric": "keep building our business by supporting the millions of businesses that rely on our services to grow and create jobs",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "keep building our business by supporting the millions of businesses that rely on our services to grow and create jobs"
+   },
+   {
+    "metric": "communicate more transparently about what we're doing and the role our services play in the world",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "communicate more transparently about what we're doing and the role our services play in the world"
+   },
+   {
+    "metric": "Individual performance assessment (individual performance percentage)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance assessment determinations were based on an overall subjective assessment of each executive officer's performance and no single factor was determinative"
+   }
+  ]
+ }
+}

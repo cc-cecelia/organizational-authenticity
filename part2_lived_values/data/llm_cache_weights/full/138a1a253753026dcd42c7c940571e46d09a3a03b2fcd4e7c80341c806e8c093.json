@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "138a1a253753026dcd42c7c940571e46d09a3a03b2fcd4e7c80341c806e8c093",
+  "est_input_tokens": 19539
+ },
+ "usage": {
+  "input_tokens": 20946,
+  "output_tokens": 1101
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Medtronic Scorecard will continue to be an equally weighted measurement of revenue growth, diluted EPS and free cash flow"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Diluted EPS Growth (Non-GAAP) (2) | Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Free Cash Flow (Non-GAAP) (2)(3) | Free cash flow is a key driver of shareholder returns"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Medtronic also assessed nonfinancial performance focused on ID&E and Quality. We made considerable progress in diversity"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Women Mangers + (Total Medtronic) | 43.9% 1% YoY increase | 50% | 44.0% | 25.0%"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Ethnically Diverse Managers + (US only) | 28.6% 1% YoY increase | 50% | 28.4% | 22.5%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Complimenting our ID&E category was Quality emphasizing both compliance and quality."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Compliance | Findings/Inspections (FDA 483) | <= 1.0 | 33.3% | 0.88 | 16.7%"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Quality | FCA Execution Timelines | >= 95% | 33.3% | 96.0% | 16.7%"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Complaint Timeliness Execution | >= 87% | 33.3% | 90.0% | 16.7%"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final component of the FY24 MIP for NEOs is individual performance based on an assessment of performance for each individual considering financial, strategic and cultural objectives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR (50%) and 3-Yr Average Revenue Growth (50%) PSU measures; Relative Total Shareholder Return | 0%-200% | X | 50% | X"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "3-Yr Average Revenue Growth (1) | 0%-200% | X | 50% | Target Award"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For each performance measure... reduced by 30% if the ROIC target is not achieved."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Medtronic Scorecard will continue to be an equally weighted measurement of revenue growth, diluted EPS and free cash flow."
+   }
+  ]
+ }
+}

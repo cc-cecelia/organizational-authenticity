@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-098079",
+  "task": "proposals",
+  "section_words": 711,
+  "section_method": "resolved_windows",
+  "cache_key": "e713b13623552dca00382b569d0bfc562ec1a0bd124244ca530c61a08babd66f",
+  "est_input_tokens": 1893
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3336,
+  "output_tokens": 11,
+  "request_id": "req_011CgCA7i9McbgnoShpc19mi"
+ },
+ "result": {
+  "proposals": []
+ }
+}

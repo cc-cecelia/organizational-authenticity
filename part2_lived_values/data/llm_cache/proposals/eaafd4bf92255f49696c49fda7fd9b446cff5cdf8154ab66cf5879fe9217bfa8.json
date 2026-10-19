@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0000059478-21-000104",
+  "task": "proposals",
+  "section_words": 7468,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "eaafd4bf92255f49696c49fda7fd9b446cff5cdf8154ab66cf5879fe9217bfa8",
+  "est_input_tokens": 16946
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17181,
+  "output_tokens": 688,
+  "request_id": "req_011CgCASgwy1fBLrPiHE9KFZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal to Disclose Direct and Indirect Lobbying Activities and Expenditures",
+    "proponent": "Service Employees International Union Pension Plans Master Trust",
+    "topic_summary": "Requests an annual report disclosing Lilly's direct and indirect lobbying policies, payments, trade association and model-legislation organization payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal to Amend the Bylaws to Require an Independent Board Chair",
+    "proponent": "IBVM Foundation of Canada, Inc.",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the board chair, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal to Implement a Bonus Deferral Policy",
+    "proponent": "UAW Retiree Medical Benefits Trust",
+    "topic_summary": "Asks the Compensation Committee to allow withholding and adjusting part of senior executive bonuses based on short-term financial metrics during a deferral period.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal to Disclose Clawbacks on Executive Incentive Compensation Due to Misconduct",
+    "proponent": "Trinity Health",
+    "topic_summary": "Requests annual disclosure of whether incentive compensation was clawed back from senior executives due to misconduct, including former senior executives.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

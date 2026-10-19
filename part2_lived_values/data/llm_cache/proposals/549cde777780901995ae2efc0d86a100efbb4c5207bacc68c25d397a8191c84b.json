@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-133349",
+  "task": "proposals",
+  "section_words": 5228,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "549cde777780901995ae2efc0d86a100efbb4c5207bacc68c25d397a8191c84b",
+  "est_input_tokens": 11547
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12701,
+  "output_tokens": 608,
+  "request_id": "req_011CgCBfFEcrz2PCVzLHyFDe"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON COMPENSATION DISPARITIES BASED ON RACE, GENDER, OR ETHNICITY",
+    "proponent": "Zevin Asset Management, LLC, on behalf of David Fenton",
+    "topic_summary": "Requests a report on policies and goals to identify and reduce pay inequities due to gender, race, or ethnicity within the workforce.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "AMENDING TJX'S CLAWBACK POLICY",
+    "proponent": "Comerica Bank & Trust, National Association, as trustee of the Trowel Trades Large Cap Equity Index Fund",
+    "topic_summary": "Asks the Committee to amend the clawback policy to allow recoupment for conduct causing legal, company policy violations or financial or reputational harm, without materiality limit.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST this Shareholder Proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SUPPLY CHAIN POLICY ON PRISON LABOR",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests a policy to survey all suppliers for prison labor, develop supplier criteria on its use, and report progress to shareholders by June 30, 2019.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board of Directors unanimously recommends that you vote AGAINST Proposal 6."
+   }
+  ]
+ }
+}

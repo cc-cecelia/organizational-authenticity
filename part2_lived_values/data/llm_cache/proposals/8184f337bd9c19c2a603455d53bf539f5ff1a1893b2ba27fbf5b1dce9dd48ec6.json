@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-530747",
+  "task": "proposals",
+  "section_words": 4266,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8184f337bd9c19c2a603455d53bf539f5ff1a1893b2ba27fbf5b1dce9dd48ec6",
+  "est_input_tokens": 9924
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11647,
+  "output_tokens": 695,
+  "request_id": "req_011CgCB3EirfYg8x6GEFu9h1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY REPORTING",
+    "proponent": "Calvert Investment Management, Inc.",
+    "topic_summary": "Requests a sustainability report on ESG performance and goals, including greenhouse gas reduction goals, available on the company website by October 2016.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS A VOTE \"AGAINST\" THIS SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING A REPORT CONCERNING HUMAN RIGHTS",
+    "proponent": "SumOfUs",
+    "topic_summary": "Requests a report on Amazon's process for identifying and analyzing human rights risks across its operations and supply chain, including labor contractors.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING A REPORT CONCERNING HUMAN RIGHTS."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING A REPORT CONCERNING CORPORATE POLITICAL CONTRIBUTIONS",
+    "proponent": "Newground Social Investment, acting on behalf of Bryce Mathern",
+    "topic_summary": "Requests a semiannually updated report disclosing political contribuitions and expenditures, policies, and dues used for political purposes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING A REPORT CONCERNING CORPORATE POLITICAL CONTRIBUTIONS."
+   }
+  ]
+ }
+}

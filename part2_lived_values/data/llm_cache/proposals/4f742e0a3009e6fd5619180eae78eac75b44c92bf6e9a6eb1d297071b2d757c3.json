@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000829224-21-000017",
+  "task": "proposals",
+  "section_words": 5061,
+  "section_method": "resolved_windows",
+  "cache_key": "4f742e0a3009e6fd5619180eae78eac75b44c92bf6e9a6eb1d297071b2d757c3",
+  "est_input_tokens": 11585
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12651,
+  "output_tokens": 195,
+  "request_id": "req_011CgCBWoYp2FmTRwtuaMNHu"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING EMPLOYEE BOARD REPRESENTATION",
+    "proponent": "James McRitchie",
+    "topic_summary": "Urges the board to adopt a policy requiring the director nominee Initial List to include non-management employees, promoting employee perspectives among decision makers.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   }
+  ]
+ }
+}

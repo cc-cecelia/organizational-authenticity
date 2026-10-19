@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "98f17cfa6a31c418be68bb83facb00ddd579e3aa27dc2c3f63b77f8d2b524c07",
+  "est_input_tokens": 24235
+ },
+ "usage": {
+  "input_tokens": 30864,
+  "output_tokens": 888
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "multiple performance measures, including relative total stockholder return"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on AbbVie's return on equity (ROE) articulated as pre-set goals and measured relative to a group"
+   }
+  ],
+  "equal_split": []
+ }
+}

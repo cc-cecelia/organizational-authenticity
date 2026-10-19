@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000109198-21-000016",
+  "task": "incentives",
+  "section_words": 12400,
+  "section_method": "heading",
+  "cache_key": "2c76edcb31f26aceec110cfc3fef4fb0cd6e04d42e945a95f1437f06b423caf4",
+  "est_input_tokens": 28133
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29538,
+  "output_tokens": 1105,
+  "request_id": "req_011CgCBhNfuJERgKiqkPAbSy"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Key Business Priorities during the Pandemic",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on key business priorities during the pandemic (without any assigned weightings)"
+   },
+   {
+    "metric": "Human Capital (Associate Health, Safety and Culture)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "human capital, with an overarching priority of supporting the well-being of our Associates"
+   },
+   {
+    "metric": "Operational Recovery",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "operational recovery, focused on re-opening our stores, distribution centers and other locations"
+   },
+   {
+    "metric": "Cash and Financial Management",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "cash and financial management, focused on generating and preserving cash resources"
+   },
+   {
+    "metric": "Incentive Pre-tax Income",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive Pre-tax Income goals and results for FY19-21 LRPIP reflected the definitions"
+   },
+   {
+    "metric": "Incentive EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an Incentive EPS compound annual growth rate (CAGR) performance target of 13.1% over the three-year period"
+   },
+   {
+    "metric": "Incentive ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an ROIC modifier that provided for a reduction of the award payout by 20% if three-year average Incentive ROIC was at or below 21%"
+   },
+   {
+    "metric": "Pre-tax income (FY22-23 LRPIP performance period)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "FY21-23 LRPIP performance will be measured using a pre-tax income target for the final two years (FY22-23) of the cycle"
+   }
+  ]
+ }
+}

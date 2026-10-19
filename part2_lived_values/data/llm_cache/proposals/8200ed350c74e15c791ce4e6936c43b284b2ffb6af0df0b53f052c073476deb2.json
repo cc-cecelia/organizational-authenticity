@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001193125-22-067335",
+  "task": "proposals",
+  "section_words": 7247,
+  "section_method": "resolved_windows",
+  "cache_key": "8200ed350c74e15c791ce4e6936c43b284b2ffb6af0df0b53f052c073476deb2",
+  "est_input_tokens": 17598
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18384,
+  "output_tokens": 552,
+  "request_id": "req_011CgC9qjZkAPz4muCNfkF8K"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5: Shareholder proposal requesting a civil rights and nondiscrimination audit",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests the Board commission a racial equity audit analyzing the Company's impacts on civil rights and non-discrimination, with a publicly disclosed report.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 5 because:"
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6: Shareholder proposal requesting a policy on financing new fossil fuel supply",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy by end of 2022 ensuring financing does not contribute to new fossil fuel supplies inconsistent with the IEA Net Zero Emissions by 2050 Scenario.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 6)."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7: Shareholder proposal requesting a report on charitable donations",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a semi-annually updated report itemizing all charitable donations above $999 by recipient, with policies and rationale.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 7 because:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0000078003-21-000047",
+  "task": "incentives",
+  "section_words": 4063,
+  "section_method": "heading",
+  "cache_key": "81aa97f8dc79c80d28e1cc534215e32b6e9ba5fe1c63fcc66a02c324ae2a0551",
+  "est_input_tokens": 9881
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12190,
+  "output_tokens": 1817,
+  "request_id": "req_011CgCArzjxLBW4V4T8t4LvC"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "R&D pipeline achievement factor",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee added an R&D pipeline achievement factor to the existing short-term incentive financial metrics"
+   },
+   {
+    "metric": "Short-term incentive financial metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee added an R&D pipeline achievement factor to the existing short-term incentive financial metrics"
+   },
+   {
+    "metric": "Operating metric (unnamed in text)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "A long-term incentive award tied to performance based on an operating metric and relative TSR performance"
+   },
+   {
+    "metric": "Relative TSR performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "A long-term incentive award tied to performance based on an operating metric and relative TSR performance"
+   },
+   {
+    "metric": "Absolute TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "A long-term incentive award tied to absolute TSR"
+   }
+  ]
+ }
+}

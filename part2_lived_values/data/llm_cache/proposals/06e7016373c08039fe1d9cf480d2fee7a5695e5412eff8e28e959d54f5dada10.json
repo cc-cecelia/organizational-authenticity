@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082907",
+  "task": "proposals",
+  "section_words": 9234,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "06e7016373c08039fe1d9cf480d2fee7a5695e5412eff8e28e959d54f5dada10",
+  "est_input_tokens": 21482
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21933,
+  "output_tokens": 860,
+  "request_id": "req_011CgC9y5JMGCSyu7wXYrBVG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Shareholder Proposal \u2013 Make Shareholder Proxy Access More Accessible",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board reduce the shareholder aggregation threshold for proxy access by allowing shareholder groups to aggregate to 3% of stock held three years, removing the 20-shareholder nominating group limit.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 4 on the proxy card"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Shareholder Proposal \u2013 Amend Certificate of Incorporation to Become a Delaware Public Benefit Corporation",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests the board amend the certificate of incorporation to convert Wells Fargo to a Delaware Public Benefit Corporation balancing shareholder and stakeholder interests and submit it to shareholders.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 5 on the proxy card"
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 \u2013 Shareholder Proposal \u2013 Report on Incentive-Based Compensation and Risks of Material Losses",
+    "proponent": "Thomas P. DiNapoli, Comptroller of the State of New York",
+    "topic_summary": "Requests a report on whether and how the company identifies employees eligible for incentive pay tied to metrics that could expose it to material losses, with methodology and breakdowns.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 6 on the proxy card"
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 \u2013 Shareholder Proposal \u2013 Conduct a Racial Equity Audit",
+    "proponent": "Service Employees International Union Pension Plans Master Trust",
+    "topic_summary": "Urges the board to oversee a racial equity audit analyzing Wells Fargo's adverse impacts on nonwhite stakeholders and communities of color, publicly disclosed on its website.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 7 on the proxy card"
+   }
+  ]
+ }
+}

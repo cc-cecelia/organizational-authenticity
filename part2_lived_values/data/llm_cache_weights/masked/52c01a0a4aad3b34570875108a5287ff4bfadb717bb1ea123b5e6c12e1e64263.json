@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "52c01a0a4aad3b34570875108a5287ff4bfadb717bb1ea123b5e6c12e1e64263",
+  "est_input_tokens": 18773
+ },
+ "usage": {
+  "input_tokens": 18641,
+  "output_tokens": 642
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonuses is EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability; and"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "qualitative goals and objectives including the effective use of capital ( Strategic Company Performance Goals )"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Net Cash Provided by Operating Activities (\"ANC\") and Earnings Before Interest, Taxes, Depreciation, and Amortization (\"EBITDA\")."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Before Interest, Taxes, Depreciation, and Amortization (\"EBITDA\")."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance share awards require Valero's Total Shareholder Return (TSR) to meet or exceed the median TSR of our peers"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock awards were also a component of the long-term incentive portfolio in #."
+   }
+  ],
+  "equal_split": []
+ }
+}

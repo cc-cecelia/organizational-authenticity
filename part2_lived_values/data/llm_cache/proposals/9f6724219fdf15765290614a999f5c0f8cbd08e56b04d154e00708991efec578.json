@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0000063908-16-000113",
+  "task": "proposals",
+  "section_words": 7419,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9f6724219fdf15765290614a999f5c0f8cbd08e56b04d154e00708991efec578",
+  "est_input_tokens": 17385
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17970,
+  "output_tokens": 1155,
+  "request_id": "req_011CgCBLhnmLexPQ5WFVbtPE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting that all matters presented by shareholders be decided by simple majority vote",
+    "proponent": "The Equality Network Foundation, represented by Newground Social Investment",
+    "topic_summary": "Requests amending governing documents so non-binding shareholder proposals are decided by simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting the ability of shareholders to act by written consent.",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Requests permitting shareholders to act by written consent with the minimum votes needed at a fully attended meeting, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting that the Board make all lawful efforts to implement and/or increase activity on the Holy Land Principles.",
+    "proponent": "The Holy Land Principles, Inc.",
+    "topic_summary": "Requests the Board make all possible lawful efforts to implement the eight Holy Land Principles on equal employment opportunity in Palestine-Israel operations.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting the Board adopt a policy regarding use of antibiotics by its meat suppliers",
+    "proponent": "The Benedictine Sisters of Boerne, Texas",
+    "topic_summary": "Requests a policy prohibiting use of medically important antibiotics in meat supply chain for growth promotion and routine prophylaxis, with global implementation timelines.",
+    "category": "safety",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   },
+   {
+    "item_number": "8",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting an annual congruency analysis between corporate values and political contributions",
+    "proponent": "Mr. John Harrington",
+    "topic_summary": "Requests annual report analyzing whether political contributions and trade association fees misalign with McDonald's stated corporate values, with risk analysis and evaluation.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   },
+   {
+    "item_number": "9",
+    "title": "ADVISORY VOTE on a shareholder proposal requesting an annual congruency analysis of Company values and policy activities",
+    "proponent": "Ms. Amy Ridenour",
+    "topic_summary": "Requests annual report analyzing congruency between stated corporate values and policy activities, including any misaligned actions and justifications.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this shareholder proposal"
+   }
+  ]
+ }
+}

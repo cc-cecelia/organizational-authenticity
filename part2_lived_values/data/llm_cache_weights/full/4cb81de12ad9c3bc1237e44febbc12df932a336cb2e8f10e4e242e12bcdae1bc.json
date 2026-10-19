@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "4cb81de12ad9c3bc1237e44febbc12df932a336cb2e8f10e4e242e12bcdae1bc",
+  "est_input_tokens": 22726
+ },
+ "usage": {
+  "input_tokens": 23386,
+  "output_tokens": 330
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Operating Cash Flow\" is defined as our GAAP operating cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations (revenues less cost of revenues and operating expenses"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance metric is three-year relative TSR, as compared to the NASDAQ 100 Index group of companies as of the grant date"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "pre-established target levels for three equally weighted measures"
+   }
+  ]
+ }
+}

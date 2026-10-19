@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001308179-20-000154",
+  "task": "incentives",
+  "section_words": 8987,
+  "section_method": "heading",
+  "cache_key": "8608f6692a6c996b7c11e1ac9fae71ecb2853679ac08e88c2c7780c09d607313",
+  "est_input_tokens": 20603
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21739,
+  "output_tokens": 3430,
+  "request_id": "req_011CgCCQeFAwiAyPpXMKEqic"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash Value Added (CVA)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2019, we measured achievement of this objective using Cash Value Added, or CVA."
+   },
+   {
+    "metric": "Health, safety and environment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee also considers other business performance factors that are important to our investors, including health, safety, environment, and service quality, in determining the final payout amounts"
+   },
+   {
+    "metric": "Service quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee also considers other business performance factors that are important to our investors, including health, safety, environment, and service quality, in determining the final payout amounts"
+   },
+   {
+    "metric": "NOPAT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "For 2020, performance measured against: \u2022 75% NOPAT \u2022 25% Asset Turns"
+   },
+   {
+    "metric": "Asset Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "For 2020, performance measured against: \u2022 75% NOPAT \u2022 25% Asset Turns"
+   },
+   {
+    "metric": "Relative ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2019 performance units measured against ROCE performance relative to performance peers."
+   },
+   {
+    "metric": "Relative Total Shareholder Return (TSR) modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Added a relative Total Shareholder Return (TSR) modifier for the 2020 PUP performance cycle"
+   }
+  ]
+ }
+}

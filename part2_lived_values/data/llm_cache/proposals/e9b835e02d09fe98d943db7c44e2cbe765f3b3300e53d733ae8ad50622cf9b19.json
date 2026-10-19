@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-080817",
+  "task": "proposals",
+  "section_words": 609,
+  "section_method": "resolved_windows",
+  "cache_key": "e9b835e02d09fe98d943db7c44e2cbe765f3b3300e53d733ae8ad50622cf9b19",
+  "est_input_tokens": 1621
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2905,
+  "output_tokens": 11,
+  "request_id": "req_011CgCC3VbBKEJjUGznJBd41"
+ },
+ "result": {
+  "proposals": []
+ }
+}

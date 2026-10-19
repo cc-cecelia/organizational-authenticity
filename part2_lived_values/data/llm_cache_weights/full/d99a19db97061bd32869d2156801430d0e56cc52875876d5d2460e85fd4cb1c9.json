@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "d99a19db97061bd32869d2156801430d0e56cc52875876d5d2460e85fd4cb1c9",
+  "est_input_tokens": 20295
+ },
+ "usage": {
+  "input_tokens": 23702,
+  "output_tokens": 935
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | 1/3 | $216.4 billion | $227.8 billion | $239.2 billion | $226.2 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | 1/3 | $14.7 billion | $17.3 billion | $19.9 billion | $17.3 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | $13.2 billion | $15.5 billion | $17.8 billion | $15.7 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter Score \u2022 Employee Engagement \u2022 Employee Teamwork | 1/3"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "NPS improved significantly year-over-year and the Company's current employee engagement and teamwork scores were within the top quartile"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels for Employee Engagement, slightly below target for Net Promoter Score (NPS) and at threshold for Teamwork."
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels for Employee Engagement, slightly below target for Net Promoter Score (NPS) and at threshold for Teamwork."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Wichmann's individual performance evaluation was conducted by Mr. Hemsley with input from the independent members of the Board of Directors."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the 2016-2018 AEPS and ROE goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the 2016-2018 AEPS and ROE goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Cumulative Adjusted Earnings Per Share | \u200b | 50% | \u200b | $25.16 | Return on Equity | \u200b | 50%"
+   },
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "Stewardship: \u2022 Net Promoter Score \u2022 Employee Engagement \u2022 Employee Teamwork | 1/3"
+   }
+  ]
+ }
+}

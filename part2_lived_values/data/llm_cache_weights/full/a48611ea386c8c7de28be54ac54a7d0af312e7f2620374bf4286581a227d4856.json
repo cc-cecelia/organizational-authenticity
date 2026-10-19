@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "a48611ea386c8c7de28be54ac54a7d0af312e7f2620374bf4286581a227d4856",
+  "est_input_tokens": 14135
+ },
+ "usage": {
+  "input_tokens": 18971,
+  "output_tokens": 85
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "vest upon Abbott reaching a minimum return on equity target, with no more than one-third of the award vesting in any one year"
+   }
+  ],
+  "equal_split": []
+ }
+}

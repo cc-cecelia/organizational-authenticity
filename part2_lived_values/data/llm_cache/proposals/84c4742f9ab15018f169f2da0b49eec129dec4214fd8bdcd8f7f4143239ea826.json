@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-120195",
+  "task": "proposals",
+  "section_words": 4903,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "84c4742f9ab15018f169f2da0b49eec129dec4214fd8bdcd8f7f4143239ea826",
+  "est_input_tokens": 11159
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12786,
+  "output_tokens": 838,
+  "request_id": "req_011CgCB3iTTy1Qv9pXkwwBhZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING A REPORT ON USE OF CRIMINAL BACKGROUND CHECKS IN HIRING DECISIONS",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Requests a report evaluating the use of criminal background checks in hiring and employment decisions and the risk of racial discrimination resulting from them.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING A REPORT ON USE OF CRIMINAL BACKGROUND CHECKS IN HIRING DECISIONS."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE",
+    "proponent": "Mercy For Animals",
+    "topic_summary": "Requests the Compensation Committee include sustainability, covering environmental and social considerations, as a performance measure for senior executives under incentive plans.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATION PERFORMANCE MEASURE."
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS",
+    "proponent": "Investor Voice, SPC, on behalf of Bryce A. Mathern",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder proposals are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS."
+   }
+  ]
+ }
+}

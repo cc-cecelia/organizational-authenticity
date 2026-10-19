@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "c7183bd8a56b16a9a7df20f1bf0eae47a7b514cc795969f52feee5cfa697b8f1",
+  "est_input_tokens": 18434
+ },
+ "usage": {
+  "input_tokens": 18437,
+  "output_tokens": 2089
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "revenue (25 percent), EPS (50 percent), and pipeline progress (25 percent)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS (50 percent), and pipeline progress (25 percent)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Science and Technology Committee's assessment of the company's product pipeline achievements is detailed below"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Approvals | 2 new drug first approvals 15-17 other approvals | 2 new drug first approvals 24 other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase III starts | 2 | 3"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase I starts | 14-15 | 17"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase III starts | 6 | 9"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "In February 2020, the Compensation Committee established a compounded two-year EPS growth target of 5.7 percent per year"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For purposes of establishing the stock price target for the shareholder value awards, the starting price was $119.76 per share"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative value award is based on the most recent three-year Lilly TSR performance compared to industry peers."
+   }
+  ],
+  "equal_split": []
+ }
+}

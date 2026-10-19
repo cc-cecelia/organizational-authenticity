@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-098458",
+  "task": "incentives",
+  "section_words": 14976,
+  "section_method": "heading",
+  "cache_key": "4c26229ba2ff1d3cbd5d13642825a6ffbd21eb4cb698a0831ca058a299857d6a",
+  "est_input_tokens": 33051
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 35213,
+  "output_tokens": 1795,
+  "request_id": "req_011CgC9isKsmGu9W5Gmsist8"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-Over-Year Net Income Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Year-Over-Year Net Income Growth (1/3)"
+   },
+   {
+    "metric": "Relative Net Income Growth vs. Tech 15 peers",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative Net Income Growth vs. Tech 15 peers (1/3)"
+   },
+   {
+    "metric": "One Intel Operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "One Intel Operational goals (1/3)"
+   },
+   {
+    "metric": "Deliver Financial Commitments",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1. Deliver Financial Commitments. Goals based on 2020 revenue, adjusted gross margin, and adjusted spending metrics"
+   },
+   {
+    "metric": "Product Execution",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2. Product Execution. Goals related to key milestones for 2020 and future products, and design excellence"
+   },
+   {
+    "metric": "Manufacturing Leadership",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3. Manufacturing Leadership. Goals related to current and future manufacturing processes, including in areas such as output, yield, performance, and cost"
+   },
+   {
+    "metric": "Big Bets",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "4. Big Bets. Business and product goals in areas such as AI, networking/5G, and the intelligent edge"
+   },
+   {
+    "metric": "Cultural Transformation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5. Cultural Transformation. Goals related to quantitative improvements in the areas of employee engagement and customer experience"
+   },
+   {
+    "metric": "Environmental goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Environmental. Goals related to increasing our global renewable energy use and water conservation and restoration"
+   },
+   {
+    "metric": "Diversity & Inclusion goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diversity & Inclusion. Goals related to global inclusive hiring practices, including manager training"
+   },
+   {
+    "metric": "Relative TSR vs. S&P 500 IT Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR Performance (50%) + Cumulative EPS Growth (50%) = PSU Payout"
+   },
+   {
+    "metric": "Cumulative EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative EPS Growth (50%)"
+   },
+   {
+    "metric": "Stock Price Appreciation (Strategic Growth Equity Awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Units must achieve stock price growth thresholds of 30%, 50% and 100% over five years"
+   }
+  ]
+ }
+}

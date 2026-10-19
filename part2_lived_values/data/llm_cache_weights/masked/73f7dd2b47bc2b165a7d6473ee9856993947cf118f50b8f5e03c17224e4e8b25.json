@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "73f7dd2b47bc2b165a7d6473ee9856993947cf118f50b8f5e03c17224e4e8b25",
+  "est_input_tokens": 12490
+ },
+ "usage": {
+  "input_tokens": 12326,
+  "output_tokens": 1105
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mr. Forese's achievement of financial (# [w]) and non-financial (# [w]) goals is summarized in the two scorecards that follow."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-Financial Goal | Result Highlights (Glossary on Page A-#)"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "His performance on most financial metrics was evaluated on the basis of both company-wide and ICG results"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "His performance on most financial metrics was evaluated on the basis of both company-wide and ICG results"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Citicorp Core Efficiency Ratio | #"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ICG Core Efficiency Ratio | #"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Citigroup Return on Tangible Common Equity (Core) | #"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ICG Return on Tangible Common Equity (Core) | #"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Citigroup Core Return on Assets | #"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ICG Core Return on Assets | #"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ICG Risk Appetite Ratio | #"
+   },
+   {
+    "id": 11,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ICG Risk Appetite Surplus | #billion"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Execute on key franchise initiatives | In #Mr. Forese's initiatives resulted in business performance"
+   },
+   {
+    "id": 13,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Strong risk and controls management | In contrast to #ICG experienced no new headline control issues"
+   },
+   {
+    "id": 14,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Improve business optimization | Mr. Forese continued the drive towards a more streamlined and integrated ICG"
+   },
+   {
+    "id": 15,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Enhance operational efficiency | While ICG's efficiency ratio was below plan"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Set strategic direction"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Digital banking initiatives"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Drive operational efficiencies throughout Citi | Mr. Callahan has led multi-year successful efforts to reduce and optimize our global real estate footprint"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative total shareholder return versus peer median (performance share units)"
+   }
+  ],
+  "equal_split": []
+ }
+}

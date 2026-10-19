@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "3e3c7b67b4e0b06c1c38935b013021a7a65d8d2a062d4bca873d92dff54ae934",
+  "est_input_tokens": 22130
+ },
+ "usage": {
+  "input_tokens": 23679,
+  "output_tokens": 345
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance goals: For fiscal 2018, the ECC determined that for MIP, annual adjusted pre-tax income was an appropriate and effective measure to motivate, focus, and reward operational performance across the company"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cumulative three-year adjusted pre-tax income was an appropriate and effective metric to motivate, focus, and reward operational performance across the company over a longer time horizon"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the ECC also established the LRPIP adjusted pre-tax income target for this new three-year cycle based on aggregate targets for all divisions (without divisional weightings)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Full performance vesting requires a LRPIP payout of not less than 67% for the applicable cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

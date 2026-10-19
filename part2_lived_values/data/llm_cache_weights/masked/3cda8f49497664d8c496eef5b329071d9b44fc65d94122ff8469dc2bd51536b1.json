@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "3cda8f49497664d8c496eef5b329071d9b44fc65d94122ff8469dc2bd51536b1",
+  "est_input_tokens": 15970
+ },
+ "usage": {
+  "input_tokens": 17301,
+  "output_tokens": 306
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Pre-tax Income | Total Sales | EPS Growth | ROIC Core metric for our cash incentive plans and key driver for our business"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Total Sales | Supplemental metric representing top line performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pre-tax Income for LRPIP exceeded our fiscal #-#target at # of target, resulting in a payout of #"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary long-term measure reinforcing capital discipline and corporate results"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Used as downward-only modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

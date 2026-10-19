@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "5227a34daebf4f1afe28ce6c3f4c9a5c985ed186bd612c0434016a9033ac740d",
+  "est_input_tokens": 26500
+ },
+ "usage": {
+  "input_tokens": 27552,
+  "output_tokens": 954
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings Per Share (EPS) (50%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline (25%)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (50%) | Regulatory submissions and approvals for new medicines"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential (50%) | \u2022 Development Candidates \u2022 First in Human"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Overlay | Reflects management's, the Science & Technology Committee's"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor ranged between 115% and 135%"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Evolve our culture and execute our People Strategy: Embed our strategy to engage, empower and enrich employees"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Progress made on diversity and inclusion initiatives with representation of women globally"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Continuing to set a firm tone at the top on a culture of business integrity, ethics and compliance"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Drive performance of the business: Achieve budgeted financial targets"
+   },
+   {
+    "id": 11,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Enhance the value of the portfolio and diversify for long-term growth"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: 33% Total Revenues (ex-fx): 33% 3-Year Relative TSR: 34%"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx): 33%"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3-Year Relative TSR: 34%"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Units comprise 40% of our executives' target long-term equity incentives"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Non-GAAP Operating Margin: 33% Total Revenues (ex-fx): 33% 3-Year Relative TSR: 34%"
+   }
+  ]
+ }
+}

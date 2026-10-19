@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "33a581600e3e197e07d20ef0564ab9fd62bf2c45e85b322b2752afeccf8de9ec",
+  "est_input_tokens": 14746
+ },
+ "usage": {
+  "input_tokens": 15967,
+  "output_tokens": 844
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on internal and external early discovery opportunities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSUs paid out at # based on achievement of cumulative three-year OCF, cumulative three-year EPS and R-TSR metrics during the performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #PSU program is linked to three-year cumulative EPS and OCF and three-year R-TSR."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we intend to revert to a three-year cumulative EPS and R-TSR design"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Beginning in #we removed the OCF metric and increased the [w] of EPS to streamline our program design, focusing on a single earnings metric."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "#-Year R-TSR (#grants)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   }
+  ]
+ }
+}

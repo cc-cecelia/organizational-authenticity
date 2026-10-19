@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-104906",
+  "task": "incentives",
+  "section_words": 6852,
+  "section_method": "heading",
+  "cache_key": "c1ff81a64bcf839ed556c98b5cf801d1b3abc287127ee853745099bb8f9dce9c",
+  "est_input_tokens": 16027
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17688,
+  "output_tokens": 1493,
+  "request_id": "req_011CgCADsrBQeFNw2Jy2r8j3"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Diluted earnings per share (EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "metric": "ROTCE compared to COE (ROTCE divided by COE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee approved a performance goal based on ROTCE and COE with potential payouts ranging from 100% to 200% of the target shares granted."
+   },
+   {
+    "metric": "ROCE compared to COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee chose ROCE compared to COE as the performance criterion for these equity awards"
+   },
+   {
+    "metric": "Adjusted diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Selected adjusted diluted EPS as the performance criterion for the Corporate Executive Bonus Plan and set the target adjusted diluted EPS goal for 100% payout"
+   },
+   {
+    "metric": "ROTCE equaling or exceeding COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Selected ROTCE equaling or exceeding COE as the performance goal for the 2021 PBRSUs"
+   }
+  ]
+ }
+}

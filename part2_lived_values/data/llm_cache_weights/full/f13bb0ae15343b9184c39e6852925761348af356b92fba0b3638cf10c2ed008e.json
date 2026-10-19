@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "f13bb0ae15343b9184c39e6852925761348af356b92fba0b3638cf10c2ed008e",
+  "est_input_tokens": 26155
+ },
+ "usage": {
+  "input_tokens": 32397,
+  "output_tokens": 658
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Medtronic's financial performance including revenue growth, non-GAAP EPS, free cash flow and market share can be adjusted up or down based on Team Performance and Individual Performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earned payouts under the MIP for annual revenue growth and diluted EPS can range from 50% to 200%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "for free cash flow 50% to 150%, for market share 90% to 110%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "for market share 90% to 110%, for the team scorecard 80% to 110%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "for the team scorecard 80% to 110% and their individual scorecard (other than the CEO) 70% to 130%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "their individual scorecard (other than the CEO) 70% to 130% of the target award"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with the weighting of 3-year revenue growth and 3-year relative total shareholder return at 50% each"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with the weighting of 3-year revenue growth and 3-year relative total shareholder return at 50% each"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Invested Capital (12-month non-GAAP earnings after the removal of after-tax impact of amortization"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "long_term_incentive",
+    "evidence": "with the weighting of 3-year revenue growth and 3-year relative total shareholder return at 50% each"
+   }
+  ]
+ }
+}

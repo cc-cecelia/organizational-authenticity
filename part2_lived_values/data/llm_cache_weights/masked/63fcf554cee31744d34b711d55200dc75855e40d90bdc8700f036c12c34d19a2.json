@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "63fcf554cee31744d34b711d55200dc75855e40d90bdc8700f036c12c34d19a2",
+  "est_input_tokens": 16807
+ },
+ "usage": {
+  "input_tokens": 16569,
+  "output_tokens": 2372
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organic revenue growth | \u2022 Reflects financial performance, which is a strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted net income | \u2022 Reflects achievement of our strategic goals by encouraging efficient operations and resource allocations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow | \u2022 Reflects quality of earnings and cash flows that may be reinvested in our businesses"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee assesses non-financial performance across identified areas of strategic importance"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee determined that one of the areas of strategic importance to the Company was the achievement of its ESG priorities"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Make progress on our greenhouse gas emission reduction goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Continue to focus on the safety of our colleagues"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Continue to improve leadership diversity"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Build on momentum to support our communities through colleague involvement and STEM education"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Position Company for accelerated revenue growth | \u2022 Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Improve Customer Allegiance Score (CAS) vs. #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Position Company to drive margin expansion over mid-term | \u2022 Drives strong future profitability"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organic revenue growth | \u2022 Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted earnings per share (\"adjusted EPS\")* | \u2022 Prevalent, industry-relevant measure of delivery of shareholder value"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Company's #-year TSR for the performance period will be measured against the #TSR Peer Group"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In September #the Committee approved a performance-based stock option program for senior leaders, including our executives"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Payouts under the program are step-wise, based on standalone organic revenue growth in equal proportion to adjusted EPS"
+   }
+  ]
+ }
+}

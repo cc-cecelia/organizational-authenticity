@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "bb8349c0e7c061b9f4f25e31d83330d93223988c837bb74fcb5949ae0d771ed4",
+  "est_input_tokens": 27801
+ },
+ "usage": {
+  "input_tokens": 28357,
+  "output_tokens": 1847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our FY21 MIP was based on our key business priorities during the pandemic"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "human capital, with an overarching priority of supporting the well-being of our Associates"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "operational recovery, focused on re-opening our stores, distribution centers and other locations"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "cash and financial management, focused on generating and preserving cash resources and maintaining financial strength and flexibility"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key financial metric in our long-term cash program (LRPIP)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary measure in our PSU program"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Secondary measure in our PSU program"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "FY21-23 LRPIP performance will be measured using a pre-tax income target for the final two years"
+   }
+  ],
+  "equal_split": []
+ }
+}

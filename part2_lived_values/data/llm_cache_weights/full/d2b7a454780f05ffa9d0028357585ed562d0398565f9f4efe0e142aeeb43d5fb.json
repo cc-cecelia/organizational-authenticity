@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "d2b7a454780f05ffa9d0028357585ed562d0398565f9f4efe0e142aeeb43d5fb",
+  "est_input_tokens": 35900
+ },
+ "usage": {
+  "input_tokens": 37156,
+  "output_tokens": 1362
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure results against the approved target."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Capital | $9.2 | Delivered capital scope with $9.4B, within 2% of target"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The target was set at $7.3 billion, which was consistent with the operating plan outlined to the marketplace in 2022."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The Operational Milestones and targets are also designed to create alignment within our workforce"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis and relative to peers over a one-year period."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic and ESG Milestones represent annual actions to progress our long-term objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Successful integration of Permian assets acquired in 2021"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Demonstrated meaningful progress toward our Paris-aligned climate risk framework"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Achieving top quartile ESG performance on MSCI, ISS ESG, Bloomberg ESG and DJSI rating frameworks relative to peers"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Closed $2.2B in dispositions and executed debt refinancing objective"
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Executing debt refinancing transactions and re-syndicating revolving credit facility;"
+   },
+   {
+    "id": 15,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Successfully progressing 2022 elements of DEI priorities and tactics."
+   },
+   {
+    "id": 16,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "entered into strategic agreements to expand our global LNG business"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our long-term success."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "relative Total Shareholder Return, which is weighted 60 percent"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative Financial, which is weighted 40 percent."
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Long-term equity-based compensation designed to encourage executive retention and promote stock ownership"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the base VCIP award is comprised of equally weighted corporate performance categories including HSE, Operational, Financial, Strategic and ESG Milestones, and TSR."
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each of the performance measures was assigned an equal weight."
+   }
+  ]
+ }
+}

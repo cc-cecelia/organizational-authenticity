@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e5e8dcd123f76d1dbf92a1df8f3737523038c8e2c71ae850297d072bd45cb838",
+  "est_input_tokens": 15880
+ },
+ "usage": {
+  "input_tokens": 17073,
+  "output_tokens": 471
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added Cash Flow from Operations and Asset Sales"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Due to 10-year Total Shareholder Return (TSR) performance that is not leading average of industry peers"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong Strategic Objectives, Business Results, and Project Execution performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Half of annual bonus delayed until cumulative earnings per share (EPS) reach a specified level"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus program formula has been consistently applied in each of the last 16 years, including years in which earnings declined"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

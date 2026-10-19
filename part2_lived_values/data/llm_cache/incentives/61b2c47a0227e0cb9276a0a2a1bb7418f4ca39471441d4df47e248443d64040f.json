@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001104659-18-016710",
+  "task": "incentives",
+  "section_words": 8285,
+  "section_method": "heading",
+  "cache_key": "61b2c47a0227e0cb9276a0a2a1bb7418f4ca39471441d4df47e248443d64040f",
+  "est_input_tokens": 18869
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19894,
+  "output_tokens": 1781,
+  "request_id": "req_011CgC9dxJ85ttyKszphE4HE"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Strategic Imperatives Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Imperatives Revenue | $36.5B | 99% | 20% | 100"
+   },
+   {
+    "metric": "Operating Net Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Net Income** | $12.9B | 91% | 40%"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Cash Flow** | $16.3B | 101% | 40%"
+   },
+   {
+    "metric": "Operating EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "metric": "Relative Return on Invested Capital (ROIC) modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Starting with the 2018\u20132020 PSU Program, a Relative Return on Invested Capital (ROIC) modifier has been added to the program design."
+   }
+  ]
+ }
+}

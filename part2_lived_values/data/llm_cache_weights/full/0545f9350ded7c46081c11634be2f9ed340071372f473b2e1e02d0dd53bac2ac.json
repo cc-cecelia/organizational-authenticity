@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "0545f9350ded7c46081c11634be2f9ed340071372f473b2e1e02d0dd53bac2ac",
+  "est_input_tokens": 19539
+ },
+ "usage": {
+  "input_tokens": 22634,
+  "output_tokens": 385
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's sales (weighted 40%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "operating income (weighted 40%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "inventory improvement (weighted 10%) and Pro sales growth (weighted 10%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "inventory improvement (weighted 10%) and Pro sales growth (weighted 10%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2020 PSUs will be earned based on the Company's achievement of a three-year average ROIC goal, and a relative TSR modifier."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PSUs reported in this column are earned based on the Company's ROIC over a three-year performance period and a relative TSR modifier."
+   }
+  ],
+  "equal_split": []
+ }
+}

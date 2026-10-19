@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000005",
+  "task": "proposals",
+  "section_words": 516,
+  "section_method": "resolved_windows",
+  "cache_key": "476ef35ca71924c2ef8665d293460adb8ee17fdbddd0a6362f3d932c976f2a89",
+  "est_input_tokens": 1444
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2830,
+  "output_tokens": 11,
+  "request_id": "req_011CgCC6Ay6JMvH4NomsLVz5"
+ },
+ "result": {
+  "proposals": []
+ }
+}

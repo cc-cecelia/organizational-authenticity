@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "7fbb48df2c90a10f0b9b616b5ddc1192b3085b4b674b1e852b4a73a7a3f5f765",
+  "est_input_tokens": 38941
+ },
+ "usage": {
+  "input_tokens": 38371,
+  "output_tokens": 1375
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating safely and reliably is # of Valero's highest priorities and is critically important to maximizing profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Vessel/PSV Inspections | Number of vessel and pressure safety valve (PSV) inspections that are past-due | Leading"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "PHA Action Items > #Years (Non-Turnaround for Refining) | Number of corrective refining or logistics Process Hazard Analysis (PHA) action items"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "HSE Audit Past-due Items | Number of past-due items identified through comprehensive internal audits"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Management Audits [w] | [w] of ethanol audit items completed as identified through monthly safety and environmental program audits"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Scorecard Incidents | Number of incidents reportable to regulatory agencies | Lagging"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Tier #API Process Safety Incidents/Rate | Number or rate of recordable safety incidents occurring in conjunction with a loss of process containment"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Reliability Events | Number of events causing an ethanol plant outage of greater than #-# day"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability \u2013 Measures Valero's achievements in improving refining competitiveness through improved mechanical availability within our refineries"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Refining Cash Operating Expense Management \u2013 Measures Valero's achievements in managing refinery operating costs"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Execution \u2013 This component, with a [w] of #[w] of the Annual Incentive Bonus program, includes evaluation by the Human Resources and Compensation Committee of accomplishments"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Environmental, Social and Governance (ESG) Efforts & Improvement* | \u2022 Environmental stewardship"
+   },
+   {
+    "id": 13,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Environmental stewardship"
+   },
+   {
+    "id": 14,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Sustainability"
+   },
+   {
+    "id": 15,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion"
+   },
+   {
+    "id": 16,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Compliance"
+   },
+   {
+    "id": 17,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship and community"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary performance measure: Relative TSR vs. Performance Peer Group"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy Transition Modifier: GHG emissions reduction/displacement tied to performance shares; +/- points to final payout"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy Transition modifier tied to GHG emissions reduction/displacement and growth capital deployed for low-carbon initiatives"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "Consists of # separately [w] HSE metrics across # operational groups"
+   }
+  ]
+ }
+}

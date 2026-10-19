@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "b4a1861c907c07f83c1267a43acc91cd3d1c6b64a2310c60322e36baeaa63b19",
+  "est_input_tokens": 20780
+ },
+ "usage": {
+  "input_tokens": 21487,
+  "output_tokens": 1723
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "because we did not achieve the revenue performance goal for Fiscal Year #"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted non-GAAP operating margin was #, which was above the pre-established target attainment levels of performance."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Represents direct expenses of the division or function, as applicable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (#) | #"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Bookings (#) | #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (#) | #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (#) | #"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (#) | #"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final payouts under the APB Plan included the effect of a non-subjective individual performance multiplier"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Achievement Factor is based on our Relative TSR for the performance period."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "if our absolute TSR is negative for the # performance period, then the maximum number of shares of common stock that may be earned is #"
+   }
+  ],
+  "equal_split": []
+ }
+}

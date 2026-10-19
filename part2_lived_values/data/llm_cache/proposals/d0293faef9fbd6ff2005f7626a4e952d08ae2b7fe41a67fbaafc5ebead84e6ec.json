@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-131092",
+  "task": "proposals",
+  "section_words": 1791,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "d0293faef9fbd6ff2005f7626a4e952d08ae2b7fe41a67fbaafc5ebead84e6ec",
+  "est_input_tokens": 4344
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5639,
+  "output_tokens": 212,
+  "request_id": "req_011CgCBcLakBqyR9iNLdMoYW"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding the Feasibility of Setting Renewable Energy Sourcing Targets",
+    "proponent": "David Brook",
+    "topic_summary": "Requests a report assessing the climate benefits and feasibility of adopting enterprise-wide, quantitative, time-bound targets for increasing Lowe's renewable energy sourcing and/or production.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" this shareholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "eb3053a746297b6ddd1720ff0868a9f0ef3e0b5447f7f6c9e30816c373aeb007",
+  "est_input_tokens": 22308
+ },
+ "usage": {
+  "input_tokens": 22783,
+  "output_tokens": 1847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth (35%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Operating Income as a Percentage of Revenue (15%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Net Income (15%) \u2022 The threshold level of performance required was $5,270 million"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow (5%) \u2022 The threshold level of performance required was $4,400 million"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial performance score: 367%. The Committee assesses performance in our five identified areas of strategic importance"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Key areas of focus \u2022 Improve Customer Allegiance Score (\"CAS\") vs. 2019"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Positioning the Company for Accelerated Revenue Growth Key areas of focus \u2022 Improve impact from innovation"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Employer of Choice/Diversity Key areas of focus \u2022 Deepen culture of diversity, involvement and inclusion"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Effectively Execute Capital Deployment Strategy Key areas of focus \u2022 Successfully integrate completed acquisitions"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth, which also features under our annual incentive plan for 2020, is of particular importance"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-based restricted stock units ... Organic revenue growth; and Adjusted EPS."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2020 TSR Award: in September 2020 the Compensation Committee approved a new performance-based stock option program for senior leaders"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "based on standalone organic revenue growth in equal proportion to adjusted earnings per share"
+   }
+  ]
+ }
+}

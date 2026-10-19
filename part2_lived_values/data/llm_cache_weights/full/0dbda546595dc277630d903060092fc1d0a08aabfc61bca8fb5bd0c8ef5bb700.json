@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "0dbda546595dc277630d903060092fc1d0a08aabfc61bca8fb5bd0c8ef5bb700",
+  "est_input_tokens": 14139
+ },
+ "usage": {
+  "input_tokens": 15016,
+  "output_tokens": 327
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes EPS growth is an effective measure of operational performance"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SVAs are earned based on Lilly's share price (and beginning in 2016, relative TSR performance)."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a modifier based on Lilly's three-year cumulative TSR relative to our peer companies' median TSR performance will be applied"
+   }
+  ],
+  "equal_split": []
+ }
+}

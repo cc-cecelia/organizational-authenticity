@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "8c58735894d7d73e8ad9e8aa67bae82796606277be9ba976ecc9a82c242b7e0c",
+  "est_input_tokens": 34668
+ },
+ "usage": {
+  "input_tokens": 34256,
+  "output_tokens": 799
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "tie the largest portion of our NEOs' annual cash incentive opportunity to the achievement of cash flow generation targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ADJUSTED EBITDA \u2013 # WHY THIS METRIC? Committee considered a number of factors when it approved adjusted EBITDA as a performance metric"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key Personal Objectives Early each fiscal year, our Compensation Committee reviews and approves the key personal objectives of the CEO"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Gender Balance | Materially increase representation of women in senior leadership, in line with our previously announced five-year gender balance goal."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Sustainability | Reduce CO #emissions by a pre-established target in #in line with our previously announced five-year emissions reduction goal."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Safety | Reduce \"catastrophic, major and serious\" service quality events per million manhours by a pre-established target percentage."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Financial Results | Achieve, by executing our strategy, North America Land margins equal to or exceeding a pre-established target."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Strategic \u2013 Digital | Enter into a minimum number of digital contracts exceeding a specified target contract value."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a three-year ROCE performance period (the \"#ROCE PSUs\")"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "awards of PSUs with a two-year free cash flow conversion performance period (the \"#FCF Conversion PSUs\")"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A three-year relative TSR modifier applies to all PSUs granted in #. As a result, all PSUs granted in #will vest"
+   }
+  ],
+  "equal_split": []
+ }
+}

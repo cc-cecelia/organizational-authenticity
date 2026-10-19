@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "ba143637e9707fcc3abf7d3f4a59dd63b89388526099332694f5d3ad18fa3411",
+  "est_input_tokens": 14810
+ },
+ "usage": {
+  "input_tokens": 16089,
+  "output_tokens": 205
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue | Revenue exceeded Stretch Operating Plan goal"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SY PSUs based on annual Non-GAAP Operating Income performance, vesting over 4 years"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MY PSUs based on 3-year TSR relative to the S&P 500, vesting after completion of the 3-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

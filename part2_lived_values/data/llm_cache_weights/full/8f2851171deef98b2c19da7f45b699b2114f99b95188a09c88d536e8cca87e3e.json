@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "8f2851171deef98b2c19da7f45b699b2114f99b95188a09c88d536e8cca87e3e",
+  "est_input_tokens": 16136
+ },
+ "usage": {
+  "input_tokens": 17367,
+  "output_tokens": 888
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve 20% all-in after-tax rate of return* on total capital expenditures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve 20% ROCE* | 15% | Achieved 28% ROCE*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of $4.5 billion before dividends | 15%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve median in peer group in TSR performance and forward-year cash flow multiple | 5%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve unit cost targets | 5%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Realize total recordable incident rate below 0.5 | 7.5%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Continued commitment to strong environmental record: \u2022 Oil spill rate below 0.01 per Mboe gross volumes"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Oil spill rate below 0.01 per Mboe gross volumes"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Methane emissions intensity below 0.6 metric tons of CO 2 e per Mboe gross volumes"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "GHG emissions intensity below 13.5 metric tons of CO 2 e per Mboe gross volumes"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Flaring intensity below 1.4 metric tons of CO 2 e per Mboe gross volumes"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational and organizational execution goals, weighted 30% in total for 2023"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR Performance (Primary Performance Metric)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The 2023 performance unit awards include an absolute ROCE* modifier."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The overall 2023 performance award payout ... is capped at target (100%) if EOG's absolute TSR is negative"
+   }
+  ],
+  "equal_split": []
+ }
+}

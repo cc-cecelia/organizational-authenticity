@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "def431f868c8556f46c336e62ccff593e5b80bfba1ea8138e80031ff86535ba1",
+  "est_input_tokens": 11814
+ },
+ "usage": {
+  "input_tokens": 13630,
+  "output_tokens": 182
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As described under the \"Environmental, Social, and Governance Bonus\" section, these amounts reflect bonus awards paid out on March 22, 2024 for performance in 2023."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Assuming the maximum achievement of the TSR performance goals, the aggregate market value of the PSUs on the date of grant would be $9,978,464."
+   }
+  ],
+  "equal_split": []
+ }
+}

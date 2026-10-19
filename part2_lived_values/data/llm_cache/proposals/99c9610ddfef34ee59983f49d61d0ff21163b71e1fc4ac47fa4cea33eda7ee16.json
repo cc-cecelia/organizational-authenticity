@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0000097745-21-000019",
+  "task": "proposals",
+  "section_words": 1436,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "99c9610ddfef34ee59983f49d61d0ff21163b71e1fc4ac47fa4cea33eda7ee16",
+  "est_input_tokens": 3456
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4688,
+  "output_tokens": 185,
+  "request_id": "req_011CgCAkaZyphu3gXBTmSy1r"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "A shareholder proposal regarding the right to call special meetings",
+    "proponent": "John Chevedden, on behalf of Myra Young",
+    "topic_summary": "Asks the board to amend bylaws so holders of 15% of outstanding common stock may call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your board of directors recommends a vote AGAINST the shareholder proposal regarding the right to call special meetings."
+   }
+  ]
+ }
+}

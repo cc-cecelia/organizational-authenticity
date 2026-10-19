@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "bfd11620c80c4db29e09ac1978571c03cf466a1517f332dd4bdc4de46badfc2b",
+  "est_input_tokens": 23269
+ },
+ "usage": {
+  "input_tokens": 24444,
+  "output_tokens": 718
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Compensation Committee in the first quarter of the performance year"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability; and"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in cost management."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's Strategic Company Performance Goals were established in the first quarter of the 2018 performance year by the Chief Executive Officer"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "a qualitative assessment by the Compensation Committee of cost control initiatives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee evaluates the individual performance of, and performance objectives for, our named executive officers."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Measures relative Total Shareholder Return (TSR) against eight-company Performance Peer group across a three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the mix of long-term incentives awarded to our named executive officers was split evenly, on a share value basis, between grants of restricted stock and awards of performance shares"
+   }
+  ]
+ }
+}

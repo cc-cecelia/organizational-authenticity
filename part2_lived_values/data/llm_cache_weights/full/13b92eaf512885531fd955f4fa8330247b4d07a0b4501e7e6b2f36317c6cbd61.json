@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "13b92eaf512885531fd955f4fa8330247b4d07a0b4501e7e6b2f36317c6cbd61",
+  "est_input_tokens": 35106
+ },
+ "usage": {
+  "input_tokens": 36647,
+  "output_tokens": 1172
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% of the overall Annual Incentive Bonus Plan payout is based on adjusted net revenue and adjusted operating income goals, which are weighted 40% and 60%, respectively"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% of the overall Annual Incentive Bonus Plan payout is based on adjusted net revenue and adjusted operating income goals, which are weighted 40% and 60%, respectively"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The remaining 50% of the overall Annual Incentive Bonus Plan payout for fiscal 2021 is based on what we call the \"individual performance factor\""
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "people-positive goals whose achievement will vary by participant, and include inclusion and diversity goals (20% weighting)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "BIPOC Retention Rate*: \u226590%"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mentorship Program: Serve as a mentor to BIPOC mentees with a meaningful time commitment"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Inclusive Leadership Survey linked to Mentorship Program: Average score >3 on scale of 1-5"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "planet-positive environmental goals (20% weighting)"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Dairy: farm-level methane reduction"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Packaging: eliminate plastic straws"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "company profit-positive goals (20% weighting)"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Operating Margin: 16.0%"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Comparable Store Sales: 21.3%"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Net New Stores: 1,229"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "goals which are specific to each individual participant related to our Mission and Values and strategic and operational goals (40% weighting)"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs, where the number of shares earned is based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of 25% based on relative TSR performance"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an additional downward or upward adjustment of up to 10% based on achievement of inclusion and diversity goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "people-positive goals ... (20% weighting); planet-positive environmental goals (20% weighting); company profit-positive goals (20% weighting)"
+   }
+  ]
+ }
+}

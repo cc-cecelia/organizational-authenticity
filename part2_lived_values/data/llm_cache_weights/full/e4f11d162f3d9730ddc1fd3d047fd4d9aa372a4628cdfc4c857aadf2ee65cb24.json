@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e4f11d162f3d9730ddc1fd3d047fd4d9aa372a4628cdfc4c857aadf2ee65cb24",
+  "est_input_tokens": 24378
+ },
+ "usage": {
+  "input_tokens": 25943,
+  "output_tokens": 1069
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with 50% of the award opportunity dependent on BlackRock's financial performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Strength | \u2022 | Deliver Superior Client Experience"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength | \u2022 | Drive High Performance"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net New Business"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net New Base Fees"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Organic Revenue Growth"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating Income, as adjusted 1"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating Margin, as adjusted 1"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Diluted EPS, as adjusted 1"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return and P/E Multiple"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Deliver Superior Client Experience"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Drive Organization Discipline"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Lead in a Changing World"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Drive High Performance"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Build a more Diverse and Inclusive Culture"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Develop Great Managers and Leaders"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial factors , such as revenue, Operating Income, Diluted EPS and Operating Margin, in each case, as adjusted"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial factors such as individual NEO performance in running their respective businesses, overall investment performance, client relationship strength"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on the level of attainment of pre-established Organic Revenue and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 19,
+    "parent_id": 18,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "provided a stock price hurdle of at least 25% growth from the strike price of $513.50"
+   }
+  ],
+  "equal_split": []
+ }
+}

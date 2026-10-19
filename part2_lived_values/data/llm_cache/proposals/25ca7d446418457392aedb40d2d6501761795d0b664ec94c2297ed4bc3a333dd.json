@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000261",
+  "task": "proposals",
+  "section_words": 2967,
+  "section_method": "resolved_windows",
+  "cache_key": "25ca7d446418457392aedb40d2d6501761795d0b664ec94c2297ed4bc3a333dd",
+  "est_input_tokens": 6615
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8159,
+  "output_tokens": 11,
+  "request_id": "req_011CgCAuWfaQc7V5XbyTLT2w"
+ },
+ "result": {
+  "proposals": []
+ }
+}

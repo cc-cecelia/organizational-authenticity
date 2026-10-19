@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-107675",
+  "task": "proposals",
+  "section_words": 6308,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "396cd20413ed6b6ddad3c330b2dea29cadb894b719b8422161a3d5abb553bf05",
+  "est_input_tokens": 14128
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15018,
+  "output_tokens": 681,
+  "request_id": "req_011CgC9gRkgaU1nBY13qasAX"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL ON WHETHER TO ALLOW STOCKHOLDERS TO ACT BY WRITTEN CONSENT",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board permit shareholders to act by written consent, with the minimum votes needed to authorize action at a meeting, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal because the Board views the change that the proposal requests as contrary to the best interests of our stockholders"
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL ON WHETHER THE CHAIRMAN OF THE BOARD SHOULD BE AN INDEPENDENT DIRECTOR",
+    "proponent": "Myra K. Young",
+    "topic_summary": "Requests the board adopt a policy requiring the Chair of the Board, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal. The first item in the Board's published Guidelines on Significant Corporate Governance Issues states"
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REQUESTING A POLITICAL CONTRIBUTIONS COST-BENEFIT ANALYSIS REPORT",
+    "proponent": "NorthStar Asset Management, Inc., Funded Pension Plan",
+    "topic_summary": "Requests a report on a cost-benefit analysis of Intel and IPAC political and electioneering contributions and their risks to shareholder value.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to complete a political contributions cost-benefit analysis report."
+   }
+  ]
+ }
+}

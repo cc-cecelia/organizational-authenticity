@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "41973241a6cba4c9636ed27ff417e80bde1973bf0c6035b4669bdd94da1210bd",
+  "est_input_tokens": 20009
+ },
+ "usage": {
+  "input_tokens": 26427,
+  "output_tokens": 153
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For more information on the 2017 cycle Performance Unit Program, refer to Long-term Incentives in Compensation Discussion and Analysis."
+   }
+  ],
+  "equal_split": []
+ }
+}

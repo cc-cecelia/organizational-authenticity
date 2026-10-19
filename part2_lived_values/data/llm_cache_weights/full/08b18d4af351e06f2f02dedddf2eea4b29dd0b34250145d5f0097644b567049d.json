@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "08b18d4af351e06f2f02dedddf2eea4b29dd0b34250145d5f0097644b567049d",
+  "est_input_tokens": 34017
+ },
+ "usage": {
+  "input_tokens": 37233,
+  "output_tokens": 542
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive and respectful environment"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "creating a diverse, inclusive and respectful environment"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs reinforce accountability by linking objective targets to a formulaically determined payout based on absolute and relative ROTCE"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the CMDC does not assign relative weightings to these dimensions"
+   }
+  ]
+ }
+}

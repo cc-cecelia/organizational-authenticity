@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "d71b66fc50cfda50c2baddc5f7796f5a847fc613b4da31c98a0157fa6eae482f",
+  "est_input_tokens": 13654
+ },
+ "usage": {
+  "input_tokens": 15202,
+  "output_tokens": 91
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary component of a named executive officer's total compensation is stock-based compensation in order to closely tie total compensation to long-term shareholder value."
+   }
+  ],
+  "equal_split": []
+ }
+}

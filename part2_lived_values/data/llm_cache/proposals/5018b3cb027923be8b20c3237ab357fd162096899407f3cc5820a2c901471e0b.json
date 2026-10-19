@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-115091",
+  "task": "proposals",
+  "section_words": 4338,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5018b3cb027923be8b20c3237ab357fd162096899407f3cc5820a2c901471e0b",
+  "est_input_tokens": 9744
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11458,
+  "output_tokens": 632,
+  "request_id": "req_011CgCBoF6Qvqou5xGsLzc5T"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Independent Chairman",
+    "proponent": "The Kestrel Foundation",
+    "topic_summary": "Requires the Board Chair to be an independent director, phased in at the next CEO transition, with a waiver if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to amend bylaws so holders of 10% of outstanding common stock can call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board believes it is important that shareholders have a meaningful right to call special shareholder meetings"
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 \u2013 Board Diversity Matrix",
+    "proponent": "City of New York Retirement Systems",
+    "topic_summary": "Requests annual disclosure in matrix form of each director's gender, race/ethnicity, and relevant skills, experience and attributes.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 \u2013 Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests annual report disclosing ExxonMobil's direct and indirect lobbying policies, payments, grassroots communications, and trade association memberships.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-534905",
+  "task": "proposals",
+  "section_words": 9951,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0a2ff82d74c3e9ce361ee68610c8f302e46d16e75125d6834412c57d2c12b77c",
+  "est_input_tokens": 21824
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24131,
+  "output_tokens": 614,
+  "request_id": "req_011CgC9yumPHjXZ5RA2w1inD"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal to Prohibit Vesting of Equity Awards Upon Entering Government Service",
+    "proponent": "The AFL-CIO Reserve Fund",
+    "topic_summary": "Requests a policy prohibiting vesting of equity awards for senior executives upon voluntary resignation to enter government service.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal to Change the Vote Counting Standard for Shareholder Proposals",
+    "proponent": "Equality Network Foundation and United Church Funds",
+    "topic_summary": "Requests amending governing documents so nonbinding shareholder proposals are decided by simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal to Require an Independent Board Chairman",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

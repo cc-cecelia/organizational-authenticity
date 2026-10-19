@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-087020",
+  "task": "incentives",
+  "section_words": 11555,
+  "section_method": "heading",
+  "cache_key": "d11bacf8e651d421fd92932add30e107626516791ecae446c9d66b82dedf57c8",
+  "est_input_tokens": 24576
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27541,
+  "output_tokens": 82,
+  "request_id": "req_011CgCA2Gca3YeHtmvZQQGfd"
+ },
+ "result": {
+  "metrics": []
+ }
+}

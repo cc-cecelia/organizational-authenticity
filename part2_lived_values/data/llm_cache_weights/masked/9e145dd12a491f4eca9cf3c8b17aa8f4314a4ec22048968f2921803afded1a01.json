@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "9e145dd12a491f4eca9cf3c8b17aa8f4314a4ec22048968f2921803afded1a01",
+  "est_input_tokens": 18257
+ },
+ "usage": {
+  "input_tokens": 18226,
+  "output_tokens": 872
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The annual cash bonus is generally based on company performance relative to internal targets for revenue, EPS, and the progress of our pipeline"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The annual cash bonus is generally based on company performance relative to internal targets for revenue, EPS, and the progress of our pipeline"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Bonus Plan is designed to reward the achievement of the company's annual financial and innovation objectives."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Approvals | #new drug first approval >#other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase III starts | #| #"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase I starts | #-#| #"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase III starts | #| #"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development | Exceeded industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver to Launch | Meet planned project timelines | Met planned project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific and medical officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The Game Changer Event was added starting with the #performance year. A Game Changer Event is a significant scientific advancement"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payout is based on the company's #-year growth in EPS relative to the median external analyst anticipated peer group EPS growth."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "shareholder value award, which is a performance-based equity award that pays out based on absolute company stock price growth"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative value award, which is a performance-based equity award that pays out based on company TSR results relative to peers"
+   }
+  ],
+  "equal_split": []
+ }
+}

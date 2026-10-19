@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001047469-20-001466",
+  "task": "proposals",
+  "section_words": 4899,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f95564eaca2bfef4c274152c597039eb2b21420887570157e40a5eaff98eedbc",
+  "est_input_tokens": 11422
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13100,
+  "output_tokens": 679,
+  "request_id": "req_011CgCAoKdeNQAyFJnsAoS2S"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal on Lobbying Disclosure",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests an annual report disclosing Abbott's direct and indirect lobbying policies, payments, trade association memberships, and oversight of lobbying payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal on Non-GAAP Financial Performance Metrics Disclosure",
+    "proponent": "Vermont Pension Investment Committee",
+    "topic_summary": "Asks the Board to require CD&A explanation and GAAP reconciliation whenever GAAP metrics are adjusted for senior executive incentive compensation.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal on Shareholder Voting on By-law Amendments",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests that board-approved bylaw amendments be subject to a non-binding shareholder vote unless already subject to a binding vote.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal on Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests replacing two-thirds supermajority vote provisions under the Illinois Business Corporation Act with a majority of outstanding shares.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   }
+  ]
+ }
+}

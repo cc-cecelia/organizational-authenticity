@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001206774-20-000973",
+  "task": "proposals",
+  "section_words": 1192,
+  "section_method": "resolved_windows",
+  "cache_key": "778d234d168ab3efb583789f597f2b9c23d5f8964e38a620de97ba29752cba74",
+  "est_input_tokens": 2998
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4381,
+  "output_tokens": 11,
+  "request_id": "req_011CgCBykoMtDf3MKoUeKSFR"
+ },
+ "result": {
+  "proposals": []
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-071373",
+  "task": "proposals",
+  "section_words": 12809,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "fcda9fdf9d38f95bbb30b54129e98bf6535721a80005a61a9530c68eefcfdf42",
+  "est_input_tokens": 29773
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31592,
+  "output_tokens": 1260,
+  "request_id": "req_011CgC9xjVybJ9BrWGhGMayo"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Item 5 Shareholder Proposal \u2013 Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to replace supermajority voting requirements in charter and bylaws with a majority of votes cast or simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 5)."
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 Shareholder Proposal \u2013 Report on Congruency of Political Spending",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests an annual report analyzing congruency between corporate values and electioneering and public-policy contributions, listing misaligned contributions.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 6)."
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 Shareholder Proposal \u2013 Climate Lobbying Report",
+    "proponent": "The Sisters of St. Francis Dubuque Charitable Trust",
+    "topic_summary": "Requests an annual report analyzing whether lobbying and policy influence activities align with the company's net zero by 2050 emissions commitment.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 7)."
+   },
+   {
+    "item_number": "8",
+    "title": "Item 8 Shareholder Proposal \u2013 Climate Transition Report",
+    "proponent": "As you Sow on behalf of Minnesota Valley Trust",
+    "topic_summary": "Requests a report disclosing a transition plan to align financing activities with 2030 sectoral greenhouse gas emissions reduction targets.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 8)."
+   },
+   {
+    "item_number": "9",
+    "title": "Item 9 Shareholder Proposal \u2013 Fossil Fuel Lending Policy",
+    "proponent": "Sierra Club Foundation",
+    "topic_summary": "Requests a policy for time-bound phase-out of lending and underwriting to companies engaged in new fossil fuel exploration and development.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 9)."
+   },
+   {
+    "item_number": "10",
+    "title": "Item 10 Shareholder Proposal \u2013 Annual Report on Prevention of Workplace Harassment and Discrimination",
+    "proponent": "The Comptroller of the State of New York, Thomas P. DiNapoli, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests an annual report quantifying the effectiveness of efforts to prevent workplace harassment and discrimination, including settlements and concealment clauses.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 10)."
+   },
+   {
+    "item_number": "11",
+    "title": "Item 11 Shareholder Proposal \u2013 Policy on Freedom of Association and Collective Bargaining",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Urges adoption and public disclosure of a policy respecting freedom of association and collective bargaining across direct operations and subsidiaries globally.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal (Item 11)."
+   }
+  ]
+ }
+}

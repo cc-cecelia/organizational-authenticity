@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "88b69bb79db29c14e125f97dd146f00925175df33bc462a3a23607880fa4a1f9",
+  "est_input_tokens": 20042
+ },
+ "usage": {
+  "input_tokens": 24392,
+  "output_tokens": 757
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The absolute financial component represents 25% of the annual incentive cash payout formula and is based on year-over-year growth of Intel's net income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative financial component represents 25% of the annual incentive cash payout formula and is based on Intel's year-over-year net income growth compared with net income growth of technology peer companies."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operational performance component represents 50% of the annual incentive cash payout formula"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "This component rewards executive officers for achieving meaningful measures of performance based on performance in key areas, including financial performance, product development and launch roadmaps"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "corporate responsibility and environmental sustainability"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For 2015, the corporate level goal was focused on hiring and retention of diverse talent, which was achieved, increasing corporate level annual incentive cash payouts by 7% of target."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares of Intel common stock to be received at vesting will range from 0% to 200% of the target amount, based on the TSR of Intel common stock measured against the median TSR of the technology peer group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "a weighted average of three corporate performance components: an absolute financial component (25% weighting), a relative financial component (25% weighting), and an operational performance component (50% weighting)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "3d111ecc2c7e39fb103443da543a0f5675bfa9bbca9514b8126f116230b2f85e",
+  "est_input_tokens": 35122
+ },
+ "usage": {
+  "input_tokens": 38817,
+  "output_tokens": 516
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The annual incentive program was funded at 95% as we fell slightly below the 2017 target goals for total revenue and cash flow from operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "while we exceeded the target goal for Adjusted Diluted EPS"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (4) | 16.2 billion | 13.6 billion | 17.1 billion | 16.9 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a qualitative assessment of Pfizer's performance with respect to the product pipeline"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "business performance as compared to goals in other areas, as well as the management of the impact of LOEs"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a combination of an operating income** goal, set annually, over three one-year periods and relative TSR"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the DRG Index, over a three-year period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "5- and 7-Year TSRUs generally vest three years from the grant date and are settled on the fifth or seventh anniversary"
+   }
+  ],
+  "equal_split": []
+ }
+}

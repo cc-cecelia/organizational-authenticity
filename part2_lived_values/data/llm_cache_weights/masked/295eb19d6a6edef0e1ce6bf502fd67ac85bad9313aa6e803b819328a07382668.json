@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "295eb19d6a6edef0e1ce6bf502fd67ac85bad9313aa6e803b819328a07382668",
+  "est_input_tokens": 20076
+ },
+ "usage": {
+  "input_tokens": 22874,
+  "output_tokens": 523
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenues were significantly above target levels."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating income for #was above target after excluding the #million pre-tax impact to earnings"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash flows from operations for #were also above target."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction, which was between threshold and target performance levels."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "at target for employee engagement and teamwork"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "at target for employee engagement and teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In determining the #annual cash incentive award amounts, the Compensation Committee took into account the Company's performance against the #annual performance goals"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative Earnings Per Share"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity"
+   }
+  ],
+  "equal_split": []
+ }
+}

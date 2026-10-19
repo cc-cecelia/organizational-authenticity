@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001193125-22-250158",
+  "task": "incentives",
+  "section_words": 9139,
+  "section_method": "heading",
+  "cache_key": "53b59eedd6edd42ef9a05d89a38196b236eb3771290da58161fd26710c7e7c09",
+  "est_input_tokens": 20641
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22721,
+  "output_tokens": 3328,
+  "request_id": "req_011CgC9aqEdhnJnBBpBCyMF5"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-over-year growth in non-GAAP operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The Compensation Committee selected year-over-year growth in our non-GAAP operating income as the financial performance metric for determining our NEOs' bonuses for fiscal 2022"
+   },
+   {
+    "metric": "Operational performance goals",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "One goal of each type (operational and market capitalization) must be satisfied in order for a tranche (i.e., 1/7 th of the award) to be earned"
+   },
+   {
+    "metric": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report"
+   },
+   {
+    "metric": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year"
+   },
+   {
+    "metric": "Attain $10 billion in non-GAAP total SaaS revenues in a fiscal year",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain $10 billion in non-GAAP total SaaS revenues in a fiscal year"
+   },
+   {
+    "metric": "Attain $10 billion in non-GAAP total Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) revenues in a fiscal year",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain $10 billion in non-GAAP total Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) revenues in a fiscal year"
+   },
+   {
+    "metric": "Attain non-GAAP SaaS gross margin of 80%",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain non-GAAP SaaS gross margin of 80%"
+   },
+   {
+    "metric": "Maintain non-GAAP PaaS/IaaS gross margin of at least 30% for three of the eight fiscal years in the performance period",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Maintain non-GAAP PaaS/IaaS gross margin of at least 30% for three of the eight fiscal years in the performance period"
+   },
+   {
+    "metric": "Market capitalization goals",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Increase Oracle's market capitalization from a baseline of $207 billion by"
+   },
+   {
+    "metric": "Stock price goal of $80 average stock price over 30 calendar days",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Oracle's average stock price for 30 calendar days must equal or exceed $80 in order for the tranche to be earned"
+   }
+  ]
+ }
+}

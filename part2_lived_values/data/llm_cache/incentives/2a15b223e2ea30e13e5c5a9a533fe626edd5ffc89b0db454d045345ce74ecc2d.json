@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001206774-20-001117",
+  "task": "incentives",
+  "section_words": 6389,
+  "section_method": "heading",
+  "cache_key": "2a15b223e2ea30e13e5c5a9a533fe626edd5ffc89b0db454d045345ce74ecc2d",
+  "est_input_tokens": 14941
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16761,
+  "output_tokens": 834,
+  "request_id": "req_011CgCBMNQxp1XAXhTSwLpQL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee ... applied a 75% weighting to this metric"
+   },
+   {
+    "metric": "Comparable guest count growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Comparable guest count growth is weighted at 25% to promote the long-term health of our business"
+   },
+   {
+    "metric": "Delivery sales modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "As a single modifier, delivery sales can increase or decrease the payout opportunity range by up to 25 percentage points"
+   },
+   {
+    "metric": "Compound annual EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PRSUs granted in 2019 as part of the annual cycle will vest on the third anniversary of the grant date, subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "metric": "3-year ROIIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "metric": "Cumulative TSR v. S&P 500 Index Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PRSUs are also subject to a modifier based on relative TSR over the 2019-2021 performance period"
+   }
+  ]
+ }
+}

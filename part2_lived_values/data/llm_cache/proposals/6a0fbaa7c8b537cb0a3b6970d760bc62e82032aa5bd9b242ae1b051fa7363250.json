@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-508200",
+  "task": "proposals",
+  "section_words": 2236,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "6a0fbaa7c8b537cb0a3b6970d760bc62e82032aa5bd9b242ae1b051fa7363250",
+  "est_input_tokens": 5191
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6393,
+  "output_tokens": 200,
+  "request_id": "req_011CgC9oqS9zpaRnfgDYbGPT"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "PROPOSAL 4: CLAWBACK AMENDMENT",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Amend General Clawback policy so a substantial portion of executive officers' annual compensation is deferred at least 10 years and forfeitable to satisfy monetary penalties for violations of law.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 4 because:"
+   }
+  ]
+ }
+}

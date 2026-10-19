@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001045810-16-000229",
+  "task": "incentives",
+  "section_words": 8564,
+  "section_method": "heading",
+  "cache_key": "b617acc905549d50413aaeed84040768430f0338274ffc19c3bf29992183d06f",
+  "est_input_tokens": 18501
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21311,
+  "output_tokens": 453,
+  "request_id": "req_011CgC9CMqVws4ju8JCTDxHo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Variable Cash Plan | Annual Non-GAAP Operating Income | Annual revenue | Cash earned under Variable Cash Plan"
+   },
+   {
+    "metric": "Non-GAAP Operating Income",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "SY PSUs | Annual Non-GAAP Operating Income | Same as Fiscal 2015 | If, and extent to which, SY PSUs become eligible to vest"
+   },
+   {
+    "metric": "TSR relative to the S&P 500",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "MY PSUs | Not part of compensation program | Relative TSR compared to the S&P 500 over 3 years"
+   }
+  ]
+ }
+}

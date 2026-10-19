@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-082951",
+  "task": "incentives",
+  "section_words": 10489,
+  "section_method": "heading",
+  "cache_key": "09a4363851d789a6b604f80b328608a77e45421221a187ec9131068e76e220c9",
+  "est_input_tokens": 23412
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27115,
+  "output_tokens": 1562,
+  "request_id": "req_011CgC9zP7gHrAgJQJtgLHz9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "ROE (absolute and relative) over 2019\u20132021 average",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2019\u20132021"
+   },
+   {
+    "metric": "Absolute ROE",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Absolute ROE threshold for maximum payout increased from 14% to 16%"
+   },
+   {
+    "metric": "Relative ROE",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Target for 100% payout under relative ROE goals now requires above median performance"
+   },
+   {
+    "metric": "Average ROE over 2019\u20132021 (PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2019\u20132021"
+   },
+   {
+    "metric": "Firmwide performance (ROE, BVPS, EPS, net revenues, pre-tax earnings)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee considered firmwide performance in a holistic manner without ascribing specific weight to any single financial metric"
+   },
+   {
+    "metric": "Individual performance (360\u00b0 Review Process)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our NEOs are evaluated under our 360\u00b0 Review Process, which includes feedback in key areas"
+   },
+   {
+    "metric": "Risk management",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "RISK MANAGEMENT & FIRM REPUTATION CONTROL-SIDE EMPOWERMENT JUDGMENT COMPLIANCE WITH FIRM POLICIES"
+   },
+   {
+    "metric": "Compliance with firm policies",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "COMPLIANCE WITH FIRM POLICIES"
+   },
+   {
+    "metric": "Diversity & inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "CARRIER DIVERSITY & INCLUSION COMMUNICATION LEADERSHIP & PEOPLE DEVELOPMENT CLIENT FOCUS"
+   },
+   {
+    "metric": "Client focus",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "CLIENT FOCUS 360 REVIEW PROCESS"
+   },
+   {
+    "metric": "Leadership & people development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LEADERSHIP & PEOPLE DEVELOPMENT CLIENT FOCUS"
+   }
+  ]
+ }
+}

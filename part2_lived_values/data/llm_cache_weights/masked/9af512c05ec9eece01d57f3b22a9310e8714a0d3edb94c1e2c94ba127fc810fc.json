@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "9af512c05ec9eece01d57f3b22a9310e8714a0d3edb94c1e2c94ba127fc810fc",
+  "est_input_tokens": 22561
+ },
+ "usage": {
+  "input_tokens": 23921,
+  "output_tokens": 1085
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Shareholder (e.g., EPS and Revenue Growth)"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Revenue Growth (FX-adjusted)"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Fourth # Revenue Growth (FX-adjusted)"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "EPS"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ROE"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customer (e.g., Net Promoter Score)"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Internal metrics to measure customer satisfaction and customer growth"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Employee (e.g., Diversity and Inclusion Goals)"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Talent Retention and Diversity Representation Goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and Long-Term Sign-Posts (e.g., Merchant Coverage, Lending Growth)"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Remove #Billion of costs from the expense base"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Innovation and New Business Progress"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Acceleration of Merchant Coverage balanced with reducing Discount Rate Erosion"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Evolution of Litigation Strategy"
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Strengthening Card Member Value Proposition"
+   },
+   {
+    "id": 15,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Continue to Grow Lending"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance (quality of results, key leadership attributes, compliance with risk and control objectives)"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year financial and strategic goals"
+   },
+   {
+    "id": 18,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Three year cumulative EPS"
+   },
+   {
+    "id": 19,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Three year relative TSR as compared to S&P #"
+   },
+   {
+    "id": 20,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "# strategic milestones"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year average ROE (PRSUs)"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock price appreciation (stock options)"
+   }
+  ],
+  "equal_split": []
+ }
+}

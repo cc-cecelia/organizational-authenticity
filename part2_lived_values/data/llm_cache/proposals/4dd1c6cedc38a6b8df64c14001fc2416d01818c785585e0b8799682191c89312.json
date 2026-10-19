@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001035002-24-000014",
+  "task": "proposals",
+  "section_words": 1151,
+  "section_method": "resolved_windows",
+  "cache_key": "4dd1c6cedc38a6b8df64c14001fc2416d01818c785585e0b8799682191c89312",
+  "est_input_tokens": 2782
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4178,
+  "output_tokens": 11,
+  "request_id": "req_011CgCCJTvdoB11Jb9AWHeUK"
+ },
+ "result": {
+  "proposals": []
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-282422",
+  "task": "proposals",
+  "section_words": 5479,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "6e07f941daf08ddb1973242815025ae083d811ca87cf3c4dfd8bc74fdfbf3cbf",
+  "est_input_tokens": 12936
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13663,
+  "output_tokens": 584,
+  "request_id": "req_011CgC9ajVratbJ99La5NSz3"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING RACIAL EQUITY AUDIT",
+    "proponent": "Service Employees International Union Pension Plans Master Trust (SEIU)",
+    "topic_summary": "Asks the Board to oversee a racial equity audit analyzing Oracle's impacts on non-white stakeholders and communities of color, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 5."
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING INDEPENDENT BOARD CHAIR",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the Board to adopt a policy requiring the Chairman of the Board to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING POLITICAL SPENDING",
+    "proponent": "Eric and Emily Johnson",
+    "topic_summary": "Asks Oracle to require third-party organizations receiving its funds that engage in political activities to report annually their political expenditures, posted publicly.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 7."
+   }
+  ]
+ }
+}

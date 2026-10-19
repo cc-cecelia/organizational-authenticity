@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-080420",
+  "task": "incentives",
+  "section_words": 9933,
+  "section_method": "heading",
+  "cache_key": "e92e05c166de9a8a0d322bdef12d327492047f408426b539a9f0eeeaa9d46815",
+  "est_input_tokens": 23526
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25561,
+  "output_tokens": 3569,
+  "request_id": "req_011CgCCGB9XRBXEH8Tq9MaR9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS, adjusted ($/share)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments"
+   },
+   {
+    "metric": "Operational Performance Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Compensation Committee in the first quarter"
+   },
+   {
+    "metric": "Health, Safety, and Environmental",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "metric": "Mechanical Availability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "metric": "Refining Cash Operating Expense Management",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.34,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in cost management."
+   },
+   {
+    "metric": "Strategic Company Performance Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's Strategic Company Performance Goals were established in the first quarter of the 2018 performance year by the Chief Executive Officer"
+   },
+   {
+    "metric": "Return on capital employed (capital-based performance measure)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed"
+   },
+   {
+    "metric": "Cost control initiatives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a qualitative assessment by the Compensation Committee of cost control initiatives"
+   },
+   {
+    "metric": "Individual performance (qualitative evaluation of the individual's performance)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a qualitative evaluation of the individual's performance."
+   },
+   {
+    "metric": "Relative TSR performance shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance shares awarded in 2018 are subject to vesting in three increments, based upon our TSR compared to our peer group"
+   }
+  ]
+ }
+}

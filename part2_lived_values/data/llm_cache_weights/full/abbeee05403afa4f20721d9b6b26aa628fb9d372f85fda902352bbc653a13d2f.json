@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "F",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "abbeee05403afa4f20721d9b6b26aa628fb9d372f85fda902352bbc653a13d2f",
+  "est_input_tokens": 16184
+ },
+ "usage": {
+  "input_tokens": 17625,
+  "output_tokens": 757
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee again decided to emphasize Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit Profit Before Tax, and Quality"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Lower Adjusted Pre-Tax Profit due to higher commodity costs and adverse exchange rates led to underperformance in the Automotive Segment Operating Margin metric."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We achieved objectives for Automotive Segment Operating Cash Flow and Quality."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We outperformed in the Automotive Segment Revenue and Ford Credit Pre-Tax Profit metrics due to higher than expected volumes."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Quality metric was based on the weighted average of individual market and Business Unit objectives."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In 2015 our Performance Unit grants were modified to include relative TSR as a factor."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   }
+  ],
+  "equal_split": []
+ }
+}

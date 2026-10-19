@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-542189",
+  "task": "incentives",
+  "section_words": 8188,
+  "section_method": "heading",
+  "cache_key": "786f4d34c0a947fb100d9cba54bf5018e766a644e6aa64adc674aec683caa2fb",
+  "est_input_tokens": 18854
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21099,
+  "output_tokens": 1678,
+  "request_id": "req_011CgCA95xZCakWmbVgHn8mo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial Performance (Net New Business, Organic Revenue, Total Revenue, Operating Income, Operating Margin As Adjusted, Net Income, EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Financial Performance | 50% | \u2022 Net New Business \u2022 Organic Revenue \u2022 Total Revenue \u2022 Operating Income \u2022 Operating Margin, As Adjusted \u2022 Net Income \u2022 EPS"
+   },
+   {
+    "metric": "Business Strength",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Business Strength | 30% | \u2022 Relative Investment Performance Across Alpha and Beta Strategies \u2022 Client Retention and Client Relationship Strength \u2022 Risk Management \u2022 Operational Performance"
+   },
+   {
+    "metric": "Relative Investment Performance Across Alpha and Beta Strategies",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "metric": "Client Retention and Client Relationship Strength",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Client Retention and Client Relationship Strength"
+   },
+   {
+    "metric": "Risk Management",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Risk Management"
+   },
+   {
+    "metric": "Operational Performance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Operational Performance"
+   },
+   {
+    "metric": "Organizational Strength",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Organizational Strength | 20% | \u2022 Employee Engagement \u2022 Leadership Bench Strength and Succession Plans \u2022 Inclusiveness and Diversity Objectives"
+   },
+   {
+    "metric": "Employee Engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Employee Engagement"
+   },
+   {
+    "metric": "Leadership Bench Strength and Succession Plans",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "metric": "Inclusiveness and Diversity Objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Inclusiveness and Diversity Objectives"
+   },
+   {
+    "metric": "Organic Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "BPIP is tied to two key drivers of stockholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   },
+   {
+    "metric": "Operating Margin, as adjusted",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "BPIP is tied to two key drivers of stockholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   }
+  ]
+ }
+}

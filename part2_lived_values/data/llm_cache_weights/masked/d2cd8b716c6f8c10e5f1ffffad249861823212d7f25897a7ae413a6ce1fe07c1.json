@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "d2cd8b716c6f8c10e5f1ffffad249861823212d7f25897a7ae413a6ce1fe07c1",
+  "est_input_tokens": 18138
+ },
+ "usage": {
+  "input_tokens": 19015,
+  "output_tokens": 435
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs on effective merchandising, driving market share gains and the enhancement of the Company's omnichannel sales and marketing"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for profitability of Company operations and focuses management on operational efficiency and expense management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on improving inventory management, which generates cash flow for investing in the business and returning value to shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on growing Pro market share, which drives long-term sustainable sales growth and profitability for the business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes strong ROIC performance is aligned with creating long-term value for the Company's shareholders"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the relative TSR modifier also helps align executive outcomes with the creation of long-term shareholder value by reducing payouts"
+   }
+  ],
+  "equal_split": []
+ }
+}

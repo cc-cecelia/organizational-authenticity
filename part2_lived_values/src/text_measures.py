@@ -105,6 +105,10 @@ def main(argv=None) -> int:
         cov = cov[cov["ticker"].isin([t.upper() for t in args.tickers])]
 
     patterns, lm = compiled(), load_lm()
+    allcov = pd.read_csv(config.COVERAGE_OUT)
+    allcov = allcov[(allcov["status"] != "gap") & allcov["ticker"].isin(cov["ticker"])]
+    targets = sections.cda_targets(
+        (r.ticker, r.filing_year, (config.REPO_DIR / r.text_path).read_text()) for r in allcov.itertuples())
     rows, sec_rows = [], []
     for r in cov.sort_values(["ticker", "filing_year"]).to_dict("records"):
         text = (config.REPO_DIR / r["text_path"]).read_text()
@@ -112,12 +116,13 @@ def main(argv=None) -> int:
         norm = normalise(prose)
         tokens = WORD_RE.findall(norm)
 
-        cda = sections.find_cda(text)
+        cda = sections.find_cda(text, targets.get((r["ticker"], r["filing_year"])))
         sp = sections.find_proposals(text)
         sec_rows.append({
             "ticker": r["ticker"], "filing_year": r["filing_year"],
             "cda_found": cda is not None, "cda_method": cda and cda["method"],
             "cda_words": cda and cda["words"], "cda_end_marker": cda and cda["end_marker"],
+            "cda_target_words": targets.get((r["ticker"], r["filing_year"])),
             "proposals_found": sp is not None, "proposals_words": sp and sp["words"],
             "proposals_signal_hits": sp and sp["signal_hits"], "proposals_end_marker": sp and sp["end_marker"],
             # QA: every "RESOLVED" in the proxy except the say-on-pay resolution should
@@ -131,7 +136,10 @@ def main(argv=None) -> int:
         row.update(theme_block("", norm, len(tokens), patterns))
         if sp:
             lines = text.split("\n")
-            fv_text = "\n".join(lines[:sp["start_line"]] + lines[sp["end_line"]:])
+            drop = set()
+            for a, b in sp["intervals"]:
+                drop.update(range(a, b))
+            fv_text = "\n".join(l for i, l in enumerate(lines) if i not in drop)
         else:
             fv_text = text
         fv_norm = normalise(sections.prose_only(fv_text))

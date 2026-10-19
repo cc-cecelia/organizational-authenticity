@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-083487",
+  "task": "proposals",
+  "section_words": 7616,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "249f5a7ef265d3c2aeba756c934336cc10e771de70e57c565fd956f1dc88c580",
+  "est_input_tokens": 16691
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18029,
+  "output_tokens": 360,
+  "request_id": "req_011CgCAHv7DjaE1R1uC7z5Qk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Relating to Action by Written Consent",
+    "proponent": "Kenneth Steiner (proposal submitted via John Chevedden)",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to authorize action to act by written consent, including initiating any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Relating to Gender/Racial Pay Equity",
+    "proponent": "Arjuna Capital, on behalf of Katherine Overton Mountcastle",
+    "topic_summary": "Requests a report on the company's global median gender/racial pay gap and associated policy, reputational, competitive, operational and talent risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

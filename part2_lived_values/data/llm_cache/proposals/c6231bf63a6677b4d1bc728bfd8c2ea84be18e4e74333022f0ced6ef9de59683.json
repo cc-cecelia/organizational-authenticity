@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001035002-23-000040",
+  "task": "proposals",
+  "section_words": 4663,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c6231bf63a6677b4d1bc728bfd8c2ea84be18e4e74333022f0ced6ef9de59683",
+  "est_input_tokens": 11109
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12845,
+  "output_tokens": 432,
+  "request_id": "req_011CgCCJmameHXyt3FRM54hq"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder proposal to set different GHG emissions reductions targets (Scopes 1, 2, and 3)",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests a report within a year, updated annually, on a climate transition plan aligned with well-below 2 degrees Celsius, including short-, medium- and long-term reduction targets for scopes 1, 2, and 3 emissions.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that the stockholders vote \" AGAINST \" this stockholder proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder proposal to oversee and issue an additional racial equity audit and report",
+    "proponent": "Service Employees International Union Master Trust (SEIU)",
+    "topic_summary": "Urges the Board to oversee an independent third-party racial equity audit analyzing Valero's impacts on nonwhite stakeholders and communities of color, and plans to mitigate those impacts, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST the proposal for the reasons explained in the opposition statement below"
+   }
+  ]
+ }
+}

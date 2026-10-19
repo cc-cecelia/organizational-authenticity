@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000354950-21-000116",
+  "task": "proposals",
+  "section_words": 12451,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5464a4f39be846a12f424592bdaa4e56cad7455ee81c1cd402ad76a328cd5a6c",
+  "est_input_tokens": 27378
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28274,
+  "output_tokens": 751,
+  "request_id": "req_011CgCBKqkxmYKfyP5hYM7bs"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING AMENDMENT OF SHAREHOLDER WRITTEN CONSENT RIGHT (ITEM 4 ON THE PROXY CARD)",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to enable 10% of shares to request a record date to initiate shareholder written consent, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Company recommends that you vote against this shareholder proposal.','Our Board continues to believe that the 25% threshold approved by our shareholders is the appropriate threshold"
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING POLITICAL CONTRIBUTIONS CONGRUENCY ANALYSIS (ITEM 5 ON THE PROXY CARD)",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Asks for an annual report analyzing congruency of political and electioneering expenditures with publicly stated company values and policies, including risks to brand and reputation.",
+    "category": "integrity",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal.','We do not believe, however, that implementing the annual reporting requested by the proponent would provide shareholders with any more beneficial information"
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING REPORT ON PRISON LABOR IN THE SUPPLY CHAIN (ITEM 6 ON THE PROXY CARD)",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Asks the board to report on evaluating opportunities to enhance supplier policies on suppliers using incarcerated workers, including wages and workforce transition support.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal.','In early 2021, we updated this program to prohibit all prison labor."
+   }
+  ]
+ }
+}

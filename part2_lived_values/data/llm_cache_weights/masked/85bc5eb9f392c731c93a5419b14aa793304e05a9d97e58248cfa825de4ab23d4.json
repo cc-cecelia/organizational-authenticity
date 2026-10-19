@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "85bc5eb9f392c731c93a5419b14aa793304e05a9d97e58248cfa825de4ab23d4",
+  "est_input_tokens": 15134
+ },
+ "usage": {
+  "input_tokens": 15664,
+  "output_tokens": 606
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a # direct after-tax rate of return* and # all-in after-tax rate of return on total capital expenditures*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maintain flexible CAPEX plan to reduce net debt* below year-end #level"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Shift into \"premium\" drilling mode and improve completed well estimated ultimate recovery (\"EUR\");"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Reduce finding cost and operating costs;"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Add new premium drilling potential (i.e., locations with a direct after-tax rate of return* of greater than #"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Close #billion in property sales; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Reduced safety and environmental incident rates"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative total stockholder return versus specified peer companies"
+   }
+  ],
+  "equal_split": []
+ }
+}

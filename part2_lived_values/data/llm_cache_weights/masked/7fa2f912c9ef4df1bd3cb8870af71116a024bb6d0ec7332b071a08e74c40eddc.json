@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "7fa2f912c9ef4df1bd3cb8870af71116a024bb6d0ec7332b071a08e74c40eddc",
+  "est_input_tokens": 20826
+ },
+ "usage": {
+  "input_tokens": 23949,
+  "output_tokens": 876
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Step One: Fund Annual Incentive Pool Based on EPS Achievement"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of profitability, each officer is assessed on relevant return goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Initiative Goals\u2014Strategic initiative goals are primarily related to key planned strategic actions"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership Goals\u2014Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Sales Growth Goals\u2014To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Financial Return Goals\u2014While top-line growth is important, that growth must be profitable"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion, key R&D milestones"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Process to Determine Awards in February Shown in this Proxy Statement TSR performance relative to our peers on a one-, three-, and five-year basis"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee believes adjusted return on equity (ROE) is the appropriate performance measure for vesting"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance\u2014goals, leadership, and sustained performance"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Long-range Plan Progress\u2014e.g., product approvals, R&D milestones, and margin expansion"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Impact\u2014assessment of relative contribution to overall enterprise (Modifier of \u2013# to +#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

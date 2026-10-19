@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "fa8c812f8b6cd64116e3baefc314b3411350812a149dd4042fe33efaca66e9e9",
+  "est_input_tokens": 23507
+ },
+ "usage": {
+  "input_tokens": 24673,
+  "output_tokens": 584
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee set the two Fiscal Year 2020 corporate performance goals \u2013 revenue and adjusted non-GAAP operating margin"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Direct Expenses (50%) (2) | 120%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Bookings (15%) | 150%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (12.5%) | 60%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (12.5%) | 80%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Based on the assessment, our NEOs received individual performance multipliers of 100%."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each PSU award may be earned, if at all, based on our Relative TSR and absolute TSR performance over four overlapping performance periods"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each PSU award may be earned, if at all, based on our Relative TSR and absolute TSR performance over four overlapping performance periods"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

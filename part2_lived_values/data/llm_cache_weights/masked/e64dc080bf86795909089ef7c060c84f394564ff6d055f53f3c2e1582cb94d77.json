@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "e64dc080bf86795909089ef7c060c84f394564ff6d055f53f3c2e1582cb94d77",
+  "est_input_tokens": 32959
+ },
+ "usage": {
+  "input_tokens": 32691,
+  "output_tokens": 533
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS is the primary basis on which we set our annual performance expectations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and PTOI are important company performance indicators"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and PTOI are important company performance indicators"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each NEO's annual cash incentive opportunity is tied to achievement of quantitative and qualitative goals that are specific to that NEO's position"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "people-related objectives such as retention, engagement and diversity"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "ethics, compliance and governance"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "health, safety and environmental objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "new technology introduction"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Other PSUs are subject to a #-year return on capital employed (\"ROCE\") performance condition"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we believe that tying a part of our NEO's LTI pay to our efficiency in converting net income to free cash flow"
+   }
+  ],
+  "equal_split": []
+ }
+}

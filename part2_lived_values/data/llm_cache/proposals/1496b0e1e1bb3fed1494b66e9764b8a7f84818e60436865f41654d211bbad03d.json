@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0001193125-21-106317",
+  "task": "proposals",
+  "section_words": 3195,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1496b0e1e1bb3fed1494b66e9764b8a7f84818e60436865f41654d211bbad03d",
+  "est_input_tokens": 7592
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9183,
+  "output_tokens": 388,
+  "request_id": "req_011CgCAhKJPGwo8ATwkGaPxu"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2013 Shareholder Proposal Concerning Shareholder Right to Act by Written Consent",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, including initiating any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting against the proposal for the reasons discussed below.](no)"
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proposal Regarding Access to COVID-19 Products",
+    "proponent": "The Province of Saint Joseph of the Capuchin Order and other co-filers",
+    "topic_summary": "Asks Merck to report on whether and how receipt of public financial support for COVID-19 products is considered when making decisions affecting access, such as pricing.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board has considered this shareholder proposal carefully and recommends a vote AGAINST it."
+   }
+  ]
+ }
+}

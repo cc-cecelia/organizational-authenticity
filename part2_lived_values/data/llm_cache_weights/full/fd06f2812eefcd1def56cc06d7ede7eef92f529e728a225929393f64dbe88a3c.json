@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "fd06f2812eefcd1def56cc06d7ede7eef92f529e728a225929393f64dbe88a3c",
+  "est_input_tokens": 23605
+ },
+ "usage": {
+  "input_tokens": 28945,
+  "output_tokens": 397
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "annual revenue growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "diluted EPS"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "free cash flow 50% to 150% of the target award"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a quality compliance modifier as described on page 44"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The LTPP provides for annual grants that are earned over a three-year period. Earned payouts under the LTPP can range from 25% to 200%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC (12-month non-GAAP earnings after the removal of after-tax impact of amortization"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "RSUs vest 100% on the third anniversary of the date of grant provided Medtronic achieves a minimum three-year cumulative diluted EPS"
+   }
+  ],
+  "equal_split": []
+ }
+}

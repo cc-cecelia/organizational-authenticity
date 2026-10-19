@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-530747",
+  "task": "incentives",
+  "section_words": 6333,
+  "section_method": "heading",
+  "cache_key": "31f3a19131cb61910e2b0366cf06da5f1c4d15c179c25463b9137392175591f6",
+  "est_input_tokens": 14159
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16601,
+  "output_tokens": 154,
+  "request_id": "req_011CgCB3D494XXuRZkZhVcs9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Stock-based compensation (restricted stock units) vesting over time",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Since late 2002, we have used restricted stock units as our primary stock-based compensation vehicle."
+   }
+  ]
+ }
+}

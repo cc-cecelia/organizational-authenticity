@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "1d7b866d0b457f90ddc3656121c3ca51cc84cb2b05d988fef711cdeba3fbcc13",
+  "est_input_tokens": 19060
+ },
+ "usage": {
+  "input_tokens": 19885,
+  "output_tokens": 848
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a key driver of shareholder returns and captures items not included in non-GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Medtronic also assessed nonfinancial performance focused on ID&E and Quality."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Women Mangers + (Total Medtronic) | # # YoY increase"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Ethnically Diverse Managers + (US only) | # # YoY increase"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Complimenting our ID&E category was Quality emphasizing both compliance and quality."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Compliance | Findings/Inspections (FDA #) | <= #| # | #| #"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "FCA Execution Timelines | >= # | # | # | #"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Complaint Timeliness Execution | >= # | # | # | #"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final component of the FY2#MIP for NEOs is individual performance based on an assessment of performance for each individual"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit plan is a #-year incentive plan that is based on long-term measures of company performance"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue Growth #-year simple average"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC modifier (downward only)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "annual_incentive",
+    "evidence": "Quality goals can only reduce a payout, while the ID&E goals can increase or reduce a payout."
+   }
+  ]
+ }
+}

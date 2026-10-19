@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "f98c977cd3b2c18d08cc6495ed17612563c50f7ec60f97d06738d88ce533c304",
+  "est_input_tokens": 20320
+ },
+ "usage": {
+  "input_tokens": 21182,
+  "output_tokens": 316
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "challenging overall Company goals based on adjusted operating income and adjusted net revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For fiscal # annual incentive bonuses were based on the achievement of the following objective performance goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs, where the number of shares earned is dependent on the achievement of #-year EPS and ROIC goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC. ROIC (measured on a consolidated basis) did not operate as a potential downward modifier"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "adjusted net revenue and adjusted operating income have sliding scales"
+   }
+  ]
+ }
+}

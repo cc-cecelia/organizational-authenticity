@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "24c32f23196e7e312e425ce6fc148cf75352a07d9398cd81e8dfd9bb42f06dce",
+  "est_input_tokens": 19726
+ },
+ "usage": {
+  "input_tokens": 22591,
+  "output_tokens": 669
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | Operating Income* | Cash Flows from Operations* performance measures are the financial goals in the annual plan table"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenues for 2018 grew, slightly below target, while operating income was at target."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash flows from operations for 2018 were above target due to an improved working capital position."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels for Employee Engagement, slightly below target for Net Promoter Score (NPS) and at threshold for Teamwork."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "NPS improved significantly year-over-year and the Company's current employee engagement and teamwork scores were within the top quartile"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels for Employee Engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "at threshold for Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "individual performance considerations included exceptional performance as Chief Financial Officer"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the 2016-2018 AEPS and ROE goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the 2016-2018 AEPS and ROE goals"
+   }
+  ],
+  "equal_split": []
+ }
+}

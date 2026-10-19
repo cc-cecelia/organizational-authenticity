@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0000354950-24-000108",
+  "task": "proposals",
+  "section_words": 16469,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "b52a230300e2ad51c0af89b6525b075725a34db9e7138d5d720b01d2537d3553",
+  "est_input_tokens": 37505
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38287,
+  "output_tokens": 1023,
+  "request_id": "req_011CgCBM1vBKgAWAsFCQ1qsy"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Regarding Disclosure of Director Donations",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests Board adopt policy requiring director nominees to disclose political and charitable donations over specified thresholds, made conveniently available to shareholders.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal.','WE RECOMMEND THAT YOU VOTE \"AGAINST\" THE ADOPTION OF THIS SHAREHOLDER PROPOSAL.'"
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Political Contributions Congruency Analysis",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Requests annual report analyzing incongruence between political and electioneering expenditures and publicly stated company values, and whether changes will follow.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Corporate Giving Report",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests the Board list on the company website recipients of material donations, optionally those of $5,000 or more, excluding employee matching gifts.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Report on Respecting Workforce Civil Liberties",
+    "proponent": "American Family Association, represented by Bowyer Research",
+    "topic_summary": "Requests report evaluating how policies affect employees based on religious or political views and related business risks.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding Biodiversity Impact and Dependence Assessment",
+    "proponent": "Domini Impact Equity Fund",
+    "topic_summary": "Requests Home Depot conduct and disclose a biodiversity impact and dependency assessment across the full value chain, including use of sold products.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Improve Clawback Policy for Unearned Executive Pay",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests amending clawback policy to cover conduct or negligence triggers for all NEOs and to report board deliberations on clawback decisions in proxy.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

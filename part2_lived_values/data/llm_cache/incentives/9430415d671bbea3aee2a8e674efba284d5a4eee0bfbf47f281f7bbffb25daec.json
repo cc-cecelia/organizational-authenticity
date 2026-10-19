@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0001558370-23-004204",
+  "task": "incentives",
+  "section_words": 9322,
+  "section_method": "heading",
+  "cache_key": "9430415d671bbea3aee2a8e674efba284d5a4eee0bfbf47f281f7bbffb25daec",
+  "est_input_tokens": 19242
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23628,
+  "output_tokens": 4437,
+  "request_id": "req_011CgCAfZys6X8YWbSje1LXX"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Non-GAAP Income Before Taxes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Initial performance scores are calculated for each NEO based on performance against weighted financial and strategic/leadership goals."
+   },
+   {
+    "metric": "Platform Revenue, Operating Margin, and Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "A formal payout matrix based on income before taxes and platform revenue guides the committee by capping the range of final awards"
+   },
+   {
+    "metric": "ESG goal",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "metric": "Executing the equity, equality, diversity, and inclusion (EEDI) strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the equity, equality, diversity, and inclusion (EEDI) strategy."
+   },
+   {
+    "metric": "Strategic and leadership goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Final awards are determined by the compensation committee based on a qualitative assessment of holistic performance."
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR performance is measured relative to a group made up of companies that are constituents in either the S&P Pharmaceutical, Biotech, and Life Science Index"
+   },
+   {
+    "metric": "Relative Return on Invested Capital (ROIC)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-Vested Restricted Stock (40% of total LTI award)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "477e29d609e97b7aa1b88f544de0ca34a5b2ef8fa67417f51c5d0d0d6737295b",
+  "est_input_tokens": 21914
+ },
+ "usage": {
+  "input_tokens": 23344,
+  "output_tokens": 602
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee maintained year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our top four NEOs' annual cash bonuses"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Fowler's target cash bonus opportunity was based on a percentage of the amount by which hardware revenues growth between fiscal 2015 and fiscal 2016 exceeded the expense growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated net cash flows from operating activities measured on a U.S. GAAP basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Kurian's 2016 PSUs are to be earned based on year-over-year growth in Oracle's total revenues for its cloud SaaS and PaaS offerings"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Fowler's 2016 PSUs are to be earned based on year-over-year growth in Oracle's total revenues for its Oracle Engineered Systems and storage products"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "long_term_incentive",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   }
+  ]
+ }
+}

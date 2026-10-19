@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "f0aea496985c72c3641500a85dea980dd49256d6c9de2e997607f13e8b130c03",
+  "est_input_tokens": 17623
+ },
+ "usage": {
+  "input_tokens": 19372,
+  "output_tokens": 1011
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-GAAP Diluted Earnings Per Share(1)(2) | $1.57 | $1.95 | 124.2%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues, Net of Foreign Exchange ($=MM)(1) | $15,638 | $17,808 | 113.9%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Pipeline (25%) | \u2022 Near-Term Value (Submissions and approvals) \u2022 Long-Term Growth Potential"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (50%) | Regulatory submissions and approvals for new medicines and new indications"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential (50%) | \u2022 Development Candidates \u2022 First in Human \u2022 Proof of Confidence \u2022 Registrational Study Starts"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "individual performance factors for our NEOs ranged from 105% to 130%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Drive performance of the business: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Enhance the value of the portfolio: Maximize portfolio value of new franchises/assets"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Enable a high performing organization and culture: Embed our strategy to engage, empower and enrich employees"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "continuing to deepen employee engagement as measured in surveys and business performance"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "continuing to set a firm \"tone at the top\" on a culture of business integrity, ethics and compliance"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "increased focus on the company's diversity and inclusion initiatives"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Total Revenues (ex-fx) (30% weight)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Non-GAAP EPS (70% weight)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Relative 3-year TSR"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "40% Market Share Units"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "Near-Term Value (50%) | Regulatory submissions and approvals for new medicines and new indications"
+   }
+  ]
+ }
+}

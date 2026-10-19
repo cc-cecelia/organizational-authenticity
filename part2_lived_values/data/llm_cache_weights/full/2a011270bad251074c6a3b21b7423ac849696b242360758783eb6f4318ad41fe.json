@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "2a011270bad251074c6a3b21b7423ac849696b242360758783eb6f4318ad41fe",
+  "est_input_tokens": 17789
+ },
+ "usage": {
+  "input_tokens": 20042,
+  "output_tokens": 181
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on annual revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "SY PSUs based on annual Non-GAAP Operating Income performance, vesting over 4 years"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MY PSUs based on 3-year TSR relative to the S&P 500, vesting over 3 years"
+   }
+  ],
+  "equal_split": []
+ }
+}

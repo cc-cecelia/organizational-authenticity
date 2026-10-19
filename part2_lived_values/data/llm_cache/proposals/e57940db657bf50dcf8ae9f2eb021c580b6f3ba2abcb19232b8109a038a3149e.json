@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0000320187-22-000041",
+  "task": "proposals",
+  "section_words": 3642,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e57940db657bf50dcf8ae9f2eb021c580b6f3ba2abcb19232b8109a038a3149e",
+  "est_input_tokens": 8395
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10323,
+  "output_tokens": 267,
+  "request_id": "req_011CgCBSApLshqeDyxvtjECb"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING A POLICY ON CHINA SOURCING",
+    "proponent": "Domini Impact Equity Fund (co-filer Vancity Investment Management Canadian Equity Fund)",
+    "topic_summary": "Requests Nike adopt a policy to pause sourcing of cotton and other raw materials from China until the U.S. government Business Advisory is lifted or rescinded, citing forced labor risks.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response which follows the shareholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "82d13ca2ae07baba30b724f1c95fedd7ab730f4c1add4b7daafaa7c59ce3dd55",
+  "est_input_tokens": 25248
+ },
+ "usage": {
+  "input_tokens": 25620,
+  "output_tokens": 484
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Of the objective financial performance goals, 40% is based on a consolidated adjusted net revenue goal and 60% is based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "60% is based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The IPF, described in detail on pages 44 to 46, is weighted at 30% of the target value of each annual cash incentive award"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "based on an assessment of individual performance against certain strategic, operational, leadership and ESG goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs, where the number of shares earned is based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of 25% based on relative TSR performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Of the objective financial performance goals, 40% is based on a consolidated adjusted net revenue goal and 60% is based on a consolidated adjusted operating income goal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "8565b4d2ee68a2d27bf677f85d9aa67fc3a6c0b5c90b66c30930cdb67720b39b",
+  "est_input_tokens": 18583
+ },
+ "usage": {
+  "input_tokens": 20036,
+  "output_tokens": 503
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales | Rewards NEOs on effective merchandising, driving market share gains and the enhancement of the Company's omnichannel sales and marketing | Company sales | 40%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income | Rewards NEOs for profitability of Company operations and focuses management on operational efficiency and expense management | Company operating income | 40%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Inventory Turnover | Rewards NEOs for focusing on improving inventory management, which generates cash flow for investing in the business"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pro Sales Growth | Rewards NEOs for focusing on growing Pro market share, which drives long-term sustainable sales growth and profitability for the business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee determined that the PSUs awarded in 2022 will be earned based on the Company's ROIC for the three-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative TSR modifier also helps align executive outcomes with the creation of long-term shareholder value by reducing payouts when the Company's TSR underperforms the S&P 500 Index"
+   }
+  ],
+  "equal_split": []
+ }
+}

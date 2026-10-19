@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "c5bb91eff7421bfa19cd456bf50430b7df44d55bc57ce9cd56b7b6423c0027d3",
+  "est_input_tokens": 20343
+ },
+ "usage": {
+  "input_tokens": 22987,
+  "output_tokens": 773
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Sales exclude the impact of foreign exchange on actual sales relative to the goal target."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS is diluted earnings per common share from continuing operations excluding specified items"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Return on Assets (ROA) reflects earnings from continuing operations, excluding interest expense and specified items."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow Operating Cash Flow less acquisitions of property and equipment."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diabetes Care and Key Cardiometabolic Product Sales Growth exclude the impact of foreign exchange."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diabetes Care and Key Cardiometabolic Product Sales Growth exclude the impact of foreign exchange."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Goal: Meet talent, succession planning, and diversity targets."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest #-# each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Abbott's stock and dividend performance against our peer group. Used to position LTI award guidelines relative to the market."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic metrics."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales and Market Share Growth Contribution Margin Contribution Strategic Metrics"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic metrics."
+   }
+  ],
+  "equal_split": []
+ }
+}

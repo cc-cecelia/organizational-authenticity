@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001047469-16-011835",
+  "task": "proposals",
+  "section_words": 6503,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1e521fd35b6fa7594cdb86cdff7be3ffa60511977e735a448b46cb8c3c08c0a7",
+  "est_input_tokens": 13832
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15156,
+  "output_tokens": 371,
+  "request_id": "req_011CgCBipBb4j2yu5zbqpqfE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Give Each Share An Equal Vote",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the Board to adopt a recapitalization plan giving one vote per share for all Ford stock, eliminating the Ford family's 16-votes-per-share Class B structure.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 because it is not in the best interests of Ford and you."
+   },
+   {
+    "item_number": "6",
+    "title": "Special Shareowner Meetings",
+    "proponent": "Mr. James McRitchie",
+    "topic_summary": "Asks the Board to amend bylaws so holders of 10% of outstanding common stock can call a special shareowner meeting, instead of the current 30% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 6 because it is not in the best interests of Ford and you."
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001206774-17-001192",
+  "task": "proposals",
+  "section_words": 24172,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7628b3321cd967c01910d932899e265aedd28a7f7c18a6ad0b261b0c8722e39e",
+  "est_input_tokens": 54557
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 58061,
+  "output_tokens": 1280,
+  "request_id": "req_011CgCBQMcSCdYSdvKxB7Frw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Advisory vote on a shareholder proposal requesting a change to the vote-counting standard for shareholder proposals",
+    "proponent": "The Equality Network Foundation, represented by Investor Voice, SPC",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder proposals are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Advisory vote on a shareholder proposal regarding the threshold to call special shareholder meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the Board to amend bylaws to let holders of 15% of outstanding common stock call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal requesting that the Company take steps"
+   },
+   {
+    "item_number": "8",
+    "title": "Advisory vote on a shareholder proposal to issue a class of preferred stock with the right to elect its own Director",
+    "proponent": "Marco Consulting Group Trust I",
+    "topic_summary": "Asks the Board to create a franchisee preferred stock class allowing franchisees to elect one Board director.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal requesting that the Company take steps to create a dual-class structure"
+   },
+   {
+    "item_number": "9",
+    "title": "Advisory vote on a shareholder proposal requesting that the Board make all lawful efforts to implement and/or increase activity on the Holy Land Principles",
+    "proponent": "The Holy Land Principles, Inc.",
+    "topic_summary": "Asks the Board to make all lawful efforts to implement the eight Holy Land Principles on equal employment opportunity in Palestine-Israel.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Advisory vote on a shareholder proposal requesting the Board to update the Company's policy regarding use of antibiotics by its meat suppliers",
+    "proponent": "The Benedictine Sisters of Boerne, Texas",
+    "topic_summary": "Asks the Board to set global sourcing targets with timelines for pork and beef raised without non-therapeutic use of medically important antibiotics.",
+    "category": "safety",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Advisory vote on a shareholder proposal requesting a report assessing the environmental impacts of polystyrene foam beverage cups",
+    "proponent": "The Gun Denhart Living Trust, represented by As You Sow Foundation",
+    "topic_summary": "Requests a report assessing environmental and health impacts of continued use of polystyrene foam beverage cups.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Advisory vote on a shareholder proposal requesting a report on charitable contributions",
+    "proponent": "Mr. John Harrington",
+    "topic_summary": "Requests an annual report listing and analyzing charitable contributions for congruency with corporate values and brand risk.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends voting AGAINST this proposal requesting the Board to publish an annual report"
+   }
+  ]
+ }
+}

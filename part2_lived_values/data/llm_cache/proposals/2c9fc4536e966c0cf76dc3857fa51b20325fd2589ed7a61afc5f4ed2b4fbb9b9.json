@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001564590-19-014268",
+  "task": "proposals",
+  "section_words": 5071,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2c9fc4536e966c0cf76dc3857fa51b20325fd2589ed7a61afc5f4ed2b4fbb9b9",
+  "est_input_tokens": 11540
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13153,
+  "output_tokens": 384,
+  "request_id": "req_011CgCB9vVvze4VoDRgTC63d"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Proposal Seven \u2014 Stockholder Proposal Regarding Public Policy Committee",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Asks the Company to establish a Public Policy Committee to oversee policies on human rights, environment, domestic and foreign governmental regulations, and international relations affecting the business.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding a public policy committee."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal Eight \u2014 Stockholder Proposal Regarding Simple Majority Voting Provisions in Governing Documents",
+    "proponent": "James McRitchie",
+    "topic_summary": "Asks the board to eliminate supermajority voting requirements in the charter and bylaws and replace them with a simple majority of votes cast for and against.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding simple majority voting."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "8598bf4212c07d6abc475d1b6a03dbc43a644d5ffd49e96ac7ad95a6178d4b2a",
+  "est_input_tokens": 18688
+ },
+ "usage": {
+  "input_tokens": 21695,
+  "output_tokens": 753
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "Platform Revenue, Operating Margin, and Return on Assets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A formal payout matrix based on platform revenue and income before taxes guides the committee"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Platform Revenue is a non-GAAP metric comprised of net revenues less total Humira sales"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Non - GAAP Operating Margin"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Return on Assets"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "investments in innovation during"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In #our NEOs continued to take a formal goal aligned to driving AbbVie's environmental, social, and governance (ESG) framework."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the equity, equality, diversity, and inclusion (EEDI) strategy"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Short-Term Incentive Strategic and Leadership Goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Final awards are determined by the compensation committee based on a qualitative assessment of holistic performance"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS (#) | \u200b | #| \u200b | #| \u200b | #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR is measured over a #- year performance period and used as a modifier"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-Vested Restricted Stock Units (# of total LTI award) \u2014These awards have the potential to vest"
+   }
+  ],
+  "equal_split": []
+ }
+}

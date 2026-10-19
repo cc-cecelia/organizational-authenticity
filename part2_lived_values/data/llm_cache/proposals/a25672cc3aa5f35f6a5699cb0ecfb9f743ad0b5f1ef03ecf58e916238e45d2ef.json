@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-101977",
+  "task": "proposals",
+  "section_words": 3966,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a25672cc3aa5f35f6a5699cb0ecfb9f743ad0b5f1ef03ecf58e916238e45d2ef",
+  "est_input_tokens": 10062
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11422,
+  "output_tokens": 573,
+  "request_id": "req_011CgCACZc3yFHKQ11vf34VP"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Civil Rights, Non-Discrimination and Returns to Merit Audit",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests an audit analyzing impacts of the Company's DEI policies on civil rights, non-discrimination and returns to merit, and a publicly disclosed report.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Therefore, the Board recommends that our shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Production of a Report on BlackRock's Ability to \"Engineer Decarbonization in the Real Economy\"",
+    "proponent": "Paul Rissman",
+    "topic_summary": "Requests a report on whether and how BlackRock could improve pension clients' returns by focusing stewardship and proxy voting on decarbonizing the real economy.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Therefore, the Board recommends that our shareholders vote AGAINST the proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Impact Report for Climate-Related Human Risks of iShares U.S. Aerospace and Defense Exchange-Traded Fund",
+    "proponent": "CODEPINK \u2013 WOMEN FOR PEACE",
+    "topic_summary": "Requests a report on potential material risks to all stakeholders of the ITA ETF, focusing on global human and environmental cost of investing in it.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Therefore, the Board recommends that our shareholders vote AGAINST the proposal."
+   }
+  ]
+ }
+}

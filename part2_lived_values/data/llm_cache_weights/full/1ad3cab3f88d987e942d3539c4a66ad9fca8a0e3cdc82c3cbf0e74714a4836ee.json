@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "1ad3cab3f88d987e942d3539c4a66ad9fca8a0e3cdc82c3cbf0e74714a4836ee",
+  "est_input_tokens": 23231
+ },
+ "usage": {
+  "input_tokens": 25446,
+  "output_tokens": 63
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our PSUs awards are earned based on company performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

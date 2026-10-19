@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "2dc51af659c8ed612ba8ede423ec945638b5387c5bc0e39c962553a4044a59bf",
+  "est_input_tokens": 18184
+ },
+ "usage": {
+  "input_tokens": 19873,
+  "output_tokens": 326
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating income ([w] #), inventory improvement ([w] #) and Pro sales growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "inventory improvement ([w] #)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pro sales growth ([w] #)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The #PSUs will be earned based on the Company's achievement of a #-year average ROIC goal, and a relative TSR modifier"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "and a relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

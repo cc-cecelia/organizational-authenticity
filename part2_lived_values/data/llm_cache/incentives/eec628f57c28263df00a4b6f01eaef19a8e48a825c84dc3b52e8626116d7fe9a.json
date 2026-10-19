@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001140361-22-013794",
+  "task": "incentives",
+  "section_words": 9584,
+  "section_method": "heading",
+  "cache_key": "eec628f57c28263df00a4b6f01eaef19a8e48a825c84dc3b52e8626116d7fe9a",
+  "est_input_tokens": 22051
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24593,
+  "output_tokens": 617,
+  "request_id": "req_011CgCA87oQJsWWoSeoVubAL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "MS Average ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period (MS Average ROTCE)."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The other half of the target LTIP award is earned based on the Company's TSR over the three-year period (MS TSR) relative to the TSR of the S&P 500 Financials Index"
+   },
+   {
+    "metric": "MS Average ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period (MS Average ROTCE)."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The other half of the target LTIP award is earned based on the Company's TSR over the three-year period (MS TSR) relative to the TSR of the S&P 500 Financials Index"
+   }
+  ]
+ }
+}

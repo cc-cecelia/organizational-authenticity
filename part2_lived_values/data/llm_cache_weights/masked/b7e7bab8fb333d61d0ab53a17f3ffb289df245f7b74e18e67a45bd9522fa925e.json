@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "b7e7bab8fb333d61d0ab53a17f3ffb289df245f7b74e18e67a45bd9522fa925e",
+  "est_input_tokens": 17070
+ },
+ "usage": {
+  "input_tokens": 18150,
+  "output_tokens": 470
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales, operating profit and inventory turns \u2013 operating profit threshold level must be met for any MIP payout to occur"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded target levels for each of the sales and operating profit goals and achieved performance slightly below the target level for the inventory turns goal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Fiscal #-#Performance Shares award provides for the grant of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Shares. The Fiscal #-#performance share award provides for the grant of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-Based Restricted Stock. In March #we granted performance-based restricted stock awards that were forfeitable if operating profit was less than # of the MIP target"
+   }
+  ],
+  "equal_split": []
+ }
+}

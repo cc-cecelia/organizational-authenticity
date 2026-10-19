@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "1bf641446bcd3586dba3d2d10bb30cda1a7a2b3de7fed04ae90e3fda3fc2553b",
+  "est_input_tokens": 17155
+ },
+ "usage": {
+  "input_tokens": 17852,
+  "output_tokens": 902
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales (50%) and Incentive Operating Income (50%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Team scorecard is based on the Compensation & Human Capital Management Committee's assessment of our NEOs' progress toward strategic priorities."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "gain market share at the enterprise level and evaluate category level market share"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "advance progress on our new three-year enterprise DE&I goals, maintain strong team engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Team member survey results show that our team continues to be engaged in their work"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Growth in same-day services, represented by 7% growth in Drive Up, Order Pickup, and Shipt"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Completed new store and remodels met or exceeded sales plans for Fiscal 2022."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs \u2014 Payouts range from 0% to 200% of goal depending on Adjusted Sales growth, EPS growth, and ROIC performance relative to our retail peer group."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS growth. The compound annual growth rate of our EPS versus the reported EPS of our retail peer group."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC. Average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PBRSUs have a three-year performance period with the number of shares based on relative three-year TSR performance versus our retail peer group."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "our PSUs have a three-year performance period with the number of shares based on the following three equally weighted relative metrics"
+   }
+  ]
+ }
+}

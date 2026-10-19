@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "17d32db74dac721803e6e71aeab7c5de493d0eb6fc0f841551f4d48f2a70d1d8",
+  "est_input_tokens": 21041
+ },
+ "usage": {
+  "input_tokens": 22591,
+  "output_tokens": 501
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company financial performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business unit performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achievement of long-term strategic objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Individual performance"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained focus on risk and control framework, including enhancements to core controls"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period (MS Average ROTCE)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The other half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period relative to the ROTCE of each member of a"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   }
+  ]
+ }
+}

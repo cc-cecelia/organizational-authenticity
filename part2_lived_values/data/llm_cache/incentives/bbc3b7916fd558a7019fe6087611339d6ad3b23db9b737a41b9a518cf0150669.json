@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001193125-19-017145",
+  "task": "incentives",
+  "section_words": 11062,
+  "section_method": "heading",
+  "cache_key": "bbc3b7916fd558a7019fe6087611339d6ad3b23db9b737a41b9a518cf0150669",
+  "est_input_tokens": 25188
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27164,
+  "output_tokens": 681,
+  "request_id": "req_011CgCBVwcDEBune8DBACBg8"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For fiscal 2018, weighting of operating income was increased to 60% (from 50% in fiscal 2017)"
+   },
+   {
+    "metric": "Adjusted Net Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Net Revenue was reduced to 40% (from 50% in fiscal 2017)"
+   },
+   {
+    "metric": "Committee Discretion (individual performance adjustment)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "individual performance is assessed to determine if an adjustment is warranted"
+   },
+   {
+    "metric": "Adjusted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares earned is dependent on the achievement of a two-year EPS goal"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the target ROIC goal under the PRSUs is not met, the number of PRSUs to be delivered ... will be adjusted downward by as much as 50%"
+   }
+  ]
+ }
+}

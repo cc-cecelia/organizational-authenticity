@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-072939",
+  "task": "proposals",
+  "section_words": 6275,
+  "section_method": "resolved_windows",
+  "cache_key": "bd6013f8878cba145ea61f06950a55e19a8ab9ce11334123309d085fd0e1acde",
+  "est_input_tokens": 13842
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14507,
+  "output_tokens": 522,
+  "request_id": "req_011CgC9q4hekRPtvAzyYqCVH"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5: Report on Global Median Gender Pay Gap",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the company's global median gender pay gap, including associated policy, reputational, competitive, operational risks and risks of recruiting and retaining female talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 5)."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6: Right to Act by Written Consent",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests the board permit shareholders holding the minimum votes needed to act to take action by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 6)."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7: Enhance Shareholder Proxy Access",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests amending proxy access bylaws so proxy access candidates need not obtain a specific percentage vote to qualify for future nomination.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 7)."
+   }
+  ]
+ }
+}

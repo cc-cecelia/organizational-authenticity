@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000736",
+  "task": "proposals",
+  "section_words": 22004,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "fa92537aee0d121257b1c75fba79fa4e8fa8247875afbe27348f1e4d3b34b099",
+  "est_input_tokens": 51646
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 52598,
+  "output_tokens": 2640,
+  "request_id": "req_011CgC9LRVkNvsvrLTehppFV"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding a Lobbying Report",
+    "proponent": "United Church Funds",
+    "topic_summary": "Requests annual report disclosing Alphabet's direct and indirect lobbying and grassroots lobbying policies, payments, recipients, and oversight decision-making.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding a Congruency Report",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests report analyzing whether voluntary partnerships with organizations like WEF and CFR are congruent with shareholder fiduciary interests.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding a Climate Lobbying Report",
+    "proponent": "Boston Trust Walden Company and Zevin Asset Management",
+    "topic_summary": "Requests evaluation and report on alignment of Alphabet's lobbying and trade association activity with the Paris Agreement and climate commitments.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding a Report on Reproductive Rights and Data Privacy",
+    "proponent": "Arjuna Capital, on behalf of Elizabeth Bartle",
+    "topic_summary": "Requests report assessing feasibility of reducing abortion-related law enforcement data risks through expanded consumer privacy protections and controls.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding a Human Rights Assessment of Data Center Siting",
+    "proponent": "SumOfUs, on behalf of Mari Mennel-Bell",
+    "topic_summary": "Requests report assessing siting of Google Cloud data centers in countries of human rights concern and mitigation strategies.",
+    "category": "community",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding a Human Rights Assessment of Targeted Ad Policies and Practices",
+    "proponent": "The Shareholder Association for Research & Education, on behalf of the United Church of Canada Pension Plan",
+    "topic_summary": "Requests independent third-party human rights impact assessment of Google's targeted advertising policies and practices, published by June 1, 2024.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding Algorithm Disclosures",
+    "proponent": "Trillium Asset Management, on behalf of the John Hancock ESG Large Cap Core Fund",
+    "topic_summary": "Requests more quantitative and qualitative disclosure on algorithmic systems, including ad targeting, error rates, and impact on user speech and experiences.",
+    "category": "integrity",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "13",
+    "title": "Stockholder Proposal Regarding a Report on Alignment of YouTube Policies With Legislation",
+    "proponent": "Boston Common Asset Management",
+    "topic_summary": "Requests report on whether and how YouTube policies will align worldwide with comprehensive online safety regulations to minimize legislative risk.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "14",
+    "title": "Stockholder Proposal Regarding a Content Governance Report",
+    "proponent": "The National Legal and Policy Center",
+    "topic_summary": "Requests report reviewing vulnerabilities in enforcement of content policies and risks from content management controversies to finances, operations, and reputation.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "15",
+    "title": "Stockholder Proposal Regarding a Performance Review of the Audit and Compliance Committee",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests independent assessment of the Audit and Compliance Committee's role in overseeing material risks to public well-being, published by September 1, 2024.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "16",
+    "title": "Stockholder Proposal Regarding Bylaws Amendment",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Requests shareholder approval be required for advance notice bylaw amendments imposing 90-day nomination deadlines or new nominee disclosure requirements.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "17",
+    "title": "Stockholder Proposal Regarding \"Executives to Retain Significant Stock\"",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests policy requiring senior executives to retain 50% of equity pay stock until normal retirement age and prohibit hedging.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "18",
+    "title": "Stockholder Proposal Regarding Equal Shareholder Voting",
+    "proponent": "The NorthStar Asset Management, inc. Funded Pension Plan",
+    "topic_summary": "Requests recapitalization plan to phase out Class B super-voting shares so each share has one vote, within seven years.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "c182c6d447f33d8a6890ec9d6e26fb18f282bea59a219a8b9cbb66e7b9038673",
+  "est_input_tokens": 16593
+ },
+ "usage": {
+  "input_tokens": 16537,
+  "output_tokens": 631
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue Growth (40%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income as a percentage of revenue (15%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted earnings per share (15%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 30% of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Customer Allegiance | We improved our customer allegiance score over our 2014 score"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "New Product Introduction | We launched numerous new products, but the percentage of 2015 product revenue"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maximization of Opportunity in Emerging Markets | We had significant growth in Asia Pacific"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Building a Diverse Workforce/ Employer of Choice | We improved leadership diversity"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mergers and Acquisitions | We successfully integrated Life Technologies"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth and adjusted earnings per share (see page 21)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share"
+   }
+  ],
+  "equal_split": []
+ }
+}

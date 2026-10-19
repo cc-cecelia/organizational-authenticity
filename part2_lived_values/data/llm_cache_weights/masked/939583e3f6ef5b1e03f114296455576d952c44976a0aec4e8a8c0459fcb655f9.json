@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "939583e3f6ef5b1e03f114296455576d952c44976a0aec4e8a8c0459fcb655f9",
+  "est_input_tokens": 28007
+ },
+ "usage": {
+  "input_tokens": 30338,
+  "output_tokens": 1468
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For fiscal year #the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For fiscal year #the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy and Customers & Stakeholders will be combined into a single category and the new category of Security will be added"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders | Customer and partner engagement and outreach | Customer satisfaction | Developer engagement"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture, Diversity & Sustainability | Compliance and integrity | Culture | Diversity and inclusion | Organizational health | Sustainability and carbon reduction"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Consistent focus on diversity and inclusion, including investing in growing senior level diverse talent in the organization."
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Continued investments and focus on diversity, culture, talent, and organizational effectiveness to drive a high-performance organization."
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continued investments through the Climate Innovation Fund to accelerate the global development of carbon reduction and removal technologies."
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Increased developer engagement leading to the creation of a significant number of new AI apps for the Azure Marketplace."
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Revenue, consumption, and market share"
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 17,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Azure and Other Cloud Services Revenue Growth"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Microsoft Cloud Revenue Growth, excluding Azure and Other Cloud Services"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Search and News Advertising Revenue (ex TAC) Growth"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Xbox Content and Services Revenue Growth"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn Sessions"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance stock awards include a relative total shareholder return (\"TSR\") modifier to strengthen the alignment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Cash incentives are determined in two performance categories for our CEO and other NEOs"
+   }
+  ]
+ }
+}

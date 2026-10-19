@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "218ff2ea7123445afbd8f24ed7640827fd11c30e91541fb100c59e2b59625549",
+  "est_input_tokens": 25088
+ },
+ "usage": {
+  "input_tokens": 27892,
+  "output_tokens": 1221
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational sales growth: 3-year PSUs; 1-year sales goal eliminated from PSU plan beginning 2020"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The new plan includes 3-year adjusted operational EPS and 3-year relative TSR."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "1/2 Relative Total Shareholder Return: 3-year Compound Annual Growth Rate versus the Competitor Composite peer Group"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Operational EPS : Consider our strategic plan, financial principles, competitive position, and investment strategies."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We set our 2019 operational sales growth goal considering: Anticipated headwinds in our Pharmaceuticals business"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow : Target specific levels of productivity and adjust for significant events as needed."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Create Life-Enhancing Innovation: We met our objectives that measure our priority innovation projects across all 3 businesses."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver Excellence in Execution: We met our objectives that measure: our priority business platforms' sales, our sales in regions offering the highest growth opportunities, and our product quality."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Generate Value Through Partnerships: We met our objectives that track elements we need to execute to deliver additional growth opportunities."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Empower and Inspire our Employees: We met our objectives that measure our organizational health, diversity, and reputation."
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Advanced our efforts in diversity and our culture of inclusion, and exceeded our culture of health goals."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Progressed our sustainability efforts with the goal of reducing plastic in our packaging and optimizing our global carbon footprint."
+   },
+   {
+    "id": 12,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Delivered on 3 of 4 significant quality commitments for 2019, achieving our risk mitigation, field action, and inspection goals"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Maintained our strong global reputational index and exceeded our employee engagement goals."
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Exceeded our employee engagement goals"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We evaluate the performance of our named executive officers based on what objectives they have accomplished and how they have accomplished them."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The new plan includes 3-year adjusted operational EPS and 3-year relative TSR."
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "We redesigned our PSUs to be based on 3-year adjusted operational EPS and 3-year relative TSR (each weighted 50%)"
+   }
+  ]
+ }
+}

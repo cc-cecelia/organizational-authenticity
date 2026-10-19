@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "e162b2d4182526a636cdba1bb54505de8af067262d3ed340e0507295b898c99b",
+  "est_input_tokens": 31970
+ },
+ "usage": {
+  "input_tokens": 31710,
+  "output_tokens": 1276
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return, which is [w] #; Operational/Financial, which is [w] #; and Strategic Plan, which is [w] #."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational/Financial, which is [w] #"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress in implementing its strategic plan over a given performance period."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "culture, organization, governance, diversity, opportunity capture, policies/controls, reputation, stakeholder relationships and asset sales."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee made the decision not to make individual adjustments for each of our Named Executive Officers for PSP XII despite significant individual leadership shown during the performance period."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Corporate Performance (# of VCIP Payout) In December #the Committee approved five corporate performance measures"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Health, Safety and Environmental (\"HSE\")\u2014We seek to be a good employer, good community member and good steward of the environmental resources we manage."
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Operational\u2014This measure was adopted to focus on various operational elements. For VCIP, these include absolute targets for production, capital expenditures"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Financial\u2014This measure comprises several financial measures. For VCIP, it includes adjusted ROCE (discussed below) and adjusted CROCE"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Strategic Plan \u2014 Negative Adjustment of #; reduced to # payout. The Company took decisive actions to reset the business"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return\u2014TSR represents the percentage change in a company's common stock price from the beginning of a period of time to the end of the stated period"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The business unit payout, which provides employees with line-of-sight to their own business unit's performance rather than corporate performance, ranged from # to #"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 13,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 14,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 15,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments An important design element of the program is the Committee's ability to make individual adjustments for each Named Executive Officer"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was given [w] within the corporate performance component."
+   }
+  ]
+ }
+}

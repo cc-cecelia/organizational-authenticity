@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "4bb45afbd015c55243c00ce5d586a7a13a0383cf7cc573f33dca386bed179583",
+  "est_input_tokens": 20002
+ },
+ "usage": {
+  "input_tokens": 20396,
+  "output_tokens": 968
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic | # | # - # | Execution of Business Plan"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Cash Flow Neutrality | \u25a0 The total of cash flow from operations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational | # | # - # | Production from Ongoing Operations"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Production from Ongoing Operations | #MBOED"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Oil and Gas Operating Expense per BOE | #per BOE"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial | # | # - # | CROCE (#)"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Replaced Returns on Net Invested Capital with CROCE as # of the # financial metrics"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Core EPS (#) | #| Exceeded target performance with a Core EPS of #"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added a Sustainability Metric to the Safety/Environmental Objective"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor IIR (#) | < #| Missed target performance"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor DART (#) | < #| Missed target performance"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Oil Spills | \u25a0 No net oil release > #barrels impacting fresh water"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Risk | \u25a0 No \"#\" or \"#\" level incident"
+   },
+   {
+    "id": 13,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Sustainability | \u25a0 Demonstrable advancement of CCUS"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance portion of the Annual Cash Incentive award links compensation directly to the performance of the particular executive"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The TSR award is an objective external measure of Occidental's effectiveness in translating its results into stockholder returns"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CROCE award is designed to focus executives on the efficient use of capital by promoting discipline in capital allocation decisions"
+   }
+  ],
+  "equal_split": []
+ }
+}

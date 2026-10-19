@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-092204",
+  "task": "incentives",
+  "section_words": 4428,
+  "section_method": "heading",
+  "cache_key": "f845cbec7008b821eaa3aea5d873c35b327c77d1a1899331596f53d912e1b85d",
+  "est_input_tokens": 10470
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12236,
+  "output_tokens": 294,
+  "request_id": "req_011CgCADeJc6YpwP1s5W5Tdg"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS (Corporate Executive Bonus Plan)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "metric": "ROCE compared to COE (PBRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee approved performance goals based on ROCE and COE with potential payouts ranging from 100% to 200% of the target shares granted."
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001193125-19-119221",
+  "task": "incentives",
+  "section_words": 7504,
+  "section_method": "heading",
+  "cache_key": "7b638acf4d61187335c0a06c969522b675b937ffb2458622952becdc385fa136",
+  "est_input_tokens": 17000
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19656,
+  "output_tokens": 741,
+  "request_id": "req_011CgCBfZMXx6N2ESEuwdzEH"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Pre-tax Income for MIP",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 80,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pre-tax Income for MIP is weighted at 80% of the total payout opportunity for our NEOs"
+   },
+   {
+    "metric": "Total Sales for MIP",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Sales for MIP is weighted at 20% of the total payout opportunity for our NEOs"
+   },
+   {
+    "metric": "Pre-tax Income for LRPIP",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pre-tax Income for LRPIP exceeded our fiscal 2017-2019 target at 106.30% of target, resulting in a payout of 115.74%"
+   },
+   {
+    "metric": "EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs granted in fiscal 2019 will be earned based on the achievement of challenging EPS compound annual growth rate (CAGR) goals"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The new PSUs will also be subject to a downward ROIC modifier, which means that if the company does not achieve its ROIC goals, award payouts would be adjusted downward by 20%."
+   }
+  ]
+ }
+}

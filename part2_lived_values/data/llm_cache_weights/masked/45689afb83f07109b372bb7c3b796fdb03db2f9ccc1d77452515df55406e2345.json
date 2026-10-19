@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "45689afb83f07109b372bb7c3b796fdb03db2f9ccc1d77452515df55406e2345",
+  "est_input_tokens": 17384
+ },
+ "usage": {
+  "input_tokens": 19964,
+  "output_tokens": 635
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver to our customers"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver to our customers"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We use our human capital management metric \u2014 the Employee Experience Index (EXI) \u2014 to measure an employee's sense of commitment and belonging to the Company"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the three-year performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the three-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-073223",
+  "task": "proposals",
+  "section_words": 3718,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "143cfd515215daca0f8fb74f31b431e5cc6f379e25586250e8207f4c6afc99e0",
+  "est_input_tokens": 8462
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9683,
+  "output_tokens": 576,
+  "request_id": "req_011CgC9eeeXDaTMa9PvsYMEP"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal to Have an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring the Board Chairman to be an independent director whenever possible, including at the next Chairman transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on the Right to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests that shareholders be permitted to act by written consent, with the minimum votes needed to authorize action at a fully attended meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting the Company Publish Annually a Report Assessing its Diversity, Equity and Inclusion Efforts",
+    "proponent": "Nia Impact Capital",
+    "topic_summary": "Requests an annual report assessing IBM's diversity, equity and inclusion efforts, including the Board's process and assessment of program effectiveness.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "for",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THIS PROPOSAL."
+   }
+  ]
+ }
+}

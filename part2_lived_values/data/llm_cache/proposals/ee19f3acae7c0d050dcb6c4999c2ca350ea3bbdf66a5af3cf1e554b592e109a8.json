@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001193125-24-091327",
+  "task": "proposals",
+  "section_words": 4778,
+  "section_method": "resolved_windows",
+  "cache_key": "ee19f3acae7c0d050dcb6c4999c2ca350ea3bbdf66a5af3cf1e554b592e109a8",
+  "est_input_tokens": 13026
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15665,
+  "output_tokens": 658,
+  "request_id": "req_011CgCBwciPiW4zdvQoW8JG5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "stockholder proposal to report on voluntary carbon reduction risks",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report analyzing the risks arising from voluntary carbon-reduction commitments.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "stockholder proposal to report on plastic demand scenario",
+    "proponent": "Guy Lampard, Trustee of the Suzanne B & Guy L Trust (represented by As You Sow)",
+    "topic_summary": "Requests a report on whether a significant reduction in virgin plastic demand under the System Change Scenario would affect the Company's financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "stockholder proposal to commission a third-party report on human rights practices",
+    "proponent": "American Baptist Home Mission Society",
+    "topic_summary": "Requests an independent third-party report evaluating how effectively the company implements its Human Rights Policy and prevents, mitigates and remedies human rights impacts.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "stockholder proposal to report on tax practices",
+    "proponent": "Oxfam America",
+    "topic_summary": "Requests a tax transparency report prepared under the GRI Tax Standard, including country-by-country reporting of financial and tax data.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your Board recommends that you vote AGAINST the proposal."
+   }
+  ]
+ }
+}

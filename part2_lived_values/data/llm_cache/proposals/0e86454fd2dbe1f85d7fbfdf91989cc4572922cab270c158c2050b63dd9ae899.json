@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0001193125-22-095134",
+  "task": "proposals",
+  "section_words": 4658,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0e86454fd2dbe1f85d7fbfdf91989cc4572922cab270c158c2050b63dd9ae899",
+  "est_input_tokens": 11280
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12735,
+  "output_tokens": 533,
+  "request_id": "req_011CgCAhTbCp5MfdLEDHmgbe"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2013 Shareholder Proposal Regarding an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring separate Board Chairman and CEO, with the Chairman preferably independent and not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that the shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proposal Regarding Access to COVID-19 Products",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Requests a report on whether public financial support for COVID-19 therapeutics is considered in decisions affecting access, such as IP licensing or pricing.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that the shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6 \u2013 Shareholder Proposal Regarding Lobbying Expenditure Disclosure",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests annual disclosure of direct and indirect lobbying and grassroots lobbying policies, payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that the shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

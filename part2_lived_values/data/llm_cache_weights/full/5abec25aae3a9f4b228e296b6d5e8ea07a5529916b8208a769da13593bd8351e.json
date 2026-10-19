@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "5abec25aae3a9f4b228e296b6d5e8ea07a5529916b8208a769da13593bd8351e",
+  "est_input_tokens": 23319
+ },
+ "usage": {
+  "input_tokens": 25139,
+  "output_tokens": 1048
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Earnings per share (\"EPS\", diluted) (2,3) | $7.74 reported EPS, better than Plan; modest miss on normalized EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014 Chevron delivered strong cash flow in 2018, supported by higher commodity realizations and strong production growth."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Capital management | 30% | Return on capital employed"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for 2018 of 8.2 percent exceeded Plan."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u20142018 C&E totaled $20.1 billion, 10 percent higher than budget."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan: Gorgon & Wheatstone LNG\u2014Wheatstone Train 2 first LNG production and sustained performance achieved."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating performance\u201415 percent"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Net production of 2.944 million barrels of oil-equivalent per day in 2018, excluding divestments."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled $24.9 billion, above Plan. Unit costs declined in 2018."
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates were better than Plan by 1.0 percentage point."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "health, environmental and safety\u201415 percent"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on all measures."
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance and spill volume was better than Plan."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Individual Performance Factor (\"IPF\") for each NEO other than himself."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payout is dependent on Chevron's TSR over a three-year period, compared with our LTIP Performance Share Peer Group TSR."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is equal to the closing common stock price on the grant date."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Five-year cliff vesting lengthens equity holding time, which enhances retention and alignment with stockholders."
+   }
+  ],
+  "equal_split": []
+ }
+}

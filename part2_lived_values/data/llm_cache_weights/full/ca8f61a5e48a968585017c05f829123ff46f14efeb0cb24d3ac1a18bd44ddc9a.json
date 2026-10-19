@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "ca8f61a5e48a968585017c05f829123ff46f14efeb0cb24d3ac1a18bd44ddc9a",
+  "est_input_tokens": 10243
+ },
+ "usage": {
+  "input_tokens": 13021,
+  "output_tokens": 206
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Average RoTCE 2023-2025 | Cumulative TBVPS 2023-2025 | Percentage of Target PSUs Earned"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to performance conditions based on return on tangible common equity and tangible book value per share"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "subject to performance conditions based on return on tangible common equity and tangible book value per share"
+   }
+  ]
+ }
+}

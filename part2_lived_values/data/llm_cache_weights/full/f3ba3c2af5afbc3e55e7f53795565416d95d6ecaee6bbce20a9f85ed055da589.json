@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "f3ba3c2af5afbc3e55e7f53795565416d95d6ecaee6bbce20a9f85ed055da589",
+  "est_input_tokens": 17595
+ },
+ "usage": {
+  "input_tokens": 18316,
+  "output_tokens": 826
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a 10% after-tax rate of return* on capital expenditure program | 25%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | 15%"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "287.8 MBbld crude oil and condensate production | Achieved 284.4 MBbld"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Maintain a year-end net debt-to-total capitalization ratio* of less than 25%, excluding material acquisitions | 5%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic and other operational goals, such as: | 45% | Substantially achieved"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "achieve positive ROCE* and ROE*; | Achieved 0.9% ROCE* and 0.2% ROE*"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "acquire new drilling potential; | Acquired 34,000 net acres in four transactions in the Delaware Basin"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "confirm new reserve potential; and | Added significant new net resource potential"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "other strategic goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We must achieve positive Adjusted Non-GAAP Net Income* (as reported in our year-end earnings release) for the payment of bonuses"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A performance-based long-term incentive plan (consisting of grants of performance units) for our Named Officers based on our total stockholder return relative to the total stockholder return of our peer companies"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "Strategic and other operational goals, such as: | 45% | Substantially achieved"
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "910161b2f84b13b051b5106a827e470404482422f8a65e0d99b23ab482b92ed2",
+  "est_input_tokens": 26516
+ },
+ "usage": {
+  "input_tokens": 27098,
+  "output_tokens": 1657
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Corporate performance is based on Occidental's total spend per barrel, CROCE and sustainability performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "CROCE was added as a financial metric for #to provide a more comprehensive view of company strategic, operational and financial performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The sustainability metric remains [w] at # to continue advancing the company's net-# strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee decided that the target metrics for emissions reduction projects were met above target"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee also determined that the target metrics for low carbon ventures were met above target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee believes that the comparison of Occidental's #-year TSR to peer companies' TSR"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CROCE award incentivizes a high level of executive focus on capital efficiency and prudent capital allocation."
+   }
+  ],
+  "equal_split": []
+ }
+}

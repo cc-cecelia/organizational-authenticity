@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "5bea4d118c89ae66ca1145a166c42592637a0e9641abe3b2129ed78d8dec1717",
+  "est_input_tokens": 22110
+ },
+ "usage": {
+  "input_tokens": 25219,
+  "output_tokens": 1070
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Met our operational sales growth goal | 4.0% - 5.0% | 4.0%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Met our adjusted operational EPS growth goal | 4.8% - 7.0% | 6.5%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded our free cash flow goal ($ Billions) | $14.8 - $15.6 | $17.8"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We believe that sustaining investments in innovation is the most important aspect of our strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Global Reach with Local Focus: We did not meet our objectives that measure the health of our business in regions offering significant growth opportunities."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Excellence in Execution: We exceeded our objectives that track elements we need to execute to unleash additional growth opportunities."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leading with Purpose: We met our objectives that measure our organizational health, diversity, and reputation."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Strengthened our leadership talent pipeline, advanced diversity, and exceeded our employee engagement benchmarks."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "exceeded our employee engagement benchmarks"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In assessing our named executive officers' contributions to Johnson & Johnson's performance, the Committee not only looks to results-oriented measures of performance, but also considers how those results were achieved."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "1/3 Sales: 1-year Operational Sales for each year of the 3-year performance period"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "1/3 Earnings per Share: 3-year Cumulative Adjusted Operational EPS"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "1/3 Relative Total Shareholder Return: 3-year Compound Annual Growth Rate versus the Competitor Composite Peer Group"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock Options | 30% | 100% vested | Share price appreciation | Motivates share price appreciation over the long-term"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted Share Units | 10% | 100% vested 3 years after grant | Share price | Ties RSU value directly to the share price"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 10,
+    "plan": "long_term_incentive",
+    "evidence": "1/3 Sales: 1-year Operational Sales for each year of the 3-year performance period"
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-004664",
+  "task": "incentives",
+  "section_words": 4712,
+  "section_method": "heading",
+  "cache_key": "6ab2170a8b27a88dd8c5d60d3d4e4c824e9c10cdcb26ed19c9ba00efca327fc3",
+  "est_input_tokens": 11339
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12466,
+  "output_tokens": 1182,
+  "request_id": "req_011CgC9BU6X6TEu8mUHtkiS7"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Net sales and operating income, as determined in accordance with generally accepted accounting principles, are used as the performance measures"
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an equal weighting for the net sales and operating income measures"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest depends on Apple's total shareholder return relative to the other companies in the S&P 500"
+   }
+  ]
+ }
+}

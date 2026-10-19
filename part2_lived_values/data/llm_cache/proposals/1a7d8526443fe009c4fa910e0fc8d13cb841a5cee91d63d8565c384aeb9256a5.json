@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "BRK.B",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-073948",
+  "task": "proposals",
+  "section_words": 4368,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1a7d8526443fe009c4fa910e0fc8d13cb841a5cee91d63d8565c384aeb9256a5",
+  "est_input_tokens": 10586
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12039,
+  "output_tokens": 1225,
+  "request_id": "req_011CgC9kudqfuty9Pjg57wkh"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Climate-related risk assessment (CalPERS and CDPQ proposal)",
+    "proponent": "California Public Employees' Retirement System (CalPERS) and Caisse de D\u00e9p\u00f4t et Placement du Qu\u00e9bec (CDPQ)",
+    "topic_summary": "Asks the board to publish an annual parent-company assessment of how the Company manages physical and transitional climate-related risks and opportunities, following TCFD recommendations.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "5",
+    "title": "Climate-related risk governance disclosure (Illinois Bright Start proposal)",
+    "proponent": "The Office of the Treasurer for the State of Illinois as Trustee of the Bright Start College Savings Trust and Robeco",
+    "topic_summary": "Asks the board to disclose in the proxy how climate risks are governed, including audit committee oversight, climate stress testing, director climate competence and training, and climate considerations in director elections.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "6",
+    "title": "Insurance operations GHG emissions reporting and targets (As You Sow proposal)",
+    "proponent": "As You Sow on behalf of Elizabeth Kantor Trust U/A DTD 3/11/1993",
+    "topic_summary": "Requests a report on whether and how Berkshire will measure, disclose and reduce GHG emissions from underwriting, insuring and investment activities in line with a Paris 1.5\u00b0C net zero goal.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends a \"no\" vote on this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Diversity, equity and inclusion data reporting",
+    "proponent": "Meredith Benton of Whistle Stop Capital, on behalf of Myra K. Young",
+    "topic_summary": "Requests a report on the effectiveness of DEI efforts with quantitative hiring, retention and promotion metrics, including data by gender, race and ethnicity.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends a \"no\" vote on this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Separate Chairman and CEO roles",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Asks the board to adopt a policy requiring separation of the Chairman and CEO roles, with an independent chairman who is not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board agrees with Mr. Buffett and recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Senior management commitment to avoid political speech",
+    "proponent": "American Conservative Values ETF",
+    "topic_summary": "Asks the board to encourage senior management commitments to avoid public positions on controversial social or political issues unless justified by business strategy.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends a \"no\" vote on this resolution."
+   }
+  ]
+ }
+}

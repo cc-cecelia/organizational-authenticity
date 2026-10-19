@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "14792eb73492b0b30e58549bbacb66cb9c588281f13156744127d49e2bce56e8",
+  "est_input_tokens": 16412
+ },
+ "usage": {
+  "input_tokens": 16548,
+  "output_tokens": 490
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Net Income | 40%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Imperatives Revenue | 20%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Cash Flow | 40%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Earnings Per Share | 70%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | 30%"
+   }
+  ],
+  "equal_split": []
+ }
+}

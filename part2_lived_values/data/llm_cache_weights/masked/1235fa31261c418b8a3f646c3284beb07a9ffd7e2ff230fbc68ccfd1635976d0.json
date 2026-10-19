@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "1235fa31261c418b8a3f646c3284beb07a9ffd7e2ff230fbc68ccfd1635976d0",
+  "est_input_tokens": 21313
+ },
+ "usage": {
+  "input_tokens": 24261,
+  "output_tokens": 389
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For Messrs. Schultz, Maw and Johnson, # of their EMBP award was based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For Messrs. Schultz, Maw and Johnson, # of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC, which operated as a potential downward modifier of the adjusted net revenue and adjusted net operating income result."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance RSUs. The extent to which performance RSUs vest is based on our achievement of two-year adjusted EPS and ROIC goals."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "the inclusion of ROIC as a potential downward modifier increases executive focus on ROIC, which we believe is an important measure of the Company's performance."
+   }
+  ],
+  "equal_split": []
+ }
+}

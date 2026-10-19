@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001326801-17-000016",
+  "task": "incentives",
+  "section_words": 5721,
+  "section_method": "heading",
+  "cache_key": "7f1dd3ad68a3dc9d4835394443d37d36aa62d403fb1fdba98ee65630ca731c9b",
+  "est_input_tokens": 13457
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14097,
+  "output_tokens": 2224,
+  "request_id": "req_011CgC9McfjoZpEXFdXpZrfy"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company-wide priorities",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The company-wide priorities do not have specific target levels associated with them for purposes of determining performance under the Bonus Plan"
+   },
+   {
+    "metric": "Individual performance assessment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance assessment determinations were based on an overall subjective assessment of each officer's performance"
+   },
+   {
+    "metric": "grow our user base across all our products",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "grow our user base across all our products"
+   },
+   {
+    "metric": "increase sharing, engagement, and utility",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increase sharing, engagement, and utility"
+   },
+   {
+    "metric": "continue to achieve revenue growth and significant savings from efficiency",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency"
+   },
+   {
+    "metric": "improve product quality",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improve product quality"
+   },
+   {
+    "metric": "improve our brand",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improve our brand"
+   },
+   {
+    "metric": "make progress toward our long-term investments",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "make progress toward our long-term investments"
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001206774-21-001039",
+  "task": "proposals",
+  "section_words": 5401,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8539a602cad26dda5c319940c5f1787c657866d123c00f8406daea31c7cacfc1",
+  "est_input_tokens": 12416
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13220,
+  "output_tokens": 468,
+  "request_id": "req_011CgCBNb5kKKNX63cFSvABe"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Report on Sugar and Public Health",
+    "proponent": "Mr. John Harrington",
+    "topic_summary": "Requests a report, with independent scientist input, on sugar products marketed to consumers and children, assessing financial and reputational risks from changing science on sugar.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Report on Antibiotics and Public Health Costs",
+    "proponent": "The Shareholder Commons, representing Trinity College Cambridge and Amundi Asset Management",
+    "topic_summary": "Asks the board to commission and disclose a study on external environment and public health costs created by antibiotic use in the supply chain.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Request for Shareholders to Act by Written Consent",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Requests that the board permit shareholders to act by written consent by the minimum votes needed to authorize action at a meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends voting AGAINST this proposal."
+   }
+  ]
+ }
+}

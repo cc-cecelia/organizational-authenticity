@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001193125-22-098314",
+  "task": "proposals",
+  "section_words": 8848,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "56ac3f2f160148397bee43fe72545abbdec781735096e81b264d866f38d4c4e5",
+  "est_input_tokens": 20908
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22690,
+  "output_tokens": 1190,
+  "request_id": "req_011CgCBpY2ffZoao79xtJ2o1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Remove Executive Perquisites",
+    "proponent": "Bernie J. Pafford",
+    "topic_summary": "Requests discontinuing company payments or reimbursements to current and former named executive officers for personal expenses not allowed to other salaried employees.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Limit Shareholder Rights for Proposal Submission",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Requests amending bylaws so shareholders may no longer submit precatory proposals for annual meetings unless the board approves their submission.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 \u2013 Reduce Company Emissions and Hydrocarbon Sales",
+    "proponent": "Follow This",
+    "topic_summary": "Requests medium- and long-term targets to reduce greenhouse gas emissions from operations and energy products (Scope 1, 2, and 3) consistent with the Paris Agreement.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 \u2013 Report on Low Carbon Business Planning",
+    "proponent": "Kimberly Indresano and Brian Robert Romer JT Ten, clients of Arjuna Capital",
+    "topic_summary": "Requests a report on how the company could alter its business model to yield profits within a 1.5 degree Celsius scenario by substantially reducing fossil fuel dependence.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Item 8 \u2013 Report on Scenario Analysis",
+    "proponent": "Christian Brothers Investment Services, Inc.",
+    "topic_summary": "Requests an audited report assessing how applying the IEA Net Zero by 2050 pathway would affect the company's financial statement assumptions, estimates and valuations.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Item 9 \u2013 Report on Plastic Production",
+    "proponent": "Andrew Behar",
+    "topic_summary": "Requests an audited report on how a significant reduction in virgin plastic demand under the System Change Scenario would affect the company's financial position and assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Item 10 \u2013 Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests semiannual reporting on policies and on electoral and non-deductible political contributions and expenditures, including indirect spending through trade associations and 501(c)(4) groups.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

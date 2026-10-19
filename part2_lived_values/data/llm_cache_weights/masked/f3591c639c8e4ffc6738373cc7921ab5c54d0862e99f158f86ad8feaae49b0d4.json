@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "f3591c639c8e4ffc6738373cc7921ab5c54d0862e99f158f86ad8feaae49b0d4",
+  "est_input_tokens": 17335
+ },
+ "usage": {
+  "input_tokens": 19960,
+  "output_tokens": 647
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on # financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on # financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards based on # financial metrics (revenue, operating income and cash flow from operations) may be paid if our Company meets or exceeds annual performance goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver to our customers"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver to our customers"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We use our human capital management metric \u2014 the Employee Experience Index (EXI) \u2014 to measure an employee's sense of commitment and belonging to the Company"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance share grants were selected to ensure a strong pay-for-performance alignment of the Company's compensation program with drivers of shareholder value"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the #-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

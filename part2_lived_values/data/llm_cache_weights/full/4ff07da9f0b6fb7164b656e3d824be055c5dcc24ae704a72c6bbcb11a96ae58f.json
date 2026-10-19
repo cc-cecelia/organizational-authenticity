@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "4ff07da9f0b6fb7164b656e3d824be055c5dcc24ae704a72c6bbcb11a96ae58f",
+  "est_input_tokens": 27080
+ },
+ "usage": {
+  "input_tokens": 29131,
+  "output_tokens": 708
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Revenue (40%) | A leading indicator of performance and value creation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS (40%) | A measure of income that provides focus on profitable growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (20%) | A measure that provides focus on generating cash in the short-term"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Up to +/- 25% Pipeline Achievement Factor | To recognize the progress and delivery of the R&D pipeline in all development phases"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Adjust +/- depending on the Committee's evaluation of Other Qualitative Factors"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leaders directed to significantly differentiate pay to be more closely aligned with individual performance and contributions."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "5- and 7-Year Total Shareholder Return Units (TSRUs) Represents 25% (each) of total annual grant value (50% in total) | Absolute TSR"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "5- and 7-Year TSRUs generally vest three years from the grant date and are settled on the fifth or seventh anniversary of the grant date"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Awards (PSAs) Represents 50% of total annual grant value | Adjusted Net Income (NI)* and relative TSR"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Total Revenue (40%) | Adjusted Diluted EPS (40%) | Cash Flow from Operations (20%)"
+   }
+  ]
+ }
+}

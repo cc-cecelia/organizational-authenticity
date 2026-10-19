@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-468583",
+  "task": "incentives",
+  "section_words": 13633,
+  "section_method": "heading",
+  "cache_key": "1bc7a3d1aa91930f35f293e7540164007e96e5baaae713e3683fb1892e0f16ad",
+  "est_input_tokens": 30170
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31445,
+  "output_tokens": 1485,
+  "request_id": "req_011CgCC5kmJc4dqTiMFDvmSC"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS from continuing operations, excluding charges and credits (H1 and H2 2015 targets)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial half of our NEOs' 2015 annual cash incentive opportunity was based equally on (i) achievement of earnings per share from continuing operations, excluding charges and credits"
+   },
+   {
+    "metric": "Relative performance incentive (RPI): year-over-year revenue growth and pretax operating margin growth vs. Halliburton and Baker Hughes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "year-over-year relative growth of both revenue and pretax operating margin, as compared against our two main competitors"
+   },
+   {
+    "metric": "Personal objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Fifty percent of an executive's annual cash incentive opportunity is tied to achievement of personal objectives"
+   },
+   {
+    "metric": "People-related objectives such as retention and diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "people-related objectives such as retention and diversity"
+   },
+   {
+    "metric": "Ethics and compliance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ethics and compliance; safety objectives; new technology introduction"
+   },
+   {
+    "metric": "Safety objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "safety objectives;"
+   },
+   {
+    "metric": "New technology introduction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "new technology introduction; and"
+   },
+   {
+    "metric": "Group or geographical profitability or revenue growth; market penetration; acquisitions or divestitures",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Group or geographical profitability or revenue growth; market penetration; acquisitions or divestitures"
+   },
+   {
+    "metric": "Return on Capital Employed (ROCE) of the Company, average annual ROCE for 2015-2017 performance period",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee set goals for the 2015 PSUs based on Return on Capital Employed (\"ROCE\") goals for the Company over the applicable performance period."
+   },
+   {
+    "metric": "Average annual ROCE vs. 2013 three-year PSU performance (2013-2015 ROCE 14.53%, payout discretion)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Average Annual ROCE achieved for the period 2013-2015 was 14.53%, representing achievement of 81.2% of target according to the table above."
+   }
+  ]
+ }
+}

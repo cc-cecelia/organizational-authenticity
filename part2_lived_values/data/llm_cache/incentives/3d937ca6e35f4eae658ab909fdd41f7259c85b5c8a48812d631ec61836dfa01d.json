@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001193125-20-220558",
+  "task": "incentives",
+  "section_words": 11326,
+  "section_method": "heading",
+  "cache_key": "3d937ca6e35f4eae658ab909fdd41f7259c85b5c8a48812d631ec61836dfa01d",
+  "est_input_tokens": 23978
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30189,
+  "output_tokens": 1845,
+  "request_id": "req_011CgCAvTGy7Jj2RbMccMC1B"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "annual revenue growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earned payouts under the MIP for annual revenue growth and diluted EPS can range from 50% to 200%"
+   },
+   {
+    "metric": "diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earned payouts under the MIP for annual revenue growth and diluted EPS can range from 50% to 200%"
+   },
+   {
+    "metric": "free cash flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "for free cash flow 50% to 150% of the target award based on Company performance"
+   },
+   {
+    "metric": "quality compliance modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on Company performance and a quality compliance modifier as described on page 44"
+   },
+   {
+    "metric": "three-year cumulative revenue growth measured at constant currency",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year cumulative revenue growth measured at constant currency and ROIC"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three-year cumulative revenue growth measured at constant currency and ROIC"
+   },
+   {
+    "metric": "three-year cumulative diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "vest 100% on the third anniversary of the date of grant provided Medtronic achieves a minimum three-year cumulative diluted EPS over a three-year period"
+   }
+  ]
+ }
+}

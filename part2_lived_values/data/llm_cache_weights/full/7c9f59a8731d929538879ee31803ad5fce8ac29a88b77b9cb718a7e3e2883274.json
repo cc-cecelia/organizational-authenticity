@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "7c9f59a8731d929538879ee31803ad5fce8ac29a88b77b9cb718a7e3e2883274",
+  "est_input_tokens": 18026
+ },
+ "usage": {
+  "input_tokens": 19957,
+  "output_tokens": 198
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Variable Cash Plan | Annual Non-GAAP Operating Income | Annual revenue | Cash earned under Variable Cash Plan"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key indicator of our annual performance which drives value and contributes to long-term success of the Company"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "emphasized these PSUs most for our CEO"
+   }
+  ],
+  "equal_split": []
+ }
+}

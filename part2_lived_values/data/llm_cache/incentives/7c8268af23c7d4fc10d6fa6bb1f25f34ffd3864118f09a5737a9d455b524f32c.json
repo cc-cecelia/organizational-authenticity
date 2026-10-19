@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-523055",
+  "task": "incentives",
+  "section_words": 5497,
+  "section_method": "heading",
+  "cache_key": "7c8268af23c7d4fc10d6fa6bb1f25f34ffd3864118f09a5737a9d455b524f32c",
+  "est_input_tokens": 12869
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14332,
+  "output_tokens": 290,
+  "request_id": "req_011CgCADG7bwvthvznfT1ACL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "metric": "ROCE compared to COE (ROCE equaling or exceeding COE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued to use return on common equity (ROCE) equaling or exceeding cost of equity (COE) as the performance goal for the 2015 PBRSUs"
+   }
+  ]
+ }
+}

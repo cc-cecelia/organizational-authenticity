@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "968c745230d1f3014996d535ff7adab7e128c4439d44629ce8856dc8e7a470bb",
+  "est_input_tokens": 20979
+ },
+ "usage": {
+  "input_tokens": 21992,
+  "output_tokens": 461
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected year-over-year growth in our non-GAAP operating income as the financial performance metric for determining our NEOs' bonuses for fiscal 2024"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Oracle's average stock price was $80 or more for 30 calendar days ending in June 2021, thereby satisfying the PSO stock price goal"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Oracle's market capitalization increased by more than $100 billion compared to the baseline market capitalization set in fiscal 2018, thereby satisfying all six of the PSO market capitalization goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee certified that the operational performance goal of attaining $10 billion in non-GAAP total SaaS revenues was satisfied in fiscal 2023"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee certified that the operational performance goal of maintaining non-GAAP PaaS/IaaS gross margins of at least 30% for three of the eight fiscal years was satisfied in fiscal 2024"
+   }
+  ],
+  "equal_split": []
+ }
+}

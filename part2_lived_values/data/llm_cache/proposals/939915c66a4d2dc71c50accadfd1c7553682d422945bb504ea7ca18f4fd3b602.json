@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001206774-22-001058",
+  "task": "proposals",
+  "section_words": 13406,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "939915c66a4d2dc71c50accadfd1c7553682d422945bb504ea7ca18f4fd3b602",
+  "est_input_tokens": 31670
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 32224,
+  "output_tokens": 1244,
+  "request_id": "req_011CgCBNpwfrDGbJUxbGKzWs"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Modifying the Threshold to Call Special Shareholders' Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests board take steps to let holders of 10% of outstanding common stock call a special shareholder meeting, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Report on Reducing Plastics Use",
+    "proponent": "As You Sow Foundation, on behalf of The Leventhal-Walton Family Trust dated May 8, 2015 as amended, and two co-filers",
+    "topic_summary": "Requests a board report describing how McDonald's will reduce plastics use in alignment with the Pew Report to feasibly reduce ocean pollution.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Advisory Vote on Report on Antibiotics and Public Health Costs",
+    "proponent": "The Shareholder Commons, representing Trinity College, Cambridge",
+    "topic_summary": "Requests a report on public-health costs of antibiotic use in the supply chain and how such costs may affect shareholder market returns.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Disclosure Regarding Confinement in the Company's U.S. Pork Supply Chain",
+    "proponent": "The Humane Society of the United States",
+    "topic_summary": "Requests confirmation that gestating pig confinement in stalls will end in the U.S. pork supply chain by 2022, or disclosure of related percentages and risks.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" the advisory proposal requesting additional disclosure regarding the use of confinement stalls"
+   },
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Third-Party Civil Rights Audit",
+    "proponent": "The SOC Investment Group",
+    "topic_summary": "Requests board oversight of a third-party audit of McDonald's policies' adverse impact on civil rights of company stakeholders, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Report on Lobbying Activities and Expenditures",
+    "proponent": "National Legal and Policy Center (NLPC)",
+    "topic_summary": "Requests annual board report disclosing direct and indirect lobbying, grassroots communications, payments and decision-making oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Advisory Vote on Report on Global Public Policy and Political Influence",
+    "proponent": "John C. Harrington",
+    "topic_summary": "Requests annual transparency report on global public policy and political influence expenditures outside the U.S., including recipients, amounts and memberships.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

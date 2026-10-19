@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001193125-20-249194",
+  "task": "proposals",
+  "section_words": 1696,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1b57445489edd2767e5d89d5df05702b380ff7d165856611659b3bfec29789e6",
+  "est_input_tokens": 3968
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5300,
+  "output_tokens": 346,
+  "request_id": "req_011CgC9abUuWAJqV5ktE2EYQ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Pay Equity Report",
+    "proponent": "Pax World Funds, along with co-sponsor the Comptroller of the City of New York",
+    "topic_summary": "Requests annual report identifying whether a gender/racial pay gap exists among employees, and steps to reduce it and support advancement of women and minorities.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring the Chairman of the Board to be an independent director, with phase-in permitted at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "not_stated",
+    "evidence": "The Board of Directors opposes the following Independent Board Chair Proposal for the reasons stated after the proposal."
+   }
+  ]
+ }
+}

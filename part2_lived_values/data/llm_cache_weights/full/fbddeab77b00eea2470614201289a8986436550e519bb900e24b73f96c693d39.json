@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "fbddeab77b00eea2470614201289a8986436550e519bb900e24b73f96c693d39",
+  "est_input_tokens": 22540
+ },
+ "usage": {
+  "input_tokens": 23877,
+  "output_tokens": 926
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key factors in determining performance share award levels include performance dimensions that are both forward-looking (progress toward strategic objectives)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "backward-looking (relative business performance on financial and operating metrics over near- and long-term time horizons)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual bonus program represents 10 to 20 percent of total direct compensation, and is intended to link executive pay to annual Company earnings performance"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "SAFETY AND OPERATIONS INTEGRITY Lost-Time Injuries and Illnesses Rate"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "CASH FLOW FROM OPERATIONS AND ASSET SALES8 10-Year Average 2020"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "TOTAL SHAREHOLDER RETURN (TSR)10 10-Year 2020 (percent)"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "RETURN ON AVERAGE CAPITAL EMPLOYED (ROCE)8 (10-year average, percent)"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "DELIVERING LOWER EMISSIONS2 Actively investing in development of lower-emission technologies with highest potential for large-scale deployment"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance shares represent over 70 percent of total direct compensation, and are intended to link executive pay to the returns of long-term shareholders"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and Operating Performance 2020 Results Position relative to industry peers"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Return on Average Capital Employed (ROCE) Leading in Safety and Operations Integrity and Return on Average Capital Employed (ROCE)"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Competitive in CFOAS Below average performance versus peers in TSR"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Below average performance versus peers in TSR"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Best-ever safety and reliability performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

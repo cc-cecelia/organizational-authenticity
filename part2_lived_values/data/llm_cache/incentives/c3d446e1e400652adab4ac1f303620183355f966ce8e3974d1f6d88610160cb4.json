@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-297858",
+  "task": "incentives",
+  "section_words": 10100,
+  "section_method": "heading",
+  "cache_key": "c3d446e1e400652adab4ac1f303620183355f966ce8e3974d1f6d88610160cb4",
+  "est_input_tokens": 22406
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25140,
+  "output_tokens": 764,
+  "request_id": "req_011CgC9ZWRH4wTKn5WowFD45"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative growth in total consolidated revenues (U.S. GAAP) vs PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Relative growth in total consolidated net cash flows from operating activities (U.S. GAAP) vs PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated net cash flows from operating activities measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Year-over-year growth in Oracle's total revenues for cloud SaaS and PaaS offerings (U.S. GAAP) - Kurian PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Mr. Kurian's 2017 PSUs are earned based on year-over-year growth in Oracle's total revenues for its cloud SaaS and PaaS offerings measured on a U.S. GAAP basis"
+   },
+   {
+    "metric": "Year-over-year growth in non-GAAP pre-tax profits",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee selected year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our NEOs' annual cash bonuses for fiscal 2017"
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001308179-20-000203",
+  "task": "incentives",
+  "section_words": 2534,
+  "section_method": "heading",
+  "cache_key": "6e909492360254067c317f0ec160a6994a20c59e7c3eb3c1aed4b1669bfd87c4",
+  "est_input_tokens": 6609
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8090,
+  "output_tokens": 352,
+  "request_id": "req_011CgC9GjUror2ZPK6pbRg3q"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative TSR vs. S&P 100 (two-year performance period, January 2020 to December 2021)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The PSUs vest based on Alphabet's total shareholder return (TSR) performance relative to the S&P 100 during the performance period"
+   },
+   {
+    "metric": "Relative TSR vs. S&P 100 (three-year performance period, January 2020 to December 2022)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The second tranche will vest, or not, based on Alphabet's relative TSR over the three-year performance period from January 2020 to December 2022"
+   }
+  ]
+ }
+}

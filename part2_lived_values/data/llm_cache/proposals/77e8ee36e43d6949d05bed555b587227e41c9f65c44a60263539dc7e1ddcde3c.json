@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-140350",
+  "task": "proposals",
+  "section_words": 4718,
+  "section_method": "resolved_windows",
+  "cache_key": "77e8ee36e43d6949d05bed555b587227e41c9f65c44a60263539dc7e1ddcde3c",
+  "est_input_tokens": 10817
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12555,
+  "output_tokens": 206,
+  "request_id": "req_011CgC9WcS6GgjyZ9og1YMC6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2014 Stockholder Proposal Regarding Transitioning to a Public Benefit Corporation",
+    "proponent": "Change Finance, PBC",
+    "topic_summary": "Requests the Board take steps to amend the certificate of incorporation and bylaws so Salesforce becomes a public benefit corporation, balancing stakeholder and public benefit interests.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal 5 for the following reasons:"
+   }
+  ]
+ }
+}

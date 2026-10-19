@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "f905b46bea42819ad68c6d10f8cb3587c37b61ab273208e9e66897dbb86496f3",
+  "est_input_tokens": 29548
+ },
+ "usage": {
+  "input_tokens": 30538,
+  "output_tokens": 839
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Revenue (#) | A leading indicator of performance and value creation; provides a clear focus on growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS (#) | A measure of income that provides focus on profitable growth and expense control"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (#) | A measure that provides focus on generating cash in the short term to fund operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Modifiers of up to +/- #age points (PP): Pipeline Achievement (#PP) and ESG Scorecard (#PP)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Pipeline Achievement Goals \u2014 The pipeline goals selected align with the company's end-to-end pipeline development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Environmental, Social and Governance (ESG) Scorecard Incorporated into the Annual Short-Term Incentive Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Percentage of Vice President and higher roles held by women (globally) | # | #"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Percentage of Vice President and higher roles held by minorities (U.S.) | # | #"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Greenhouse Gas Emissions (in metric tons) | <#M mt | #M mt"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Awards (PSAs) Represents # of total annual grant value | Adjusted Net Income (NI)* and relative TSR"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the NYSE Arca Pharmaceutical Index (DRG Index or DRG), over a three-year period"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Long-Term Incentive Compensation (# Performance-Based Equity) | #- and #-Year Total Shareholder Return Units (TSRUs)"
+   }
+  ],
+  "equal_split": []
+ }
+}

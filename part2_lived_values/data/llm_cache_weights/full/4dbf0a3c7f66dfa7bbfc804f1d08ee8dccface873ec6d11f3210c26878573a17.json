@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "4dbf0a3c7f66dfa7bbfc804f1d08ee8dccface873ec6d11f3210c26878573a17",
+  "est_input_tokens": 22959
+ },
+ "usage": {
+  "input_tokens": 24865,
+  "output_tokens": 772
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The divisional performance goals unrelated to revenue and operating margin exceeded target performance levels."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee considers our CEO's recommendations (other than with respect to himself) and judiciously applies individual performance multipliers"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mr. Tan may earn up to 300% of the target number of shares based on our TSR performance as compared to the S&P 500"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mr. Tan may earn up to 300% of the target number of shares based on our TSR performance as compared to the S&P 500 (\"Relative TSR\") and our absolute TSR performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Dr. Kawwas and Mr. Krause may earn up to 200% of the target number of shares under their respective Kawwas/Krause Promotion PSUs based on our Relative TSR"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on our Relative TSR and absolute TSR measured over the period beginning on November 2, 2020"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Spears Promotion PSUs are earned based on our Relative TSR and our absolute TSR over four overlapping performance periods"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Spears Promotion PSUs are earned based on our Relative TSR and our absolute TSR over four overlapping performance periods"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

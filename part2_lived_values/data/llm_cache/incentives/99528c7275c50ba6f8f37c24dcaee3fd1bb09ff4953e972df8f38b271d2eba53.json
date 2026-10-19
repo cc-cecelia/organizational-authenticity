@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000736",
+  "task": "incentives",
+  "section_words": 7636,
+  "section_method": "heading",
+  "cache_key": "99528c7275c50ba6f8f37c24dcaee3fd1bb09ff4953e972df8f38b271d2eba53",
+  "est_input_tokens": 16448
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18955,
+  "output_tokens": 11,
+  "request_id": "req_011CgC9LHU3XN5Ng22hPrAqL"
+ },
+ "result": {
+  "metrics": []
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001047469-20-002039",
+  "task": "incentives",
+  "section_words": 12055,
+  "section_method": "heading",
+  "cache_key": "837594b74f44fe35216ac4908f6930b198f7a499260431d705a20e0508fd159e",
+  "est_input_tokens": 25889
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28739,
+  "output_tokens": 1522,
+  "request_id": "req_011CgCBkUs4JJNtoRmF9Gymo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In 2019 we measured our performance by Company Revenue, Company Adjusted EBIT Margin, Company Adjusted Free Cash Flow, Adjusted Return On Invested Capital, and comparing our Total Shareholder Returns"
+   },
+   {
+    "metric": "Company Adjusted EBIT Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company Adjusted EBIT Margin, Company Adjusted Free Cash Flow, and Company Revenue."
+   },
+   {
+    "metric": "Company Adjusted Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company Adjusted Free Cash Flow to be the metric; the definition of both terms is the same."
+   },
+   {
+    "metric": "Quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Quality metric was based on the weighted average of individual market and Business Unit objectives."
+   },
+   {
+    "metric": "Things Gone Wrong",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows"
+   },
+   {
+    "metric": "Customer Satisfaction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows"
+   },
+   {
+    "metric": "Warranty Spend",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Warranty Spend element of the Quality metrics were as follows"
+   },
+   {
+    "metric": "Company Adjusted EBIT Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company Adjusted EBIT Margin (weighted at 50%): Performance is measured against a three-year average margin target."
+   },
+   {
+    "metric": "External Annual ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "External Annual ROIC (weighted at 50%): Performance is measured against a three-year average External Annual ROIC target."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The external relative TSR metric has a 25% weighting."
+   },
+   {
+    "metric": "Financial metrics",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial metrics have a 75% weighting, and the external relative TSR metric has a 25% weighting."
+   }
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "5bb85fd4479326577187954b5bb64b47c09cd9e03af3445979771ce30225bce5",
+  "est_input_tokens": 40214
+ },
+ "usage": {
+  "input_tokens": 40366,
+  "output_tokens": 1455
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Health, Safety, and Environment \u2013 Measures Valero's achievements in the areas of health, safety, and environmental stewardship"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Vessel/PSV Inspections | Number of vessel and pressure safety valve (PSV) inspections that are past-due"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "PHA Action Items > 2 Years (Non-Turnaround for Refining) | Number of corrective refining or logistics Process Hazard Analysis"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "HSE Audit Past-due Items | Number of past-due items identified through comprehensive internal audits"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Management Audits Percent | Percentage of ethanol audit items completed as identified through monthly safety and environmental program audits"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "The Environmental Scorecard Incidents metrics now include a severity/volume enhancer feature"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Tier 1 API Process Safety Incidents/Rate | Number or rate of recordable safety incidents occurring in conjunction with a loss of process containment"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Reliability Events | Number of events causing an ethanol plant outage of greater than one-half day"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability \u2013 Measures Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Refining Cash Operating Expense Management \u2013 Measures Valero's achievements in managing refinery operating costs"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Execution | This component, with a weighting of 20 percent of the Annual Incentive Bonus program"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Includes \"ESG Efforts & Improvements\" as one of five key strategic areas"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "five ESG initiatives: Environmental Stewardship, Sustainability, Diversity and Inclusion, Compliance, and Corporate Citizenship and Community"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Sustainability"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Diversity and Inclusion"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Corporate Citizenship and Community"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary performance measure: Relative TSR vs. Performance Peer Group"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy Transition modifier containing two additional metrics is applied with each metric either adding or subtracting 12.5 percentage points"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy Transition modifier containing two additional metrics is applied with each metric either adding or subtracting 12.5 percentage points"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "are measured against the following equally weighted sub-components"
+   },
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Committee in the first quarter of the performance year, are measured against the following equally weighted sub-components"
+   }
+  ]
+ }
+}

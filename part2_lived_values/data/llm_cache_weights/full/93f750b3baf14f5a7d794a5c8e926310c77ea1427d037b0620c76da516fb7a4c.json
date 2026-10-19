@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "93f750b3baf14f5a7d794a5c8e926310c77ea1427d037b0620c76da516fb7a4c",
+  "est_input_tokens": 10856
+ },
+ "usage": {
+  "input_tokens": 11099,
+  "output_tokens": 305
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Net sales and operating income, as determined in accordance with generally accepted accounting principles, are used as the performance measures for the annual cash incentive program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Net sales and operating income, as determined in accordance with generally accepted accounting principles, are used as the performance measures for the annual cash incentive program"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of performance-based RSUs that vest depends on Apple's total shareholder return relative to the other companies in the S&P 500 (\"Relative TSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "payouts are determined based on an equal weighting for the net sales and operating income measures"
+   }
+  ]
+ }
+}

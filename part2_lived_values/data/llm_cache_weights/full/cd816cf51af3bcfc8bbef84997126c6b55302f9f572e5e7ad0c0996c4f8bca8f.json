@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "cd816cf51af3bcfc8bbef84997126c6b55302f9f572e5e7ad0c0996c4f8bca8f",
+  "est_input_tokens": 6781
+ },
+ "usage": {
+  "input_tokens": 7146,
+  "output_tokens": 1109
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "80% of the total award will continue to focus on the achievement of NOPAT and Asset Turns performance goals."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "80% of the total award will continue to focus on the achievement of NOPAT and Asset Turns performance goals."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "measuring long-term performance using 100% relative Return on Capital Employed (ROCE)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Added relative TSR modifier metric for determining long-term performance-based awards"
+   }
+  ],
+  "equal_split": []
+ }
+}

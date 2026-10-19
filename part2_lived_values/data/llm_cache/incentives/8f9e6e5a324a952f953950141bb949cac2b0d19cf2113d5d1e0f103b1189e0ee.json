@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-087883",
+  "task": "incentives",
+  "section_words": 7246,
+  "section_method": "heading",
+  "cache_key": "8f9e6e5a324a952f953950141bb949cac2b0d19cf2113d5d1e0f103b1189e0ee",
+  "est_input_tokens": 17046
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19451,
+  "output_tokens": 321,
+  "request_id": "req_011CgCAFhUefdfeULyMcsh25"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee chose to use adjusted diluted EPS as the performance criterion for the CEBP"
+   },
+   {
+    "metric": "ROTCE excluding AOCI divided by COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the extent to which ROTCE, excluding Accumulated Other Comprehensive Income (AOCI), exceeds COE for a three-year performance period from January 1, 2023 through December 31, 2025"
+   }
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "5d8cae0a14988550d14783257e68c25ba71cdf534cbfb98abac91163a6137744",
+  "est_input_tokens": 12754
+ },
+ "usage": {
+  "input_tokens": 13331,
+  "output_tokens": 265
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use ROCE equaling or exceeding COE as the performance goal for the 2017 PBRSUs"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "COE is calculated using the Capital Asset Pricing Model (CAP-M), which is a commonly used financial metric"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "long_term_incentive",
+    "evidence": "Performance Criteria | \u00b7 ROCE \u00b7 COE"
+   }
+  ]
+ }
+}

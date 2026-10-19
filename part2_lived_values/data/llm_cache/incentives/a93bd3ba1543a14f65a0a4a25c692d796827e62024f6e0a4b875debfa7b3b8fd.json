@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0000097745-18-000011",
+  "task": "incentives",
+  "section_words": 8818,
+  "section_method": "heading",
+  "cache_key": "a93bd3ba1543a14f65a0a4a25c692d796827e62024f6e0a4b875debfa7b3b8fd",
+  "est_input_tokens": 19975
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20877,
+  "output_tokens": 4145,
+  "request_id": "req_011CgCAjvayHfZqHqEmPcxbw"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Organic Revenue Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (35%)"
+   },
+   {
+    "metric": "Adjusted Operating Income as a Percentage of Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Operating Income as a Percentage of Revenue (15%)"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Earnings Per Share (15%)"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow (5%)"
+   },
+   {
+    "metric": "Non-financial measures",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining 30% of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "metric": "Customer Allegiance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer Allegiance"
+   },
+   {
+    "metric": "Positioning the Company for Accelerated Revenue Growth",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Positioning the Company for Accelerated Revenue Growth"
+   },
+   {
+    "metric": "Positioning the Company for Margin Expansion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Positioning the Company for Margin Expansion"
+   },
+   {
+    "metric": "Employer of Choice/Diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Employer of Choice/Diversity"
+   },
+   {
+    "metric": "Effectively Execute Capital Deployment Strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Effectively Execute Capital Deployment Strategy"
+   },
+   {
+    "metric": "Organic Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (50%)"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Earnings Per Share (50%)"
+   },
+   {
+    "metric": "Total Shareholder Return relative to TSR Peer Group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The earned award, if any, will be driven by sustained, superior TSR performance"
+   }
+  ]
+ }
+}

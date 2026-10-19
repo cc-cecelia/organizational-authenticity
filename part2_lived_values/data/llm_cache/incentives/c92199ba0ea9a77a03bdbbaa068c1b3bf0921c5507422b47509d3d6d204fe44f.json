@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000222",
+  "task": "incentives",
+  "section_words": 3112,
+  "section_method": "heading",
+  "cache_key": "c92199ba0ea9a77a03bdbbaa068c1b3bf0921c5507422b47509d3d6d204fe44f",
+  "est_input_tokens": 7757
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9329,
+  "output_tokens": 1333,
+  "request_id": "req_011CgC9GY42SzPvrJChMAtYa"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Alphabet's financial and operational performance (company performance input to equity awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "uses overall company performance, defined below, as an input in determining each named executive officer's equity award"
+   },
+   {
+    "metric": "Progress against Alphabet's strategic goals (company performance input to equity awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "company performance is defined as Alphabet's financial and operational performance and progress against Alphabet's strategic goals"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Leadership Development and Compensation Committee also considers individual performance in determining each named executive officer's equity awards."
+   }
+  ]
+ }
+}

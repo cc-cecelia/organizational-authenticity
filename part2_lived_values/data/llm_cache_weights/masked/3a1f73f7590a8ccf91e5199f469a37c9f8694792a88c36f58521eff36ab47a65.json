@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "3a1f73f7590a8ccf91e5199f469a37c9f8694792a88c36f58521eff36ab47a65",
+  "est_input_tokens": 34734
+ },
+ "usage": {
+  "input_tokens": 34476,
+  "output_tokens": 2674
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Everything we do depends on safely executing our business plans and operating to high standards of HSE stewardship. We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial metrics in our compensation programs strongly align with our returns-focused strategy and are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and ESG Milestones represent specific actions that are critical to implementing our strategy and aligning our workforce."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our success."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We target top-quartile performance relative to our peers for Total Recordable Rate and absolute continuous improvement for Process Safety Events."
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and absolute Process Safety Events in our compensation metrics to reinforce our commitment"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Therefore, we set an annual Production target, and we measure the achievement of production results against the approved target."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions that support delivery of our plan."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis, as well as relative to peers."
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Our Strategic milestones included successfully integrating Concho and demonstrating an annual run rate of #million of sustainable cost"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "demonstrating progress toward our Paris-aligned climate risk framework by executing approved marginal abatement cost curve projects"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "achieving top quartile ESG performance on MSCI, ISS, ESG, Bloomberg ESG and DJSI rating frameworks relative to peers."
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "In addition, we included a DE&I milestone to increase internal and external transparency of DE&I metrics."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "comprised of a relative TSR metric and a relative Financial metric"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For PSP, our Financial compensation measure includes Adjusted ROCE, and for PSPs commencing prior to #Adjusted CROCE, relative to peers."
+   },
+   {
+    "id": 17,
+    "parent_id": 16,
+    "emphasis": 2,
+    "evidence": "We include Adjusted ROCE in both our VCIP and PSP to ensure that we maintain financial discipline and balance short- and long-term performance."
+   },
+   {
+    "id": 18,
+    "parent_id": 16,
+    "emphasis": 1,
+    "evidence": "the HRCC removed Adjusted CROCE to simplify the performance metrics for PSP and strengthen the correlation"
+   }
+  ],
+  "equal_split": []
+ }
+}

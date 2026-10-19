@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "c12f94d3d435d3820457f3a44923ff7d113205e6a4ff912b48ae2015226192ef",
+  "est_input_tokens": 45277
+ },
+ "usage": {
+  "input_tokens": 45678,
+  "output_tokens": 500
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Company Scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Company Scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the annual scorecard's Colleague category included diversity representation, talent retention, culture and inclusion metrics"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "in 2021, we also incorporated key ESG initiatives into our executive compensation program under the Strategic category of our Company Scorecard."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "we also incorporated the management of key ESG priorities, including metrics, into our executive compensation program under the Strategic category"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

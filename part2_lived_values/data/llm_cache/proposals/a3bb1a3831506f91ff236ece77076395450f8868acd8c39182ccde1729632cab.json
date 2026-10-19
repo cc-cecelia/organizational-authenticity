@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "BRK.B",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-086050",
+  "task": "proposals",
+  "section_words": 1886,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a3bb1a3831506f91ff236ece77076395450f8868acd8c39182ccde1729632cab",
+  "est_input_tokens": 4625
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6015,
+  "output_tokens": 454,
+  "request_id": "req_011CgC9kGFHqc3LAw3s1FMpE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "2",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Ms. Marcia Sage (Baldwin Brothers Inc. representative presenting)",
+    "topic_summary": "Requests a report reviewing Berkshire's policies to measure, monitor, mitigate and disclose methane emissions, reduction targets, safety standards and upgrade costs for gas assets.",
+    "category": "environment",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "3",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Ms. Freeda Cathcart",
+    "topic_summary": "Requests a policy encouraging more Berkshire subsidiaries to issue annual sustainability reports, prepared at reasonable cost and omitting proprietary information.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   }
+  ]
+ }
+}

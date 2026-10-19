@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "e01df30afada563c765b142a4ff3722a14bafc37f6cbb8d0487631e74b81444b",
+  "est_input_tokens": 13279
+ },
+ "usage": {
+  "input_tokens": 14100,
+  "output_tokens": 642
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Streamlined plan to two [w] metrics\u2014Adjusted Revenue (for driving top-line growth) and Adjusted EBIT (for managing overall profitability)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Revenue and Adjusted EBIT (eliminating the adjusted digital revenue metric used in prior year awards) to focus on driving top-line growth and managing overall profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee selected Relative TSR as the metric for the fiscal #\u2013 #PSU awards"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The fiscal #\u2013 #PSU awards also contain a People & Planet modifier designed to support our commitment to Purpose, which is a key component of our long-term strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Consistent with the prior year, the committee maintained [w] for the metrics (with the [w] of each metric increasing to # due to the decrease from three metrics to two)"
+   }
+  ]
+ }
+}

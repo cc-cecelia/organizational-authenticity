@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000119",
+  "task": "incentives",
+  "section_words": 10341,
+  "section_method": "heading",
+  "cache_key": "982b83114c4dbe2180463d44855fa39e8846a08395e2e8fb7556826d23bbb26b",
+  "est_input_tokens": 20494
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27799,
+  "output_tokens": 278,
+  "request_id": "req_011CgCCPfr8W91X6rgJScN2b"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash Value Added (company)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   },
+   {
+    "metric": "Performance Unit Program (2017 cycle) performance measures",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Opportunity levels under the 2017 cycle of the Performance Unit Program."
+   }
+  ]
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "5987c41bc37c98905cfbb53d924f192453f895e874ee5c061520d1923b25028e",
+  "est_input_tokens": 17394
+ },
+ "usage": {
+  "input_tokens": 20745,
+  "output_tokens": 2325
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A formal payout matrix based on net revenues and income before taxes guides the committee"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A formal payout matrix based on net revenues and income before taxes guides the committee"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating margin \u2014 Return on assets \u2014 Strategic and leadership goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating margin \u2014 Return on assets \u2014 Strategic and leadership goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The goals and their respective weightings are summarized in the chart below."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The goals and their respective weightings are summarized in the chart below."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The goals and their respective weightings are summarized in the chart below."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the Equity, Equality, Diversity & Inclusion (EED&I) strategy."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Initial performance scores are calculated for each NEO based on performance against weighted financial and strategic/leadership goals."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR performance is measured relative to a group made up of companies that are constituents"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on AbbVie's return on invested capital (ROIC) articulated as pre-set goals"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Relative ROE (2019 Award)"
+   }
+  ],
+  "equal_split": []
+ }
+}

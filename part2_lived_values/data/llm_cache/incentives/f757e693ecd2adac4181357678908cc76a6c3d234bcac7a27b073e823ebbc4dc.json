@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001047469-21-000813",
+  "task": "incentives",
+  "section_words": 14077,
+  "section_method": "heading",
+  "cache_key": "f757e693ecd2adac4181357678908cc76a6c3d234bcac7a27b073e823ebbc4dc",
+  "est_input_tokens": 30307
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33590,
+  "output_tokens": 1536,
+  "request_id": "req_011CgCBrLmZDPZnTLZ1nCP4U"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company Adjusted Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee determined that Adjusted Free Cash Flow should be heavily weighted for both the 2020 Incentive Bonus Plan and the 2020 Performance Unit grants"
+   },
+   {
+    "metric": "Company Adjusted EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "replacing the Adjusted EBIT Margin metric for the Incentive Bonus Plan with an Adjusted EBIT metric"
+   },
+   {
+    "metric": "Company Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company Revenue, as well as comparing our Total Shareholder Return"
+   },
+   {
+    "metric": "Quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Quality metric was based on the weighted average of individual market and Business Unit objectives"
+   },
+   {
+    "metric": "Things Gone Wrong",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows"
+   },
+   {
+    "metric": "Customer Satisfaction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows"
+   },
+   {
+    "metric": "Warranty Spend",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weightings for the Warranty Spend element of the Quality metrics were as follows"
+   },
+   {
+    "metric": "Individual Performance Factor",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The final cash award paid to each Named Executive Officer is subject to adjustment based on individual performance toward key performance indicators and objectives"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "An external relative TSR modifier over the entire three-year performance period modifies the final award by +/\u201325%"
+   },
+   {
+    "metric": "Internal financial metrics for Performance Units",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In years one and two, Performance Units are \"banked\" against performance to internal financial metrics and objectives established at the time of grant"
+   },
+   {
+    "metric": "Company Adjusted Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Free Cash Flow should be heavily weighted for both the 2020 Incentive Bonus Plan and the 2020 Performance Unit grants"
+   }
+  ]
+ }
+}

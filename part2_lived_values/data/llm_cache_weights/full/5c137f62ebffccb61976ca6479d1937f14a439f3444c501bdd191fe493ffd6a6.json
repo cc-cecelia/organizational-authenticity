@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "5c137f62ebffccb61976ca6479d1937f14a439f3444c501bdd191fe493ffd6a6",
+  "est_input_tokens": 22621
+ },
+ "usage": {
+  "input_tokens": 25245,
+  "output_tokens": 431
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE (using as reported financial results) over 2018\u20132020, using both absolute and relative metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "3-YEAR AVERAGE ABSOLUTE ROE% EARNED"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "3-YEAR AVERAGE RELATIVE ROE% EARNED"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSUs redesigned to add relative ROE component"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the notional values of these awards are adjusted upward or downward for each year of the performance period by an amount equal to our annual \"ROE,\" subject to an annual 12% cap"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Committee will consider the impact of U.S. Tax Legislation and the Stock Accounting Standard on the economics of the outstanding PSUs and LTIP awards"
+   }
+  ],
+  "equal_split": []
+ }
+}

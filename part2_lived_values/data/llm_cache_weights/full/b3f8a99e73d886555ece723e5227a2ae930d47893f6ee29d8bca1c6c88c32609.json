@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "b3f8a99e73d886555ece723e5227a2ae930d47893f6ee29d8bca1c6c88c32609",
+  "est_input_tokens": 35451
+ },
+ "usage": {
+  "input_tokens": 35909,
+  "output_tokens": 639
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "40% based on cash flow generation targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% based on adjusted EBITDA targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% based on achievement of pre-established key personal objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "people-related objectives, such as retention, engagement, diversity or gender balance"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "ESG objectives, such as GHG emissions reduction"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "health and safety objectives"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "profitability or revenue growth in that NEO's area of responsibility"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Strategic \u2013 Digital"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2020 ROCE PSUs constitute 50% of our executives' 2020 target LTI dollar value."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2020 FCF Conversion PSUs constitute the other 50% of our executives' 2020 target LTI dollar value."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A three-year relative TSR modifier applies to all PSUs granted in 2020."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The 2020 ROCE PSUs constitute 50% of our executives' 2020 target LTI dollar value."
+   }
+  ]
+ }
+}

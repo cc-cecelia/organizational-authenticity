@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "b93a187f3c2800c9717b4c575a2ba1594cce9d4abb3bfb08924fdcf37f76c0f2",
+  "est_input_tokens": 22290
+ },
+ "usage": {
+  "input_tokens": 22836,
+  "output_tokens": 1282
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual Company earnings ( change in annual earnings x #/#bonus formula)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Operations Performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Financial Performance"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee maintains its focus on the energy transition objective and GHG emissions intensity metrics"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Business Portfolio"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and operating metrics (ROCE, CFOAS, TSR)"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Progressed robust #GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Over # reduction in number of spills versus prior #-year average"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Total capacity loss trend on plan"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Delivered IOC-leading financial results"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Developed detailed roadmaps in support of #GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 12,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Prioritize resilient, high-return investments"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Operations Performance"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Financial Performance"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee maintains its focus on the energy transition objective and GHG emissions intensity metrics"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Business Portfolio"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and operating metrics (ROCE, CFOAS, TSR)"
+   },
+   {
+    "id": 18,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "id": 19,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Progressed robust #GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 20,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Over # reduction in number of spills versus prior #-year average"
+   },
+   {
+    "id": 21,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Total capacity loss trend on plan"
+   },
+   {
+    "id": 22,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "Delivered IOC-leading financial results"
+   },
+   {
+    "id": 23,
+    "parent_id": 15,
+    "emphasis": 2,
+    "evidence": "Developed detailed roadmaps in support of #GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 24,
+    "parent_id": 16,
+    "emphasis": 2,
+    "evidence": "Prioritize resilient, high-return investments"
+   }
+  ],
+  "equal_split": []
+ }
+}

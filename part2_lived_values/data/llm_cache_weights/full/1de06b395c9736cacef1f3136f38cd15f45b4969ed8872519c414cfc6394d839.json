@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "1de06b395c9736cacef1f3136f38cd15f45b4969ed8872519c414cfc6394d839",
+  "est_input_tokens": 16959
+ },
+ "usage": {
+  "input_tokens": 18742,
+  "output_tokens": 361
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EBIT | Rewards the executives for profitability of over-all Company operations | Company's EBIT | 60%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales | Focuses the executives on effective merchandising, driving market share gains | Company's net sales | 25%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership Effectiveness | Provides incentive compensation for leadership behavior that has the greatest positive impact on employee motivation"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes strong RONCAA performance is aligned with creating long-term value for the Company's shareholders."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a relative TSR modifier which compares the Company's TSR to the median TSR of companies listed in the S&P 500 Index"
+   }
+  ],
+  "equal_split": []
+ }
+}

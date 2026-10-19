@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-078695",
+  "task": "incentives",
+  "section_words": 9852,
+  "section_method": "heading",
+  "cache_key": "9baedd0e8bbf406f84cc3fc7613c75239c81d052a3d503c7b51d2376b04159f1",
+  "est_input_tokens": 20968
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24710,
+  "output_tokens": 1270,
+  "request_id": "req_011CgC9pj4TDUkC8pdA4kMxc"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Three-year Average ROA",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The awards are equally weighted with 50% based on ROA goals and 50% based on adjusted TBV growth goals."
+   },
+   {
+    "metric": "Three-year Average Growth in Adjusted TBV",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The awards are equally weighted with 50% based on ROA goals and 50% based on adjusted TBV growth goals."
+   }
+  ]
+ }
+}

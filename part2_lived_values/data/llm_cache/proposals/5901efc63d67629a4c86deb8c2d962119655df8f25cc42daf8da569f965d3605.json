@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001104659-22-031075",
+  "task": "proposals",
+  "section_words": 3862,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5901efc63d67629a4c86deb8c2d962119655df8f25cc42daf8da569f965d3605",
+  "est_input_tokens": 8727
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10196,
+  "output_tokens": 555,
+  "request_id": "req_011CgC9ewSZiKyYaQZZbLnBU"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Special Shareholder Meeting Improvement",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents so owners of a combined 10% of outstanding common stock can call a special shareholder meeting, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring the Board Chair to be an independent director, with a non-independent non-CEO director as interim chair if none is available.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting a Public Report on the Use of Concealment Clauses",
+    "proponent": "Jay Stanley Weisfeld Trust",
+    "topic_summary": "Asks for a public report assessing risks to the company from using concealment clauses in employment agreements related to harassment, discrimination and unlawful acts.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THEREFORE, THE BOARD RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

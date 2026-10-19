@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "39dd816ce2416395ef572857ada6f2f6bc756dda60c5e31347af5a696feded71",
+  "est_input_tokens": 23385
+ },
+ "usage": {
+  "input_tokens": 28781,
+  "output_tokens": 1109
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the remaining two-thirds of the award have been banked for vesting to be determined based on the company's relative TSR performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "performance-vested restricted stock unit award that has the potential to vest at 0% to 150% of target, in one-third increments"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "based on achievement of specified strategic milestones and approval by the compensation committee"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "504e015bdca56fb0a22bb2432238e1c9a6ced53d449b5e94d46c218013da6243",
+  "est_input_tokens": 28737
+ },
+ "usage": {
+  "input_tokens": 31996,
+  "output_tokens": 1450
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For fiscal year 2024, the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For fiscal year 2024, the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy (10%) | 150%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders (10%) | 160%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture, Diversity & Sustainability (10%) | 145%"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture \u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health \u2022 Sustainability and carbon reduction"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continued investments and focus on diversity, culture, talent, and organizational effectiveness"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Organizational health"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Led cross-organization sustainability efforts focused on new carbon reduction steps."
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "\u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "\u2022 Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Increased developer engagement leading to the creation of a significant number of new AI apps"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 Innovation \u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 Efficiency and productivity \u2022 Innovation"
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality \u2022 Revenue, consumption, and market share"
+   },
+   {
+    "id": 17,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "\u2022 Quality \u2022 Revenue, consumption, and market share"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The fiscal year 2024 PSA metrics reflect a significant business shift to AI through key product focus areas represented by Azure and Other Cloud Services Revenue Growth"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Microsoft Cloud Revenue Growth, excluding Azure and Other Cloud Services | 35%"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Search and News Advertising Revenue (ex TAC) Growth | 10%"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Xbox Content and Services Revenue Growth* | Revenue from Xbox content and services"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance stock awards include a relative total shareholder return (\"TSR\") modifier to strengthen the alignment"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000930413-19-000953",
+  "task": "incentives",
+  "section_words": 4103,
+  "section_method": "heading",
+  "cache_key": "6694555f144bce01e7f79577549122283f10d0ccf1eb4cbe36fef568c3ff7f96",
+  "est_input_tokens": 9859
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12187,
+  "output_tokens": 1754,
+  "request_id": "req_011CgCAqHuWiHJq2XFSXs88S"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "complements the EPS metric in the annual bonus plan (GPP)"
+   },
+   {
+    "metric": "Operating Income (OI) (Non-GAAP Adjusted Operating Income)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "changing the financial operating metric for the PSAs to Adjusted Net Income (NI) from Operating Income (OI)"
+   },
+   {
+    "metric": "Adjusted Net Income (NI)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Effective in 2019 and in light of the recently announced joint venture with GSK, the Committee approved changing the financial operating metric for the PSAs to Adjusted Net Income (NI)"
+   },
+   {
+    "metric": "Relative TSR compared to DRG Pharmaceutical Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The relative TSR metric as compared to the DRG Pharmaceutical Index (DRG Index) and the other features of the award remain unchanged."
+   },
+   {
+    "metric": "Absolute TSR (Total Shareholder Return Units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "which consist of Total Shareholder Return Units (TSRUs) and one-third of each of the 2016, 2017 and 2018 PSA grants"
+   }
+  ]
+ }
+}

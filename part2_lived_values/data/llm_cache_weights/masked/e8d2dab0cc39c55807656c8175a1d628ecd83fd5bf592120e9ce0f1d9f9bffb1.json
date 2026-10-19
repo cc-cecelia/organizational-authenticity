@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "e8d2dab0cc39c55807656c8175a1d628ecd83fd5bf592120e9ce0f1d9f9bffb1",
+  "est_input_tokens": 15860
+ },
+ "usage": {
+  "input_tokens": 18041,
+  "output_tokens": 2589
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "If the EPS goal is not achieved, then the PIP is not funded and there are no payouts."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of profitability, each officer is assessed on relevant return goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Sales growth performance required to earn payouts above # varies by business to reflect each business's market."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "each officer is assessed on relevant return goals, primarily earnings, margin contribution, and cash flow."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Free Cash Flow metric was used in lieu of prior year Operating Cash Flow."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Reflects a Financial Return goal under the annual incentive plan."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR (compared to peer companies)\u2014Determines, as an aggregate target, where our equity grant guidelines should be positioned"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual officer achievement of three-year sales, profitability, and strategic goals"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee believes adjusted return on equity (ROE) is the appropriate performance measure for vesting"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Three Year Sales and Market Growth"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Three Year Margin Contribution"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Three Year Strategic Milestones"
+   }
+  ],
+  "equal_split": []
+ }
+}

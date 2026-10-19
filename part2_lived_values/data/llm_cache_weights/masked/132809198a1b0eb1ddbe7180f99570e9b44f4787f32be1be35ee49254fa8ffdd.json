@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "132809198a1b0eb1ddbe7180f99570e9b44f4787f32be1be35ee49254fa8ffdd",
+  "est_input_tokens": 17261
+ },
+ "usage": {
+  "input_tokens": 18096,
+  "output_tokens": 731
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures based on premium price deck"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve double-digit ROCE* | # | Achieved a # ROCE* | Significantly exceeded"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of #billion and reduce net debt-to-total capitalization ratio*"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record, including a reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Strong safety record"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Improvement in wellhead gas capture rate"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Lower all-in finding cost by #"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Improve all-in capital efficiency by #"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost by #"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total shareholder return relative to peer companies and the S&P #index"
+   }
+  ],
+  "equal_split": []
+ }
+}

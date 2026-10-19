@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-083487",
+  "task": "incentives",
+  "section_words": 16006,
+  "section_method": "heading",
+  "cache_key": "c9afc6cedb22768d021dae1f8edd0fb7a4a42512268eed4e5b1a7a05adf49c69",
+  "est_input_tokens": 36870
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 39526,
+  "output_tokens": 994,
+  "request_id": "req_011CgCAJLhqAm8BanS1xCfPg"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative ROE metric (performance restricted stock units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   },
+   {
+    "metric": "Relative TSR modifier (performance restricted stock units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   }
+  ]
+ }
+}

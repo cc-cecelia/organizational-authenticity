@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-092483",
+  "task": "proposals",
+  "section_words": 4835,
+  "section_method": "resolved_windows",
+  "cache_key": "775b346b42794174799c9edb7fef0b392e29059ae25bbc96621c7e13707edfee",
+  "est_input_tokens": 10829
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11938,
+  "output_tokens": 414,
+  "request_id": "req_011CgCADzgwdkXpSjoY8jFrH"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "FIRST STOCKHOLDER PROPOSAL",
+    "proponent": "Scott M. Stringer, Comptroller of the City of New York, on behalf of the New York City Employees' Retirement System and the New York City Teachers' Retirement System",
+    "topic_summary": "Requests annual disclosure of EEO-1 workforce data by race and gender on website or corporate responsibility report, and encourages release of workforce pay data by race and gender.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Board of Directors' Recommendation Against and Statement of Opposition to the First Stockholder Proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "SECOND STOCKHOLDER PROPOSAL",
+    "proponent": "Friends Fiduciary Corporation",
+    "topic_summary": "Requests an annually updated report disclosing company policies, payments used for direct, indirect and grassroots lobbying, and board and management oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Board of Directors' Recommendation Against and Statement of Opposition to the Second Stockholder Proposal"
+   }
+  ]
+ }
+}

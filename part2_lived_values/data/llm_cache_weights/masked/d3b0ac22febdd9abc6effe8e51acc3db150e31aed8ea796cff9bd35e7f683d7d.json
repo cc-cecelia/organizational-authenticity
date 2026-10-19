@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "d3b0ac22febdd9abc6effe8e51acc3db150e31aed8ea796cff9bd35e7f683d7d",
+  "est_input_tokens": 19869
+ },
+ "usage": {
+  "input_tokens": 19786,
+  "output_tokens": 865
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on three areas of company performance measured relative to internal targets: revenue, EPS, and pipeline progress."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on three areas of company performance measured relative to internal targets: revenue, EPS, and pipeline progress."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Science and Technology Committee's assessment of the company's product pipeline achievements is detailed below:"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Approvals | #new drug first approvals #-#other approvals | #new drug first approvals #other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase III starts | #| #Potential new drug Phase I starts"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase I starts | #-#| #Potential new indication or line extension Phase III starts"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase III starts | #| #Plan Boldly"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development | Exceeded industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines | Met planned project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific and medical officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payout is based on the company's two-year growth in EPS relative to the median external analyst anticipated peer group EPS growth."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "shareholder value award, which is a performance-based equity award that pays out based on absolute company stock price growth measured over a three-year period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative value award, which is a performance-based equity award that pays out based on company TSR results relative to peers measured over a three-year period"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000129",
+  "task": "proposals",
+  "section_words": 6747,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "478f48c255407d197a2d625db1df105ac07f67b12b4f8e940a0fb6f4062522a5",
+  "est_input_tokens": 15042
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16779,
+  "output_tokens": 772,
+  "request_id": "req_011CgCAgVtM4gbKQek6A3PoR"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING INDEPENDENT BOARD CHAIRMAN",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests the board adopt a policy requiring the Chair of the Board to be an independent member of the Board, whenever possible.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING EMPLOYEE PRACTICES IN ISRAEL/PALESTINE",
+    "proponent": "Holy Land Principles Inc.",
+    "topic_summary": "Requests the board make all possible lawful efforts to implement and/or increase activity on eight Holy Land Principles on fair employment practices.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CONDUCTING BUSINESS IN CONFLICT-AFFECTED AREAS",
+    "proponent": "Heartland Initiative, Inc.",
+    "topic_summary": "Requests a report assessing approach to mitigating ethical and business risks of business activities in conflict-affected areas, including belligerent occupation.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON BOARD OVERSIGHT OF PRODUCT SAFETY AND QUALITY",
+    "proponent": "Trillium Asset Management LLC",
+    "topic_summary": "Requests a report evaluating strengthening Board expertise in product quality and safety, adopting an independent chair, and other governance improvements.",
+    "category": "safety",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

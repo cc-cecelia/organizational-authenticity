@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "5b4b0177afccf9d1e14ff19de383665084832d00daed86e73871a41c9c6b04bf",
+  "est_input_tokens": 23630
+ },
+ "usage": {
+  "input_tokens": 24772,
+  "output_tokens": 625
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2021 ACI award evaluated management's performance against metrics related to Occidental's total spend per barrel and sustainability performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee increased the sustainability metric weighting to 30% to promote the company's net-zero strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Carbon Ventures and Reduction Projects | Advance carbon management platform (Scope 3)"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Emissions Reduction Efforts | Reducing operating emissions (Scope 1 and 2)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The individual performance portion of the ACI award (20% of the target annual cash incentive award for Ms. Hollub and 40% for the other named executive officers)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Balance capital allocation, total spend and asset divestitures to optimize cash flow generation to further reduce debt"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Focus on optimizing the long-term return on invested capital by investing strategically within Occidental's portfolio of assets"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The TSR award is an objective, external measure of Occidental's effectiveness in translating our results into shareholder returns."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CROCE award incentivizes a high level of executive focus on capital efficiency and prudent capital allocation."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-064529",
+  "task": "proposals",
+  "section_words": 8419,
+  "section_method": "resolved_windows",
+  "cache_key": "643422583cb981b59c62e3a3c0c20b5d34064bb654cbd9660571d80bd8c6ca6f",
+  "est_input_tokens": 20141
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20834,
+  "output_tokens": 1032,
+  "request_id": "req_011CgC9tFugcYzNkKxMZmTHn"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder proposal requesting report on risks of politicized de-banking",
+    "proponent": "Leonard E. Crumpler",
+    "topic_summary": "Requests a report evaluating how the Board oversees risks of discrimination against individuals based on race, religion, sex, national origin or political views in financial services.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 5 because:"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder proposal requesting report on lobbying alignment with Bank of America's climate goals",
+    "proponent": "Sada Geuss, c/o Trillium Asset Management, and other co-filers",
+    "topic_summary": "Requests annual report on whether direct and indirect lobbying and policy activities align with the net zero by 2050 goal and Paris Agreement.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 6 because:"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder proposal requesting disclosure of clean energy financing ratio",
+    "proponent": "New York City Employees' Retirement System and two co-filers",
+    "topic_summary": "Requests annual disclosure of a Clean Energy Supply Financing Ratio comparing low-carbon energy supply financing to fossil-fuel energy supply financing, with methodology.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 7 because:"
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder proposal requesting right to act by written consent",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests Board take steps to permit shareholders holding the minimum votes needed to act to take action by written consent on any topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 8 because:"
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder proposal requesting independent Chair",
+    "proponent": "not stated",
+    "topic_summary": "Requests that the Chair of the Board be an independent director, as stated in the Board's response discussing leadership structure.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 9)."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder proposal requesting changes to executive compensation program",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Requests the executive compensation program be improved to include the CEO pay ratio factor.",
+    "category": "shareholders",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, our Board recommends a vote \"AGAINST\" this proposal (Proposal 10)."
+   }
+  ]
+ }
+}

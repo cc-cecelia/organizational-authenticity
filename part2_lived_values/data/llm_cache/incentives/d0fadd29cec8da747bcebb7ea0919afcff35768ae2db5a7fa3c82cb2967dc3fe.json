@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-139646",
+  "task": "incentives",
+  "section_words": 10267,
+  "section_method": "heading",
+  "cache_key": "d0fadd29cec8da747bcebb7ea0919afcff35768ae2db5a7fa3c82cb2967dc3fe",
+  "est_input_tokens": 23169
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24700,
+  "output_tokens": 587,
+  "request_id": "req_011CgC9VmhRiJAZXRhtm5AFq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the amount of the bonus pool for executive officers was based on our performance during the fiscal year compared to pre-established target levels for three equally weighted measures"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the amount of the bonus pool for executive officers was based on our performance during the fiscal year compared to pre-established target levels for three equally weighted measures"
+   },
+   {
+    "metric": "Non-GAAP Income from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Three-year relative TSR versus NASDAQ 100 Index companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance metric is three-year relative TSR, as compared to the NASDAQ 100 Index group of companies as of the grant date"
+   }
+  ]
+ }
+}

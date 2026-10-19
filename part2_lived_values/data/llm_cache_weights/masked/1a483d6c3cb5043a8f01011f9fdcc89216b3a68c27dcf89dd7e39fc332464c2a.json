@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "1a483d6c3cb5043a8f01011f9fdcc89216b3a68c27dcf89dd7e39fc332464c2a",
+  "est_input_tokens": 27902
+ },
+ "usage": {
+  "input_tokens": 30291,
+  "output_tokens": 1104
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income are non-GAAP financial measures defined on page #."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For fiscal year #the financial portion of the annual cash incentives was determined based on meeting pre-established performance targets for Incentive Plan Revenue and Incentive Plan Operating Income."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture, Diversity & Sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Organizational health"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Sustainability and carbon reduction"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Developer engagement"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Revenue, consumption, and market share"
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 17,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Azure and Other Cloud Services Revenue Growth"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Microsoft Cloud Revenue Growth, excluding Azure and Other Cloud Services"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Search and News Advertising Revenue (ex TAC) Growth"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Xbox Content and Services Revenue Growth"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "LinkedIn Sessions"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance stock awards include a relative total shareholder return (\"TSR\") modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "1ce271296083db4ce4402aaa3aa5287ae259d3a09a6c83e799f69668d58ee35c",
+  "est_input_tokens": 26932
+ },
+ "usage": {
+  "input_tokens": 27269,
+  "output_tokens": 787
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments that are non-recurring and/or not indicative of our core performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The annual incentive bonus design guides and incentivizes this daily focus with particular emphasis on ensuring safety and protection of our employees, contractors and communities."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability; and"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in managing refinery operating costs."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Company Performance Goals were established in the first # of the #performance year by the Chief Executive Officer and approved by the Compensation Committee."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "environmental scorecard incidents, process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Performance measures include environmental scorecard incidents, process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "environmental management system scores"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "health & safety management system scores"
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through Return on Capital Employed (ROCE)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative Total Shareholder Return (TSR) against #-company Performance Peer group across a #-year period"
+   }
+  ],
+  "equal_split": []
+ }
+}

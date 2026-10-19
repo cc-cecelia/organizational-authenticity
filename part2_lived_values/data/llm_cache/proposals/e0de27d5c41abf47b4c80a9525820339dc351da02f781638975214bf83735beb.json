@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000072",
+  "task": "proposals",
+  "section_words": 2884,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e0de27d5c41abf47b4c80a9525820339dc351da02f781638975214bf83735beb",
+  "est_input_tokens": 6390
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7762,
+  "output_tokens": 242,
+  "request_id": "req_011CgCCKwhWTfPN6CuqCnqP1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REQUESTING TO LOWER STOCK OWNERSHIP THRESHOLD TO CALL SPECIAL STOCKHOLDER MEETINGS",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws so holders of 15% of outstanding common stock may call a special shareowner meeting, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board unanimously recommends that you vote AGAINST the stockholder proposal for the reasons stated on page 57."
+   }
+  ]
+ }
+}

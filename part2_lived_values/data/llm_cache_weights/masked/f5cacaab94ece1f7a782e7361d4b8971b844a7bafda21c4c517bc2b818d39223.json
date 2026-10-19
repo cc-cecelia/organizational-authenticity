@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "f5cacaab94ece1f7a782e7361d4b8971b844a7bafda21c4c517bc2b818d39223",
+  "est_input_tokens": 19200
+ },
+ "usage": {
+  "input_tokens": 18616,
+  "output_tokens": 871
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key financial metrics include organic revenue growth, adjusted operating income margin, adjusted earnings per share and free cash flow."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "(ii) adjusted operating income as a percentage of revenue (#), (iii) adjusted earnings per share (#), and (iv) free cash flow"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Because the payout factors linked the variation in organic revenue growth to margin expansion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "free cash flow (operating cash flow net of capital expenditures and excluding operating cash flows from discontinued operations)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining # of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We achieved a new high on our customer allegiance score in #(measured by a formula relating to how many of our customers would recommend us"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We had a strong cadence of new product launches and we delivered strong growth in China, India and Korea"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We ramped up our financial shared services center and further integrated our Life Sciences Solutions"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We received very positive feedback from our employees in our annual employee survey highlighting our progress in diversity and inclusion"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We exceeded our synergy targets for the Company's #acquisition of FEI"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "performance-based restricted stock units granted in #and #to all named executive officers which incorporated the Company's performance on organic revenue growth and adjusted EPS growth metrics"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The earned award, if any, will be driven by sustained, superior TSR performance based on an annual measurement"
+   }
+  ],
+  "equal_split": []
+ }
+}

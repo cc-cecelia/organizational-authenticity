@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "9692dcd3c48d7507c42a806bfe008f77c6c79c1c567dd71bac7ddfc5ce873d7a",
+  "est_input_tokens": 24961
+ },
+ "usage": {
+  "input_tokens": 26592,
+  "output_tokens": 344
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue. Fiscal 2021 revenue grew by 24% year-over-year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow. Fiscal 2021 operating cash flow grew by 11% year-over-year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance metric is three-year relative TSR compared to the Nasdaq 100 Index group of companies as of the grant date"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the bonus pool for Executive Officers is based on our performance during the fiscal year compared to pre-established target levels for three equally weighted measures"
+   }
+  ]
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "2667251af0ff7fa46ae6a56cd6d191579136bd9d001a8d2f8780d8ea0f859a37",
+  "est_input_tokens": 14896
+ },
+ "usage": {
+  "input_tokens": 15594,
+  "output_tokens": 1150
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve #-digit ROCE* | # | Achieved a # ROCE* | Exceeded"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* and reduce net debt-to-total capitalization ratio*"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | # | Exceeded production targets"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production | Achieved #MBbld crude oil and condensate production"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBoed total production | Achieved #MBoed total production"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe DD&A | Actual DD&A \u2013 #/Boe"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe LOE & Transportation Expense | Actual LOE & Transportation Expense \u2013 #/Boe"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe G&A Expenses | Actual G&A Expenses \u2013 #/Boe"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as: | # | Substantially achieved"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Lower finding costs by # | Lowered finding costs by #"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Improve capital efficiency | Improved capital efficiency by #"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost | Reduced total well cost by #"
+   },
+   {
+    "id": 14,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Increase \"premium\" drilling inventory #times completed wells"
+   },
+   {
+    "id": 15,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Capture key acreage on #new \"premium\" oil plays"
+   },
+   {
+    "id": 16,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Maintain peer leadership in product marketing and price realizations | Leader of peer group on oil, natural gas and NGL price realizations"
+   },
+   {
+    "id": 17,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record, including a reduction in methane and GHG intensity rates"
+   },
+   {
+    "id": 18,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Added an annual bonus metric tied to reducing our methane and GHG intensity rates."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR rank versus peer companies over #-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

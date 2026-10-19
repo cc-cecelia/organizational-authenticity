@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000086",
+  "task": "incentives",
+  "section_words": 8761,
+  "section_method": "heading",
+  "cache_key": "07c67f8dda159a1e384344426e45e736ce5d135bfa934d98e6093531328bb46f",
+  "est_input_tokens": 19932
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21130,
+  "output_tokens": 781,
+  "request_id": "req_011CgCCQqwdGFWdLxy2ohYhc"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash Value Added (CVA) (NOPAT minus Capital Charge)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance is measured using two metrics: NOPAT minus Capital Charge (captured as Cash Value Added (CVA))."
+   },
+   {
+    "metric": "Net Operating Profit After Taxes (NOPAT)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Short-term (annual) incentives depend on the achievement of two financial performance metrics \u2013 Net Operating Profit After Tax (NOPAT) and Capital Charge."
+   },
+   {
+    "metric": "Capital Charge",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Short-term (annual) incentives depend on the achievement of two financial performance metrics \u2013 Net Operating Profit After Tax (NOPAT) and Capital Charge."
+   },
+   {
+    "metric": "Health, safety, environment, and service quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also considers other business performance factors that are important to our shareholders, including health, safety, environment, and service quality, in determining the final payout amounts"
+   },
+   {
+    "metric": "Relative Return on Capital Employed (ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 100,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Modified the metrics in our Performance Unit Program to 100% relative ROCE"
+   }
+  ]
+ }
+}

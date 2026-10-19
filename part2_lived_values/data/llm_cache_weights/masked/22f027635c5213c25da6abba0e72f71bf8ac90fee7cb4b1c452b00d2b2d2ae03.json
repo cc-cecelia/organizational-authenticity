@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "22f027635c5213c25da6abba0e72f71bf8ac90fee7cb4b1c452b00d2b2d2ae03",
+  "est_input_tokens": 17783
+ },
+ "usage": {
+  "input_tokens": 19910,
+  "output_tokens": 797
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The absolute financial component represents # of the annual incentive cash payout formula and is based on year-over-year growth of Intel's net income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative financial component represents # of the annual incentive cash payout formula and is based on Intel's year-over-year net income growth compared with net income growth of technology peer companies."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The operational performance component represents # of the annual incentive cash payout formula and is based on specific operational goals that the Compensation Committee approves for each business unit"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "key areas, including financial performance, product development and launch roadmaps, manufacturing, cost and productivity improvements, and corporate responsibility and environmental sustainability."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For #the corporate level goal was focused on hiring and retention of diverse talent, which was achieved, increasing corporate level annual incentive cash payouts by # of target."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares of Intel common stock to be received at vesting will range from # to # of the target amount, based on the TSR of Intel common stock measured against the median TSR of the technology peer group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "is based on a [w] average of three corporate performance components"
+   }
+  ]
+ }
+}

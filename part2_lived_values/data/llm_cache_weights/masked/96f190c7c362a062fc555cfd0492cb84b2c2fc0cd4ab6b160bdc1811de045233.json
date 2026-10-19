@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "96f190c7c362a062fc555cfd0492cb84b2c2fc0cd4ab6b160bdc1811de045233",
+  "est_input_tokens": 15896
+ },
+ "usage": {
+  "input_tokens": 15633,
+  "output_tokens": 429
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Metric | in Overall Score Operating Net Income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic Imperatives Revenue"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "predetermined targets for operating earnings per share and free cash flow"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "predetermined targets for operating earnings per share and free cash flow"
+   }
+  ],
+  "equal_split": []
+ }
+}

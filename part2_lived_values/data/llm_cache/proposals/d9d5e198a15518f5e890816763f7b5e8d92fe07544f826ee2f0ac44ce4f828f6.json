@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001047469-18-001774",
+  "task": "proposals",
+  "section_words": 2065,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "d9d5e198a15518f5e890816763f7b5e8d92fe07544f826ee2f0ac44ce4f828f6",
+  "est_input_tokens": 4796
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6326,
+  "output_tokens": 195,
+  "request_id": "req_011CgCAnbydCB1pR4WkdqjXi"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal on Independent Board Chairman (Item 4 on Proxy Card)",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Requests the Board adopt a policy requiring, whenever possible, that the Chair of the Board be an independent member of the Board, amending governing documents as necessary.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   }
+  ]
+ }
+}

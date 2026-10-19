@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001206774-19-000719",
+  "task": "proposals",
+  "section_words": 12786,
+  "section_method": "resolved_windows",
+  "cache_key": "e084fe1968c18015c3336c009e7a0e4bd4532f159690cf9ac9331965d74af583",
+  "est_input_tokens": 27937
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30694,
+  "output_tokens": 475,
+  "request_id": "req_011CgCANJA9Q83a7PMm8PsSk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proxy Access Enhancement",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend proxy access bylaws to remove any limit on the number of stockholders that can aggregate shares to meet the 3% nominating threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6",
+    "proponent": "AFL\u2013CIO Reserve Fund",
+    "topic_summary": "Requests a policy prohibiting continued vesting of equity awards for senior executives who voluntarily resign to enter government service.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2013 Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to amend bylaws to give holders of 15% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 7."
+   }
+  ]
+ }
+}

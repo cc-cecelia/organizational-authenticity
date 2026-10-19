@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "007b1810d600876db7bdd6412d54eedd356c2f67b84f3030a65ac181d7ec7282",
+  "est_input_tokens": 26483
+ },
+ "usage": {
+  "input_tokens": 29158,
+  "output_tokens": 1314
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial results (35%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Capital & cost management (30%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating & safety performance (25%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Lower carbon (10%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual performance adjustment $305,250"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Adjusted ROCE excluding special items and FX for 2023 of 13.7% was lower than Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Free cash flow excluding working capital \u2013 Chevron delivered $23.0 billion"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Relative adjusted earnings per share \u2013 The Company's three-year adjusted earnings per share performance improvement of 50% ranked fourth"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating expenses, excluding fuel and transportation \u2013 $21.0 billion, below Plan"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital expenditures \u2013 2023 organic capex totaled $15.2 billion, above Plan"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestone \u2013 Tengizchevroil FGP mechanical completion was achieved in 3Q23"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2013 Despite a year-on-year reduction in fatalities, opportunity for improvement remains"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Process safety \u2013 The number of Tier 1 + Tier 2 Loss of Containment incidents exceeded Plan (unfavorable)."
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production \u2013 3.098 million barrels of oil-equivalent per day (MMBOED) in 2023, excluding divestments, above Plan"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refinery operational availability - Slightly below Plan mainly due to unplanned downtime."
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management \u2013 Identified, funded, and executed GHG reduction projects via our marginal abatement cost curve"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Equity renewable fuels production \u2013 30,000 barrels per day in 2023, above Plan"
+   },
+   {
+    "id": 17,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Hydrogen \u2013 In September, Chevron acquired a majority stake in ACES Delta"
+   },
+   {
+    "id": 18,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Carbon capture, utilization and storage: Southeast Texas stratigraphic well is ready for execution."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe TSR should be the primary pay-for-performance measure"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the addition of relative ROCE Improvement as a performance measure in our performance shares further strengthens the Company's alignment"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Include a negative TSR adjustment in the payout formula that reduces the payout modifier by 20%"
+   }
+  ],
+  "equal_split": []
+ }
+}

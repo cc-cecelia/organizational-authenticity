@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000829224-21-000017",
+  "task": "incentives",
+  "section_words": 11168,
+  "section_method": "heading",
+  "cache_key": "d79b862bb613a70117a8f97624c56d3c5d819c645ee45cf7d9b8def63287bf61",
+  "est_input_tokens": 25639
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26877,
+  "output_tokens": 805,
+  "request_id": "req_011CgCBW1FzC5aCKRSswUx7S"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Net Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 28,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted net revenue (weighted at 40%) and adjusted operating income (weighted at 60%)"
+   },
+   {
+    "metric": "Adjusted Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted operating income (weighted at 60%)"
+   },
+   {
+    "metric": "Individual Performance Factor",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The IPF is weighted at 30% of the total payout under the Annual Incentive Bonus Plan."
+   },
+   {
+    "metric": "Strategic, operational, leadership and ESG goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on an assessment of individual performance against certain strategic, operational, leadership and ESG goals"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PRSUs are earned based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to a downward or upward adjustment of 25% based on relative TSR performance"
+   }
+  ]
+ }
+}

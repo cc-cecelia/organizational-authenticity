@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "0646643ff1e5543e88e1f90cc339070215c54ba0d6618426e960e0bd1d275822",
+  "est_input_tokens": 20807
+ },
+ "usage": {
+  "input_tokens": 24104,
+  "output_tokens": 512
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | Operating Income* | Cash Flows from Operations* appear as top-level annual performance measures in the goals table"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | #/#| #billion | #billion | #billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash flows from operations for #were significantly above target due to improved working capital"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter Score \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Enhance customer service and increase the Company's net promoter score across all business platforms"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Employee Engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at or above target levels except for teamwork which, although at threshold performance levels"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Company generated cumulative EPS of #which was between target and maximum performance levels"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an average return on equity (\"ROE\") of #"
+   }
+  ],
+  "equal_split": []
+ }
+}

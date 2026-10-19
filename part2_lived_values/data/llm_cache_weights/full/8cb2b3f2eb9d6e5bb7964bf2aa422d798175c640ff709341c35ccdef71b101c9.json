@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "8cb2b3f2eb9d6e5bb7964bf2aa422d798175c640ff709341c35ccdef71b101c9",
+  "est_input_tokens": 25660
+ },
+ "usage": {
+  "input_tokens": 26597,
+  "output_tokens": 1315
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "continuing to realize synergies, completing non-core asset sales and reducing capital expenditures while maintaining production"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Continue significant progress towards remaining portion of $10-15 B in divestitures"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Annual Capital Expenditure | $2.4 B \u2013 2.6 B (1) | $2.535 B"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Production | 1,156 MBOEPD (2) | 1,204 MBOEPD (2) | 190% - 200% | 38% - 40%"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Lease Operating Expense | $1.6 B, not to exceed $7.45/BOE (2) | $1.24 B, $6.41/BOE (2)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Combined Employee/Contractor IIR | <0.34 (3) | 0.19 (3)(4) | 165% - 185% | 16% - 19%"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Combined Employee/Contractor DART | <0.16 (3) | 0.08 (3)(4)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Oil Spills | No net oil release > 500 barrels impacting water | None"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Risk | No \"4\" or \"5\" level incident | None"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Carbon Ventures and Offsets | Advance CCUS projects by conducting FEED on projects capturing (or reducing emissions on) 75 MMcfd of CO2"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Carbon Capture | Develop pre-FEED/feasibility projects capturing 500 MMcfd of CO2 | Above Target (5)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Enhance the value of Occidental's portfolio of assets, with a focus on profitable development opportunities for all segments of Occidental"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Maintain focus on Occidental's commitment to safety, health, the environment, sustainability, diversity, governance, social responsibility"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Implement the Board-approved strategic plan in a timely, beneficial and efficient manner"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Focus on optimizing the long-term return on invested capital by investing strategically, with an emphasis on finding and development costs"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Continue emphasis on identifying and developing Occidental's future leadership"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes that long-term compensation should represent the largest portion of each named executive officer's total compensation package"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CROCE award incentivizes a high level of executive focus on capital efficiency and prudent capital allocation."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Long-term incentive awards are weighted: 25% TSR; 25% CROCE; 25% RSU and 25% NQSOs/SARs."
+   }
+  ]
+ }
+}

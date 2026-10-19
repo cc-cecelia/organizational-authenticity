@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "b6fdebc8515632c21bd72405ca693f73e04de74babca51aa6a320aa690fe8e55",
+  "est_input_tokens": 20683
+ },
+ "usage": {
+  "input_tokens": 23949,
+  "output_tokens": 898
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Step #: Fund Annual Incentive Pool Based on EPS Achievement"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales Growth Goals\u2014To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Return Goals\u2014While top-line growth is important, that growth must be profitable in order to drive value for our shareholders."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Initiative Goals\u2014Strategic initiative goals are primarily related to key planned strategic actions"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership Goals\u2014Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Sales Growth Goals\u2014To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "each officer is assessed on relevant return goals, primarily earnings, margin contribution, and cash flow."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "such as portfolio expansion, key R&D milestones, gross margin expansion, and entry into new markets"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR (compared to peer companies)\u2014Determines, as an aggregate target, where our equity grant guidelines should be positioned relative to the market"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee believes adjusted return on equity (ROE) is the appropriate performance measure for vesting"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance\u2014goals, leadership, and sustained performance"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Long-range Plan Progress\u2014e.g., product approvals, R&D milestones, and margin expansion"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Impact\u2014assessment of relative contribution to overall enterprise (Modifier of \u2013# to +#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

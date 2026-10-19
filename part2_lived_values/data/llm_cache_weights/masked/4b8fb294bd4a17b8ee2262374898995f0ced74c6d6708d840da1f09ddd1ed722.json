@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "4b8fb294bd4a17b8ee2262374898995f0ced74c6d6708d840da1f09ddd1ed722",
+  "est_input_tokens": 12015
+ },
+ "usage": {
+  "input_tokens": 12810,
+  "output_tokens": 791
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial goals for Citi's business leaders, including the CEO, continue to be [w] # in the performance evaluation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee also reviewed leadership in establishing a culture of ethical business conduct"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citi's earnings per share were #for #up # from the prior year"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citigroup Efficiency Ratio"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "return on tangible common equity, our primary returns metric"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Ratio"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Surplus"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "Risk management excellence and dedication to supporting robust control systems are a foundation of Citi's executive compensation program"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Reinforce a business culture based on the highest ethical standards"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "human capital management goals such as addressing representation of women and U.S. minorities in senior roles at Citi"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Ultimate value of earned units linked to Citi total shareholder return"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Using Citi's balanced scorecard approach to determining pay"
+   }
+  ]
+ }
+}

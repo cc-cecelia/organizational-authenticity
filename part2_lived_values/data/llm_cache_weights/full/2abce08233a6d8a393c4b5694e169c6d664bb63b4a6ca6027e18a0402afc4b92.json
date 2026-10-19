@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "2abce08233a6d8a393c4b5694e169c6d664bb63b4a6ca6027e18a0402afc4b92",
+  "est_input_tokens": 26023
+ },
+ "usage": {
+  "input_tokens": 26198,
+  "output_tokens": 534
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company performance assessed at 75%, reflecting lower profits and higher expenses"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance and risk management performance are also evaluated through a robust performance management program"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk Management Reflects progress each named executive made against risk management specific to their roles and business/function"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As a precondition to our named executives earning 2019 annual incentives, one of the following goals must have been met: (1) EPS of at least $3.00"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of Performance Shares earned at the end of the performance period depends on the achievement of average three-year ROTCE"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for an award to pay above 125% of target, our relative Total Shareholder Return (TSR) for the performance period must be in the top quartile"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For any year in the three-year performance period that our Company incurs a Net Operating Loss (NOL), the target number of Performance Shares will be reduced by one-third."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reduction for failure to make progress on regulatory matters"
+   }
+  ],
+  "equal_split": []
+ }
+}

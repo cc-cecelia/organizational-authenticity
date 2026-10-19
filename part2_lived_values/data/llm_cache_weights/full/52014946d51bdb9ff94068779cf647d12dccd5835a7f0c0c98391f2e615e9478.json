@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "52014946d51bdb9ff94068779cf647d12dccd5835a7f0c0c98391f2e615e9478",
+  "est_input_tokens": 19880
+ },
+ "usage": {
+  "input_tokens": 22181,
+  "output_tokens": 769
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA per barrel metric, which comprises 30% of our Annual Cash Bonus program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EBITDA metric comprises 20% of the Annual Cash Bonus program"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable cash flow at MPLX per unit metric comprises 20% of the Annual Cash Bonus program"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Refining and Corporate Costs (in millions) | 10% |"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Greenhouse Gas Intensity | 5% |"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Process Safety Events Score | 5% |"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Designated Environmental Incidents | 5% |"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diversity, Equity & Inclusion | 5% |"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ESG metric, with quantitative goals tied to greenhouse gas (\"GHG\") emissions intensity, safety and diversity, equity and inclusion, comprises 20% of the Annual Cash Bonus program"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance share units (\"PSUs\"), which comprise 60% of the LTI target, reward for performance compared to peers on relative PSU total shareholder return"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% on MPLX's total unitholder return (\"TUR\") performance relative to a peer group of midstream companies"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% on distributable cash flow (\"DCF\") attributable to MPLX, measured over a three-year performance cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

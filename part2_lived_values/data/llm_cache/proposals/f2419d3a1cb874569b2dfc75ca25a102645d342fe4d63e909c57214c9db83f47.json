@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001206774-20-001117",
+  "task": "proposals",
+  "section_words": 3808,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f2419d3a1cb874569b2dfc75ca25a102645d342fe4d63e909c57214c9db83f47",
+  "est_input_tokens": 8728
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9702,
+  "output_tokens": 388,
+  "request_id": "req_011CgCBMP1vxTvPTqTsPWRd5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Advisory Vote on a Shareholder Proposal Requesting to Change the Thresholds to Call Special Shareholder Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws so holders of 15% of outstanding common stock can call a special shareholder meeting, and remove the one-year holding period.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends voting AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Advisory Vote on a Shareholder Proposal Requesting the Board Issue a Report on Sugar and Public Health",
+    "proponent": "John Harrington",
+    "topic_summary": "Requests a report, with independent scientists, on sugar product sales to consumers, especially children, and related risks to finances and reputation, by November 1, 2020.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends voting AGAINST the advisory proposal requesting that the Board issue a report on sugar and public health."
+   }
+  ]
+ }
+}

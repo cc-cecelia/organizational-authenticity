@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "d3d88a54aa9822619d150b9637a81a997cb026b4726b117c693f877a1c36694b",
+  "est_input_tokens": 20111
+ },
+ "usage": {
+  "input_tokens": 23643,
+  "output_tokens": 769
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | 1/3 | $134.425 billion | $141.5 billion | $148.575 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | 1/3 | $9.563 billion | $11.250 billion | $12.938 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | $6.97 billion | $8.2 billion | $9.43 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork | 1/3"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction, which was between threshold and target performance levels."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "helping achieve record high levels of employee engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Employee Teamwork | 1/3"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Hemsley's annual bonus award reflects a downward adjustment to the Compensation Committee's recommended award amount"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factor considered by the Compensation Committee in the determination of the long-term cash incentive award amounts was achievement of 2013-2015 long-term incentive plan EPS and ROE"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cumulative Earnings Per Share | | | 50% | | | $15.89"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity | | | 50% | | | 14.5%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Cumulative Earnings Per Share | 50% and Return on Equity | 50%"
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "8a55d516c46bb0171358070d12a9073b77731afc74d091c20958a2c575b05b0c",
+  "est_input_tokens": 5616
+ },
+ "usage": {
+  "input_tokens": 6669,
+  "output_tokens": 475
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year so stockholders can directly assess executive performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year so stockholders can directly assess executive performance."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We disclose three key goals \u2014 efficiency ratio, return on tangible common equity, and return on assets \u2014 after the end of the year so stockholders can directly assess executive performance."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Each executive's total incentive award is based on the overall achievements of Citi and individual executive performance against predetermined goals set at the beginning of each year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   }
+  ],
+  "equal_split": []
+ }
+}

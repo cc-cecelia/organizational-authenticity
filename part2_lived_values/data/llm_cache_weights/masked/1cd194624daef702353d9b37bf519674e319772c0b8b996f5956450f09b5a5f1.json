@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "1cd194624daef702353d9b37bf519674e319772c0b8b996f5956450f09b5a5f1",
+  "est_input_tokens": 27816
+ },
+ "usage": {
+  "input_tokens": 28335,
+  "output_tokens": 586
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Performance Bonus Fiscal # | # Formulaic Payout | Metrics Revenue, Operating Cash Flow, Non-GAAP Income from Operations, Equality and Sustainability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue, operating cash flow and non-GAAP income from operations. The Compensation Committee believes that basing NEO bonus amounts on these financial measures aligns NEO incentives"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP income from operations was #million, up # year-over-year."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The equality measures focus on increasing representation of women, Black, Latinx, Indigenous and Multiracial employees."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Target payout for the three-year relative TSR goal in our PRSU program requires TSR outperformance at the #th percentile"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We restructured our PRSU program to include non-GAAP operating margin, [w] with relative TSR."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Company financial measures are collectively [w] at # and the ESG measures are collectively [w] at # for purposes of determining NEO bonus payouts."
+   }
+  ]
+ }
+}

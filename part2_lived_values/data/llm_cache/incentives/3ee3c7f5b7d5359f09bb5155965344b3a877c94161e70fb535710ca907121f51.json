@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000828",
+  "task": "incentives",
+  "section_words": 7792,
+  "section_method": "heading",
+  "cache_key": "3ee3c7f5b7d5359f09bb5155965344b3a877c94161e70fb535710ca907121f51",
+  "est_input_tokens": 17366
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18893,
+  "output_tokens": 1727,
+  "request_id": "req_011CgCBb4sRPuXeVAqpLjnRz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Incentive Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Financial component",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 67,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Component | Weight | Threshold | Goal | Maximum Financial component (Sales 50%, Incentive Operating Income 50%) | 67%"
+   },
+   {
+    "metric": "Team scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Team scorecard | 33% | 7% | 33% | 66%"
+   },
+   {
+    "metric": "Gain market share at the enterprise level",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "gain market share at the enterprise level and evaluate category level market share"
+   },
+   {
+    "metric": "Advance progress on three-year enterprise DE&I goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "advance progress on our new three-year enterprise DE&I goals"
+   },
+   {
+    "metric": "Maintain strong team engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "maintain strong team engagement"
+   },
+   {
+    "metric": "Maintain utilization of same-day fulfillment services",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "maintain utilization of same-day fulfillment services"
+   },
+   {
+    "metric": "Meet or exceed sales plans for new and remodeled stores",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "meet or exceed sales plans for new and remodeled stores"
+   },
+   {
+    "metric": "Adjusted Sales CAGR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   },
+   {
+    "metric": "Relative TSR (PBRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of shares earned under the PBRSUs will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third or bottom one-third"
+   }
+  ]
+ }
+}

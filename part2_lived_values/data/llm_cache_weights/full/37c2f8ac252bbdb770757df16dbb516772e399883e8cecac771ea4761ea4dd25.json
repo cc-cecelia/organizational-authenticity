@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "37c2f8ac252bbdb770757df16dbb516772e399883e8cecac771ea4761ea4dd25",
+  "est_input_tokens": 23218
+ },
+ "usage": {
+  "input_tokens": 25427,
+  "output_tokens": 779
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "80% | FINANCIAL Operating Income Per Barrel | 20% | 5th or 6th Position"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA per Share | 20% | $5.28 | $6.60 | $7.92 | $11.81 | 40%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Distributable Cash Flow at MPLX per Unit is a non-GAAP measure reflecting cash flow available to be paid to MPLX's common unitholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Added a new Refining Operating Costs metric"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas (GHG) Intensity measures how efficiently we operate our facilities and implement a business plan that promotes a less carbon-intensive future."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate measures our ability to identify, understand and control certain process hazards."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents measures environmental performance through tracking Tier 3 and 4 incidents."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diversity, Equity & Inclusion measures our effectiveness toward reaching our five-year representation goals"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MPC performance units/PSUs pay out based on our three-year TSR performance relative to the peer group shown in the following table."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX performance units awarded in 2019 and 2020 pay out based 50% on MPLX's total unitholder return"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow (50% of MPLX Performance Unit Payout) DCF attributable to MPLX is measured for each year of a three-year performance cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

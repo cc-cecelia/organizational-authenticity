@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "5639724eeef4e6039a723b34253adefc72732dad5682bfa0831d1b387658079f",
+  "est_input_tokens": 14354
+ },
+ "usage": {
+  "input_tokens": 14984,
+  "output_tokens": 739
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a # direct after-tax rate of return* and # all-in after-tax rate of return*, in each case on total capital expenditures*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production | Achieved #MBbld crude oil and condensate production"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Balance discretionary cash flow to CAPEX plus dividend and reduce net debt-to-total capitalization ratio* below #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Achieve positive ROCE* based on non-GAAP earnings*;"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Increase \"premium\" drilling inventory by #;"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Reduce finding costs;"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Prove # new \"premium\" exploration play; and"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Other strategic goals."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "long-term performance awards denominated and paid based on our total stockholder return relative to the total stockholder return of our peer companies"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reward our Named Officers based on EOG's stock performance versus specified peer companies and our absolute stock price performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

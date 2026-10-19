@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "6edf9ddfdecf8d418f48ca595f1c2b2dc29bd0f1b1ce5f7c415e7d9fc8454ae5",
+  "est_input_tokens": 20594
+ },
+ "usage": {
+  "input_tokens": 24022,
+  "output_tokens": 749
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | 1/3 | $172.425 billion | $181.5 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | 1/3 | $11.241 billion | $13.225 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | $8.075 billion | $9.5 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork | 1/3"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction, which was between threshold and target performance levels."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a qualitative assessment of individual performance and accomplishments. Individual factors considered are as follows"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The primary factor considered by the Compensation Committee in the determination of the long-term cash incentive award amounts was achievement of 2014-2016 long-term incentive plan EPS and ROE"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity | 50% | 15.9% | 17.9% | 19.9% | 18.3%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 8,
+    "plan": "long_term_incentive",
+    "evidence": "Cumulative Earnings Per Share | 50% | $17.24 | $18.30 | $19.78 | $19.11"
+   }
+  ]
+ }
+}

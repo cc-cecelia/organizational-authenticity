@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "b53a647442983f745cafc19dfc54f497a1229d6b73ffa977af979fbcdd7adfb6",
+  "est_input_tokens": 17766
+ },
+ "usage": {
+  "input_tokens": 17558,
+  "output_tokens": 446
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Supports portfolio shift into a cognitive solutions and cloud platform company that will deliver the highest value opportunities for our clients and stockholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Important measure of our ability to reinvest and return value to stockholders over multiple years"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reaffirms high value business model through a negative adjustment for ROIC below S&P #median, and a positive adjustment for ROIC above both the S&P #and S&P IT medians."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "IBM measures # key financial metrics, and in #added a relative Return on Invested Capital (ROIC) modifier to the PSU program"
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001206774-16-005032",
+  "task": "incentives",
+  "section_words": 14147,
+  "section_method": "heading",
+  "cache_key": "dcde922bf0a91f27a462d8e318bbe575e13bf1dece6eda75f812392c189ad8f6",
+  "est_input_tokens": 32824
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 34707,
+  "output_tokens": 11,
+  "request_id": "req_011CgCAGbARPUNwnasH8j1k5"
+ },
+ "result": {
+  "metrics": []
+ }
+}

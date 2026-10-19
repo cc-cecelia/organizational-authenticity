@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "dc0e16943ad454ced193195e640fd39da5905195c2a2e4db7c14593cd1fea3c0",
+  "est_input_tokens": 18682
+ },
+ "usage": {
+  "input_tokens": 23484,
+  "output_tokens": 505
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety as well as environmental stewardship, is critical to meeting our corporate strategy"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cost management maintains focus on operating excellence and enhances our ability to deliver differentiated returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROCE is key to delivering returns to shareholders and achieving our growth initiatives."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted earnings measures how effectively we are delivering on our growth, returns and distribution strategies."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual Modifier (+/\u2013# of target)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee reviews the relative ROCE as well as the absolute results to ensure we effectively compete for capital"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The target for absolute performance is based on our WACC for the performance period."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR for the performance period is compared to our performance peer group and the S&P #. Our TSR for the #-year performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

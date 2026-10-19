@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000065",
+  "task": "proposals",
+  "section_words": 5326,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0b6e09b7d4fe6576ec53731bdafc0a24f5fa68ec1dc8d9d6ea8d29cf64ec2258",
+  "est_input_tokens": 12484
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13516,
+  "output_tokens": 694,
+  "request_id": "req_011CgCCKZo8PtqhcbS2rbjKR"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "CLIMATE CHANGE ASSESSMENT REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual assessment of long-term portfolio impacts of climate change scenarios on reserves and capital planning, including a 2-degree IEA scenario.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors recommends that you vote AGAINST the foregoing stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "LOWER THRESHOLD TO CALL SPECIAL SHAREOWNER MEETINGS",
+    "proponent": "not stated",
+    "topic_summary": "Asks board to amend bylaws so holders of 15% of outstanding common stock can call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors recommends that you vote AGAINST the foregoing stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "METHANE EMISSIONS AND FLARING TARGETS",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report reviewing policies and plans to measure, disclose, mitigate and set quantitative reduction targets for methane emissions and flaring.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors recommends that you vote AGAINST the foregoing stockholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "POLITICAL CONTRIBUTIONS AND EXPENDITURES REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests semiannual report disclosing policies for indirect political spending and non-deductible political contributions, including trade association dues and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors recommends that you vote AGAINST the foregoing stockholder proposal."
+   }
+  ]
+ }
+}

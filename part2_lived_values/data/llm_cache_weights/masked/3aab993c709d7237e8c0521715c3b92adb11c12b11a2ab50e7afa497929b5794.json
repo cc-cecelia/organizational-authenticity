@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "3aab993c709d7237e8c0521715c3b92adb11c12b11a2ab50e7afa497929b5794",
+  "est_input_tokens": 16487
+ },
+ "usage": {
+  "input_tokens": 17195,
+  "output_tokens": 922
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (#) and Incentive Operating Income (#)."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Team scorecard is based on the Compensation & Human Capital Management Committee's assessment of our NEOs' progress toward strategic priorities."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "For Fiscal # the specific team scorecard progress indicators included: improve inventory efficiency, maintain strong team engagement"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained strong Team Member engagement, with survey results representing a modest decrease over the prior year;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Advanced equity and inclusion initiatives across the team;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Exceeded sales plans for Fiscal #for stores remodeled in #performed close to plan for Fiscal #for new stores opened in #"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Experienced market share loss, as discretionary categories were particularly pressured."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs \u2014 Payouts range from # to # of goal depending on Adjusted Sales growth, EPS growth, and ROIC performance relative to our retail peer group."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS growth. The compound annual growth rate of our EPS versus the reported EPS of our retail peer group"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC. Average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PBRSUs have a three-year performance period with the number of shares based on relative three-year TSR performance versus our retail peer group."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "the specific team scorecard progress indicators included: improve inventory efficiency, maintain strong team engagement"
+   }
+  ]
+ }
+}

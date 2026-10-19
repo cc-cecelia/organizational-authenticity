@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "cb6861c5cba4ebc13baf6ebe7095651897cf0004d2f8503af62d929ece331b2f",
+  "est_input_tokens": 22478
+ },
+ "usage": {
+  "input_tokens": 23561,
+  "output_tokens": 1040
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Earnings per share (\"EPS\", diluted) (#) | #reported EPS, better than Plan; modest miss on normalized EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014Chevron delivered strong cash flow in #supported by higher commodity realizations and strong production growth."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital management | # | Return on capital employed (#) (\"ROCE\")"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of # exceeded Plan."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2014#C&E totaled #billion, # higher than budget."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net production, excluding impact of divestments | Nearly #, above #-# guidance range."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Net production, excluding impact of divestments | Nearly #, above #-# guidance range."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled #billion, above Plan. Unit costs declined in #."
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates were better than Plan by #age point."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, environmental and safety | # | Personal safety (#) | Industry-leading Fatal Accident Rate of zero"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on all measures."
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance and spill volume was better than Plan."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As a result of the performance evaluation, Mr. Wirth received an award of #. This amount reflects the amount of his base salary"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance shares: incentivize performance relative to peers; modifier varies from #to # based on relative TSR vs. large-cap energy peers"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock options: incentivize absolute performance and long-term value creation; three-year vesting"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock units: incentivize absolute performance and retention through long holding periods; five-year cliff vesting"
+   }
+  ],
+  "equal_split": []
+ }
+}

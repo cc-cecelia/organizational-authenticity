@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-085402",
+  "task": "proposals",
+  "section_words": 3194,
+  "section_method": "resolved_windows",
+  "cache_key": "a6ee63cc96d28a4d246d7d0d108f8092f7f3f89399ff6b64c7f3aed29ab5da5b",
+  "est_input_tokens": 7201
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8773,
+  "output_tokens": 248,
+  "request_id": "req_011CgCCDDGh2ioTUt3YdqMnA"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON RISKS OF GULF COAST PETROCHEMICAL INVESTMENTS",
+    "proponent": "As You Sow, on behalf of Amy Devine and Douglas Triggs, and the Rita K. Devine Irrevocable Trust",
+    "topic_summary": "Requests a report, omitting proprietary information, assessing public health risks of expanding petrochemical operations in areas prone to climate-change storms, flooding and sea level rise.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD RECOMMENDS THAT YOU VOTE AGAINST THE PROPOSAL."
+   }
+  ]
+ }
+}

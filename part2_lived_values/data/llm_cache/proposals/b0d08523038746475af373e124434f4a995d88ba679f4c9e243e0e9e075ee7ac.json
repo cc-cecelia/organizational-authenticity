@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000336",
+  "task": "proposals",
+  "section_words": 6477,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "b0d08523038746475af373e124434f4a995d88ba679f4c9e243e0e9e075ee7ac",
+  "est_input_tokens": 14111
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15076,
+  "output_tokens": 544,
+  "request_id": "req_011CgCAgDfmSGCK6npmdjbWh"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING SHAREHOLDERS' RIGHT TO ACT BY WRITTEN CONSENT",
+    "proponent": "William Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes necessary to act to take action by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING INDEPENDENT BOARD CHAIRMAN",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to adopt a policy requiring the Chair of the Board to be an independent director, whenever possible.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING DISPOSAL OF UNUSED OR EXPIRED DRUGS",
+    "proponent": "As You Sow",
+    "topic_summary": "Asks the board to report on existing policies for safe disposal of prescription drugs to prevent water pollution and set out policy options, including industry take-back funding.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

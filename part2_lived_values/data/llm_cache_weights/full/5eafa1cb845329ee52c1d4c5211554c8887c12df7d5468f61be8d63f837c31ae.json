@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "5eafa1cb845329ee52c1d4c5211554c8887c12df7d5468f61be8d63f837c31ae",
+  "est_input_tokens": 18731
+ },
+ "usage": {
+  "input_tokens": 19108,
+  "output_tokens": 602
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth (35%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted net income (30%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Free cash flow (5%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial performance Score: 200%"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Customer allegiance"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Positioning the Company for accelerated revenue growth and margin expansion"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Employer of choice and workforce diversity"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Effectively Execute Capital Deployment Strategy"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth, which also features under our annual incentive plan for 2021, is of particular importance"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EPS"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In response to shareholder feedback, in early 2021 the Committee added a three-year performance metric to the awards in the form of a TSR modifier"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Based on performance to date, 33% of the 2020 TSR award has been earned and will vest in 2024."
+   }
+  ],
+  "equal_split": []
+ }
+}

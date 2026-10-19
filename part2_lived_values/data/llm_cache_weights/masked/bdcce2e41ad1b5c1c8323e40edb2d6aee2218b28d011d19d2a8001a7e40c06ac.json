@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "bdcce2e41ad1b5c1c8323e40edb2d6aee2218b28d011d19d2a8001a7e40c06ac",
+  "est_input_tokens": 18082
+ },
+ "usage": {
+  "input_tokens": 17859,
+  "output_tokens": 312
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue from our Strategic Imperatives of cloud, analytics, mobile, social and security has reached a critical mass"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Net Income | Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow * | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating EPS | Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | Important measure of our ability to reinvest and return value to stockholders over multiple years"
+   }
+  ],
+  "equal_split": []
+ }
+}

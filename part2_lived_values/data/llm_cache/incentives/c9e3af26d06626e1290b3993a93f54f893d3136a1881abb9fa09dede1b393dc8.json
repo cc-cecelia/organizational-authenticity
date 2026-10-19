@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001140361-24-016251",
+  "task": "incentives",
+  "section_words": 4628,
+  "section_method": "heading",
+  "cache_key": "c9e3af26d06626e1290b3993a93f54f893d3136a1881abb9fa09dede1b393dc8",
+  "est_input_tokens": 9935
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12324,
+  "output_tokens": 115,
+  "request_id": "req_011CgCB37pd8qYStnF6j9Bhr"
+ },
+ "result": {
+  "metrics": []
+ }
+}

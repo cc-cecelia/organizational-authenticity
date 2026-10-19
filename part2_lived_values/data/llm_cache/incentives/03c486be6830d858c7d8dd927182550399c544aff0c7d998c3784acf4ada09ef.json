@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001564590-22-024064",
+  "task": "incentives",
+  "section_words": 6358,
+  "section_method": "heading",
+  "cache_key": "03c486be6830d858c7d8dd927182550399c544aff0c7d998c3784acf4ada09ef",
+  "est_input_tokens": 14627
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15651,
+  "output_tokens": 2438,
+  "request_id": "req_011CgCBBdQqBReYTBgjwCQZL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestone (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "vests upon certification by the Board that both (i) the market capitalization milestone for such tranche, which begins at $100 billion for the first tranche"
+   },
+   {
+    "metric": "Operational milestones focused on revenue (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "metric": "Operational milestones focused on profitability (Adjusted EBITDA) (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "or 8 operational milestones focused on profitability, has been met"
+   },
+   {
+    "metric": "Market capitalization increase milestone (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "metric": "Operational milestone relating to development of Model X or Model 3 (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Aggregate vehicle production milestone (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Gross margin target (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "requiring that Tesla achieve gross margin of 30% or more for four consecutive quarters, has not been achieved"
+   }
+  ]
+ }
+}

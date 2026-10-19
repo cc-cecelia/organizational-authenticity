@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "7f66f20e074f971dbea35ac1e4186c56974f76c27ef019f646e0a57b2c20e7d1",
+  "est_input_tokens": 20145
+ },
+ "usage": {
+  "input_tokens": 20402,
+  "output_tokens": 260
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For 2019, we measured achievement of this objective using Cash Value Added, or CVA."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Committee also considers other business performance factors that are important to our investors, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Committee also considers other business performance factors that are important to our investors, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we modified the metrics in our Performance Unit Program to 100% relative ROCE."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "8af8da9e17979716bc9a3c1928679b6b941a9afdc268518fa2e586a8d132bf04",
+  "est_input_tokens": 21158
+ },
+ "usage": {
+  "input_tokens": 22866,
+  "output_tokens": 1060
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Chevron Incentive Plan is designed to recognize annual performance achievements based on the MCC's assessment of Company performance across # broad categories"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "Earnings per share (EPS)"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014We remain on target to be cash flow breakeven at #Brent in #."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in sales proceeds were realized in #."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital management"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed (ROCE) \u2014#annual ROCE performance beat the Business Plan objective"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures (C&E) \u2014C&E totaled #billion in ##billion or #[w] lower than the Business Plan."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating performance"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day was slightly below the external guidance"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled #billion, well under the Business Plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates exceeded the Business Plan by #[w]."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environment and Safety\u2014#[w]"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Business Plan"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Achieved record low spills and had continued improvement in lowering both the number and the impact of loss of containment incidents."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CEO recommends to the MCC an Individual Performance Factor (IPF) for each NEO other than himself."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "TSR is the standard metric for stockholders to use in measuring the Company's performance"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is [w] to the closing common stock price on the grant date."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock units (RSUs) are now a routine component of equity awards"
+   }
+  ],
+  "equal_split": []
+ }
+}

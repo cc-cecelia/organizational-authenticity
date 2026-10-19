@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "eac4c1d4cf2c21f63dc521ea1c57a56d0367b5cbf28c62b10fc2bcdabe044bb0",
+  "est_input_tokens": 21828
+ },
+ "usage": {
+  "input_tokens": 24913,
+  "output_tokens": 868
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual performance bonus: Company performance and individual performance (2015 Company Performance: financial and strategic goals)"
+   },
+   {
+    "id": 1,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Exceeded our adjusted operational earnings per share (EPS) growth goal and met our operational sales and free cash flow goals."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Free cash flow is the net cash from operating activities less additions to property, plant and equipment."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Exceeded our total adjusted operational EPS growth goal"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Partially met our Creating Value through Innovation objectives. We gained or held share in 11 of 19 key product platforms"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Met our Excellence in Execution (portfolio, organizational effectiveness, quality, and supply) objectives"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Partially met our Global Reach with Local Focus (global sales growth) objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Exceeded our Leading with Purpose (talent, engagement, and reputation) objectives"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "exceeding benchmarks on employee engagement measures"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "advancing diversity; retaining critical talent; and exceeding benchmarks"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "we consider whether the executive achieves business results in a manner that is consistent with the values embodied in Our Credo"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance Share Units: 1-year Operational Sales for each year of the performance period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share: 3-year Cumulative Adjusted Operational EPS"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return: 3-year Compound Annual Growth Rate versus the Competitor Composite Peer Group"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "13c3091c8aa9afe6ddb6d7434f6db6f79581896b895b3a913ee3c0d567f46993",
+  "est_input_tokens": 20475
+ },
+ "usage": {
+  "input_tokens": 23095,
+  "output_tokens": 329
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The employment agreements with Ms. Meyrowitz and Mr. Herrman provide for target award opportunities of at least 150% of their respective base salaries for MIP"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects amounts earned under both MIP and LRPIP. For the fiscal 2018-2020 LRPIP cycle, the amounts were"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the fiscal 2020-2022 cycle"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the fiscal 2020-2022 cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

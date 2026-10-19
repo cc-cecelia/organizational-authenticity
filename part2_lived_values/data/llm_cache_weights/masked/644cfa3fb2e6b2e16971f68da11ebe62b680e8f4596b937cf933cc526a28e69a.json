@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "644cfa3fb2e6b2e16971f68da11ebe62b680e8f4596b937cf933cc526a28e69a",
+  "est_input_tokens": 23164
+ },
+ "usage": {
+  "input_tokens": 24193,
+  "output_tokens": 1059
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income Per Barrel of crude oil throughput compared to a group of peer companies"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA is a non-GAAP performance metric derived from our consolidated financial statements."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow at MPLX is a non-GAAP measure reflecting cash flow available to be paid to MPLX's common unitholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability measures the availability of the processing equipment in our refineries"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Sustainability metric combines a new GHG intensity metric"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas (GHG) Intensity measures how efficiently we operate our facilities"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents measures certain internal environmental performance metrics."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Marathon Safety Performance Index measures our success and commitment to employee safety."
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate measures our ability to identify, understand and control certain process hazards."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The primary purpose of the discretionary component is to recognize instances where, due to unforeseen circumstances"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Negotiating and progressing the #billion sale of Speedway."
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progress on diversity and inclusion initiatives."
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Excellence in environmental performance, personal safety and process safety improvement."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MPC performance units pay out based on our three-year TSR relative to the peer group shown in the following table."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX performance units pay out based # on MPLX's total unitholder return"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX Performance Units align our NEOs' long-term interests with the long-term interests of our shareholders and MPLX's unitholders"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In January #the Compensation and Organization Development Committee awarded our NEOs synergy performance units"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Sustainability metric combines a new GHG intensity metric"
+   }
+  ]
+ }
+}

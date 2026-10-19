@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "0ef446e2e8720e58d2d2f69131df1934c847b7290468fbb1d4443fd88500d4f3",
+  "est_input_tokens": 16827
+ },
+ "usage": {
+  "input_tokens": 17549,
+  "output_tokens": 1673
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue change (25 percent)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS change (50 percent)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "pipeline progress (25 percent)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase 3 starts | 2 | 1"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "2 new drug first approvals 15 other approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Exceeded industry benchmark for speed of development"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Met planned project timelines"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Assessment of the chief scientific officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts are based on achieving EPS growth targets over a two-year performance period"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "pay out based on absolute company stock price growth and TSR relative to peers"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A modifier based on Lilly's three-year cumulative TSR relative to our peer companies' median TSR performance is applied"
+   }
+  ],
+  "equal_split": []
+ }
+}

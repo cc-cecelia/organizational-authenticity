@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001564590-22-024064",
+  "task": "proposals",
+  "section_words": 21121,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8480aaf9cdb81f891d724f9d0b5d967caaf37ad34a2a71fab9fc954b7ff496f8",
+  "est_input_tokens": 47559
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 49702,
+  "output_tokens": 1435,
+  "request_id": "req_011CgCBGjDUVMdeuL22jCvC6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "Six",
+    "title": "Stockholder Proposal Regarding Proxy Access",
+    "proponent": "not stated",
+    "topic_summary": "Requests board enable shareholders, without group-size limits, to aggregate shares equal to 3% held continuously for 3 years to nominate directors via proxy access.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding proxy access."
+   },
+   {
+    "item_number": "Seven",
+    "title": "Stockholder Proposal Regarding Annual Reporting on Anti-Harassment and Discrimination Efforts",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual public report quantifying effectiveness of efforts to prevent harassment and discrimination against employees, including settlements, complaint resolution times and pending complaints.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding annual reporting on anti-harassment and discrimination efforts."
+   },
+   {
+    "item_number": "Eight",
+    "title": "Stockholder Proposal Regarding Annual Reporting on Board Diversity",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual report on policies and practices to ensure the Board attains racial and gender representation better aligned with customer and regional demographics.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding annual reporting on board diversity."
+   },
+   {
+    "item_number": "Nine",
+    "title": "Stockholder Proposal Regarding Reporting on Employee Arbitration",
+    "proponent": "not stated",
+    "topic_summary": "Requests a public report on the impact of mandatory employee arbitration on brand, employees, harassment and discrimination in the workplace.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reporting on employee arbitration."
+   },
+   {
+    "item_number": "Ten",
+    "title": "Stockholder Proposal Regarding Reporting on Lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests evaluation and report on whether Tesla's lobbying and policy influence align with the Paris Agreement's 1.5 degree goal and plans to mitigate misalignment.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reporting on lobbying."
+   },
+   {
+    "item_number": "Eleven",
+    "title": "Stockholder Proposal Regarding Adoption of a Freedom of Association and Collective Bargaining Policy",
+    "proponent": "not stated",
+    "topic_summary": "Requests adoption and public disclosure of a policy respecting freedom of association and collective bargaining, aligned with ILO principles, with due diligence.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding Adoption of a freedom of association and collective bargaining policy."
+   },
+   {
+    "item_number": "Twelve",
+    "title": "Stockholder Proposal Regarding Additional Reporting on Child Labor",
+    "proponent": "not stated",
+    "topic_summary": "Requests public report on whether battery mineral sourcing policies will eradicate child labor from the battery supply chain by 2025.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding additional reporting on child labor."
+   },
+   {
+    "item_number": "Thirteen",
+    "title": "Stockholder Proposal Regarding Additional Reporting on Water Risk",
+    "proponent": "not stated",
+    "topic_summary": "Requests board assess and report on ongoing water risk exposure and policies to reduce it, from facility siting to climate-related water supply reductions.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding additional reporting on water risk."
+   }
+  ]
+ }
+}

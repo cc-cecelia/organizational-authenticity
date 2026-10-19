@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001206774-16-004949",
+  "task": "proposals",
+  "section_words": 8094,
+  "section_method": "resolved_windows",
+  "cache_key": "2743a9bbfd7b02f67d89bd68a270f9315ea557ec7680b9d2ac4fccc6005c423f",
+  "est_input_tokens": 18187
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18631,
+  "output_tokens": 733,
+  "request_id": "req_011CgCAM7EncDhXSZ8isiX5W"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal 6",
+    "proponent": "not stated",
+    "topic_summary": "Requests Citigroup prepare a report by September 2016 demonstrating the company does not have a gender pay gap.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this Proposal 6"
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7",
+    "proponent": "CtW Investment Group",
+    "topic_summary": "Requests annual report disclosing Citigroup's direct and indirect lobbying policies, payments, and board oversight of lobbying and grassroots communications.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this Proposal 7"
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal 8",
+    "proponent": "Bartlett Collins Naylor",
+    "topic_summary": "Asks the board to appoint an independent committee to evaluate whether divesting all non-core banking segments would enhance shareholder value and publicly report.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST Proposal 8"
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal 9 \u2013 Clawback Amendment",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend the clawback policy so executive pay is deferred up to 10 years and forfeitable to help satisfy monetary penalties for legal violations.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 9"
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal 10",
+    "proponent": "AFL\u2013CIO Reserve Fund",
+    "topic_summary": "Requests a policy prohibiting vesting of equity awards for senior executives who voluntarily resign to enter government service.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 10"
+   }
+  ]
+ }
+}

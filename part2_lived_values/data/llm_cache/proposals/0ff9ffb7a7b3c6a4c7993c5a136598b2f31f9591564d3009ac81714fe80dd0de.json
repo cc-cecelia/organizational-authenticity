@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0000200406-17-000015",
+  "task": "proposals",
+  "section_words": 1692,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0ff9ffb7a7b3c6a4c7993c5a136598b2f31f9591564d3009ac81714fe80dd0de",
+  "est_input_tokens": 3859
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5184,
+  "output_tokens": 189,
+  "request_id": "req_011CgCAXktEb1e9kwgYdfPEq"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Independent Board Chairman",
+    "proponent": "The Sisters of St. Francis of Philadelphia",
+    "topic_summary": "Requests the Board adopt a policy and amend bylaws so the Board Chair is, whenever possible, an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal"
+   }
+  ]
+ }
+}

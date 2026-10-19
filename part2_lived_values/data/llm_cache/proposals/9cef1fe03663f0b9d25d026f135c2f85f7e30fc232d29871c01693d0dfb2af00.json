@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0000059478-18-000111",
+  "task": "proposals",
+  "section_words": 5181,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9cef1fe03663f0b9d25d026f135c2f85f7e30fc232d29871c01693d0dfb2af00",
+  "est_input_tokens": 11841
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13124,
+  "output_tokens": 732,
+  "request_id": "req_011CgCARxqQY92XXLpZw1nkG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Seeking Support for the Descheduling of Cannabis",
+    "proponent": "Fred Pfenninger",
+    "topic_summary": "Requests that the Company announce its support for the descheduling of cannabis.",
+    "category": "other",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Requesting Report Regarding Direct and Indirect Political Contributions",
+    "proponent": "The Comptroller of the State of New York, Thomas P. DiNapoli, trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests an annually updated report disclosing direct and indirect lobbying and political contributions, trade association payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal Requesting Report on Policies and Practices Regarding Contract Animal Laboratories",
+    "proponent": "People for the Ethical Treatment of Animals (PETA)",
+    "topic_summary": "Asks the Board to strengthen policies and practices regarding contract animal laboratories and issue a report to shareholders.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal Requesting Report on the Extent to Which Risks Related to Public Concern Over Drug Pricing Strategies are Integrated into Incentive Compensation Arrangements",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests an annual report on whether senior executive incentive compensation integrates risks related to public concern over drug pricing.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal."
+   }
+  ]
+ }
+}

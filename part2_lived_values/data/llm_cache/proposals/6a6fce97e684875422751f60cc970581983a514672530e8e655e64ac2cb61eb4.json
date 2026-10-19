@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001558370-24-003496",
+  "task": "proposals",
+  "section_words": 7547,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "6a6fce97e684875422751f60cc970581983a514672530e8e655e64ac2cb61eb4",
+  "est_input_tokens": 17198
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18867,
+  "output_tokens": 582,
+  "request_id": "req_011CgCAfzhRDKJdYycd5gdUv"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Simple Majority Vote",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Asks the board to replace supermajority voting requirements in the charter and bylaws with a majority of votes cast or simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Lobbying",
+    "proponent": "Zevin Asset Management on behalf of Alyson Pyette; co-filers Dana Investment Advisors and Miller/Howard Investments, Inc. on behalf of Owen Harvey",
+    "topic_summary": "Requests an annually updated report on lobbying policies, lobbying and grassroots payments, model-legislation organization memberships, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Patent Process",
+    "proponent": "Friends Fiduciary Corporation and co-filers Mercy Investment Services, Inc., Bon Secours Mercy Health, Inc., The Sisters of Charity of Saint Elizabeth, and others",
+    "topic_summary": "Asks the board to establish and report on a process considering the impact of extended patent exclusivities on product access when pursuing secondary and tertiary patents.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001206774-21-000735",
+  "task": "proposals",
+  "section_words": 7312,
+  "section_method": "resolved_windows",
+  "cache_key": "49dd111e935e9e17297f063500b15f870e66fca327d2402900844b703c65e824",
+  "est_input_tokens": 16848
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18104,
+  "output_tokens": 765,
+  "request_id": "req_011CgCAP1bXBuiNsgzxVPHD7"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal 6",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent Board Chair or lead director structure; the proposal text is not fully reproduced in the section, only the Board's opposition is shown.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Increase Diversity of Director Nominees",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Requests a policy requiring the initial list of director candidates to include non-management employees, similar to the Rooney Rule.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 7."
+   },
+   {
+    "item_number": "8",
+    "title": "Lobbying disclosure report",
+    "proponent": "Miller/Howard Investments, Inc. on behalf of Luc Theeuwes and the Greater Manchester Pension Fund",
+    "topic_summary": "Requests an annually updated report disclosing direct and indirect lobbying policies, payments, and board oversight of lobbying and grassroots communications.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 8."
+   },
+   {
+    "item_number": "9",
+    "title": "Racial equity audit",
+    "proponent": "CtW Investment Group",
+    "topic_summary": "Requests a racial equity audit analyzing Citi's adverse impacts on nonwhite stakeholders and communities of color, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 9."
+   },
+   {
+    "item_number": "10",
+    "title": "Public Benefit Corporation conversion",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests the board approve amending the certificate of incorporation to become a Public Benefit Corporation and submit it to shareholders.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 10."
+   }
+  ]
+ }
+}

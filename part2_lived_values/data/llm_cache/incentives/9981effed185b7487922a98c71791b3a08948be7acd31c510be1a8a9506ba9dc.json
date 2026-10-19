@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001140361-21-011226",
+  "task": "incentives",
+  "section_words": 10456,
+  "section_method": "heading",
+  "cache_key": "9981effed185b7487922a98c71791b3a08948be7acd31c510be1a8a9506ba9dc",
+  "est_input_tokens": 23168
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26618,
+  "output_tokens": 2538,
+  "request_id": "req_011CgCA85itQXRtb3eyWsnNK"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company financial performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDS Committee weighed the Company's overall financial performance and, as applicable, business unit performance and achievement of its long-term strategic objectives"
+   },
+   {
+    "metric": "Company Financial Performance and Strategic Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Company Financial Performance and Strategic Objectives"
+   },
+   {
+    "metric": "Delivered ROTCE",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Delivered ROTCE of 15.2 %"
+   },
+   {
+    "metric": "Common Equity Tier 1 Ratio",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ending the year with a Common Equity Tier 1 Ratio of 17.4%"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In addition to the performance factors discussed above, the Committee considered the following individual contributions of the CEO and each other NEO"
+   },
+   {
+    "metric": "ROTCE (MS Average ROTCE over three-year period)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   },
+   {
+    "metric": "Relative TSR (MS TSR relative to S&P 500 Financials Index)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The other half of the target LTIP award is earned based on the Company's TSR over the three-year period"
+   }
+  ]
+ }
+}

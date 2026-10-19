@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "5c36012fa4d5463e23ca17627c951870dd0613226e8a605f741c8c1e4f6f8953",
+  "est_input_tokens": 13278
+ },
+ "usage": {
+  "input_tokens": 13926,
+  "output_tokens": 307
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use return on common equity (ROCE) equaling or exceeding cost of equity (COE) as the performance goal for the 2016 PBRSUs"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "COE is calculated using the Capital Asset Pricing Model (CAP-M), which is a commonly used financial metric"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee selected cumulative EPS as the performance criterion because it provides a comprehensive measure of the company's profitability"
+   }
+  ],
+  "equal_split": []
+ }
+}

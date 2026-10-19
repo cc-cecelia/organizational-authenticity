@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001047469-17-001870",
+  "task": "proposals",
+  "section_words": 707,
+  "section_method": "resolved_windows",
+  "cache_key": "20fc8fea729786c42559986cd6968b2d1905fcde94345e02003342a99bb0a8ab",
+  "est_input_tokens": 1893
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3284,
+  "output_tokens": 11,
+  "request_id": "req_011CgCCCMqrehZdWAVwZbV8W"
+ },
+ "result": {
+  "proposals": []
+ }
+}

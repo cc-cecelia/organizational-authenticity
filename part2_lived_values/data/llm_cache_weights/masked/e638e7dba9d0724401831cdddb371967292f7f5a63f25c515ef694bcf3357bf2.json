@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "e638e7dba9d0724401831cdddb371967292f7f5a63f25c515ef694bcf3357bf2",
+  "est_input_tokens": 17779
+ },
+ "usage": {
+  "input_tokens": 17942,
+  "output_tokens": 391
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The [w] of each of the sales and operating profit goals was aligned to emphasize top line sales growth balanced with the Company's continued focus on profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The [w] of the inventory turns goal at # maintained visibility and attention on inventory turns while at the same time recognizing that this metric may be impacted by the Company's ongoing supply chain investments"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "provides for the issuance of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "provides for the issuance of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals over that period"
+   }
+  ],
+  "equal_split": []
+ }
+}

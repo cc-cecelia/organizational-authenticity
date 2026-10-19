@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-422528",
+  "task": "incentives",
+  "section_words": 4893,
+  "section_method": "heading",
+  "cache_key": "86256c11016329a5d48a7fbb1b3e5e017d70398a7075878967bc73fd24c8f7b1",
+  "est_input_tokens": 11600
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13037,
+  "output_tokens": 421,
+  "request_id": "req_011CgC9B7X1nBaoqKQYUtZb1"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Net Sales (50%) | $188,000 | $199,000 | $210,000 | $233,715"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income (50%) | $52,500 | $55,130 | $56,250 | $71,230"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "vest according to the applicable vesting schedules described below, depending on Apple's total shareholder return relative to the other companies in the S&P 500 for the applicable performance period"
+   }
+  ]
+ }
+}

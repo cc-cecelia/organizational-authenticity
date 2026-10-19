@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-112133",
+  "task": "proposals",
+  "section_words": 4944,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cdff311548db5532d68efd8f2a8f6f01835611f9b29cb3ac6f0252cb84c36fff",
+  "est_input_tokens": 11223
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12418,
+  "output_tokens": 471,
+  "request_id": "req_011CgC9gEP4hXPoHrRW46eik"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting an Annual Advisory Vote on Political Contributions",
+    "proponent": "NorthStar Asset Management Funded Pension Plan",
+    "topic_summary": "Requests a policy for an annual proxy proposal describing political contributions and electioneering policies, with analysis of congruency and risks, and an annual advisory shareholder vote on them.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to adopt certain political contribution policies."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Requesting that Votes Counted on Stockholder Proposals Exclude Abstentions",
+    "proponent": "Eric Rehm and Mary Geary (represented by Investor Voice, SPC)",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder proposals are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to adopt an alternative vote counting standard for all non-binding matters submitted by stockholders."
+   }
+  ]
+ }
+}

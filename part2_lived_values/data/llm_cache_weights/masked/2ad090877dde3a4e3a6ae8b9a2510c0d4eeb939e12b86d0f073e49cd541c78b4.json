@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "2ad090877dde3a4e3a6ae8b9a2510c0d4eeb939e12b86d0f073e49cd541c78b4",
+  "est_input_tokens": 27258
+ },
+ "usage": {
+  "input_tokens": 29991,
+  "output_tokens": 750
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures were non-GAAP diluted EPS, revenue growth and free cash flow, each [w] [w] at #/#."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue Growth Over Prior Year (Constant Currency) | Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow (Non-GAAP) | Under the free cash flow metric, Medtronic management is held accountable for GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee included a Quality Compliance Modifier as part of the plan design to reinforce the importance of quality."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance for the new PSUs will be based on three-year revenue growth and three-year relative total shareholder return as the primary metrics"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance for the new PSUs will be based on three-year revenue growth and three-year relative total shareholder return as the primary metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "with ROIC as a threshold metric, reducing the payout by # if a minimum level of ROIC is not achieved."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Performance for the cash long-term performance plan, which includes cumulative revenue growth and return on invested capital"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Performance for the cash long-term performance plan, which includes cumulative revenue growth and return on invested capital"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "above market relative total shareholder returns"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "three-year revenue growth and three-year relative total shareholder return as the primary metrics, each eqully [w]"
+   }
+  ]
+ }
+}

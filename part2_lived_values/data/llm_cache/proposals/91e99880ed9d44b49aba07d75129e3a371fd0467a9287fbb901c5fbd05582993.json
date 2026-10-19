@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0000930413-16-006044",
+  "task": "proposals",
+  "section_words": 4626,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "91e99880ed9d44b49aba07d75129e3a371fd0467a9287fbb901c5fbd05582993",
+  "est_input_tokens": 10557
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12476,
+  "output_tokens": 598,
+  "request_id": "req_011CgCApQAXFcMQtjhqxtmNV"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Report on Lobbying Activities",
+    "proponent": "The Christopher Reynolds Foundation",
+    "topic_summary": "Requests annual report disclosing Pfizer's direct and indirect lobbying policies, payments, trade association and model-legislation organization memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors has recommended a vote AGAINST these proposals for broader policy reasons"
+   },
+   {
+    "item_number": "5",
+    "title": "Give Shareholders Final Say on Election of Directors",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Requests policy that a director failing to obtain a majority vote (in uncontested elections) be removed immediately from the board.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "it recommends a vote AGAINST this proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Right to Act by Written Consent",
+    "proponent": "Mr. William Steiner",
+    "topic_summary": "Requests steps to permit shareholders holding the minimum votes needed to authorize action to act by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Certain Taxable Events",
+    "proponent": "Mr. Dennis Breuel",
+    "topic_summary": "Requests that any taxable event for shareholders from a transaction also be borne by management and the Board of Directors.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "recommends that shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

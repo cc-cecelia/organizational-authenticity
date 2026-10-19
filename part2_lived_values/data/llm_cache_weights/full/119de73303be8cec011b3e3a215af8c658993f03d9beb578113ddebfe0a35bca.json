@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "119de73303be8cec011b3e3a215af8c658993f03d9beb578113ddebfe0a35bca",
+  "est_input_tokens": 18447
+ },
+ "usage": {
+  "input_tokens": 22303,
+  "output_tokens": 1122
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the EPS goal (see 2017 Performance Goals for Performance Incentive Plan on page 38) must be achieved. If the EPS goal is not achieved, then the PIP is not funded"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To stress the importance of profitability, each officer is assessed on relevant return goals, primarily earnings, margin contribution, and cash flow."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion, key R&D milestones, gross margin expansion, and entry into new markets."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion, key R&D milestones, gross margin expansion, and entry into new markets."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Sales"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Diluted EPS"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Net Income"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Return on Assets"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Free Cash Flow"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Division Net Sales"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Adjusted Division Margin"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual officer awards are then further adjusted up or down based upon assessment of their achievement of individual goals related to 1) Three Year Sales and Market Growth"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2)Three Year Margin Contribution"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3) Three Year Strategic Milestones"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our process for determining guidelines, individual awards, and vesting of those awards incorporates: TSR performance relative to our peers on a one-, three-, and five-year basis"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee believes adjusted return on equity (ROE) is the appropriate performance measure for vesting"
+   }
+  ],
+  "equal_split": []
+ }
+}

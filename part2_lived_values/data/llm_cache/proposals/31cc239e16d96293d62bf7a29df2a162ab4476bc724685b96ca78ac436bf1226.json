@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-082312",
+  "task": "proposals",
+  "section_words": 5825,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "31cc239e16d96293d62bf7a29df2a162ab4476bc724685b96ca78ac436bf1226",
+  "est_input_tokens": 13393
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14332,
+  "output_tokens": 661,
+  "request_id": "req_011CgC9uLgCMurnhJ2M6Pja2"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "Our Commitment to a Business Standards Review and Report",
+    "proponent": "The Sisters of St. Francis of Philadelphia and other co-filers",
+    "topic_summary": "Requested a comprehensive report on root causes of fraudulent activities, plans to address them, progress measures and disclosure; proposal was withdrawn after company agreed to a business standards review.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "not_stated",
+    "evidence": "the Sisters of St. Francis of Philadelphia and other co-filers withdrew their proposal"
+   },
+   {
+    "item_number": "4",
+    "title": "Special Shareowner Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "Reform Executive Compensation Policy with Social Responsibility",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Asks the company to engage multiple outside independent experts to reform executive compensation policy with social responsibility.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Report on Incentive Compensation and Risks of Material Losses",
+    "proponent": "The Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests a report on whether employees eligible for incentive pay tied to metrics that could expose the company to material losses, with breakdowns of such compensation.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal"
+   }
+  ]
+ }
+}

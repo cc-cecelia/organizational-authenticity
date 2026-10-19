@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "14d315e54ea0416017999c5b56c93aa9492595fbf5c0b2cc93e62c8d78b94337",
+  "est_input_tokens": 16803
+ },
+ "usage": {
+  "input_tokens": 18814,
+  "output_tokens": 505
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "while the performance metrics are not assigned a specific weight, safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leading: Long-term cash flow from operations and asset sales outpacing competitors"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Not leading average of industry peers in 10-year TSR"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "progress toward the Company's strategic objectives, as is progress toward the Company's strategic objectives"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Size of bonus program determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Vesting of the EBU occurs when the cumulative earnings per share (EPS) threshold is achieved."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual bonus awards are then determined by the bonus program formula, changes in pay grade, and performance."
+   }
+  ],
+  "equal_split": []
+ }
+}

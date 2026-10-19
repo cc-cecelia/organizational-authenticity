@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-536350",
+  "task": "incentives",
+  "section_words": 7495,
+  "section_method": "heading",
+  "cache_key": "ebf13392cbcb78edd551891b6d2648948875015f5de9c47bd829d29e52c27794",
+  "est_input_tokens": 17411
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19636,
+  "output_tokens": 938,
+  "request_id": "req_011CgCBbW3jdhPCggLbnFzGd"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "EBIT | Rewards the executives for profitability of over-all Company operations"
+   },
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Sales | Focuses the executives on effective merchandising, driving market share gains"
+   },
+   {
+    "metric": "Leadership Effectiveness",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Percentage of responses to the Lowe's Employee Opinion Survey that rate Company leadership in the top two categories"
+   },
+   {
+    "metric": "People Productivity",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Ratio of total U.S. corporate office people cost to sales"
+   },
+   {
+    "metric": "EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 55,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EBIT | Rewards the executives for profitability of over-all Company operations | Company's EBIT | 70% | 55%"
+   },
+   {
+    "metric": "RONCAA",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 67,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "RONCAA | 11.50% | 13.50% | 15.50% | 14.72% | 130.50% | 67%"
+   },
+   {
+    "metric": "Improvement in Brand Strength",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Improvement in Brand Strength | +2.5 point | +5.0 point | +10.0 point | +24.0 point | 150.00% | 33%"
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "3dbc899acabec726768b443ca2d1ff027814987b468d679eb528b8e2a2d1c0c5",
+  "est_input_tokens": 32501
+ },
+ "usage": {
+  "input_tokens": 35360,
+  "output_tokens": 699
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee changed the financial performance metric for determining our NEOs' bonuses for fiscal 2021 from year-over-year growth in our non-GAAP pre-tax profits"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSOs can be earned only upon the attainment of rigorous performance goals over an eight-year performance period"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total SaaS revenues in a fiscal year"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) revenues in a fiscal year"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Attain non-GAAP SaaS gross margin of 80%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maintain non-GAAP PaaS/IaaS gross margin of at least 30% for three of the eight fiscal years in the performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Oracle's average stock price for 30 calendar days must equal or exceed $80 in order for the tranche to be earned"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increase Oracle's market capitalization from a baseline of $207 billion by:"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The PSOs granted to Mr. Ellison and Ms. Catz are divided into seven equal tranches"
+   }
+  ]
+ }
+}

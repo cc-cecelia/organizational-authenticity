@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "a79b97aab50ca987eac0200bcc0080b96a0b93678e695efdb990464698837780",
+  "est_input_tokens": 18608
+ },
+ "usage": {
+  "input_tokens": 20849,
+  "output_tokens": 181
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key indicator of our annual performance which drives value and contributes to Company's long-term success"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-GAAP Operating Income (determines number of shares eligible to vest)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Aligns directly with shareholder value creation over a 3-year period"
+   }
+  ],
+  "equal_split": []
+ }
+}

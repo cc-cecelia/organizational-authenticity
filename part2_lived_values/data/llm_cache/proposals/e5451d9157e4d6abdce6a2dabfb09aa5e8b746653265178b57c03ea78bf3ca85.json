@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001206774-19-001299",
+  "task": "proposals",
+  "section_words": 2376,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e5451d9157e4d6abdce6a2dabfb09aa5e8b746653265178b57c03ea78bf3ca85",
+  "est_input_tokens": 5518
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6622,
+  "output_tokens": 188,
+  "request_id": "req_011CgCBMFp6j9tUB4KrLjaKJ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Advisory Vote on a Shareholder Proposal Requesting the Ability for Shareholders to Act by Written Consent",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Requests board take steps to permit shareholders holding the minimum votes needed to act to do so by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal ."
+   }
+  ]
+ }
+}

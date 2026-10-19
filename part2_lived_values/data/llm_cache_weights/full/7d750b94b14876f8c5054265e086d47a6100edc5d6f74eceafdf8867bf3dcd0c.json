@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "7d750b94b14876f8c5054265e086d47a6100edc5d6f74eceafdf8867bf3dcd0c",
+  "est_input_tokens": 18312
+ },
+ "usage": {
+  "input_tokens": 19833,
+  "output_tokens": 2837
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Revenue Growth | 19% | 27%"
+   },
+   {
+    "id": 1,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "EPS | $9.45 | $9.85"
+   },
+   {
+    "id": 2,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "ROE | 32% | 32%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Shareholder (45%)"
+   },
+   {
+    "id": 4,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Net Promoter Score | Actual outcomes above goals set and pre- pandemic levels"
+   },
+   {
+    "id": 5,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Strong customer retention rates"
+   },
+   {
+    "id": 6,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Merchant Locations | Sustained virtual parity coverage in the U.S."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customer (15%)"
+   },
+   {
+    "id": 8,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Diversity Representation (Increasing underrepresented U.S. minority and global women representation"
+   },
+   {
+    "id": 9,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Talent Retention (Retaining our critical talent at all levels)"
+   },
+   {
+    "id": 10,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Culture (Maintaining a strong level of inclusion and engagement)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Colleague (15%)"
+   },
+   {
+    "id": 12,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Expand leadership in the premium consumer space | 24% U.S. Consumer Services Billed Business growth"
+   },
+   {
+    "id": 13,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Build on our strong position in commercial payments | 21% Commercial Services Billed Business growth"
+   },
+   {
+    "id": 14,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Strengthen our global, integrated network to provide unique value | Sustained virtual parity coverage in the U.S."
+   },
+   {
+    "id": 15,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to uplift control and compliance environment across the enterprise | Risk profile, performance and risk taking remained within Risk Appetite"
+   },
+   {
+    "id": 16,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to progress on key ESG goals | Continued to make progress against our DE&I Action Plan"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic (25%) | 2022 Results"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the 2022 Company Performance Multiplier to be 150%"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The maximum individual performance multiplier for leadership performance is 125%."
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "3-year average ROE as compared to performance peers"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3-year TSR compared to the same performance peers as ROE"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Positive cumulative net income"
+   }
+  ],
+  "equal_split": []
+ }
+}

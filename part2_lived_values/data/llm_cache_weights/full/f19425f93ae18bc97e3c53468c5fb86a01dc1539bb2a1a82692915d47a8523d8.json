@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "f19425f93ae18bc97e3c53468c5fb86a01dc1539bb2a1a82692915d47a8523d8",
+  "est_input_tokens": 18817
+ },
+ "usage": {
+  "input_tokens": 20665,
+  "output_tokens": 907
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee selected year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our NEOs' bonuses"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "1 Tranche of the PSOs (1/7 th ) may be earned based on achievement of a stock price goal"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "6 Tranches of the PSOs (6/7 ths ) may be earned based on achievement of both (1) operational goals and (2) market capitalization goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increase Oracle's market capitalization from a baseline of $207 billion by"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total SaaS revenues in a fiscal year"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attain $10 billion in non-GAAP total Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) revenues in a fiscal year"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attain non-GAAP SaaS gross margin of 80%"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Maintain non-GAAP PaaS/IaaS gross margin of at least 30% for three of the five fiscal years in the performance period"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated U.S. GAAP revenues"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated U.S. GAAP net cash flows from operating activities"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 10,
+    "plan": "long_term_incentive",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated U.S. GAAP revenues"
+   }
+  ]
+ }
+}

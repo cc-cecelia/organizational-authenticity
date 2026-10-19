@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "0a78745f3cfa1ff77e5924bb716b6e00438c9fc07408eb6bbb1f77be4f8e7e59",
+  "est_input_tokens": 24820
+ },
+ "usage": {
+  "input_tokens": 26781,
+  "output_tokens": 1166
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial results (Earnings, Cash flow, Divestiture proceeds) is one of four CIP categories weighted 40%"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u20142020 reported earnings of -$5.5 billion were significantly below Plan"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2014Chevron delivered operating cash flow of $10.6 billion in 2020, significantly below Plan."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014$2.9 billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital management | 30% | Return on capital employed (4)(5)"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for 2020 of -2.8 percent was below Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u20142020 organic C&E totaled $13.1 billion, significantly better than and exceeded"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan: Tengizchevroil FGP/WPMP \u2014Achieved milestones for module fabrication"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating performance | 15% | Net production, excluding impact of divestments"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production \u20143.131 million barrels of oil-equivalent per day in 2020, excluding divestments."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expense \u2014$25.4 billion, slightly better than Plan. Severance charges mostly offset cost savings in 2020."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining utilization \u2014Rates were intentionally below Plan by 10.6 percentage points"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, environmental, and safety | 15% | Personal safety (4,7,8)"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2014Industry-leading Total Recordable Incident rate and matched record low Serious Injury count"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Process safety and environmental \u2014Achieved record low with zero Severe Tier 1 incident count for the Company."
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Greenhouse gas management \u2014On-track to achieve oil, gas, flaring, and methane intensity reductions."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe TSR should be the primary overall pay-for-performance measure"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added a second LTIP performance share metric, Relative ROCE Improvement \u2013 linking LTIP to our focus on delivering higher returns."
+   }
+  ],
+  "equal_split": []
+ }
+}

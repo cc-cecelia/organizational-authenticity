@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "9ac855bef680ab299a7e69d04ce40a1508747ed63ee6a4b6aad380308a544a66",
+  "est_input_tokens": 21322
+ },
+ "usage": {
+  "input_tokens": 22069,
+  "output_tokens": 259
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Upon satisfaction of a threshold performance goal, each named executive may be awarded a maximum amount of incentive compensation of 0.2% of our Company's net income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2016 grants tied to Company's RORCE ranking compared to the Financial Performance Peer Group, subject to absolute performance levels"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "If our Company's three-year average RORCE is equal to or greater than the specified maximum absolute performance level, the 2016 Performance Share award would result in vesting at maximum."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "1d4d8b03c8efb73b37c517c8936661686bd1094619cafbf2b02d5eb9e9138c10",
+  "est_input_tokens": 35105
+ },
+ "usage": {
+  "input_tokens": 35865,
+  "output_tokens": 1283
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "It is our primary vehicle for recognizing company and individual performance for the prior year."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure results against the approved target"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Our Operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Our Operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The Operational Milestones and targets are also designed to create alignment within our workforce"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted ROCE is an important metric for ensuring ConocoPhillips is efficiently allocating capital"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic and ESG Milestones represent annual actions to progress our long-term objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Successfully integrating newly acquired Permian assets to capture and demonstrate value"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Demonstrating progress toward our Paris-aligned climate risk framework"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Achieving top quartile ESG performance on MSCI, ISS ESG, Bloomberg ESG and DJSI rating frameworks relative to peers"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progressing our external disposition target by completing #-#billion in dispositions in the year"
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Executing debt refinancing transactions and re-syndicating revolving credit facility"
+   },
+   {
+    "id": 15,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Successfully progressing #elements of DEI priorities and tactics."
+   },
+   {
+    "id": 16,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "In addition to the established annual milestones, the HRCC also recognized the significant efforts"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe our Operational and Financial measures and Strategic and ESG Milestones have a strong, positive correlation to TSR"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We believe it is important to include TSR in our PSP because it is the most tangible, visible measure"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSP award is calculated on a formulaic basis using a relative TSR metric and a relative Financial metric"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock-based, long-term incentives make up the largest portion of performance-based pay."
+   }
+  ],
+  "equal_split": []
+ }
+}

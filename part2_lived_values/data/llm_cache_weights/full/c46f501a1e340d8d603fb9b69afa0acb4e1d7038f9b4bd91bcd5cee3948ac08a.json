@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "c46f501a1e340d8d603fb9b69afa0acb4e1d7038f9b4bd91bcd5cee3948ac08a",
+  "est_input_tokens": 29997
+ },
+ "usage": {
+  "input_tokens": 32027,
+  "output_tokens": 1022
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Income Per Barrel | 5 th or 6 th Position | 3 rd or 4 th Position | 1 st or 2 nd Position | 6 th Position (50% of target) | 25.0%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA (b) | This is a non-GAAP performance metric."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical availability is an essential element in achieving our financial and operational objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Hess Store Conversions | Measures conversion percentages based on total (Hess and WilcoHess) store count"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The metrics below measure our success in meeting our goals for the health and safety of our employees, contractors and neighboring communities"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Measurement of MPC's success and commitment to employee safety. Goals are set annually at best-in-class industry performance"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Measures the success of MPC's ability to identify, understand and control process hazards"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Designated Environmental Incidents | Measures environmental performance and consists of tracking certain"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Quality | Measures the impact of product quality incidents and cumulative costs to MPC"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The subjective goals used to evaluate the individual performance of our NEOs and other executive officers (except for Mr. Nickerson) for 2015 fell into the following general categories"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progress on diversity initiatives"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Talent development, retention, succession and acquisition"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Enhancement of shareholder value through return of capital and unlocking midstream asset value"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee continues to believe that TSR relative to a peer group is the single best metric for our performance unit program"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MPLX Board continues to believe TUR relative to a peer group is the single best metric for its performance program"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Annual MPC LTI awards are granted in the form of performance units (40%), stock options (40%) and restricted stock (20%)."
+   }
+  ]
+ }
+}

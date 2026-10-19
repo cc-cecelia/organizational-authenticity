@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "4b5910abd886ff552a4660faeae14b392d8a17e54a607faa0ac87bb6633b1e33",
+  "est_input_tokens": 24762
+ },
+ "usage": {
+  "input_tokens": 25553,
+  "output_tokens": 799
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "At the enterprise level, we met our adjusted operational EPS goal, but operational sales and free cash flow fell below target."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "At the enterprise level, we met our adjusted operational EPS goal, but operational sales and free cash flow fell below target."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow: Free Cash Flow is the net cash from operating activities less additions to property, plant and equipment."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We performed well against key enterprise strategic objectives, which the Committee assessed at # of target."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We performed strongly against our product pipeline value and innovation platform goals."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We achieved all our key safety goals."
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We made substantial progress against our human capital management goals, including enhancing our talent pipeline and succession planning"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We partially met our diversity, equity and inclusion goals. We met key global representation levels for female VPs"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We achieved key milestones on plastics and renewable electricity initiatives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our #-#PSUs paid out at # of target. We did not adjust our goals for the impact of COVID-#."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "However, our #-#TSR compound annual growth rate performed above target."
+   }
+  ],
+  "equal_split": []
+ }
+}

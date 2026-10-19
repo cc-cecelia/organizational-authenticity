@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "2c58ac067ed4c129e9ff1473e272af483ee7ed04be7d932365975b1fa8197d2b",
+  "est_input_tokens": 11833
+ },
+ "usage": {
+  "input_tokens": 11548,
+  "output_tokens": 80
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we compensate them primarily with restricted stock unit awards that have long vesting periods, generally five years or more"
+   }
+  ],
+  "equal_split": []
+ }
+}

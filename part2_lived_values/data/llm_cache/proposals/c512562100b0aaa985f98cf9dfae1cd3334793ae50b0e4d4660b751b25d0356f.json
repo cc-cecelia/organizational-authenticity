@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001326801-19-000025",
+  "task": "proposals",
+  "section_words": 7756,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c512562100b0aaa985f98cf9dfae1cd3334793ae50b0e4d4660b751b25d0356f",
+  "est_input_tokens": 17900
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18518,
+  "output_tokens": 1170,
+  "request_id": "req_011CgC9NGcWhAGbLLvPdxavy"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan giving one vote per share for all outstanding stock, phasing out Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Independent Board Chairperson",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, amending bylaws as necessary.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Directors to be Elected by Majority Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending articles or bylaws so directors are elected by majority of votes cast, with plurality retained for contested elections.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "True Diversity Board Policy",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy to disclose board nominee minimum qualifications and each nominee's skills, ideological perspectives and experience in a matrix.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "A Content Governance Report",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report evaluating strategies and policies on content governance, including human rights, democracy, freedom of expression and related risks.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Median Gender Pay Gap",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the company's global median gender pay gap and associated policy, reputational, competitive and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our stockholders vote against this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Workforce Diversity",
+    "proponent": "not stated",
+    "topic_summary": "Requests a diversity report on programs supporting employees with differing political ideology, public policy effects on work environment, and outreach to conservative think tanks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our stockholders."
+   },
+   {
+    "item_number": "12",
+    "title": "Strategic Alternatives",
+    "proponent": "not stated",
+    "topic_summary": "Requests retaining advisors to study strategic alternatives and an independent committee to evaluate them to maximize shareholder value.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, our board of directors believes that the process contemplated by this proposal is unnecessary and recommends that our stockholders vote against this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "cabfba6ef0b0869065ae69e87b80d2033855177badc0949bdbfd970dee0073d2",
+  "est_input_tokens": 14781
+ },
+ "usage": {
+  "input_tokens": 15747,
+  "output_tokens": 2101
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Significantly exceeded a 30% direct after-tax rate of return* and 20% all-in after-tax rate of return*, in each case on $4.3 billion of total capital expenditures*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | 15% | Exceeded total production target; Achieved most unit cost targets"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "342.2 MBbld crude oil and condensate production | Achieved 336.7 MBbld crude oil and condensate production"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Balance discretionary cash flow to CAPEX plus dividend and reduce net debt-to-total capitalization ratio* below 28% | 5%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic and other operational goals, such as: | 40% | Substantially achieved"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Achieved positive non-GAAP earnings* of $648 million and ROCE* of 4.2%"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Added approximately 2,000 net premium drilling locations (an approximate 33% increase) and significant new premium net resource potential"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Reduce finding costs; | Reduced finding costs significantly from 2016 levels"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Proved two new premium exploration plays, the First Bone Spring in the Delaware Basin and the Woodford Oil Window in the Anadarko Basin"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Other strategic goals. | Closed $227 million in property sales"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our total stockholder return is measured relative to the total stockholder return of our peer companies over the three full calendar years following the grant date"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reward our Named Officers based on EOG's stock performance versus specified peer companies and our absolute stock price performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

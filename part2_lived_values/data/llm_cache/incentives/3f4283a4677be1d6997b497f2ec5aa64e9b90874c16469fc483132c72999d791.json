@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001193125-20-116317",
+  "task": "incentives",
+  "section_words": 9742,
+  "section_method": "heading",
+  "cache_key": "3f4283a4677be1d6997b497f2ec5aa64e9b90874c16469fc483132c72999d791",
+  "est_input_tokens": 20907
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24392,
+  "output_tokens": 612,
+  "request_id": "req_011CgCBfxRNG6wswuiZRYzLa"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "MIP (annual incentive) corporate performance metric",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reflects amounts earned under both MIP and LRPIP. For fiscal 2020, MIP amounts were"
+   },
+   {
+    "metric": "LRPIP three-year cash performance cycle (fiscal 2018-2020 and fiscal 2020-2022)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reflects award opportunities under the fiscal 2020-2022 LRPIP cycle discussed on p. 40 in the CD&A."
+   },
+   {
+    "metric": "EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the fiscal 2020-2022 cycle"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the fiscal 2020-2022 cycle"
+   }
+  ]
+ }
+}

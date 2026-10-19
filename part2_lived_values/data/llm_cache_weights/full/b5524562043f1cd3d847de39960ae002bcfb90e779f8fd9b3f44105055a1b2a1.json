@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "b5524562043f1cd3d847de39960ae002bcfb90e779f8fd9b3f44105055a1b2a1",
+  "est_input_tokens": 15335
+ },
+ "usage": {
+  "input_tokens": 16389,
+  "output_tokens": 1286
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Achieve 45% all-in after-tax rate of return* on total capital expenditures | 20%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve double-digit ROCE* | 15%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* and reduce net debt-to-total capitalization ratio* | 10%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "452 MBbld crude oil and condensate production | Achieved 456 MBbld crude oil and condensate production"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "812 MBoed total production | Achieved 818 MBoed total production"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "$12.42/Boe DD&A | Actual DD&A \u2013 $12.56/Boe"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "$7.66/Boe LOE & Transportation Expense | Actual LOE & Transportation Expense \u2013 $7.12/Boe"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "$1.58/Boe G&A Expenses | Actual G&A Expenses \u2013 $1.64/Boe"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 5%"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic and other operational goals, such as: | 40% | Substantially achieved"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Lower finding costs by 10% | Lowered finding costs by 12%"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Improve capital efficiency | Improved capital efficiency by 15%"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost | Reduced total well cost by 7%"
+   },
+   {
+    "id": 14,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Increase \"premium\" drilling inventory 2 times completed wells | Increased \"premium\" drilling inventory more than 2 times completed wells"
+   },
+   {
+    "id": 15,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Capture key acreage on 3 new \"premium\" oil plays | Acquired acreage on 7 new \"premium\" oil plays"
+   },
+   {
+    "id": 16,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Maintain peer leadership in product marketing and price realizations | Leader of peer group on oil, natural gas and NGL price realizations"
+   },
+   {
+    "id": 17,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record, including a reduction in methane and GHG intensity rates | Reduced recordable incident rate, oil spill rates and methane and GHG intensity rates below lowest previous levels"
+   },
+   {
+    "id": 18,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Added an annual bonus metric tied to reducing our methane and GHG intensity rates."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Increased the weighting on performance units in our long-term incentive program to 60% while reducing the weighting of SARs to 15%"
+   }
+  ],
+  "equal_split": []
+ }
+}

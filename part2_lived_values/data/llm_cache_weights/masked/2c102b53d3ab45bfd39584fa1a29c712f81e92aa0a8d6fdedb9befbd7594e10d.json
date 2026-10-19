@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "2c102b53d3ab45bfd39584fa1a29c712f81e92aa0a8d6fdedb9befbd7594e10d",
+  "est_input_tokens": 30709
+ },
+ "usage": {
+  "input_tokens": 31206,
+  "output_tokens": 1279
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue (Non-GAAP) listed as a primary financial metric in CEO annual bonus formula"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Gross Margin [w] (Non-GAAP) is a component of the annual cash bonus formula with its own rationale in metrics table"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee decided to add a new spend reduction performance metric to align the Annual Cash Bonus Plan with our cost-saving strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our # Intel operational goals are established to reflect these critical business priorities and leading indicators"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Rebuild Financial Strength and Predictability Goals related to rebuilding our financial stability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Deliver on Product Leadership Goals related to product leadership, platform differentiation"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Scale Growth Engines: Artificial Intelligence, Network/Edge, Graphics (Gfx)/High Performance Computing (HPC), Software (SW) Goals related to our # Technology Superpowers"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Regain Process Leadership Goals related to the execution of IDM #, which is the next evolution"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Accelerate and be known for our Execution Excellence and Groveian culture Goals related to attracting, developing, and retaining top talent"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Creating more responsible, inclusive, and sustainable future enabled by technology and our collective actions Goals related to building a diverse, inclusive, and safe work environment"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive adoption of inclusive business practices in support of our RISE #goals"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Demonstrate sustainability leadership"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Deliver sustainability-optimized leadership products"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive diverse, sustainable supply chains and resiliency practices"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Goals or \"objectives and key results\" (OKRs) were included in the Annual Cash Bonus Plan (other than for our CEO) for the first time"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee sets the goals for the revenue growth [w] and CFFO financial metrics annually"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash flow from operations ([w] #)"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year relative TSR modifier relative to S&P #Index (+/- #[w] points (ppts))"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year Revenue CAGR modifier (+/- #ppts)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "The # Intel operational goals ... fall into # categories"
+   }
+  ]
+ }
+}

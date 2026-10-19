@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "e5f965a7b03cb31c6abdac6755ae56208a22c77eab902a3169e48d8b000af0a5",
+  "est_input_tokens": 34260
+ },
+ "usage": {
+  "input_tokens": 34905,
+  "output_tokens": 1003
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted net revenue and adjusted operating income goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted net revenue and adjusted operating income goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The remaining # of the overall Annual Incentive Bonus Plan payout for fiscal #is based on what we call the \"individual performance factor\" or \"IPF\""
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "People-positive goals whose achievement will vary by participant, and include inclusion and diversity goals"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "BIPOC Retention Rate*: \u2265# Mentorship Program"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mentorship Program: Serve as a mentor to BIPOC mentees with a meaningful time commitment"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Inclusive Leadership Survey linked to Mentorship Program: Average score"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Planet-positive environmental goals, which align with our long-term environmental goals"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Dairy: farm-level methane reduction"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Packaging: eliminate plastic straws"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Objective company profit-positive goals, including comparable store sales, net new stores, and operating margin"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Operating Margin: #"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Comparable Store Sales: #"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Total Company Net New Stores: #"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Goals specific to each individual participant related to our Mission and Values and strategic and operational goals"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs, where the number of shares earned is based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of # based on relative TSR performance"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an additional downward or upward adjustment of up to # based on achievement of inclusion and diversity goals"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "e822214861e1810b6b903c90910772c74267d59b87f4204d35af7c7464e0aea4",
+  "est_input_tokens": 31687
+ },
+ "usage": {
+  "input_tokens": 31973,
+  "output_tokens": 794
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Year-Over-Year Net Income Growth (#/#)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Net Income Growth vs. Tech #peers (#/#)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Beginning for #we are adding more rigor by replacing the financial metrics for the Annual Cash Bonus Plan with revenue and net income"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver Financial Commitments. Goals based on #revenue, adjusted gross margin"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Product Execution. Goals related to key milestones for #and future products, and design excellence"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Manufacturing Leadership. Goals related to current and future manufacturing processes"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Big Bets. Business and product goals in areas such as AI, networking/#G, and the intelligent edge"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Cultural Transformation. Goals related to quantitative improvements in the areas of employee engagement and customer experience"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Environmental. Goals related to increasing our global renewable energy use and water conservation and restoration"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity & Inclusion. Goals related to global inclusive hiring practices, including manager training"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the primary driver of long-term performance and to incentivize their focus on execution of our business priorities"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cumulative EPS Growth compared to a target established at the beginning of the #-year performance period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Stock Price Appreciation (Strategic Growth Equity Awards)"
+   }
+  ],
+  "equal_split": []
+ }
+}

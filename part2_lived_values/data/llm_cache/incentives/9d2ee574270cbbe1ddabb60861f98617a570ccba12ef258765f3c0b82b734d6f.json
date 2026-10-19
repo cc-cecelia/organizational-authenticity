@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0000320187-18-000144",
+  "task": "incentives",
+  "section_words": 9160,
+  "section_method": "heading",
+  "cache_key": "9d2ee574270cbbe1ddabb60861f98617a570ccba12ef258765f3c0b82b734d6f",
+  "est_input_tokens": 19928
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24053,
+  "output_tokens": 891,
+  "request_id": "req_011CgCBRVbRXnJNrTDyg6Wb3"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Income before income taxes (PTI)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also established a series of performance targets based on our income before income taxes (\"PTI\") for fiscal 2018"
+   },
+   {
+    "metric": "Individual or Company performance, viewed holistically (Committee discretion)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Committee's discretion to reduce or eliminate any award based on Company or individual performance, viewed holistically"
+   },
+   {
+    "metric": "Cumulative revenues",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\") for the performance period"
+   },
+   {
+    "metric": "Cumulative diluted earnings per common share (EPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Participants will receive a payout at the average of the percentage levels at which the two performance targets are met"
+   },
+   {
+    "metric": "Cumulative revenue growth (Performance-Based RSUs, five-year period)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "subject to performance vesting based on cumulative revenue growth and cumulative EPS growth over a five-year performance period"
+   },
+   {
+    "metric": "Cumulative EPS growth (Performance-Based RSUs, five-year period)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "subject to performance vesting based on cumulative revenue growth and cumulative EPS growth over a five-year performance period"
+   }
+  ]
+ }
+}

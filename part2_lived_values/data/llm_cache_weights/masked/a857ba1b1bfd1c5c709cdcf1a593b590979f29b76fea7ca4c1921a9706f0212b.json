@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "a857ba1b1bfd1c5c709cdcf1a593b590979f29b76fea7ca4c1921a9706f0212b",
+  "est_input_tokens": 19815
+ },
+ "usage": {
+  "input_tokens": 22602,
+  "output_tokens": 618
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue* | Operating Income* | Cash Flows from Operations*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Income* | \u200b | #/#| \u200b | #billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash Flows from Operations* | \u200b | \u200b | #billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter Score \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Enhance customer service and increase the Company's net promoter score across all business platforms"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels for Employee Engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "at threshold for Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "individual performance evaluation was conducted by Mr. Hemsley with input from the independent members of the Board of Directors"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the #-#AEPS and ROE goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factors considered by the Compensation Committee in the determination of the long-term cash incentive award amounts were achievement of the #-#AEPS and ROE goals"
+   }
+  ],
+  "equal_split": []
+ }
+}

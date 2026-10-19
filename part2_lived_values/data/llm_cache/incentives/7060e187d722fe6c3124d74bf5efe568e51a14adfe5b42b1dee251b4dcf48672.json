@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001564590-21-045926",
+  "task": "incentives",
+  "section_words": 6656,
+  "section_method": "heading",
+  "cache_key": "7060e187d722fe6c3124d74bf5efe568e51a14adfe5b42b1dee251b4dcf48672",
+  "est_input_tokens": 15264
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16214,
+  "output_tokens": 1814,
+  "request_id": "req_011CgCBALrthNkAcBAY5ZP1h"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "market capitalization milestone for such tranche, which begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "metric": "Total Revenue operational milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "metric": "Adjusted EBITDA operational milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "metric": "Market capitalization increase milestones (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "metric": "Model X or Model 3 development operational milestone (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Aggregate vehicle production operational milestone (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Gross margin target operational milestone (2012 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "requiring that Tesla achieve gross margin of 30% or more for four consecutive quarters"
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "6d9c6f63e5a73476649b687b0242180ff88a30ef33e96337aa8546e7b5cf08fa",
+  "est_input_tokens": 17776
+ },
+ "usage": {
+  "input_tokens": 19471,
+  "output_tokens": 2083
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The LDC Committee aligned the weighting of the sales and operating profit goals to emphasize top line sales growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "reflecting performance slightly below target for the inventory turns goal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Fiscal 2016-2018 performance share award provides for the grant of shares of our common stock at the end of a three-year period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "forfeitable if operating profit was less than 90% of the MIP target"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

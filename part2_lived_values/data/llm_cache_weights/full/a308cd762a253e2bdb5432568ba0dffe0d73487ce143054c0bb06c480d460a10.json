@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "a308cd762a253e2bdb5432568ba0dffe0d73487ce143054c0bb06c480d460a10",
+  "est_input_tokens": 14169
+ },
+ "usage": {
+  "input_tokens": 14367,
+  "output_tokens": 1611
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "in order to satisfy all eight revenue-based operational milestones, Tesla would have to increase revenue by more than $163 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "one other operational milestone relating to $1.5 billion Adjusted EBITDA has been achieved but is subject to formal certification by the Board"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production, or a gross margin target"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production, or a gross margin target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "requiring gross margin of 30% or more for four consecutive quarters, has not been achieved and remains outstanding"
+   }
+  ],
+  "equal_split": []
+ }
+}

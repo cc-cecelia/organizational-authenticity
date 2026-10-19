@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "d27bf70c3a3084a50515ad59c1bfec80e3234d1eae94be6debf59b92b8efe754",
+  "est_input_tokens": 35302
+ },
+ "usage": {
+  "input_tokens": 34661,
+  "output_tokens": 384
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected adjusted EPS and cash flow generation as the absolute measures upon which to base the financial portion of our NEOs' annual cash incentive payout opportunity"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee also believed the metric should encourage management to pursue its strategy of divesting certain non-core businesses"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our NEOs' key personal objectives are approved early in the fiscal year."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a three-year ROCE performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a two-year FCF conversion performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Under this modifier, the number of shares that our NEOs would earn will be reduced by"
+   }
+  ],
+  "equal_split": []
+ }
+}

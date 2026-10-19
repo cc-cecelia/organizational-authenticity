@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "e084f0ce509860ca6f7e2005b1cf9a81e0e98fc5c2f2fad1b56f5eb21b2ee70f",
+  "est_input_tokens": 19544
+ },
+ "usage": {
+  "input_tokens": 22500,
+  "output_tokens": 580
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | \u200b | #/#| \u200b | #billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | \u200b | #/#| \u200b | #billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | \u200b | \u200b | #billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction, which was between threshold and target performance levels."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "helping achieve record high levels of employee engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Employee Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual factors considered are as follows:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factor considered by the Compensation Committee in the determination of the long-term cash incentive award amounts was achievement of #-#long-term incentive plan EPS and ROE"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity | \u200b | \u200b | # | \u200b | \u200b | # | \u200b"
+   }
+  ],
+  "equal_split": []
+ }
+}

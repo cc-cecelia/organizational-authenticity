@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "7d926e49d0fc41effc36311f64907e9ed00d7908386eac1e57b1af9ba5035fc1",
+  "est_input_tokens": 25820
+ },
+ "usage": {
+  "input_tokens": 26233,
+  "output_tokens": 1022
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We exceeded our 2023 Enterprise financial goals, which were achieved at 130.5% of target."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Our operational sales and adjusted operational EPS Enterprise financial targets align with the guidance we provided to the investment community."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Our operational sales and adjusted operational EPS Enterprise financial targets align with the guidance we provided to the investment community."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We set our 2023 free cash flow goal considering: Our productivity in generating free cash flow from net income."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We also performed well against key Enterprise strategic objectives, which the Compensation & Benefits Committee assessed at 130.0% of target."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Critical business objectives | \u2022 We continued to grow market share in our key platforms and met or exceeded our supply chain goals."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Enabling our purpose | \u2022 We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "We exceeded our human capital management goals, enhancing our talent pipeline and succession planning"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "We exceeded our global sustainability goals and continued to advance our efforts to fight global public health challenges"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "continued to advance our efforts to fight global public health challenges and champion diversity in clinical trials."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings per share: three-year cumulative adjusted operational EPS. Relative total shareholder return (TSR): three-year compound annual growth rate versus the competitor composite peer group."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "1/2 Relative total shareholder return (TSR): three-year compound annual growth rate versus the competitor composite peer group."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Ties PSU value directly to the share price."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 11,
+    "plan": "long_term_incentive",
+    "evidence": "1/2 Earnings per share: three-year cumulative adjusted operational EPS. 1/2 Relative total shareholder return (TSR)"
+   }
+  ]
+ }
+}

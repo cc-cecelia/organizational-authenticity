@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "17997db2ab15916a886037508a8f53fffdb275e85a6572de763e2ad47218e974",
+  "est_input_tokens": 18915
+ },
+ "usage": {
+  "input_tokens": 22457,
+  "output_tokens": 518
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-GAAP Income Before Taxes"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Platform Revenue, Operating Margin, and Return on Assets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the equity, equality, diversity, and inclusion (EEDI) strategy"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Based on non-GAAP performance measures such as: \u2014 Income before taxes \u2014 Platform revenue \u2014 Operating margin \u2014 Return on assets \u2014 Strategic and leadership goals"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "80% Performance shares and performance-vested restricted stock"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR is measured over a 3 \u2010 year performance period and used as a modifier"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-Vested Restricted Stock (40% of total LTI award) \u2014These awards have the potential to vest at 0% to 200% of target"
+   }
+  ],
+  "equal_split": []
+ }
+}

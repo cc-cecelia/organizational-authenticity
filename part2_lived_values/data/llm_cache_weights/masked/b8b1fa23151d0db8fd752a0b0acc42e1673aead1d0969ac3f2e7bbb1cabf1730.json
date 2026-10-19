@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "b8b1fa23151d0db8fd752a0b0acc42e1673aead1d0969ac3f2e7bbb1cabf1730",
+  "est_input_tokens": 23536
+ },
+ "usage": {
+  "input_tokens": 24704,
+  "output_tokens": 997
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each category is assigned a [w] factor, with # of the award opportunity dependent on BlackRock's financial performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "dependent on BlackRock's business strengths"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "dependent on BlackRock's organizational strengths"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Financial Performance | Business Strength | Organizational Strength"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 Net New Base Fees"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Organic Revenue growth is a measure of the expected annual revenue impact of BlackRock's total net new business"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating Income, as adjusted (#) ($m)"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating Margin, as adjusted (#)"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Diluted Earnings Per Share, as adjusted (#)"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Total Shareholder Return and P/E Multiple"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Deliver Superior Client Experience"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Drive Organization Discipline"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Lead in a Changing World"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Drive High Performance"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Build a More Diverse and Inclusive Culture"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Develop Great Managers and Leaders"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on the level of attainment of pre-established Organic Revenue and operating margin, as adjusted, targets"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to # key drivers of shareholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "BPIP is tied to # key drivers of shareholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   }
+  ]
+ }
+}

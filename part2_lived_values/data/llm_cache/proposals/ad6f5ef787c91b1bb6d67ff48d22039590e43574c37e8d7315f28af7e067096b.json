@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000247",
+  "task": "proposals",
+  "section_words": 5117,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ad6f5ef787c91b1bb6d67ff48d22039590e43574c37e8d7315f28af7e067096b",
+  "est_input_tokens": 11919
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13275,
+  "output_tokens": 713,
+  "request_id": "req_011CgCAozTkaWeyJfLXN9ztt"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Special Shareholder Meeting Improvement - Proposal 5",
+    "proponent": "John Chevedden",
+    "topic_summary": "Amend governing documents to give owners of a combined 10% of outstanding common stock the power to call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, the Board of Directors recommends that Abbott's shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Independent Board Chairman - Proposal 6",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Adopt policy requiring separate Chairman and CEO, with the Chairman being an independent director whenever possible.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "For these reasons, the Board of Directors recommends that Abbott's shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Lobbying Disclosure",
+    "proponent": "The Province of Saint Joseph of the Capuchin Order and Proxy Impact, on behalf of Hilary E. Van Dusen",
+    "topic_summary": "Prepare annual report disclosing lobbying policies, payments for direct, indirect and grassroots lobbying, trade association payments, and oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that Abbott's shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Incentive Compensation",
+    "proponent": "Shareholder Association for Research & Education, on behalf of HLB Investments ULC",
+    "topic_summary": "Adopt policy that no financial performance metric be adjusted to exclude legal or compliance costs when determining senior executive incentive awards.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "For these reasons, the Board of Directors recommends that Abbott's shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

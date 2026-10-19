@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0000200406-22-000026",
+  "task": "proposals",
+  "section_words": 21273,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0f03d05947e1eb54e15dba2b1ed5630064427126c0a438e95a2f4c636948c48e",
+  "est_input_tokens": 50794
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 49451,
+  "output_tokens": 1808,
+  "request_id": "req_011CgCAc7zr6eMCZfgnvSJgs"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal - Federal Securities Laws Mandatory Arbitration Bylaw",
+    "proponent": "Hal Scott/The Doris Behr 2012 Irrevocable Trust, Harvard Law School",
+    "topic_summary": "Adopt a mandatory arbitration bylaw for federal securities law claims, barring class actions, with a five-year sunset provision.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal - Civil Rights, Equity, Diversity & Inclusion Audit Proposal",
+    "proponent": "National Center for Public Policy Research (NCPPR)",
+    "topic_summary": "Commission a racial equity audit of the company's impacts on civil rights, equity, diversity and inclusion, and publicly disclose a report.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2013 Third Party Racial Justice Audit",
+    "proponent": "Mercy Investment Services (Sisters of Mercy of the Americas)",
+    "topic_summary": "Oversee a third-party racial justice audit assessing racial impacts of policies, practices and products, with a published report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons"
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal \u2013 Report on Government Financial Support and Access to COVID-19 Vaccines and Therapeutics",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Report on whether government financial support for COVID-19 products is considered in conduct affecting access, such as pricing.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal \u2013 Report on Public Health Costs of Protecting Vaccine Technology",
+    "proponent": "Harrington Investments",
+    "topic_summary": "Commission a report on public health costs of limited sharing of COVID-19 vaccine technology and effects on shareholder market returns.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal"
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal \u2013 Discontinue Global Sales of Baby Powder Containing Talc",
+    "proponent": "Tulipshare Ltd./Laurent Ritter",
+    "topic_summary": "Recommend that the company discontinue global sales of its talc-based Baby Powder.",
+    "category": "safety",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal \u2013 Request for Charitable Donations Disclosure",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Publish semi-annual report itemizing charitable donations above $999 by recipient, with giving policies and decision personnel.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal - Third Party Review and Report on Lobbying Activities Alignment with Position on Universal Health Coverage",
+    "proponent": "Share/HLB Investments ULC",
+    "topic_summary": "Commission third-party review of whether lobbying aligns with the company's Universal Health Coverage position and report on risk mitigation.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Shareholder Proposal \u2013 Adopt Policy to Include Legal and Compliance Costs in Incentive Compensation Metrics",
+    "proponent": "State of Vermont - Vermont Pension Investment Commission",
+    "topic_summary": "Adopt policy barring exclusion of legal or compliance costs from financial metrics used in senior executive incentive awards.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "14",
+    "title": "Shareholder Proposal \u2013 CEO Compensation to Weigh Workforce Pay and Ownership",
+    "proponent": "Myra K. Young, c/o John Chevedden",
+    "topic_summary": "Have the Compensation Committee consider pay grades and stock ownership incentives of all U.S. employees when setting CEO pay targets.",
+    "category": "employees",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

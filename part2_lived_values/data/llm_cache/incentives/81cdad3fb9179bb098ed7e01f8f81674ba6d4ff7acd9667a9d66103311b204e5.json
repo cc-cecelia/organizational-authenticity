@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001140361-23-007640",
+  "task": "incentives",
+  "section_words": 9518,
+  "section_method": "heading",
+  "cache_key": "81cdad3fb9179bb098ed7e01f8f81674ba6d4ff7acd9667a9d66103311b204e5",
+  "est_input_tokens": 19760
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23942,
+  "output_tokens": 1248,
+  "request_id": "req_011CgC9V3dbgt6X1rSDfmuRL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative TSR (PSU Multi-Year Awards, four overlapping performance periods)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The table below sets forth the Relative TSR attainment and the number of shares earned for the completed performance period"
+   },
+   {
+    "metric": "Absolute TSR (PSU awards, modifier as to not negative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "provided that no shares will be earned if our Relative TSR is below the 25th percentile of the S&P 500 Index"
+   },
+   {
+    "metric": "Relative TSR and absolute TSR (FY 2022 TSR PSU Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The FY 2022 TSR PSU Award is earned based on our Relative TSR and absolute TSR performance measured over the period of November 1, 2021 through November 3, 2024"
+   },
+   {
+    "metric": "Corporate strategy, acquisition strategy and leadership development milestones (FY 2022 Strategic PSU Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the achievement of pre-approved metrics and milestones related to corporate strategy, acquisition strategy and leadership development"
+   },
+   {
+    "metric": "Stock price performance milestones ($825, $950, $1,125 average closing price) (FY 2023 PSU Awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "One-third of the shares subject to the FY 2023 PSU Awards will be earned for each per share stock price hurdle attained"
+   },
+   {
+    "metric": "Annual cash incentive corporate goal(s) (APB Plan)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "calculated based on the achievement of a single corporate goal at 50% of the target for such goal"
+   },
+   {
+    "metric": "Divisional goal (APB Plan, Ms. Spears and Mr. Brazeal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "calculated based on the achievement of a single corporate or divisional goal at 25% of the target for such goal"
+   },
+   {
+    "metric": "Individual performance multiplier (APB Plan)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with the individual performance multiplier of 50%"
+   }
+  ]
+ }
+}

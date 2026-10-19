@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "738beb780d9390d3cb6372357827f139994aeaaf15ce627ef71ee5cf8b1d44f6",
+  "est_input_tokens": 34835
+ },
+ "usage": {
+  "input_tokens": 34419,
+  "output_tokens": 1264
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Everything we do depends on safely executing our business plans and operating to high standards of HSE stewardship. We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial metrics in our compensation programs strongly align with our returns-focused strategy and are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic and ESG Milestones represent specific actions that are critical to implementing our strategy and aligning our workforce."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our success."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and absolute Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure the achievement of production results against the approved target."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions that support delivery of our plan."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis, as well as relative to peers."
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Successfully integrated Concho and demonstrated an annual run rate of #billion of sustainable cost and capital reductions"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "demonstrated progress toward Paris-aligned climate risk framework by improving GHG emissions reduction targets"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "achieved top quartile ESG performance on credible rating frameworks"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "In addition, we included a DE&I milestone to increase internal and external transparency of DE&I metrics."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR has a higher [w] in the PSP to more closely align with stockholder performance benchmarks"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PSP award is calculated on a formulaic basis and comprised of a relative TSR metric and a relative Financial metric"
+   },
+   {
+    "id": 17,
+    "parent_id": 16,
+    "emphasis": 2,
+    "evidence": "For PSP, our Financial compensation measure includes Adjusted ROCE, and for PSPs commencing prior to #Adjusted CROCE, relative to peers."
+   },
+   {
+    "id": 18,
+    "parent_id": 16,
+    "emphasis": 1,
+    "evidence": "For PSPs commencing in #the HRCC removed Adjusted CROCE to simplify the performance metrics for PSP"
+   }
+  ],
+  "equal_split": []
+ }
+}

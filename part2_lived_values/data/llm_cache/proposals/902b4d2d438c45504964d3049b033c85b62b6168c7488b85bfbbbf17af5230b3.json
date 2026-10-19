@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001193125-17-083591",
+  "task": "proposals",
+  "section_words": 9290,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "902b4d2d438c45504964d3049b033c85b62b6168c7488b85bfbbbf17af5230b3",
+  "est_input_tokens": 20942
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21652,
+  "output_tokens": 1345,
+  "request_id": "req_011CgC9uheWgRnRpLi6v9ee1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Retail Banking Sales Practices Report",
+    "proponent": "The Sisters of St. Francis of Philadelphia, Friends Fiduciary Corporation, American Baptist Home Mission Society, Benedictine Sisters of Mount St. Scholastica, Benedictine Sisters of Virginia, Sisters of the Holy Name of Jesus and Mary U.S. \u2013 Ontario Province, Benedictine Sisters of Baltimore, Calvert Investment Management, Inc., Missionary Oblates of Mary Immaculate, The Employees' Retirement System of Rhode Island, The Boston Trust & Walden Funds, Mercy Investment Services, Inc., Dominican Sisters of Hope, Board of Pensions of the Presbyterian Church (USA), United Church Funds, Rockefeller Asset Management, Northwest & Ethical Investments L.P., Maryknoll Sisters of St. Dominic, Inc., Dominican Sisters of Springfield, IL, and California Reinvestment Coalition",
+    "topic_summary": "Requests a comprehensive report on root causes of fraudulent retail banking sales activity and steps to improve risk management and control processes.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 5 on the proxy card"
+   },
+   {
+    "item_number": "6",
+    "title": "Cumulative Voting",
+    "proponent": "Gerald R. Armstrong",
+    "topic_summary": "Requests the Board provide for cumulative voting in director elections so shareholders may cumulate votes for nominees.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 6 on the proxy card"
+   },
+   {
+    "item_number": "7",
+    "title": "Divesting Non-Core Business Report",
+    "proponent": "Bartlett Naylor",
+    "topic_summary": "Requests study sessions and a public report on whether divesting non-core banking business segments would enhance shareholder value.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 7 on the proxy card"
+   },
+   {
+    "item_number": "8",
+    "title": "Gender Pay Equity Report",
+    "proponent": "Arjuna Capital, on behalf of Julia Bamburg and Judith Bamburg, as trustees of the Harold B. Bamburg Revocable Trust",
+    "topic_summary": "Requests a report on policies and goals to reduce the gender pay gap, including pay gap percentages and reduction targets.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 8 on the proxy card"
+   },
+   {
+    "item_number": "9",
+    "title": "Lobbying Report",
+    "proponent": "The Nathan Cummings Foundation",
+    "topic_summary": "Requests annual report disclosing direct and indirect lobbying policies, payments, grassroots lobbying, and trade association memberships and oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 9 on the proxy card"
+   },
+   {
+    "item_number": "10",
+    "title": "Indigenous Peoples' Rights",
+    "proponent": "Sum of Us, on behalf of Linda Ferich, Holly Kooistra, Philip Katz, Laura Rea and Stanley Tomkiel",
+    "topic_summary": "Requests a global policy on indigenous peoples' rights, including free, prior and informed consent for WFC financing, posted by May 2018.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote against this proposal, which is identified as Item 10 on the proxy card"
+   }
+  ]
+ }
+}

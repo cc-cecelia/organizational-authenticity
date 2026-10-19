@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "7abc724f6e74b610d1dc9f70446f61f7b0a0673471b58be538e706b43403a828",
+  "est_input_tokens": 17862
+ },
+ "usage": {
+  "input_tokens": 19728,
+  "output_tokens": 428
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We use a number of the financial metrics highlighted above, which drive shareholder value, as the key performance metrics in our compensation programs."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Inventory Turns | 20% | 4.56 | 90% | 10% | 5.07 | 6.08 | 120% | 200%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating profit \u2013 restricted stock is forfeited if Fiscal 2017 operating profit is not at least 90% of the MIP target"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

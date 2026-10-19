@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "68a8b41da0002a18aa5477e55eaa6902849dcc3389c18b2822787f7d51145790",
+  "est_input_tokens": 22671
+ },
+ "usage": {
+  "input_tokens": 23160,
+  "output_tokens": 522
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee set the # Fiscal Year #corporate performance goals \u2013 revenue and adjusted non-GAAP operating margin"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee set the # Fiscal Year #corporate performance goals \u2013 revenue and adjusted non-GAAP operating margin"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Represents direct expenses of the division or function, as applicable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Bookings (#) | #"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (#) | #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (#) | #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final payouts under the APB Plan included the effect of a non-subjective individual performance multiplier applied judiciously"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on our TSR performance as compared to the S&P #(\"Relative TSR\") over such periods"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on our Relative TSR and absolute TSR performance over # overlapping performance periods"
+   }
+  ],
+  "equal_split": []
+ }
+}

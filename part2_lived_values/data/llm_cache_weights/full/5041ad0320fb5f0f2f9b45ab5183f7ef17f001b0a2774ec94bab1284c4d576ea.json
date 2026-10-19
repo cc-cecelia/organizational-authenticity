@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "5041ad0320fb5f0f2f9b45ab5183f7ef17f001b0a2774ec94bab1284c4d576ea",
+  "est_input_tokens": 19535
+ },
+ "usage": {
+  "input_tokens": 19875,
+  "output_tokens": 348
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Short-term (annual) incentives depend on the achievement of two financial performance metrics \u2013 Net Operating Profit After Tax (NOPAT) and Capital Charge."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net Operating Profit After Taxes \u2013 Capital Charge = CVA"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Balances two financial performance metrics, which measure how successfully we: 1) maximize profit while 2) minimizing capital investments."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee also considers other business performance factors that are important to our shareholders, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "especially the use of ROCE as the primary performance measure in our long-term incentive program."
+   }
+  ],
+  "equal_split": []
+ }
+}

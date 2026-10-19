@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000414",
+  "task": "proposals",
+  "section_words": 777,
+  "section_method": "resolved_windows",
+  "cache_key": "6e509cc4cbed4ccf13a70488c7d9a4154ac26713a5cc706f6cdd8aae7e2bdca8",
+  "est_input_tokens": 2017
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3445,
+  "output_tokens": 11,
+  "request_id": "req_011CgCCS9Zomxg1tYp59dGkC"
+ },
+ "result": {
+  "proposals": []
+ }
+}

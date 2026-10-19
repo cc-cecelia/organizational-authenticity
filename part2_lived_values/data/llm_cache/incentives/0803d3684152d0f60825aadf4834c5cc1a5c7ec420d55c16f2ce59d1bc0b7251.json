@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001193125-22-003583",
+  "task": "incentives",
+  "section_words": 5619,
+  "section_method": "heading",
+  "cache_key": "0803d3684152d0f60825aadf4834c5cc1a5c7ec420d55c16f2ce59d1bc0b7251",
+  "est_input_tokens": 13330
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14254,
+  "output_tokens": 616,
+  "request_id": "req_011CgC9BwCfugnVxppxhERix"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee chose net sales and operating income, calculated in accordance with generally accepted accounting principles, as the financial performance measures"
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts ... are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures"
+   },
+   {
+    "metric": "ESG Modifier (Apple values and key community initiatives: accessibility, education, environment, inclusion and diversity, privacy, and supplier responsibility)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee may choose to apply the ESG Modifier to adjust the payout amounts upwards or downwards by up to 10% or determine not to make any adjustments."
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest depends entirely on Apple's total shareholder return relative to the other companies in the S&P 500"
+   }
+  ]
+ }
+}

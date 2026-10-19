@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "4f62558f0ff0c156fdaeb947f52d4d82ad647b165453d9c4a6976f92c882939d",
+  "est_input_tokens": 18718
+ },
+ "usage": {
+  "input_tokens": 21634,
+  "output_tokens": 1565
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures Abbott's ability to compete effectively in the markets in which we participate and focuses management on achieving strong top-line growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures Abbott's ability to deliver profitable growth, contributing to strong shareholder returns."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures profitability and how effectively Company assets are used to generate profit."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Recognizes the importance of generating cash to fund ongoing investments in our business and to pay down debt"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care Sales Growth"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "EPD and Nutrition Sales Growth"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Meet talent, succession planning, and diversity targets."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest # each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Used to position LTI award guidelines relative to the market."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic financial contribution goals."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Margin Contribution"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Financial Contribution"
+   }
+  ],
+  "equal_split": []
+ }
+}

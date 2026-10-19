@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-021792",
+  "task": "incentives",
+  "section_words": 9568,
+  "section_method": "heading",
+  "cache_key": "91dbd35a89de6c833537011e0cba9bb6a7be336381d90c5a02ccb2363334118c",
+  "est_input_tokens": 21511
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23974,
+  "output_tokens": 661,
+  "request_id": "req_011CgCBV1Kvre65eRDAjKRH8"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Net Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For Messrs. Schultz, Johnson, Maw, Burrows and Mutty and Ms. Helm, 50% of their EMBP award was based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "metric": "Adjusted Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For Messrs. Schultz, Johnson, Maw, Burrows, Mutty and Ms. Helm, 50% of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PRSUs vest based on two-year EPS performance against pre-established targets, subject to downward adjustment based on ROIC"
+   },
+   {
+    "metric": "Return on Invested Capital",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the target ROIC goal under the PRSUs is not met, the number of PRSUs to be delivered based on achievement of the adjusted EPS goal will be adjusted downward by as much as 50%."
+   }
+  ]
+ }
+}

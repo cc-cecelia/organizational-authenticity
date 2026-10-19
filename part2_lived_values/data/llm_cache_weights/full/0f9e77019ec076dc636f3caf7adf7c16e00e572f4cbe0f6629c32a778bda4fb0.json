@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "0f9e77019ec076dc636f3caf7adf7c16e00e572f4cbe0f6629c32a778bda4fb0",
+  "est_input_tokens": 24493
+ },
+ "usage": {
+  "input_tokens": 24638,
+  "output_tokens": 821
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company Performance | \u2022 Reflects a wide range of financial and non-financial metrics, with performance assessed on both an absolute and relative basis"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance | \u2022 Reflects execution against strategic deliverables and initiatives, as well as business line results"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk Accountability (Risk Overlay) | \u2022 Reflects effectiveness of each named executive in risk management specific to the named executive's role"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Beginning for 2020, individual performance takes into account progress against diversity initiatives"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Financial metrics include, among others, revenue, expenses, returns, profitability, deposits, and capital returned to shareholders"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "nonfinancial metrics include business performance metrics such as Company progress against regulatory deliverables and strategic plan"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payout level based on ROTCE"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our relative total shareholder return (TSR) performance will continue to limit payout if it lags median peer performance."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For any year in the three-year performance period that our Company incurs a Net Operating Loss (NOL), the target number of Performance Shares will be reduced by one-third."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual Performance also includes leadership, investment in employees, succession planning, and enhancements to our culture"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Overlays across other performance ratings to reflect risk failures, including misconduct"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Awarded majority of incentive compensation in long-term equity (for 2020, long-term equity split evenly between Restricted Share Rights (RSRs) and Performance Share Awards (PSAs))"
+   }
+  ]
+ }
+}

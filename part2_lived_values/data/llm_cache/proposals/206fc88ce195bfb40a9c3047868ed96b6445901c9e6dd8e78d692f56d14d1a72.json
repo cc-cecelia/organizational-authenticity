@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001140361-21-010999",
+  "task": "proposals",
+  "section_words": 7219,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "206fc88ce195bfb40a9c3047868ed96b6445901c9e6dd8e78d692f56d14d1a72",
+  "est_input_tokens": 15956
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16981,
+  "output_tokens": 409,
+  "request_id": "req_011CgCCDqq8Da4RjwBvsQHS5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING GHG EMISSIONS TARGETS",
+    "proponent": "not stated",
+    "topic_summary": "Asks the Company to set and publish GHG emissions reduction targets covering operations and energy products (Scope 1, 2 and 3) and report on progress annually.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" PROPOSAL 5."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING REPORT ON CLIMATE LOBBYING",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report evaluating whether the Company's direct and trade association lobbying aligns with the Paris Climate Agreement goal and addressing misaligned lobbying risks.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" PROPOSAL 6."
+   }
+  ]
+ }
+}

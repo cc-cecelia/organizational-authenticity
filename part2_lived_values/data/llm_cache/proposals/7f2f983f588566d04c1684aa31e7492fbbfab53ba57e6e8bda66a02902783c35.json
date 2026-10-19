@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001140361-20-006834",
+  "task": "proposals",
+  "section_words": 5059,
+  "section_method": "resolved_windows",
+  "cache_key": "7f2f983f588566d04c1684aa31e7492fbbfab53ba57e6e8bda66a02902783c35",
+  "est_input_tokens": 10538
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12239,
+  "output_tokens": 385,
+  "request_id": "req_011CgCAzMZ2kiJ2DtminKgvE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4\u2014 Shareholder Proposal on the Adoption of a Board Policy that the Chairperson of the Board be an Independent Director",
+    "proponent": "The Sisters of St. Francis of Philadelphia",
+    "topic_summary": "Requests a board policy requiring the Chair of the Board, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" the proposal for the following reasons."
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Shareholder Proposal on Shareholder Right to Act by Written Consent",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests the board permit shareholders holding the minimum votes needed to act at a fully attended meeting to act by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" the proposal for the following reasons."
+   }
+  ]
+ }
+}

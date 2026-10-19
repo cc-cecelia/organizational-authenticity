@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "8230cb1cfa839a375b461b006dc6af3489879521b074c98248187ab475c50faa",
+  "est_input_tokens": 25031
+ },
+ "usage": {
+  "input_tokens": 25285,
+  "output_tokens": 893
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Operating Profit After-Taxes (NOPAT) and Asset Turns. The Compensation Committee selected these metrics because they are key financial measures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Operating Profit After-Taxes (NOPAT) and Asset Turns. The Compensation Committee selected these metrics because they are key financial measures"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Board chose GHG emissions reduction performance because it is our top sustainable energy strategic priority."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Board chose DE&I because it is a core pillar of our strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Convert North America hydraulic fracturing fleet to lower emission footprint"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce North America hydraulic fracturing GHG emissions intensity"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Automate sustainability label creation in ESG#software suite"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Complete additional rounds of prospects for Halliburton Labs"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Gender Diversity: Advance gender diversity balance in professional hires"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Ethnic Diversity: Advance ethnic diversity balance in the U.S."
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Workforce Localization: Ensure appropriate global diversity mix through workforce localization"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Education: Educate management and Board of Directors through DE&I training"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee may also consider other business performance factors that are important to our investors, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our PUP is the foundation of our long-term incentive program"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR modifier that compares #-year performance against the constituents of the OSX"
+   }
+  ],
+  "equal_split": []
+ }
+}

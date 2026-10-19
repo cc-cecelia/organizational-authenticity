@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "fd614c392552d855237e65d57d0feefe39336e70b4b808941915b2e6e413c642",
+  "est_input_tokens": 16592
+ },
+ "usage": {
+  "input_tokens": 17962,
+  "output_tokens": 380
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards the executives for profitability of over-all Company operations and focuses the management team on operational efficiency and expense management"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Focuses the executives on effective merchandising, driving market share gains, international expansion and the enhancement of the Company's omni-channel sales and marketing"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides incentive compensation for leadership behavior that has the greatest positive impact on employee motivation, engagement and commitment to implementing the Company's long-term strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes strong RONCAA performance is aligned with creating long-term value for the Company's shareholders."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a relative TSR modifier which compares the Company's TSR to the median TSR of companies listed in the S&P"
+   }
+  ],
+  "equal_split": []
+ }
+}

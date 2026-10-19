@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "739358fddc635bfe5069217f3e517be892208b12f27f622a3be5b6245eb16458",
+  "est_input_tokens": 17280
+ },
+ "usage": {
+  "input_tokens": 18287,
+  "output_tokens": 216
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Selected adjusted diluted EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected the performance measure of ROTCE because it incorporates the capital position of the company"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee chose ROCE compared to COE as the performance criterion for these equity awards"
+   }
+  ],
+  "equal_split": []
+ }
+}

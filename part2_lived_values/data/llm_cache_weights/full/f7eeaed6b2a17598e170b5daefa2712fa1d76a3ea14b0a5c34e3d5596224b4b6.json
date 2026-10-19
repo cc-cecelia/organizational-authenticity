@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "f7eeaed6b2a17598e170b5daefa2712fa1d76a3ea14b0a5c34e3d5596224b4b6",
+  "est_input_tokens": 20259
+ },
+ "usage": {
+  "input_tokens": 23060,
+  "output_tokens": 1262
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Compensation Committee places substantial importance on the assessment of firmwide performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROTE (a) 10.6%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Efficiency Ratio 68%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "BVPS Growth 5.4% YoY"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pre-Tax Earnings $10.6bn"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consistent, solid net revenue performance, demonstrating revenue durability"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS $21.03"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong one-year TSR"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee also considered various client, risk management, and leadership, culture and values-related strategies and goals"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Successfully executing on initial One Goldman Sachs cross-divisional client coverage initiative"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Positive feedback on the biennial Client and Key Stakeholder survey"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Progress on four key opportunities to expand our addressable market"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Ongoing focus on reputational risk assessment"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Reputation \u220e Conduct \u220e Compliance \u220e Standing with Regulators"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Conduct \u220e Compliance \u220e Standing with Regulators"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Compliance \u220e Standing with Regulators"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Continued engagement with our regulators"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Governance & Controls"
+   },
+   {
+    "id": 18,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Standardized CET1 ratio (13.3%) was unchanged"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Clear communication by senior management regarding Core Values and culture"
+   },
+   {
+    "id": 20,
+    "parent_id": 19,
+    "emphasis": 2,
+    "evidence": "Took a broad approach to attracting and retaining diverse talent"
+   },
+   {
+    "id": 21,
+    "parent_id": 19,
+    "emphasis": 1,
+    "evidence": "Teamwork \u220e Succession Planning \u220e Culture"
+   },
+   {
+    "id": 22,
+    "parent_id": 19,
+    "emphasis": 2,
+    "evidence": "Focus on development of next generation talent, including through the firm's leadership pipeline review process"
+   },
+   {
+    "id": 23,
+    "parent_id": 19,
+    "emphasis": 2,
+    "evidence": "Clear communication by senior management regarding Core Values and culture"
+   },
+   {
+    "id": 24,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2020\u20132022"
+   }
+  ],
+  "equal_split": []
+ }
+}

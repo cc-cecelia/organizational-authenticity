@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "9255bf09456967d13a702fb84d564bb94aac13fadcec3ad80beb75d9a3b81f55",
+  "est_input_tokens": 20654
+ },
+ "usage": {
+  "input_tokens": 21299,
+  "output_tokens": 314
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue. Fiscal 2018 revenue grew by 25% year-over-year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow. Fiscal 2018 operating cash flow grew by 27% year-over-year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Target payout requires 60 th percentile TSR performance percentile"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "three equally-weighted measures: revenue, operating cash flow and non-GAAP income from operations."
+   }
+  ]
+ }
+}

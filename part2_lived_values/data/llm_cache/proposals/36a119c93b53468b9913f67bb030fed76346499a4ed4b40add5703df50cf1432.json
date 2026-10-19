@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0000078003-24-000068",
+  "task": "proposals",
+  "section_words": 5613,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "36a119c93b53468b9913f67bb030fed76346499a4ed4b40add5703df50cf1432",
+  "est_input_tokens": 14074
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15294,
+  "output_tokens": 700,
+  "request_id": "req_011CgCAtUnheUpgzUvHvkbVZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Adopt an Independent Board Chair Policy",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring separation of Chairman and CEO roles, with the Chairman preferably an Independent Director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Publish a Congruency Report on Political, Lobbying, Electioneering Expenditures",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Requests an annual report analyzing congruency of political, lobbying and electioneering expenditures with publicly stated company values, including on women's reproductive health.",
+    "category": "integrity",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "Amend Director Resignation Processes",
+    "proponent": "New York City Carpenters Pension Fund",
+    "topic_summary": "Requests amending the director resignation bylaw so the Board must accept tendered resignations absent a compelling reason, with automatic resignation for re-failed holdover directors.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "8",
+    "title": "Publish a Report on Corporate Contributions",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests Pfizer list recipients of corporate contributions of $5,000 or more to third-party public policy or nonprofit organizations on its website, with amounts and limitations.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   }
+  ]
+ }
+}

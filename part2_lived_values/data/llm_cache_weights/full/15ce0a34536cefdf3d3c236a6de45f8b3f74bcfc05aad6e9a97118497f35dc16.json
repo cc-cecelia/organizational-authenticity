@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "15ce0a34536cefdf3d3c236a6de45f8b3f74bcfc05aad6e9a97118497f35dc16",
+  "est_input_tokens": 27598
+ },
+ "usage": {
+  "input_tokens": 28563,
+  "output_tokens": 842
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings Per Share (EPS) (50%) | Non-GAAP Diluted EPS (Net Income divided by outstanding shares of common stock)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (25%) | Total Revenues, net of foreign exchange (Total revenues minus reserves for returns, discounts, rebates and other adjustments)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Pipeline (25%) | \u2022 Near-Term Value (Submissions and approvals) \u2022 Long-Term Growth Potential"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (50%) | Regulatory submissions and approvals for new medicines and new indications and formulations of key marketed products"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential (50%) | \u2022 Development Candidates \u2022 First in Human \u2022 Proof of Confidence \u2022 Registrational Study Starts"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Overlay | Reflects management's holistic evaluation of our pipeline performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor can range from 0% to 165%, based on individual performance (both results and behaviors)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-GAAP Operating Margin: 33% Total Revenues (ex-fx): 33% 3-Year Relative TSR: 34%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx): 33% 3-Year Relative TSR: 34%"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incorporating the three-year relative TSR as a core performance measure rather than a modifier"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: reward the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "Near-Term Value (50%) | Long-Term Growth Potential (50%)"
+   }
+  ]
+ }
+}

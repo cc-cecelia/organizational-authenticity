@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "501bdf290809c3be99375193f908b1959e654bf0d6e3453ae1b14ecb919b5d97",
+  "est_input_tokens": 26829
+ },
+ "usage": {
+  "input_tokens": 27171,
+  "output_tokens": 2457
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary metric in our annual MIP program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Secondary measure in our FY23 MIP program (weighted 20%)"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Net sales of nearly $50 billion, with a 3% comparable store sales increase for FY23 at Marmaxx"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Opened new stores and increased store count for a total of more than 4,800 stores at FY23 year end"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Increased award targets and expanded eligibility under our broad-based management incentive program for eligible Associates globally"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Announced our four new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Continued inclusion and diversity (I&D) education and communication efforts to support our global I&D priorities"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Announced our four new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Continued to receive positive indicators of customer satisfaction, as shown by customer survey data"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Primary metric in our PSU program"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Used as downward-only modifier"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "established a new three-year LRPIP Incentive Pre-tax Income target for FY23-25"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LRPIP goals and awards for the FY21-23 cycle were established by the Committee in March 2021"
+   }
+  ],
+  "equal_split": []
+ }
+}

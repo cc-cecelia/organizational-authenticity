@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000612",
+  "task": "incentives",
+  "section_words": 5637,
+  "section_method": "heading",
+  "cache_key": "2c5718f4aa5b94683b5ddc7dd640a5cc7c100d22af49db95ad4d8b5b01108357",
+  "est_input_tokens": 12307
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15012,
+  "output_tokens": 1564,
+  "request_id": "req_011CgC9LMda7hkAtdy1K4tz2"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Environmental, Social, and Governance Bonus",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The company's non-equity incentive plan award is the environmental, social, and governance bonus opportunity, which consists of a target and maximum of $2.0 million and no threshold value."
+   },
+   {
+    "metric": "TSR performance goals",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Assuming the maximum achievement of the TSR performance goals, the aggregate market value of the PSUs on the date of grant would be $9,978,464."
+   }
+  ]
+ }
+}

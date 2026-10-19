@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "1c515d1428753ee0bf1fd0a5b7f2afa455c7a0aea92cdd00bf3a375a57bde85b",
+  "est_input_tokens": 23029
+ },
+ "usage": {
+  "input_tokens": 24487,
+  "output_tokens": 1415
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Bonus program is based on estimates of year-end earnings made in November of each year"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Operations Performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Recognizing the complexity and significant uncertainty inherent in a transitioning energy system, the Committee maintains its focus on the energy transition objective"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and operating metrics are assessed over near- and long-term time horizons"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Progressed robust 2030 GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Over 15% reduction in number of spills versus prior 3-year average"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Total capacity loss trend on plan"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Delivered IOC-leading financial results"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Developed detailed roadmaps in support of 2030 GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 12,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Prioritize resilient, high-return investments"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Progress Toward Strategic Objectives\u2014Operations Performance"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver industry-leading earnings and cash flow growth"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Committee maintains its focus on the energy transition objective and GHG emissions intensity metrics"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Optimize existing business portfolio, resilient to a transitioning energy system"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and operating metrics are assessed over near- and long-term time horizons"
+   },
+   {
+    "id": 18,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personnel safety performance"
+   },
+   {
+    "id": 19,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Progressed robust 2030 GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 20,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Over 15% reduction in number of spills versus prior 3-year average"
+   },
+   {
+    "id": 21,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Total capacity loss trend on plan"
+   },
+   {
+    "id": 22,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "Delivered IOC-leading financial results"
+   },
+   {
+    "id": 23,
+    "parent_id": 15,
+    "emphasis": 2,
+    "evidence": "Developed detailed roadmaps in support of 2030 GHG Emissions Reduction Plans"
+   },
+   {
+    "id": 24,
+    "parent_id": 16,
+    "emphasis": 2,
+    "evidence": "Prioritize resilient, high-return investments"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the Committee assigns equal weight to each of the four strategic objectives"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the Committee assigns equal weight to each of the four strategic objectives"
+   }
+  ]
+ }
+}

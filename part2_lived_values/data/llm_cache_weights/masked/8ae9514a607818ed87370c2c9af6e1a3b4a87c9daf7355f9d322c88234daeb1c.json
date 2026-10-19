@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "8ae9514a607818ed87370c2c9af6e1a3b4a87c9daf7355f9d322c88234daeb1c",
+  "est_input_tokens": 24392
+ },
+ "usage": {
+  "input_tokens": 25557,
+  "output_tokens": 846
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Company financial measures are collectively [w] at # and the ESG measures are collectively [w] at #"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Revenue was #million, up # year-over-year;"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating cash flow was #million, up # year-over-year; and"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Non-GAAP income from operations was #million, up # year-over-year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approved ESG goals, consisting of # [w] measures and # sustainability measures"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "U.S. Underrepresented Minorities & Women (#) | # of our U.S. Employees will identify as Underrepresented Minorities"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Global Women (#) | # of our Global Employees will identify as Women as of the end of fiscal #"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Air Travel (#) | # Reduction in air travel emissions intensity"
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Supplier Engagement (#) | # of Spend in fiscal #with suppliers who have signed an agreement"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Gratitude Bonus Plan is designed to tie individual bonus awards to achievement against key performance metrics"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Grant PRSUs that require TSR outperformance (#th [w]) relative to peers to earn target payout"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "The Company financial measures are collectively [w] at # and the ESG measures are collectively [w] at #"
+   }
+  ]
+ }
+}

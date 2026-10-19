@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001193125-17-083591",
+  "task": "incentives",
+  "section_words": 9615,
+  "section_method": "heading",
+  "cache_key": "88d8ca0fd716b57ebd1ef802381b2b59aabc02da48bcd6775a7216a950ba2de1",
+  "est_input_tokens": 21757
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23385,
+  "output_tokens": 474,
+  "request_id": "req_011CgC9u9VzUQiAHi5fvnKaT"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company net income threshold performance measures (Performance Policy)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "at least one of which must be achieved for annual incentives to be earned by named executives"
+   },
+   {
+    "metric": "Relative RORCE performance (Performance Shares, 2016-2018)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2016 grants tied to Company's RORCE ranking compared to the Financial Performance Peer Group, subject to absolute performance levels"
+   },
+   {
+    "metric": "Absolute RORCE performance (Performance Shares, 2016-2018)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If our Company's three-year average RORCE is equal to or greater than the specified maximum absolute performance level, the 2016 Performance Share award would result in vesting at maximum"
+   }
+  ]
+ }
+}

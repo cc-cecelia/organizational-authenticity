@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-021792",
+  "task": "proposals",
+  "section_words": 12040,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2e111f594293f6c8451b222c75c1b305020ee12e59d80a0ad36157708876c22e",
+  "est_input_tokens": 26268
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28924,
+  "output_tokens": 909,
+  "request_id": "req_011CgCBWFcC8nSjEwJzw6tEV"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "PROPOSAL 4 - SHAREHOLDER PROPOSAL REGARDING PROXY ACCESS BYLAW AMENDMENTS",
+    "proponent": "Mr. James McRitchie and Ms. Myra K. Young",
+    "topic_summary": "Asks the board to amend the proxy access bylaw to remove the limit on the number of stockholders who may aggregate shares to meet the 3% ownership threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "PROPOSAL 5 - SHAREHOLDER PROPOSAL REGARDING REPORT ON SUSTAINABLE PACKAGING",
+    "proponent": "As You Sow, on behalf of the Michelle Swenson & Stan Drobac Revocable Trust and co-filers",
+    "topic_summary": "Asks for a report on a comprehensive sustainable packaging policy, including recyclable cups, recycled content, removal of plastic straws, and reusable cup goals.",
+    "category": "environment",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "PROPOSAL 6 - SHAREHOLDER PROPOSAL REGARDING REPORT ON PAID FAMILY LEAVE",
+    "proponent": "Zevin Asset Management, LLC, on behalf of the Claire L Bateman 1991 Trust and co-filers",
+    "topic_summary": "Asks for a report evaluating the risk of employment discrimination from Starbucks's paid family leave approach, available by the 2019 annual meeting.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "PROPOSAL 7 - SHAREHOLDER PROPOSAL REGARDING DIVERSITY REPORT",
+    "proponent": "Trillium Asset Management LLC, on behalf of the Paul LeFort Revocable Trust",
+    "topic_summary": "Asks for an annual diversity report with a chart of employees by gender and race across EEOC job categories and a description of diversity policies and programs.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "1a62988c8c6d199fbc6e4db383ebf75079e30b40d99b69fc183d55d273945404",
+  "est_input_tokens": 16399
+ },
+ "usage": {
+  "input_tokens": 18972,
+  "output_tokens": 571
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "STIP payouts... Operating income growth requires us to balance increases in revenue with financial discipline"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Systemwide sales is an important metric in a franchise business as income generation is closely correlated to sales growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "New restaurant openings was introduced as a new metric for 2023 given the importance of restaurant development in driving top-line growth"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "human capital metrics focused on the diversity of women and underrepresented groups in leadership roles and represented 15% weighting in the STIP at target"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the STIP design includes a modifier that is focused on converting registered applicants to our franchisee program into new restaurant owners"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs granted in 2023 will vest on the third anniversary of the grant date, subject to our achievement of two key financial metrics, EPS growth (weighted 75%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PRSUs are also subject to a modifier based on our relative TSR measured over the three-year performance period vs. the S&P 500 Index"
+   }
+  ],
+  "equal_split": []
+ }
+}

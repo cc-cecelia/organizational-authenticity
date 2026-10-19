@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "c274f3ad092ec5ae64aa7e3545fb486cb60cef8396a622e0959e9068394954db",
+  "est_input_tokens": 19778
+ },
+ "usage": {
+  "input_tokens": 21676,
+  "output_tokens": 1837
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash incentives are determined in two performance categories, as follows."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Incentive Plan Revenue\" and \"Incentive Plan Operating Income\" are non-GAAP financial measures defined at page #."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Incentive Plan Revenue\" and \"Incentive Plan Operating Income\" are non-GAAP financial measures defined at page #."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The qualitative portion of each Named Executive's fiscal year annual cash incentives was determined based on assessment of individual performance"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Customers & Stakeholders | Culture & Organizational Leadership"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Quality \u2022 Revenue, consumption, and market share"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "\u2022 Quality \u2022 Revenue, consumption, and market share"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Customers & Stakeholders | Culture & Organizational Leadership"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "\u2022 Corporate social responsibility \u2022 Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "\u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "\u2022 Customer satisfaction \u2022 Developer engagement"
+   },
+   {
+    "id": 14,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "\u2022 Developer engagement"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Customers & Stakeholders | Culture & Organizational Leadership"
+   },
+   {
+    "id": 16,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 17,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 18,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 19,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "\u2022 Compliance and integrity \u2022 Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial Cloud Revenue* | Net revenue for commercial cloud-based solutions"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commercial Cloud Subscribers | Paid seats for current or new per-user SaaS cloud services primarily in commercial customer segment"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows #Monthly Active Devices | Comprises all Windows #monthly active devices, including PCs, tablets, mobile devices, gaming consoles"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consumer Post-Sales Monetization Gross Margin | Includes Search, Store, Display/Homepage, Gaming, and Office Consumer/Services"
+   },
+   {
+    "id": 24,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn Sessions | Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "id": 25,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Surface Gross Margin | Gross margin from Surface and first-party accessories, excluding Surface Hub"
+   },
+   {
+    "id": 26,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our performance stock awards included a relative total shareholder return (\"TSR\") multiplier to reward significant positive outperformance"
+   },
+   {
+    "id": 27,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LTPSA payouts are tied to Microsoft's total shareholder return relative to the S&P # (\"relative TSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting the Company's internal operating budget"
+   }
+  ]
+ }
+}

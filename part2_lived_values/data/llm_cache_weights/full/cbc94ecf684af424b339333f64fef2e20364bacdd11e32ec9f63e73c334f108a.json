@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "cbc94ecf684af424b339333f64fef2e20364bacdd11e32ec9f63e73c334f108a",
+  "est_input_tokens": 7351
+ },
+ "usage": {
+  "input_tokens": 8179,
+  "output_tokens": 290
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The following financial performance highlights were considered by the Compensation Committee when awarding executive incentive pay for 2020"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee determined individual risk and control performance and then imposed a reduction for the shared accountability concerning risk and control"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The following highlights were considered by the Compensation Committee as important examples of leadership for 2020"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The following highlights were considered by the Compensation Committee as important examples of our efforts to solidify client relationships and strengthen our franchise during 2020."
+   }
+  ],
+  "equal_split": []
+ }
+}

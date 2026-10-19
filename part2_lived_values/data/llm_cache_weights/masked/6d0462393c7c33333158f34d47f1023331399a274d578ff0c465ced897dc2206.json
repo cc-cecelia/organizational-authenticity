@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "6d0462393c7c33333158f34d47f1023331399a274d578ff0c465ced897dc2206",
+  "est_input_tokens": 24935
+ },
+ "usage": {
+  "input_tokens": 25248,
+  "output_tokens": 635
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA reflects the quality of SLB's earnings"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Free cash flow goals encourage our NEOs to continue strengthening our balance sheet"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Personal objectives, detailed on page #align to our strategic focus areas"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce SLB's Scope #emissions, using a pre-established CO #e target based on \"customer-avoided\" emissions."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increase digital revenue\u2014enabled by digital penetration\u2014above a pre-established target."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increase revenue generated from fit-for-basin technologies above a pre-established target."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Oversee development of near- and mid-term New Energy growth strategy, as well as revenue and market analysis."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Fatality-free. | Mostly not achieved"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute FCF Margin PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative ROCE PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR PSUs \u2014 Performance Measures and Goals"
+   }
+  ],
+  "equal_split": []
+ }
+}

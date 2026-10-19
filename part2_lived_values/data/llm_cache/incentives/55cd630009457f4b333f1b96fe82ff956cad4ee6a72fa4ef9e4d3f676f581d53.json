@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001035002-17-000015",
+  "task": "incentives",
+  "section_words": 8284,
+  "section_method": "heading",
+  "cache_key": "55cd630009457f4b333f1b96fe82ff956cad4ee6a72fa4ef9e4d3f676f581d53",
+  "est_input_tokens": 19676
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20591,
+  "output_tokens": 3426,
+  "request_id": "req_011CgCCFrmyXMrfuMa2pMHfF"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Net Cash Provided by Operating Activities (ANC)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the program is funded at an amount equal to the greater of (i) ANC multiplied by 0.80 percent, or (ii) EBITDA multiplied by 0.65 percent"
+   },
+   {
+    "metric": "Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the program is funded at an amount equal to the greater of (i) ANC multiplied by 0.80 percent, or (ii) EBITDA multiplied by 0.65 percent"
+   },
+   {
+    "metric": "Financial Performance Goal: EPS, adjusted",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments."
+   },
+   {
+    "metric": "Operational Performance Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Compensation Committee in the first quarter of the performance year"
+   },
+   {
+    "metric": "Health, Safety, and Environmental",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental"
+   },
+   {
+    "metric": "Mechanical Availability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "metric": "Cost Management and Expense Control",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.34,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "metric": "Strategic Company Performance Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Included in these goals for 2016 was a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "metric": "Effective use of capital",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "qualitative goals and objectives including the effective use of capital (Strategic Company Performance Goals)"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "There are no specific weights assigned to these various elements of performance."
+   },
+   {
+    "metric": "Relative TSR performance shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Fifty percent of the total shares targeted for our named executive officers in 2016 were performance shares."
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "947bed889398cded7a609c72e49bdf5c3ab81d37f8d0be8dec351486b7d97faa",
+  "est_input_tokens": 18278
+ },
+ "usage": {
+  "input_tokens": 19953,
+  "output_tokens": 367
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales (45%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Profit (45%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The LDC Committee decided to reduce the weighting for the inventory turns goal from 20% to 10%."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal 2019 operating profit is not at least 90% of the MIP target."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

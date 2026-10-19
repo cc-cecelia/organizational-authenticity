@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-043540",
+  "task": "incentives",
+  "section_words": 9693,
+  "section_method": "heading",
+  "cache_key": "d41063e7a0ea644aa5ec453710b412fe4433d6fd325d62c7c47e6c2c1b42d00b",
+  "est_input_tokens": 21492
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24127,
+  "output_tokens": 3310,
+  "request_id": "req_011CgC9SqMMvRk8hKMzy7WZH"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "adjusted non-GAAP revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Non-GAAP Revenue (50%) | 150%"
+   },
+   {
+    "metric": "adjusted non-GAAP operating margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Non-GAAP Operating Margin (50%) | 150%"
+   },
+   {
+    "metric": "Direct Expenses",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Direct Expenses (50%) (2) | 117%"
+   },
+   {
+    "metric": "Design Wins",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Design Wins (15%) | 106%"
+   },
+   {
+    "metric": "Product Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product Revenue (20%) | 150%"
+   },
+   {
+    "metric": "WSD Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "WSD Revenue (25%) | 98%"
+   },
+   {
+    "metric": "WSD Operating Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "WSD Operating Margin (25%) | 143%"
+   },
+   {
+    "metric": "individual performance multiplier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "assigns each NEO an individual performance multiplier of between 50% and 150%"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned based on our Relative TSR and absolute TSR performance over four overlapping performance periods"
+   },
+   {
+    "metric": "absolute TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If our absolute TSR for the fourth performance period is negative, maximum payout over four years is 100%"
+   }
+  ]
+ }
+}

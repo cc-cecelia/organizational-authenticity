@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001193125-23-094075",
+  "task": "incentives",
+  "section_words": 4533,
+  "section_method": "heading",
+  "cache_key": "fba6bff6032e00ee9c976fb9980a0d3a12819e7badf7d0ef923faa03fc86c013",
+  "est_input_tokens": 10779
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11925,
+  "output_tokens": 2412,
+  "request_id": "req_011CgCBCQDMcE2hefTF6p499"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestone",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "each of the 12 tranches of the 2018 CEO Performance Award vested upon certification by the Board that both (i) the market capitalization milestone for such tranche"
+   },
+   {
+    "metric": "Operational milestones (Total Revenue or Adjusted EBITDA)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "(ii) any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability, was met"
+   },
+   {
+    "metric": "Total Revenue",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Total Revenue* (in billions) | Adjusted EBITDA** (in billions) $20.0 | $1.5"
+   },
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "\"Adjusted EBITDA\" means (i) net income (loss) attributable to common stockholders before (ii) interest expense"
+   },
+   {
+    "metric": "Aggregate vehicle production",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "each requiring that Tesla meet a combination of (i) the achievement of a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Gross margin target",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a combination of (i) the achievement of a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "metric": "Model X or Model 3 development milestone",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the achievement of a specified operational milestone relating to development of Model X or Model 3"
+   },
+   {
+    "metric": "Sustained $4 billion increase in market capitalization",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   }
+  ]
+ }
+}

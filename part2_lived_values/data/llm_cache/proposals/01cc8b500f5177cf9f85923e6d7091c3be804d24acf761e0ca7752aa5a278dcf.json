@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0000200406-18-000009",
+  "task": "proposals",
+  "section_words": 2175,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "01cc8b500f5177cf9f85923e6d7091c3be804d24acf761e0ca7752aa5a278dcf",
+  "est_input_tokens": 5066
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6002,
+  "output_tokens": 393,
+  "request_id": "req_011CgCAYTeResCT3AnhyTmG9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2013 Accounting for Litigation and Compliance In Executive Compensation Performance Measures",
+    "proponent": "The City of Philadelphia Public Employees Retirement System",
+    "topic_summary": "Adopt policy that no financial performance metric for senior executive incentive pay be adjusted to exclude legal or compliance costs, including opioid litigation costs.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Amendment to Shareholder Ability to Call Special Shareholder Meeting",
+    "proponent": "William Steiner",
+    "topic_summary": "Amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting, the most shareholder-friendly version permitted by state law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

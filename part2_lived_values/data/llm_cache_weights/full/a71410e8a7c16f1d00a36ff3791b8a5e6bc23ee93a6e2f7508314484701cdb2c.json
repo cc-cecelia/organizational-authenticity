@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "a71410e8a7c16f1d00a36ff3791b8a5e6bc23ee93a6e2f7508314484701cdb2c",
+  "est_input_tokens": 19313
+ },
+ "usage": {
+  "input_tokens": 20222,
+  "output_tokens": 431
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The annual cash bonuses paid to Ms. Catz and Messrs. Ellison, Henley and Screven are based solely on financial performance tied to growth in non-GAAP operating income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the $80 stock price goal, all of the market capitalization goals and the operational goal of attaining $10 billion in non-GAAP total SaaS revenues"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Oracle's market capitalization increased by more than $100 billion compared to the baseline market capitalization set in fiscal 2018, thereby satisfying all six of the PSO market capitalization goals."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee certified that the operational performance goal of attaining $10 billion in non-GAAP total SaaS revenues was satisfied in fiscal 2023"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Long-term incentive compensation for Mr. Ellison and Ms. Catz is 100% performance-based."
+   }
+  ]
+ }
+}

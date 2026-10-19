@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "34866dc96524beb5698ca8a945b64e08b4a8871590208ef8b7676a636a4fb008",
+  "est_input_tokens": 14517
+ },
+ "usage": {
+  "input_tokens": 16289,
+  "output_tokens": 246
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Variable Cash | Motivate and reward for annual corporate financial performance | At-Risk | Annual Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "SY PSUs | Align with short-term stockholder interests by linking NEO pay to annual operational performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CC decided to grant Mr. Huang's target equity opportunity 100% in the form of SY PSUs (which value is aligned with our Non-GAAP Operating Income performance) and MY PSUs"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "fa7d622e661476ebbdd0a4e6649454ec6ffad4d20a2f7ce31f556aae8d607ad1",
+  "est_input_tokens": 21254
+ },
+ "usage": {
+  "input_tokens": 24254,
+  "output_tokens": 433
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Net Revenue. For Messrs. Schultz, Maw and Johnson, # of their EMBP award was based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Operating Income. For Messrs. Schultz, Maw and Johnson, # of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC. For each of our NEOs, ROIC (measured on a consolidated basis) operated as a potential downward modifier of their combined adjusted net revenue and adjusted operating income result."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance RSUs. The extent to which performance RSUs vest is based on our achievement of #-year adjusted EPS and ROIC goals."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "the number of performance RSUs to be delivered based on achievement of the adjusted EPS goal will be adjusted downward by as much as #."
+   }
+  ],
+  "equal_split": []
+ }
+}

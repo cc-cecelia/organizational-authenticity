@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "643da9595e14368856fcb9626f1b37181c7e9e63379c26fce906fbfead31eb30",
+  "est_input_tokens": 24816
+ },
+ "usage": {
+  "input_tokens": 29041,
+  "output_tokens": 328
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "One-half of the target 2015 LTIP award is earned based on the Company's average ROE over the three-year performance period (MS Average ROE)."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The other half of the target 2015 LTIP award is earned based on the Company's TSR over the three-year period (MS TSR) relative to the TSR of the S&P 500 Financials Index"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROE, ex-DVA is one of the measures the CMDS Committee utilizes to evaluate the Company's financial performance."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target 2015 LTIP award is earned based on the Company's average ROE over the three-year performance period (MS Average ROE)."
+   }
+  ]
+ }
+}

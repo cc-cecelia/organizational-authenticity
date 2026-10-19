@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000331",
+  "task": "proposals",
+  "section_words": 484,
+  "section_method": "resolved_windows",
+  "cache_key": "8bd1fafc842f3abeb5fd00177429417105dcfda09187011abec6276416efc1c7",
+  "est_input_tokens": 1374
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2816,
+  "output_tokens": 11,
+  "request_id": "req_011CgCCMZ1pLvK27QV7xUjxr"
+ },
+ "result": {
+  "proposals": []
+ }
+}

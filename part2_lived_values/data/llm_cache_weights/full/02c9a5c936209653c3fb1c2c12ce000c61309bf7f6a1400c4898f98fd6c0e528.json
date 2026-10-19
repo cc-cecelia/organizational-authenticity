@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "02c9a5c936209653c3fb1c2c12ce000c61309bf7f6a1400c4898f98fd6c0e528",
+  "est_input_tokens": 32795
+ },
+ "usage": {
+  "input_tokens": 33527,
+  "output_tokens": 3339
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected adjusted EPS as an absolute measure upon which to base half of the financial portion of the annual cash incentive"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The RPI payout, if any, to our NEOs is based on the sum of our overall rankings achieved in each of our four geographic areas"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Fifty percent of an executive's annual cash incentive opportunity is tied to achievement of personal objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Implement the integration plan for Cameron, the Company's largest acquisition ever"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Free cash flow conversion of at least 75%"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Maintain decremental margins at less than 35% in 2016."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Reduce overhead costs by at least 10% in 2016."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Increase SPM production under management above pre-established baseline"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "strategic personal objectives related to mergers and acquisitions, market share, R&D, manufacturing"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increase the quarterly revenue of the Company as a whole 3% faster than the quarterly increase in the drilling rig count."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Increase the rate at which the Company won tenders by 5% from the previous year's figure"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Support the Company in achieving a figure of over 100% for free cash flow as a percentage of income from continuing operations"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Decrease international decremental margins compared to 2015."
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Investigate and close finance-related compliance investigations in fewer than 90 days."
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Reduce Total Recordable Incident Frequency and Automotive Accident Rate for the whole Company."
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Improve Company reliability and sustainable operations by reducing non-productive time for the whole Company."
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Achieve major delivery milestones for new product development (NPD)."
+   },
+   {
+    "id": 17,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Ensure that the Company completes over 95% of tasks in 2016 under the Company's Transformation program."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For the 2016 PSU grants, the Committee established performance goals using a new relative performance measurement based on our ROCE"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the financial half of the NEOs' 2016 annual cash incentive was based equally on achievement of"
+   }
+  ]
+ }
+}

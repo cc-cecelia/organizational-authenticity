@@ -38,6 +38,9 @@ CDA_END = re.compile(
     r"|(shareholder|stockholder) proposals?|^\W*(item|proposal) (no\. ?)?\d+\b|audit committee report"
     r"|pay (versus|vs\.?) performance|security ownership|director compensation", re.I)
 CDA_MIN_WORDS, CDA_MAX_WORDS = 2_000, 40_000
+# Second pass for very short CD&As (Berkshire ~1k words). Not the default: the
+# minimum also stops a section from ending at one of its own sub-headings.
+CDA_MIN_WORDS_SHORT = 800
 
 SP_START = re.compile(r"(shareholder|stockholder) proposals?", re.I)
 SP_NOT_START = re.compile(r"for next year|for (the )?20\d\d|nominations|deadline|submit|to be presented at", re.I)
@@ -50,6 +53,17 @@ SP_END = re.compile(
     r"|compensation discussion|summary compensation table|security ownership|audit committee", re.I)
 SP_SIGNAL = re.compile(r"\bproponents?\b|supporting statement|\bresolved\b|has (advised|notified) (us|the company)", re.I)
 SP_MIN_WORDS, SP_MAX_WORDS = 300, 30_000
+RESOLVED_RE = re.compile(r"\bresolved\b", re.I)
+# Window anchors: the RESOLVED clause, or the statement headings used by firms
+# that paraphrase proposals instead of quoting them (BAC 2018, BMY 2021-22).
+ANCHOR_RE = re.compile(r"\bresolved\b|supporting statement|proponent'?s'? statement|statement (of|by) (the )?proponent"
+                       r"|the proponents?'?s? (concern|request|proposal)", re.I)
+MGMT_RESOLUTION = re.compile(
+    r"approve[sd]?,? (on an )?(a non-binding,? )?advisory basis|compensation (paid to|of) (the|our) "
+    r"(company's |corporation's )?named executive|ratif(y|ies|ied|ication)|"
+    r"(amend(ed|ment)?|restate(d|ment)?) .{0,60}(certificate of incorporation|articles of|charter|by-?laws)|"
+    r"(stock|equity|incentive|purchase) plan", re.I)
+RES_BEFORE, RES_AFTER = 300, 2_000
 CHAIN_GAP = 5   # lines
 
 
@@ -62,7 +76,7 @@ def _lines_and_offsets(text: str):
     return lines, offsets, wc
 
 
-def _is_heading_hit(line: str, pattern) -> bool:
+def _is_heading_hit(line: str, pattern, allow_glued: bool = False) -> bool:
     """Does `pattern` occur where a heading would be on this line?
 
     Short lines (<= 60 chars) are headings. On longer lines (a heading run
@@ -74,8 +88,12 @@ def _is_heading_hit(line: str, pattern) -> bool:
     continuations, never headings.
     """
     m = pattern.search(line)
-    if not m or m.start() >= HEAD_CHARS or line[:1].islower():
+    if not m or m.start() >= HEAD_CHARS:
         return False
+    if line[:1].islower():
+        # A short line that is (almost) only the phrase is a heading rendered in
+        # lower case by CSS (CVX: "compensation discussion and analysis").
+        return len(line) <= 60 and len(m.group(0)) >= 0.7 * len(line.strip())
     if CROSS_REF.search(line[:HEAD_CHARS + 40]):
         return False
     if len(line) <= 60:
@@ -85,8 +103,16 @@ def _is_heading_hit(line: str, pattern) -> bool:
     # Representation on Board of Directors").
     if len(line) <= 120 and m.start() <= 3 and not line.rstrip().endswith((".", ",", ";")):
         return True
-    # Longer lines are sentences unless the heading is set in capitals.
-    prefix, hit = line[:m.start()], m.group(0)
+    # A heading glued to its paragraph: the line opens with the phrase in title
+    # case ("Compensation Discussion and Analysis This section provides ...", ORCL).
+    hit = m.group(0)
+    # Start markers only: an end phrase opening a paragraph is usually a sentence
+    # inside the section ("Summary Compensation Table amounts reflect ...").
+    if allow_glued and m.start() == 0 and all(w[:1].isupper() for w in hit.split()
+                                               if w.lower() not in ("and", "&", "of", "the")):
+        return True
+    # Other long lines are sentences unless the heading is set in capitals.
+    prefix = line[:m.start()]
     return hit == hit.upper() and prefix == prefix.upper()
 
 
@@ -94,7 +120,7 @@ def _candidate_spans(lines, offsets, total, start_re, end_re, not_start=None,
                      min_words=0, max_words=10**9):
     """All (start_idx, end_idx, n_words) spans from a start hit to the next end hit."""
     starts = [i for i, ln in enumerate(lines)
-              if _is_heading_hit(ln, start_re) and not (len(ln) <= 120 and TOC_LINE.search(ln))
+              if _is_heading_hit(ln, start_re, allow_glued=True) and not (len(ln) <= 120 and TOC_LINE.search(ln))
               and not (not_start and not_start.search(ln))]
     ends = [i for i, ln in enumerate(lines) if _is_heading_hit(ln, end_re)]
     spans = []
@@ -112,8 +138,8 @@ def _candidate_spans(lines, offsets, total, start_re, end_re, not_start=None,
 # Fallback when the CD&A heading is an image (MSFT 2018): the section's
 # standard opening sentence, ending at the Compensation Committee Report,
 # whose wording is close to boilerplate under Reg S-K Item 407(e)(5).
-CDA_OPENING = re.compile(r"^(this|the) compensation discussion (and|&) analysis\b.{0,40}"
-                         r"\b(provides|describes|explains|discusses|summarizes|sets forth)", re.I)
+CDA_OPENING = re.compile(r"^(in )?(this|the|our) compensation discussion (and|&) analysis\b.{0,40}"
+                         r"\b(provides?|describes?|explains?|discuss(es)?|summari[sz]es?|sets? forth|presents?|reviews?)", re.I)
 CDA_REPORT = re.compile(r"has reviewed and discussed.{0,60}compensation discussion (and|&) analysis", re.I)
 
 
@@ -129,16 +155,32 @@ def _cda_fallback(lines, offsets):
     return [(start, end, offsets[end] - offsets[start])]
 
 
-def find_cda(text: str) -> Optional[dict]:
+def find_cda(text: str, target_words: Optional[float] = None) -> Optional[dict]:
+    """Best CD&A span. With target_words (the firm's median CD&A length over its
+    other years), a best span outside 0.5x-1.8x of it is replaced by the
+    candidate closest to it: a firm's CD&A length is stable across years, so a
+    much shorter span is usually truncated at an internal sub-heading and a
+    much longer one has run past the section."""
+    # Rejoin a heading split over two lines ("Compensation Discussion and" / "Analysis", HAL).
+    text = re.sub(r"(?im)^(\W*compensation discussion (and|&))[ \t]*\n[ \t]*(analysis\b)", r"\1 \3", text)
     lines, offsets, total = _lines_and_offsets(text)
     spans = _candidate_spans(lines, offsets, total, CDA_START, CDA_END,
                              min_words=CDA_MIN_WORDS, max_words=CDA_MAX_WORDS)
     method = "heading"
     if not spans:
+        spans = _candidate_spans(lines, offsets, total, CDA_START, CDA_END,
+                                 min_words=CDA_MIN_WORDS_SHORT, max_words=CDA_MAX_WORDS)
+        method = "heading_short"
+    if not spans:
         spans, method = _cda_fallback(lines, offsets), "opening_sentence"
     if not spans:
         return None
     s, e, n = max(spans, key=lambda x: x[2])
+    if target_words and not (0.5 * target_words <= n <= 1.8 * target_words):
+        import math
+        alt = min(spans, key=lambda x: abs(math.log(x[2] / target_words)))
+        if abs(math.log(alt[2] / target_words)) < abs(math.log(n / target_words)):
+            (s, e, n), method = alt, method + "+median_adjusted"
     return {"method": method, "start_line": s, "end_line": e, "words": n,
             "start_word_frac": round(offsets[s] / max(total, 1), 3),
             "end_marker": lines[e][:80], "text": "\n".join(lines[s:e])}
@@ -165,14 +207,68 @@ def find_proposals(text: str) -> Optional[dict]:
         signal = len(SP_SIGNAL.findall("\n".join(lines[s:e])))
         scored.append((signal, -n, s, e, n))
     scored = [x for x in scored if x[0] > 0]
-    if not scored:
+    intervals, method, end_marker = [], [], ""
+    if scored:
+        _, _, s, e, _ = max(scored)   # most proposal language; ties -> shorter span
+        intervals.append((s, e)); method.append("heading"); end_marker = lines[e][:80]
+
+    # Anchor windows. Rule 14a-8 proposals reproduce the proponent's RESOLVED
+    # clause, so every non-management RESOLVED gets a window: RES_BEFORE words
+    # back (title, proponent) to RES_AFTER words on (supporting statement and
+    # board response), stopping early at a meeting-information heading. This
+    # catches proposals that heading rules miss in unusual layouts. Management
+    # resolutions (say-on-pay, auditor, plans, charter) are skipped so their
+    # surrounding firm text stays in the firm-voice measure.
+    windows = []
+    for i, ln in enumerate(lines):
+        for m in ANCHOR_RE.finditer(ln):
+            if MGMT_RESOLUTION.search(ln[m.start():m.start() + 300]):
+                continue
+            a = i
+            while a > 0 and offsets[i] - offsets[a] < RES_BEFORE:
+                a -= 1
+            b = i + 1
+            while b < len(lines) and offsets[b] - offsets[i] < RES_AFTER and not _is_heading_hit(lines[b], SP_END):
+                b += 1
+            windows.append((a, b))
+            break
+    if windows:
+        method.append("resolved_windows")
+    merged = []
+    for a, b in sorted(intervals + windows):
+        if merged and a <= merged[-1][1] + CHAIN_GAP:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], b))
+        else:
+            merged.append((a, b))
+    if not merged:
         return None
-    signal, _, s, e, n = max(scored)   # most proposal language; ties -> shorter span
-    return {"method": "heading", "start_line": s, "end_line": e, "words": n, "signal_hits": signal,
-            "start_word_frac": round(offsets[s] / max(total, 1), 3),
-            "end_marker": lines[e][:80], "text": "\n".join(lines[s:e])}
+    text_out = "\n[...]\n".join("\n".join(lines[a:b]) for a, b in merged)
+    n = sum(offsets[b - 1] - offsets[a] + len(lines[b - 1].split()) for a, b in merged)
+    return {"method": "+".join(method), "intervals": merged, "words": n,
+            "signal_hits": len(SP_SIGNAL.findall(text_out)),
+            "start_line": merged[0][0], "end_line": merged[-1][1],
+            "start_word_frac": round(offsets[merged[0][0]] / max(total, 1), 3),
+            "end_marker": end_marker, "text": text_out}
 
 
 def prose_only(text: str) -> str:
     """Drop [TABLE]...[/TABLE] blocks (used for dictionary and tone measures)."""
     return re.sub(rf"{re.escape(TABLE_OPEN)}\n.*?\n{re.escape(TABLE_CLOSE)}\n?", "", text, flags=re.S)
+
+
+def cda_targets(rows) -> dict:
+    """{(ticker, year): median CD&A length of the firm's OTHER years} (first pass).
+    rows: iterable of (ticker, year, text)."""
+    import statistics
+    lengths = {}
+    for t, y, text in rows:
+        c = find_cda(text)
+        if c:
+            lengths.setdefault(t, {})[y] = c["words"]
+    out = {}
+    for t, by_year in lengths.items():
+        for y in by_year:
+            others = [w for yy, w in by_year.items() if yy != y]
+            if len(others) >= 3:
+                out[(t, y)] = statistics.median(others)
+    return out

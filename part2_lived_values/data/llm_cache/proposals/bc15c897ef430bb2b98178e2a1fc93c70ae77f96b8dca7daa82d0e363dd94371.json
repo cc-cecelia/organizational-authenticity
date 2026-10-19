@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-568937",
+  "task": "proposals",
+  "section_words": 3077,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "bc15c897ef430bb2b98178e2a1fc93c70ae77f96b8dca7daa82d0e363dd94371",
+  "est_input_tokens": 6958
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8018,
+  "output_tokens": 434,
+  "request_id": "req_011CgCBeFuX8sBdgeDMDfr5j"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL FOR INCLUSION OF DIVERSITY AS A CEO PERFORMANCE MEASURE",
+    "proponent": "NorthStar Asset Management, Inc.",
+    "topic_summary": "Asks the Compensation Committee to include metrics on gender, racial and ethnic diversity among senior executives as a performance measure for the CEO's incentive plans.",
+    "category": "dei",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "our Board unanimously recommends that you vote AGAINST the stockholder proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL FOR A REVIEW AND SUMMARY REPORT ON EXECUTIVE COMPENSATION POLICIES",
+    "proponent": "Priests of the Sacred Heart, U.S. Province",
+    "topic_summary": "Asks for a review of executive compensation policies and a summary report comparing senior executive pay with employees' median wage and assessing pay gap trends.",
+    "category": "employees",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "our Board unanimously recommends that you vote AGAINST the stockholder proposal"
+   }
+  ]
+ }
+}

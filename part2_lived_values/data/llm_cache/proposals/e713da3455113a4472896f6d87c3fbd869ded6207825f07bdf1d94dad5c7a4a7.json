@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-523055",
+  "task": "proposals",
+  "section_words": 2436,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e713da3455113a4472896f6d87c3fbd869ded6207825f07bdf1d94dad5c7a4a7",
+  "est_input_tokens": 5791
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6837,
+  "output_tokens": 386,
+  "request_id": "req_011CgCAD6iKYDw1CYESTrwHy"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "First Stockholder Proposal",
+    "proponent": "The AFL-CIO Reserve Fund",
+    "topic_summary": "Requests an annual report disclosing Schwab's direct and indirect lobbying policies, payments, trade association and model-legislation organization memberships, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "We recommend a vote against the first stockholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Second Stockholder Proposal",
+    "proponent": "Scott M. Stringer, Comptroller of the City of New York, on behalf of the New York City Employees' Retirement System, the New York City Fire Department Pension Fund, The New York City Teachers' Retirement System and the New York City Police Pension Fund",
+    "topic_summary": "Requests annual public disclosure of EEO-1 workforce data broken down by race and gender across ten employment categories, beginning in 2016.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "We recommend a vote against the second stockholder proposal."
+   }
+  ]
+ }
+}

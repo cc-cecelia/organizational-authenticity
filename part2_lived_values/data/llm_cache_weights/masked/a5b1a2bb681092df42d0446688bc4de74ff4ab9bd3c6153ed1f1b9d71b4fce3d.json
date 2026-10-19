@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "a5b1a2bb681092df42d0446688bc4de74ff4ab9bd3c6153ed1f1b9d71b4fce3d",
+  "est_input_tokens": 17987
+ },
+ "usage": {
+  "input_tokens": 18901,
+  "output_tokens": 421
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs on effective merchandising, driving market share gains and the enhancement of the Company's omnichannel sales and marketing"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for profitability of Company operations and focuses management on operational efficiency and expense management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on improving inventory management, which generates cash flow for investing in the business"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on growing Pro market share, which drives long-term sustainable sales growth and profitability"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs awarded in #will be earned based on the Company's ROIC for the #-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "reducing payouts when the Company's TSR underperforms the S&P #Index and increasing payouts when the Company's TSR outperforms"
+   }
+  ],
+  "equal_split": []
+ }
+}

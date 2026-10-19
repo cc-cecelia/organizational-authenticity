@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "433647f6f5fbfee6289f5a97afc579332f6db8ad1fc5116be603e19421e7727d",
+  "est_input_tokens": 19562
+ },
+ "usage": {
+  "input_tokens": 23506,
+  "output_tokens": 779
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Sales (2) | $43.61B | 25% | $39.77B"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS | $5.21 | 25% | $4.63"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted ROA | 15.9% | 10% | 13.7%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | $8.6B | 10% | $6.3B"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care Sales Growth | 10% | 88.8% of target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "EPD and Nutrition Sales Growth | 10% | 85.3% of Target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Goal (10% weight): Meet talent, succession planning, and diversity targets."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest one-third each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee positions LTI award guidelines relative to the market by comparing Abbott's 3-year TSR performance against our peers."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sales and market growth contribution"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Margin Contribution | Exceeded (+1) | Exceeded (+1) | Exceeded (+1) | +3"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Financial Contribution | Did Not Meet (-1) | Exceeded (+1) | Did Not Meet (-1) | -1"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Adjusted Sales | 25%"
+   }
+  ]
+ }
+}

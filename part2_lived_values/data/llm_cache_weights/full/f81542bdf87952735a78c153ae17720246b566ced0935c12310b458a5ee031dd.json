@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "f81542bdf87952735a78c153ae17720246b566ced0935c12310b458a5ee031dd",
+  "est_input_tokens": 25903
+ },
+ "usage": {
+  "input_tokens": 26557,
+  "output_tokens": 1208
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Weighted at 40 percent of the annual incentive bonus program, the Financial Performance Goal considered for our annual incentive bonus targets is EPS attributable to Valero stockholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "With a combined weighting of 40 percent of our annual incentive bonus program, the Operational Performance Goals considered for our annual incentive bonus"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "Health, Safety, and Environment \u2013 Measures Valero's achievements in the areas of health, safety, and environmental stewardship through an array of metrics"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability \u2013 Measures Valero's achievements in improving refining competitiveness by successfully executing refinery maintenance"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Refining Cash Operating Expense Management \u2013 Measures Valero's achievements in managing refinery operating costs"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This component, with a weighting of 20 percent of the annual incentive bonus program, includes evaluation by the Human Resources and Compensation Committee of accomplishments"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Returns to Stockholders | \u2022 Return cash to stockholders through dividends and stock buybacks"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Disciplined Use of Capital | \u2022 Balanced utilization of sustaining and growth capital vs. target"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Operational Excellence | \u2022 Execution of capital projects and turnarounds"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Organizational Excellence | \u2022 Strategic communications"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Environmental, Social and Governance (ESG) Efforts & Improvement* | \u2022 Environmental stewardship"
+   },
+   {
+    "id": 11,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion | \u2022 Expanded our talent pool by hosting our largest summer internship class in company history"
+   },
+   {
+    "id": 12,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Compliance | \u2022 Implemented an enhanced company-wide Third-Party Risk Management solution"
+   },
+   {
+    "id": 13,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship and community | \u2022 Record fundraising for the Valero-sponsored Benefit for Children fundraising event"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary performance measure is relative TSR versus a peer group, which is weighted at 100 percent."
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "an Energy Transition modifier containing two additional metrics (GHG emissions reductions/displacements vs. annual target"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "investments in low-carbon initiatives as a percent of three-year trailing average growth CapEx attributable to Valero"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "are measured against the following equally weighted sub-components:"
+   }
+  ]
+ }
+}

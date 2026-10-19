@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "e7cebd47d575b4493fca55bc1e7ada7c295273be3ddd844afb495e1ef3bfd3c4",
+  "est_input_tokens": 33341
+ },
+ "usage": {
+  "input_tokens": 35921,
+  "output_tokens": 432
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenue A leading indicator of performance and value creation; provides a clear focus on growth; an important measure in our industry"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS A measure of income that provides focus on profitable growth and expense control; viewed as a strong indicator of sustained performance over the long term"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations A measure that provides focus on generating cash in the short-term to fund operations and research"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Aligns rewards to both a strategic financial performance metric NI (#) over three one-year periods and relative TSR"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Why use relative TSR as a PSA metric? The relative TSR metric over the three-year performance period provides balance that is intended to drive performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides direct alignment with shareholders as awards are tied to absolute TSR"
+   }
+  ],
+  "equal_split": []
+ }
+}

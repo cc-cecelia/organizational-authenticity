@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e6613b1db56e860dfcc870aa84d66d53e4b60e66e29ed33788fe878548c63ba8",
+  "est_input_tokens": 41164
+ },
+ "usage": {
+  "input_tokens": 48040,
+  "output_tokens": 1051
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each category contains multiple performance measures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "several notable successes in capital management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "strong operating performance on measures of key importance"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Health, Environmental and Safety\u201415 Percent"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u20142017 reported earnings of $9.2 billion and $4.85 EPS exceeded Plan."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014Chevron delivered positive cash flow in 2017, driven by actions taken to selectively sell assets"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014$5.2 billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for 2017 of 5.0 percent exceeded Plan."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures\u20142017 C&E totaled $18.8 billion, $1.0 billion, or 5 percent, lower than budget"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Net production of 2.755 million barrels of oil-equivalent per day in 2017, excluding divestments."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled $23.9 billion, better than Plan"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Refining unit utilization rates below Plan, primarily due to unplanned shutdowns"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on several measures"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Loss of containment performance was better than Plan; spill volume above Plan."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe that TSR is the best overall pay-for-performance measure"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock Options | 25% | \u2022 Strike price is equal to the closing common stock price on the grant date."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Five-year cliff vesting lengthens equity holding time, which enhances retention and alignment with stockholders."
+   }
+  ],
+  "equal_split": []
+ }
+}

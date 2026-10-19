@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "BRK.B",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-069107",
+  "task": "proposals",
+  "section_words": 4797,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a282648afb9ae4399e639ad14fbe4669370af449c6c9d5af746b3b85fd7fac96",
+  "est_input_tokens": 13163
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15833,
+  "output_tokens": 1323,
+  "request_id": "req_011CgC9mANbc3XE77ucKajbf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "2",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "As You Sow on behalf of Elizabeth Kantor Trust U/A DTD 3/11/1993",
+    "topic_summary": "Requests a report on how Berkshire intends to measure, disclose and reduce GHG emissions from its underwriting, insuring and investment activities in line with the Paris 1.5\u00b0C goal.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board does not believe issuing a report disclosing how Berkshire intends to measure, disclose and reduce the greenhouse gas emissions associated with its underwriting, insuring and investment activities is necessary."
+   },
+   {
+    "item_number": "3",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Michael W. Frerichs as Treasurer for the State of Illinois and Trustee of the Bright Start College Savings Trust",
+    "topic_summary": "Requests disclosure of GHG emissions by scope and progress toward net-zero goal for Berkshire Hathaway Energy in a consolidated annual report.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board does not believe that additional reporting of Berkshire Hathaway Energy's greenhouse gas emissions by scope and progress toward its net zero decarbonization goal is necessary at this time."
+   },
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Meredith Benton of Whistle Stop Capital on behalf of Myra K. Young",
+    "topic_summary": "Requests a report on the effectiveness of Berkshire's diversity, equity and inclusion efforts with quantitative workforce diversity, hiring, promotion and retention metrics by gender, race and ethnicity.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends a \"no\" vote on this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Segal Marco Advisors on behalf of the AFL-CIO Equity Index Funds",
+    "topic_summary": "Urges formation of an independent-director Railroad Safety Committee to review staffing levels and their impact on safety at BNSF and meet with stakeholders on safety issues.",
+    "category": "safety",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board does not believe that creating a Railroad Safety Committee of independent directors is necessary or appropriate."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Scott Shepard, Director of the Free Enterprise Project of the National Center for Public Policy Research",
+    "topic_summary": "Requests an audited report assessing how the Energy Policy Research Foundation findings would affect Berkshire's financial statement assumptions, valuations and asset estimates.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board does not believe the issuance of an audited report assessing how applying the findings of the Energy Policy Research Foundation would provide useful information for shareholders."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Paul Chesser on behalf of National Legal and Policy Center",
+    "topic_summary": "Requests an annual report on the extent to which corporate operations depend on and are vulnerable to China, including reliance on Chinese government-controlled activities.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Berkshire discloses material risks to its businesses in its filings with the SEC. In addition, Berkshire's Prohibited Business Practices Policy specifically addresses transactions with China and human rights issues."
+   }
+  ]
+ }
+}

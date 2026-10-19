@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000197",
+  "task": "proposals",
+  "section_words": 1247,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a0f7554fbd123d21e0832c92649c31ba2ed932364049c0e7929adef7eca426a9",
+  "est_input_tokens": 3031
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4245,
+  "output_tokens": 219,
+  "request_id": "req_011CgCBZwb5uCvFTyTFtEb3p"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal to amend the proxy access bylaw to remove candidate resubmission threshold",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend the proxy access bylaw so proxy access director candidates need not obtain a specific percentage vote to qualify as candidates in future meetings.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote Against the shareholder proposal to amend the proxy access bylaw to remove the candidate resubmission threshold."
+   }
+  ]
+ }
+}

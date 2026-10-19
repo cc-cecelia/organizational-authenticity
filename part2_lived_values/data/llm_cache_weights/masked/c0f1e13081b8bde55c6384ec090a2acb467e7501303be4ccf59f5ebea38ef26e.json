@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "c0f1e13081b8bde55c6384ec090a2acb467e7501303be4ccf59f5ebea38ef26e",
+  "est_input_tokens": 18183
+ },
+ "usage": {
+  "input_tokens": 18841,
+  "output_tokens": 940
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial metrics are revenue growth, non-GAAP diluted EPS, free cash flow, and market share"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diluted EPS Growth (Non-GAAP) | Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a key driver of shareholder returns and captures items not included in GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Increases in market share is a driver of revenue and income across our portfolios and regions."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Medtronic also assessed nonfinancial performance focused on ID&E and Quality."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We made considerable progress in diversity focused on an increase in female managers and above"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "ethnically diverse managers and above. Medtronic exceeded the progress goal toward our stated FY#representation"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Complimenting our ID&E category was Quality emphasizing both compliance and quality."
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Compliance | Findings/Inspections (FDA #) | <= #| # | #| #"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Quality | FCA Execution Timelines | >= # | # | # | #"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Complaint Timeliness Execution | >= # | # | # | #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual Performance Scorecard As noted above the FY#MIP payout is #, resulting in no individual MIP modifications."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit plan is a #-year incentive plan that is based on long-term measures of company performance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The # portion focused on Relative TSR is defined as the ending share price of a share of common stock, plus the value of reinvested dividends"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the #-year ROIC target is not achieved the overall performance score is reduced by #."
+   }
+  ],
+  "equal_split": []
+ }
+}

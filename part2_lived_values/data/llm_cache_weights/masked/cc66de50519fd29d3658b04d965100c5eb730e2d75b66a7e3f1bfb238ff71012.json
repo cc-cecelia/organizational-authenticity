@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "cc66de50519fd29d3658b04d965100c5eb730e2d75b66a7e3f1bfb238ff71012",
+  "est_input_tokens": 19081
+ },
+ "usage": {
+  "input_tokens": 18616,
+  "output_tokens": 883
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key financial metrics include organic revenue growth, adjusted operating income margin, adjusted earnings per share and free cash flow."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income as a [w] of revenue (#), (iii) adjusted earnings per share (#), and (iv) free cash flow"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each of these metrics directly drove payouts to our named executive officers in incentive programs used in #."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "free cash flow (operating cash flow net of capital expenditures and excluding operating cash flows from discontinued operations)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining # of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Customer Allegiance | We achieved a new high on our customer allegiance score in #"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Positioning the Company for Accelerated Revenue Growth | We had a strong cadence of new product launches"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Positioning the Company for Margin Expansion | We ramped up our financial shared services center"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Employer of Choice/Diversity | We received very positive feedback from our employees"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Effectively Execute Capital Deployment Strategy | We exceeded our synergy targets for the Company's #acquisition of FEI"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based restricted stock units granted in # and # to all named executive officers which incorporated the Company's performance on organic revenue growth and adjusted EPS growth metrics."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance goals related to the Company's organic revenue growth and adjusted earnings per share have been achieved"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "In September #the Committee approved a supplemental incentive opportunity for the Company's leadership team consisting of a single grant of performance-based stock options"
+   }
+  ],
+  "equal_split": []
+ }
+}

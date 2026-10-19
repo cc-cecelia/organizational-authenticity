@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0001047469-19-001544",
+  "task": "proposals",
+  "section_words": 4403,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3cf5d4f0b9f6f842e131b16ed0e0fe47d0decffb6483885b6625c3465bf53c00",
+  "est_input_tokens": 10418
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11472,
+  "output_tokens": 667,
+  "request_id": "req_011CgCAcfvUbvxgzJASBoxRu"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on Lobbying Report",
+    "proponent": "Zevin Asset Management, on behalf of William Creighton, and co-filers Congregation of Sisters of St. Agnes, First Affirmative Financial Network, LLC, Friends Fiduciary Corporation, and Sisters of Charity of the Blessed Virgin Mary",
+    "topic_summary": "Requests an annual report disclosing AbbVie's direct and indirect lobbying policies, payments, trade association memberships and oversight of lobbying payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal on Compensation Committee Drug Pricing Report",
+    "proponent": "United Church Funds, and co-filers, including Bon Secours Mercy Health, Sisters of Charity of Saint Elizabeth, Sisters of Providence, Mother Joseph Province, and Trinity Health",
+    "topic_summary": "Asks the Compensation Committee to report annually on whether risks related to public concern over drug pricing are integrated into senior executive incentive compensation.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal on Independent Chair",
+    "proponent": "The Employees' Retirement System of Rhode Island and co-filer Vermont Pension Investment Committee",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

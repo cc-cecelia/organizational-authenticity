@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001534701-24-000095",
+  "task": "proposals",
+  "section_words": 6186,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c5a7dbbf939c564e9793d7361bbe556c4406da0c3fad31260bc5cb5e76e3dabe",
+  "est_input_tokens": 13624
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15296,
+  "output_tokens": 234,
+  "request_id": "req_011CgCCFd5U9P3CeU84YKWDj"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Requesting Report Analyzing the Impact of the \"System Change Scenario\" on the Chemicals Business",
+    "proponent": "As You Sow (on behalf of Warren Wilson College)",
+    "topic_summary": "Requests a report analyzing whether and how a significant reduction in virgin plastic demand, per Breaking the Plastic Wave's System Change Scenario, would affect the Company's financial position and financial statement assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote \"AGAINST\" proposal 4."
+   }
+  ]
+ }
+}

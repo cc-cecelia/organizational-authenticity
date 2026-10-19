@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0000097745-22-000018",
+  "task": "incentives",
+  "section_words": 8248,
+  "section_method": "heading",
+  "cache_key": "48ea4ca7e4e6ac80b71cc11e587182ac86cee8bd4ad8eee1e503a8778b6d015e",
+  "est_input_tokens": 18957
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20187,
+  "output_tokens": 3601,
+  "request_id": "req_011CgCAkhDqMKpZ9NYx8cKpJ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Organic revenue growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic revenue growth (35%)"
+   },
+   {
+    "metric": "Adjusted net income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted net income (30%)"
+   },
+   {
+    "metric": "Free cash flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free cash flow (5%)"
+   },
+   {
+    "metric": "Non-financial performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-financial | 30% | 200% | 60%"
+   },
+   {
+    "metric": "Customer allegiance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Improve Customer Allegiance Score (\"CAS\") vs. 2020"
+   },
+   {
+    "metric": "Positioning the Company for accelerated revenue growth and margin expansion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Positioning the Company for Accelerated Revenue Growth"
+   },
+   {
+    "metric": "Employer of choice and workforce diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Employer of Choice/Diversity"
+   },
+   {
+    "metric": "Effectively execute capital deployment strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Effectively Execute Capital Deployment Strategy"
+   },
+   {
+    "metric": "Organic revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (50%)"
+   },
+   {
+    "metric": "Adjusted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Earnings Per Share (50%)"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the number of performance-based restricted stock units distributed on the final vesting date in 2024 will be subject to adjustment based on the Company's relative performance"
+   },
+   {
+    "metric": "Relative TSR (2020 performance-based stock options)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If Thermo Fisher TSR ranks in the top ten companies (i.e. top third) (i) in one period, 33% of the award will vest"
+   }
+  ]
+ }
+}

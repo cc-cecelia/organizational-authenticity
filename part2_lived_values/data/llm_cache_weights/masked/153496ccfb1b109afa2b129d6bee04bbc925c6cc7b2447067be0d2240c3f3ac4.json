@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "153496ccfb1b109afa2b129d6bee04bbc925c6cc7b2447067be0d2240c3f3ac4",
+  "est_input_tokens": 39229
+ },
+ "usage": {
+  "input_tokens": 43470,
+  "output_tokens": 459
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Under a free cash flow metric, Medtronic management is held accountable for GAAP net income including items such as litigation, tax payments and benefits"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We focus on quality system compliance measured through FDA inspection results"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Uses a cumulative compound annual growth rate (Cumulative CAGR)over # scal years, which is a more rigorous measure of sustained revenue growth."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Medtronic's RSUs include a #-year minimum performance threshold that must be met before the RSUs vest."
+   }
+  ],
+  "equal_split": []
+ }
+}

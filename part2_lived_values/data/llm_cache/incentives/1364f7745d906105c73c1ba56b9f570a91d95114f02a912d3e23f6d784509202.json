@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-18-107675",
+  "task": "incentives",
+  "section_words": 9528,
+  "section_method": "heading",
+  "cache_key": "1364f7745d906105c73c1ba56b9f570a91d95114f02a912d3e23f6d784509202",
+  "est_input_tokens": 21312
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23861,
+  "output_tokens": 855,
+  "request_id": "req_011CgC9gMJ3o1GsnmP8zNx79"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Absolute Financial Performance (adjusted net income vs prior year)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an absolute financial component (25% weighting)"
+   },
+   {
+    "metric": "Relative Financial Performance (adjusted net income growth vs peer group)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a relative financial component (25% weighting)"
+   },
+   {
+    "metric": "Operational Performance (business unit goals, corporate average of 10 business units)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an operational performance component (50% weighting)"
+   },
+   {
+    "metric": "Hiring and retaining of diverse (women and under-represented minorities) talent",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "corporate-level goals that for 2017 related to hiring and retaining of diverse (women and under-represented minorities) talent"
+   },
+   {
+    "metric": "Individual performance-based adjustment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts may be adjusted upward or downward based on individual performance."
+   },
+   {
+    "metric": "Outperformance stock units (OSUs) relative TSR vs S&P 500 Information Technology Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "OSUs are variable performance-based RSUs under which the number of shares of Intel common stock earned is based on Intel's relative TSR performance over a three-year period"
+   }
+  ]
+ }
+}

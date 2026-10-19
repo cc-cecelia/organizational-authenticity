@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "4bfde06c095be1855bbd520278920ee7372c57fe818826f8e3051f487bf239e9",
+  "est_input_tokens": 14721
+ },
+ "usage": {
+  "input_tokens": 15928,
+  "output_tokens": 697
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial performance, including ROE (3)(8)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Shareholder return"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Capital and liquidity strength"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Firm Expense Efficiency Ratio (5) and compensation to pre-compensation PBT ratio (15)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Business performance for each primary business unit"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Company risk management and controls"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Infrastructure initiatives, including with respect to cybersecurity"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Standing with regulators"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Talent development, including diversity"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "promotion of diversity and inclusion in the Legal and Compliance Division"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Board assessment of Company culture, leadership, strategy, and reputation"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance-vested long-term equity incentive compensation based equally on MS average ROE and relative TSR over three years"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROE over the three-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 11,
+    "plan": "long_term_incentive",
+    "evidence": "based equally on MS average ROE and relative TSR over three years"
+   }
+  ]
+ }
+}

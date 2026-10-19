@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001308179-21-000258",
+  "task": "incentives",
+  "section_words": 7601,
+  "section_method": "heading",
+  "cache_key": "56b79aeb295cc401928a90b884d45018bdcc89155ef1052dc4c5f04ea1411539",
+  "est_input_tokens": 17317
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18435,
+  "output_tokens": 1699,
+  "request_id": "req_011CgCBamsy1pyvddwXTRKXf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Incentive Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "metric": "Team Scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "by weighting our financial component 80% and the team scorecard 20%"
+   },
+   {
+    "metric": "Market share gains at enterprise and category level",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "market share gains at both the enterprise and category level in Apparel & Accessories, Food & Beverage, Essentials & Beauty, Hardlines, and Home Furnishings & D\u00e9cor"
+   },
+   {
+    "metric": "Digital performance including increased sales and decreased unit cost",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "digital performance including increased sales and decreased unit cost"
+   },
+   {
+    "metric": "Increased store comparable sales and utilization of same-day fulfillment services",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increased store comparable sales and utilization of same-day fulfillment services"
+   },
+   {
+    "metric": "Increased guest engagement with Target Circle",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increased guest engagement with Target Circle"
+   },
+   {
+    "metric": "Maintaining strong team engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "maintaining strong team engagement"
+   },
+   {
+    "metric": "Adjusted Sales growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts range from 0% to 200% of goal depending on Adjusted Sales growth, EPS growth, and ROIC performance relative to our retail peer group."
+   },
+   {
+    "metric": "EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts range from 0% to 200% of goal depending on Adjusted Sales growth, EPS growth, and ROIC performance relative to our retail peer group."
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts range from 0% to 200% of goal depending on Adjusted Sales growth, EPS growth, and ROIC performance relative to our retail peer group."
+   },
+   {
+    "metric": "Total shareholder return (TSR) relative to retail peer group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PBRSUs \u2014 Payouts range from 75% to 125% of goal depending on total shareholder return (TSR) performance relative to our retail peer group."
+   }
+  ]
+ }
+}

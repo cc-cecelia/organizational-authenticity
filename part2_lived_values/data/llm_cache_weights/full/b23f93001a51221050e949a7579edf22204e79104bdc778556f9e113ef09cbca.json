@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "b23f93001a51221050e949a7579edf22204e79104bdc778556f9e113ef09cbca",
+  "est_input_tokens": 20888
+ },
+ "usage": {
+  "input_tokens": 22843,
+  "output_tokens": 552
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Top line growth continues to be a key Company strategy, reflecting market development, market penetration, and market share performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash flow generated from operations plus management of short-term receivables, inventory, and payables is a key driver"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We endeavor to maintain high quality system compliance measured through FDA inspection results"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Uses a cumulative compound annual growth rate (Cumulative CAGR) over three fiscal years, which is a more rigorous measure of sustained revenue growth."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance threshold was set as the diluted earnings per share cumulative compound annual growth rate (cumulative CAGR) of 3%."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures, which were weighted equally (1/3 each), were diluted earnings per share, revenue growth and cash-flow indicator"
+   }
+  ]
+ }
+}

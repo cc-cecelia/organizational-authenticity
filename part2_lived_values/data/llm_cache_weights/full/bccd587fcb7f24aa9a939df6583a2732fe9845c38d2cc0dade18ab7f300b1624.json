@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "bccd587fcb7f24aa9a939df6583a2732fe9845c38d2cc0dade18ab7f300b1624",
+  "est_input_tokens": 17305
+ },
+ "usage": {
+  "input_tokens": 17603,
+  "output_tokens": 1039
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on performance goals tied 70% to financial measures (organic revenue growth, adjusted net income, free cash flow)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on performance goals tied 70% to financial measures (organic revenue growth, adjusted net income, free cash flow)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on performance goals tied 70% to financial measures (organic revenue growth, adjusted net income, free cash flow)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee also assesses non-financial performance across 4 identified areas of strategic importance"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "explicitly incorporated these ESG priorities as one of the 4 non-financial measures of the annual incentive program"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Make progress on our greenhouse gas emission reduction goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continue to focus on the safety of our colleagues"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continue to improve leadership diversity"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Build on momentum to support our communities through colleague involvement and STEM education"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Position Company for accelerated revenue growth | \u2022 Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Improve Customer Allegiance Score (CAS) vs. 2021"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Position Company to drive margin expansion over mid-term | \u2022 Drives strong future profitability"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards achievement of financial goals (organic revenue growth, adjusted EPS)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards achievement of financial goals (organic revenue growth, adjusted EPS)"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "assessing TSR relative to some of the highest performing companies in S&P 500 over the long-term"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR long-term incentive stock option awards In September 2020 the Committee approved a performance-based stock option program for senior leaders"
+   }
+  ],
+  "equal_split": []
+ }
+}

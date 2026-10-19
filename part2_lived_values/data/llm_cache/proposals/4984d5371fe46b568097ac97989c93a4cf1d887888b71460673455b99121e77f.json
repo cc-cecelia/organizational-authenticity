@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-297858",
+  "task": "proposals",
+  "section_words": 6613,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "4984d5371fe46b568097ac97989c93a4cf1d887888b71460673455b99121e77f",
+  "est_input_tokens": 14690
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16260,
+  "output_tokens": 577,
+  "request_id": "req_011CgC9Zv64QrWjmkr6s4zhC"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING POLITICAL CONTRIBUTIONS REPORT",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Requests a semiannually updated public report disclosing policies and monetary and non-monetary political contributions and expenditures, including trade association payments and recipients.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING PAY EQUITY REPORT",
+    "proponent": "Pax World Mutual Funds",
+    "topic_summary": "Requests a report by April 2018 identifying whether a gender pay gap exists among employees and outlining steps and reduction targets to reduce it.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 7."
+   },
+   {
+    "item_number": "8",
+    "title": "STOCKHOLDER PROPOSAL REGARDING PROXY ACCESS REFORM",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to amend proxy access bylaws by removing the 20-stockholder aggregation limit and raising the nominee cap to one quarter of directors or two.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 8."
+   }
+  ]
+ }
+}

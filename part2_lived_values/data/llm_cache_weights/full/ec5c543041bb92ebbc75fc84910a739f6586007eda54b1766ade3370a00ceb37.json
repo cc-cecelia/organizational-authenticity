@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "ec5c543041bb92ebbc75fc84910a739f6586007eda54b1766ade3370a00ceb37",
+  "est_input_tokens": 16862
+ },
+ "usage": {
+  "input_tokens": 18412,
+  "output_tokens": 2286
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The LDC Committee aligned the weighting of the sales and operating profit goals to emphasize top line sales growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Although the operating profit metric is used in more than one incentive, it is a key corporate goal"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Inventory Turns (20%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC for each year in the performance period is defined as operating profit, net of tax"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The pre-established definition of operating profit for each year in the performance period is the same"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In March 2018, we granted performance-based restricted stock awards that were forfeitable if operating profit was less than 90% of the MIP target"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001104659-24-032641",
+  "task": "proposals",
+  "section_words": 7178,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "37a21f9722dd241f3499038c026aff6130556afa067c5b22e55796fcc1ec076d",
+  "est_input_tokens": 16360
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18109,
+  "output_tokens": 975,
+  "request_id": "req_011CgC9firYyfe6qqN32GDvw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal Requesting a Public Report on Lobbying Activities",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests an annual report disclosing IBM's lobbying policies, direct and indirect lobbying and grassroots payments, recipients, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a third-party review of whether IBM's China business aligns with its ESG commitments and Human Rights Statement, and board plans to mitigate misalignment.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting a Right to Act by Written Consent",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests board steps to permit shareholders to act by written consent with the minimum votes needed at a fully attended meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THEREFORE, THE BOARD RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Requesting a Public Report on Climate Lobbying",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests annual analysis and report on whether IBM's direct and indirect lobbying aligns with its net-zero 2030 emissions target.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THEREFORE, THE BOARD RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Requesting the Adoption of Greenhouse Gas Emissions Targets",
+    "proponent": "Green Century Capital Management, Inc., on behalf of the Green Century Equity Fund",
+    "topic_summary": "Requests independently verified short-, medium- and long-term science-based emissions targets covering full value chain, achieving net zero by 2050.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

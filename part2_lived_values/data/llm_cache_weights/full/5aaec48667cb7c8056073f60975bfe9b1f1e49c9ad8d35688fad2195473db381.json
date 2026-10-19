@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "5aaec48667cb7c8056073f60975bfe9b1f1e49c9ad8d35688fad2195473db381",
+  "est_input_tokens": 13140
+ },
+ "usage": {
+  "input_tokens": 12894,
+  "output_tokens": 1239
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "designed to motivate our executive officers to focus on company-wide priorities and to reward them for individual results and achievements"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The performance assessment determinations were based on an overall subjective assessment of each officer's performance"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "grow our user base across all our products"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "particularly the strength of sharing and engagement and our continued strong revenue growth"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "particularly the strength of sharing and engagement and our continued strong revenue growth"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve product quality"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve our brand"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "make progress toward our long-term investments"
+   }
+  ],
+  "equal_split": []
+ }
+}

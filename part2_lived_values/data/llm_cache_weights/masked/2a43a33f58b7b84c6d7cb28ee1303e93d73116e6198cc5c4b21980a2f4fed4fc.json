@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "2a43a33f58b7b84c6d7cb28ee1303e93d73116e6198cc5c4b21980a2f4fed4fc",
+  "est_input_tokens": 17280
+ },
+ "usage": {
+  "input_tokens": 18788,
+  "output_tokens": 2916
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Diluted EPS (Net Income divided by outstanding shares of common stock) | A critical measure of annual profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top-line growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our pipeline metric highlights the importance of pipeline delivery to the near-term and long-term success of the company."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes delivery of the late-stage pipeline , which drives near-term value"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression and successes of the R&D pipeline at various stages of development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual awards are comprised of a company performance factor, which is calculated based on pre-defined financial and pipeline goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Drive performance of the business: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Enhance the value of the portfolio: Maximize portfolio value of new franchises/assets"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Enable a high performing organization and culture: Embed our strategy to engage, empower and enrich employees"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "continuing to deepen employee engagement as measured in surveys and business performance"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "a culture of business integrity, ethics and compliance"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "increased focus on the company's diversity and inclusion initiatives"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Introducing a new mix of financial performance metrics in our PSU program."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Non-GAAP EPS will remain a financial measure in our annual incentive plan, but has been eliminated from our PSU program."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a relative #-year TSR modifier to our PSU awards"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Long-term incentive awards, in the form of Performance Share Units and Market Share Units, were granted in line with target amounts"
+   }
+  ],
+  "equal_split": []
+ }
+}

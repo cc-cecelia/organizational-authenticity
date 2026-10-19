@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "131a345aa36112399bc8dc1b56410302564bb14b29283051a659e74c8854477b",
+  "est_input_tokens": 40997
+ },
+ "usage": {
+  "input_tokens": 42883,
+  "output_tokens": 837
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Business Results, including absolute and relative performance over multiple years"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities and commitment to provide economic opportunity to underserved communities"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive, respectful and accountable environment and developing employees, managers and leaders"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "we established an executive accountability framework that strengthens the way the Firm incorporates diversity, equity and inclusion priorities and progress into year-end performance evaluations and compensation decisions"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "committed an additional $30 billion to advance racial equity as part of our Path Forward initiative"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Announced a commitment to align our financing activities in three sectors \u2013 oil and gas, electric power and automotive manufacturing \u2013 with the goals of the Paris Agreement"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Committed $250M to support communities globally through economic and public health challenges"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Protected and supported our employees throughout the COVID-19 pandemic, including: alternative work arrangements"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDC selected ROTCE, a comprehensive performance metric that measures the Firm's net income applicable to common equity"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the CMDC does not assign relative weightings to these dimensions"
+   }
+  ]
+ }
+}

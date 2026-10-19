@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001047469-17-002810",
+  "task": "proposals",
+  "section_words": 3044,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cb6c1b2944e895c526f43a68e44bfd07a3e07e460801bf2da2f56dcd23ee21c9",
+  "est_input_tokens": 6521
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8188,
+  "output_tokens": 188,
+  "request_id": "req_011CgCAVCEQKNm3qewDrpx31"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Lobbying Disclosure",
+    "proponent": "Comptroller of the State of New York",
+    "topic_summary": "Requests an annually updated report disclosing direct and indirect lobbying policies, payments, trade association memberships, and oversight decision-making processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST the foregoing proposal for the following reasons"
+   }
+  ]
+ }
+}

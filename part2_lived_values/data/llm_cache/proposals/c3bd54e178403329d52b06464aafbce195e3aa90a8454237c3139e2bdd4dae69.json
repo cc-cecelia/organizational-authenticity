@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001564590-21-045926",
+  "task": "proposals",
+  "section_words": 17498,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c3bd54e178403329d52b06464aafbce195e3aa90a8454237c3139e2bdd4dae69",
+  "est_input_tokens": 38549
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 40376,
+  "output_tokens": 955,
+  "request_id": "req_011CgCBBgHUKwBQdViF8L8Vc"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal Five - Elect Each Director Annually",
+    "proponent": "James McRitchie",
+    "topic_summary": "Asks the board to reorganize into one class with each director elected annually for a one-year term.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reduction of director terms to one year."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal Six - Stockholder Proposal Regarding Additional Reporting on Diversity and Inclusion Efforts",
+    "proponent": "Calvert Research and Management",
+    "topic_summary": "Requests an annual report assessing diversity and inclusion efforts, including board process, hiring/retention metrics, and full EEO-1 disclosure.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding additional reporting on diversity and inclusion efforts."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal Seven - Stockholder Proposal Regarding Reporting on Employee Arbitration",
+    "proponent": "Nia Impact Capital",
+    "topic_summary": "Requests a public report on the impact of mandatory employee arbitration on harassment, discrimination and employees' ability to seek redress.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reporting on employee arbitration."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal Eight - Stockholder Proposal Regarding Assigning Responsibility for Strategic Oversight of Human Capital Management to an Independent Board-Level Committee",
+    "proponent": "Comptroller of the City of New York",
+    "topic_summary": "Asks the board to assign strategic oversight of human capital management, including workforce equity and inclusion, to an independent board-level committee.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding assigning responsibility for strategic oversight of human capital management to an independent board-level committee."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal Nine - Stockholder Proposal Regarding Additional Reporting on Human Rights",
+    "proponent": "Sisters of the Good Shepherd New York Province",
+    "topic_summary": "Requests an independent third-party report assessing Tesla's human rights fulfillment and responsible sourcing practices across its value chain.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding additional reporting on human rights."
+   }
+  ]
+ }
+}

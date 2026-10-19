@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "21f4082e5af4e66777199f3535fae13ad11f700476bca9710b6aed682c1f61ef",
+  "est_input_tokens": 21199
+ },
+ "usage": {
+  "input_tokens": 22719,
+  "output_tokens": 2488
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financials\u2014#"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#earnings and earnings per share met Business Plan targets, excluding the impact of low commodity prices"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014We remain on target to be cash flow breakeven at #Brent in #."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in sales proceeds were realized in #."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital Management\u2014#"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed (ROCE) \u2014#annual ROCE performance beat the Business Plan objective, excluding commodity price impacts."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures (C&E) \u2014C&E totaled #billion in ##billion or # lower than the Business Plan."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Gorgon\u2014First cargo for Gorgon Train #loaded in first # per the Business Plan."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Performance\u2014#"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day was slightly below the external guidance provided at the beginning of the year"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled #billion, well under the Business Plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates exceeded the Business Plan by #."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environment and Safety\u2014#"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Business Plan and achieving record lows on most measures"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Achieved record low spills and had continued improvement in lowering both the number and the impact of loss of containment incidents."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the CEO and the other NEOs all received a #Individual Performance Factor (IPF)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The majority of the LTIP award derives value directly from TSR (relative and absolute)."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is equal to the closing common stock price on the grant date."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Five-year cliff vesting lengthens equity holding time."
+   }
+  ],
+  "equal_split": []
+ }
+}

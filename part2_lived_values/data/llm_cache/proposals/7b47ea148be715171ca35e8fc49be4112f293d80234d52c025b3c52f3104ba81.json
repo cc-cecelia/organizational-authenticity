@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001206774-18-001176",
+  "task": "proposals",
+  "section_words": 4815,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7b47ea148be715171ca35e8fc49be4112f293d80234d52c025b3c52f3104ba81",
+  "est_input_tokens": 11537
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12406,
+  "output_tokens": 491,
+  "request_id": "req_011CgCBM5k77nRMoWnUGiYG4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Advisory vote on a shareholder proposal requesting the ability for shareholders to act by written consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board permit shareholders entitled to cast the minimum votes needed to act to take action by written consent, including initiating any topic consistent with law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Advisory vote on a shareholder proposal requesting a report on plastic straws",
+    "proponent": "Keith Schnip",
+    "topic_summary": "Requests a report on business risks of continued plastic straw use and the company's efforts to develop and implement substitutes for plastic straws.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Advisory vote on a shareholder proposal requesting a report on charitable contributions",
+    "proponent": "John Harrington",
+    "topic_summary": "Requests an annual report listing and analyzing charitable contributions, assessing congruency with stated values and brand/reputation risks from controversies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

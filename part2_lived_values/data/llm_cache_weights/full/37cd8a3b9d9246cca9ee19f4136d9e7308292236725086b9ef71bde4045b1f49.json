@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "37cd8a3b9d9246cca9ee19f4136d9e7308292236725086b9ef71bde4045b1f49",
+  "est_input_tokens": 12386
+ },
+ "usage": {
+  "input_tokens": 13576,
+  "output_tokens": 888
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial goals for Citi's business leaders, including the CEO, continue to be weighted 70% in the performance evaluation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee also considered each executive's performance against non-financial goals when awarding executive pay."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citigroup Income from Continuing Operations Before Taxes | $23.9 billion | Overall Financial"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Citigroup Efficiency Ratio | 56.5% | Goal Rating | 2.86"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "the chart to the right shows how Citi performed in 2019 against our primary financial benchmark\u2014return on tangible common equity"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Ratio | 176%"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Citigroup Risk Appetite Surplus | $10.16 billion"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "Risk management excellence and dedication to supporting robust control systems are a foundation of Citi's executive compensation program"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "reviewed leadership in establishing a culture of ethical business conduct"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "achievement against human capital management goals such as addressing representation of women and U.S. minorities in senior roles at Citi"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit program includes two performance metrics: return on tangible common equity and cumulative earnings per share"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Ultimate value of earned units linked to Citi total shareholder return"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Financial goals for Citi's business leaders, including the CEO, continue to be weighted 70% in the performance evaluation"
+   }
+  ]
+ }
+}

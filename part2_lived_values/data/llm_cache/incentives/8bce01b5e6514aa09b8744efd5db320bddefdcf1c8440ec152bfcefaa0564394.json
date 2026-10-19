@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000033",
+  "task": "incentives",
+  "section_words": 10228,
+  "section_method": "heading",
+  "cache_key": "8bce01b5e6514aa09b8744efd5db320bddefdcf1c8440ec152bfcefaa0564394",
+  "est_input_tokens": 22677
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24588,
+  "output_tokens": 1450,
+  "request_id": "req_011CgCC79fyD7yL1FRpYbGRn"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBITDA \u2014 $8.107 billion \u2014 Our 2023 adjusted EBITDA of $8.107 billion represented a 25% increase over 2022"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow \u2014 $4.038 billion \u2014 Our 2023 free cash flow of $4.038 billion represented a 185% increase over 2022"
+   },
+   {
+    "metric": "Quantitative ESG Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "10% Quantitative ESG Goals | Targets to reduce Scope 3 emissions intensity and increase gender diversity"
+   },
+   {
+    "metric": "Scope 3 emissions intensity reduction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reduce Scope 3 emissions intensity by 7% year on year."
+   },
+   {
+    "metric": "Gender diversity (women in salaried population)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increase the percentage of women in SLB's salaried population from 23.8% in 2022 to 24.5% in 2023."
+   },
+   {
+    "metric": "Individual Goals (strategic personal objectives)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% Individual Goals | Strategic personal objectives"
+   },
+   {
+    "metric": "Absolute FCF margin (2023 PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Free Cash Flow Margin PSUs | Absolute performance metric, based on our FCF margin over a 3-year period"
+   },
+   {
+    "metric": "Relative ROCE (2023 PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Return on Capital Employed PSUs | Relative performance metric, comparing our average annual ROCE over a 3-year period"
+   },
+   {
+    "metric": "Relative TSR (2023 PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Total Shareholder Return PSUs | Relative performance metric, comparing our cumulative TSR over a 3-year period"
+   },
+   {
+    "metric": "Time-Based RSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Time-Based RSUs | Cliff vesting after 3 years, if still employed by SLB"
+   }
+  ]
+ }
+}

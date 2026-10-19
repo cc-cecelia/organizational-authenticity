@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "209b2ac9340c31630c17a2aeaeba69a760dc4f98f83f1f90ed15ded6fbc831b1",
+  "est_input_tokens": 16096
+ },
+ "usage": {
+  "input_tokens": 15974,
+  "output_tokens": 465
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating net income and operating EPS best measure our operational success as a high-value company."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic Imperatives revenue supports IBM's portfolio shift into a cognitive solutions and cloud platform company"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both free cash flow and operating cash flow are important measures of IBM's ability to reinvest and return value to our shareholders."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "client experience, market share growth and workforce development"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "client experience, market share growth and workforce development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "client experience, market share growth and workforce development"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approves the determination of actual performance relative to pre-established targets"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both free cash flow and operating cash flow are important measures of IBM's ability to reinvest and return value to our shareholders."
+   }
+  ],
+  "equal_split": []
+ }
+}

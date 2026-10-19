@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "55a16fb1a148d5d119b29c482a0ea107ee9c379cce7b86f3c9cc4111fc997365",
+  "est_input_tokens": 18653
+ },
+ "usage": {
+  "input_tokens": 21637,
+  "output_tokens": 730
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Officer financial goals are based on adjusted financial measures that reflect the true results of our ongoing operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS is diluted earnings per common share from continuing operations excluding specified items"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Return on Assets (ROA) reflects earnings from continuing operations, excluding interest expense and specified items"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow Recognizes the importance of generating cash to fund ongoing investments in our business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care and EPD and Nutrition Sales Growth exclude the impact of foreign exchange"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care and EPD and Nutrition Sales Growth exclude the impact of foreign exchange"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Building the diverse, innovative workforce of tomorrow"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest #-# each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Abbott's process is much more rigorous, reflecting both company and individual performance over a longer period of time."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic financial contribution goals."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Margin Contribution"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Financial Contribution"
+   }
+  ],
+  "equal_split": []
+ }
+}

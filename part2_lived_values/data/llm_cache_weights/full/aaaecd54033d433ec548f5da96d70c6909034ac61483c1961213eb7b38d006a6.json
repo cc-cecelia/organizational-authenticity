@@ -1,0 +1,168 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "aaaecd54033d433ec548f5da96d70c6909034ac61483c1961213eb7b38d006a6",
+  "est_input_tokens": 19145
+ },
+ "usage": {
+  "input_tokens": 20293,
+  "output_tokens": 2990
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Fifty percent of our Named Executives' fiscal year 2018 annual cash incentives were determined based on meeting pre-established targets for quantitative financial measures: Incentive Plan Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentive Plan Revenue (25%)* \u2022 Incentive Plan Operating Income (25%)*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & strategy (16.67%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & stakeholders (16.67%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture & organizational leadership (16.66%)"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "id": 14,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial cloud revenue (34%)"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial cloud subscribers (33%)"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows 10 monthly active devices (11%)"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consumer post-sales monetization gross margin (11%)"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn sessions | Number of times logged-in members visit LinkedIn, separated by 30 minutes of inactivity"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Surface gross margin | Gross margin from Surface and first-party accessories, excluding Surface Hub"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR multiplier (1-1.5x) is triggered only if Microsofts TSR is positive and above the 60th percentile of the S&P 500"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Product & strategy (16.67%) \u2022 Customers & stakeholders (16.67%) \u2022 Culture & organizational leadership (16.66%)"
+   }
+  ]
+ }
+}

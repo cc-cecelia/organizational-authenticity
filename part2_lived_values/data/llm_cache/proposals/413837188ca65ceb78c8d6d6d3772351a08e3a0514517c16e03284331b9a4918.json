@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-533382",
+  "task": "proposals",
+  "section_words": 16239,
+  "section_method": "resolved_windows",
+  "cache_key": "413837188ca65ceb78c8d6d6d3772351a08e3a0514517c16e03284331b9a4918",
+  "est_input_tokens": 36357
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38619,
+  "output_tokens": 1509,
+  "request_id": "req_011CgCBtvDG8QrrjYmXj3j8o"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Report on Lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual report disclosing Chevron's direct and indirect lobbying policies, payments, trade association and ALEC-type memberships, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that a special report beyond Chevron's current voluntary and mandatory disclosures is an unnecessary and inefficient use of Chevron's resources."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding Targets for Reducing Greenhouse Gas Emissions",
+    "proponent": "not stated",
+    "topic_summary": "Requests adoption of long-term, quantitative, company-wide greenhouse gas reduction targets for products and operations consistent with 2\u00b0C goal, and a report by November 30, 2016.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal. Chevron complies with the laws and regulations of the countries in which we operate"
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding Report on Climate Change Impact Assessment",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual assessment of long-term portfolio impacts to 2035 of possible climate policies, including IEA 450 scenario, on reserves and capital planning.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because such a report is unnecessary in light of the safeguards and oversight in place"
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding Report on Reserve Replacements",
+    "proponent": "not stated",
+    "topic_summary": "Requests reporting of reserve replacements in BTU energy units by resource category, annually, in addition to SEC reserve reporting.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron's reserve reporting is in accordance with U.S. Securities and Exchange Commission (SEC) rules"
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding Dividend Policy",
+    "proponent": "Arjuna Capital/Baldwin Brothers",
+    "topic_summary": "Requests advisory commitment to increase total capital distributions (dividends and buybacks) to shareholders in light of stranded carbon asset risks.",
+    "category": "shareholders",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because it believes that the proposed dividend policy is both unnecessary and unwise."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding Report on Shale Energy Operations",
+    "proponent": "not stated",
+    "topic_summary": "Requests quantitative reporting on all shale plays on water use, recycling, groundwater, closed-loop systems, and community impacts from hydraulic fracturing.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron has in place well-developed risk management systems"
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding Independent Director with Environmental Expertise",
+    "proponent": "not stated",
+    "topic_summary": "Requests that at least one board nominee have environmental expertise in hydrocarbon exploration and production and qualify as independent director.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that its current membership possesses significant environmental experience"
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding Special Meetings",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaw amendment giving holders of 10% of outstanding common stock the power to call a special shareowners meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because stockholders have consistently supported Chevron's current By-Law regarding special meetings"
+   }
+  ]
+ }
+}

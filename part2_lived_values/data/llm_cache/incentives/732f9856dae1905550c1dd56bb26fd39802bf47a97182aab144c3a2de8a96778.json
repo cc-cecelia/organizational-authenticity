@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-068743",
+  "task": "incentives",
+  "section_words": 10914,
+  "section_method": "heading",
+  "cache_key": "732f9856dae1905550c1dd56bb26fd39802bf47a97182aab144c3a2de8a96778",
+  "est_input_tokens": 25402
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28288,
+  "output_tokens": 1565,
+  "request_id": "req_011CgCA4Az3MMG3VsmGB9w2c"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Assessment Framework: Financial Performance (ROE, ROTE, Efficiency ratio, TSR, CET1 ratio, BVPS growth, Pre-tax earnings, Net revenues, EPS)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance is assessed in a holistic manner and was guided by our Assessment Framework, without ascribing specific weight to any single factor or metric"
+   },
+   {
+    "metric": "Assessment Framework: Strategic Priorities & Clients",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Priorities & Clients \u220e Progress towards our strategic objectives \u220e Strength of client feedback"
+   },
+   {
+    "metric": "Assessment Framework: Risk Management & Controls",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk Management & Controls \u220e Managing reputational risk \u220e Standing with regulators \u220e Internal Audit findings \u220e Compliance, conduct and disciplinary matters"
+   },
+   {
+    "metric": "Assessment Framework: People",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "People \u220e Core Values \u220e Diversity, Equity and Inclusion (e.g., hiring and representation) \u220e Attrition \u220e Leadership pipeline health"
+   },
+   {
+    "metric": "Core Values",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "People \u220e Core Values \u220e Diversity, Equity and Inclusion (e.g., hiring and representation)"
+   },
+   {
+    "metric": "Diversity, Equity and Inclusion (e.g., hiring and representation)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diversity, Equity and Inclusion (e.g., hiring and representation)"
+   },
+   {
+    "metric": "Attrition",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Attrition \u220e Leadership pipeline health \u220e Strategic location headcount and hiring"
+   },
+   {
+    "metric": "Progress towards sustainable finance commitments",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "\u220e Progress towards sustainable finance commitments"
+   },
+   {
+    "metric": "Return on equity (ROE) absolute and relative PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2024-2026, using absolute and relative metrics"
+   },
+   {
+    "metric": "Cumulative absolute TSR and relative TSR (SVC Awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   }
+  ]
+ }
+}

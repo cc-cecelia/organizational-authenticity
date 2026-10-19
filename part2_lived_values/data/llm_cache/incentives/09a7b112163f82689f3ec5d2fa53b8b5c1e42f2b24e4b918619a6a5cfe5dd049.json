@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001193125-17-103408",
+  "task": "incentives",
+  "section_words": 5865,
+  "section_method": "heading",
+  "cache_key": "09a7b112163f82689f3ec5d2fa53b8b5c1e42f2b24e4b918619a6a5cfe5dd049",
+  "est_input_tokens": 13750
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15273,
+  "output_tokens": 564,
+  "request_id": "req_011CgCADDEUoAR7b5sJ93kaT"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "metric": "ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued to use return on common equity (ROCE) equaling or exceeding cost of equity (COE) as the performance goal for the 2016 PBRSUs"
+   },
+   {
+    "metric": "COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee approved performance goals based on ROCE and COE with variable payouts where the number of shares payable is determined by dividing ROCE by COE"
+   },
+   {
+    "metric": "Cumulative EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee granted individual awards payable based on the company's performance as measured by cumulative EPS for the four-year performance period ending on December 31, 2016."
+   }
+  ]
+ }
+}

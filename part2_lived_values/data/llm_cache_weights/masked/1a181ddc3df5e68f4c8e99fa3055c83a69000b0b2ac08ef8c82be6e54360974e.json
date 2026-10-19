@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "1a181ddc3df5e68f4c8e99fa3055c83a69000b0b2ac08ef8c82be6e54360974e",
+  "est_input_tokens": 35224
+ },
+ "usage": {
+  "input_tokens": 35805,
+  "output_tokens": 1230
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We target top-quartile performance relative to our peers for Total Recordable Rate"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "absolute continuous improvement for TRR and for Process Safety Events"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 3,
+    "evidence": "Our primary source of revenue and cash flow is the sale of our produced oil and gas. Therefore, we set an annual Production target"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The target was set at #billion, which was consistent with the operating plan outlined to the marketplace"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The target was set at #billion, which was consistent with the operating plan outlined to the marketplace in #."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Operational Milestones: In the Lower #milestones included executing the Big #unconventional development programs"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted ROCE is an important metric for ensuring ConocoPhillips is efficiently allocating capital"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic and ESG Milestones represent annual actions to progress our long-term objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Successful integration of Permian assets acquired in #"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Demonstrated meaningful progress toward our Paris-aligned climate risk framework"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Achieving top quartile ESG performance on MSCI, ISS ESG, Bloomberg ESG and DJSI rating frameworks relative to peers"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Progressing our external disposition target by completing #-#billion in dispositions in the year"
+   },
+   {
+    "id": 14,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Executing debt refinancing transactions and re-syndicating revolving credit facility"
+   },
+   {
+    "id": 15,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "Successfully progressing #elements of DEI priorities and tactics."
+   },
+   {
+    "id": 16,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Entered into strategic agreements to expand our global LNG business"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our long-term success."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We believe it is important to include TSR in our PSP because it is the most tangible, visible measure"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial\u2014Relative Adjusted ROCE ( # )"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock-based, long-term incentives make up the largest portion of performance-based pay."
+   }
+  ],
+  "equal_split": []
+ }
+}

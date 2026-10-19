@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001564590-20-027321",
+  "task": "proposals",
+  "section_words": 6822,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2b431e094d8924a1eed3bfcb295a4c7a69fc35fbd0a7dc0a26a9c8d869de384a",
+  "est_input_tokens": 15996
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17606,
+  "output_tokens": 687,
+  "request_id": "req_011CgCBA8eRWHkXUj9J6hPtk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal Regarding Paid Advertising",
+    "proponent": "James M. Danforth",
+    "topic_summary": "Asks Tesla to spend at least $50 per car produced on advertising to increase brand and product awareness and mitigate misinformation.",
+    "category": "customers",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding paid advertising."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Simple Majority Voting Provisions in Governing Documents",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests the board eliminate supermajority voting requirements in the charter and bylaws, replacing them with a simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding simple majority voting."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding Reporting on Employee Arbitration",
+    "proponent": "Nia Impact Capital",
+    "topic_summary": "Requests a report on the impact of mandatory employee arbitration on harassment, discrimination and employees' ability to seek redress.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding reporting on employee arbitration."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding Additional Reporting on Human Rights",
+    "proponent": "Sisters of the Good Shepherd New York Province",
+    "topic_summary": "Requests a report on Tesla's processes for embedding respect for human rights within operations and business relationships.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST the stockholder proposal regarding additional reporting on human rights."
+   }
+  ]
+ }
+}

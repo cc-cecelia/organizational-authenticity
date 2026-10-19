@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001193125-17-086309",
+  "task": "incentives",
+  "section_words": 6776,
+  "section_method": "heading",
+  "cache_key": "08d500caadaaecdba51996e7fd7690f52f33dd3425280d7b4967278b71dcc97c",
+  "est_input_tokens": 15630
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17364,
+  "output_tokens": 3194,
+  "request_id": "req_011CgCC2coFDT1JX5nqAJVZZ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Achieve a 20% direct after-tax rate of return and 10% all-in after-tax rate of return on total capital expenditures",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve a 20% direct after-tax rate of return* and 10% all-in after-tax rate of return on total capital expenditures*"
+   },
+   {
+    "metric": "Achieve the following production and unit cost targets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve the following production and unit cost targets: | 15%"
+   },
+   {
+    "metric": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 10%"
+   },
+   {
+    "metric": "Maintain flexible CAPEX plan to reduce net debt below year-end 2015 level",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintain flexible CAPEX plan to reduce net debt* below year-end 2015 level | 5%"
+   },
+   {
+    "metric": "Strategic and other operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic and other operational goals, such as: | 40% | Exceeded"
+   },
+   {
+    "metric": "Shift into premium drilling mode and improve completed well estimated ultimate recovery",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Shift into \"premium\" drilling mode and improve completed well estimated ultimate recovery (\"EUR\")"
+   },
+   {
+    "metric": "Reduce finding cost and operating costs",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reduce finding cost and operating costs;"
+   },
+   {
+    "metric": "Add new premium drilling potential",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Add new premium drilling potential (i.e., locations with a direct after-tax rate of return* of greater than 30%"
+   },
+   {
+    "metric": "Close $1 billion in property sales",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Close $1 billion in property sales; and"
+   },
+   {
+    "metric": "Reduced safety and environmental incident rates",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "other strategic goals. | Reduced safety and environmental incident rates"
+   },
+   {
+    "metric": "Relative total stockholder return versus specified peer companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our total stockholder return is measured relative to the total stockholder return of our peer companies"
+   }
+  ]
+ }
+}

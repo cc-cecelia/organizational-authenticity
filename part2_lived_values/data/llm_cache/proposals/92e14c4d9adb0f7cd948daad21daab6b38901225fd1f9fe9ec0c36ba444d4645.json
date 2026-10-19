@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0000930413-17-001059",
+  "task": "proposals",
+  "section_words": 4799,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "92e14c4d9adb0f7cd948daad21daab6b38901225fd1f9fe9ec0c36ba444d4645",
+  "est_input_tokens": 10941
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12824,
+  "output_tokens": 610,
+  "request_id": "req_011CgCApt4KFQRahCYXxu2Ad"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding The Holy Land Principles",
+    "proponent": "Holy Land Principles, Inc.",
+    "topic_summary": "Requests the Board make all possible lawful efforts to implement and/or increase activity on eight Holy Land Principles on equal employment opportunity in Israel and Palestine.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "ACCORDINGLY, YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Special Shareowner Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the Board to amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "ACCORDINGLY, YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding an Independent Chair Policy",
+    "proponent": "The Sisters of St. Francis of Philadelphia",
+    "topic_summary": "Requests the Board adopt a policy requiring the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "ACCORDINGLY, YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

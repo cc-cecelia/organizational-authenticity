@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0000097745-23-000025",
+  "task": "proposals",
+  "section_words": 648,
+  "section_method": "resolved_windows",
+  "cache_key": "e4380a82ca9197f02ad5a1c549fa68acfcc819e7f36efdb1ef5c8fe4982a0674",
+  "est_input_tokens": 1737
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3030,
+  "output_tokens": 11,
+  "request_id": "req_011CgCAm5WGdmLVPe3Y8jd7w"
+ },
+ "result": {
+  "proposals": []
+ }
+}

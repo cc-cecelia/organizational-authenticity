@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0001558370-22-004011",
+  "task": "proposals",
+  "section_words": 5763,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "b872e72644162b78989479798a1789304d6f72c3ad8bb1984f8d1372d3407dab",
+  "est_input_tokens": 13625
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14901,
+  "output_tokens": 809,
+  "request_id": "req_011CgCAekeo7DfqhoxWGFPef"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "Stockholder Proposal on Independent Chair",
+    "proponent": "The Employees' Retirement System of Rhode Island and co-filer Vermont Pension Investment Commission",
+    "topic_summary": "Requests board adopt policy requiring the Chair of the Board be an independent member, whenever possible, to balance power between CEO and board.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Ratification of Termination Pay",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Requests shareholder approval of any senior manager's new or renewed pay package with severance or termination payments exceeding 2.99 times base salary plus target bonus.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Stockholder Proposal on Report on Board Oversight of Competition Practices",
+    "proponent": "Friends Fiduciary Corporation and co-filers Trinity Health, Missionary Oblates of Mary Immaculate, Mercy Investment Services, Inc., Sisters of Charity of St. Elizabeth, Bon Secours Mercy Health, Inc., Sisters of Charity Blessed Virgin Mary, and CommonSpirit Health",
+    "topic_summary": "Requests a report on how the board oversees risks related to anticompetitive practices, including board committee oversight, strategy deliberations, and public policy role.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "",
+    "title": "Stockholder Proposal on Political Spending",
+    "proponent": "As You Sow, on behalf of Eliana Fishman",
+    "topic_summary": "Requests annual report analyzing congruence of political, lobbying and electioneering expenditures with publicly stated company values, listing incongruent expenditures.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

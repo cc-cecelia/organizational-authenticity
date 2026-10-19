@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000170",
+  "task": "proposals",
+  "section_words": 15665,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3173685e55e071b74879bff09de462931b21e759e0fb1711a6103a5f2d59d877",
+  "est_input_tokens": 33685
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 35479,
+  "output_tokens": 1224,
+  "request_id": "req_011CgC9GBUXUtyhS5hx4D9kb"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding a Lobbying Report",
+    "proponent": "Walden Asset Management, joined by The Benedictine Sisters of Baltimore, The Benedictine Sisters of Pan de Vida and other organizations",
+    "topic_summary": "Requests a report, updated annually, disclosing company policies, lobbying and grassroots lobbying payments including direct and indirect lobbying and oversight decision-making.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding a Political Contributions Report",
+    "proponent": "Clean Yield Asset Management, on behalf of John Fedor-Cunningham and David Fedor-Cunningham, with Benedictine Sisters of Mount St. Scholastica",
+    "topic_summary": "Requests semiannual report on political contributions and expenditures, direct and indirect, including trade association and 501(c)(4) payments and recipients.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding a Report on Gender Pay",
+    "proponent": "Arjuna Capital, on behalf of Eleanor Shorter, and Proxy Impact, on behalf of CB Wealth Generation LLC",
+    "topic_summary": "Requests a report by November 2017 on policies and goals to reduce the gender pay gap.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding a Charitable Contributions Report",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests an annual report on standards, rationale, personnel, and societal benefits of charitable contributions, with follow-up on use of funds.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding the Implementation of \"Holy Land Principles\"",
+    "proponent": "Holy Land Principles, Inc. as lead filer, and Azzad Asset Management as co-filer",
+    "topic_summary": "Asks the Board to make all possible lawful efforts to implement the eight Holy Land Principles on equal employment opportunity in Israel/Palestine.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding a Report on \"Fake News\"",
+    "proponent": "Arjuna Capital, on behalf of its clients Susanna L. Hoffs and Matthew Joseph Roach, Jr.",
+    "topic_summary": "Requests a report reviewing public policy issues of fake news and hate speech enabled by Google AdSense, including risks to democracy and free speech.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our Board of Directors does not believe that implementing this proposal would benefit our stockholders."
+   }
+  ]
+ }
+}

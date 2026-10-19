@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0001193125-22-225369",
+  "task": "incentives",
+  "section_words": 12646,
+  "section_method": "heading",
+  "cache_key": "898b7cc4f156a4eb67b36f2476e986bed6e7a4056a8038b2f80ab807cb15a886",
+  "est_input_tokens": 26495
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33596,
+  "output_tokens": 2544,
+  "request_id": "req_011CgCAx7UQUFRQNNYxjR4dy"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Annual revenue growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earned payouts under the MIP for annual revenue growth and diluted EPS can range from 50% to 200%"
+   },
+   {
+    "metric": "Non-GAAP EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Medtronic's financial performance including revenue growth, non-GAAP EPS, free cash flow and market share can be adjusted up or down"
+   },
+   {
+    "metric": "Free cash flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "for free cash flow 50% to 150%, for market share 90% to 110%"
+   },
+   {
+    "metric": "Market share",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "for market share 90% to 110%"
+   },
+   {
+    "metric": "Team Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "can be adjusted up or down based on Team Performance and Individual Performance (excluding the CEO)"
+   },
+   {
+    "metric": "Individual Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "can be adjusted up or down based on Team Performance and Individual Performance (excluding the CEO)"
+   },
+   {
+    "metric": "3-year revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with the weighting of 3-year revenue growth and 3-year relative total shareholder return at 50% each"
+   },
+   {
+    "metric": "3-year relative total shareholder return",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with the weighting of 3-year revenue growth and 3-year relative total shareholder return at 50% each"
+   },
+   {
+    "metric": "Return on Invested Capital (ROIC)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Invested Capital ... acts as a downward modifier, reducing the payout by 30% if a minimum level of ROIC is not achieved"
+   }
+  ]
+ }
+}

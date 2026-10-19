@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0000050863-23-000021",
+  "task": "proposals",
+  "section_words": 5983,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5e6ba4de52d177dedee94fd85d89f8b238dd3a617028eeaebb5b48ef920c796c",
+  "est_input_tokens": 13825
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14478,
+  "output_tokens": 385,
+  "request_id": "req_011CgC9j88N9M3jG6UX5gknj"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting Adoption of an Executive Stock Retention Period Policy and Reporting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests a policy requiring senior executives to retain a significant percentage of equity-pay stock until normal retirement age, prohibit hedging, and report on the policy.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Requesting Commission and Publication of a Third Party Review of Intel's China Business ESG Congruence",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests a third-party review of whether Intel's China business activities and expenditures align with its ESG commitments, and board reporting on mitigating misaligned risks.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \" AGAINST \" this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "5b3098d75ed76cb921aae6f954b83e0d8acf45f215b65bcac0f9cb2bf3e5185f",
+  "est_input_tokens": 28690
+ },
+ "usage": {
+  "input_tokens": 30952,
+  "output_tokens": 184
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Three-year average ROA (tax-normalized) (1) (50% weighting)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Three-year average growth in adjusted TBV (2) (50% weighting)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Three-year average ROA (tax-normalized) (1) (50% weighting)"
+   }
+  ]
+ }
+}

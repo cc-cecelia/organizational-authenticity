@@ -1,0 +1,203 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001104659-23-044708",
+  "task": "proposals",
+  "section_words": 38409,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "33d1eaa2d6a8fc5ed83badc7034645d5c7b5fec93c296707fc82612ebdc58155",
+  "est_input_tokens": 91527
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 92213,
+  "output_tokens": 3751,
+  "request_id": "req_011CgCBAtWuQXFrumGJvrWvs"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON RETIREMENT PLAN OPTIONS",
+    "proponent": "Sara Sackner, represented by As You Sow",
+    "topic_summary": "Requests a Board report on how the Company protects 401(k) Plan beneficiaries with longer horizons from climate risk in default retirement investment options.",
+    "category": "employees",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on retirement plan options."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER DUE DILIGENCE",
+    "proponent": "American Baptist Home Mission Society",
+    "topic_summary": "Requests an independent third-party report assessing customer due diligence to determine whether customers' use of surveillance, computer vision or cloud products contributes to human rights violations.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer due diligence"
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING REPORTING ON CONTENT AND PRODUCT REMOVAL/RESTRICTIONS",
+    "proponent": "Adrian Dominican Sisters",
+    "topic_summary": "Requests revised transparency reporting with detailed quantitative disclosures on content and product removals or restrictions due to government requests or voluntary actions.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting reporting on content and product removal/restrictions."
+   },
+   {
+    "item_number": "9",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CONTENT REMOVAL REQUESTS",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a semi-annual published report itemizing U.S. government takedown requests and the Company's responses and rationale.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on content removal requests."
+   },
+   {
+    "item_number": "10",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON STAKEHOLDER IMPACTS",
+    "proponent": "International Brotherhood of Teamsters General Fund",
+    "topic_summary": "Requests a report on how the climate strategy addresses impacts on employees, supply chain workers and communities, consistent with Just Transition guidelines.",
+    "category": "employees",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that shareholders vote against this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ALTERNATIVE TAX REPORTING",
+    "proponent": "Missionary Oblates of Mary Immaculate \u2013 United States Province",
+    "topic_summary": "Requests a tax transparency report prepared under the GRI Tax Standard, including country-by-country reporting.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting alternative tax reporting."
+   },
+   {
+    "item_number": "12",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON CLIMATE LOBBYING",
+    "proponent": "Eric and Emily Johnson and Mercy Rome, represented by Newground Social Investment",
+    "topic_summary": "Requests a report on the framework for addressing misalignments between Amazon's lobbying and trade association activities and its Net Zero climate commitments.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on climate lobbying."
+   },
+   {
+    "item_number": "13",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON GENDER/RACIAL PAY",
+    "proponent": "Anne Bartol Butterfield, represented by Arjuna Capital",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on gender/\u200bracial pay."
+   },
+   {
+    "item_number": "14",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ANALYSIS OF COSTS ASSOCIATED WITH DIVERSITY, EQUITY, AND INCLUSION PROGRAMS",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a cost/benefit analysis of the Company's Diversity, Equity and Inclusion programs.",
+    "category": "dei",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an analysis of costs associated with diversity, equity, and inclusion programs."
+   },
+   {
+    "item_number": "15",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN AMENDMENT TO OUR BYLAWS TO REQUIRE SHAREHOLDER APPROVAL FOR CERTAIN FUTURE AMENDMENTS",
+    "proponent": "James McRitchie, represented by John Chevedden",
+    "topic_summary": "Requests bylaw amendment requiring shareholder approval for certain advance notice bylaw amendments affecting director nominations.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an amendment to our bylaws to require shareholder approval for certain future amendments."
+   },
+   {
+    "item_number": "16",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON FREEDOM OF ASSOCIATION",
+    "proponent": "Catherine Donnelly Foundation, represented by the Shareholder Association for Research & Education",
+    "topic_summary": "Requests an independent third-party assessment of adherence to workers' freedom of association and collective bargaining commitments.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends shareholders vote against the proposal."
+   },
+   {
+    "item_number": "17",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A NEW POLICY REGARDING OUR EXECUTIVE COMPENSATION PROCESS",
+    "proponent": "AFL-CIO Reserve Fund",
+    "topic_summary": "Requests the compensation committee consider pay grades and salary ranges of all employees when setting senior executive target pay.",
+    "category": "shareholders",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a new policy regarding our executive compensation process."
+   },
+   {
+    "item_number": "18",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON ANIMAL WELFARE STANDARDS",
+    "proponent": "MacConnel Lowe Trust, represented by People for the Ethical Treatment of Animals",
+    "topic_summary": "Requests a report evaluating the efficacy and shortcomings of Whole Foods' animal welfare standards and auditing procedures.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on animal welfare standards."
+   },
+   {
+    "item_number": "19",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL BOARD COMMITTEE",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Requests the Board establish a Public Policy Committee to oversee public policy issues including human rights, climate and unionization.",
+    "category": "integrity",
+    "secondary_category": "other",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an additional Board committee."
+   },
+   {
+    "item_number": "20",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ALTERNATIVE DIRECTOR CANDIDATE POLICY",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Requests a policy requiring the initial director candidate list include hourly employees.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an alternative director candidate policy."
+   },
+   {
+    "item_number": "21",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON WAREHOUSE WORKING CONDITIONS",
+    "proponent": "Thomas Dadashi Tazehozi, represented by Tulipshare Limited",
+    "topic_summary": "Requests an independent audit and report on working conditions and treatment of Amazon warehouse workers, including injury rates.",
+    "category": "safety",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on warehouse working conditions."
+   },
+   {
+    "item_number": "22",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PACKAGING MATERIALS",
+    "proponent": "The George Gund Foundation, represented by As You Sow",
+    "topic_summary": "Requests a report on how the Company could reduce plastics use in packaging to significantly reduce ocean plastic pollution.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that shareholders vote against this proposal."
+   },
+   {
+    "item_number": "23",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER USE OF CERTAIN TECHNOLOGIES",
+    "proponent": "John Harrington",
+    "topic_summary": "Requests an independent study of Rekognition's privacy and civil rights risks and potential sales to repressive governments.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer use of certain technologies."
+   }
+  ]
+ }
+}

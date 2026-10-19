@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "6ad6e4f3969284743147eb9a9abd2bd04d050836e24b461688c49c37f470e272",
+  "est_input_tokens": 25555
+ },
+ "usage": {
+  "input_tokens": 27200,
+  "output_tokens": 1022
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital & cost management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating & safety performance"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Lower carbon"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance adjustment"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Adjusted ROCE"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Free cash flow excluding working capital"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Relative adjusted earnings per share"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating expenses, excluding fuel and transportation"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Organic capital expenditures"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestone \u2013 Tengizchevroil FGP mechanical completion was achieved"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2013 Despite a year-on-year reduction in fatalities"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Process safety \u2013 The number of Tier"
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production \u2013 million barrels of oil-equivalent per day"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refinery operational availability - Slightly below Plan mainly due to unplanned downtime."
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management \u2013 Identified, funded, and executed GHG reduction projects"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Equity renewable fuels production \u2013 barrels per day in above Plan"
+   },
+   {
+    "id": 17,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Hydrogen \u2013 In September, Chevron acquired a majority stake in ACES Delta"
+   },
+   {
+    "id": 18,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Carbon capture, utilization and storage:"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "TSR should be the primary pay-for-performance measure"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE Improvement (ROCE-I)"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "with a negative TSR adjustment for executive officers"
+   }
+  ],
+  "equal_split": []
+ }
+}

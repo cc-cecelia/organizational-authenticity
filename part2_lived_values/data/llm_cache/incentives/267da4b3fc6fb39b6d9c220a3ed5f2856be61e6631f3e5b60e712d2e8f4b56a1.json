@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0001193125-19-101242",
+  "task": "incentives",
+  "section_words": 9578,
+  "section_method": "heading",
+  "cache_key": "267da4b3fc6fb39b6d9c220a3ed5f2856be61e6631f3e5b60e712d2e8f4b56a1",
+  "est_input_tokens": 21737
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23551,
+  "output_tokens": 1422,
+  "request_id": "req_011CgCAkCau7DiWKbx8t7qAj"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Organic revenue growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic revenue growth (35%)"
+   },
+   {
+    "metric": "Adjusted operating margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted operating margin (15%)"
+   },
+   {
+    "metric": "Adjusted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EPS (15%)"
+   },
+   {
+    "metric": "Free cash flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free cash flow (5%)"
+   },
+   {
+    "metric": "Non-financial performance (strategic assessment)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% Non- financial"
+   },
+   {
+    "metric": "Customer allegiance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Customer allegiance"
+   },
+   {
+    "metric": "Positioning the Company for accelerated revenue growth and margin expansion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Positioning the Company for accelerated revenue growth and margin expansion"
+   },
+   {
+    "metric": "Employer of choice and workforce diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Employer of choice and workforce diversity"
+   },
+   {
+    "metric": "Capital deployment strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Capital deployment strategy"
+   },
+   {
+    "metric": "Organic revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (50%)"
+   },
+   {
+    "metric": "Adjusted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Earnings Per Share (50%)"
+   },
+   {
+    "metric": "Relative TSR (performance stock options, 2017 TSR program)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Vesting contingent on relative TSR"
+   }
+  ]
+ }
+}

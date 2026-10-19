@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "b94106511608465bcf7ca129ad6c80ac64eccf30ae338a65726608d835ff3951",
+  "est_input_tokens": 19028
+ },
+ "usage": {
+  "input_tokens": 21192,
+  "output_tokens": 2284
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "they are the key financial measures of our success during the year"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "they are the key financial measures of our success during the year"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "internal and external early discovery opportunities"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "late-stage clinical development progression"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "regulatory filings and approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Beginning in # we removed the OCF metric and increased the [w] of EPS to streamline our program design"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cumulative #-year OCF and EPS metrics were used due to the complexities associated with disentangling"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "R-TSR performance versus our peer group is measured at the end of the #-year period"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "we will revert to a #-year cumulative EPS and R-TSR design"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "we will revert to a #-year cumulative EPS and R-TSR design"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and Pre-Tax Income are [w] [w] at # each"
+   }
+  ]
+ }
+}

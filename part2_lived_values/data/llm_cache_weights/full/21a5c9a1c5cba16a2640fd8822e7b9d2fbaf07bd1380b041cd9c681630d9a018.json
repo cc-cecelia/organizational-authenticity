@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "21a5c9a1c5cba16a2640fd8822e7b9d2fbaf07bd1380b041cd9c681630d9a018",
+  "est_input_tokens": 16860
+ },
+ "usage": {
+  "input_tokens": 17975,
+  "output_tokens": 966
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income Team scorecard is based on the Compensation & Human Capital Management Committee's assessment"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The team scorecard provides a general structure for discussing and measuring performance of our NEOs as a group."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "the specific team scorecard progress indicators included: improve inventory efficiency, maintain strong team engagement"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained strong Team Member engagement, with survey results representing a modest decrease over the prior year;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Advanced equity and inclusion initiatives across the team;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Exceeded sales plans for Fiscal 2023 for stores remodeled in 2022, performed close to plan for Fiscal 2023 for new stores opened in 2022"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Experienced market share loss, as discretionary categories were particularly pressured."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our PSUs have a three-year performance period with the number of shares based on the following three equally weighted relative metrics"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our PSUs have a three-year performance period with the number of shares based on the following three equally weighted relative metrics"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our PSUs have a three-year performance period with the number of shares based on the following three equally weighted relative metrics"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares earned under the PBRSUs will be adjusted up or down by 25 percentage points from the goal payout if Target's TSR is in the top one-third"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Our PSUs have a three-year performance period with the number of shares based on the following three equally weighted relative metrics versus our retail peer group"
+   }
+  ]
+ }
+}

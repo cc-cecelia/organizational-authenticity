@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "584d868ff4f1f9a23e80db3cdc30b928d06e4ee085235fe30e6677747293cd2b",
+  "est_input_tokens": 26398
+ },
+ "usage": {
+  "input_tokens": 28516,
+  "output_tokens": 969
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with 50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting its ESG and organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver sustainable solutions for clients \u2022 Led BlackRock to sustainable AUM that exceeded $500 billion at the end of 2021"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Corporate sustainability \u2022 Advocated for increased breadth and transparency in BlackRock's corporate sustainability disclosures"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent and succession \u2022 Continued to progress CEO and President succession discussions with the Board"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, Equity and Inclusion \u2022 Established BlackRock's Global DEI Steering Committee to oversee and accelerate progress"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture \u2022 Prioritized the health and safety of employees and their families"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating income, as adjusted, of $7.5 billion was up 19% from 2020"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "BlackRock grew diluted earnings per share, as adjusted, by 16% to $39.18 in 2021"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (4) (1-year) | +29.4% | +45.5% | +28.7%"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted, over a three-year performance period"
+   }
+  ]
+ }
+}

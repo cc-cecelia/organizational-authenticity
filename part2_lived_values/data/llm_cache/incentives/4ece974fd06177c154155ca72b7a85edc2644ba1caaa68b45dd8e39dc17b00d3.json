@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001206774-21-001039",
+  "task": "incentives",
+  "section_words": 5216,
+  "section_method": "heading",
+  "cache_key": "4ece974fd06177c154155ca72b7a85edc2644ba1caaa68b45dd8e39dc17b00d3",
+  "est_input_tokens": 12361
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13659,
+  "output_tokens": 3459,
+  "request_id": "req_011CgCBMvgBSbDyZBB883uZz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "operating income growth (weighted 50%), systemwide sales growth (weighted 25%) and comparable guest count growth (weighted 25%)"
+   },
+   {
+    "metric": "Systemwide sales growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "systemwide sales growth (weighted 25%) and comparable guest count growth (weighted 25%)"
+   },
+   {
+    "metric": "Comparable guest count growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "comparable guest count growth (weighted 25%)"
+   },
+   {
+    "metric": "Operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "STIP metrics will be operating income growth (42.5%), systemwide sales growth (42.5%) and human capital metrics (15%)"
+   },
+   {
+    "metric": "Systemwide sales growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "STIP metrics will be operating income growth (42.5%), systemwide sales growth (42.5%) and human capital metrics (15%)"
+   },
+   {
+    "metric": "Human capital metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "human capital metrics (15%)"
+   },
+   {
+    "metric": "Championing our Company values",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "a variety of quantitative targets for 2021 related to championing our Company values, improving diversity representation, and ensuring strong feelings of inclusion among employees"
+   },
+   {
+    "metric": "Improving diversity representation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "a variety of quantitative targets for 2021 related to championing our Company values, improving diversity representation, and ensuring strong feelings of inclusion among employees"
+   },
+   {
+    "metric": "Ensuring strong feelings of inclusion among employees",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "ensuring strong feelings of inclusion among employees"
+   },
+   {
+    "metric": "Earnings per Share (EPS) growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "metric": "Return on Incremental Invested Capital (ROIIC)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "metric": "Cumulative TSR v. S&P 500 Index Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the PRSUs are subject to a modifier based on relative TSR measured over the three-year performance period compared to the S&P 500"
+   }
+  ]
+ }
+}

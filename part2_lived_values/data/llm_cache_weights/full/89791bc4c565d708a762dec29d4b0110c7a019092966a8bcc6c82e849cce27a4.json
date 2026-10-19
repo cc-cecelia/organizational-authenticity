@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "89791bc4c565d708a762dec29d4b0110c7a019092966a8bcc6c82e849cce27a4",
+  "est_input_tokens": 32426
+ },
+ "usage": {
+  "input_tokens": 34021,
+  "output_tokens": 2071
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings Per Share (EPS) (30%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "our pipeline metric continues to play a critical role in our annual incentive plan"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key Integration Metrics (20%)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Human Capital Management (50%) (Retain and engage critical talent to support our strategy and deliver integration priorities)"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Synergies (50%) (Reflects commitment to deliver cumulative transaction synergies associated with Celgene integration)"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (50%) | Regulatory submissions and approvals for new medicines"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential (50%)"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Overlay | Reflects management's, the Science & Technology Committee's"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee can approve an Individual Performance Factor up to 165% of the adjusted incentive"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2020-2022 Cumulative Operating Margin (33%)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2020-2022 Cumulative Total Revenues (ex-fx) (33%)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3-Year Relative TSR (34%)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MSUs make up 40% of our executives' target long-term equity incentives."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 3,
+    "plan": "annual_incentive",
+    "evidence": "Human Capital Management (50%) ... Synergies (50%)"
+   },
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "Near-Term Value (50%) ... Long-Term Growth Potential (50%)"
+   }
+  ]
+ }
+}

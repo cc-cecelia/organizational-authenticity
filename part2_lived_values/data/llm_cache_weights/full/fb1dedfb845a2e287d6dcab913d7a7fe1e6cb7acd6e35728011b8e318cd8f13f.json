@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "fb1dedfb845a2e287d6dcab913d7a7fe1e6cb7acd6e35728011b8e318cd8f13f",
+  "est_input_tokens": 22263
+ },
+ "usage": {
+  "input_tokens": 23026,
+  "output_tokens": 2163
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses, as established and approved by the Compensation Committee"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's Strategic Company Performance Goals were established in the first quarter of the 2017 performance year by the Chief Executive Officer."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "These measures establish the maximum level of funding for the bonus program."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Shares of Common Stock are earned with respect to vesting performance shares only upon Valero's achievement of TSR objectives"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Additional shares of Common Stock may be earned based on the accumulated value of dividends paid on Valero's Common Stock"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock targets represent the remaining 50 percent of each executive officer's long-term incentive target"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "was split evenly, on a share value basis, between grants of restricted stock and awards of performance shares"
+   }
+  ]
+ }
+}

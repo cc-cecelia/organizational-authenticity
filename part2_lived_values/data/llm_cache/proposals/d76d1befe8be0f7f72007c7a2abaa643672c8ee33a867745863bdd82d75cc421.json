@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001193125-24-140549",
+  "task": "proposals",
+  "section_words": 5865,
+  "section_method": "resolved_windows",
+  "cache_key": "d76d1befe8be0f7f72007c7a2abaa643672c8ee33a867745863bdd82d75cc421",
+  "est_input_tokens": 13585
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14780,
+  "output_tokens": 633,
+  "request_id": "req_011CgC9XML2QLTxFjqLj2aXc"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "PROPOSAL 6 \u2014 STOCKHOLDER PROPOSAL REGARDING AN INDEPENDENT CHAIR OF THE BOARD",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests the Board adopt a policy requiring separate Chair and CEO roles, with the Chair being an independent director and not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "PROPOSAL 7 \u2014 STOCKHOLDER PROPOSAL REQUESTING STOCKHOLDER APPROVAL OF CERTAIN EXECUTIVE SEVERANCE ARRANGEMENTS",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests a policy to seek shareholder approval of executive pay packages with golden parachute payments exceeding 2.99 times base salary plus target bonus.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 7."
+   },
+   {
+    "item_number": "8",
+    "title": "PROPOSAL 8 \u2014 STOCKHOLDER PROPOSAL REQUESTING A REPORT ON VIEWPOINT RESTRICTION RISKS",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a report evaluating how the Company oversees risks of denying or restricting service to users based on viewpoints classified as hate speech or misinformation.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 8."
+   }
+  ]
+ }
+}

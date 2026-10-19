@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0000200406-21-000011",
+  "task": "proposals",
+  "section_words": 7883,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "32e07c0236375855fdfd3a3aec5f4773694624d2b1b9908da335946c2f29af88",
+  "est_input_tokens": 18535
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19034,
+  "output_tokens": 738,
+  "request_id": "req_011CgCAZc5xV7PsoS7UJoK7f"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2013 Government Financial Support and Access to COVID-19 Vaccines and Therapeutics",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Asks the Board to report on whether and how government financial support for Janssen's COVID-19 vaccines and therapeutics is considered when setting prices and access.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Independent Board Chair",
+    "proponent": "Trillium Asset Management LLC on behalf of Oneida Trust Minors",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Civil Rights Audit",
+    "proponent": "Trillium Asset Management LLC on behalf of Christopher and Anne Ellinger",
+    "topic_summary": "Requests a third-party civil rights audit of corporate policies, practices, products and services to assess racial impact and recommend improvements.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2013 Executive Compensation Bonus Deferral",
+    "proponent": "Sisters of St. Francis of Philadelphia",
+    "topic_summary": "Urges the Committee to be able to withhold and defer part of executive annual bonuses for adjustment during a deferral period to reduce excessive risk-taking.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "It is, therefore, recommended that shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

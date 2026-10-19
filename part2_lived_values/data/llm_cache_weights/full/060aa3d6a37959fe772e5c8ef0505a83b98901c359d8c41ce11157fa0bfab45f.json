@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "060aa3d6a37959fe772e5c8ef0505a83b98901c359d8c41ce11157fa0bfab45f",
+  "est_input_tokens": 13203
+ },
+ "usage": {
+  "input_tokens": 27722,
+  "output_tokens": 694
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for any amount to be paid, the Company must achieve approved performance measures of (i) revenue, (ii) operating income, (iii) cash flow, (iv) NPS (absolute and relative), and (v) employee experience index."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for any amount to be paid, the Company must achieve approved performance measures of (i) revenue, (ii) operating income, (iii) cash flow, (iv) NPS (absolute and relative), and (v) employee experience index."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for any amount to be paid, the Company must achieve approved performance measures of (i) revenue, (ii) operating income, (iii) cash flow, (iv) NPS (absolute and relative), and (v) employee experience index."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for any amount to be paid, the Company must achieve approved performance measures of (i) revenue, (ii) operating income, (iii) cash flow, (iv) NPS (absolute and relative), and (v) employee experience index."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In order for any amount to be paid, the Company must achieve approved performance measures of (i) revenue, (ii) operating income, (iii) cash flow, (iv) NPS (absolute and relative), and (v) employee experience index."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "will be dependent upon the Company's achievement of a cumulative AEPS measure and an average ROE measure approved by the Compensation and Human Resources Committee."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "will be dependent upon the Company's achievement of a cumulative AEPS measure and an average ROE measure approved by the Compensation and Human Resources Committee."
+   }
+  ],
+  "equal_split": []
+ }
+}

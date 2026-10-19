@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "024e19a6d01cb23fd46fcc309e74061c94252e7c839686f4a095a672b0fc2625",
+  "est_input_tokens": 12373
+ },
+ "usage": {
+  "input_tokens": 12956,
+  "output_tokens": 143
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approved performance criteria as ROCE equaling or exceeding COE because it reflects the creation of financial value for stockholders"
+   }
+  ],
+  "equal_split": []
+ }
+}

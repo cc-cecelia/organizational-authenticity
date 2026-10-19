@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "cb34b9c59d7945fab53a24b5b596fa39da0760496737d4756abfb1575b530a80",
+  "est_input_tokens": 19776
+ },
+ "usage": {
+  "input_tokens": 21110,
+  "output_tokens": 825
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial performance, including ROE and ROTCE"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Achieved all stated performance objectives, including ROE and ROTCE objectives with an 11.2% ROE and a 12.9% ROTCE"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "ROTCE of 12.9%, within the Company's 2018\u20132019 strategic objective of 11.5%\u201314.5%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Shareholder return"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Capital and liquidity strength"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Expense Efficiency Ratio"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business performance for each primary business unit"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Company risk management and controls"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Major infrastructure initiatives"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Standing with regulators"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Talent development, including diversity"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Talent development, including diversity"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Board assessment of Company culture, leadership, strategy and reputation"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROE over the three-year performance period"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The other half of the target LTIP award is earned based on the Company's TSR over the three-year period (MS TSR) relative to the TSR of the S&P 500 Financials Index"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 13,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROE over the three-year performance period"
+   }
+  ]
+ }
+}

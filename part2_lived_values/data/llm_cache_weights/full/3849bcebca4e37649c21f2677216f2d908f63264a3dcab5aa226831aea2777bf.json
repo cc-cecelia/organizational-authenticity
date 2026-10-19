@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3849bcebca4e37649c21f2677216f2d908f63264a3dcab5aa226831aea2777bf",
+  "est_input_tokens": 27330
+ },
+ "usage": {
+  "input_tokens": 28650,
+  "output_tokens": 548
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Corporate performance is based on Occidental's total spend per barrel, CROCE and sustainability performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "CROCE was added as a financial metric for 2023 to provide a more comprehensive view of company strategic, operational and financial performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The sustainability metric remains weighted at 30% to continue advancing the company's net-zero strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deploy at least 5 projects or operational changes to reduce Scope 1 or 2 GHG or other air emissions"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The low carbon ventures targets focus on business development for DAC and CCUS"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payout of the TSR award is based on Occidental's three-year TSR as compared to the three-year TSR of the performance peers"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CROCE award is designed to focus executives on the efficient use of capital by promoting discipline in capital allocation decisions."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "2023 LTI awards are weighted: 60% PSUs (30% TSR and 30% CROCE) and 40% RSUs."
+   }
+  ]
+ }
+}

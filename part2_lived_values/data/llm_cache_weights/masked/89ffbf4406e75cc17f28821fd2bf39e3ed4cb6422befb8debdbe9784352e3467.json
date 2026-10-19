@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "89ffbf4406e75cc17f28821fd2bf39e3ed4cb6422befb8debdbe9784352e3467",
+  "est_input_tokens": 11711
+ },
+ "usage": {
+  "input_tokens": 11917,
+  "output_tokens": 413
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee believed that determining STIP awards based on the combination of operating income growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee revised the STIP metrics to add systemwide sales as a core metric"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable guest count growth is a measure of the long-term health of our business as well as growing income."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs granted in #will vest on the # anniversary of the grant date, subject to the Company's achievement of # key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The chart below provides the compound annual EPS growth and ROIIC necessary to achieve threshold, target and maximum payouts"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "subject to a modifier of up to an additional # based on the Company's cumulative TSR versus the S&P #Index over the performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

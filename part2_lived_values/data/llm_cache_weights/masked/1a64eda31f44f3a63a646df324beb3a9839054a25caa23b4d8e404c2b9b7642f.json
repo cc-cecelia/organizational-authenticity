@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "1a64eda31f44f3a63a646df324beb3a9839054a25caa23b4d8e404c2b9b7642f",
+  "est_input_tokens": 18023
+ },
+ "usage": {
+  "input_tokens": 18258,
+  "output_tokens": 362
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our MIP paid out below the target level as a result of performance below target for the sales and operating profit metrics."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an increase in the inventory turns performance metric due to improved supply chain and inventory conditions."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "payout contingent on achieving pre-established average ROIC and average operating profit targets over the three-year performance period."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "reflecting performance above the maximum level for average ROIC and average operating profit."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating profit is a key corporate goal that takes into account both revenue and expense."
+   }
+  ],
+  "equal_split": []
+ }
+}

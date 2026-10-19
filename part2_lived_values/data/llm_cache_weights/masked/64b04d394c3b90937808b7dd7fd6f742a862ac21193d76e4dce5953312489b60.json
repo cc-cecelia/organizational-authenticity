@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "64b04d394c3b90937808b7dd7fd6f742a862ac21193d76e4dce5953312489b60",
+  "est_input_tokens": 13627
+ },
+ "usage": {
+  "input_tokens": 14155,
+  "output_tokens": 475
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the committee establishes specific company performance goals related to revenue, earnings per share (EPS), progress of our pipeline portfolio"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "calculated based on company's performance relative to internal targets for revenue, earnings per share (EPS), and the progress of the pipeline"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Science and Technology Committee assessed the company's progress toward achieving product pipeline goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "a performance component measuring the company's #-year growth in EPS relative to the expected peer group growth"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SVAs are earned based on Lilly's share price (and beginning in #relative TSR performance)"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a modifier based on Lilly's #-year cumulative TSR relative to our peer companies' median TSR performance will be applied to payouts for EOs"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The bonus is based on company performance in # areas over the course of the year, relative to internal targets"
+   }
+  ]
+ }
+}

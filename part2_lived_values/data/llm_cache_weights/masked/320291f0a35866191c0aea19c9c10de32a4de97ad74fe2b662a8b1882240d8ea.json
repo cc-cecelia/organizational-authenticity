@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "320291f0a35866191c0aea19c9c10de32a4de97ad74fe2b662a8b1882240d8ea",
+  "est_input_tokens": 17234
+ },
+ "usage": {
+  "input_tokens": 17616,
+  "output_tokens": 644
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a # after-tax rate of return on capital expenditure program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production | Achieved #MBbld"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maintain a year-end net debt-to-total capitalization ratio* of less than #, excluding material acquisitions"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "achieve positive ROCE* and ROE*;"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "acquire new drilling potential; | Acquired #net acres in four transactions in the Delaware Basin"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "confirm new reserve potential; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "other strategic goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We must achieve positive Adjusted Non-GAAP Net Income* (as reported in our year-end earnings release)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total stockholder return relative to peer companies (performance units)"
+   }
+  ],
+  "equal_split": []
+ }
+}

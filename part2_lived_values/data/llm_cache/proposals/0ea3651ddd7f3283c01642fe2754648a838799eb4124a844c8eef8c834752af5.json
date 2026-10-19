@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-098338",
+  "task": "proposals",
+  "section_words": 3974,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0ea3651ddd7f3283c01642fe2754648a838799eb4124a844c8eef8c834752af5",
+  "est_input_tokens": 9009
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10092,
+  "output_tokens": 511,
+  "request_id": "req_011CgC9ntAbHwKdQGegWfKEz"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Gender pay equity report",
+    "proponent": "Arjuna Capital, on behalf of Rainer Yingling Judd",
+    "topic_summary": "Requests a report on the company's global median gender pay gap, including associated policy, reputational, competitive, and operational risks, and risks related to recruiting and retaining female talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "Enhance shareholder proxy access",
+    "proponent": "John Chevedden, as agent for Kenneth Steiner",
+    "topic_summary": "Asks the board to amend proxy access bylaws so candidates need not obtain a specific percentage vote to qualify as proxy access candidates in future meetings.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "6",
+    "title": "Cumulative voting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to adopt cumulative voting for director elections so shareholders can cast multiple votes for a single director candidate.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   }
+  ]
+ }
+}

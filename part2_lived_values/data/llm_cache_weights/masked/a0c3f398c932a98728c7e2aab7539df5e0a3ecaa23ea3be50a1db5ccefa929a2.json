@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "a0c3f398c932a98728c7e2aab7539df5e0a3ecaa23ea3be50a1db5ccefa929a2",
+  "est_input_tokens": 20068
+ },
+ "usage": {
+  "input_tokens": 20400,
+  "output_tokens": 847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Monetize assets as necessary to ensure portfolio optimization"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Cash Flow Neutrality"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Production from Ongoing Operations"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Production from Ongoing Operations"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Oil and Gas Operating Expense per BOE"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee added CROCE to the long-term incentive program"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Refined the Financial Objective. Starting in #the Compensation Committee replaced Returns on Net Invested Capital with CROCE"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Core EPS"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added a Sustainability Metric to the Safety/Environmental Objective"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor IIR"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor DART"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Oil Spills"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Risk"
+   },
+   {
+    "id": 13,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Made Sustainability a stand-alone key corporate objective of the Annual Cash Incentive award"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remainder of the Annual Cash Incentive award opportunity linked to an assessment of the performance of the individual executive"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes that long-term compensation should represent the largest portion of each named executive officer's total compensation package"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a performance-based CROCE award"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001104659-18-016710",
+  "task": "proposals",
+  "section_words": 3055,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "fc48afcee13b75314a7a5cad2f7f4fbe546d4e4cdc3a2ad90ee646bdcd8d3857",
+  "est_input_tokens": 6948
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8126,
+  "output_tokens": 561,
+  "request_id": "req_011CgC9eAtR9324w8FTqnrXp"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal on Lobbying Disclosure",
+    "proponent": "Walden Asset Management",
+    "topic_summary": "Requests annual report disclosing IBM's direct and indirect lobbying policies, payments, recipients, and board/management oversight of lobbying expenditures.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on Shareholder Ability to Call a Special Shareholder Meeting",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks board to amend bylaws so holders of 10% of outstanding common stock can call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal to Have an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests policy requiring the Board Chair, whenever possible, to be an independent director, with phase-in permitted for the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

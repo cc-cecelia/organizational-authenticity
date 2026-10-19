@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001193125-21-098458",
+  "task": "proposals",
+  "section_words": 8288,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "65353e64abec8489287e66c804c43051c651339e0089496eed40734a19deac17",
+  "est_input_tokens": 18455
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19079,
+  "output_tokens": 678,
+  "request_id": "req_011CgC9if5AqRyR4A4DGa33e"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal on Whether to Allow Stockholders to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, including on any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Requesting a Report on the Global Median Gender/Racial Pay Gap",
+    "proponent": "Arjuna Capital, on behalf of Susan J. Silver, Ralph L. McCaughan III and Andrea G. Reusing and others",
+    "topic_summary": "Requests a report on median pay gaps across race and gender globally, including associated policy, reputational, competitive and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal requesting the preparation of a report on Intel's global median gender/racial pay gap"
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting a Report on Whether Written Policies or Unwritten Norms at the Company Reinforce Racism in Company Culture",
+    "proponent": "NorthStar Asset Management, Inc., on behalf of the NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests a report assessing whether written policies or unwritten norms reinforce racism in company culture, including hiring, promotion and discipline outcomes.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal requesting the preparation of a report on whether written policies or unwritten norms at Intel reinforce racism in company culture."
+   }
+  ]
+ }
+}

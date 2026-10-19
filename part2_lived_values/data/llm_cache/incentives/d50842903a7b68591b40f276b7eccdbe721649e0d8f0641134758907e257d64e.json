@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000016",
+  "task": "incentives",
+  "section_words": 14582,
+  "section_method": "heading",
+  "cache_key": "d50842903a7b68591b40f276b7eccdbe721649e0d8f0641134758907e257d64e",
+  "est_input_tokens": 32409
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33347,
+  "output_tokens": 619,
+  "request_id": "req_011CgCC6bqoMbSVnMeUbHQwb"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EPS (financial half of annual cash incentive)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% based on Company achievement of full-year adjusted EPS targets"
+   },
+   {
+    "metric": "Personal objectives (strategic, operational and key personal objectives)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% based on achievement of strategic, operational and key personal objectives"
+   },
+   {
+    "metric": "Relative ROCE (ROCE PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs that constitute 50% of our executives' 2017 target LTI dollar value. They will vest, if at all, based on our average annual ROCE"
+   },
+   {
+    "metric": "Cumulative free cash flow as a percentage of cumulative net income (FCF PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The other 50% of the LTI award value was in the form of PSUs that are subject to a performance goal based on our cumulative free cash flow as a percentage of our cumulative net income"
+   }
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "631c70f2903a7e0ecfaae80f5914b52d36dfe53081a06fc0cef7b836d8a87017",
+  "est_input_tokens": 40698
+ },
+ "usage": {
+  "input_tokens": 41041,
+  "output_tokens": 1237
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational (VCIP only) As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Financial metrics in our compensation programs strongly align with our returns-focused strategy and are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Milestones are set annually for VCIP, and, prior to the performance share program commencing in 2019, Strategic Objectives were also included in the PSP."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return (VCIP and PSP) We believe it is important to include TSR in both VCIP and PSP because it is the most tangible, visible measure"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "We include relative Total Recordable Rate and absolute Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "our operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating and Overhead Costs The target was set at $5.3 billion, which excluded adjustments for closed and expected 2020 acquisitions"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions that support delivery of our plan."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "An absolute target for Adjusted ROCE was set in accordance with the budget and strategic plans"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "An evaluation of performance relative to peers is also an important component of the Financial measure"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "achieved our year-end liquidity target"
+   },
+   {
+    "id": 13,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Relative Total Shareholder Return (VCIP and PSP)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Stock-based, long-term incentives make up the largest portion of performance-based pay."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial \u2013 Relative Adjusted ROCE and/or Adjusted CROCE ( 30% ) (1)(2)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Performance share programs commencing prior to 2019, including PSP 18, include Strategic Objectives as a PSP measure"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Long-term equity-based compensation designed to encourage executive retention while incentivizing absolute performance that is aligned with stockholder interests"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was assigned an equal weight."
+   }
+  ]
+ }
+}

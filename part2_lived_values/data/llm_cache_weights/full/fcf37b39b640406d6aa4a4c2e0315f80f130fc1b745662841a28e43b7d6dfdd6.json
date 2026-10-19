@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "fcf37b39b640406d6aa4a4c2e0315f80f130fc1b745662841a28e43b7d6dfdd6",
+  "est_input_tokens": 23056
+ },
+ "usage": {
+  "input_tokens": 27344,
+  "output_tokens": 384
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"ROE\" is calculated for each year by dividing net earnings applicable to common shareholders by average monthly common shareholders' equity"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an average \"ROE\" of 10.4% over the performance period and an average change in BVPS of 6.9% over the performance period"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an average change in BVPS of 6.9% over the performance period resulted in the application of a 104.0% multiplier"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the average \"ROE\" over the performance period was 10.6%, resulting in a 97.3% multiplier"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The adjusted notional value as of the end of the performance period based on annual \"ROE\" is then further adjusted based 50% on our average \"ROE\" and 50% on our average change in BVPS"
+   }
+  ]
+ }
+}

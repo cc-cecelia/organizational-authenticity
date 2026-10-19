@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "1c59f2cb597b61b851b3a64fae92edfb39416f5da3843397edcec36c5c955aca",
+  "est_input_tokens": 30920
+ },
+ "usage": {
+  "input_tokens": 31221,
+  "output_tokens": 1214
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial: Revenue (Non-GAAP)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial: Gross Margin Percentage (Non-GAAP)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee decided to add a new spend reduction performance metric to align the Annual Cash Bonus Plan with our cost-saving strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our One Intel operational goals are established to reflect these critical business priorities and leading indicators"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Rebuild Financial Strength and Predictability Goals related to rebuilding our financial stability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Deliver on Product Leadership Goals related to product leadership, platform differentiation"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Scale Growth Engines: Artificial Intelligence, Network/Edge, Graphics (Gfx)/High Performance Computing (HPC), Software (SW) Goals related to our five Technology Superpowers"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Regain Process Leadership Goals related to the execution of IDM"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Accelerate and be known for our Execution Excellence and Groveian culture Goals related to attracting, developing, and retaining top talent"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Creating more responsible, inclusive, and sustainable future enabled by technology and our collective actions"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive adoption of inclusive business practices in support of our RISE #goals"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Demonstrate sustainability leadership"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Deliver sustainability-optimized leadership products"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive diverse, sustainable supply chains and resiliency practices"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Goals (OKRs) were included in the Annual Cash Bonus Plan (other than for our CEO) for the first time"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee sets the goals for the revenue growth percentage and CFFO financial metrics annually"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash flow from operations ([w] #)"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year TSR modifier relative to S&P #Index (+/- #age points (ppts))"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Revenue CAGR modifier (+/- #ppts)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each of the Annual Cash Bonus Plan metrics is measured and scored independently and then added together"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0001206774-22-000778",
+  "task": "proposals",
+  "section_words": 6408,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "754ae1ab7b31fd6f9553e9d8571cbb13d1580600cc82f07be336d0ee0d64749f",
+  "est_input_tokens": 15117
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17064,
+  "output_tokens": 937,
+  "request_id": "req_011CgCAoiyL6hwZh6ac7VVHc"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Special Shareholder Meeting Improvement - Proposal 4",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents so owners of a combined 10% of outstanding common stock can call a special shareholder meeting, with equal per-share rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Independent Board Chairman - Proposal 5",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring separation of Chairman and CEO roles, with the Chairman being an independent director who was not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal on Rule 10b5-1 Plans",
+    "proponent": "The Comptroller of the City of New York, as custodian and trustee of the New York City Employees' Retirement System and the New York City Board of Education Retirement System",
+    "topic_summary": "Urges a policy on Rule 10b5-1 plans requiring a 120-day cooling-off period, prohibiting overlapping plans, and requiring additional disclosures of plan adoption and trades.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The proposal is unnecessarily restrictive and burdensome in light of the pending SEC rules relating to Rule 10b5-1"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal on Lobbying Disclosure",
+    "proponent": "The Unitarian Universalist Association and additional proponents",
+    "topic_summary": "Requests an annual report disclosing lobbying policies, payments used for direct, indirect and grassroots lobbying, trade association memberships, and decision-making oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Antimicrobial Resistance Report (Proposal 8)",
+    "proponent": "The Shareholder Commons on behalf of the Jan McMillan Montgomery Generation Skipping Trust",
+    "topic_summary": "Asks the board to commission and publish a report on public health costs of company decisions on antimicrobial resistance, market barriers to investment, and effects on shareholder returns.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   }
+  ]
+ }
+}

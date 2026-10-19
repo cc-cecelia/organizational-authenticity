@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0000930413-16-006044",
+  "task": "incentives",
+  "section_words": 2708,
+  "section_method": "heading",
+  "cache_key": "d244d4ea9fe98b4d96f01bc6c2f35eab58183893aea02e9ae83765343166c6bc",
+  "est_input_tokens": 6855
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9042,
+  "output_tokens": 1198,
+  "request_id": "req_011CgCApUUyskWbsQmXbcoC5"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Shareholder Return Unit (absolute TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Shareholder Return Unit \u2013 Long-term incentive award tied to absolute TSR"
+   },
+   {
+    "metric": "Absolute and relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "rewarding absolute and relative performance in TSR through long-term equity incentive awards"
+   },
+   {
+    "metric": "Annual operating, financial and strategic objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "aligning annual incentive awards with annual operating, financial and strategic objectives"
+   }
+  ]
+ }
+}

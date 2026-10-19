@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "30f691b7010f00036c913a6f1545a0fdaebe8dd295933b54520fe748ce8f4f89",
+  "est_input_tokens": 35164
+ },
+ "usage": {
+  "input_tokens": 35405,
+  "output_tokens": 1143
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance Goal considered for our annual incentive bonus targets is Earnings Per Share (EPS), adjusted"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "With a combined weighting of 40 percent of our Annual Bonus Incentive program, the Operational Performance Goals considered for our annual incentive bonuses"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Health, Safety, and Environment \u2013 Measures Valero's achievements in the areas of health, safety, and environmental stewardship through an array of metrics"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability \u2013 Measures Valero's achievements in improving refining competitiveness through improved mechanical availability within our refineries"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Refining Cash Operating Expense Management \u2013 Measures Valero's achievements in managing refinery operating costs"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Execution \u2013 This component includes evaluation by the Human Resources and Compensation Committee of accomplishments related to a comprehensive array of strategic initiatives"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Environmental, Social and Governance (ESG) Efforts & Improvement* | \u2022 Environmental stewardship"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Diversity and inclusion | \u2022 Hosted most diverse summer internship class in company history"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Significant achievements are reported and performance is subjectively assessed on five ESG initiatives: Environmental Stewardship, Sustainability"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Significant achievements are reported and performance is subjectively assessed on five ESG initiatives: Environmental Stewardship, Sustainability"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Compliance | \u2022 Launched new Compliance and Ethics page on internal employee website"
+   },
+   {
+    "id": 11,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship and community | \u2022 Record fundraising for Valero-sponsored Benefit for Children fundraising event"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary performance measure is relative TSR versus a peer group, which is weighted at 100 percent."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Energy Transition measure was added to both the Performance Shares granted in February of 2021"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Energy Transition measure was added to both the Performance Shares granted in February of 2021"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "3-Yr Avg ROIC | Below Min. | 25% | 00.00%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "measured against the following equally weighted sub-components"
+   }
+  ]
+ }
+}

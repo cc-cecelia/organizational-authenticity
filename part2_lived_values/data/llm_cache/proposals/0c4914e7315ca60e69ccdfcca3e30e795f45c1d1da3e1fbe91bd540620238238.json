@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001047469-20-002403",
+  "task": "proposals",
+  "section_words": 701,
+  "section_method": "resolved_windows",
+  "cache_key": "0c4914e7315ca60e69ccdfcca3e30e795f45c1d1da3e1fbe91bd540620238238",
+  "est_input_tokens": 1722
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3213,
+  "output_tokens": 11,
+  "request_id": "req_011CgCAVgbTfpyRM8RDM9cBr"
+ },
+ "result": {
+  "proposals": []
+ }
+}

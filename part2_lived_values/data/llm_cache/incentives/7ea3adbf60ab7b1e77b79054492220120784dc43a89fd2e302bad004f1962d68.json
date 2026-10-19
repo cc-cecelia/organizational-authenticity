@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001206774-23-000374",
+  "task": "incentives",
+  "section_words": 4852,
+  "section_method": "heading+median_adjusted",
+  "cache_key": "7ea3adbf60ab7b1e77b79054492220120784dc43a89fd2e302bad004f1962d68",
+  "est_input_tokens": 10315
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13741,
+  "output_tokens": 553,
+  "request_id": "req_011CgCAPSmLySLPdPJCQ4hu1"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Average RoTCE 2022-2024",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Average RoTCE 2022-2024 | Percentage of Target PSUs Earned"
+   },
+   {
+    "metric": "Cumulative TBVPS 2022-2024",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative TBVPS 2022-2024 | Percentage of Target PSUs Earned"
+   },
+   {
+    "metric": "return on tangible common equity and tangible book value per share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to performance conditions based on return on tangible common equity and tangible book value per share"
+   },
+   {
+    "metric": "return on tangible common equity and cumulative earnings per share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to performance conditions based on return on tangible common equity and cumulative earnings per share"
+   }
+  ]
+ }
+}

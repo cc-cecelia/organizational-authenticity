@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "c3230997d2db12e50aac2ea249a53de83cf5e801df66ad4da03e8aff064119c2",
+  "est_input_tokens": 31830
+ },
+ "usage": {
+  "input_tokens": 31971,
+  "output_tokens": 868
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Year-Over-Year Net Income Growth (#/#)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Net Income Growth vs Tech #Peers"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "One Intel Goals\u2014Operational and ESG Performance. For #there were five One Intel operational goal categories"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Deliver Financial Commitments. Goals based on #revenue, adjusted gross margin"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#. Product Execution. Goals related to key milestones for #and future products"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#. Manufacturing Leadership. Goals related to current and future manufacturing processes"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#. Big Bets. Business and product goals in areas such as AI, networking/#G"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#. Cultural Transformation. Goals related to quantitative improvements in the areas of employee engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#/ #Environmental. Goals related to increasing our global renewable energy use and water conservation"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "#Diversity & Inclusion. Goals related to global inclusive hiring practices, including manager training"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs are performance-based RSUs under which the number of shares of Intel common stock earned is based on our achievement"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS was added as a second metric in #to directly tie the PSUs to Intel's financial performance"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock Price Appreciation (Strategic Growth Equity Awards)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Annual Cash Bonus Plan Formula: Intel Performance Payout % = Intel Net Income Growth + Intel vs. Tech Net Income Growth + One Intel Goals"
+   }
+  ]
+ }
+}

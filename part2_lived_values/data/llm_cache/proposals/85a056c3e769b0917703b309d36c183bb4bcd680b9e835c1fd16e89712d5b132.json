@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0001047469-19-002425",
+  "task": "proposals",
+  "section_words": 2216,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "85a056c3e769b0917703b309d36c183bb4bcd680b9e835c1fd16e89712d5b132",
+  "est_input_tokens": 4638
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6420,
+  "output_tokens": 191,
+  "request_id": "req_011CgCAVaCjnP7Vw9YdhuJFN"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2014 Amendment to Proxy Access Bylaw",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to remove the 20-shareholder aggregation limit so unlimited stockholders can aggregate shares to reach the 3% proxy access threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors has recommended a vote against this proposal for the reasons set forth following the proposal."
+   }
+  ]
+ }
+}

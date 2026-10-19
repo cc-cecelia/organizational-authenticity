@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-505314",
+  "task": "proposals",
+  "section_words": 5438,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "235839d96cc392b1e6e329a4f52bba90de2d98a00547f4395daa7b67896cb777",
+  "est_input_tokens": 12450
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14411,
+  "output_tokens": 866,
+  "request_id": "req_011CgCC7nM77D2EokTfhLFaf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal No. 4 \u2013 Shareholder Proposal Seeking the Adoption of a Shareholder Proxy Access Bylaw",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to adopt a proxy access bylaw allowing shareholders holding 3% for three years, aggregated without limit, to nominate up to 25% of directors in company proxy materials.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS HAS ADOPTED PROXY ACCESS AND RECOMMENDS YOU VOTE AGAINST THIS SHAREHOLDER PROPOSAL"
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal No. 5 \u2013 Shareholder Proposal Seeking a Report on Safety and Environmental Incidents",
+    "proponent": "United Steelworkers, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (USW)",
+    "topic_summary": "Asks the board to report on all safety and environmental incidents as defined by OSHA and EPA, and worker fatigue management policies for each refinery in the supply chain.",
+    "category": "safety",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS YOU VOTE AGAINST THE SHAREHOLDER PROPOSAL SEEKING A REPORT ON SAFETY AND ENVIRONMENTAL INCIDENTS."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal No. 6 \u2013 Shareholder Proposal Seeking the Adoption of Quantitative Greenhouse Gas Emission Reduction Goals and Associated Reports",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Asks the board to adopt quantitative goals for reducing total greenhouse gas emissions from company products and operations and report plans to achieve them by fall 2016.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS YOU VOTE AGAINST THE SHAREHOLDER PROPOSAL SEEKING THE ADOPTION OF QUANTITATIVE GREENHOUSE GAS EMISSION REDUCTION GOALS AND ASSOCIATED REPORTS."
+   }
+  ]
+ }
+}

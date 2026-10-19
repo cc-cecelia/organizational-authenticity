@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e517e36b127f4d272557b071eadae9876e080463bb56c111430b0dd1b622b8a6",
+  "est_input_tokens": 24689
+ },
+ "usage": {
+  "input_tokens": 26765,
+  "output_tokens": 2328
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Represents direct expenses of the division or function, as applicable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (15%) | 122%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (10%) | 150%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Margin Improvement (10%) | 150%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Litigation Expense (15%) | 120%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (25%) | 150%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (25%) | 145%"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each individual NEO's performance multiplier (other than our CEO's) is approved by the Compensation Committee based"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Independent Directors used a Relative TSR design because the actual value realized by Mr. Tan will be well-aligned with our performance"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maximum potential payout is limited to the target amount if our absolute TSR is negative for a performance period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance is based on Relative TSR as opposed to share price contingency metrics."
+   }
+  ],
+  "equal_split": []
+ }
+}

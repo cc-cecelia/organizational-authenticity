@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-074921",
+  "task": "incentives",
+  "section_words": 11391,
+  "section_method": "heading",
+  "cache_key": "a80633b0ebf951906181fead3cb5cc0c3f7537a2cf85e0e5fe1ff8b82d05b8b7",
+  "est_input_tokens": 26290
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27338,
+  "output_tokens": 1279,
+  "request_id": "req_011CgC9urquxPvCvBCpooBgo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company performance (financial and non-financial metrics, absolute and relative)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC assessed our Company performance at 75% with 100% representing achievement of expected Company performance levels by the HRC."
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2019 annual incentives for named executives were determined by the HRC after considering a holistic performance assessment based on Company performance, individual performance, and risk management performance."
+   },
+   {
+    "metric": "Risk management performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk Management Reflects progress each named executive made against risk management specific to their roles and business/function."
+   },
+   {
+    "metric": "EPS of at least $3.00 or RORCE of at least median of Financial Performance Peer Group (annual incentive precondition)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "one of the following goals must have been met: (1) EPS of at least $3.00 or (2) Return on Realized Common Equity (RORCE) of at least the median of the Financial Performance Peer Group."
+   },
+   {
+    "metric": "Average three-year ROTCE (absolute and relative)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of Performance Shares earned at the end of the performance period depends on the achievement of average three-year ROTCE, on an absolute and relative basis."
+   },
+   {
+    "metric": "Relative Total Shareholder Return (TSR) governor",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In order for an award to pay above 125% of target, our relative Total Shareholder Return (TSR) for the performance period must be in the top quartile of the specified Financial Performance Peer Group."
+   },
+   {
+    "metric": "Net Operating Loss (NOL) reduction",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For any year in the three-year performance period that our Company incurs a Net Operating Loss (NOL), the target number of Performance Shares will be reduced by one-third."
+   },
+   {
+    "metric": "Failure to make progress on regulatory matters (performance share adjustment)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Subject to downward adjustment by HRC under a wide variety of circumstances: Reduction for failure to make progress on regulatory matters."
+   }
+  ]
+ }
+}

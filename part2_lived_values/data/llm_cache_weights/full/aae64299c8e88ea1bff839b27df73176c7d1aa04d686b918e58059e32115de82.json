@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "aae64299c8e88ea1bff839b27df73176c7d1aa04d686b918e58059e32115de82",
+  "est_input_tokens": 28039
+ },
+ "usage": {
+  "input_tokens": 31592,
+  "output_tokens": 837
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures were non-GAAP diluted EPS, revenue growth and free cash flow, each weighted equally at 1/3."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures were non-GAAP diluted EPS, revenue growth and free cash flow, each weighted equally at 1/3."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures were non-GAAP diluted EPS, revenue growth and free cash flow, each weighted equally at 1/3."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee included a Quality Compliance Modifier as part of the plan design to reinforce the importance of quality."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance for the new PSUs will be based on three-year revenue growth and three-year relative total shareholder return as the primary metrics, each eqully weighted"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance for the new PSUs will be based on three-year revenue growth and three-year relative total shareholder return as the primary metrics, each eqully weighted"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "with ROIC as a threshold metric, reducing the payout by 30% if a minimum level of ROIC is not achieved."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Under the previous LTPP plan, each of these metrics was equally weighted."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance for the cash long-term performance plan, which includes cumulative revenue growth and return on invested capital"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Under the previous LTPP plan, each of these metrics was equally weighted."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures were non-GAAP diluted EPS, revenue growth and free cash flow, each weighted equally at 1/3."
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "three-year revenue growth and three-year relative total shareholder return as the primary metrics, each eqully weighted"
+   }
+  ]
+ }
+}

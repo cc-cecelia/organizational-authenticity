@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-087284",
+  "task": "incentives",
+  "section_words": 19370,
+  "section_method": "heading",
+  "cache_key": "c0dd15bb1e7831ccd5d46e0f2764ff870eaef9ceaa1f763fd5ec198d0741762f",
+  "est_input_tokens": 44422
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 45836,
+  "output_tokens": 2226,
+  "request_id": "req_011CgCANpjfY2bYYKgxzgGDr"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Shareholder (Company scorecard category)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic Imperatives"
+   },
+   {
+    "metric": "Customer (Company scorecard category)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic Imperatives"
+   },
+   {
+    "metric": "Colleague (Company scorecard category)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic Imperatives"
+   },
+   {
+    "metric": "Strategic Imperatives (Company scorecard category)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Simplified our Annual Incentive Award program to be more formulaic and based on a single Company scorecard"
+   },
+   {
+    "metric": "Relative ROE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   }
+  ]
+ }
+}

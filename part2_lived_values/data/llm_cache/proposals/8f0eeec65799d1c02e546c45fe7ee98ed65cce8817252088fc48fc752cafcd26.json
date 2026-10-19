@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-003753",
+  "task": "proposals",
+  "section_words": 6456,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8f0eeec65799d1c02e546c45fe7ee98ed65cce8817252088fc48fc752cafcd26",
+  "est_input_tokens": 14709
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15514,
+  "output_tokens": 830,
+  "request_id": "req_011CgC9BDSCbzVsFpGDq1Meu"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Charitable Giving \u2013 Recipients, Intents and Benefits",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests an annual report disclosing standards for charitable recipients, business rationale, personnel involved, societal benefits, and follow-up confirmation of contribution use.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal",
+    "proponent": "Antonio Avian Maldonado, II and Zevin Asset Management",
+    "topic_summary": "Requests an accelerated recruitment policy to increase diversity of senior management and board of directors, particularly Hispanic, African American, Native American and other people of color.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2013 Shareholder Proxy Access Amendments",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests amending proxy access bylaws: nominee cap of 25% of directors or 2, unlimited shareholder aggregation, and no limit on re-nomination based on vote received.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 7."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal on Executive Compensation Reform",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Requests engaging multiple outside independent experts or resources from the general public to reform executive compensation principles and practices.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 8."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal 9 \u2013 Executives To Retain Significant Stock",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring senior executives to retain 75% of net after-tax equity shares until normal retirement age and prohibiting hedging of such shares.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 9."
+   }
+  ]
+ }
+}

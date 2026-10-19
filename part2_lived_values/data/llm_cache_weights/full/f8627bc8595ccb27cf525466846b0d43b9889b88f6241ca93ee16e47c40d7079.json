@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "f8627bc8595ccb27cf525466846b0d43b9889b88f6241ca93ee16e47c40d7079",
+  "est_input_tokens": 23831
+ },
+ "usage": {
+  "input_tokens": 25817,
+  "output_tokens": 1246
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC assigned an overall 2019 CIP Corporate Performance Rating of 0.95 reflecting mixed results across all categories."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u20142019 reported earnings of $2.9 billion was below Plan, reflecting Upstream impairment and write-offs totaling $10.4 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2014Chevron delivered operating cash flow of $27.3 billion in 2019, supported by strong production growth."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014$2.8 billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "capital management\u201430 percent"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for 2019 of 2.0 percent was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u20142019 organic C&E totaled $20.2 billion, in-line with budget."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating performance\u201415 percent"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of 3.087 million barrels of oil-equivalent per day in 2019, excluding divestments."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled $25.9 billion, above Plan, with a slight increase in unit costs."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining utilization rates were below Plan by 3.7 percentage points."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "health, environmental and safety\u201415 percent"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Personal Safety\u2014Maintained industry-leading Days Away From Work rate and achieved record low Serious Injury count for the Company."
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance and spill volume was better than Plan, with some gaps in severity."
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management\u2014on-track to achieve flaring and methane intensity reductions."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MCC also takes into account individual performance. This is largely a personal leadership dimension"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payout is dependent on Chevron's TSR over a three-year period, compared with our LTIP Performance Share Peer Group TSR."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "RSUs | 25% | Actual number of RSUs granted is determined by dividing the proportionate value of the NEO's LTIP award"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock options | 25% | Strike price is equal to Chevron's closing common stock price on the grant date."
+   }
+  ],
+  "equal_split": []
+ }
+}

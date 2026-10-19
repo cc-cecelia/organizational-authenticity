@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3a4d0eb84485473589814111359f58482982897c2e22020d5c62625fb8c1c9b5",
+  "est_input_tokens": 13611
+ },
+ "usage": {
+  "input_tokens": 14772,
+  "output_tokens": 633
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Streamlined plan to two equally-weighted metrics\u2014Adjusted Revenue (for driving top-line growth) and Adjusted EBIT"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Streamlined the metrics to Adjusted Revenue and Adjusted EBIT (eliminating the adjusted digital revenue metric used in prior year awards)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee selected Relative TSR as the metric for the fiscal 2024 \u2013 2026 PSU awards"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "The fiscal 2024 \u2013 2026 PSU awards also contain a People & Planet modifier designed to support our commitment to Purpose, which is a key component of our long-term strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Streamlined plan to two equally-weighted metrics\u2014Adjusted Revenue (for driving top-line growth) and Adjusted EBIT"
+   }
+  ]
+ }
+}

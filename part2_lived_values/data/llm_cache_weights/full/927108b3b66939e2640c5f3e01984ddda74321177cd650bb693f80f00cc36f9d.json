@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "927108b3b66939e2640c5f3e01984ddda74321177cd650bb693f80f00cc36f9d",
+  "est_input_tokens": 16803
+ },
+ "usage": {
+  "input_tokens": 18814,
+  "output_tokens": 497
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Size of bonus program determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Vesting of the EBU occurs when the cumulative earnings per share (EPS) threshold is achieved."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Bonus awards for the Named Executive Officers that changed by more or less than the overall bonus program reflect their transition to higher pay grades and/or the results of individual performance assessments."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety and operations integrity performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leading: Long-term cash flow from operations and asset sales outpacing competitors"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Not leading average of industry peers in 10-year TSR"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "as is progress toward the Company's strategic objectives"
+   }
+  ],
+  "equal_split": []
+ }
+}

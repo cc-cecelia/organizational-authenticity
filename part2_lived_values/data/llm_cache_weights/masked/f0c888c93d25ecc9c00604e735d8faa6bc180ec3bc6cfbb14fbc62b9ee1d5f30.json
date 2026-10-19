@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "f0c888c93d25ecc9c00604e735d8faa6bc180ec3bc6cfbb14fbc62b9ee1d5f30",
+  "est_input_tokens": 21782
+ },
+ "usage": {
+  "input_tokens": 22285,
+  "output_tokens": 461
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Incentive Program has been updated to include two metrics, Total IBM Revenue and Operating Cash Flow"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Net Income | Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow* (#) | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating EPS (#) | Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Free Cash Flow (#) | Important measure of our ability to reinvest and return value to stockholders over multiple years"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The modifier is based on IBM's ROIC performance over the three-year performance period, relative to the S&P #Index"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Long-term Incentive Plan has been updated to introduce Total IBM Revenue at a # [w] along with a corresponding reduction"
+   }
+  ]
+ }
+}

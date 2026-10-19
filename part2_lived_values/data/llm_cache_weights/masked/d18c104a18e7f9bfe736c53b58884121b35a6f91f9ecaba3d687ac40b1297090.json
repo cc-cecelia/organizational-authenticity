@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "d18c104a18e7f9bfe736c53b58884121b35a6f91f9ecaba3d687ac40b1297090",
+  "est_input_tokens": 29438
+ },
+ "usage": {
+  "input_tokens": 30550,
+  "output_tokens": 847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Revenue (#) | A leading indicator of performance and value creation; provides a clear focus on growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS (#) | A measure of income that provides focus on profitable growth and expense control"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (#) | A measure that provides focus on generating cash in the short term to fund operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Modifiers of up to +/- #[w] points (PP): Pipeline Achievement (#PP) and ESG Scorecard (#PP)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Pipeline Growth (e.g., organic growth, acquired assets, recent product approvals and robust nature of the pipeline)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ESG Scorecard incorporated into the Annual Short-Term Incentive Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "[w] of Vice President and higher roles held by women (globally) | # | #"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "[w] of Vice President and higher roles held by minorities (U.S.) | # | #"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas Emissions (in metric tons) | <#M mt | #M mt"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Awards (PSAs) Represents # of total annual grant value | Adjusted Net Income (NI)* and relative TSR"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Paid based on the company's performance against a combination of # #-year adjusted net income* goals, set annually, and relative TSR, as compared to the NYSE Arca Pharmaceutical Index"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Long-Term Incentive Compensation (# Performance-Based Equity) | #- and #-Year Total Shareholder Return Units (TSRUs)"
+   }
+  ],
+  "equal_split": []
+ }
+}

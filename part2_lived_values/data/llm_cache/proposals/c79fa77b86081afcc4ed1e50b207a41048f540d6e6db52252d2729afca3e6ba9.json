@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0001104659-21-050333",
+  "task": "proposals",
+  "section_words": 26984,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c79fa77b86081afcc4ed1e50b207a41048f540d6e6db52252d2729afca3e6ba9",
+  "est_input_tokens": 64438
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 64742,
+  "output_tokens": 2142,
+  "request_id": "req_011CgCB6QEBTXqK2xK23oiaU"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER DUE DILIGENCE",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent third-party report assessing Amazon's customer due diligence process to determine whether customer use of surveillance or cloud products contributes to human rights violations.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer due diligence."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A MANDATORY INDEPENDENT BOARD CHAIR POLICY",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy requiring the Board Chair to be an independent director who has not previously served as an executive officer of the Company.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a mandatory independent board chair policy."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON GENDER/RACIAL PAY",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on gender/racial pay."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PROMOTION DATA",
+    "proponent": "not stated",
+    "topic_summary": "Requests a public report disclosing promotion velocity rates by title and level for different gender and racial identities.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on promotion data."
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON PACKAGING MATERIALS",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on plastic packaging estimating plastic released to the environment and describing strategies or goals to reduce plastic packaging.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on packaging materials."
+   },
+   {
+    "item_number": "9",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A DIVERSITY AND EQUITY AUDIT REPORT",
+    "proponent": "not stated",
+    "topic_summary": "Requests a racial equity audit analyzing Amazon's impacts on civil rights, equity, diversity and inclusion, and effects on its business, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a diversity and equity audit report."
+   },
+   {
+    "item_number": "10",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ALTERNATIVE DIRECTOR CANDIDATE POLICY",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy that the initial list of director candidates include hourly Associates to promote employee perspectives on the board.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an alternative director candidate policy."
+   },
+   {
+    "item_number": "11",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON COMPETITION STRATEGY AND RISK",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on how the board oversees risks related to anticompetitive practices and its role in related public policy activities.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on competition strategy and risk."
+   },
+   {
+    "item_number": "12",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ADDITIONAL REDUCTION IN THRESHOLD FOR CALLING SPECIAL SHAREHOLDER MEETINGS",
+    "proponent": "not stated",
+    "topic_summary": "Requests lowering the ownership threshold to call a special shareholder meeting from 25% to 20% of outstanding common stock.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting an additional reduction in threshold for calling special shareholder meetings."
+   },
+   {
+    "item_number": "13",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING ADDITIONAL REPORTING ON LOBBYING",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annual report disclosing lobbying policies, payments including trade association and grassroots lobbying, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on lobbying."
+   },
+   {
+    "item_number": "14",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CUSTOMER USE OF CERTAIN TECHNOLOGIES",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent study of Rekognition's privacy, civil rights, and human rights risks, including sales to repressive governments, with a report by September 2021.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer use of certain technologies."
+   }
+  ]
+ }
+}

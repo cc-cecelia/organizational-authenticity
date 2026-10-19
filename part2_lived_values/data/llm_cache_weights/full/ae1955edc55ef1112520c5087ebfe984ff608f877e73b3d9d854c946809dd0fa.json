@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "ae1955edc55ef1112520c5087ebfe984ff608f877e73b3d9d854c946809dd0fa",
+  "est_input_tokens": 16991
+ },
+ "usage": {
+  "input_tokens": 18584,
+  "output_tokens": 473
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales (40%) | $82.70 | $87.06 | $104.47"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Inventory Turns | 20% | 4.33 | 90% | 10% | 4.81 | 5.77 | 120% | 200%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating profit \u2013 restricted stock is forfeited if Fiscal 2015 operating profit is not at least 90% of the MIP target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock price performance \u2013 annual grant with an exercise price of $116.15 made on March 24, 2015"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "22a0749fa5198df916a842a740e1d6505c916e11c4ef94d9de57dddb6a28ea9a",
+  "est_input_tokens": 23637
+ },
+ "usage": {
+  "input_tokens": 24213,
+  "output_tokens": 814
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance measured against: \u2022 60% NOPAT \u2022 20% Asset Turns \u2022 20% Non-Financial Strategic Metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Metrics 80% | Non-Financial Strategic Metrics 20%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Award opportunities for each category are 3.33%, 6.66%, or 10% depending on the number of goals met."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Weights | 60% | 20% | 10% | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity and Inclusion Performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Convert North America hydraulic fracturing fleet to lower emission footprint"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce North America hydraulic fracturing GHG emissions intensity"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Complete additional rounds of prospects for Halliburton Labs"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Advance gender diversity in professional hires"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Advance ethnic diversity in the U.S."
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Ensure appropriate global diversity through workforce localization"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee may also consider other business performance factors that are important to our investors, including health, safety, environment, and service quality"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee set the performance measures on a 100% relative ROCE basis"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the PUP also uses a relative TSR modifier that compares three-year performance against the constituents of the OSX and can increase or decrease the incentive opportunity payout by 25%"
+   }
+  ],
+  "equal_split": []
+ }
+}

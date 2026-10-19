@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "c9963fffb18f2aeac9bb231fcd4a96d8a4beb4bbcbb1a9f61fad27ccd335a37b",
+  "est_input_tokens": 17767
+ },
+ "usage": {
+  "input_tokens": 20878,
+  "output_tokens": 651
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual cash incentive awards based on three financial metrics (revenue, operating income and cash flow from operations)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The 2022 non-financial performance measures were based on survey results and, at target levels, represented levels at or above 2021 performance."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver to our customers"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We use our human capital management metric \u2014 the Employee Experience Index (EXI) \u2014 to measure an employee's sense of commitment and belonging to the Company"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance share grants were selected to ensure a strong pay-for-performance alignment of the Company's compensation program with drivers of shareholder value, specifically weighted equally between cumulative earnings per share and average return on equity"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity for the three-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "long_term_incentive",
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity"
+   }
+  ]
+ }
+}

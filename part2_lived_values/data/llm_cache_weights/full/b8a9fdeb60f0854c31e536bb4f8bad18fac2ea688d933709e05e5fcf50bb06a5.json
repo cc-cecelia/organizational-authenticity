@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "b8a9fdeb60f0854c31e536bb4f8bad18fac2ea688d933709e05e5fcf50bb06a5",
+  "est_input_tokens": 35933
+ },
+ "usage": {
+  "input_tokens": 39460,
+  "output_tokens": 1521
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "The 2017 Annual Cash Incentive award includes cash flow neutrality and return on capital metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "The 2017 Annual Cash Incentive award includes cash flow neutrality and return on capital metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee determined to weight a larger portion of Ms. Hollub's Annual Cash Incentive award opportunity toward key company performance metrics"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining portion was dependent on the Compensation Committee's assessment of each executive officer's individual performance in 2017."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Effective organizational development within the executive's department;"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Contributions to succession planning efforts;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Functional and operating accomplishments within the executive's department;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Demonstration of ethical conduct;"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Commitment to health, environment and safety principles; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Dedication to collaboration and inclusion."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The TSR award accounted for 70% of Ms. Hollub's target long-term incentive package and 55% for the other named executive officers."
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "The cap on payout of the TSR award in instances of negative TSR performance over the performance period is intended to reinforce the pay-for-performance nature"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The RSU award, which comprises the remainder of the 2017 long-term incentive package, vests ratably over three years"
+   }
+  ],
+  "equal_split": []
+ }
+}

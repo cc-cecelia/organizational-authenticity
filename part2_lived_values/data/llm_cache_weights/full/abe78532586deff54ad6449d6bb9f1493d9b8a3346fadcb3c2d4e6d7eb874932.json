@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "abe78532586deff54ad6449d6bb9f1493d9b8a3346fadcb3c2d4e6d7eb874932",
+  "est_input_tokens": 18077
+ },
+ "usage": {
+  "input_tokens": 20836,
+  "output_tokens": 312
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's adjusted sales (weighted 45%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "adjusted operating income (weighted 45%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "inventory improvement (weighted 10%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2019 PSUs will be earned based on the Company's achievement of a three-year average ROIC goal, and a relative TSR modifier."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a relative TSR modifier. No dividends will accrue or be paid on the PSUs during the three-year performance period."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "b0a90627e816d210d01a946b39227ec24a5681f73ca350f93075a87cd0f83fea",
+  "est_input_tokens": 20919
+ },
+ "usage": {
+  "input_tokens": 21523,
+  "output_tokens": 581
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The target levels were set significantly above our Fiscal Year #actual performance levels"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted non-GAAP operating margin was #, which was above the pre-established target attainment levels of performance."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Direct Expenses (#) (#) | #"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (#) | #"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Bookings (#) | #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (#) | #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (#) | #"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (#) | #"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final payouts under the APB Plan included the effect of a non-subjective individual performance multiplier applied judiciously"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on our TSR performance as compared to the S&P #(\"Relative TSR\") over such periods"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each PSU Award may be earned, if at all, based on our Relative TSR and absolute TSR performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

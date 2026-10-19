@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "8f3138d0fe7c5252c393085ccef5c932ac6dccd5c23cc8649fff3e4504a86162",
+  "est_input_tokens": 19818
+ },
+ "usage": {
+  "input_tokens": 20029,
+  "output_tokens": 1017
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component of award based on: - Incentive EBIT - Total Adjusted Sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics to align our annual incentives with our strategy of driving growth, with an emphasis on profitability: Incentive EBIT (75%) and Total Adjusted Sales (25%)."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 33% of their STIP is based on a team scorecard, designed to strongly align pay opportunity to Target's strategic agenda."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "primary team scorecard progress indicators identified at the beginning of the year included: digital channel sales growth that outpaces the industry"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Launched 8 new brands in Apparel and Home, supported by 485 Apparel and 500 Home redesigned store experiences."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reached Supply Chain Optimization goals by reducing cycle time significantly, with greater than 60% of orders fulfilled from a store."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Added 28 new small format stores, which have a much higher per foot sales productivity than a typical store."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Remodeled 110 stores that are seeing 2 \u2014 4% sales lift per store on average."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Change in Market Share. A company's change in market share is calculated by determining the difference between (b) and (a)"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations versus the reported EPS from continuing operations of our retail peer group."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PBRSUs have a three-year performance period with the number of shares based on relative three-year TSR performance versus our retail peer group."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Price-Vested Options are not exercisable during the first three years and will become exercisable only if Target's stock price exceeds a hurdle of $75 per share for 20 consecutive trading days"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The financial component of our STIP program is based on two financial metrics"
+   }
+  ]
+ }
+}

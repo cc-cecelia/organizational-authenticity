@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "a56a6e1fe754c331e7d9603a77d113d07c457c239045b21c6e27c6e69c9ba975",
+  "est_input_tokens": 22273
+ },
+ "usage": {
+  "input_tokens": 23248,
+  "output_tokens": 495
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2021 Annual Incentive Program has been updated to include two metrics, Total IBM Revenue and Operating Cash Flow , each at equal weight."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Net Income (40%) | Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Cash Flow* (40%) | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow (30%) | Continues to be an important measure of our ability to reinvest and return value to stockholders over multiple years"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC Modifier | Reaffirms high value business model through a negative adjustment for ROIC below S&P 500 median"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "include two metrics, Total IBM Revenue and Operating Cash Flow , each at equal weight."
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001047469-18-001843",
+  "task": "proposals",
+  "section_words": 4582,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ae45c3667ec7989be2e7991a686192152c1ea7f1fa83e5ae416457d17b5810d6",
+  "est_input_tokens": 10873
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11984,
+  "output_tokens": 733,
+  "request_id": "req_011CgCAcThGLmy3oGXjhYary"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal on Lobbying Report",
+    "proponent": "Zevin Asset Management, on behalf of William Creighton, and co-filers Congregation of Sisters of St. Agnes and Fresh Pond Capital",
+    "topic_summary": "Requests an annually updated report disclosing AbbVie's direct and indirect lobbying policies, payments, trade association model-legislation memberships, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal to Separate Chair and CEO",
+    "proponent": "Dana Investment Advisors and co-filer Sisters of St. Joseph of the Third Order of St. Francis",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal on Compensation Committee Report on Drug Pricing",
+    "proponent": "The United Church Funds, and co-filers, including Mercy Health, Mercy Investment Services, Inc., Religious of the Sacred Heart of Mary, Sisters of Providence, Mother Joseph Providence, Sisters of St. Francis of Philadelphia, Sisters of St. Joseph of Orange, Trinity Health, UAW Retiree Medical Benefits Trust, and Zevin Asset Management, LLC on behalf of Claire L Bateman 1991 Trust",
+    "topic_summary": "Requests an annual Compensation Committee report on whether senior executive incentive pay integrates risks from public concern over drug pricing strategies.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

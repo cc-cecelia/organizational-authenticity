@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "39fe4434983baa60e28dfc65fbb5432c1ad674674d8c26db428ef4029d1736c9",
+  "est_input_tokens": 23160
+ },
+ "usage": {
+  "input_tokens": 24982,
+  "output_tokens": 171
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY24-26 cycle"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY24-26 cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "92f350cbcc262c0629ea7848f2f821fd2d1df526e39188f334ba2e86e0d60e0f",
+  "est_input_tokens": 19496
+ },
+ "usage": {
+  "input_tokens": 22131,
+  "output_tokens": 532
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Absolute Financial Component represents # of the annual incentive cash payout formula and is based on year-over-year growth of Intel's net income."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Relative Financial Component represents # of the annual incentive cash payout formula and is based on Intel's year-over-year net income growth compared with net income growth of technology peer companies."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Operational Performance Component represents # of the annual incentive cash payout formula and is based on specific operational goals that the Compensation Committee approves for each business unit"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "For #the corporate level goals were focused on hiring and retaining of diverse talent, as well as the reduction cycle time and number of iterations between product design and production"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "the corporate level goals were focused on hiring and retaining of diverse talent, as well as the reduction cycle time and number of iterations between product design and production, which were achieved"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "OSUs granted to the listed officers in #have a #-year performance period from the grant date"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the annual incentive cash payout is based on a [w] average of # corporate performance components"
+   }
+  ]
+ }
+}

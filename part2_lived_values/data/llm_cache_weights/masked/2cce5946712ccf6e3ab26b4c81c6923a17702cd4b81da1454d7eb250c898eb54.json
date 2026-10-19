@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "2cce5946712ccf6e3ab26b4c81c6923a17702cd4b81da1454d7eb250c898eb54",
+  "est_input_tokens": 16176
+ },
+ "usage": {
+  "input_tokens": 17084,
+  "output_tokens": 421
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Fiscal #MIP payout was contingent upon the achievement of financial performance goals set by the LDC Committee"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "exceeding the target level for the sales goal, while falling below target but above the threshold for the operating profit and inventory turns goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Fiscal #-#Performance Shares | Threshold | Target | Maximum #-Year Average ROIC"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Fiscal #-#performance share award provides for the grant of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target."
+   }
+  ],
+  "equal_split": []
+ }
+}

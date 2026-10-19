@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "7e763bf2bb13e908288cad1e45d0e003f4ac65d40c6ca22dcbc9ec882fc09d53",
+  "est_input_tokens": 36042
+ },
+ "usage": {
+  "input_tokens": 38575,
+  "output_tokens": 1003
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDC applies an approximately 50% weighting to its consideration of absolute and relative business results, i.e. \"the what\""
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, clients/customers/stakeholders, and teamwork & leadership"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customers/clients/stakeholders, and teamwork & leadership"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customers/clients/stakeholders, and teamwork & leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Focus on customer experience and innovation"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Serving a diverse customer base"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Investing in and supporting our communities"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Delivery on external DEI commitments"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Integrating environmental sustainability into business decisions"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Delivery on internal DEI initiatives"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Creating an open, respectful, inclusive culture"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Active attraction, retention, promotion and upskilling of talent"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Sound governance and controls"
+   },
+   {
+    "id": 13,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Focus on employee safety & security, including cyber"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs reinforce accountability through objective targets based on absolute and relative ROTCE"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customers/clients/stakeholders, and teamwork & leadership"
+   }
+  ]
+ }
+}

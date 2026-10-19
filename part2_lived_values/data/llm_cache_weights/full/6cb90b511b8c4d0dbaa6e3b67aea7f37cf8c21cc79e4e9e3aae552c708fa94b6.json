@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "6cb90b511b8c4d0dbaa6e3b67aea7f37cf8c21cc79e4e9e3aae552c708fa94b6",
+  "est_input_tokens": 27623
+ },
+ "usage": {
+  "input_tokens": 28111,
+  "output_tokens": 1600
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Production from Ongoing Operations | 727 MBOED (2) | 728 MBOED | 140% - 160% | 42% - 48%"
+   },
+   {
+    "id": 1,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Oil and Gas Op. Ex. per BOE | $11.60 per BOE (2) | $11.25 per BOE"
+   },
+   {
+    "id": 2,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "0% - 60% | CROCE (1) | 10 % (2) | 11% | 195% - 200% | 56% - 60%"
+   },
+   {
+    "id": 3,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Core EPS (1) | $1.18 (2) | $1.81"
+   },
+   {
+    "id": 4,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "0% - 40% | Cash Flow Management | Develop lower decline, lower capital intensive cash flow"
+   },
+   {
+    "id": 5,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Cost Structure of Enhanced Oil Recovery | Develop technology and initiatives that can lower the cost structure of EOR"
+   },
+   {
+    "id": 6,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "0% - 20% | Combined Employee/Contractor IIR | <0.29 (4) | 0.26 | 120% - 130% | 12% - 13%"
+   },
+   {
+    "id": 7,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Combined Employee/Contractor DART | <0.17 (4) | 0.15"
+   },
+   {
+    "id": 8,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Oil Spills | No net oil release > 500 barrels impacting fresh water | None"
+   },
+   {
+    "id": 9,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Risk | No \"4\" or \"5\" level incident | None"
+   },
+   {
+    "id": 10,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "0% - 20% | Advancement of CCUS | Advance CCUS projects by sanctioning projects capturing 40 MMcfpd of CO 2"
+   },
+   {
+    "id": 11,
+    "parent_id": 13,
+    "emphasis": 2,
+    "evidence": "Rapid progress toward achieving synergy and divestiture goals within 5 months of closing"
+   },
+   {
+    "id": 12,
+    "parent_id": 13,
+    "emphasis": 1,
+    "evidence": "Maintain Focus on Pre-Acquisition Performance Measures | Excel in the key performance measures established in the pre-acquisition period"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee bifurcated the company performance portion of the 2019 annual cash incentive award into two performance periods (pre- and post-acquisition) to give significant weight"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual Cash Incentive Award \u2013 Individual Performance Portion. The individual performance portion of the annual cash incentive award (20% of the target annual cash incentive award for Ms. Hollub and 40% for the other named executive officers)"
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Enhance the value of Occidental's portfolio of assets, with a focus on profitable development opportunities for all segments of Occidental"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Maintain focus on Occidental's commitment to safety, health, the environment, sustainability, diversity, governance, social responsibility, and the highest standards of ethical conduct"
+   },
+   {
+    "id": 17,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Implement the Board-approved strategic plan in a timely, beneficial and efficient manner"
+   },
+   {
+    "id": 18,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Focus on optimizing the long-term return on invested capital by investing strategically"
+   },
+   {
+    "id": 19,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Continue emphasis on identifying and developing Occidental's future leadership"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The TSR award is an objective, external measure of Occidental's effectiveness in translating its results into shareholder returns."
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "CROCE is a transparent measure of how efficiently Occidental uses its capital and is calculated from Occidental's audited financial statements"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 13,
+    "plan": "annual_incentive",
+    "evidence": "The formula for payout equally weighted both company performance periods at the midpoint of the score range"
+   }
+  ]
+ }
+}

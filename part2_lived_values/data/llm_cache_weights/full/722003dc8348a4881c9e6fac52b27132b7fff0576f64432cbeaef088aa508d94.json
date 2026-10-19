@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "722003dc8348a4881c9e6fac52b27132b7fff0576f64432cbeaef088aa508d94",
+  "est_input_tokens": 16550
+ },
+ "usage": {
+  "input_tokens": 18075,
+  "output_tokens": 186
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "continued to select adjusted diluted EPS as the performance measure for the CEBP so that executives' short-term actions around operating performance and capital structure support long-term profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "continued to use the performance goal of ROTCE exceeding the COE for the 2023 PBRSU awards, as this ratio reflects the creation of financial value for stockholders"
+   }
+  ],
+  "equal_split": []
+ }
+}

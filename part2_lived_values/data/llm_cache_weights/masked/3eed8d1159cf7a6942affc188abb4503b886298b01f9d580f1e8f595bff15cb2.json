@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "3eed8d1159cf7a6942affc188abb4503b886298b01f9d580f1e8f595bff15cb2",
+  "est_input_tokens": 38125
+ },
+ "usage": {
+  "input_tokens": 42699,
+  "output_tokens": 1200
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Chevron Incentive Plan is designed to recognize annual performance achievements based on the MCC's assessment of Company performance across # broad categories: financials, capital management, operating performance, and health, environmental and safety."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital Management\u2014#[w] \u2022 Return on capital employed \u2014Reported ROCE for #of #[w] exceeded Plan."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Performance\u2014#[w] \u2022 Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environmental and Safety\u2014#[w] \u2022 Maintained industry-leading personal safety rates, better than the Plan on several measures"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#reported earnings of #billion and #EPS exceeded Plan."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014Chevron delivered positive cash flow in #driven by actions taken to selectively sell assets"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014#billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of #[w] exceeded Plan."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures\u2014#C&E totaled #billion, #billion, or #[w], lower than budget"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan: Gorgon\u2014Train #first LNG production and sustained performance achieved."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled #billion, better than Plan"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates below Plan, primarily due to unplanned shutdowns at non-operated joint ventures"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on several measures"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance was better than Plan; spill volume above Plan."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe that TSR is the best overall pay-for-performance measure to align our CEO's and other NEOs' performance with stockholder interests."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock options | # | \u2022 Strike price is [w] to the closing common stock price on the grant date."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted Stock Units | # | \u2022 Actual number of RSUs granted is determined by dividing the [w] value"
+   }
+  ],
+  "equal_split": []
+ }
+}

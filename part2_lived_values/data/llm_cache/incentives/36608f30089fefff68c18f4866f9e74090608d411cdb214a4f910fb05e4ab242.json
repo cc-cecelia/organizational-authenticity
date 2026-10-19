@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001193125-22-105534",
+  "task": "incentives",
+  "section_words": 11450,
+  "section_method": "heading",
+  "cache_key": "36608f30089fefff68c18f4866f9e74090608d411cdb214a4f910fb05e4ab242",
+  "est_input_tokens": 26561
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29512,
+  "output_tokens": 1751,
+  "request_id": "req_011CgCACcBpTzwCDSDysVM72"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial performance goals (50% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "metric": "Business strength objectives (25% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "metric": "ESG and organizational strength objectives (25% of award opportunity)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% dependent on BlackRock's progress towards meeting its ESG and organizational priorities"
+   },
+   {
+    "metric": "Deliver sustainable solutions for clients",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver sustainable solutions for clients"
+   },
+   {
+    "metric": "Corporate sustainability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Corporate sustainability"
+   },
+   {
+    "metric": "Talent and succession",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Talent and succession"
+   },
+   {
+    "metric": "Diversity, Equity and Inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diversity, Equity and Inclusion"
+   },
+   {
+    "metric": "Purpose and culture",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Purpose and culture"
+   },
+   {
+    "metric": "Operating Income, as adjusted",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income, as adjusted ($ million) | $6,284 | $7,478"
+   },
+   {
+    "metric": "Diluted Earnings Per Share, as adjusted",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diluted Earnings Per Share, as adjusted (1) | $33.82 | $39.18"
+   },
+   {
+    "metric": "Total Shareholder Return (1-year, 3-year, 5-year)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Shareholder Return (4) (1-year) | +29.4% | +45.5% | +28.7%"
+   },
+   {
+    "metric": "Organic Revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance-based RSUs are settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "metric": "Operating Margin, as adjusted",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets over a three-year performance period"
+   }
+  ]
+ }
+}

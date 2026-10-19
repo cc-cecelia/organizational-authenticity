@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "369e04a73ddcb3e788c91595415a36b49d4d95b3a2186e9df891a3d8c2e65b01",
+  "est_input_tokens": 19585
+ },
+ "usage": {
+  "input_tokens": 22845,
+  "output_tokens": 473
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee also established a series of performance targets based on our income before income taxes (\"PTI\") for fiscal 2018"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to the Committee's discretion to reduce or eliminate any award based on Company or individual performance, viewed holistically"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Participants will receive a payout at the average of the percentage levels at which the two performance targets are met"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a series of performance targets based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\")"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "subject to performance vesting based on cumulative revenue growth and cumulative EPS growth over a five-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "subject to performance vesting based on cumulative revenue growth and cumulative EPS growth over a five-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "long_term_incentive",
+    "evidence": "Participants will receive a payout at the average of the percentage levels at which the two performance targets are met"
+   }
+  ]
+ }
+}

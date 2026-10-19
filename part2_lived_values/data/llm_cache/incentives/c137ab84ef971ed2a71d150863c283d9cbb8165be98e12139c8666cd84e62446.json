@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001558370-23-005957",
+  "task": "incentives",
+  "section_words": 8537,
+  "section_method": "heading",
+  "cache_key": "c137ab84ef971ed2a71d150863c283d9cbb8165be98e12139c8666cd84e62446",
+  "est_input_tokens": 18004
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21371,
+  "output_tokens": 3616,
+  "request_id": "req_011CgCBPbKuSV25zGFkHs4PT"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Systemwide sales growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "SYSTEMWIDE SALES (\" SWS \") (42.5% WEIGHTING)"
+   },
+   {
+    "metric": "Comparable operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "OPERATING INCOME (\" OI \")* (42.5% WEIGHTING)"
+   },
+   {
+    "metric": "Human Capital Metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Corporate (85%) | Human Capital (15%)"
+   },
+   {
+    "metric": "Values Index score (meet or exceed specified McDonald's Values Index score)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified McDonald's Values Index* score"
+   },
+   {
+    "metric": "Global representation of women in senior director and above positions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified increase in global representation of women in senior director and above positions"
+   },
+   {
+    "metric": "U.S. representation of underrepresented minorities in senior director and above positions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified increase in U.S. representation of underrepresented minorities in senior director and above positions"
+   },
+   {
+    "metric": "McDonald's Inclusion Index score",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified McDonald ' s Inclusion Index* score"
+   },
+   {
+    "metric": "Franchisee recruitment modifier (diverse registered applicants entering the franchisee pipeline)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This modifier is only applicable to business leaders with oversight of this process, including Messrs. Borden (prior to his promotion) and Erlinger."
+   },
+   {
+    "metric": "Earnings per share (EPS) growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to our achievement of two key financial metrics, EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "Return on Invested Capital (ROIC)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to our achievement of two key financial metrics, EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "Relative TSR modifier vs. S&P 500 Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to a modifier of up to an additional 25 percentage points based on our relative TSR vs. the S&P 500 Index"
+   },
+   {
+    "metric": "Return on Invested Incremental Capital (ROIIC) (2020 PRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In 2020, the Committee granted PRSUs to our executives, which were subject to EPS, ROIIC and relative TSR performance metrics"
+   }
+  ]
+ }
+}

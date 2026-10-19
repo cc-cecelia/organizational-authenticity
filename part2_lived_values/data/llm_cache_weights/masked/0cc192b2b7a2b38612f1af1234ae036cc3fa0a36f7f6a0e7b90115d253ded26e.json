@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "0cc192b2b7a2b38612f1af1234ae036cc3fa0a36f7f6a0e7b90115d253ded26e",
+  "est_input_tokens": 33782
+ },
+ "usage": {
+  "input_tokens": 34573,
+  "output_tokens": 938
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance | Business Strength | Organizational Strength"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "business strength objectives (#) and organizational strength objectives (#)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength | Talent pipeline and development"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver on our commitments to clients \u2022 Net inflows were positive and competitive across regions"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Grow with our clients' needs and evolve how we serve clients \u2022 Spearheaded the development of BlackRock's relationship with GIP"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Lead in a changing world \u2022 In partnership with Mr. Kapito, led engagements"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Deliver sustainable solutions to meet client demand \u2022 Oversaw the expansion and innovation of BlackRock's platform of sustainability-oriented offerings"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent pipeline and development \u2022 Elevated a record # internal leaders to the GEC"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, equity and inclusion \u2022 Surpassed # of # of BlackRock's #aspirational workforce diversity goals"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture \u2022 In partnership with Mr. Goldstein, completed the on-time transition of BlackRock's new global headquarters"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Corporate sustainability \u2022 Reinforced BlackRock's position as a leading voice in corporate sustainability disclosure"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and sustained Operating Margin, as adjusted, determine the number of RSUs ultimately earned"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Margin, as adjusted, determine the number of RSUs ultimately earned"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A # stock price growth hurdle from the grant price of #"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Positive Organic Revenue growth achieved in the #-year period of #through #."
+   }
+  ],
+  "equal_split": []
+ }
+}

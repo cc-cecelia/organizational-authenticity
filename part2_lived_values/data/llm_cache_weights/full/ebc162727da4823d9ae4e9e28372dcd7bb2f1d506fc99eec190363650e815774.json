@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "ebc162727da4823d9ae4e9e28372dcd7bb2f1d506fc99eec190363650e815774",
+  "est_input_tokens": 25061
+ },
+ "usage": {
+  "input_tokens": 27789,
+  "output_tokens": 243
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Since 2013, PRSUs have been based 50% on three-year average ROA and 50% on three-year average growth in adjusted TBV standards."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The awards are equally weighted with 50% based on ROA standards (tax-normalized) and 50% based on adjusted TBV growth standards."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The awards are equally weighted with 50% based on ROA standards (tax-normalized) and 50% based on adjusted TBV growth standards."
+   }
+  ]
+ }
+}

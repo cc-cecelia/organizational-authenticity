@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "3e6daac49eb0b3953be444ecb4bdfc029145d2734dbd62cd7de3b3aa773194bb",
+  "est_input_tokens": 11706
+ },
+ "usage": {
+  "input_tokens": 12419,
+  "output_tokens": 661
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our STIP is designed to reward growth in annual operating income, which measures the success of the most important elements of our business strategy."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "These modifiers in 2015 include the following objective metrics: \u2022 Comparable guest count growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "\u2022 G&A expense control"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "\u2022 Customer satisfaction"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "\u2022 Success of our people initiatives"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts will be initially determined based on the following quantitative measures over the three-year performance period: growth in operating income and ROIIC."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The combination of operating income growth and ROIIC provides the appropriate balance in Cash LTIP, as operating income growth focuses on the key element of growing our business and ROIIC measures the effectiveness of our capital investments."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The addition of the Share of Traffic and the relative TSR metrics encourage management's focus on these important measures."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "applying a multiplier based on cumulative TSR versus the S&P 500 Index for the performance period."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "RSUs granted to executives in 2015 as part of the annual cycle are scheduled to vest on the third anniversary of the grant date, subject to the Company's achievement of an EPS growth target over the 2015-2017 performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

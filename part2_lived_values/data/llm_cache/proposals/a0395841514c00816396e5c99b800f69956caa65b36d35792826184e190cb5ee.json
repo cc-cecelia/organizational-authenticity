@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001206774-20-000777",
+  "task": "proposals",
+  "section_words": 5741,
+  "section_method": "resolved_windows",
+  "cache_key": "a0395841514c00816396e5c99b800f69956caa65b36d35792826184e190cb5ee",
+  "est_input_tokens": 12850
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14173,
+  "output_tokens": 491,
+  "request_id": "req_011CgCANYuAVdQrnMCgYrUec"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "",
+    "proponent": "not stated",
+    "topic_summary": "Proposal regarding proxy access by-law provisions; the board recommends against it, stating Citi has adopted progressive proxy access provisions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 5."
+   },
+   {
+    "item_number": "6",
+    "title": "",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests board review of governance documents and recommendations on amending bylaws, articles or committee charters to implement the Business Roundtable Statement on the Purpose of a Corporation.",
+    "category": "integrity",
+    "secondary_category": "other",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends a vote AGAINST this Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "",
+    "proponent": "New Economy Project and co-filers (School Sisters of Notre Dame Cooperative Investment Fund; LGPS Central Limited; and Greater Manchester Pension Fund)",
+    "topic_summary": "Requests annual report disclosing Citi's direct and indirect lobbying policies, payments used for lobbying or grassroots communications, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST this Proposal 7."
+   }
+  ]
+ }
+}

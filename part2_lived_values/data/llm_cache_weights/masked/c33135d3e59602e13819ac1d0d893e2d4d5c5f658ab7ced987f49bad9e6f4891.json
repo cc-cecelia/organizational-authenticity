@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "c33135d3e59602e13819ac1d0d893e2d4d5c5f658ab7ced987f49bad9e6f4891",
+  "est_input_tokens": 14820
+ },
+ "usage": {
+  "input_tokens": 15420,
+  "output_tokens": 640
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve #-digit ROCE* | # | Achieved a # ROCE*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* and reduce net debt-to-total capitalization ratio*"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | # | Exceeded production targets"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBoed total production | Achieved #MBoed total production"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#/Boe DD&A | Actual DD&A \u2013 #/Boe"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic and other operational goals, such as: | # | On average, met expectations"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Drill # \"premium\" wells | Less than # of wells drilled were \"premium\""
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Improve strong safety and environmental record | Reduced recordable incident rate below #and #levels."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our compensation program is designed to align our executives' long-term realizable pay with long-term performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

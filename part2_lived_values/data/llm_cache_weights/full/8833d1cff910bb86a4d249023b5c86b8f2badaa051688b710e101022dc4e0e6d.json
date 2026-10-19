@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "8833d1cff910bb86a4d249023b5c86b8f2badaa051688b710e101022dc4e0e6d",
+  "est_input_tokens": 16990
+ },
+ "usage": {
+  "input_tokens": 18343,
+  "output_tokens": 491
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual Incentive Award: Payout is based on the Company's achievement of financial (EBIT and Sales) and strategic (Leadership Effectiveness and People Productivity) goals."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides incentive compensation for leadership behavior that has the greatest positive impact on employee motivation, engagement and commitment"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides incentive compensation for effectively controlling human capital expenses"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Rewards the executives for profitability of over-all Company operations and focuses the management team on operational efficiency and expense management"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Company's achievement of a three-year average RONCAA goal established at the beginning of the three-year performance period."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improvement in Brand Strength | +2.5 point | +5.0 point | +10.0 point"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the Compensation Committee awarded the NEOs an equal mix of stock options, time-vested RSAs and PSUs."
+   }
+  ]
+ }
+}

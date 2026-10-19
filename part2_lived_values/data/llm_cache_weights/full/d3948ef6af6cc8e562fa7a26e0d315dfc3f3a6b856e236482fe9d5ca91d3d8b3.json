@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "d3948ef6af6cc8e562fa7a26e0d315dfc3f3a6b856e236482fe9d5ca91d3d8b3",
+  "est_input_tokens": 18138
+ },
+ "usage": {
+  "input_tokens": 21711,
+  "output_tokens": 1263
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee also established a series of performance targets based on our earnings before interest and taxes"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "subject to the Committee's discretion to reduce or eliminate any award based on Company or individual performance, viewed holistically"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For cumulative revenues over the performance period, the target payout requires revenues of $122,826 million"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For cumulative EPS over the performance period, the target payout requires EPS of $8.11"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Participants will receive a payout at the average of the percentage levels at which the two performance targets are met"
+   }
+  ]
+ }
+}

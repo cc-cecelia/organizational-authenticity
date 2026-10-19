@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-139646",
+  "task": "proposals",
+  "section_words": 4950,
+  "section_method": "resolved_windows",
+  "cache_key": "c6ff9d320a99e62e81cab9d5c7abfc4093f63fd30492c8f0db206003ecc043b7",
+  "est_input_tokens": 10549
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12896,
+  "output_tokens": 213,
+  "request_id": "req_011CgC9VosA72oa8W72HqQdH"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2014 Stockholder Proposal Requesting, on an Advisory Basis, Action to Allow Stockholders to Request Special Meetings of Stockholders",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Requests the board amend bylaws to give holders of 15% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors Recommends a Vote AGAINST Proposal 7."
+   }
+  ]
+ }
+}

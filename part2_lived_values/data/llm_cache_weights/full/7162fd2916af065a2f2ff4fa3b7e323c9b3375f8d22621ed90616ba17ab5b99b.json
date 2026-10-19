@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "7162fd2916af065a2f2ff4fa3b7e323c9b3375f8d22621ed90616ba17ab5b99b",
+  "est_input_tokens": 26109
+ },
+ "usage": {
+  "input_tokens": 26612,
+  "output_tokens": 1012
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The \"What\" category focuses on the financial, strategic, and risk management objectives for 2018."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Effective Management is based on strategic deliverables, initiatives, and expenses the business or functional area"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk management is evaluated on effectiveness across all risk types, including compliance, operational, financial, strategic, and reputation"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leaders are accountable for fostering a sound risk environment and setting the tone at the top"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Based on upholding the Vision, Values & Goals of Wells Fargo through the behaviors set forth in our comprehensive Leadership Success Criteria"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Continued to improve customer service, resulting in branch survey scores for \"Customer Loyalty\""
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Reduced voluntary team member attrition to its lowest level in six years"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Surpassed our $400 million philanthropy target for 2018"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Leadership, such as upholding the Company's Vision, Values & Goals and acting pursuant to our leadership success criteria that promote ethics, doing what is right for customers, and diversity and inclusion."
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Returned $25.8 billion to our shareholders through common stock dividends and net share repurchases"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Satisfaction of one of the 2018 Performance Policy goals gave the HRC the authority under the Performance Policy to award 2018 incentive compensation"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2018 grants tied to 3-year RORCE compared to the Financial Performance Peer Group, subject to absolute performance levels"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In 2018, the HRC added a TSR governor to our Performance Share Award design."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For any year in the three-year performance period that our Company incurs a net operating loss, the target number of Performance Shares will be reduced by one-third."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the HRC determined objectives in this category were to be given weight equal to those in Effective Management and Business Performance"
+   }
+  ]
+ }
+}

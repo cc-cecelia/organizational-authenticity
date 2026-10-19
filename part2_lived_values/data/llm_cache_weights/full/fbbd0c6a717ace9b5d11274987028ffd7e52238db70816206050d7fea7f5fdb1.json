@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "fbbd0c6a717ace9b5d11274987028ffd7e52238db70816206050d7fea7f5fdb1",
+  "est_input_tokens": 19521
+ },
+ "usage": {
+  "input_tokens": 22884,
+  "output_tokens": 747
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PSU Multi-Year Awards that commenced vesting in Fiscal Year 2021 are subject to four overlapping performance periods"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Our Relative TSR for the first performance period was at the 69th percentile and, as a result, 25% of the PSU award was earned"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The FY 2022 TSR PSU Award is earned based on our Relative TSR and absolute TSR performance measured over the period of November 1, 2021 through November 3, 2024"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The FY 2022 Strategic Award granted to Mr. Tan consisted of 18,937 shares that could be earned upon satisfaction of pre-approved metrics and milestones related to corporate strategy"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The FY 2023 PSU Awards are 100% at risk and deliver value to Mr. Tan and Dr. Kawwas only if our stockholders have also received significant and sustained value appreciation"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive corporate goal(s) under the APB Plan: target bonus amounts were as follows, in each case, as a percentage of eligible earnings"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The threshold amount for each of Ms. Spears and Mr. Brazeal was 6.25% of their respective target bonus amounts, calculated based on the achievement of a single corporate or divisional goal"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "with the individual performance multiplier of 150%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "One-third of the shares subject to the FY 2023 PSU Awards will be earned for each per share stock price hurdle attained, with no interpolation between the price hurdles."
+   }
+  ]
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "fe1dd17f0d9704fae7ad28fa92d0d266015ec1988864d161a6f170c1ee96f128",
+  "est_input_tokens": 15574
+ },
+ "usage": {
+  "input_tokens": 16350,
+  "output_tokens": 883
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Majority of Annual Bonus Plan goals tied to quantitative metrics measuring returns, cash flow, safety and environmental goals, unit costs and stock price performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #after-tax rate of return*, ROCE* and free cash flow* targets were set lower than #based on lower commodity prices"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of #billion before dividends"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve median in peer group in TSR performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve unit cost targets: \u2022 \u2264 #MM/MBoed Capital Efficiency"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Realize total recordable incident rate below #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Continued commitment to strong environmental record"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Oil spill rate below #per Mboe gross volumes"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Methane emissions intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "GHG emissions intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Flaring intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational and organizational execution goals, [w] # in total for #encompassed our other goals"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR Performance (Primary Performance Metric)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #performance unit awards include an absolute ROCE* modifier."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The overall #performance award payout (after considering both relative TSR performance and the impact of the ROCE* modifier) is capped at target"
+   }
+  ],
+  "equal_split": []
+ }
+}

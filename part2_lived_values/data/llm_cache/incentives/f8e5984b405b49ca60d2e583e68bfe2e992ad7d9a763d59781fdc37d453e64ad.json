@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-101977",
+  "task": "incentives",
+  "section_words": 13127,
+  "section_method": "heading",
+  "cache_key": "f8e5984b405b49ca60d2e583e68bfe2e992ad7d9a763d59781fdc37d453e64ad",
+  "est_input_tokens": 30601
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33012,
+  "output_tokens": 3514,
+  "request_id": "req_011CgCABpYwwwmFSku9mnm2U"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Financial performance objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "metric": "Business strength objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "metric": "ESG and organizational strength objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% dependent on BlackRock's progress towards meeting its ESG and organizational priorities."
+   },
+   {
+    "metric": "Diluted Earnings Per Share, as adjusted",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "BlackRock's 2022 diluted earnings per share, as adjusted, decreased to $35.36"
+   },
+   {
+    "metric": "Total Shareholder Return",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Shareholder Return (4) (1-year) | (20.4)% | (21.1)% | (18.1)%"
+   },
+   {
+    "metric": "Corporate sustainability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Oversaw the increased breadth and transparency of BlackRock's corporate sustainability disclosures"
+   },
+   {
+    "metric": "Talent pipeline and development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Talent pipeline and development \u2022 Held discussions with the Board to continue to progress CEO and President succession plans"
+   },
+   {
+    "metric": "Diversity, equity and inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diversity, equity and inclusion \u2022 Continued to lead BlackRock to external recognition for its DEI talent efforts"
+   },
+   {
+    "metric": "Purpose and culture",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Launched a firmwide connectivity initiative featuring special Company events"
+   },
+   {
+    "metric": "Organic Revenue growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of shares vesting under BPIP is based on attainment of specified levels of Organic Revenue growth and Operating Margin, as adjusted"
+   },
+   {
+    "metric": "Operating Margin, as adjusted",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The percentage will be determined by BlackRock's average annual Organic Revenue growth and Operating Margin, as adjusted, during the three-year performance period"
+   }
+  ]
+ }
+}

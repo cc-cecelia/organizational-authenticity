@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "9bbc057c036613ab998106e60cd52e8c1a43b81582ae282587bd396703bfa187",
+  "est_input_tokens": 14779
+ },
+ "usage": {
+  "input_tokens": 15505,
+  "output_tokens": 2462
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our \"premium\" well strategy requires any new capital to generate at least a # direct after-tax rate of return*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve #-digit ROCE*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Significant Free Cash Flow \u2013 We are focused on generating free cash flow to return cash to shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "#MBoed total production"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Actual DD&A \u2013 #/Boe"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Actual LOE & Transportation Expense \u2013 #/Boe"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Actual G&A Expenses \u2013 #/Boe"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Continued our commitment to safety and the environment, achieving our lowest total recordable incident rate"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "a reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Lower finding costs by #"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Improve capital efficiency by #"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Drill # premium wells"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost by #"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Increase premium drilling inventory by #more locations than completed wells"
+   },
+   {
+    "id": 18,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Test and confirm new premium oil or gas prospects"
+   },
+   {
+    "id": 19,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Capture key acreage on new premium oil plays"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "In the case of performance units, the largest single component of our program"
+   }
+  ],
+  "equal_split": []
+ }
+}

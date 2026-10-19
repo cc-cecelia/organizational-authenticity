@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "211fe788ad2c59fab344df1a4107363eae6802d50b91f5d69cd3fa97e19a6278",
+  "est_input_tokens": 29257
+ },
+ "usage": {
+  "input_tokens": 34681,
+  "output_tokens": 585
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Short-term cash incentives focus on annual operating plan financial measures such as revenue growth, diluted earnings per share, and cash flow."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Short-term cash incentives focus on annual operating plan financial measures such as revenue growth, diluted earnings per share, and cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Short-term cash incentives focus on annual operating plan financial measures such as revenue growth, diluted earnings per share, and cash flow."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earned payouts under the MIP for each individual performance measure (annual revenue growth, diluted EPS, and cash flow indicator) can range from 50% to 200% of the target grant based on Company performance and a quality compliance modifier performance threshold"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Long-term cash incentives measure shareholder three-year ROIC and three-year revenue growth relative to our long-term strategic expectations"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Long-term cash incentives measure shareholder three-year ROIC and three-year revenue growth relative to our long-term strategic expectations"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PBRSUs vest 100% on the third anniversary of the date of grant provided Medtronic achieves a minimum three-year cumulative diluted EPS threshold growth rate."
+   }
+  ],
+  "equal_split": []
+ }
+}

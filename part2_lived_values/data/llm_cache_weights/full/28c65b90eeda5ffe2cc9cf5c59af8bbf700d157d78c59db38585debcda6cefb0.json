@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "28c65b90eeda5ffe2cc9cf5c59af8bbf700d157d78c59db38585debcda6cefb0",
+  "est_input_tokens": 14543
+ },
+ "usage": {
+  "input_tokens": 15498,
+  "output_tokens": 485
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee continues to believe that driving operating income growth remains the primary indicator of Company performance, therefore it applied a 75% weighting to this metric."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable guest count growth is weighted at 25% to promote the long-term health of our business and support income growth."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As a single modifier, delivery sales can increase or decrease the payout opportunity range by up to 25 percentage points."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs granted in 2019 as part of the annual cycle will vest on the third anniversary of the grant date, subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PRSUs are also subject to a modifier based on relative TSR over the 2019-2021 performance period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each component generally weighted equally"
+   }
+  ]
+ }
+}

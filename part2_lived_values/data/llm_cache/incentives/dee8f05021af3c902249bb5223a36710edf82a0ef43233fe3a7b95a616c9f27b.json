@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001047469-18-001843",
+  "task": "incentives",
+  "section_words": 12211,
+  "section_method": "heading",
+  "cache_key": "dee8f05021af3c902249bb5223a36710edf82a0ef43233fe3a7b95a616c9f27b",
+  "est_input_tokens": 23818
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30095,
+  "output_tokens": 637,
+  "request_id": "req_011CgCAcReyZarhzVh9YAoKL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Earnings per share (EPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance share award that has the potential to vest at 0% to 250% of target during a three-year performance period based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "Relative total stockholder return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "Return on equity (ROE) relative to peer group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance-vested restricted stock unit award that has the potential to vest at 0% to 150% of target, in one-third increments, during a three-year performance period based on AbbVie's return on equity (ROE)"
+   },
+   {
+    "metric": "Specified strategic milestones",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance share award that has the potential to vest at 0% to 275% of target, in five tranches, during a five-year performance period based on achievement of specified strategic milestones and approval by the compensation committee"
+   }
+  ]
+ }
+}

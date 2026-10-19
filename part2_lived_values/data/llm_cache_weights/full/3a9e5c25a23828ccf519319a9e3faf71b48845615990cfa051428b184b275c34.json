@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3a9e5c25a23828ccf519319a9e3faf71b48845615990cfa051428b184b275c34",
+  "est_input_tokens": 24376
+ },
+ "usage": {
+  "input_tokens": 24971,
+  "output_tokens": 3112
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Prevalent, industry-relevant measure of growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects achievement of our strategic goals by encouraging efficient operations and resource allocations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects quality of earnings and cash flows that may be reinvested in our businesses"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentivizes executives to support our commitment to environmental, social, and governance matters"
+   },
+   {
+    "id": 4,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Improve Customer Allegiance Score (CAS) vs. 2022"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong indicator of our long-term ability to drive shareholder value by effectively meeting the needs of our customers"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Drives strong future profitability"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Deepen culture of diversity, involvement and inclusion"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Continue to improve leadership diversity"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Make progress on our greenhouse gas emission reduction goals"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Continue to focus on the safety of our colleagues"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Build on momentum to support our communities through colleague involvement and STEM education"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Drive personal ownership of ethics, quality, safety, and regulatory compliance and cybersecurity"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Sustain our leadership in enabling our customers' COVID-19 response activity through our testing and vaccines and therapies solutions"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reward achievement of financial goals (organic revenue growth, adjusted EPS)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Prevalent, industry-relevant measure of delivery of shareholder value"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to a further relative TSR metric based on stock price performance over a three-year performance period"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In September 2020 the Committee approved a performance-based stock option program for senior leaders, including our executives"
+   }
+  ],
+  "equal_split": []
+ }
+}

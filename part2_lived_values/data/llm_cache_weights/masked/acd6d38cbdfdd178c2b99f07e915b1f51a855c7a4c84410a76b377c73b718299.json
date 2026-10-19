@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "acd6d38cbdfdd178c2b99f07e915b1f51a855c7a4c84410a76b377c73b718299",
+  "est_input_tokens": 30768
+ },
+ "usage": {
+  "input_tokens": 31412,
+  "output_tokens": 666
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA reflects earnings before interest, taxes, depreciation and amortization, excluding charges and credits."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash flow generation is critical to achieving the Company's net debt reduction goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Every NEO had at least # strategic personal objective related to sustainability, new energy, or HSE goals."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Digital | Achieve a specified [w] of digital revenue growth"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Sustainability | Establish industry-leading emissions reduction targets."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "New Energy | Accelerate expansion of new energy portfolio"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Investor Relations | Attract increased investments from new investors"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "HSE | Achieve total recordable injury frequency and automotive accident rate per million miles below a target threshold."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute FCF Margin PSUs: We replaced our previous free cash flow conversion rate metric"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR PSUs: We introduced PSUs based on a #-year relative TSR metric as a new element of our LTI program"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE PSUs: We increased the rigor of the performance targets"
+   }
+  ],
+  "equal_split": []
+ }
+}

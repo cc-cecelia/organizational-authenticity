@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-506771",
+  "task": "proposals",
+  "section_words": 2990,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2a38d94a4bcd9fa863dae78a65f251c81eaaad61cbfebc0c25082d3f7edc615c",
+  "est_input_tokens": 7016
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8095,
+  "output_tokens": 472,
+  "request_id": "req_011CgC9tanEySCCXQqX763vx"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Stockholder Proposal to Adopt a Policy to Require an Independent Chairman",
+    "proponent": "Gerald R. Armstrong",
+    "topic_summary": "Requests the Board adopt and by-law policy requiring the Chairman of the Board to be an independent director, with succession and excusal provisions.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that you vote AGAINST each of these proposals"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Stockholder Proposal to Provide a Report on the Company's Lobbying Policies and Practices",
+    "proponent": "Trillium Asset Management, on behalf of Paula C. Sager, Victor A. Kovner, Lewis Blaustein, The Oregon Environmental Council, Plymouth Congregational Church of Seattle, Persephone LLC, and Mayberry LLC",
+    "topic_summary": "Requests an annual report disclosing the Company's lobbying policies, direct and indirect lobbying and grassroots payments, model-legislation organization payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote \"AGAINST\" this proposal, which is identified as Item 5 in the proxy materials"
+   }
+  ]
+ }
+}

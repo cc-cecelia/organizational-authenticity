@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000301",
+  "task": "incentives",
+  "section_words": 10550,
+  "section_method": "heading",
+  "cache_key": "83066fcae54543e58492544e2022968393d3c82af0831e055b8e46a94b983a6c",
+  "est_input_tokens": 21664
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27267,
+  "output_tokens": 307,
+  "request_id": "req_011CgCCPT4gxGfPj2vDzAVB6"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash Value Added (company)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   },
+   {
+    "metric": "2013 cycle Performance Unit Program (2015 cycle performance measures not stated in text)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2013 cycle Performance Unit Program amounts paid to each NEO are: $5,999,513 for Mr. Lesar"
+   }
+  ]
+ }
+}

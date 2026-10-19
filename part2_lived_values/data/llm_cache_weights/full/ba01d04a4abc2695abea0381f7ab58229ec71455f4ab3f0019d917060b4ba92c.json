@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "ba01d04a4abc2695abea0381f7ab58229ec71455f4ab3f0019d917060b4ba92c",
+  "est_input_tokens": 6398
+ },
+ "usage": {
+  "input_tokens": 7702,
+  "output_tokens": 186
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "rewarding absolute and relative performance in TSR through long-term equity incentive awards."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "rewarding absolute and relative performance in TSR through long-term equity incentive awards."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "aligning annual incentive awards with annual operating, financial and strategic objectives"
+   }
+  ],
+  "equal_split": []
+ }
+}

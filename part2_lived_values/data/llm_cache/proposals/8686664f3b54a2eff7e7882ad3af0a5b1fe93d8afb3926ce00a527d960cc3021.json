@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-095785",
+  "task": "proposals",
+  "section_words": 8644,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8686664f3b54a2eff7e7882ad3af0a5b1fe93d8afb3926ce00a527d960cc3021",
+  "est_input_tokens": 19215
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20153,
+  "output_tokens": 724,
+  "request_id": "req_011CgC9iQbnYT4KVUXHQJux9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL ON WHETHER TO ALLOW STOCKHOLDERS TO ACT BY WRITTEN CONSENT",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board permit shareholders to act by written consent, with the minimum votes needed to authorize action at a fully attended meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote against this proposal because the Board views the change that the proposal requests as contrary to the best interests of our stockholders"
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REQUESTING A REPORT ON THE RISKS ASSOCIATED WITH EMERGING PUBLIC POLICIES ADDRESSING THE GENDER PAY GAP",
+    "proponent": "Arjuna Capital, on behalf of Laura J. Ballance and Lucas Jozef Suer",
+    "topic_summary": "Requests a report on risks to the company from emerging public policies on gender pay gaps, including a global median gender pay gap disclosure.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal requesting the preparation of a report on Intel's global median gender pay gap"
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REQUESTING AN ANNUAL ADVISORY VOTE ON POLITICAL CONTRIBUTIONS",
+    "proponent": "NorthStar Asset Management, Inc., Funded Pension Plan",
+    "topic_summary": "Requests an annual proxy report analyzing political contributions against company values and an advisory shareholder vote on political contributions.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote \"AGAINST\" this proposal for Intel to complete a political contributions cost-benefit analysis report."
+   }
+  ]
+ }
+}

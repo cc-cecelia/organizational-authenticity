@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000930413-19-000953",
+  "task": "proposals",
+  "section_words": 6020,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3ab7fe4a5abcbc96e1ee56f439874e5d6a55b7677deb8e56bb11e88fa0ed85e2",
+  "est_input_tokens": 13964
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15793,
+  "output_tokens": 666,
+  "request_id": "req_011CgCAqsBGE9oPYJXLiBKTZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Right to Act by Written Consent",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Report on Lobbying Activities",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests an annual report disclosing Pfizer's direct and indirect lobbying policies, payments, model-legislation memberships and oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Independent Chair Policy",
+    "proponent": "The Sisters of St. Francis of Philadelphia",
+    "topic_summary": "Asks the board to adopt a policy requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding Integrating Drug Pricing Into Executive Compensation Policies and Programs",
+    "proponent": "Trinity Health",
+    "topic_summary": "Asks the Compensation Committee to report on whether executive incentive pay rewards or penalizes drug pricing strategies tied to public concern.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "8ca27723c93d75c62f61f5e79cbb28b28ce0379d98f31db107ba2a8f3c907883",
+  "est_input_tokens": 13447
+ },
+ "usage": {
+  "input_tokens": 15181,
+  "output_tokens": 215
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Variable Cash | Motivate and reward for annual corporate financial performance | At-Risk | Annual Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "SY PSUs | Align with stockholder interests by linking NEO pay to annual operational performance | At-Risk | Annual Non-GAAP Operating Income"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Aligns directly with long-term shareholder value creation"
+   }
+  ],
+  "equal_split": []
+ }
+}

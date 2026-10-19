@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001510295-20-000017",
+  "task": "proposals",
+  "section_words": 2173,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "d6093429c57518a28a6610ab8ecf0b1b2aab853499613a8596242edad4d20c4b",
+  "est_input_tokens": 5425
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6528,
+  "output_tokens": 364,
+  "request_id": "req_011CgCCAWbAE4pXFJApHGhDD"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5. Shareholder Proposal Seeking a Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests elimination of all supermajority voting requirements in charter and bylaws, replaced by a majority of votes cast standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "for",
+    "evidence": "The Board has carefully considered this proposal and recommends you vote FOR it."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6. Shareholder Proposal Seeking a Report on Integrating Community Impacts Into the Company's Executive Compensation Program",
+    "proponent": "Sundance Family Foundation",
+    "topic_summary": "Requests a Compensation Committee report assessing feasibility of integrating community stakeholder concerns and impacts into executive compensation program.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this proposal and recommends you vote AGAINST it."
+   }
+  ]
+ }
+}

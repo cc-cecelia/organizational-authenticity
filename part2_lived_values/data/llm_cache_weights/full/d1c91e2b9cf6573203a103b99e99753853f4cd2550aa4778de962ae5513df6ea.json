@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "d1c91e2b9cf6573203a103b99e99753853f4cd2550aa4778de962ae5513df6ea",
+  "est_input_tokens": 32115
+ },
+ "usage": {
+  "input_tokens": 32982,
+  "output_tokens": 1266
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We seek to be a good employer, good community member and good steward of the environmental resources we manage."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational\u2014This measure was adopted to focus on various operational elements."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial\u2014This measure comprises several financial measures."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress in implementing its strategic plan"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return\u2014TSR represents the percentage change in a company's common stock price"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Award Unit Performance (50% of VCIP Payout) The award units were subject to the following metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments The Committee would normally consider individual adjustments for each Named Executive Officer's VCIP award"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Adjusted Return on Capital Employed\u2014Our businesses are capital intensive, requiring large investments"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "it review of cash margins and net income per barrel of oil equivalent (BOE), both absolute and relative to peers"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Total Recordable Incident Rates and Lost Workday Rates."
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Progress to Cash Flow Neutrality in 2017, Maintain Financial Strength and Flexibility"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Maintain Financial Strength and Flexibility"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Organization (collaboration and matrix management)"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Stakeholder Relationships"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Shareholder Return, which is weighted 40%; Operational/Financial, which is weighted 40% and Strategic Plan, which is weighted 20%."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operational/Financial, which is weighted 40%"
+   },
+   {
+    "id": 16,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "For PSP, the elements include absolute targets for Production and Reserve Replacement Ratio."
+   },
+   {
+    "id": 17,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "Reserve Replacement Ratio"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Plan, which is weighted 20%"
+   },
+   {
+    "id": 19,
+    "parent_id": 18,
+    "emphasis": 1,
+    "evidence": "Culture, Governance, Diversity, Opportunity Capture, Policies/Controls, Reputation and Asset Sales."
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual Performance Adjustments With respect to individual adjustments, similar to the 2015 VCIP program"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was given equal weight."
+   }
+  ]
+ }
+}

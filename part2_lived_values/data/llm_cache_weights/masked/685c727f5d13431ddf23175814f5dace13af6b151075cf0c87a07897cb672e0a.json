@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "685c727f5d13431ddf23175814f5dace13af6b151075cf0c87a07897cb672e0a",
+  "est_input_tokens": 19606
+ },
+ "usage": {
+  "input_tokens": 22509,
+  "output_tokens": 671
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | \u200b | #/#| \u200b | #billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | \u200b | #/#| \u200b | #billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | \u200b | \u200b | #billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were based on survey data results and, at target levels, represented increases over #performance in all categories."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were at target levels except for customer and physician satisfaction, which was between threshold and target performance levels."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "helping achieve record high levels of employee engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Customer and Physician Satisfaction \u2022 Employee Engagement \u2022 Employee Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Compensation Committee considers the CEO's recommendations for executive officers, the business performance underlying each of the performance measures, macroeconomic factors"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factor considered by the Compensation Committee in the determination of the long-term cash incentive award amounts was achievement of #-#long-term incentive plan EPS and ROE"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The primary factor considered by the Compensation Committee in the determination of the long-term cash incentive award amounts was achievement of #-#long-term incentive plan EPS and ROE"
+   }
+  ],
+  "equal_split": []
+ }
+}

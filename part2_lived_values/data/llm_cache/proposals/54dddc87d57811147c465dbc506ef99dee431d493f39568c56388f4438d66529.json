@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001104659-19-013856",
+  "task": "proposals",
+  "section_words": 2725,
+  "section_method": "resolved_windows",
+  "cache_key": "54dddc87d57811147c465dbc506ef99dee431d493f39568c56388f4438d66529",
+  "est_input_tokens": 6099
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7115,
+  "output_tokens": 365,
+  "request_id": "req_011CgC9eHmuLcXJkcczbrF5w"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on the Right to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal to Have an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to adopt a policy requiring the Chair of the Board, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "2ab0056bd742124ae00a18995445a83f3d80042be777ba787cf2a98825afbc32",
+  "est_input_tokens": 17742
+ },
+ "usage": {
+  "input_tokens": 18311,
+  "output_tokens": 769
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Company Scorecard, which focuses on our most critical business drivers\u2014revenue, EPS and pipeline"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The revenue and earnings metrics are [w] [w] because the C&B Committee believes they are the key financial measures of our success during the year"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the pipeline metric is included because it is a leading indicator of the Company's ability to create sustainable value for shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "U.S. filing and approval of KEYTRUDA as first and only anti-PD-#therapy for first-line treatment of patients with advanced NSCLC"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Multiple filings and approvals achieved for cancer, vaccine, infectious disease and diabetes products."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Progressed late-stage drugs through various stages of development, including cancer, Alzheimer's disease, vaccines and infectious disease."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Implemented two new discovery sites and advanced early and discovery pipeline."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an assessment of individual performance versus objectives, including leadership."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on cumulative, three-year Operating Cash Flow (\"OCF\") and relative TSR performance versus our Peer Group"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance was measured using equal components of Operating Cash Flow (\"OCF\") and relative TSR (\"rTSR\")"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Performance was measured using equal components of Operating Cash Flow (\"OCF\") and relative TSR (\"rTSR\") versus our Peer Group"
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "e2fb585ae86593a9ea918f56475918480998c2e7b4d4d966826e89ff01dab24d",
+  "est_input_tokens": 33751
+ },
+ "usage": {
+  "input_tokens": 34084,
+  "output_tokens": 533
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS is the primary basis on which we set our annual performance expectations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and PTOI are important company performance indicators"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each of these metrics accounted for 10% of our NEOs' 2018 cash incentive opportunity."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the remaining 30% is based on our NEOs' achievement of pre-established personal objectives, which typically contain key strategic, operational and individual goals"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "people-related objectives such as retention, engagement and diversity;"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "ethics, compliance and governance;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "health, safety and environmental objectives;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "new technology introduction; and"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROCE PSUs: Relative performance metric"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute performance metric \u2022 Based on our free cash flow as a percentage of our cumulative net income"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-130746",
+  "task": "incentives",
+  "section_words": 5367,
+  "section_method": "heading",
+  "cache_key": "b37b4d2f9b6edc2024ef0d71f838fd07ddfce63dd6b7c396f005f769a5182286",
+  "est_input_tokens": 12420
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13761,
+  "output_tokens": 2339,
+  "request_id": "req_011CgCB8bTBHQXWGaxqMaHQ3"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Vehicle deliveries",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned an aggregate $772,480 in variable compensation based on the achievement by the end of 2016 of specified metrics relating to vehicle deliveries"
+   },
+   {
+    "metric": "Reductions in vehicle service backlog",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "specified metrics relating to vehicle deliveries, reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "metric": "Service cycle times",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "metric": "Vehicle customer satisfaction scores",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "metric": "Market capitalization milestones",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Each of the ten vesting tranches requires that the Company meet a combination of (i) an operational milestone achievement and (ii) a significant increase in our market capitalization of $4.0 billion."
+   },
+   {
+    "metric": "Operational milestones",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "vesting for each of the ten tranches requires achievement of certain operational milestones"
+   },
+   {
+    "metric": "Aggregate vehicle production milestones",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Aggregate vehicle production of 100,000 vehicles; Aggregate vehicle production of 200,000 vehicles; and Aggregate vehicle production of 300,000 vehicles."
+   },
+   {
+    "metric": "Gross margin of 30% or more for four consecutive quarters",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Gross margin of 30% or more for four consecutive quarters;"
+   },
+   {
+    "metric": "Vehicle prototype and production milestones",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Successful completion of the Model X Alpha Prototype; Successful completion of the Model X Beta Prototype; Completion of the first Model X Production Vehicle"
+   }
+  ]
+ }
+}

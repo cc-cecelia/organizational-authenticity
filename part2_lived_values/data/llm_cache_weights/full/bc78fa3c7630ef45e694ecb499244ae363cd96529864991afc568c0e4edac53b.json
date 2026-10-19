@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "bc78fa3c7630ef45e694ecb499244ae363cd96529864991afc568c0e4edac53b",
+  "est_input_tokens": 18125
+ },
+ "usage": {
+  "input_tokens": 19402,
+  "output_tokens": 822
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component of award based on: - Earnings Before Interest and Taxes (Incentive EBIT) - Sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incentive EBIT represented 75% of the financial component of the STIP payout"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Personal scores are based on critical factors upon which we believe leadership and performance should be assessed, but which are not quantifiable."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "the development of a high performing and diverse team, a strong commitment to high ethical standards"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "a strong commitment to high ethical standards"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The three relative metrics used in our PSU plan are:"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax (NOPAT) divided by average invested capital"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PBRSU amount will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payout of these awards is based on important absolute metrics, each selected to drive focused outcomes"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Digital Channel Sales Growth | Continued focus on omnichannel strategy that enables our guests to engage with Target anywhere, anytime"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Before Interest and Taxes (EBIT) Growth | Ensure that we are growing sales profitably"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Invested Capital Modifier | Invest smartly in our business, effectively allocating capital to drive profit"
+   }
+  ],
+  "equal_split": []
+ }
+}

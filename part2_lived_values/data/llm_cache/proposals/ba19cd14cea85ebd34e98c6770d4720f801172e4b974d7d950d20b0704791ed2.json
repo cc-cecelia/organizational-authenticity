@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-087883",
+  "task": "proposals",
+  "section_words": 5305,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ba19cd14cea85ebd34e98c6770d4720f801172e4b974d7d950d20b0704791ed2",
+  "est_input_tokens": 12321
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13481,
+  "output_tokens": 446,
+  "request_id": "req_011CgCAFjBMNa8gWbCAzQxud"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal to Improve Executive Compensation Program",
+    "proponent": "Jing Zhao",
+    "topic_summary": "Asks the company to improve its executive compensation program to include the CEO pay ratio factor.",
+    "category": "shareholders",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "We recommend that you vote against the three stockholder proposals."
+   },
+   {
+    "item_number": "5",
+    "title": "Report on Respecting Workforce Civil Liberties",
+    "proponent": "Inspire Investing LLC",
+    "topic_summary": "Requests a report evaluating how company policies impact employees based on race, religion, sex, national origin or political views, and related business risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "For these reasons, we recommend a vote against the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Racial and Gender Pay Gaps",
+    "proponent": "Warren Wilson College",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated risks, and risks related to recruiting and retaining diverse talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "For these reasons, we recommend a vote against the stockholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "322d778049eb206777e5ec3b44c3950ea30add8a4e4c23eff446b65684c58840",
+  "est_input_tokens": 21169
+ },
+ "usage": {
+  "input_tokens": 22956,
+  "output_tokens": 2303
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The target and maximum attainment levels for adjusted non-GAAP revenue and adjusted non-GAAP operating margin for Fiscal Year 2018 were set by the Compensation Committee"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "adjusted non-GAAP operating income as a percentage of non-GAAP revenue, referred to as \"adjusted non-GAAP operating margin\" target set at 49.5% and maximum set at 51.5%."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Direct Expenses (50%) (2)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (15%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (20%)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (25%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (25%)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "applied judiciously to recognize the extraordinary efforts of our executives in light of negative market conditions"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR less than the 25th percentile, no shares will be earned for that performance period."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If our absolute TSR for the fourth performance period is negative, maximum payout over four years is 100% of the total target number of shares."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

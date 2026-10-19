@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "c83a54ea7a3a7cfab3aba39dd9a8edeae9154a866a6a3532d81c52ee85812cce",
+  "est_input_tokens": 13593
+ },
+ "usage": {
+  "input_tokens": 17226,
+  "output_tokens": 509
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Mr. Ellison, Ms. Catz and Mr. Hurd may earn from 0% to 150% of the target number of shares over a four-year period based on Oracle's financial performance relative to the performance of the PSU Comparator Companies"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Kurian may earn from 0% to 110% of the target number of shares over a four-year period based on the growth in revenue of certain strategic lines of business he oversees"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PSOs are divided into seven equal tranches that are eligible to be earned based on the attainment of certain stock price, market capitalization and operational goals"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "any unvested tranches subject to market capitalization goals and operational goals will be earned to the extent any unmatched market capitalization goals have been met"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The unvested tranche subject to the stock price goal will only be earned if the stock price goal is achieved prior to the change in control"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "long_term_incentive",
+    "evidence": "The PSOs are divided into seven equal tranches that are eligible to be earned based on the attainment of certain stock price, market capitalization and operational goals"
+   }
+  ]
+ }
+}

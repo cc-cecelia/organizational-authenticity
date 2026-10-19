@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "ddd2905998a82aa103b3c4dcb68fb211315af04202a859bb267852a6da418a73",
+  "est_input_tokens": 33680
+ },
+ "usage": {
+  "input_tokens": 33595,
+  "output_tokens": 347
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance shares to include relative ROE comparison and relative TSR modifier"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance shares to include relative ROE comparison and relative TSR modifier"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Information regarding the colleague metric portion of our Company scorecard, which guides us in reporting across talent retention and diversity and inclusion efforts"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "which guides us in reporting across talent retention and diversity and inclusion efforts and which are included as metrics in our annual incentive program"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "reporting across talent retention and diversity and inclusion efforts and which are included as metrics in our annual incentive program"
+   }
+  ],
+  "equal_split": []
+ }
+}

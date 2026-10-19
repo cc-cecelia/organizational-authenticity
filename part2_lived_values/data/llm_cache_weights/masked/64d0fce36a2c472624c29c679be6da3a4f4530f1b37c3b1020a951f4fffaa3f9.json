@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "64d0fce36a2c472624c29c679be6da3a4f4530f1b37c3b1020a951f4fffaa3f9",
+  "est_input_tokens": 24762
+ },
+ "usage": {
+  "input_tokens": 26384,
+  "output_tokens": 1078
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Four performance categories that are Company priorities and are in large part reflected in the Company's Business Plan"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "capital management ([w] #)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating and safety performance ([w] #)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added Energy Transition as one of the four annual bonus performance categories"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2013 #reported earnings of #billion were significantly above Plan"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2013 Chevron delivered operating cash flow of #billion and cash flow before distributions of #billion"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operating expense, excluding fuel and transportation \u2013 #billion, slightly above Plan"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2013 Reported ROCE for #of # was significantly above Plan"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2013 #organic C&E totaled #billion, significantly better than Plan"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production \u2013 #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refinery reliability \u2013 Operational availability in-line with Plan."
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2013 Serious Injury count for the Company in #slightly better than Plan (favorable)."
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Process safety and environmental \u2013 Gaps in preventing high-severity incidents"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management \u2013 Progress with identifying, funding, and executing GHG reduction projects"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Renewable energy and carbon offsets \u2013 Achieved milestones for renewable feedstocks, including beginning coprocessing at El Segundo"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Low-Carbon technologies \u2013 In line with Plan for memorandums of understanding"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The MCC continues to believe TSR should be the primary pay-for-performance measure"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Added a second LTIP performance share metric, Relative ROCE Improvement"
+   }
+  ],
+  "equal_split": []
+ }
+}

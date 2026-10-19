@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001193125-22-105006",
+  "task": "incentives",
+  "section_words": 9580,
+  "section_method": "heading",
+  "cache_key": "9cc91628ca3048bb649e1dafcec2fe7db25b48f1387e6519d74692bc80e9d3e7",
+  "est_input_tokens": 20244
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24154,
+  "output_tokens": 1569,
+  "request_id": "req_011CgCBf3XAFjF1ZVbZk1cT1"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's sales (weighted 40%)"
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "operating income (weighted 40%)"
+   },
+   {
+    "metric": "Inventory turnover",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "inventory turnover (weighted 10%)"
+   },
+   {
+    "metric": "Pro sales growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pro sales growth (weighted 10%)"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2021 PSUs will be earned based on the Company's achievement of a three-year average ROIC goal and a relative TSR modifier."
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "TSR modifier cannot be lower than 0.67x or higher than 1.33x"
+   }
+  ]
+ }
+}

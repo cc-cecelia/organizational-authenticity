@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "0a40e1e70dde17163676edc2c4a36bcce7c4755a1bb6f0abd42685ba0aa3eb0f",
+  "est_input_tokens": 25823
+ },
+ "usage": {
+  "input_tokens": 26894,
+  "output_tokens": 903
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "At the enterprise level, we exceeded our financial goals for operational sales, adjusted operational EPS, and free cash flow."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "At the enterprise level, we exceeded our financial goals for operational sales, adjusted operational EPS, and free cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "At the enterprise level, we exceeded our financial goals for operational sales, adjusted operational EPS, and free cash flow."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We prioritize excellence in our operational execution, product development and pipeline growth, our employees, key strategic initiatives"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We increased our operations and capabilities as a digital organization, optimizing talent solutions, and activating an open-source learning community."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Environmental, Social, & Governance (ESG) | \u2022 | We achieved our diversity, equity and inclusion goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved our diversity, equity and inclusion goals, meeting key representation levels for female VPs, Black and African-American Directors and VPs"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We made substantial progress against our human capital management goals, including enhancing our talent pipeline and succession planning"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved all our key safety goals."
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved key milestones on plastics and renewable electricity initiatives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our #-#operational sales performance was measured against three [w] #-year sales goals."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Due to the impact of COVID-#our #-#adjusted operational EPS performance fell below target."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our #-#TSR compound annual growth rate also fell below target as shown in the table below."
+   }
+  ],
+  "equal_split": []
+ }
+}

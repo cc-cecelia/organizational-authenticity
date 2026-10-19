@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001308179-21-000014",
+  "task": "incentives",
+  "section_words": 16261,
+  "section_method": "heading",
+  "cache_key": "73e469e6040353727ee491525a08c3d9063257de82624c4682bb4fc91e686311",
+  "est_input_tokens": 35717
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37012,
+  "output_tokens": 3601,
+  "request_id": "req_011CgCCADRXXd5nzbhGvtrUf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash flow generation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% based on cash flow generation targets"
+   },
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% based on adjusted EBITDA targets"
+   },
+   {
+    "metric": "Key personal objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% based on achievement of pre-established key personal objectives"
+   },
+   {
+    "metric": "Gender Balance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "people-related objectives, such as retention, engagement, diversity or gender balance"
+   },
+   {
+    "metric": "Sustainability (CO2 emissions reduction)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reduce CO 2 emissions by a pre-established target in 2020"
+   },
+   {
+    "metric": "Safety",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "health and safety objectives"
+   },
+   {
+    "metric": "Financial Results (North America Land margins)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve, by executing our strategy, North America Land margins equal to or exceeding a pre-established target."
+   },
+   {
+    "metric": "Strategic \u2013 Digital",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Enter into a minimum number of digital contracts exceeding a specified target contract value."
+   },
+   {
+    "metric": "ROCE PSUs (relative ROCE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2020 ROCE PSUs constitute 50% of our executives' 2020 target LTI dollar value."
+   },
+   {
+    "metric": "FCF Conversion PSUs (cumulative net income converted to free cash flow)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2020 FCF Conversion PSUs constitute the other 50% of our executives' 2020 target LTI dollar value."
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "A three-year relative TSR modifier applies to all PSUs granted in 2020."
+   }
+  ]
+ }
+}

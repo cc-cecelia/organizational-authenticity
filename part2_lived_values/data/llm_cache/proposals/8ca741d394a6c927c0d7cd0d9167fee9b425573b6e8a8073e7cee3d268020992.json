@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-062686",
+  "task": "proposals",
+  "section_words": 13861,
+  "section_method": "resolved_windows",
+  "cache_key": "8ca741d394a6c927c0d7cd0d9167fee9b425573b6e8a8073e7cee3d268020992",
+  "est_input_tokens": 31929
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 32108,
+  "output_tokens": 942,
+  "request_id": "req_011CgC9te5vL54eE3vAgwxFd"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Independent board chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requires separation of the Chairman and CEO roles, with the Chairman to be an independent director and not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 6 because:"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Ratification of Termination Pay",
+    "proponent": "not stated",
+    "topic_summary": "Asks shareholder approval for future severance agreements exceeding 2.99 times executive base salary plus bonus.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 7 because:"
+   },
+   {
+    "item_number": "8",
+    "title": "Absolute Greenhouse Gas Reduction Targets",
+    "proponent": "The New York State Common Retirement Fund",
+    "topic_summary": "Requests a report disclosing 2030 absolute GHG reduction targets for energy sector lending and underwriting aligned with 1.5 degrees Celsius.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 8 because:"
+   },
+   {
+    "item_number": "9",
+    "title": "Transition Planning",
+    "proponent": "Debriana Berlin Rev Tr (S), c/o of As You Sow",
+    "topic_summary": "Requests a report disclosing a transition plan aligning financing activities with 2030 sectoral GHG reduction targets, with measures and timelines.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 9 because:"
+   },
+   {
+    "item_number": "10",
+    "title": "not stated",
+    "proponent": "not stated",
+    "topic_summary": "Requests adoption of a time-bound policy phasing out lending and underwriting to projects and companies engaging in new fossil fuel exploration and development.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 10 because:"
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder proposal requesting a racial equity audit",
+    "proponent": "The SOC Investment Group",
+    "topic_summary": "Urges oversight of a third-party racial equity audit analyzing BofA's adverse impacts on nonwhite stakeholders and communities of color.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote \"AGAINST\" Proposal 11 because:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001193125-16-718528",
+  "task": "proposals",
+  "section_words": 2983,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "62899e78090507306cc36f7731004b4843b824e93600665f606fbadbe116c65b",
+  "est_input_tokens": 6826
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8200,
+  "output_tokens": 210,
+  "request_id": "req_011CgC9YCXENiPPTB87ZeazX"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING LOBBYING REPORT",
+    "proponent": "Boston Common Asset Management, LLC",
+    "topic_summary": "Requests an annually updated report disclosing Oracle's direct and indirect lobbying policies, payments, trade association memberships and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "For the reasons set forth above, the Board of Directors unanimously recommends a vote AGAINST adoption of Proposal No. 4."
+   }
+  ]
+ }
+}

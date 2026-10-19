@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "ac7a83999b359a56965a1e21217f103847b44ad5e721e2b37107d9e452c6c625",
+  "est_input_tokens": 29604
+ },
+ "usage": {
+  "input_tokens": 30263,
+  "output_tokens": 581
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with # of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "progress towards meeting its ESG and organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Diluted Earnings Per Share, as adjusted"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Corporate sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent pipeline and development"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, equity and inclusion"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "pre-established Organic Revenue growth and Operating Margin, as adjusted, targets over a three-year performance period"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Margin, as adjusted, targets over a three-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each category is assigned a [w] factor"
+   }
+  ]
+ }
+}

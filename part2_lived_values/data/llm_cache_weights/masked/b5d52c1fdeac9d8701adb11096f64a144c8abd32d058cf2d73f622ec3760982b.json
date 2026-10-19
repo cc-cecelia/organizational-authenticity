@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "b5d52c1fdeac9d8701adb11096f64a144c8abd32d058cf2d73f622ec3760982b",
+  "est_input_tokens": 25759
+ },
+ "usage": {
+  "input_tokens": 26878,
+  "output_tokens": 693
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Enterprise Financial Goals: Operational Sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Operational EPS"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance against our Enterprise Long-Term Strategic Goals"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Critical Business Objectives"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Environmental, Social, & Governance (ESG)"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved our diversity, equity and inclusion goals, meeting key representation levels for female VPs"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We made substantial progress against our human capital management goals"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved all our key safety goals."
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We achieved key milestones on plastics and renewable electricity initiatives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "#Operational Sales (PSU)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year Cumulative Adjusted Operational EPS"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-year Relative Total Shareholder Return (CAGR vs. Competitor Composite Peer Group)"
+   }
+  ],
+  "equal_split": []
+ }
+}

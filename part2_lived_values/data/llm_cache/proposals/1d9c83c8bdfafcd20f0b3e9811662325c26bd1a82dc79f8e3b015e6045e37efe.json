@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001193125-20-099563",
+  "task": "proposals",
+  "section_words": 2660,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1d9c83c8bdfafcd20f0b3e9811662325c26bd1a82dc79f8e3b015e6045e37efe",
+  "est_input_tokens": 6081
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7587,
+  "output_tokens": 357,
+  "request_id": "req_011CgCAh8mNK7Ff6eQo9toDg"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2013 Shareholder Proposal Concerning Shareholder Right to Act by Written Consent",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Accordingly, the Board recommends voting against the proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proposal Regarding Allocation of Corporate Tax Savings",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Requests a report, at reasonable cost, describing how the Company plans to allocate tax savings from the Tax Cuts and Jobs Act.",
+    "category": "shareholders",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board has considered this shareholder proposal carefully and recommends a vote AGAINST it"
+   }
+  ]
+ }
+}

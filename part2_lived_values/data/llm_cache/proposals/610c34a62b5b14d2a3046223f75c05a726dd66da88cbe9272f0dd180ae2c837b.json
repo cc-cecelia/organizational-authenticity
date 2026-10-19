@@ -1,0 +1,193 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001308179-22-000262",
+  "task": "proposals",
+  "section_words": 26074,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "610c34a62b5b14d2a3046223f75c05a726dd66da88cbe9272f0dd180ae2c837b",
+  "est_input_tokens": 60457
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 61608,
+  "output_tokens": 3496,
+  "request_id": "req_011CgC9LpsBH4ehtHLSh2ox1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding a Lobbying Report",
+    "proponent": "Boston Common Asset Management, LLC, on behalf of the Boston Common ESG Impact US Equity Fund",
+    "topic_summary": "Requests an annually updated report disclosing Alphabet's lobbying policies, direct and indirect and grassroots lobbying payments, and board oversight of those payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding a Climate Lobbying Report",
+    "proponent": "Zevin Asset Management, LLC, on behalf of Sisters of Saint Dominic of Grand Rapids and co-filers",
+    "topic_summary": "Requests an evaluation and report on whether Alphabet's lobbying aligns with the Paris Agreement's 1.5\u00b0C goal and plans to mitigate misalignment.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding a Report on Physical Risks of Climate Change",
+    "proponent": "Pax World Funds, as lead filer, and The Comptroller of the State of New York, Thomas P. DiNapoli, on behalf of the New York State Common Retirement Fund",
+    "topic_summary": "Requests a periodic assessment of resilience to physical climate risks and measures to mitigate them, including threats to headquarters and key assets.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding a Report on Water Management Risks",
+    "proponent": "As You Sow, on behalf of James McRitchie",
+    "topic_summary": "Requests annual reporting of quantitative water-related metrics by location, including data centers, and practices to reduce climate-related water risk.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding a Racial Equity Audit",
+    "proponent": "The Nathan Cummings Foundation, as lead filer",
+    "topic_summary": "Requests a third-party independent racial equity audit analyzing Alphabet's adverse impacts on BIPOC communities, with a published report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board therefore recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding a Report on Concealment Clauses",
+    "proponent": "Whistle Stop Capital, on behalf of its clients",
+    "topic_summary": "Requests a report assessing risks from use of concealment clauses limiting employees from discussing harassment, discrimination and unlawful acts.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding Equal Shareholder Voting",
+    "proponent": "The NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests a recapitalization plan phasing out Class B super-voting shares so each share has one vote.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding a Report on Government Takedown Requests",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a semi-annual report itemizing U.S. government requests to remove material from Alphabet platforms and the company's responses.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "13",
+    "title": "Stockholder Proposal Regarding a Human Rights Assessment of Data Center Siting",
+    "proponent": "SumOfUs, on behalf of Mari Mennel-Bell, as lead filer",
+    "topic_summary": "Requests a report assessing siting of Google Cloud data centers in countries of human rights concern and mitigation strategies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "14",
+    "title": "Stockholder Proposal Regarding a Report on Data Collection, Privacy, and Security",
+    "proponent": "Brandon Hardy",
+    "topic_summary": "Requests an annual report explaining how the Board manages risks associated with user data collection, privacy, and security.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "15",
+    "title": "Stockholder Proposal Regarding Algorithm Disclosures",
+    "proponent": "Trillium ESG Global Equity Fund and other co-filers",
+    "topic_summary": "Requests more quantitative and qualitative disclosure on algorithmic systems, including ad targeting, error rates, and impacts on user speech.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "16",
+    "title": "Stockholder Proposal Regarding Misinformation and Disinformation",
+    "proponent": "The Sustainability Group of Loring, Wolcott & Coolidge, on behalf of the W. Andrew Mims Trust, NEI Investments, and Robeco",
+    "topic_summary": "Requests an independent Human Rights Impact Assessment of Alphabet's misinformation and disinformation policies and practices.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "17",
+    "title": "Stockholder Proposal Regarding a Report on External Costs of Disinformation",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests a report on risks from business practices prioritizing internal financial return over social and environmental systems and threats to diversified shareholders' returns.",
+    "category": "shareholders",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "18",
+    "title": "Stockholder Proposal Regarding a Report on Board Diversity",
+    "proponent": "Arjuna Capital, on behalf of David M. Boghossian, as lead filer, and the Sisters of St. Francis Charitable Trust",
+    "topic_summary": "Requests an annual report on policies to attain board racial and gender representation better aligned with customer demographics.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "19",
+    "title": "Stockholder Proposal Regarding the Establishment of an Environmental Sustainability Board Committee",
+    "proponent": "Dale Wannen",
+    "topic_summary": "Requests the Board create a committee on environmental sustainability to oversee policies and guidance on sustainability matters.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "20",
+    "title": "Stockholder Proposal Regarding a Policy on Non-Management Employee Representative Director",
+    "proponent": "The SOC Investment Group",
+    "topic_summary": "Requests a policy requiring non-management employees be included in the initial candidate list for new director nominees.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "21",
+    "title": "Stockholder Proposal Regarding a Report on Policies Regarding Military and Militarized Policing Agencies",
+    "proponent": "Sanford Lewis, on behalf of Raymond Daffner, as lead filer",
+    "topic_summary": "Requests a report reassessing policies on support for military and militarized policing agencies and their impacts on stakeholders and reputation.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

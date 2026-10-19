@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001193125-23-099292",
+  "task": "proposals",
+  "section_words": 9264,
+  "section_method": "resolved_windows",
+  "cache_key": "77fff1d683d64b3e2eb6ff1b3041b3f3d901e0667fe2acb0a9f815a178b7fcb2",
+  "est_input_tokens": 22968
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24679,
+  "output_tokens": 2481,
+  "request_id": "req_011CgCBvtgJV9K82wSiJ8Wuh"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "stockholder proposal to rescind the 2021 \"reduce scope 3 emissions\" stockholder proposal",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Asks shareholders to rescind the 2021 non-binding resolution to substantially reduce Scope 3 emissions, arguing it harms financial returns and cannot affect global climate.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "stockholder proposal to set a medium-term Scope 3 GHG emissions reduction target",
+    "proponent": "Follow This",
+    "topic_summary": "Requests a medium-term Scope 3 GHG emissions reduction target aligned with the Paris Climate Agreement, with strategy left to the board.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "stockholder proposal to recalculate emissions baseline to exclude emissions from material divestitures",
+    "proponent": "Curtis Overway, represented by Danielle Fugere at As You Sow",
+    "topic_summary": "Requests disclosure of a recalculated emissions baseline excluding aggregated GHG emissions from material asset divestitures since 2016, plus a recalculation policy.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "stockholder proposal to establish board committee on decarbonization risk",
+    "proponent": "David Bahnsen, Trustee of The Bahnsen Family Trust Dated July 15, 2003",
+    "topic_summary": "Requests a new Board Committee on Decarbonization Risk to review strategy and responses to decarbonization demands and related climate model and feasibility risks.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "stockholder proposal to report on worker and community impact from facility closures and energy transitions",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests a report on the social impact on workers and communities from facility closures or energy transitions, and mitigation alternatives, by 2024 Annual Meeting.",
+    "category": "community",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "stockholder proposal to report on racial equity audit",
+    "proponent": "American Baptist Home Mission Society",
+    "topic_summary": "Requests an independent racial equity audit of policies and practices that disparately impact communities of color, with findings publicly disclosed and steps recommended.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "stockholder proposal to report on tax practices",
+    "proponent": "Oxfam America",
+    "topic_summary": "Requests a tax transparency report prepared under the GRI Tax Standard (GRI 207), including country-level disclosure of revenues, profits and tax payments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "stockholder proposal regarding independent chair",
+    "proponent": "Newground Social Investment on behalf of Diane Turner",
+    "topic_summary": "Requests a bylaw policy requiring the Board Chair to be an independent director whenever possible, starting with the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Therefore, your board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

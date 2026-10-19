@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "e8ebe4885b12e54ded6e5aec490896e2e5ebacc08edc5d83aab1b5b69e81e19f",
+  "est_input_tokens": 18733
+ },
+ "usage": {
+  "input_tokens": 19730,
+  "output_tokens": 357
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Sales (45%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Profit (45%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The weighting of the inventory turns measure at 10% maintained visibility and attention on inventory turns"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating profit ... Operating Profit | $19.41 | $22.84 | $26.26"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   }
+  ]
+ }
+}

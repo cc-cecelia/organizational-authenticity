@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "5b1eb07fc0308c70e69e25c8533efaa4775dd9c0c22bba228de5def1e46b4c47",
+  "est_input_tokens": 17202
+ },
+ "usage": {
+  "input_tokens": 18342,
+  "output_tokens": 371
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We use a number of the financial metrics highlighted above, which drive shareholder value, as the key performance metrics in our compensation programs."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded target levels for each of the sales, operating profit and inventory turns goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Three-year average return on invested capital (\"ROIC\") and operating profit"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Operating profit \u2013 restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target"
+   }
+  ],
+  "equal_split": []
+ }
+}

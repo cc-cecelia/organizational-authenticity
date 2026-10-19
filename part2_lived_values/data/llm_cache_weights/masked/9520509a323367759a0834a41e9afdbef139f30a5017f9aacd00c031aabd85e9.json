@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "9520509a323367759a0834a41e9afdbef139f30a5017f9aacd00c031aabd85e9",
+  "est_input_tokens": 31818
+ },
+ "usage": {
+  "input_tokens": 32915,
+  "output_tokens": 823
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of topline growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "our pipeline metric continues to play a critical role in our annual incentive plan"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key Integration metrics, including human capital management and synergy realization factors"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Human Capital Management (#) (Retain and engage critical talent to support our strategy and deliver integration priorities)"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Synergies (#) (Reflects commitment to deliver cumulative transaction synergies associated with Celgene integration)"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (Submissions and approvals) \u2022 Long-Term Growth Potential"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression, execution and successes of the R&D pipeline at various stages of clinical development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Overlay on the entire metric"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Individual Performance Factor (\"IPF\"), based on individual performance (both Results and Values)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (ex-fx): # #-Year Relative TSR"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative Total Revenues (ex-fx)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-Year Relative TSR"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Number of shares earned, based on increase or decrease in our common stock share price from the grant date"
+   }
+  ],
+  "equal_split": []
+ }
+}

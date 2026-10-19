@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-073314",
+  "task": "proposals",
+  "section_words": 5643,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "21d35048c54c83b93c017acf2f584358389cfc3af7ce9eaaad6f58cccc0349d2",
+  "est_input_tokens": 12983
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13747,
+  "output_tokens": 482,
+  "request_id": "req_011CgC9ubmYzBbZ92hUea6Rx"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2013 Report on Incentive-Based Compensation and Risks of Material Losses",
+    "proponent": "The Comptroller of the State of New York, Thomas P. DiNapoli, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests a Board report disclosing whether employees or positions eligible for incentive pay tied to metrics that could expose Wells Fargo to material losses have been identified, with methodology, numbers, and pay percentages.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 5 on the proxy card"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Report on Global Median Gender Pay Gap",
+    "proponent": "Arjuna Capital, on behalf of Julia Bamburg and Judith Bamburg, as trustees of the Harold B. Bamburg Revocable Trust",
+    "topic_summary": "Requests a report on Wells Fargo's global median gender pay gap and associated policy, reputational, competitive, operational, and recruiting and retention risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal, which is identified as Item 6 on the proxy card"
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "BRK.B",
+  "sector": "Financials",
+  "filing_year": 2022,
+  "accession": "0001193125-22-073447",
+  "task": "proposals",
+  "section_words": 3154,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "eaddd9ef0b5886dbb2dfecc08b67ed6620118b4c02f49c305bbe4378a18c35cd",
+  "est_input_tokens": 7768
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9741,
+  "output_tokens": 872,
+  "request_id": "req_011CgC9ksDyigivCpgUNrrZE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "2",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests the Board adopt a policy requiring the Chair of the Board to be an independent member of the Board, separate from the CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "3",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Brunel Pension Partnership Limited (represented by EOS at Federated Hermes); Caisse de D\u00e9p\u00f4t et Placement du Qu\u00e9bec; California Public Employees' Retirement System; State of New Jersey Common Pension Fund D",
+    "topic_summary": "Requests an annual board assessment of how the Company manages physical and transitional climate risks and opportunities, including TCFD-based disclosure, board oversight, and feasibility of science-based GHG targets.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS UNANIMOUSLY FAVORS A VOTE AGAINST THE PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "Gail Follansbee on behalf of Myra K. Young",
+    "topic_summary": "Requests a report on whether and how Berkshire will measure, disclose and reduce GHG emissions from underwriting, insuring and investment activities in line with the Paris 1.5\u00b0C goal.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends a \"no\" vote on this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL",
+    "proponent": "As You Sow on behalf of Warren Wilson College and The Elizabeth Kantor Trust U/A DTD 3/11/1993",
+    "topic_summary": "Requests publication of quantitative data on workforce composition and recruitment, retention and promotion rates by gender, race and ethnicity as part of DEI reporting.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Berkshire's Board recommends that our shareholders vote against this proposal"
+   }
+  ]
+ }
+}

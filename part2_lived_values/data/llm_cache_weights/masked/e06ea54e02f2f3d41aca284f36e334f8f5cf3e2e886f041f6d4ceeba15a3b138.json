@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "e06ea54e02f2f3d41aca284f36e334f8f5cf3e2e886f041f6d4ceeba15a3b138",
+  "est_input_tokens": 26064
+ },
+ "usage": {
+  "input_tokens": 27205,
+  "output_tokens": 575
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenue (#) | A leading indicator of performance and value creation; provides a clear focus on growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS (#) | A measure of income that provides focus on profitable growth and expense control"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (#) | A measure that provides focus on generating cash in the short-term"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To recognize the progress and delivery of the R&D pipeline in all development phases"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjust +/- depending on the Committee's evaluation of Other Qualitative Factors"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leaders directed to significantly differentiate pay to be more closely aligned with individual performance and contributions."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides direct alignment with shareholders as awards are tied to absolute TSR."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#- and #-Year TSRUs generally vest # years from the grant date and are settled on the # or seventh anniversary of the grant date"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Paid based on the company's performance against a combination of an adjusted net income* goal, set annually"
+   }
+  ],
+  "equal_split": []
+ }
+}

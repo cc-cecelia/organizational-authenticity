@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "683f2afa60ee31bf0b8feaa6b24e0020dc22163ba4c8b130955a8c4fedefe1c8",
+  "est_input_tokens": 23160
+ },
+ "usage": {
+  "input_tokens": 26033,
+  "output_tokens": 876
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Compensation Committee places substantial importance on firmwide performance when assessing NEO compensation amounts."
+   },
+   {
+    "id": 1,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2019\u20132021, using the increased absolute and relative metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Target for 100% payout under relative ROE goals now requires above median performance (increased from 50th percentile to 60th percentile)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2019\u20132021"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee considered firmwide performance in a holistic manner without ascribing specific weight to any single financial metric"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our NEOs are evaluated under our 360\u00b0 Review Process, which includes feedback in key areas such as those summarized in the graphic below"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "RISK MANAGEMENT & FIRM REPUTATION CONTROL-SIDE EMPOWERMENT JUDGMENT COMPLIANCE WITH FIRM POLICIES"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "COMPLIANCE WITH FIRM POLICIES COMMERCIAL CONTRIBUTIONS CULTURE"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "CARRIER DIVERSITY & INCLUSION COMMUNICATION LEADERSHIP & PEOPLE DEVELOPMENT CLIENT FOCUS"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "CARRIER DIVERSITY & INCLUSION COMMUNICATION LEADERSHIP & PEOPLE DEVELOPMENT CLIENT FOCUS"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "CARRIER DIVERSITY & INCLUSION COMMUNICATION LEADERSHIP & PEOPLE DEVELOPMENT CLIENT FOCUS"
+   }
+  ],
+  "equal_split": []
+ }
+}

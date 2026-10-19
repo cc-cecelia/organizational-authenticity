@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "7912773abd4bd80b59b2ab621f62bf67f6e23bf6e2866b0b5ee74c47af92bfff",
+  "est_input_tokens": 22417
+ },
+ "usage": {
+  "input_tokens": 23706,
+  "output_tokens": 986
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Earnings per share (\"EPS\", diluted) (#) | #reported EPS, better than Plan; modest miss on normalized EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014Chevron delivered strong cash flow in #supported by higher commodity realizations and strong production growth."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financials Capital Management Operating Performance Health, Environmental, and Safety"
+   },
+   {
+    "id": 3,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of #[w] exceeded Plan."
+   },
+   {
+    "id": 4,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2014#C&E totaled #billion, #[w] higher than budget."
+   },
+   {
+    "id": 5,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "notable successes in capital management; strong operating performance, including record-high production"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled #billion, above Plan. Unit costs declined in #."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates were better than Plan by #[w] point."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Health, environmental and safety | # | Personal safety"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Plan on all measures."
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Loss of containment performance and spill volume was better than Plan."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MCC also takes into account individual performance. This is largely a personal leadership dimension"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The majority of the LTIP award derives value directly from TSR (relative and absolute)."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock options | # | \u2022 Strike price is [w] to the closing common stock price on the grant date."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock units (RSUs) | # | \u2022 Actual number of RSUs granted is determined by dividing"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0000320187-18-000144",
+  "task": "proposals",
+  "section_words": 2263,
+  "section_method": "resolved_windows",
+  "cache_key": "d9194d2ae1a811661c30143c40591198bb9d234e663db0610b71823e9b05c563",
+  "est_input_tokens": 5451
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6782,
+  "output_tokens": 220,
+  "request_id": "req_011CgCBR3yK7H3RBa6BZqBfw"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "Shareholder Proposal Regarding Political Contributions Disclosure",
+    "proponent": "Mercy A. Rome, c/o Investor Voice, SPC",
+    "topic_summary": "Requests semiannually updated report disclosing corporate political contributions and expenditures, including trade association payments and recipients, and oversight titles, excluding lobbying spending.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the Proposal and asks shareholders to read through NIKE's response which follows the Proposal."
+   }
+  ]
+ }
+}

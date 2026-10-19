@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000129",
+  "task": "incentives",
+  "section_words": 8086,
+  "section_method": "heading",
+  "cache_key": "4ef03c45cb0c8f0cb1aa41d4954e6b1f332c9b205982f38010f8618a4547fdf0",
+  "est_input_tokens": 18497
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20411,
+  "output_tokens": 1388,
+  "request_id": "req_011CgCAgRqWe4ZVZXvXLgVqF"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue vs. Plan",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and EPS are equally weighted at 40% each and targets are established based on our annual operating plan"
+   },
+   {
+    "metric": "EPS vs. Plan",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and EPS are equally weighted at 40% each and targets are established based on our annual operating plan"
+   },
+   {
+    "metric": "Pipeline Milestones",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline milestones are the final component of the Scorecard and are weighted at 20%."
+   },
+   {
+    "metric": "ZEPATIER/KEYTRUDA Approval Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ZEPATIER/KEYTRUDA Approval Milestones | U.S. filing and approval of KEYTRUDA as first and only anti-PD-1 therapy"
+   },
+   {
+    "metric": "Additional Filings and Approvals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Multiple filings and approvals achieved for cancer, vaccine, infectious disease and diabetes products."
+   },
+   {
+    "metric": "Global Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Progressed late-stage drugs through various stages of development, including cancer, Alzheimer's disease, vaccines and infectious disease."
+   },
+   {
+    "metric": "Early Development/ Discovery Research and Business Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Implemented two new discovery sites and advanced early and discovery pipeline."
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "coupled with an assessment of individual performance versus objectives, including leadership."
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "cumulative, three-year Operating Cash Flow (\"OCF\") and relative TSR performance versus our Peer Group, each weighted at 50%"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "relative TSR performance versus our Peer Group, each weighted at 50%"
+   }
+  ]
+ }
+}

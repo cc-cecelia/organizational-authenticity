@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001047469-16-011386",
+  "task": "proposals",
+  "section_words": 2939,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cf8d116eb1d3cc495bb15d4d2c3b1190769fa31c659ec62f42524a21f4347b13",
+  "est_input_tokens": 7111
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8225,
+  "output_tokens": 423,
+  "request_id": "req_011CgCAbePAvqpqsfKMM2TZ3"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal on Drug Disposal Report",
+    "proponent": "As You Sow, on behalf of The Gun Denhart Living Trust and Samajak LP, and co-filers Congregation of the Divine Providence, Providence Trust, and Sisters of Charity of the Incarnate Word",
+    "topic_summary": "Requests a board report reviewing policies for safe disposal of prescription drugs to prevent water pollution, with policy options including industry responsibility for take-back programs.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that stockholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal on Lobbying Report",
+    "proponent": "Zevin Asset Management on behalf of Janet Axelrod",
+    "topic_summary": "Requests an annually updated report disclosing AbbVie's direct and indirect lobbying policies, payments, trade association memberships, and board oversight of lobbying payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that stockholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

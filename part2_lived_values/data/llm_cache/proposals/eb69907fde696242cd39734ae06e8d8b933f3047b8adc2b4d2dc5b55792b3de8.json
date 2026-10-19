@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001326801-16-000074",
+  "task": "proposals",
+  "section_words": 17625,
+  "section_method": "resolved_windows",
+  "cache_key": "eb69907fde696242cd39734ae06e8d8b933f3047b8adc2b4d2dc5b55792b3de8",
+  "est_input_tokens": 38491
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 39327,
+  "output_tokens": 843,
+  "request_id": "req_011CgC9MKqCViPoxLsGPk4hT"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "9",
+    "title": "Proposal 9 - Give Each Share An Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests the Board initiate a recapitalization plan giving one vote per share for all outstanding stock, including negotiating with Class B holders to relinquish preexisting voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal 10 - Stockholder proposal regarding an annual sustainability report",
+    "proponent": "not stated",
+    "topic_summary": "Requests Facebook issue an annual sustainability report on short- and long-term responses to ESG issues, including greenhouse gas emissions, water, and energy, by December 2016.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Proposal 11 - Stockholder proposal regarding a lobbying report",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annually updated report disclosing company lobbying policies, direct and indirect lobbying payments, trade association memberships, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Proposal 12 - Stockholder proposal regarding an international public policy committee",
+    "proponent": "not stated",
+    "topic_summary": "Requests establishment of a board International Public Policy Committee to oversee policies on international public issues including human rights, corporate social responsibility, and charitable giving.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Proposal 13 - Stockholder proposal regarding a gender pay equity report",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report by October 2016 on Company policies and goals to reduce the gender pay gap, including the percentage pay gap and quantitative reduction targets.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   }
+  ]
+ }
+}

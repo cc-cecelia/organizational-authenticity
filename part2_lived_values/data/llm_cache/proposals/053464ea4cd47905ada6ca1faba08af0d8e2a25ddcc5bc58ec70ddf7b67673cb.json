@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001534701-23-000064",
+  "task": "proposals",
+  "section_words": 6401,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "053464ea4cd47905ada6ca1faba08af0d8e2a25ddcc5bc58ec70ddf7b67673cb",
+  "est_input_tokens": 14214
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15838,
+  "output_tokens": 241,
+  "request_id": "req_011CgCCF3C2AjLMdSpBfxqHz"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Requesting Audited Report on Impact to Chemicals Business under the System Change Scenario",
+    "proponent": "As You Sow on behalf of Handlery Hotels, Inc. and Meyer Memorial Trust",
+    "topic_summary": "Requests an audited report addressing whether and how a significant reduction in virgin plastic demand under Breaking the Plastic Wave's System Change Scenario would affect the Company's financial position and financial statement assumptions.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote \"AGAINST\" proposal 5."
+   }
+  ]
+ }
+}

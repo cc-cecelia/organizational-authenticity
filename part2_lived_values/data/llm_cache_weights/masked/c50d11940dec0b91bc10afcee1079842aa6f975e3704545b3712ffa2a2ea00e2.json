@@ -1,0 +1,95 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "c50d11940dec0b91bc10afcee1079842aa6f975e3704545b3712ffa2a2ea00e2",
+  "est_input_tokens": 19079
+ },
+ "usage": {
+  "input_tokens": 21195,
+  "output_tokens": 1910
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&MD Committee's belief that they are the key financial measures of our success"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&MD Committee's belief that they are the key financial measures of our success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on internal and external early discovery opportunities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "designed to ensure that we are focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "designed to ensure that we are focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "designed to ensure that we are focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cumulative two-year OCF and EPS metrics were used due to the complexities associated with disentangling our Organon business from a multi-year financial plan"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cumulative two-year OCF and EPS metrics were used due to the complexities associated with disentangling our Organon business from a multi-year financial plan"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "R-TSR performance versus our peer group is measured at the end of the three-year period and compares Merck's average annual TSR to the median TSR of our pharmaceutical peer group"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Three-year R-TSR"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "One-year EPS"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and Pre-Tax Income are [w] at # each based on the C&MD Committee's belief that they are the key financial measures of our success"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "two-year (#-#) cumulative EPS and OCF metrics were each [w] at #"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "0a1034f053638505b2ba7b2960bc2d7aaa90518879aed2a15e9c7c0181233e29",
+  "est_input_tokens": 25668
+ },
+ "usage": {
+  "input_tokens": 26895,
+  "output_tokens": 554
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each year, the ECC evaluates the use of adjusted pre-tax income as the key performance indicator in our incentive compensation programs."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Adjusted Pre-Tax Income* in 000s Marmaxx $2,501,988 88.9% $2,814,719"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "TJX Europe \u00a3 178,240 80.0% \u00a3 222,797 \u00a3 254,624 114.3% \u00a3 212,803"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "TJX Canada C$317,592 83.3% C$ 381,106 C$428,742 112.5% C$496,429"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the LRPIP performance target and results were based on adjusted pre-tax income goals for our four major divisions for the three-year period"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Marmaxx $7,947,849 68.5% $8,330,654 112.05% 76.75%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Full vesting of the LRPIP-based awards is subject to satisfaction of three-year performance vesting conditions"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Fiscal 2016 corporate MIP payout of 168.92%"
+   }
+  ],
+  "equal_split": []
+ }
+}

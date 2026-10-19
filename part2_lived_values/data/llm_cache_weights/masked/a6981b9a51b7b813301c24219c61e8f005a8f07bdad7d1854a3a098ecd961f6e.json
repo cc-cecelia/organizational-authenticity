@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "a6981b9a51b7b813301c24219c61e8f005a8f07bdad7d1854a3a098ecd961f6e",
+  "est_input_tokens": 17857
+ },
+ "usage": {
+  "input_tokens": 17958,
+  "output_tokens": 394
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We use a number of the financial metrics highlighted above, which drive shareholder value, as the key performance metrics in our compensation programs."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The [w] of the inventory turns goal at # maintained visibility and attention on inventory turns while at the same time recognizing that this metric may be impacted by the Company's ongoing supply chain investments"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "provides for the issuance of shares of our common stock at the end of a three-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-Year Average Operating Profit: the Company achieved an average operating profit of #billion and an average ROIC of #, as calculated pursuant to the terms of the awards."
+   }
+  ],
+  "equal_split": []
+ }
+}

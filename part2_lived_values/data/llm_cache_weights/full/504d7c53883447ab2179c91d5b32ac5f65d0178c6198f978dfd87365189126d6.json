@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "504d7c53883447ab2179c91d5b32ac5f65d0178c6198f978dfd87365189126d6",
+  "est_input_tokens": 14257
+ },
+ "usage": {
+  "input_tokens": 14633,
+  "output_tokens": 1502
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "achievement of certain target levels of (i) vehicle deliveries during the third and fourth quarters of 2017"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "(ii) operational and financial metrics relating to vehicle service performance and costs during 2017"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "(iii) customer satisfaction scores during 2017"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the market capitalization milestone for such tranche, which begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "in order to satisfy all eight revenue-based operational milestones, Tesla would have to increase revenue by more than $163 billion"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Adjusted EBITDA means (i) net income (loss) attributable to common stockholders before (ii) interest expense"
+   }
+  ],
+  "equal_split": []
+ }
+}

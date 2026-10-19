@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "20b1c2a8786d6947e8d3789f5121c1f289cbcea4442e3501c9edca30e1bf673b",
+  "est_input_tokens": 32056
+ },
+ "usage": {
+  "input_tokens": 33684,
+  "output_tokens": 1317
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue (25%) \u25aa Gross Margin Percentage (25%) \u25aa Spending Reduction Goal (25%) \u25aa One Intel Operational Goals (25%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "By using financial, operational, and stock price measures such as revenue, gross margin, spend reduction, cash flows from operations, One Intel goals, and TSR"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee decided to add a new spend reduction performance metric to align the Annual Cash Bonus Plan with our cost-saving strategy for 2023."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One Intel operational goals are established to reflect these critical business priorities and leading indicators measuring our progress toward our long-term transformational strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "1. Rebuild Financial Strength and Predictability Goals related to rebuilding our financial stability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "2. Deliver on Product Leadership Goals related to product leadership, platform differentiation"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "3. Scale Growth Engines: Artificial Intelligence, Network/Edge, Graphics (Gfx)/High Performance Computing (HPC), Software (SW) Goals related to our five Technology Superpowers"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "4. Regain Process Leadership Goals related to the execution of IDM 2.0"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "5. Accelerate and be known for our Execution Excellence and Groveian culture Goals related to attracting, developing, and retaining top talent"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "6. Creating more responsible, inclusive, and sustainable future enabled by technology and our collective actions"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive adoption of inclusive business practices in support of our RISE 2030 goals | Did Not Meet."
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Demonstrate sustainability leadership | Significantly Exceeded"
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Deliver sustainability-optimized leadership products | Significantly Exceeded"
+   },
+   {
+    "id": 13,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Drive diverse, sustainable supply chains and resiliency practices | Exceeded."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance goals or \"objectives and key results\" (OKRs) were included in the Annual Cash Bonus Plan (other than for our CEO) for the first time in 2022"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "revenue growth percentage (weighted 60%) and CFFO (weighted 40%)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cash flow from operations (weighted 40%)"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year relative TSR modifier relative to S&P 500 Index (+/- 25 percentage points (ppts))"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Revenue CAGR modifier (+/- 25 ppts)"
+   }
+  ],
+  "equal_split": []
+ }
+}

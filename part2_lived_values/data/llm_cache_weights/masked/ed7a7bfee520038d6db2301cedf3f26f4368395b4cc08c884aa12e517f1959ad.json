@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "ed7a7bfee520038d6db2301cedf3f26f4368395b4cc08c884aa12e517f1959ad",
+  "est_input_tokens": 21889
+ },
+ "usage": {
+  "input_tokens": 22293,
+  "output_tokens": 2780
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Operational Performance Goals considered for our annual incentive bonuses"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Using the Mechanical Availability scoring from the industry-standard Solomon Associates survey"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Included in these goals for #was a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "through return on capital employed"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "These measures establish the maximum level of funding for the bonus program."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Shares of Common Stock are earned with respect to vesting performance shares only upon Valero's achievement of TSR objectives"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Additional shares of Common Stock may be earned based on the accumulated value of dividends paid"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock targets represent the remaining # of each executive officer's long-term incentive target"
+   }
+  ],
+  "equal_split": []
+ }
+}

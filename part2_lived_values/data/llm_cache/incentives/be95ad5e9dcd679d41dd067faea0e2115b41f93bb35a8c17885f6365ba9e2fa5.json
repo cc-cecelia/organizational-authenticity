@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001047469-17-001778",
+  "task": "incentives",
+  "section_words": 11550,
+  "section_method": "heading",
+  "cache_key": "be95ad5e9dcd679d41dd067faea0e2115b41f93bb35a8c17885f6365ba9e2fa5",
+  "est_input_tokens": 22582
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28576,
+  "output_tokens": 1550,
+  "request_id": "req_011CgCAbwrei6pZZD6bVAcKW"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "earnings per share (EPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "relative total stockholder return (TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "relative return on equity (ROE)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on AbbVie's return on equity (ROE) articulated as pre-set goals"
+   }
+  ]
+ }
+}

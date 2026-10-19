@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "ae263904702a8ac87b023593a62f2605fccd5948b260224158f5c4bfd6fb5448",
+  "est_input_tokens": 24060
+ },
+ "usage": {
+  "input_tokens": 26039,
+  "output_tokens": 1155
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income Per Barrel | 20% | 5th or 6th Position"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EBITDA is a non-GAAP performance metric derived from our consolidated financial statements."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow at MPLX is a non-GAAP measure reflecting cash flow available to be paid to MPLX's common unitholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mechanical Availability measures the availability of the processing equipment in our refineries"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Sustainability metric combines a new GHG intensity metric"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas (GHG) Intensity measures how efficiently we operate our facilities"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents measures certain internal environmental performance metrics."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Marathon Safety Performance Index measures our success and commitment to employee safety."
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate measures our ability to identify, understand and control certain process hazards."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2020 Compensation and Organization Development Committee Discretion (20% of ACB Program)"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Negotiating and progressing the $21 billion sale of Speedway."
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Progress on diversity and inclusion initiatives."
+   },
+   {
+    "id": 12,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Excellence in environmental performance, personal safety and process safety improvement."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Tying our MPC performance-based long-term incentive awards to a three-year relative TSR measure."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX performance units pay out based 50% on MPLX's total unitholder return (\"TUR\") relative to a peer group of midstream companies and 50% on distributable cash flow"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "DCF attributable to MPLX is measured for each year of a three-year performance cycle"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In January 2019, the Compensation and Organization Development Committee awarded our NEOs synergy performance units"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The 2020 ACB program emphasized pre-established financial, operational, sustainability and safety performance measures, collectively weighted at 80%."
+   },
+   {
+    "parent_id": 4,
+    "plan": "annual_incentive",
+    "evidence": "This new metric is weighted at 20%, with each of its four components weighted at 5%."
+   }
+  ]
+ }
+}

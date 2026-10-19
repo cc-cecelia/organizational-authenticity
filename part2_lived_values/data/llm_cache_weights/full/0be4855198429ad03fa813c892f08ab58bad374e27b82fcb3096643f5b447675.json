@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "0be4855198429ad03fa813c892f08ab58bad374e27b82fcb3096643f5b447675",
+  "est_input_tokens": 25567
+ },
+ "usage": {
+  "input_tokens": 28271,
+  "output_tokens": 3671
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We include financial performance measures in our cash incentives to measure our success in meeting internal annual financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting the Company's fiscal year 2023 internal operating budget."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting the Company's fiscal year 2023 internal operating budget."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The operational assessment portion of each Named Executive's fiscal year 2023 annual cash incentives was determined based on evaluation of their individual contributions"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mr. Nadella's vision, decisiveness, and leadership enabled Microsoft to excel in product and strategy during fiscal year 2023"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Revenue, consumption, and market share"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Again, in fiscal year 2023, Mr. Nadella furthered Microsoft's success as the preferred or primary cloud partner"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Developer engagement"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mr. Nadella directed a substantive and thought-leading approach to AI governance"
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Culture"
+   },
+   {
+    "id": 17,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion"
+   },
+   {
+    "id": 18,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Organizational health"
+   },
+   {
+    "id": 19,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "Sustainability and carbon reduction"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Paid seats for current or new per-user SaaS cloud services primarily in commercial customer segment"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Unique monthly active users of Teams in Enterprise, Corporate, Small and Medium Business"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue from Xbox content and services, comprising first- and third-party content"
+   },
+   {
+    "id": 24,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows monthly active devices (\"MAD\") growth is defined as the count of Windows 10 and Windows 11 devices"
+   },
+   {
+    "id": 25,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measure of member visits as a leading indicator of the overall quality of the LinkedIn member experience"
+   },
+   {
+    "id": 26,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance stock awards include a relative TSR modifier to strengthen the alignment of the interests"
+   }
+  ],
+  "equal_split": []
+ }
+}

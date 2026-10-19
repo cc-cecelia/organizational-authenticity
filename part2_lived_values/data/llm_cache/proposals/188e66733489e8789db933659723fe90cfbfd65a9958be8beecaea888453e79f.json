@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001326801-21-000022",
+  "task": "proposals",
+  "section_words": 8750,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "188e66733489e8789db933659723fe90cfbfd65a9958be8beecaea888453e79f",
+  "est_input_tokens": 19921
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19701,
+  "output_tokens": 955,
+  "request_id": "req_011CgC9QYscZQLxkqhtPvEnM"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan giving all outstanding stock one vote per share via a phase-out eliminating Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding an Independent Chair",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, amending bylaws as necessary.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Facebook 2021 - Child Sexual Exploitation Online",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report assessing risk of increased sexual exploitation of children as privacy tools such as end-to-end encryption are developed.",
+    "category": "community",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary."
+   },
+   {
+    "item_number": "7",
+    "title": "Human/Civil Rights Expert on Board",
+    "proponent": "not stated",
+    "topic_summary": "Requests nomination of at least one independent director candidate with high human and/or civil rights expertise.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors does not believe that setting aside a board seat for any predetermined profile is a good corporate governance practice"
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding Platform Misuse",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board report assessing benefits and drawbacks of maintaining enhanced 2020 election-cycle actions to reduce amplification of false and divisive information.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our shareholders."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal Regarding Public Benefit Corporation",
+    "proponent": "not stated",
+    "topic_summary": "Requests conversion to a public benefit corporation, contingent on converting Class B shares so at least 60% of voting power is not controlled by Mark Zuckerberg.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the shareholder proposal."
+   }
+  ]
+ }
+}

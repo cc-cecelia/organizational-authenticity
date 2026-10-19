@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "515cdd51b385f0de499fa43a3aff6af15d5cab82d1f4b23d7d33ba6b6f01b1bf",
+  "est_input_tokens": 13580
+ },
+ "usage": {
+  "input_tokens": 15366,
+  "output_tokens": 309
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue. Fiscal 2020 revenue grew by 29% year-over-year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow. Fiscal 2020 operating cash flow grew by 27% year-over-year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance metric is three-year relative TSR compared to the Nasdaq 100 Index group of companies as of the grant date"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "three equally weighted measures"
+   }
+  ]
+ }
+}

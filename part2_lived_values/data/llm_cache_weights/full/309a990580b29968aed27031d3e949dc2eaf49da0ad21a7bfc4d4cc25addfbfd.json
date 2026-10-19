@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "309a990580b29968aed27031d3e949dc2eaf49da0ad21a7bfc4d4cc25addfbfd",
+  "est_input_tokens": 20997
+ },
+ "usage": {
+  "input_tokens": 21441,
+  "output_tokens": 2408
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Each measure contributes to the final payout multiple on a weighted basis: revenue (25 percent)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Science and Technology Committee's assessment of the company's product pipeline achievements is detailed below"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase 3 starts | 4 | 4"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase 1 starts | 14-16 | 15"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Approvals | 2 new drug first approvals 9 other approvals | 3 new drug first approvals 17 other approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase 3 starts | 5 | 3"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific and medical officer's evaluation"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "A Game Changer Event is a significant scientific advancement that the Science and Technology Committee deems"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payouts are based on achieving EPS growth targets over a two-year performance period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Shareholder value awards are earned based on Lilly's share price performance."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative value awards are earned based on Lilly's TSR performance relative to our peer group."
+   }
+  ],
+  "equal_split": []
+ }
+}

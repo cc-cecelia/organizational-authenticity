@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "ca3cda732696567334c50811dae77b64f251410c74d65bc86c6cbd31c00a0457",
+  "est_input_tokens": 23897
+ },
+ "usage": {
+  "input_tokens": 28719,
+  "output_tokens": 232
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Average ROA means the average \"return on assets\" for the three calendar years in the performance period."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Average Growth in Adjusted TBV means the average year-over-year percentage change in \"adjusted tangible book value\" for the three calendar years in the performance period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The awards are equally weighted with 50% based on ROA standards and 50% based on adjusted TBV growth standards."
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001193125-24-226139",
+  "task": "proposals",
+  "section_words": 1492,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f4d368c518604b92f9b47245d0f37427fd1a76dca3db4f007eff3a23a08391da",
+  "est_input_tokens": 3929
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5188,
+  "output_tokens": 305,
+  "request_id": "req_011CgC9buaNMnwn6HybV4ytk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING A REPORT ON CLIMATE RISKS TO RETIREMENT PLAN BENEFICIARIES",
+    "proponent": "As You Sow, on behalf of Remmer Family Foundation Inc, Edwards Mother Earth Foundation, Frances L. Bell T/W fbo Roger de Freitas, Humankind Benefit Corporation and The Pleiades Trust",
+    "topic_summary": "Requests a report disclosing if and how Oracle protects retirement plan beneficiaries, especially those with long horizons, from future portfolio risk from high-carbon plan investments.",
+    "category": "environment",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board unanimously recommends a vote AGAINST adoption of Proposal No. 4."
+   }
+  ]
+ }
+}

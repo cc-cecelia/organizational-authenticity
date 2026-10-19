@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "9c19834603f53e719ccb6ab18f94cd928f7561411918d8d67959801d68225420",
+  "est_input_tokens": 16239
+ },
+ "usage": {
+  "input_tokens": 17094,
+  "output_tokens": 358
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The LDC Committee aligned the [w] of the sales and operating profit goals to emphasize top line sales growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating profit and inventory turns below target"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "achieve average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The NEOs earned approximately # of their Fiscal #-#awards, reflecting performance in excess of the target level for each metric."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target."
+   }
+  ],
+  "equal_split": []
+ }
+}

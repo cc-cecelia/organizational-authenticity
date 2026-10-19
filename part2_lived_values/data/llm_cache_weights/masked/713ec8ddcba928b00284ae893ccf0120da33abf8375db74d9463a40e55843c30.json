@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "713ec8ddcba928b00284ae893ccf0120da33abf8375db74d9463a40e55843c30",
+  "est_input_tokens": 16409
+ },
+ "usage": {
+  "input_tokens": 17202,
+  "output_tokens": 890
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The financial component of our STIP program is based on # financial metrics: Sales (#) and Incentive Operating Income (#)."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Team scorecard is based on the Compensation & Human Capital Management Committee's assessment of our NEOs' progress toward strategic priorities."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Improved inventory turnover which meaningfully contributed to increased profitability;"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Maintained strong Team Member engagement, with survey results representing a modest decrease over the prior year;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Advanced equity and inclusion initiatives across the team;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Exceeded sales plans for Fiscal #for stores remodeled in #performed close to plan for Fiscal #for new stores opened in #; and"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Experienced market share loss, as discretionary categories were particularly pressured."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs recognize our NEOs for achieving superior long-term relative performance on # key metrics: \u2022 Adjusted Sales growth \u2022 EPS growth \u2022 ROIC"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs recognize our NEOs for achieving superior long-term relative performance on # key metrics: \u2022 Adjusted Sales growth \u2022 EPS growth \u2022 ROIC"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs recognize our NEOs for achieving superior long-term relative performance on # key metrics: \u2022 Adjusted Sales growth \u2022 EPS growth \u2022 ROIC"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PBRSUs cliff vest at the end of the performance period with payouts based on relative TSR performance during the performance period versus our retail peer group."
+   }
+  ],
+  "equal_split": []
+ }
+}

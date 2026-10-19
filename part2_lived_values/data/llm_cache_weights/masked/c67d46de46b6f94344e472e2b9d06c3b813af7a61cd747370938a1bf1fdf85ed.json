@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "c67d46de46b6f94344e472e2b9d06c3b813af7a61cd747370938a1bf1fdf85ed",
+  "est_input_tokens": 24659
+ },
+ "usage": {
+  "input_tokens": 25587,
+  "output_tokens": 871
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee assesses each NEO's performance individually, based on the three categories outlined below."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "business strengths and # dependent on BlackRock's business strengths"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "organizational strengths"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Generated record annual net inflows of #billion, representing # organic asset growth and # organic base fee growth."
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Operating Income, as adjusted (#) ($ million) | #| #Operating Margin, as adjusted (#)"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Operating Margin, as adjusted (#) | # | #"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Diluted Earnings Per Share, as adjusted (#) | #| #Share Price Data"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Solve for clients' evolving needs \u2022 In partnership with Mr. Kapito, drove strong long-term investment performance"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Sharpen execution and accountability \u2022 Simplified BlackRock's operating model through a firm re-organization"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Lead in a changing world \u2022 Continued to oversee investments in three future growth areas"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attract and inspire talent \u2022 Elevated leaders into key roles"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Develop a more diverse and inclusive culture \u2022 Continued to emphasize the importance of inclusion and diversity"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0001104659-22-048923",
+  "task": "proposals",
+  "section_words": 1685,
+  "section_method": "resolved_windows",
+  "cache_key": "26bd5ee8b40920aa022bf0cdce5d14c2a7251b2a70bbc3273b6aaa6068af5f1f",
+  "est_input_tokens": 3786
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5224,
+  "output_tokens": 195,
+  "request_id": "req_011CgCAW49FVY5wL6Pke8Hmf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Political Contributions Congruency Report",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annual report analyzing whether political, lobbying, and electioneering expenditures align with publicly stated company values, listing incongruent expenditures and whether they changed future spending.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST the foregoing proposal for the following reasons:"
+   }
+  ]
+ }
+}

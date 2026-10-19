@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000200406-19-000013",
+  "task": "proposals",
+  "section_words": 2791,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "04ea8b490a07de232fbeceebb06cbdcc4d80edce3faf7c63b4b4ef6996c0c4a2",
+  "est_input_tokens": 6670
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7740,
+  "output_tokens": 418,
+  "request_id": "req_011CgCAYcGbQ3wGk9AY47R47"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "PROPOSAL 4 - CLAWBACK DISCLOSURE",
+    "proponent": "certain New York City pension funds, Municipal Building, One Centre Street",
+    "topic_summary": "Requests a policy for annual disclosure of whether incentive compensation was recouped or forfeited from senior executives (including former ones) under the clawback policy, with general circumstances described.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "PROPOSAL 5 - EXECUTIVE COMPENSATION AND DRUG PRICING RISKS",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Requests an annual report on whether senior executive incentive arrangements reward drug pricing strategies that ignore public concern and whether external pricing pressures are considered in financial targets.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   }
+  ]
+ }
+}

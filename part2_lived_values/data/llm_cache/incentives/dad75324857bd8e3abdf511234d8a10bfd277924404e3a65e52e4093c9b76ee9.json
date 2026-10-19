@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-257430",
+  "task": "incentives",
+  "section_words": 9585,
+  "section_method": "heading",
+  "cache_key": "dad75324857bd8e3abdf511234d8a10bfd277924404e3a65e52e4093c9b76ee9",
+  "est_input_tokens": 21573
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24318,
+  "output_tokens": 1446,
+  "request_id": "req_011CgC9aB9w3JMyrTf5gAWzc"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-over-year growth in non-GAAP pre-tax profits",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee selected year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our NEOs' bonuses for fiscal 2019"
+   },
+   {
+    "metric": "Stock price goal (average stock price of $80 for 30 calendar days)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 14.29,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "1 Tranche (1/7th) may be earned based on achievement of a stock price goal"
+   },
+   {
+    "metric": "Market capitalization goals",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 85.71,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "6 Tranches (6/7ths) may be earned based on achievement of both (1) market capitalization goals and (2) operational goals"
+   },
+   {
+    "metric": "Operational goals (cloud revenue, SaaS and PaaS/IaaS revenue, gross margin, largest enterprise SaaS company ranking)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 85.71,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "6 Tranches (6/7ths) may be earned based on achievement of both (1) market capitalization goals and (2) operational goals"
+   },
+   {
+    "metric": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Become the largest enterprise Software-as-a-Service (SaaS) company as measured by an independent third-party report"
+   },
+   {
+    "metric": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain $20 billion in non-GAAP total cloud revenues in a fiscal year"
+   },
+   {
+    "metric": "Attain non-GAAP SaaS gross margin of 80%",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attain non-GAAP SaaS gross margin of 80%"
+   },
+   {
+    "metric": "Revenue growth relative to PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated U.S. GAAP revenues"
+   },
+   {
+    "metric": "Operating cash flow growth relative to PSU Comparator Companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "ceo",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated U.S. GAAP net cash flows from operating activities"
+   }
+  ]
+ }
+}

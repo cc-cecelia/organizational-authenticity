@@ -1,0 +1,800 @@
+item_id,metric,category,true,emphasis,equal,ticker,filing_year,err_emphasis,err_equal
+0,Net Sales,shareholders,50.0,50.0,50.0,AAPL,2016,0.0,0.0
+1,Operating Income,shareholders,50.0,50.0,50.0,AAPL,2016,0.0,0.0
+0,Net sales,shareholders,50.0,50.0,50.0,AAPL,2017,0.0,0.0
+1,Operating income,shareholders,50.0,50.0,50.0,AAPL,2017,0.0,0.0
+0,Net sales,shareholders,50.0,50.0,50.0,AAPL,2019,0.0,0.0
+1,Operating income,shareholders,50.0,50.0,50.0,AAPL,2019,0.0,0.0
+0,Net Sales,shareholders,50.0,50.0,50.0,AAPL,2020,0.0,0.0
+1,Operating Income,shareholders,50.0,50.0,50.0,AAPL,2020,0.0,0.0
+0,Net sales,shareholders,50.0,50.0,50.0,AAPL,2021,0.0,0.0
+1,Operating income,shareholders,50.0,50.0,50.0,AAPL,2021,0.0,0.0
+0,Income Before Taxes,shareholders,20.0,16.667,16.667,ABBV,2024,3.3329999999999984,3.3329999999999984
+1,"Platform Revenue, Operating Margin, and Return on Assets",shareholders,60.0,16.667,16.667,ABBV,2024,43.333,43.333
+5,R&D/Innovation,innovation,10.0,8.333,16.667,ABBV,2024,1.6669999999999998,6.667000000000002
+6,ESG goal,other,10.0,16.667,16.667,ABBV,2024,6.667000000000002,6.667000000000002
+8,Strategic and leadership goals,other,0.0,16.667,16.667,ABBV,2024,16.667,16.667
+9,Qualitative assessment of holistic performance,other,0.0,25.0,16.667,ABBV,2024,25.0,16.667
+0,Adjusted Diluted EPS (funding goal),shareholders,0.0,27.273,20.0,ABT,2016,27.273,20.0
+1,Sales Growth vs Peers and Plan,shareholders,10.0,18.182,20.0,ABT,2016,8.181999999999999,10.0
+2,Financial Return,shareholders,40.0,18.182,20.0,ABT,2016,21.818,20.0
+3,Strategic Initiatives,other,40.0,18.182,20.0,ABT,2016,21.818,20.0
+4,Leadership,employees,10.0,18.182,20.0,ABT,2016,8.181999999999999,10.0
+0,EPS goal (Adjusted Diluted EPS),shareholders,0.0,27.273,20.0,ABT,2017,27.273,20.0
+1,Sales Growth vs Peers and Plan,shareholders,30.0,18.182,20.0,ABT,2017,11.818000000000001,10.0
+2,Financial Return,shareholders,25.0,18.182,20.0,ABT,2017,6.818000000000001,5.0
+3,Strategic Initiatives,innovation,30.0,18.182,20.0,ABT,2017,11.818000000000001,10.0
+4,Leadership,employees,15.0,18.182,20.0,ABT,2017,3.1819999999999986,5.0
+0,EPS goal (funding gate),shareholders,0.0,27.273,20.0,ABT,2018,27.273,20.0
+1,Sales Growth vs Peers and Plan,shareholders,30.0,18.182,20.0,ABT,2018,11.818000000000001,10.0
+2,Financial Return,shareholders,40.0,18.182,20.0,ABT,2018,21.818,20.0
+3,Strategic Initiatives,shareholders,20.0,18.182,20.0,ABT,2018,1.8180000000000014,0.0
+4,Leadership,employees,10.0,18.182,20.0,ABT,2018,8.181999999999999,10.0
+0,Adjusted Sales,shareholders,25.0,16.667,14.286,ABT,2022,8.332999999999998,10.714
+1,Adjusted Diluted EPS,shareholders,25.0,16.667,14.286,ABT,2022,8.332999999999998,10.714
+2,Adjusted ROA,shareholders,10.0,16.667,14.286,ABT,2022,6.667000000000002,4.286
+3,Free Cash Flow,shareholders,10.0,16.667,14.286,ABT,2022,6.667000000000002,4.286
+4,COVID-19 Test Sales,shareholders,10.0,16.667,14.286,ABT,2022,6.667000000000002,4.286
+5,Diabetes Care Sales Growth,shareholders,10.0,8.333,14.286,ABT,2022,1.6669999999999998,4.286
+6,Core Diagnostics Sales Growth,shareholders,10.0,8.333,14.286,ABT,2022,1.6669999999999998,4.286
+0,Adjusted Sales,shareholders,25.0,16.667,14.286,ABT,2023,8.332999999999998,10.714
+1,Adjusted Diluted EPS,shareholders,25.0,16.667,14.286,ABT,2023,8.332999999999998,10.714
+2,Adjusted ROA,shareholders,10.0,16.667,14.286,ABT,2023,6.667000000000002,4.286
+3,Free Cash Flow,shareholders,10.0,16.667,14.286,ABT,2023,6.667000000000002,4.286
+4,Diabetes Care Sales Growth,shareholders,10.0,8.333,14.286,ABT,2023,1.6669999999999998,4.286
+5,EPD and Nutrition Sales Growth,shareholders,10.0,8.333,14.286,ABT,2023,1.6669999999999998,4.286
+6,"Meet talent, succession planning, and diversity targets",employees,10.0,16.667,14.286,ABT,2023,6.667000000000002,4.286
+0,Adjusted Sales,shareholders,25.0,14.286,14.286,ABT,2024,10.714,10.714
+1,Adjusted Diluted EPS,shareholders,25.0,14.286,14.286,ABT,2024,10.714,10.714
+2,Adjusted ROA,shareholders,10.0,14.286,14.286,ABT,2024,4.286,4.286
+3,Free Cash Flow,shareholders,10.0,14.286,14.286,ABT,2024,4.286,4.286
+4,Diabetes Care Sales Growth,shareholders,10.0,14.286,14.286,ABT,2024,4.286,4.286
+5,Key Cardiometabolic Product Sales Growth,shareholders,10.0,14.286,14.286,ABT,2024,4.286,4.286
+6,"Meet talent, succession planning, and diversity targets",employees,10.0,14.286,14.286,ABT,2024,4.286,4.286
+0,adjusted non-GAAP revenue,shareholders,50.0,25.0,12.5,AVGO,2019,25.0,37.5
+1,adjusted non-GAAP operating margin,shareholders,50.0,16.667,12.5,AVGO,2019,33.333,37.5
+2,Direct Expenses,shareholders,0.0,8.333,12.5,AVGO,2019,8.333,12.5
+3,Design Wins,shareholders,0.0,8.333,12.5,AVGO,2019,8.333,12.5
+4,Product Revenue,shareholders,0.0,8.333,12.5,AVGO,2019,8.333,12.5
+5,WSD Revenue,shareholders,0.0,8.333,12.5,AVGO,2019,8.333,12.5
+6,WSD Operating Margin,shareholders,0.0,8.333,12.5,AVGO,2019,8.333,12.5
+7,individual performance multiplier,other,0.0,16.667,12.5,AVGO,2019,16.667,12.5
+0,Revenue,shareholders,50.0,23.077,11.111,AVGO,2020,26.923,38.888999999999996
+1,Adjusted non-GAAP operating margin,shareholders,50.0,15.385,11.111,AVGO,2020,34.615,38.888999999999996
+2,Direct Expenses,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+3,Product Revenue,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+4,Bookings,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+5,Design Wins,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+6,WSD Revenue,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+7,WSD Operating Margin,shareholders,0.0,7.692,11.111,AVGO,2020,7.692,11.111
+8,Individual performance multiplier,other,0.0,15.385,11.111,AVGO,2020,15.385,11.111
+0,Revenue,shareholders,50.0,23.077,14.286,AVGO,2021,26.923,35.714
+1,Adjusted non-GAAP Operating Margin,shareholders,50.0,23.077,14.286,AVGO,2021,26.923,35.714
+2,Direct Expenses,shareholders,0.0,15.385,14.286,AVGO,2021,15.385,14.286
+3,Bookings,shareholders,0.0,7.692,14.286,AVGO,2021,7.692,14.286
+4,Product Revenue,shareholders,0.0,7.692,14.286,AVGO,2021,7.692,14.286
+5,Design Wins,shareholders,0.0,7.692,14.286,AVGO,2021,7.692,14.286
+6,Individual Performance Multiplier,other,0.0,15.385,14.286,AVGO,2021,15.385,14.286
+0,Revenue,shareholders,25.0,33.333,33.333,AVGO,2024,8.332999999999998,8.332999999999998
+2,Division Financial and Strategic Goals,shareholders,50.0,33.333,33.333,AVGO,2024,16.667,16.667
+0,"Shareholder (e.g., EPS and Revenue Growth)",shareholders,55.0,20.0,20.0,AXP,2018,35.0,35.0
+5,"Customer (e.g., Net Promoter Score)",customers,15.0,20.0,20.0,AXP,2018,5.0,5.0
+7,"Employee (e.g., Diversity and Inclusion Goals)",dei,15.0,20.0,20.0,AXP,2018,5.0,5.0
+9,"Strategic and Long-Term Sign-Posts (e.g., Merchant Coverage, Lending Growth)",shareholders,15.0,20.0,20.0,AXP,2018,5.0,5.0
+16,"Individual performance (quality of results, key leadership attributes, compliance with risk and control objectives)",integrity,0.0,20.0,20.0,AXP,2018,20.0,20.0
+3,Shareholder,shareholders,45.0,16.667,16.667,AXP,2023,28.333,28.333
+7,Customer,customers,15.0,16.667,16.667,AXP,2023,1.6670000000000016,1.6670000000000016
+11,Colleague,employees,15.0,16.667,16.667,AXP,2023,1.6670000000000016,1.6670000000000016
+17,Strategic,shareholders,25.0,16.667,16.667,AXP,2023,8.332999999999998,8.332999999999998
+18,Company Performance Multiplier,shareholders,0.0,16.667,16.667,AXP,2023,16.667,16.667
+19,Individual Performance Multiplier,other,0.0,16.667,16.667,AXP,2023,16.667,16.667
+0,"Financial Performance (Net New Business, Organic Revenue, Total Revenue, Operating Income, Operating Margin As Adjusted, Net Income, EPS)",shareholders,50.0,42.857,33.333,BLK,2016,7.143000000000001,16.667
+1,Business Strength,other,30.0,28.571,33.333,BLK,2016,1.4289999999999985,3.3329999999999984
+6,Organizational Strength,employees,20.0,28.571,33.333,BLK,2016,8.571000000000002,13.332999999999998
+0,Financial Performance,shareholders,50.0,42.857,33.333,BLK,2019,7.143000000000001,16.667
+1,Business Strength,customers,30.0,28.571,33.333,BLK,2019,1.4289999999999985,3.3329999999999984
+2,Organizational Strength,employees,20.0,28.571,33.333,BLK,2019,8.571000000000002,13.332999999999998
+0,Financial Performance,shareholders,50.0,33.333,33.333,BLK,2020,16.667,16.667
+1,Business Strength,other,30.0,33.333,33.333,BLK,2020,3.3329999999999984,3.3329999999999984
+2,Organizational Strength,employees,20.0,33.333,33.333,BLK,2020,13.332999999999998,13.332999999999998
+0,Financial Performance (50% of award opportunity),shareholders,50.0,42.857,33.333,BLK,2021,7.143000000000001,16.667
+1,Business Strength (30% of award opportunity),other,30.0,28.571,33.333,BLK,2021,1.4289999999999985,3.3329999999999984
+2,Organizational Strength (20% of award opportunity),employees,20.0,28.571,33.333,BLK,2021,8.571000000000002,13.332999999999998
+0,Financial performance goals (50% of award opportunity),shareholders,50.0,42.857,33.333,BLK,2022,7.143000000000001,16.667
+1,Business strength objectives (25% of award opportunity),other,25.0,28.571,33.333,BLK,2022,3.5710000000000015,8.332999999999998
+2,ESG and organizational strength objectives (25% of award opportunity),environment,25.0,28.571,33.333,BLK,2022,3.5710000000000015,8.332999999999998
+0,Financial performance objectives,shareholders,50.0,42.857,33.333,BLK,2023,7.143000000000001,16.667
+1,Business strength objectives,shareholders,25.0,28.571,33.333,BLK,2023,3.5710000000000015,8.332999999999998
+2,ESG and organizational strength objectives,other,25.0,28.571,33.333,BLK,2023,3.5710000000000015,8.332999999999998
+0,Financial Performance,shareholders,50.0,42.857,33.333,BLK,2024,7.143000000000001,16.667
+1,Business Strength,other,25.0,28.571,33.333,BLK,2024,3.5710000000000015,8.332999999999998
+2,Organizational Strength,other,25.0,28.571,33.333,BLK,2024,3.5710000000000015,8.332999999999998
+0,Non-GAAP Diluted EPS,shareholders,50.0,22.222,25.0,BMY,2016,27.778,25.0
+1,"Total Revenues, net of foreign exchange",shareholders,25.0,22.222,25.0,BMY,2016,2.7779999999999987,0.0
+3,Near-Term Value,innovation,12.5,16.667,12.5,BMY,2016,4.167000000000002,0.0
+4,Long-Term Growth Potential,innovation,12.5,16.667,12.5,BMY,2016,4.167000000000002,0.0
+6,Drive performance of the business,shareholders,0.0,5.556,6.25,BMY,2016,5.556,6.25
+7,Enhance the value of the portfolio,innovation,0.0,5.556,6.25,BMY,2016,5.556,6.25
+9,Employee engagement as measured in surveys,employees,0.0,1.852,2.083,BMY,2016,1.852,2.083
+10,"Culture of business integrity, ethics and compliance",integrity,0.0,1.852,2.083,BMY,2016,1.852,2.083
+11,Diversity and inclusion initiatives,dei,0.0,1.852,2.083,BMY,2016,1.852,2.083
+5r,Individual Performance Factor (Results and Behaviors) (residual),integrity,0.0,5.556,6.25,BMY,2016,5.556,6.25
+0,Non-GAAP Diluted Earnings Per Share,shareholders,50.0,22.222,25.0,BMY,2017,27.778,25.0
+1,Total Revenues,shareholders,25.0,22.222,25.0,BMY,2017,2.7779999999999987,0.0
+3,Near-Term Value,innovation,12.5,11.111,8.333,BMY,2017,1.3889999999999993,4.167
+4,Long-Term Growth Potential,innovation,12.5,11.111,8.333,BMY,2017,1.3889999999999993,4.167
+5,Qualitative Overlay,innovation,0.0,11.111,8.333,BMY,2017,11.111,8.333
+6,Individual Performance Factor,other,0.0,22.222,25.0,BMY,2017,22.222,25.0
+0,"Non-GAAP Diluted Earnings Per Share, Net of Share Repurchase",shareholders,50.0,30.0,25.0,BMY,2018,20.0,25.0
+1,"Total Revenues, Net of Foreign Exchange",shareholders,25.0,20.0,25.0,BMY,2018,5.0,0.0
+3,Near-Term Value,innovation,12.5,10.0,8.333,BMY,2018,2.5,4.167
+4,Long-Term Growth Potential,innovation,12.5,10.0,8.333,BMY,2018,2.5,4.167
+5,Qualitative Overlay,innovation,0.0,10.0,8.333,BMY,2018,10.0,8.333
+7,Evolve our culture and execute our People Strategy,employees,0.0,4.0,4.167,BMY,2018,4.0,4.167
+8,Progress on diversity and inclusion initiatives,dei,0.0,2.0,4.167,BMY,2018,2.0,4.167
+9,"Continuing to set a firm tone at the top on a culture of business integrity, ethics and compliance",integrity,0.0,2.0,4.167,BMY,2018,2.0,4.167
+10,Drive performance of the business,shareholders,0.0,4.0,4.167,BMY,2018,4.0,4.167
+11,Enhance the value of the portfolio and diversify for long-term growth,innovation,0.0,4.0,4.167,BMY,2018,4.0,4.167
+6r,Individual Performance Factor (Results and Behaviors) (residual),other,0.0,4.0,4.167,BMY,2018,4.0,4.167
+0,Non-GAAP Diluted Earnings Per Share,shareholders,50.0,13.333,14.286,BMY,2019,36.667,35.714
+1,Total Revenues (net of foreign exchange),shareholders,25.0,13.333,14.286,BMY,2019,11.667,10.714
+3,Near-Term Value,innovation,12.5,6.667,4.762,BMY,2019,5.833,7.738
+4,Long-Term Growth Potential,innovation,12.5,6.667,4.762,BMY,2019,5.833,7.738
+5,Qualitative Overlay (pipeline),innovation,0.0,6.667,4.762,BMY,2019,6.667,4.762
+6,Individual Performance Factor (Results and Behaviors),other,0.0,13.333,14.286,BMY,2019,13.333,14.286
+7,Drive enterprise performance,shareholders,0.0,13.333,14.286,BMY,2019,13.333,14.286
+8,Enhance the value of the portfolio and diversify for long-term growth,innovation,0.0,13.333,14.286,BMY,2019,13.333,14.286
+10,Deepen employee engagement,employees,0.0,4.444,4.762,BMY,2019,4.444,4.762
+11,Diversity and inclusion,dei,0.0,4.444,4.762,BMY,2019,4.444,4.762
+12,Business integrity and ethics and compliance,integrity,0.0,4.444,4.762,BMY,2019,4.444,4.762
+0,Earnings Per Share (EPS),shareholders,50.0,22.222,25.0,BMY,2020,27.778,25.0
+1,Total Revenues,shareholders,25.0,22.222,25.0,BMY,2020,2.7779999999999987,0.0
+3,Near-Term Value,innovation,12.5,11.111,8.333,BMY,2020,1.3889999999999993,4.167
+4,Long-Term Growth Potential,innovation,12.5,11.111,8.333,BMY,2020,1.3889999999999993,4.167
+5,Qualitative Overlay,innovation,0.0,11.111,8.333,BMY,2020,11.111,8.333
+7,"Drive enterprise performance (customer service metrics, supply chain reliability, integrity and compliance)",customers,0.0,7.407,8.333,BMY,2020,7.407,8.333
+8,Evolve our culture and execute our People Strategy (global diversity and inclusion),dei,0.0,7.407,8.333,BMY,2020,7.407,8.333
+6r,"Individual Performance Factor (Results and Behaviors, including integration planning, human capital management and synergy identification) (residual)",other,0.0,7.407,8.333,BMY,2020,7.407,8.333
+0,Earnings Per Share (EPS),shareholders,30.0,16.667,20.0,BMY,2021,13.332999999999998,10.0
+1,Total Revenues,shareholders,25.0,16.667,20.0,BMY,2021,8.332999999999998,5.0
+4,Human Capital Management,employees,10.0,12.5,10.0,BMY,2021,2.5,0.0
+5,Synergies,shareholders,10.0,12.5,10.0,BMY,2021,2.5,0.0
+6,Near-Term Value,innovation,12.5,8.333,6.667,BMY,2021,4.167,5.833
+7,Long-Term Growth Potential,innovation,12.5,8.333,6.667,BMY,2021,4.167,5.833
+8,Pipeline Qualitative Overlay,innovation,0.0,8.333,6.667,BMY,2021,8.333,6.667
+9,Individual Performance Factor,other,0.0,16.667,20.0,BMY,2021,16.667,20.0
+0,Earnings Per Share (EPS),shareholders,30.0,18.182,20.0,BMY,2022,11.818000000000001,10.0
+1,Total Revenues,shareholders,25.0,18.182,20.0,BMY,2022,6.818000000000001,5.0
+3,Near-Term Value,innovation,12.5,9.091,6.667,BMY,2022,3.4090000000000007,5.833
+4,Long-Term Growth Potential,innovation,12.5,9.091,6.667,BMY,2022,3.4090000000000007,5.833
+5,Qualitative Overlay,innovation,0.0,9.091,6.667,BMY,2022,9.091,6.667
+7,Human Capital Management,employees,10.0,6.061,6.667,BMY,2022,3.939,3.333
+8,Synergies,shareholders,10.0,6.061,6.667,BMY,2022,3.939,3.333
+9,Individual Performance Factor,other,0.0,18.182,20.0,BMY,2022,18.182,20.0
+0,Earnings Per Share (EPS) - Non-GAAP Diluted EPS,shareholders,30.0,17.647,11.111,BMY,2023,12.353000000000002,18.889
+1,Total Revenues (Ex-FX),shareholders,20.0,11.765,11.111,BMY,2023,8.235,8.889
+2,New Product Portfolio Revenues (Ex-FX),shareholders,15.0,11.765,11.111,BMY,2023,3.2349999999999994,3.8889999999999993
+4,Near-Term Value,innovation,12.5,5.882,5.556,BMY,2023,6.618,6.944
+5,Long-Term Growth Potential,innovation,12.5,5.882,5.556,BMY,2023,6.618,6.944
+6,ESG Scorecard,other,10.0,17.647,11.111,BMY,2023,7.6469999999999985,1.1110000000000007
+11,Individual Performance Factor,other,0.0,11.765,11.111,BMY,2023,11.765,11.111
+13,"Demonstrate ethics, integrity and quality in everything we do",integrity,0.0,2.941,5.556,BMY,2023,2.941,5.556
+14,Maximize the reach and potential of the marketed portfolio and ensure the long-term sustainability of the pipeline,innovation,0.0,5.882,11.111,BMY,2023,5.882,11.111
+16,boldly cultivate a diverse and inclusive global community,dei,0.0,2.941,5.556,BMY,2023,2.941,5.556
+12r,Drive enterprise performance (residual),shareholders,0.0,2.941,5.556,BMY,2023,2.941,5.556
+15r,Embed our patient-centric culture and drive our People Strategy (residual),employees,0.0,2.941,5.556,BMY,2023,2.941,5.556
+0,Financial goals (70% weighting),shareholders,70.0,50.0,50.0,C,2016,20.0,20.0
+1,Non-financial goals (30% weighting),other,30.0,50.0,50.0,C,2016,20.0,20.0
+0,Citigroup Income from Continuing Operations Before Taxes,shareholders,0.0,15.385,14.286,C,2017,15.385,14.286
+1,Citicorp Efficiency Ratio,shareholders,0.0,15.385,14.286,C,2017,15.385,14.286
+2,Citigroup Return on Tangible Common Equity,shareholders,0.0,15.385,14.286,C,2017,15.385,14.286
+3,Citigroup Return on Assets,shareholders,0.0,15.385,14.286,C,2017,15.385,14.286
+4,Risk Appetite Ratio and Risk Appetite Surplus,integrity,0.0,7.692,14.286,C,2017,7.692,14.286
+5,Financial Scorecard,shareholders,70.0,15.385,14.286,C,2017,54.615,55.714
+6,Non-Financial Scorecard,other,30.0,15.385,14.286,C,2017,14.615,15.714
+0,"Financial Goals (scorecard, 70% weighting for business leaders including CEO)",shareholders,70.0,60.0,50.0,C,2020,10.0,20.0
+1,"Non-financial goals (scorecard, 30% weighting for business leaders including CEO)",integrity,30.0,40.0,50.0,C,2020,10.0,20.0
+5,Corporate Performance (VCIP),other,50.0,37.5,33.333,COP,2017,12.5,16.667
+12,Production (E&P operating business units),shareholders,15.0,9.375,8.333,COP,2017,5.625,6.667
+13,Unit Cost (E&P operating business units),shareholders,15.0,9.375,8.333,COP,2017,5.625,6.667
+14,Milestones (E&P operating business units),other,12.5,9.375,8.333,COP,2017,3.125,4.167
+15,HSE (E&P operating business units),safety,7.5,9.375,8.333,COP,2017,1.875,0.8330000000000002
+16,Individual Performance Adjustments (VCIP),other,0.0,25.0,33.333,COP,2017,25.0,33.333
+0,"Health, Safety and Environmental (HSE)",safety,20.0,23.077,20.0,COP,2018,3.0770000000000017,0.0
+3,Operational,shareholders,20.0,23.077,20.0,COP,2018,3.0770000000000017,0.0
+8,Financial,shareholders,20.0,23.077,20.0,COP,2018,3.0770000000000017,0.0
+11,Strategic Milestones,shareholders,20.0,15.385,20.0,COP,2018,4.615,0.0
+15,Total Shareholder Return (TSR),shareholders,20.0,15.385,20.0,COP,2018,4.615,0.0
+0,"Health, Safety, and Environmental",safety,20.0,27.273,20.0,COP,2019,7.273,0.0
+1,Operational,shareholders,20.0,18.182,20.0,COP,2019,1.8180000000000014,0.0
+2,Financial - Relative Adjusted ROCE/CROCE,shareholders,20.0,18.182,20.0,COP,2019,1.8180000000000014,0.0
+3,Strategic Milestones,other,20.0,18.182,20.0,COP,2019,1.8180000000000014,0.0
+4,Relative TSR,shareholders,20.0,18.182,20.0,COP,2019,1.8180000000000014,0.0
+0,"Health, Safety, and Environmental",safety,20.0,25.0,20.0,COP,2020,5.0,0.0
+1,Operational,shareholders,20.0,16.667,20.0,COP,2020,3.3329999999999984,0.0
+2,Financial — Absolute and Relative Adjusted ROCE/CROCE,shareholders,20.0,25.0,20.0,COP,2020,5.0,0.0
+3,Strategic Milestones,shareholders,20.0,16.667,20.0,COP,2020,3.3329999999999984,0.0
+4,Relative TSR,shareholders,20.0,16.667,20.0,COP,2020,3.3329999999999984,0.0
+0,"Health, Safety, and Environmental (HSE)",safety,20.0,27.273,20.0,COP,2021,7.273,0.0
+1,Operational,shareholders,20.0,18.182,20.0,COP,2021,1.8180000000000014,0.0
+2,Financial – Absolute and Relative Adjusted ROCE,shareholders,20.0,18.182,20.0,COP,2021,1.8180000000000014,0.0
+3,Strategic Milestones,other,20.0,18.182,20.0,COP,2021,1.8180000000000014,0.0
+4,Relative TSR,shareholders,20.0,18.182,20.0,COP,2021,1.8180000000000014,0.0
+0,"Health, Safety, and Environmental",safety,20.0,27.273,20.0,COP,2022,7.273,0.0
+1,Operational,shareholders,20.0,18.182,20.0,COP,2022,1.8180000000000014,0.0
+2,Financial—Absolute and Relative Adjusted ROCE,shareholders,20.0,18.182,20.0,COP,2022,1.8180000000000014,0.0
+3,Strategic and ESG Milestones,other,20.0,18.182,20.0,COP,2022,1.8180000000000014,0.0
+4,Relative TSR,shareholders,20.0,18.182,20.0,COP,2022,1.8180000000000014,0.0
+0,"HSE (Health, Safety and Environmental)",safety,20.0,25.0,20.0,COP,2023,5.0,0.0
+3,Operational,shareholders,20.0,25.0,20.0,COP,2023,5.0,0.0
+8,"Financial (Adjusted ROCE, absolute and relative)",shareholders,20.0,16.667,20.0,COP,2023,3.3329999999999984,0.0
+9,Strategic and ESG Milestones,other,20.0,16.667,20.0,COP,2023,3.3329999999999984,0.0
+17,Total Shareholder Return (relative),shareholders,20.0,16.667,20.0,COP,2023,3.3329999999999984,0.0
+0,"Health, Safety, and Environmental (HSE)",safety,20.0,20.0,20.0,COP,2024,0.0,0.0
+1,Operational,shareholders,30.0,20.0,20.0,COP,2024,10.0,10.0
+2,Financial (Relative Adjusted ROCE),shareholders,30.0,20.0,20.0,COP,2024,10.0,10.0
+3,Strategic Milestones,other,10.0,20.0,20.0,COP,2024,10.0,10.0
+4,Energy Transition Milestones,environment,10.0,20.0,20.0,COP,2024,10.0,10.0
+0,Revenue,shareholders,33.33,33.333,33.333,CRM,2016,0.0030000000000001137,0.0030000000000001137
+1,Operating Cash Flow,shareholders,33.33,33.333,33.333,CRM,2016,0.0030000000000001137,0.0030000000000001137
+2,Non-GAAP Income from Operations,shareholders,33.33,33.333,33.333,CRM,2016,0.0030000000000001137,0.0030000000000001137
+0,Financial measures (collectively),shareholders,90.0,42.857,33.333,CRM,2023,47.143,56.667
+5,Equality (50%),dei,2.5,5.714,4.762,CRM,2023,3.2140000000000004,2.2619999999999996
+6,U.S. Underrepresented Minorities & Women (25%),dei,1.25,5.714,4.762,CRM,2023,4.464,3.5119999999999996
+7,Global Women (25%),dei,1.25,5.714,4.762,CRM,2023,4.464,3.5119999999999996
+8,Sustainability (50%),environment,2.5,5.714,4.762,CRM,2023,3.2140000000000004,2.2619999999999996
+9,Air Travel (25%),environment,1.25,5.714,4.762,CRM,2023,4.464,3.5119999999999996
+10,Supplier Engagement (25%),environment,1.25,5.714,4.762,CRM,2023,4.464,3.5119999999999996
+11,Individual performance,other,0.0,14.286,33.333,CRM,2023,14.286,33.333
+0,Revenue,shareholders,30.0,20.0,20.0,CRM,2024,10.0,10.0
+1,Operating Cash Flow,shareholders,30.0,20.0,20.0,CRM,2024,10.0,10.0
+2,Non-GAAP Income from Operations,shareholders,30.0,20.0,20.0,CRM,2024,10.0,10.0
+3,Equality measures (U.S. Underrepresented Minorities & Women; Global Women),dei,5.0,20.0,20.0,CRM,2024,15.0,15.0
+4,Sustainability measures (Air Travel emissions intensity; Supplier Engagement),environment,5.0,20.0,20.0,CRM,2024,15.0,15.0
+0,Financials,shareholders,40.0,20.0,20.0,CVX,2017,20.0,20.0
+4,Capital management,shareholders,30.0,20.0,20.0,CVX,2017,10.0,10.0
+8,Operating performance,shareholders,15.0,20.0,20.0,CVX,2017,5.0,5.0
+12,"Health, environment and safety",safety,15.0,20.0,20.0,CVX,2017,5.0,5.0
+15,Individual Performance Factor,other,0.0,20.0,20.0,CVX,2017,20.0,20.0
+0,"Financials (Earnings per share, Net cash flow, Divestiture proceeds)",shareholders,40.0,25.0,25.0,CVX,2018,15.0,15.0
+1,Capital management,shareholders,30.0,25.0,25.0,CVX,2018,5.0,5.0
+2,Operating performance,shareholders,15.0,25.0,25.0,CVX,2018,10.0,10.0
+3,"Health, environmental and safety",safety,15.0,25.0,25.0,CVX,2018,10.0,10.0
+2,Capital management,shareholders,30.0,17.647,14.286,CVX,2019,12.353000000000002,15.714
+6,Operating performance,shareholders,15.0,17.647,14.286,CVX,2019,2.6469999999999985,0.7140000000000004
+10,"Health, environmental and safety",safety,15.0,17.647,14.286,CVX,2019,2.6469999999999985,0.7140000000000004
+0,"Financials (Earnings, Cash flow, Divestiture proceeds)",shareholders,40.0,27.273,20.0,CVX,2020,12.727,20.0
+4,Capital management,shareholders,30.0,18.182,20.0,CVX,2020,11.818000000000001,10.0
+8,Operating performance,shareholders,15.0,18.182,20.0,CVX,2020,3.1819999999999986,5.0
+12,"Health, environmental and safety",safety,15.0,18.182,20.0,CVX,2020,3.1819999999999986,5.0
+16,Individual Performance Factor,other,0.0,18.182,20.0,CVX,2020,18.182,20.0
+0,"Financial results (Earnings, Cash flow, Divestiture proceeds)",shareholders,40.0,25.0,25.0,CVX,2021,15.0,15.0
+4,"Capital management (Return on capital employed, Organic capital and exploratory expenditures, Major milestones)",shareholders,30.0,25.0,25.0,CVX,2021,5.0,5.0
+8,"Operating performance (Net production, Operating expense, Refining utilization)",shareholders,15.0,25.0,25.0,CVX,2021,10.0,10.0
+12,"Health, environmental and safety (Personal safety, Process safety and environmental, Greenhouse gas management)",safety,15.0,25.0,25.0,CVX,2021,10.0,10.0
+0,Financial Results,shareholders,35.0,25.0,25.0,CVX,2022,10.0,10.0
+1,Capital Management,shareholders,30.0,25.0,25.0,CVX,2022,5.0,5.0
+2,Operating and Safety Performance,safety,25.0,25.0,25.0,CVX,2022,0.0,0.0
+3,Energy Transition,environment,10.0,25.0,25.0,CVX,2022,15.0,15.0
+0,Financial results (weighted 35%),shareholders,35.0,20.0,20.0,CVX,2023,15.0,15.0
+1,Capital & cost management (weighted 30%),shareholders,30.0,20.0,20.0,CVX,2023,10.0,10.0
+2,Operating & safety performance (weighted 25%),safety,25.0,20.0,20.0,CVX,2023,5.0,5.0
+3,Energy transition (weighted 10%),environment,10.0,20.0,20.0,CVX,2023,10.0,10.0
+4,Individual performance (individual bonus component),other,0.0,20.0,20.0,CVX,2023,20.0,20.0
+0,Financial results,shareholders,35.0,22.222,20.0,CVX,2024,12.777999999999999,15.0
+1,Capital & cost management,shareholders,30.0,22.222,20.0,CVX,2024,7.777999999999999,10.0
+2,Operating & safety performance,safety,25.0,22.222,20.0,CVX,2024,2.7779999999999987,5.0
+3,Lower carbon,environment,10.0,22.222,20.0,CVX,2024,12.222000000000001,10.0
+4,Individual performance,other,0.0,11.111,20.0,CVX,2024,11.111,20.0
+0,Achieve a 10% after-tax rate of return on capital expenditure program,shareholders,25.0,16.667,16.667,EOG,2016,8.332999999999998,8.332999999999998
+1,Achieve the following production and unit cost targets,shareholders,15.0,16.667,16.667,EOG,2016,1.6670000000000016,1.6670000000000016
+3,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,10.0,16.667,16.667,EOG,2016,6.667000000000002,6.667000000000002
+4,"Maintain a year-end net debt-to-total capitalization ratio of less than 25%, excluding material acquisitions; develop a preliminary 2016 funding plan by year-end",integrity,5.0,16.667,16.667,EOG,2016,11.667000000000002,11.667000000000002
+5,Strategic and other operational goals,other,45.0,16.667,16.667,EOG,2016,28.333,28.333
+10,Adjusted Non-GAAP Net Income positive funding threshold,shareholders,0.0,16.667,16.667,EOG,2016,16.667,16.667
+0,Achieve a 20% direct after-tax rate of return and 10% all-in after-tax rate of return on total capital expenditures,shareholders,30.0,20.0,20.0,EOG,2017,10.0,10.0
+1,Achieve the following production and unit cost targets,shareholders,15.0,20.0,20.0,EOG,2017,5.0,5.0
+2,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,10.0,20.0,20.0,EOG,2017,10.0,10.0
+3,Maintain flexible CAPEX plan to reduce net debt below year-end 2015 level,shareholders,5.0,20.0,20.0,EOG,2017,15.0,15.0
+4,Strategic and other operational goals,other,40.0,20.0,20.0,EOG,2017,20.0,20.0
+0,Achieve a 30% direct after-tax rate of return and 20% all-in after-tax rate of return on total capital expenditures,shareholders,30.0,20.0,20.0,EOG,2018,10.0,10.0
+1,Achieve the following production and unit cost targets,shareholders,15.0,20.0,20.0,EOG,2018,5.0,5.0
+3,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,10.0,20.0,20.0,EOG,2018,10.0,10.0
+4,Balance discretionary cash flow to CAPEX plus dividend and reduce net debt-to-total capitalization ratio below 28%,shareholders,5.0,20.0,20.0,EOG,2018,15.0,15.0
+5,Strategic and other operational goals,shareholders,40.0,20.0,20.0,EOG,2018,20.0,20.0
+0,Achieve 45% all-in after-tax rate of return on total capital expenditures,shareholders,20.0,18.182,16.667,EOG,2019,1.8180000000000014,3.3329999999999984
+1,Achieve double-digit ROCE,shareholders,15.0,18.182,16.667,EOG,2019,3.1819999999999986,1.6670000000000016
+2,Generate free cash flow and reduce net debt-to-total capitalization ratio,shareholders,10.0,18.182,16.667,EOG,2019,8.181999999999999,6.667000000000002
+3,Achieve the following production and unit cost targets,shareholders,10.0,18.182,16.667,EOG,2019,8.181999999999999,6.667000000000002
+6,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,5.0,18.182,16.667,EOG,2019,13.181999999999999,11.667000000000002
+7,Strategic and other operational goals,other,40.0,9.091,16.667,EOG,2019,30.909,23.333
+0,Achieve 45% all-in after-tax rate of return on total capital expenditures,shareholders,20.0,16.667,16.667,EOG,2020,3.3329999999999984,3.3329999999999984
+1,Achieve double-digit ROCE,shareholders,15.0,16.667,16.667,EOG,2020,1.6670000000000016,1.6670000000000016
+2,Generate free cash flow and reduce net debt-to-total capitalization ratio,shareholders,10.0,16.667,16.667,EOG,2020,6.667000000000002,6.667000000000002
+3,Achieve the following production and unit cost targets,shareholders,10.0,16.667,16.667,EOG,2020,6.667000000000002,6.667000000000002
+9,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,5.0,16.667,16.667,EOG,2020,11.667000000000002,11.667000000000002
+10,Strategic and other operational goals,shareholders,40.0,16.667,16.667,EOG,2020,23.333,23.333
+0,Achieve 45% all-in after-tax rate of return on total capital expenditures,shareholders,20.0,16.667,14.286,EOG,2021,3.3329999999999984,5.714
+1,Achieve double-digit ROCE,shareholders,15.0,8.333,14.286,EOG,2021,6.667,0.7140000000000004
+2,Generate free cash flow of $1.2 billion and reduce net debt-to-total capitalization ratio,shareholders,10.0,16.667,14.286,EOG,2021,6.667000000000002,4.286
+3,Achieve the following production and unit cost targets,shareholders,5.0,16.667,14.286,EOG,2021,11.667000000000002,9.286
+9,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,5.0,8.333,14.286,EOG,2021,3.333,9.286
+10,"Improve strong safety and environmental record, including a reduction in methane, GHG and flaring intensity rates",safety,5.0,16.667,14.286,EOG,2021,11.667000000000002,9.286
+12,Strategic and other operational goals,other,40.0,16.667,14.286,EOG,2021,23.333,25.714
+0,Achieve 35% all-in after-tax rate of return on total capital expenditures,shareholders,15.0,20.0,16.667,EOG,2022,5.0,1.6670000000000016
+1,Achieve double-digit ROCE,shareholders,15.0,10.0,16.667,EOG,2022,5.0,1.6670000000000016
+2,Generate free cash flow of $1.75 billion and reduce net debt-to-total capitalization ratio,shareholders,15.0,20.0,16.667,EOG,2022,5.0,1.6670000000000016
+3,Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,7.5,10.0,16.667,EOG,2022,2.5,9.167000000000002
+4,"Improve strong safety and environmental record, including a reduction in methane, GHG and flaring intensity rates and improvement in wellhead gas capture rate",environment,7.5,20.0,16.667,EOG,2022,12.5,9.167000000000002
+8,Strategic and other operational goals,shareholders,40.0,20.0,16.667,EOG,2022,20.0,23.333
+0,Achieve 35% all-in after-tax rate of return on total capital expenditures,shareholders,15.0,18.182,16.667,EOG,2023,3.1819999999999986,1.6670000000000016
+1,Achieve 25% ROCE,shareholders,15.0,18.182,16.667,EOG,2023,3.1819999999999986,1.6670000000000016
+2,Generate free cash flow of $6 billion before dividends,shareholders,15.0,18.182,16.667,EOG,2023,3.1819999999999986,1.6670000000000016
+3,Achieve top four in peer group in absolute stock price performance and forward-year cash flow multiple,shareholders,7.5,9.091,16.667,EOG,2023,1.5909999999999993,9.167000000000002
+4,Improve strong safety and environmental record,safety,10.0,18.182,16.667,EOG,2023,8.181999999999999,6.667000000000002
+9,"Operational and organizational execution goals (finding costs, capital efficiency, well inventory and acreage additions, risk management, unique culture, operational and unit cost targets)",shareholders,37.5,18.182,16.667,EOG,2023,19.318,20.833
+0,Achieve 20% all-in after-tax rate of return on total capital expenditures,shareholders,15.0,18.75,12.5,EOG,2024,3.75,2.5
+1,Achieve 20% ROCE,shareholders,15.0,12.5,12.5,EOG,2024,2.5,2.5
+2,Generate free cash flow of $4.5 billion before dividends,shareholders,15.0,12.5,12.5,EOG,2024,2.5,2.5
+3,Achieve median in peer group in TSR performance and forward-year cash flow multiple,shareholders,5.0,12.5,12.5,EOG,2024,7.5,7.5
+4,Achieve unit cost targets,shareholders,5.0,12.5,12.5,EOG,2024,7.5,7.5
+5,Realize total recordable incident rate below 0.5,safety,7.5,6.25,12.5,EOG,2024,1.25,5.0
+6,Continued commitment to strong environmental record,environment,7.5,12.5,12.5,EOG,2024,5.0,5.0
+11,Operational and organizational execution goals,shareholders,30.0,12.5,12.5,EOG,2024,17.5,17.5
+0,Net Operating Profit After-Taxes (NOPAT),shareholders,60.0,20.0,20.0,HAL,2023,40.0,40.0
+1,Asset Turns,shareholders,20.0,20.0,20.0,HAL,2023,0.0,0.0
+2,GHG Emissions Reduction Performance,environment,10.0,30.0,20.0,HAL,2023,20.0,10.0
+3,DE&I Performance,dei,10.0,20.0,20.0,HAL,2023,10.0,10.0
+12,"Other business performance factors (health, safety, environment, service quality)",other,0.0,10.0,20.0,HAL,2023,10.0,20.0
+0,Sales,shareholders,40.0,37.5,33.333,HD,2017,2.5,6.667000000000002
+1,Operating Profit,shareholders,40.0,37.5,33.333,HD,2017,2.5,6.667000000000002
+2,Inventory Turns,shareholders,20.0,25.0,33.333,HD,2017,5.0,13.332999999999998
+0,Sales,shareholders,40.0,37.5,33.333,HD,2018,2.5,6.667000000000002
+1,Operating Profit,shareholders,40.0,37.5,33.333,HD,2018,2.5,6.667000000000002
+2,Inventory Turns,shareholders,20.0,25.0,33.333,HD,2018,5.0,13.332999999999998
+0,Sales,shareholders,40.0,37.5,33.333,HD,2019,2.5,6.667000000000002
+1,Operating Profit,shareholders,40.0,37.5,33.333,HD,2019,2.5,6.667000000000002
+2,Inventory Turns,shareholders,20.0,25.0,33.333,HD,2019,5.0,13.332999999999998
+0,Sales,shareholders,45.0,37.5,33.333,HD,2020,7.5,11.667000000000002
+1,Operating Profit,shareholders,45.0,37.5,33.333,HD,2020,7.5,11.667000000000002
+2,Inventory Turns,shareholders,10.0,25.0,33.333,HD,2020,15.0,23.333
+0,Sales,shareholders,45.0,37.5,33.333,HD,2021,7.5,11.667000000000002
+1,Operating Profit,shareholders,45.0,37.5,33.333,HD,2021,7.5,11.667000000000002
+2,Inventory Turns,shareholders,10.0,25.0,33.333,HD,2021,15.0,23.333
+0,Sales,shareholders,45.0,37.5,33.333,HD,2022,7.5,11.667000000000002
+1,Operating Profit,shareholders,45.0,37.5,33.333,HD,2022,7.5,11.667000000000002
+2,Inventory Turns,shareholders,10.0,25.0,33.333,HD,2022,15.0,23.333
+0,Sales,shareholders,45.0,37.5,33.333,HD,2023,7.5,11.667000000000002
+1,Operating Profit,shareholders,45.0,37.5,33.333,HD,2023,7.5,11.667000000000002
+2,Inventory Turns,shareholders,10.0,25.0,33.333,HD,2023,15.0,23.333
+0,Sales,shareholders,45.0,33.333,33.333,HD,2024,11.667000000000002,11.667000000000002
+1,Operating Profit,shareholders,45.0,33.333,33.333,HD,2024,11.667000000000002,11.667000000000002
+2,Inventory Turns,shareholders,10.0,33.333,33.333,HD,2024,23.333,23.333
+0,Operating Net Income,shareholders,40.0,20.0,16.667,IBM,2016,20.0,23.333
+1,Strategic Imperatives Revenue,shareholders,20.0,30.0,16.667,IBM,2016,10.0,3.3329999999999984
+2,Operating Cash Flow,shareholders,40.0,20.0,16.667,IBM,2016,20.0,23.333
+3,Client experience,customers,0.0,10.0,16.667,IBM,2016,10.0,16.667
+4,Market share growth,shareholders,0.0,10.0,16.667,IBM,2016,10.0,16.667
+5,Workforce development,employees,0.0,10.0,16.667,IBM,2016,10.0,16.667
+0,Operating Net Income,shareholders,40.0,27.273,16.667,IBM,2017,12.727,23.333
+1,Strategic Imperatives Revenue,shareholders,20.0,27.273,16.667,IBM,2017,7.273,3.3329999999999984
+2,Operating Cash Flow,shareholders,40.0,18.182,16.667,IBM,2017,21.818,23.333
+3,Client experience,customers,0.0,9.091,16.667,IBM,2017,9.091,16.667
+4,Market share growth,shareholders,0.0,9.091,16.667,IBM,2017,9.091,16.667
+5,Workforce development,employees,0.0,9.091,16.667,IBM,2017,9.091,16.667
+0,Strategic Imperatives Revenue,shareholders,20.0,42.857,33.333,IBM,2018,22.857,13.332999999999998
+1,Operating Net Income,shareholders,40.0,28.571,33.333,IBM,2018,11.428999999999998,6.667000000000002
+2,Operating Cash Flow,shareholders,40.0,28.571,33.333,IBM,2018,11.428999999999998,6.667000000000002
+0,Strategic Imperatives Revenue,shareholders,20.0,33.333,33.333,IBM,2019,13.332999999999998,13.332999999999998
+1,Operating Net Income,shareholders,40.0,33.333,33.333,IBM,2019,6.667000000000002,6.667000000000002
+2,Operating Cash Flow,shareholders,40.0,33.333,33.333,IBM,2019,6.667000000000002,6.667000000000002
+0,IBM Revenue,shareholders,20.0,33.333,33.333,IBM,2021,13.332999999999998,13.332999999999998
+1,Operating Net Income,shareholders,40.0,33.333,33.333,IBM,2021,6.667000000000002,6.667000000000002
+2,Operating Cash Flow,shareholders,40.0,33.333,33.333,IBM,2021,6.667000000000002,6.667000000000002
+0,Absolute Financial Component (year-over-year net income growth),shareholders,25.0,33.333,33.333,INTC,2016,8.332999999999998,8.332999999999998
+1,Relative Financial Component (net income growth relative to technology peers),shareholders,25.0,33.333,33.333,INTC,2016,8.332999999999998,8.332999999999998
+2,Operational Performance Component,other,50.0,33.333,33.333,INTC,2016,16.667,16.667
+0,Absolute Financial Component (year-over-year net income growth),shareholders,25.0,33.333,33.333,INTC,2017,8.332999999999998,8.332999999999998
+1,Relative Financial Component (net income growth relative to technology peers),shareholders,25.0,33.333,33.333,INTC,2017,8.332999999999998,8.332999999999998
+2,Operational Performance Component (business unit operational goals),other,50.0,33.333,33.333,INTC,2017,16.667,16.667
+0,Absolute Financial Performance (adjusted net income vs prior year),shareholders,25.0,22.222,25.0,INTC,2018,2.7779999999999987,0.0
+1,Relative Financial Performance (adjusted net income growth vs peer group),shareholders,25.0,22.222,25.0,INTC,2018,2.7779999999999987,0.0
+2,"Operational Performance (business unit goals, corporate average of 10 business units)",shareholders,50.0,33.333,25.0,INTC,2018,16.667,25.0
+4,Individual performance-based adjustment,other,0.0,22.222,25.0,INTC,2018,22.222,25.0
+0,Absolute Financial Performance (year-over-year growth of adjusted net income),shareholders,25.0,37.5,25.0,INTC,2019,12.5,0.0
+1,Relative Financial Performance (net income growth vs. technology peer companies),shareholders,25.0,25.0,25.0,INTC,2019,0.0,0.0
+2,Operational Performance (business unit operational goals),other,50.0,25.0,25.0,INTC,2019,25.0,25.0
+4,Individual performance-based adjustment (20%),other,0.0,12.5,25.0,INTC,2019,12.5,25.0
+0,Net income growth,shareholders,25.0,33.333,33.333,INTC,2020,8.332999999999998,8.332999999999998
+1,Relative net income growth vs. tech peers,shareholders,25.0,33.333,33.333,INTC,2020,8.332999999999998,8.332999999999998
+2,Operational goals,other,50.0,33.333,33.333,INTC,2020,16.667,16.667
+0,Year-Over-Year Net Income Growth,shareholders,33.33,28.571,33.333,INTC,2021,4.758999999999997,0.0030000000000001137
+1,Relative Net Income Growth vs. Tech 15 peers,shareholders,33.33,28.571,33.333,INTC,2021,4.758999999999997,0.0030000000000001137
+2,One Intel Operational goals,other,33.33,42.857,33.333,INTC,2021,9.527000000000001,0.0030000000000001137
+0,Revenue,shareholders,33.33,28.571,33.333,INTC,2022,4.758999999999997,0.0030000000000001137
+1,Net Income,shareholders,33.33,28.571,33.333,INTC,2022,4.758999999999997,0.0030000000000001137
+2,One Intel operational goals,other,33.33,42.857,33.333,INTC,2022,9.527000000000001,0.0030000000000001137
+0,Revenue (Non-GAAP),shareholders,20.0,25.0,20.0,INTC,2024,5.0,0.0
+1,Gross Margin Percentage (Non-GAAP),shareholders,20.0,16.667,20.0,INTC,2024,3.3329999999999984,0.0
+2,Spend Reduction,shareholders,20.0,16.667,20.0,INTC,2024,3.3329999999999984,0.0
+3,One Intel Operational Goals,other,20.0,25.0,20.0,INTC,2024,5.0,0.0
+14,Individual Performance Goals,other,20.0,16.667,20.0,INTC,2024,3.3329999999999984,0.0
+0,Enterprise Financial Goals: Operational Sales,shareholders,23.3,33.333,25.0,JNJ,2022,10.032999999999998,1.6999999999999993
+1,Adjusted Operational EPS,shareholders,23.3,22.222,25.0,JNJ,2022,1.0779999999999994,1.6999999999999993
+2,Free Cash Flow,shareholders,23.3,22.222,25.0,JNJ,2022,1.0779999999999994,1.6999999999999993
+3,Enterprise Long-Term Strategic Goals,shareholders,30.0,22.222,25.0,JNJ,2022,7.777999999999999,5.0
+0,Operational Sales,shareholders,23.3,22.222,25.0,JNJ,2023,1.0779999999999994,1.6999999999999993
+1,Adjusted Operational EPS,shareholders,23.3,22.222,25.0,JNJ,2023,1.0779999999999994,1.6999999999999993
+2,Free Cash Flow,shareholders,23.3,22.222,25.0,JNJ,2023,1.0779999999999994,1.6999999999999993
+3,Enterprise Strategic Goals,other,30.0,33.333,25.0,JNJ,2023,3.3329999999999984,5.0
+0,Enterprise financial goals (Operational sales),shareholders,70.0,50.0,50.0,JNJ,2024,20.0,20.0
+4,Enterprise long-term strategic goals,other,30.0,50.0,50.0,JNJ,2024,20.0,20.0
+0,"Business Results (absolute and relative multi-year financial performance: Managed Revenue, Pre-tax income ex. LLR, Net Income, ROTCE)",shareholders,50.0,33.333,25.0,JPM,2024,16.667,25.0
+1,"Risk, Controls & Conduct",integrity,50.0,22.222,25.0,JPM,2024,27.778,25.0
+4,Focus on customer experience,customers,0.0,4.444,5.0,JPM,2024,4.444,5.0
+5,Serving a diverse customer base,dei,0.0,4.444,5.0,JPM,2024,4.444,5.0
+6,Investing in and supporting our communities,community,0.0,4.444,5.0,JPM,2024,4.444,5.0
+7,Delivery on external DEI commitments,dei,0.0,4.444,5.0,JPM,2024,4.444,5.0
+8,Integrating environmental sustainability into business decisions,environment,0.0,4.444,5.0,JPM,2024,4.444,5.0
+9,"Creating an open, respectful, inclusive culture",employees,0.0,5.556,8.333,JPM,2024,5.556,8.333
+10,"Active attraction, retention, promotion and upskilling of talent",employees,0.0,11.111,8.333,JPM,2024,11.111,8.333
+11,Delivery on internal DEI initiatives,dei,0.0,5.556,8.333,JPM,2024,5.556,8.333
+0,Revenue performance,shareholders,25.0,33.333,33.333,LLY,2016,8.332999999999998,8.332999999999998
+1,EPS performance,shareholders,50.0,33.333,33.333,LLY,2016,16.667,16.667
+2,Pipeline progress,innovation,25.0,33.333,33.333,LLY,2016,8.332999999999998,8.332999999999998
+0,Revenue performance,shareholders,25.0,33.333,33.333,LLY,2017,8.332999999999998,8.332999999999998
+1,EPS performance,shareholders,50.0,33.333,33.333,LLY,2017,16.667,16.667
+2,Pipeline progress,innovation,25.0,33.333,33.333,LLY,2017,8.332999999999998,8.332999999999998
+0,Revenue performance,shareholders,25.0,28.571,33.333,LLY,2018,3.5710000000000015,8.332999999999998
+1,EPS performance,shareholders,50.0,28.571,33.333,LLY,2018,21.429,16.667
+2,Pipeline progress,innovation,25.0,42.857,33.333,LLY,2018,17.857,8.332999999999998
+0,Revenue performance,shareholders,25.0,22.222,25.0,LLY,2019,2.7779999999999987,0.0
+1,EPS performance,shareholders,50.0,22.222,25.0,LLY,2019,27.778,25.0
+2,Pipeline progress,innovation,25.0,33.333,25.0,LLY,2019,8.332999999999998,0.0
+8,Maximum annual cash bonus as percent of non-GAAP net income (EOIP),shareholders,0.0,22.222,25.0,LLY,2019,22.222,25.0
+0,Revenue performance,shareholders,25.0,33.333,33.333,LLY,2020,8.332999999999998,8.332999999999998
+1,EPS performance,shareholders,50.0,33.333,33.333,LLY,2020,16.667,16.667
+2,Pipeline progress,innovation,25.0,33.333,33.333,LLY,2020,8.332999999999998,8.332999999999998
+0,Revenue performance,shareholders,25.0,33.333,33.333,LLY,2021,8.332999999999998,8.332999999999998
+1,EPS performance,shareholders,50.0,33.333,33.333,LLY,2021,16.667,16.667
+2,Pipeline progress,innovation,25.0,33.333,33.333,LLY,2021,8.332999999999998,8.332999999999998
+0,Revenue performance,shareholders,25.0,28.571,33.333,LLY,2022,3.5710000000000015,8.332999999999998
+1,EPS performance,shareholders,50.0,28.571,33.333,LLY,2022,21.429,16.667
+2,Pipeline progress,innovation,25.0,42.857,33.333,LLY,2022,17.857,8.332999999999998
+0,Revenue performance,shareholders,25.0,28.571,33.333,LLY,2023,3.5710000000000015,8.332999999999998
+1,EPS performance,shareholders,50.0,28.571,33.333,LLY,2023,21.429,16.667
+2,Pipeline progress,innovation,25.0,42.857,33.333,LLY,2023,17.857,8.332999999999998
+0,Revenue performance,shareholders,25.0,28.571,33.333,LLY,2024,3.5710000000000015,8.332999999999998
+1,EPS performance,shareholders,50.0,28.571,33.333,LLY,2024,21.429,16.667
+2,Pipeline progress,innovation,25.0,42.857,33.333,LLY,2024,17.857,8.332999999999998
+0,EBIT,shareholders,60.0,33.333,33.333,LOW,2017,26.667,26.667
+1,Sales,shareholders,25.0,33.333,33.333,LOW,2017,8.332999999999998,8.332999999999998
+2,Leadership Effectiveness,employees,15.0,33.333,33.333,LOW,2017,18.333,18.333
+0,EBIT,shareholders,60.0,33.333,33.333,LOW,2018,26.667,26.667
+1,sales,shareholders,25.0,33.333,33.333,LOW,2018,8.332999999999998,8.332999999999998
+2,strategic initiatives,other,15.0,33.333,33.333,LOW,2018,18.333,18.333
+0,Operating income,shareholders,60.0,33.333,33.333,LOW,2019,26.667,26.667
+1,Sales,shareholders,25.0,33.333,33.333,LOW,2019,8.332999999999998,8.332999999999998
+2,Strategic initiatives,other,15.0,33.333,33.333,LOW,2019,18.333,18.333
+0,Adjusted sales,shareholders,45.0,33.333,33.333,LOW,2020,11.667000000000002,11.667000000000002
+1,Adjusted operating income,shareholders,45.0,33.333,33.333,LOW,2020,11.667000000000002,11.667000000000002
+2,Inventory improvement,shareholders,10.0,33.333,33.333,LOW,2020,23.333,23.333
+0,Sales,shareholders,40.0,25.0,25.0,LOW,2021,15.0,15.0
+1,Operating income,shareholders,40.0,25.0,25.0,LOW,2021,15.0,15.0
+2,Inventory improvement,shareholders,10.0,25.0,25.0,LOW,2021,15.0,15.0
+3,Pro sales growth,shareholders,10.0,25.0,25.0,LOW,2021,15.0,15.0
+0,Sales,shareholders,40.0,25.0,25.0,LOW,2022,15.0,15.0
+1,Operating income,shareholders,40.0,25.0,25.0,LOW,2022,15.0,15.0
+2,Inventory turnover,shareholders,10.0,25.0,25.0,LOW,2022,15.0,15.0
+3,Pro sales growth,shareholders,10.0,25.0,25.0,LOW,2022,15.0,15.0
+0,Sales,shareholders,40.0,25.0,25.0,LOW,2023,15.0,15.0
+1,Operating Income,shareholders,40.0,25.0,25.0,LOW,2023,15.0,15.0
+2,Inventory Turnover,shareholders,10.0,25.0,25.0,LOW,2023,15.0,15.0
+3,Pro Sales Growth,shareholders,10.0,25.0,25.0,LOW,2023,15.0,15.0
+0,Sales,shareholders,40.0,25.0,25.0,LOW,2024,15.0,15.0
+1,Operating Income,shareholders,40.0,25.0,25.0,LOW,2024,15.0,15.0
+2,Inventory Turnover,shareholders,10.0,25.0,25.0,LOW,2024,15.0,15.0
+3,Pro Sales Growth,customers,10.0,25.0,25.0,LOW,2024,15.0,15.0
+0,Operating income growth,shareholders,75.0,42.857,33.333,MCD,2020,32.143,41.667
+1,Comparable guest count growth,customers,25.0,28.571,33.333,MCD,2020,3.5710000000000015,8.332999999999998
+2,Delivery sales modifier,customers,0.0,28.571,33.333,MCD,2020,28.571,33.333
+0,Operating income growth,shareholders,50.0,33.333,33.333,MCD,2021,16.667,16.667
+1,Systemwide sales growth,shareholders,25.0,33.333,33.333,MCD,2021,8.332999999999998,8.332999999999998
+2,Comparable guest count growth,shareholders,25.0,33.333,33.333,MCD,2021,8.332999999999998,8.332999999999998
+0,Systemwide sales growth,shareholders,42.5,28.571,33.333,MCD,2022,13.928999999999998,9.167000000000002
+1,Operating income growth,shareholders,42.5,42.857,33.333,MCD,2022,0.3569999999999993,9.167000000000002
+2,Human Capital Metrics,dei,15.0,28.571,33.333,MCD,2022,13.571000000000002,18.333
+0,"Revenue Growth Over Prior Year (Constant Currency, Constant Week)",shareholders,33.33,25.0,25.0,MDT,2017,8.329999999999998,8.329999999999998
+1,Diluted Earnings Per Share Growth (Non-GAAP),shareholders,33.33,25.0,25.0,MDT,2017,8.329999999999998,8.329999999999998
+2,Cash-Flow Indicator,shareholders,33.33,25.0,25.0,MDT,2017,8.329999999999998,8.329999999999998
+0,"Revenue Growth Over Prior Year (Comparable, Constant Currency)",shareholders,33.33,30.0,25.0,MDT,2018,3.3299999999999983,8.329999999999998
+1,Diluted EPS Growth (Non-GAAP),shareholders,33.33,30.0,25.0,MDT,2018,3.3299999999999983,8.329999999999998
+2,Free Cash Flow (Non-GAAP),shareholders,33.33,20.0,25.0,MDT,2018,13.329999999999998,8.329999999999998
+0,"Revenue Growth Over Prior Year (Comparable, Constant Currency)",shareholders,33.33,30.0,25.0,MDT,2019,3.3299999999999983,8.329999999999998
+1,Diluted EPS Growth (Non-GAAP),shareholders,33.33,20.0,25.0,MDT,2019,13.329999999999998,8.329999999999998
+2,Free Cash Flow (Non-GAAP),shareholders,33.33,30.0,25.0,MDT,2019,3.3299999999999983,8.329999999999998
+0,Non-GAAP diluted EPS (FY2021 MIP),shareholders,33.3,33.333,25.0,MDT,2021,0.03300000000000125,8.299999999999997
+1,Revenue Growth (FY2021 MIP),shareholders,33.3,22.222,25.0,MDT,2021,11.077999999999996,8.299999999999997
+2,Free Cash Flow (FY2021 MIP),shareholders,33.3,22.222,25.0,MDT,2021,11.077999999999996,8.299999999999997
+0,Revenue Growth Over Prior Year (Constant Currency),shareholders,25.0,16.667,14.286,MDT,2023,8.332999999999998,10.714
+1,Diluted EPS Growth (Non-GAAP),shareholders,25.0,16.667,14.286,MDT,2023,8.332999999999998,10.714
+2,Free Cash Flow (Non-GAAP),shareholders,25.0,16.667,14.286,MDT,2023,8.332999999999998,10.714
+3,Market Share (Y/Y Share Performance),shareholders,25.0,8.333,14.286,MDT,2023,16.667,10.714
+5,Women Managers + (Total Medtronic),dei,0.0,8.333,7.143,MDT,2023,8.333,7.143
+6,Ethnically Diverse Managers + (US only),dei,0.0,8.333,7.143,MDT,2023,8.333,7.143
+8,Compliance Findings/Inspections (FDA 483),integrity,0.0,8.333,4.762,MDT,2023,8.333,4.762
+9,FCA Execution Timelines,safety,0.0,4.167,4.762,MDT,2023,4.167,4.762
+10,Complaint Timeliness Execution,customers,0.0,4.167,4.762,MDT,2023,4.167,4.762
+11,Individual Performance Scorecard,other,0.0,8.333,14.286,MDT,2023,8.333,14.286
+0,Revenue Growth Over Prior Year (Constant Currency),shareholders,33.0,23.077,16.667,MDT,2024,9.922999999999998,16.333
+1,Diluted EPS Growth (Non-GAAP),shareholders,33.0,15.385,16.667,MDT,2024,17.615000000000002,16.333
+2,Free Cash Flow (Non-GAAP),shareholders,33.0,15.385,16.667,MDT,2024,17.615000000000002,16.333
+0,Operating Income Per Barrel,shareholders,15.0,10.526,10.0,MPC,2020,4.474,5.0
+1,Synergy Capture,shareholders,10.0,5.263,10.0,MPC,2020,4.737,0.0
+2,Distributable Cash Flow at MPLX LP,shareholders,10.0,10.526,10.0,MPC,2020,0.5259999999999998,0.0
+3,EBITDA,shareholders,5.0,10.526,10.0,MPC,2020,5.526,5.0
+4,Mechanical Availability,safety,10.0,10.526,10.0,MPC,2020,0.5259999999999998,0.0
+5,Marathon Safety Performance Index,safety,5.0,10.526,10.0,MPC,2020,5.526,5.0
+6,Process Safety Events Rate,safety,5.0,10.526,10.0,MPC,2020,5.526,5.0
+7,Designated Environmental Incidents,environment,5.0,10.526,10.0,MPC,2020,5.526,5.0
+8,Quality Incidents,customers,5.0,10.526,10.0,MPC,2020,5.526,5.0
+9,Individual performance and discretionary factors (remaining 30% of Company performance),shareholders,30.0,10.526,10.0,MPC,2020,19.474,20.0
+0,Operating Income Per Barrel,shareholders,20.0,16.667,16.667,MPC,2021,3.3329999999999984,3.3329999999999984
+1,EBITDA,shareholders,20.0,16.667,16.667,MPC,2021,3.3329999999999984,3.3329999999999984
+2,Distributable Cash Flow at MPLX,shareholders,10.0,16.667,16.667,MPC,2021,6.667000000000002,6.667000000000002
+3,Mechanical Availability,safety,10.0,16.667,16.667,MPC,2021,6.667000000000002,6.667000000000002
+5,Greenhouse Gas Intensity,environment,5.0,4.167,4.167,MPC,2021,0.8330000000000002,0.8330000000000002
+6,Designated Environmental Incidents,environment,5.0,4.167,4.167,MPC,2021,0.8330000000000002,0.8330000000000002
+7,Marathon Safety Performance Index,safety,5.0,4.167,4.167,MPC,2021,0.8330000000000002,0.8330000000000002
+8,Process Safety Events Rate,safety,5.0,4.167,4.167,MPC,2021,0.8330000000000002,0.8330000000000002
+9,Compensation and Organization Development Committee Discretion,shareholders,20.0,16.667,16.667,MPC,2021,3.3329999999999984,3.3329999999999984
+0,Operating Income Per Barrel,shareholders,20.0,12.5,12.5,MPC,2022,7.5,7.5
+1,Adjusted EBITDA per Share,shareholders,20.0,12.5,12.5,MPC,2022,7.5,7.5
+2,Distributable Cash Flow at MPLX per Unit,shareholders,20.0,12.5,12.5,MPC,2022,7.5,7.5
+3,Refining Operating Costs,shareholders,20.0,12.5,12.5,MPC,2022,7.5,7.5
+4,Greenhouse Gas Intensity,environment,5.0,12.5,12.5,MPC,2022,7.5,7.5
+5,Process Safety Events Rate,safety,5.0,12.5,12.5,MPC,2022,7.5,7.5
+6,Designated Environmental Incidents,environment,5.0,12.5,12.5,MPC,2022,7.5,7.5
+7,"Diversity, Equity & Inclusion",dei,5.0,12.5,12.5,MPC,2022,7.5,7.5
+0,Revenue vs. Plan,shareholders,40.0,27.273,25.0,MRK,2017,12.727,15.0
+1,EPS vs. Plan,shareholders,40.0,27.273,25.0,MRK,2017,12.727,15.0
+2,Pipeline Milestones,innovation,20.0,27.273,25.0,MRK,2017,7.273,5.0
+7,Individual performance,other,0.0,18.182,25.0,MRK,2017,18.182,25.0
+0,Revenue,shareholders,40.0,37.5,33.333,MRK,2021,2.5,6.667000000000002
+1,Pre-Tax Income,shareholders,40.0,37.5,33.333,MRK,2021,2.5,6.667000000000002
+2,Pipeline,innovation,20.0,25.0,33.333,MRK,2021,5.0,13.332999999999998
+0,Revenue,shareholders,40.0,33.333,33.333,MRK,2022,6.667000000000002,6.667000000000002
+1,Pre-Tax Income,shareholders,40.0,33.333,33.333,MRK,2022,6.667000000000002,6.667000000000002
+2,Pipeline,innovation,20.0,33.333,33.333,MRK,2022,13.332999999999998,13.332999999999998
+0,Revenue,shareholders,40.0,33.333,33.333,MRK,2023,6.667000000000002,6.667000000000002
+1,Pre-Tax Income,shareholders,40.0,33.333,33.333,MRK,2023,6.667000000000002,6.667000000000002
+2,Pipeline,innovation,20.0,33.333,33.333,MRK,2023,13.332999999999998,13.332999999999998
+0,Business Results,shareholders,40.0,33.333,25.0,MSFT,2016,6.667000000000002,15.0
+1,Product & Strategy,innovation,20.0,22.222,25.0,MSFT,2016,2.2220000000000013,5.0
+2,Customers & Stakeholders,customers,20.0,22.222,25.0,MSFT,2016,2.2220000000000013,5.0
+3,Culture & Organizational Leadership,employees,20.0,22.222,25.0,MSFT,2016,2.2220000000000013,5.0
+0,Incentive Plan revenue,shareholders,25.0,25.0,20.0,MSFT,2017,0.0,5.0
+1,Incentive Plan operating income,shareholders,25.0,25.0,20.0,MSFT,2017,0.0,5.0
+2,Product & strategy,innovation,16.67,16.667,20.0,MSFT,2017,0.0030000000000001137,3.3299999999999983
+3,Customers & stakeholders,customers,16.67,16.667,20.0,MSFT,2017,0.0030000000000001137,3.3299999999999983
+4,Culture & organizational leadership,employees,16.66,16.667,20.0,MSFT,2017,0.0070000000000014495,3.34
+0,Incentive Plan Revenue,shareholders,25.0,25.0,20.0,MSFT,2018,0.0,5.0
+1,Incentive Plan Operating Income,shareholders,25.0,25.0,20.0,MSFT,2018,0.0,5.0
+2,Product & strategy,innovation,16.67,16.667,20.0,MSFT,2018,0.0030000000000001137,3.3299999999999983
+3,Customers & stakeholders,customers,16.67,16.667,20.0,MSFT,2018,0.0030000000000001137,3.3299999999999983
+4,Culture & organizational leadership,employees,16.66,16.667,20.0,MSFT,2018,0.0070000000000014495,3.34
+0,Quantitative financial results,shareholders,50.0,60.0,50.0,MSFT,2019,10.0,0.0
+4,Product & Strategy,shareholders,16.667,13.333,12.5,MSFT,2019,3.3340000000000014,4.167000000000002
+10,Customers & Stakeholders,customers,16.667,6.667,12.5,MSFT,2019,10.000000000000002,4.167000000000002
+15,Culture & Organizational Leadership,employees,16.667,6.667,12.5,MSFT,2019,10.000000000000002,4.167000000000002
+0,Incentive Plan Revenue,shareholders,35.0,25.0,20.0,MSFT,2022,10.0,15.0
+1,Incentive Plan Operating Income,shareholders,35.0,25.0,20.0,MSFT,2022,10.0,15.0
+2,Product & Strategy,shareholders,10.0,16.667,20.0,MSFT,2022,6.667000000000002,10.0
+8,Customers & Stakeholders,customers,10.0,16.667,20.0,MSFT,2022,6.667000000000002,10.0
+12,"Culture, Diversity & Sustainability",employees,10.0,16.667,20.0,MSFT,2022,6.667000000000002,10.0
+0,Incentive Plan Revenue,shareholders,25.0,20.0,20.0,MSFT,2024,5.0,5.0
+1,Incentive Plan Operating Income,shareholders,25.0,20.0,20.0,MSFT,2024,5.0,5.0
+2,Product & Strategy,innovation,16.67,20.0,20.0,MSFT,2024,3.3299999999999983,3.3299999999999983
+3,Customers & Stakeholders,customers,16.67,20.0,20.0,MSFT,2024,3.3299999999999983,3.3299999999999983
+4,"Culture, Diversity & Sustainability",employees,16.66,20.0,20.0,MSFT,2024,3.34,3.34
+0,Adjusted Revenue,shareholders,50.0,50.0,50.0,NKE,2024,0.0,0.0
+1,Adjusted EBIT,shareholders,50.0,50.0,50.0,NKE,2024,0.0,0.0
+0,Cash flow neutrality,shareholders,0.0,22.222,25.0,OXY,2018,22.222,25.0
+1,Return on capital,shareholders,0.0,22.222,25.0,OXY,2018,22.222,25.0
+2,Company performance portion (basket of key company performance metrics),shareholders,80.0,33.333,25.0,OXY,2018,46.667,55.0
+3,Individual performance assessment,other,20.0,22.222,25.0,OXY,2018,2.2220000000000013,5.0
+0,Strategic - Execution of Business Plan,shareholders,30.0,20.0,20.0,OXY,2019,10.0,10.0
+2,Operational,shareholders,25.0,20.0,20.0,OXY,2019,5.0,5.0
+5,Financial,shareholders,30.0,20.0,20.0,OXY,2019,10.0,10.0
+8,Safety/Environmental,safety,15.0,20.0,20.0,OXY,2019,5.0,5.0
+14,Individual performance portion,other,0.0,20.0,20.0,OXY,2019,20.0,20.0
+0,Total Spend per Barrel,shareholders,70.0,33.333,33.333,OXY,2024,36.667,36.667
+1,CROCE,shareholders,0.0,33.333,33.333,OXY,2024,33.333,33.333
+2,Sustainability,environment,30.0,33.333,33.333,OXY,2024,3.3329999999999984,3.3329999999999984
+0,Total Revenue,shareholders,40.0,20.0,20.0,PFE,2018,20.0,20.0
+1,Adjusted Diluted EPS,shareholders,40.0,20.0,20.0,PFE,2018,20.0,20.0
+2,Cash Flow from Operations,shareholders,20.0,20.0,20.0,PFE,2018,0.0,0.0
+3,Qualitative assessment of product pipeline,shareholders,0.0,20.0,20.0,PFE,2018,20.0,20.0
+4,"Business performance as compared to goals in other areas, including management of LOEs",shareholders,0.0,20.0,20.0,PFE,2018,20.0,20.0
+0,Total Revenue,shareholders,40.0,33.333,33.333,PFE,2020,6.667000000000002,6.667000000000002
+1,Adjusted Diluted EPS,shareholders,40.0,33.333,33.333,PFE,2020,6.667000000000002,6.667000000000002
+2,Cash Flow from Operations,shareholders,20.0,33.333,33.333,PFE,2020,13.332999999999998,13.332999999999998
+0,Total Revenue,shareholders,40.0,16.667,16.667,PFE,2022,23.333,23.333
+1,Adjusted Diluted EPS,shareholders,40.0,16.667,16.667,PFE,2022,23.333,23.333
+2,Cash Flow from Operations,shareholders,20.0,16.667,16.667,PFE,2022,3.3329999999999984,3.3329999999999984
+3,Pipeline Achievement Factor,innovation,0.0,16.667,16.667,PFE,2022,16.667,16.667
+4,Other Qualitative Factors,other,0.0,16.667,16.667,PFE,2022,16.667,16.667
+5,Individual performance,other,0.0,16.667,16.667,PFE,2022,16.667,16.667
+0,Total Revenue,shareholders,40.0,25.0,20.0,PFE,2023,15.0,20.0
+1,Adjusted Diluted EPS,shareholders,40.0,25.0,20.0,PFE,2023,15.0,20.0
+2,Cash Flow from Operations,shareholders,20.0,16.667,20.0,PFE,2023,3.3329999999999984,0.0
+4,Pipeline Growth,innovation,0.0,16.667,20.0,PFE,2023,16.667,20.0
+6,Percentage of Vice President and higher roles held by women (globally),dei,0.0,4.167,5.0,PFE,2023,4.167,5.0
+7,Percentage of Vice President and higher roles held by minorities (U.S.),dei,0.0,4.167,5.0,PFE,2023,4.167,5.0
+8,Greenhouse Gas Emissions,environment,0.0,4.167,5.0,PFE,2023,4.167,5.0
+5r,ESG Scorecard (residual),other,0.0,4.167,5.0,PFE,2023,4.167,5.0
+0,"Safety, Process Safety and Operating Excellence",safety,25.0,27.273,20.0,PSX,2016,2.2729999999999997,5.0
+1,Cost Management,shareholders,25.0,18.182,20.0,PSX,2016,6.818000000000001,5.0
+2,ROCE,shareholders,25.0,27.273,20.0,PSX,2016,2.2729999999999997,5.0
+3,Adjusted Earnings,shareholders,25.0,18.182,20.0,PSX,2016,6.818000000000001,5.0
+4,Individual Modifier,other,0.0,9.091,20.0,PSX,2016,9.091,20.0
+0,Adjusted EBITDA,shareholders,40.0,25.0,20.0,PSX,2017,15.0,20.0
+1,Operating Excellence,safety,35.0,25.0,20.0,PSX,2017,10.0,15.0
+6,Adjusted Controllable Costs,shareholders,15.0,16.667,20.0,PSX,2017,1.6670000000000016,5.0
+7,High-Performing Organization,employees,10.0,16.667,20.0,PSX,2017,6.667000000000002,10.0
+8,Individual Modifier,other,0.0,16.667,20.0,PSX,2017,16.667,20.0
+0,Adjusted EBITDA,shareholders,40.0,30.0,25.0,PSX,2018,10.0,15.0
+1,Operating Excellence,safety,35.0,30.0,25.0,PSX,2018,5.0,10.0
+7,Adjusted Controllable Costs,shareholders,15.0,20.0,25.0,PSX,2018,5.0,10.0
+8,High-Performing Organization,employees,10.0,20.0,25.0,PSX,2018,10.0,15.0
+0,Adjusted EBITDA,shareholders,40.0,25.0,20.0,PSX,2019,15.0,20.0
+1,Operating Excellence,safety,35.0,25.0,20.0,PSX,2019,10.0,15.0
+7,Adjusted Controllable Costs,shareholders,15.0,16.667,20.0,PSX,2019,1.6670000000000016,5.0
+8,High-Performing Organization,employees,10.0,16.667,20.0,PSX,2019,6.667000000000002,10.0
+12,Individual Performance Modifier,other,0.0,16.667,20.0,PSX,2019,16.667,20.0
+0,Adjusted EBITDA,shareholders,40.0,20.0,20.0,PSX,2020,20.0,20.0
+1,Operating Excellence,safety,35.0,20.0,20.0,PSX,2020,15.0,15.0
+7,Adjusted Controllable Costs,shareholders,15.0,20.0,20.0,PSX,2020,5.0,5.0
+8,High-Performing Organization,employees,10.0,20.0,20.0,PSX,2020,10.0,10.0
+12,Individual Modifier,other,0.0,20.0,20.0,PSX,2020,20.0,20.0
+0,Adjusted EBITDA,shareholders,40.0,30.0,25.0,PSX,2021,10.0,15.0
+1,Operating Excellence,safety,35.0,30.0,25.0,PSX,2021,5.0,10.0
+6,Adjusted Controllable Costs,shareholders,15.0,20.0,25.0,PSX,2021,5.0,10.0
+7,High-Performing Organization,employees,10.0,20.0,25.0,PSX,2021,10.0,15.0
+0,Adjusted Net Revenue,shareholders,50.0,33.333,33.333,SBUX,2016,16.667,16.667
+1,Adjusted Operating Income,shareholders,50.0,33.333,33.333,SBUX,2016,16.667,16.667
+2,ROIC,shareholders,0.0,33.333,33.333,SBUX,2016,33.333,33.333
+0,Adjusted Net Revenue,shareholders,50.0,37.5,33.333,SBUX,2017,12.5,16.667
+1,Adjusted Operating Income,shareholders,50.0,37.5,33.333,SBUX,2017,12.5,16.667
+2,ROIC,shareholders,0.0,25.0,33.333,SBUX,2017,25.0,33.333
+0,Adjusted Net Revenue,shareholders,50.0,50.0,50.0,SBUX,2018,0.0,0.0
+1,Adjusted Operating Income,shareholders,50.0,50.0,50.0,SBUX,2018,0.0,0.0
+0,Adjusted Net Revenue,shareholders,28.0,33.333,33.333,SBUX,2021,5.332999999999998,5.332999999999998
+1,Adjusted Operating Income,shareholders,42.0,33.333,33.333,SBUX,2021,8.667000000000002,8.667000000000002
+2,Individual Performance Factor,other,30.0,33.333,33.333,SBUX,2021,3.3329999999999984,3.3329999999999984
+0,Adjusted Net Revenue,shareholders,20.0,28.571,33.333,SBUX,2022,8.571000000000002,13.332999999999998
+1,Adjusted Operating Income,shareholders,30.0,28.571,33.333,SBUX,2022,1.4289999999999985,3.3329999999999984
+3,People-positive goals (inclusion and diversity),dei,10.0,10.714,8.333,SBUX,2022,0.7140000000000004,1.6669999999999998
+7,Planet-positive environmental goals,environment,10.0,10.714,8.333,SBUX,2022,0.7140000000000004,1.6669999999999998
+10,"Profit-positive goals (operating margin, comparable store sales, net new stores)",shareholders,10.0,10.714,8.333,SBUX,2022,0.7140000000000004,1.6669999999999998
+14,Living Our Mission and Values/Helping Others Succeed/Strategic and Operational Goals,other,20.0,10.714,8.333,SBUX,2022,9.286,11.667
+0,Adjusted EPS (financial half of annual cash incentive),shareholders,50.0,60.0,50.0,SLB,2018,10.0,0.0
+1,"Personal objectives (strategic, operational and key personal objectives)",other,50.0,40.0,50.0,SLB,2018,10.0,0.0
+0,Adjusted EPS,shareholders,50.0,33.333,25.0,SLB,2019,16.667,25.0
+1,Revenue,shareholders,10.0,22.222,25.0,SLB,2019,12.222000000000001,15.0
+2,Pre-tax operating income (PTOI),shareholders,10.0,22.222,25.0,SLB,2019,12.222000000000001,15.0
+3,"Key personal objectives (strategic, operational and personal objectives)",other,30.0,22.222,25.0,SLB,2019,7.777999999999999,5.0
+0,Adjusted EPS,shareholders,30.0,37.5,33.333,SLB,2020,7.5,3.3329999999999984
+1,Cash flow generation,shareholders,40.0,37.5,33.333,SLB,2020,2.5,6.667000000000002
+2,Key personal objectives,other,30.0,25.0,33.333,SLB,2020,5.0,3.3329999999999984
+0,Cash flow generation,shareholders,40.0,42.857,33.333,SLB,2021,2.8569999999999993,6.667000000000002
+1,Adjusted EBITDA,shareholders,30.0,28.571,33.333,SLB,2021,1.4289999999999985,3.3329999999999984
+2,Key personal objectives,other,30.0,28.571,33.333,SLB,2021,1.4289999999999985,3.3329999999999984
+0,Adjusted EBITDA,shareholders,35.0,37.5,33.333,SLB,2022,2.5,1.6670000000000016
+1,Cash Flow Generation,shareholders,35.0,37.5,33.333,SLB,2022,2.5,1.6670000000000016
+2,Strategic Personal Goals,other,30.0,25.0,33.333,SLB,2022,5.0,3.3329999999999984
+0,Adjusted EBITDA,shareholders,35.0,42.857,33.333,SLB,2023,7.856999999999999,1.6670000000000016
+1,Free Cash Flow,shareholders,35.0,28.571,33.333,SLB,2023,6.4289999999999985,1.6670000000000016
+2,Strategic personal objectives,other,30.0,28.571,33.333,SLB,2023,1.4289999999999985,3.3329999999999984
+0,Adjusted EBITDA,shareholders,35.0,25.0,25.0,SLB,2024,10.0,10.0
+1,Free Cash Flow,shareholders,35.0,25.0,25.0,SLB,2024,10.0,10.0
+2,Quantitative ESG Goals,environment,10.0,25.0,25.0,SLB,2024,15.0,15.0
+5,Individual Goals (strategic personal objectives),other,20.0,25.0,25.0,SLB,2024,5.0,5.0
+0,Sales,shareholders,0.0,30.0,25.0,TGT,2023,30.0,25.0
+1,Incentive Operating Income,shareholders,0.0,30.0,25.0,TGT,2023,30.0,25.0
+2,Financial component,shareholders,67.0,20.0,25.0,TGT,2023,47.0,42.0
+3,Team scorecard,other,33.0,20.0,25.0,TGT,2023,13.0,8.0
+0,Sales,shareholders,0.0,30.0,25.0,TGT,2024,30.0,25.0
+1,Incentive Operating Income,shareholders,0.0,30.0,25.0,TGT,2024,30.0,25.0
+2,Financial component,shareholders,67.0,20.0,25.0,TGT,2024,47.0,42.0
+3,Team scorecard,other,33.0,20.0,25.0,TGT,2024,13.0,8.0
+0,Pre-tax Income for MIP,shareholders,80.0,75.0,50.0,TJX,2019,5.0,30.0
+1,Total Sales for MIP,shareholders,20.0,25.0,50.0,TJX,2019,5.0,30.0
+0,MIP Incentive Pre-Tax Income,shareholders,80.0,60.0,50.0,TJX,2023,20.0,30.0
+1,Key Business Priorities,other,20.0,40.0,50.0,TJX,2023,20.0,30.0
+0,Organic Revenue Growth,shareholders,40.0,33.333,25.0,TMO,2016,6.667000000000002,15.0
+1,Adjusted Operating Income as a Percentage of Revenue,shareholders,15.0,22.222,25.0,TMO,2016,7.222000000000001,10.0
+2,Adjusted Earnings Per Share,shareholders,15.0,22.222,25.0,TMO,2016,7.222000000000001,10.0
+3,Non-financial measures (company-wide),other,30.0,22.222,25.0,TMO,2016,7.777999999999999,5.0
+0,Organic Revenue Growth,shareholders,35.0,20.0,20.0,TMO,2018,15.0,15.0
+1,Adjusted Operating Income as a Percentage of Revenue,shareholders,15.0,20.0,20.0,TMO,2018,5.0,5.0
+2,Adjusted Earnings Per Share,shareholders,15.0,20.0,20.0,TMO,2018,5.0,5.0
+3,Free Cash Flow,shareholders,5.0,20.0,20.0,TMO,2018,15.0,15.0
+4,Non-financial measures,other,30.0,20.0,20.0,TMO,2018,10.0,10.0
+0,Organic revenue growth,shareholders,35.0,20.0,20.0,TMO,2019,15.0,15.0
+1,Adjusted operating margin,shareholders,15.0,20.0,20.0,TMO,2019,5.0,5.0
+2,Adjusted EPS,shareholders,15.0,20.0,20.0,TMO,2019,5.0,5.0
+3,Free cash flow,shareholders,5.0,20.0,20.0,TMO,2019,15.0,15.0
+4,Non-financial performance (strategic assessment),other,30.0,20.0,20.0,TMO,2019,10.0,10.0
+0,Organic revenue growth,shareholders,35.0,20.0,20.0,TMO,2021,15.0,15.0
+1,Adjusted operating margin,shareholders,15.0,20.0,20.0,TMO,2021,5.0,5.0
+2,Adjusted net income,shareholders,15.0,20.0,20.0,TMO,2021,5.0,5.0
+3,Free cash flow,shareholders,5.0,20.0,20.0,TMO,2021,15.0,15.0
+4,Non-financial performance,other,30.0,20.0,20.0,TMO,2021,10.0,10.0
+0,Organic revenue growth,shareholders,35.0,25.0,25.0,TMO,2022,10.0,10.0
+1,Adjusted net income,shareholders,30.0,25.0,25.0,TMO,2022,5.0,5.0
+2,Free cash flow,shareholders,5.0,25.0,25.0,TMO,2022,20.0,20.0
+3,Non-financial performance,other,30.0,25.0,25.0,TMO,2022,5.0,5.0
+0,Organic Revenue Growth,shareholders,35.0,33.333,25.0,TMO,2023,1.6670000000000016,10.0
+1,Adjusted Net Income,shareholders,30.0,22.222,25.0,TMO,2023,7.777999999999999,5.0
+2,Free Cash Flow,shareholders,5.0,22.222,25.0,TMO,2023,17.222,20.0
+3,Non-financial performance,other,30.0,22.222,25.0,TMO,2023,7.777999999999999,5.0
+0,Revenue,shareholders,33.33,20.0,20.0,UNH,2016,13.329999999999998,13.329999999999998
+1,Operating Income,shareholders,33.33,20.0,20.0,UNH,2016,13.329999999999998,13.329999999999998
+3,Stewardship,customers,33.33,20.0,20.0,UNH,2016,13.329999999999998,13.329999999999998
+0,Revenue,shareholders,33.33,20.0,20.0,UNH,2017,13.329999999999998,13.329999999999998
+1,Operating Income,shareholders,33.33,20.0,20.0,UNH,2017,13.329999999999998,13.329999999999998
+3,Stewardship,customers,33.33,20.0,20.0,UNH,2017,13.329999999999998,13.329999999999998
+0,Revenue,shareholders,33.33,33.333,25.0,UNH,2018,0.0030000000000001137,8.329999999999998
+1,Operating Income,shareholders,33.33,22.222,25.0,UNH,2018,11.107999999999997,8.329999999999998
+3,Stewardship,employees,33.33,22.222,25.0,UNH,2018,11.107999999999997,8.329999999999998
+0,Revenue,shareholders,33.33,20.0,20.0,UNH,2019,13.329999999999998,13.329999999999998
+1,Operating Income,shareholders,33.33,20.0,20.0,UNH,2019,13.329999999999998,13.329999999999998
+3,Stewardship,employees,33.33,20.0,20.0,UNH,2019,13.329999999999998,13.329999999999998
+0,Revenue,shareholders,30.0,22.222,25.0,UNH,2021,7.777999999999999,5.0
+1,Operating Income,shareholders,30.0,33.333,25.0,UNH,2021,3.3329999999999984,5.0
+2,Cash Flows from Operations,shareholders,15.0,22.222,25.0,UNH,2021,7.222000000000001,10.0
+3,Stewardship: Net Promoter Score (NPS) and Employee Experience Index (EXI),customers,25.0,22.222,25.0,UNH,2021,2.7779999999999987,0.0
+0,Revenue,shareholders,30.0,25.0,25.0,UNH,2022,5.0,5.0
+1,Operating Income,shareholders,30.0,25.0,25.0,UNH,2022,5.0,5.0
+2,Cash Flows from Operations,shareholders,15.0,25.0,25.0,UNH,2022,10.0,10.0
+3,Stewardship,other,25.0,25.0,25.0,UNH,2022,0.0,0.0
+0,Revenue,shareholders,30.0,25.0,25.0,UNH,2023,5.0,5.0
+1,Operating Income,shareholders,30.0,25.0,25.0,UNH,2023,5.0,5.0
+2,Cash Flows from Operations,shareholders,15.0,25.0,25.0,UNH,2023,10.0,10.0
+3,Stewardship,other,25.0,25.0,25.0,UNH,2023,0.0,0.0
+0,Earnings Per Share (EPS) - Financial Performance Goal,shareholders,40.0,14.286,14.286,VLO,2016,25.714,25.714
+1,"Health, Safety, and Environmental",safety,13.33,14.286,14.286,VLO,2016,0.9559999999999995,0.9559999999999995
+2,Mechanical Availability,shareholders,13.33,14.286,14.286,VLO,2016,0.9559999999999995,0.9559999999999995
+3,Cost Management and Expense Control,shareholders,13.34,14.286,14.286,VLO,2016,0.9459999999999997,0.9459999999999997
+4,Company Goals and Objectives,other,20.0,14.286,14.286,VLO,2016,5.714,5.714
+5,Adjusted Net Cash Provided by Operating Activities (ANC) funding,shareholders,0.0,14.286,14.286,VLO,2016,14.286,14.286
+6,"Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) funding",shareholders,0.0,14.286,14.286,VLO,2016,14.286,14.286
+0,"EPS, adjusted ($/share)",shareholders,40.0,25.0,25.0,VLO,2018,15.0,15.0
+2,"Health, Safety, and Environmental",safety,13.33,8.333,8.333,VLO,2018,4.997,4.997
+3,Mechanical Availability,integrity,13.33,8.333,8.333,VLO,2018,4.997,4.997
+4,Cost Management and Expense Control,shareholders,13.34,8.333,8.333,VLO,2018,5.007,5.007
+5,Strategic Company Goals and Objectives,shareholders,20.0,25.0,25.0,VLO,2018,5.0,5.0
+7,Adjusted Net Cash Provided by Operating Activities and EBITDA (bonus pool funding),shareholders,0.0,25.0,25.0,VLO,2018,25.0,25.0
+0,"EPS, adjusted ($/share)",shareholders,40.0,18.182,20.0,VLO,2020,21.818,20.0
+1,"Health, Safety, and Environmental",safety,13.33,27.273,20.0,VLO,2020,13.943,6.67
+2,Mechanical Availability,shareholders,13.33,18.182,20.0,VLO,2020,4.8519999999999985,6.67
+3,Refining Cash Operating Expense Management,shareholders,13.34,18.182,20.0,VLO,2020,4.841999999999999,6.66
+4,Company Goals and Objectives,shareholders,20.0,18.182,20.0,VLO,2020,1.8180000000000014,0.0
+0,"EPS, adjusted",shareholders,40.0,25.0,20.0,VLO,2023,15.0,20.0
+1,"Health, Safety, and Environment (HSE)",safety,13.33,25.0,20.0,VLO,2023,11.67,6.67
+9,Mechanical Availability,shareholders,13.33,16.667,20.0,VLO,2023,3.3370000000000015,6.67
+10,Refining Cash Operating Expense Management,shareholders,13.34,16.667,20.0,VLO,2023,3.3270000000000017,6.66
+11,Strategic Execution,other,20.0,16.667,20.0,VLO,2023,3.3329999999999984,0.0
+0,Company performance,other,65.0,50.0,50.0,WFC,2023,15.0,15.0
+1,Individual performance,other,35.0,50.0,50.0,WFC,2023,15.0,15.0
+0,Company performance achievement,other,65.0,60.0,50.0,WFC,2024,5.0,15.0
+1,Individual performance achievement,other,35.0,40.0,50.0,WFC,2024,5.0,15.0
+5,Earnings bonus units delayed on cumulative earnings per share (EPS),shareholders,50.0,40.0,50.0,XOM,2018,10.0,0.0
+6,Annual bonus formula based on annual change in earnings,shareholders,50.0,60.0,50.0,XOM,2018,10.0,0.0
+0,Annual Company earnings (% change in annual earnings x 2/3 bonus formula),shareholders,0.0,15.385,16.667,XOM,2023,15.385,16.667
+1,Progress Toward Strategic Objectives—Operations Performance,other,25.0,15.385,16.667,XOM,2023,9.615,8.332999999999998
+2,Progress Toward Strategic Objectives—Financial Performance,shareholders,25.0,15.385,16.667,XOM,2023,9.615,8.332999999999998
+3,Progress Toward Strategic Objectives—Energy Transition,environment,25.0,23.077,16.667,XOM,2023,1.9229999999999983,8.332999999999998
+4,Progress Toward Strategic Objectives—Business Portfolio,shareholders,25.0,15.385,16.667,XOM,2023,9.615,8.332999999999998
+5,"Financial and operating metrics (ROCE, CFOAS, TSR)",shareholders,0.0,15.385,16.667,XOM,2023,15.385,16.667

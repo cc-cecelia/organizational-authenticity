@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "ce0e5975f933d6d7cea19e5df5dddf7228be838fe892010e357889eeea918d68",
+  "est_input_tokens": 17151
+ },
+ "usage": {
+  "input_tokens": 17849,
+  "output_tokens": 571
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we introduced the team scorecard. The scorecard was designed to strongly align non-CEO NEO pay opportunity to our strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "primary team scorecard progress indicators identified at the beginning of the year included increased reliability across channels through out-of-stock management"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The three relative metrics used in our PSU plan are:"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax divided by average invested capital"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PBRSU amount will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third or bottom one-third"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000164",
+  "task": "proposals",
+  "section_words": 1619,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ac39e126ff232b2a29ca4043b956c2d88b26d9b131b3276601dd0330300f2975",
+  "est_input_tokens": 3778
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5110,
+  "output_tokens": 226,
+  "request_id": "req_011CgCAgoaxpoNLhQbGxsDpu"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL CONCERNING SHAREHOLDERS' RIGHT TO ACT BY WRITTEN CONSENT",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to authorize action to act by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "492598998041c51b1b4d7db55efc0d50ee99e522c0b8897adecbaa4e5c02a4f3",
+  "est_input_tokens": 20857
+ },
+ "usage": {
+  "input_tokens": 21273,
+  "output_tokens": 882
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance measures include organic revenue growth, adjusted operating margin, adjusted EPS, free cash flow and other drivers of shareholder value creation of strategic significance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted operating income as a [w] of revenue (\"adjusted operating margin\") | \u2022 Prevalent, industry-relevant measure of profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Given the importance of organic revenue growth and adjusted EPS to our investors, and their significance in assessing how effective the Company is at delivering shareholder value"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow | \u2022 Strong indicator of process discipline and execution capabilities"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee assesses performance in our # identified areas of strategic importance, taking account of the Company's overall mission and commitments to all stakeholders."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Customer allegiance | \u2022 Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Positioning the Company for Accelerated Revenue Growth and Margin Expansion"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Employer of choice/diversity | \u2022 Ensuring the Company remains focused on attracting and retaining high potential employees"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Effectively Execute Capital Deployment Strategy | \u2022 Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Given the importance of organic revenue growth and adjusted EPS to our investors, these measures were used in both the annual and long-term variable compensation programs"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on performance goals tied to organic revenue growth and adjusted EPS (performance-based restricted stock units)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Legacy award of performance-based stock options, subject to #-year relative TSR performance over # periods spanning #\u2013 #"
+   }
+  ],
+  "equal_split": []
+ }
+}

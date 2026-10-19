@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "7eca51c204317fe07aa1f04def664f6f82c1c3fc27f8a516c5bb4558ac0fdbdf",
+  "est_input_tokens": 21181
+ },
+ "usage": {
+  "input_tokens": 24097,
+  "output_tokens": 322
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "a significant portion of compensation provided to our NEOs is in the form of long-term equity awards, including PRSUs"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   }
+  ]
+ }
+}

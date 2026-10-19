@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e80e6350abadb959f9b2f55a10b12c907a655cc455d46b7812a021ef5aa95240",
+  "est_input_tokens": 19033
+ },
+ "usage": {
+  "input_tokens": 22641,
+  "output_tokens": 304
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's EBIT (weighted 60% for the CEO and all other NEOs)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "sales (weighted 25% for the CEO and all other NEOs)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "strategic initiatives (weighted 15% for the CEO and all other NEOs)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSUs reported in this column are earned based on the Company's RONCAA over a three-year performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "includes a relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

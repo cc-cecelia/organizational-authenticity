@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "d29933c31205a63d4e2e9c01066a7f85d3a3d752e6584e28c3ea8043ea6886bf",
+  "est_input_tokens": 20306
+ },
+ "usage": {
+  "input_tokens": 22324,
+  "output_tokens": 503
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on full year financial performance against IBM revenue and operating cash flow, the weighted incentive score was 93."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on full year financial performance against IBM revenue and operating cash flow, the weighted incentive score was 93."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This modifier can result in a 5 point reduction, no impact, or 5 point increase to the AIP scoring."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payouts for each executive are calculated using an Individual Contribution Factor (ICF)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the PSU Program has a Relative Return on Invested Capital (ROIC) modifier. The modifier is based on IBM's ROIC performance over the three-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

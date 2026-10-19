@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "22d1335a8558c1a9f6abbbc705862cbe4789417d1def203f669147f1704d2eac",
+  "est_input_tokens": 31458
+ },
+ "usage": {
+  "input_tokens": 32086,
+  "output_tokens": 1194
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Health, Safety, and Environmental ( 20% ) \u25cf Operational ( 30% )"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operational \u2013 125% 30% weighting"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial (Relative Adjusted ROCE) \u2013 122% 30% weighting"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Milestones \u2013 200% 10% weighting"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Energy Transition Milestones \u2013 190% 10% weighting"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events is a measure of the control of process hazards in a facility"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The target was set at $11.2 billion, which was consistent with the operating plan outlined to the marketplace in 2023."
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The target was set at $8.2 billion, which was consistent with the operating plan outlined to the marketplace in 2023."
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational Milestones: In the Lower 48, milestones included delivering on Big 3 unconventional development programs"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Progressing the LNG business through advancing new PALNG, NFE, and NFS projects"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Implementing action plans for priority E&S risks and tracking progress against mitigations"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Refreshing our DEI strategy globally and identifying how to assess progress on each component of diversity, equity, and inclusion."
+   },
+   {
+    "id": 14,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Achieving an annual GHG emissions intensity aligned with our 2030 target trajectory range"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Executing our capital and cost budget for approved MACC projects"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Advancing multiple low carbon opportunities."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR ( 60% ) \u25cf Financial\u2014Relative Adjusted ROCE ( 40% )"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial\u2014Relative Adjusted ROCE ( 40% )"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Executive Restricted Stock Unit Program (35% of LTIP) | Long-term equity-based compensation designed to encourage executive retention"
+   }
+  ],
+  "equal_split": []
+ }
+}

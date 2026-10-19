@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "b30ed9e09eda837d9064d08347dcb2800e3405ac83ce4b4cfa9e089787fe8a41",
+  "est_input_tokens": 18097
+ },
+ "usage": {
+  "input_tokens": 19572,
+  "output_tokens": 579
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The metric for fiscal 2020 PSP awards was \"Adjusted EBIT\", calculated as earnings before interest and taxes"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee selected three-year Relative TSR as the performance metric because it is an objective and transparent measure of long-term shareholder value"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "two equally weighted performance metrics for the fiscal 2020 \u2013 2022 LTIP awards: (1) revenues and (2) diluted earnings per share"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "two equally weighted performance metrics for the fiscal 2020 \u2013 2022 LTIP awards: (1) revenues and (2) diluted earnings per share"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on cumulative revenue growth and cumulative EPS growth, each equally weighted, over the five-year performance period of fiscal 2016 through fiscal 2020"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on cumulative revenue growth and cumulative EPS growth, each equally weighted, over the five-year performance period of fiscal 2016 through fiscal 2020"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "two equally weighted performance metrics for the fiscal 2020 \u2013 2022 LTIP awards: (1) revenues and (2) diluted earnings per share"
+   }
+  ]
+ }
+}

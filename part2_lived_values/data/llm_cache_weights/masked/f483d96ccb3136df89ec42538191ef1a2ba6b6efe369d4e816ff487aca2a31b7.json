@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "f483d96ccb3136df89ec42538191ef1a2ba6b6efe369d4e816ff487aca2a31b7",
+  "est_input_tokens": 20050
+ },
+ "usage": {
+  "input_tokens": 20266,
+  "output_tokens": 3221
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Business result targets were formulated as aggressive stretch goals aligned to Microsoft's financial plan and key growth ambitions."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & Strategy | Outcomes | [w] | Assessment"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & Stakeholders | Outcomes | [w] | Assessment"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Nadella made very significant progress developing and asserting the aspire-to culture for the Company"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Though revenue was slightly below target due to our change in phone strategy, strong gross margin performance and operating expense controls offset the shortfall in revenue"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "resulted in EIP Operating Income of # above target and # growth over the prior year"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "EIP Gross Margin* | #billion, above target"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Annualized Total Shareholder Return"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Reinvent Productivity and Business Processes"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Commercial Cloud ARR experienced more than # growth in fiscal year"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Create More Personal Computing"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Developed and expanded strategic partnerships and business transactions across a range of customers"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Established Microsoft Philanthropies"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Employee sentiment on company direction and confidence in the leadership team remained very high."
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mr. Nadella implemented a multi-year strategy to improve diversity and inclusion."
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Greatest number of new hires in Company history"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "revenue and operating income will no longer be used because they will be included as a key component in our annual cash incentive"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "revenue and operating income will no longer be used because they will be included as a key component in our annual cash incentive"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Commercial Cloud ARR, Commercial Cloud Subscribers, and Windows #MAD metrics incorporated publicly announced"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides an opportunity to receive additional shares only if Microsoft significantly outperforms the market"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "953e665f43c60741add8709183d4d12382268d03054afc781e5d5e3f9e268f7e",
+  "est_input_tokens": 12376
+ },
+ "usage": {
+  "input_tokens": 16052,
+  "output_tokens": 89
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "These are performance-based restricted stock awards that have a 3-year term and vest upon Abbott reaching a minimum return on equity target"
+   }
+  ],
+  "equal_split": []
+ }
+}

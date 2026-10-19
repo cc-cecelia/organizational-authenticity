@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001193125-20-067199",
+  "task": "proposals",
+  "section_words": 3729,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "973bb39a09b7585ed638b2e14cd44e73bfe8f1df6759419b4f79081b948e024f",
+  "est_input_tokens": 8269
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9280,
+  "output_tokens": 543,
+  "request_id": "req_011CgC9eSTY6cB4UPm7vnP1m"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal on Shareholder Right to Remove Directors",
+    "proponent": "James McRitchie and Myra K. Young",
+    "topic_summary": "Asks the board to permit removal of directors by majority vote of shareholders with or without cause.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal on the Right to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to permit shareholders to act by written consent with the minimum votes needed to authorize action at a meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal to Have an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy that the Chairman of the Board be an independent director whenever possible, with phase-in discretion for the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

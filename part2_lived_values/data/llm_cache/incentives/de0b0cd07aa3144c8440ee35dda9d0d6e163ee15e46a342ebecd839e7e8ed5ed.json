@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-092483",
+  "task": "incentives",
+  "section_words": 5940,
+  "section_method": "heading",
+  "cache_key": "de0b0cd07aa3144c8440ee35dda9d0d6e163ee15e46a342ebecd839e7e8ed5ed",
+  "est_input_tokens": 13925
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15534,
+  "output_tokens": 1379,
+  "request_id": "req_011CgCADnxkCfGSvkjDMUQVB"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS was established as the performance criterion for all named executive officers."
+   },
+   {
+    "metric": "ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued to use ROCE equaling or exceeding COE as the performance goal for the 2019 PBRSUs"
+   },
+   {
+    "metric": "COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee approved performance goals based on ROCE and COE with potential payouts ranging from 100% to 200% of the target shares granted."
+   },
+   {
+    "metric": "EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Selected EPS as the performance criterion for the Corporate Executive Bonus Plan and set the target EPS goal for 100% payout"
+   },
+   {
+    "metric": "ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Selected the performance criteria of return on tangible common equity (ROTCE) and COE for the PBRSUs"
+   },
+   {
+    "metric": "COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Selected the performance criteria of return on tangible common equity (ROTCE) and COE for the PBRSUs"
+   }
+  ]
+ }
+}

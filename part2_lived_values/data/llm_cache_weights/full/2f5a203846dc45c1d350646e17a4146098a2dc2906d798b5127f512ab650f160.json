@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "2f5a203846dc45c1d350646e17a4146098a2dc2906d798b5127f512ab650f160",
+  "est_input_tokens": 18140
+ },
+ "usage": {
+  "input_tokens": 19273,
+  "output_tokens": 640
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In June 2022, the Compensation Committee selected three equally-weighted metrics for the fiscal 2023 PSP awards"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Digital Revenue, to support digital growth in connection with our Consumer Direct Acceleration strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EBIT, to manage overall profitability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Consistent with the prior year's awards, the Compensation Committee selected Relative TSR as the metric for the fiscal 2023 \u2013 2025 PSU awards"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The fiscal 2023 \u2013 2025 PSU awards also contain a People & Planet modifier designed to support our commitment to Purpose, which is a key component of our long-term strategy"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "leadership diversity, and sustainability. Structuring the modifier as a holistic assessment"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Sustainability: all nine Planet targets, covering issues regarding carbon, waste, water, and chemistry"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The earnouts for the three equally-weighted metrics were averaged together to calculate a PSP earnout of 145%"
+   }
+  ]
+ }
+}

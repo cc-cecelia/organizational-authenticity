@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "3664178dab37bbdc589842a81d9ae7152be4ab2a2a35f5e1a297fc7b2a55ac48",
+  "est_input_tokens": 6155
+ },
+ "usage": {
+  "input_tokens": 6757,
+  "output_tokens": 211
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The first tranche will vest, or not, based on Alphabet's relative TSR over the two-year performance period from January 2020 to December 2021"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The second tranche will vest, or not, based on Alphabet's relative TSR over the three-year performance period from January 2020 to December 2022"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "long_term_incentive",
+    "evidence": "Two tranches with a target value of $45.0 million each"
+   }
+  ]
+ }
+}

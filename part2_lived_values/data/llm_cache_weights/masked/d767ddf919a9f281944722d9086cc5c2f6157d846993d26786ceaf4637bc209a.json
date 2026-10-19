@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "d767ddf919a9f281944722d9086cc5c2f6157d846993d26786ceaf4637bc209a",
+  "est_input_tokens": 11747
+ },
+ "usage": {
+  "input_tokens": 11922,
+  "output_tokens": 1347
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating income growth requires the Company to balance increases in revenue with financial discipline"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Systemwide sales is important in a franchise business as income generation is closely correlated to sales growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable guest count growth is a measure of the long-term health of our business as well as growing income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the PRSUs are subject to a modifier based on relative TSR measured over the three-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

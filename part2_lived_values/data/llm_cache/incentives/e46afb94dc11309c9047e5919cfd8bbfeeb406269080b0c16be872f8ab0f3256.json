@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001104659-22-041499",
+  "task": "incentives",
+  "section_words": 16116,
+  "section_method": "heading",
+  "cache_key": "e46afb94dc11309c9047e5919cfd8bbfeeb406269080b0c16be872f8ab0f3256",
+  "est_input_tokens": 31334
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 37557,
+  "output_tokens": 122,
+  "request_id": "req_011CgCBmrV5oYueggddrqNbe"
+ },
+ "result": {
+  "metrics": []
+ }
+}

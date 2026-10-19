@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-100407",
+  "task": "proposals",
+  "section_words": 10831,
+  "section_method": "resolved_windows",
+  "cache_key": "7e14536fb614568a99a758666042654f81a8f693f0a9e1d5b59096a36b773c59",
+  "est_input_tokens": 25090
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25423,
+  "output_tokens": 1268,
+  "request_id": "req_011CgCBsosEstsoHn4KhZ7bc"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "stockholder proposal regarding report on lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual report disclosing direct and indirect lobbying policies, payments, recipients, model legislation memberships, and oversight decision-making processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron already provides extensive disclosure on its lobbying activities and expenditures."
+   },
+   {
+    "item_number": "5",
+    "title": "stockholder proposal to create board committee on climate risk",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board charter a new Board Committee on Climate Risk to evaluate climate strategy and report to the full board on climate risks and opportunities.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the full Board already has oversight of the Company's strategy, including the Company's response to climate change"
+   },
+   {
+    "item_number": "6",
+    "title": "stockholder proposal regarding report on climate lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests evaluation and report on whether Chevron's direct and trade association lobbying aligns with Paris Agreement goals and plans to mitigate misalignment.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because your Board believes that a special report is duplicative."
+   },
+   {
+    "item_number": "7",
+    "title": "stockholder proposal regarding report on petrochemical risk",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report assessing public health risks of expanding petrochemical operations in areas prone to climate-induced storms, flooding, and sea level rise.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron Phillips Chemical Company LLC, the joint venture through which Chevron invests in petrochemical operations"
+   },
+   {
+    "item_number": "8",
+    "title": "stockholder proposal regarding report on human rights practices",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent third-party report evaluating effectiveness of Chevron's efforts to prevent, mitigate and remedy human rights impacts of its operations.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal. Chevron is committed to supporting and maintaining the highest standards of ethical conduct and operational excellence."
+   },
+   {
+    "item_number": "9",
+    "title": "stockholder proposal regarding special meetings",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaw amendment giving holders of 10% of outstanding common stock power to call a special shareowners meeting without exceptions applying only to shareowners.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because stockholders have consistently supported Chevron's current By-Law regarding special meetings."
+   },
+   {
+    "item_number": "10",
+    "title": "stockholder proposal regarding independent chairman",
+    "proponent": "not stated",
+    "topic_summary": "Requests policy and bylaw amendment requiring the Board Chair be an independent director whenever possible, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because your Board believes that stockholder interests are best served when Directors have the flexibility to determine the best person to serve as Chairman"
+   }
+  ]
+ }
+}

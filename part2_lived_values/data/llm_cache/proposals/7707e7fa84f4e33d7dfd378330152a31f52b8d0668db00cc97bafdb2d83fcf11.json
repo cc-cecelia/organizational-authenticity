@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-073347",
+  "task": "proposals",
+  "section_words": 18297,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7707e7fa84f4e33d7dfd378330152a31f52b8d0668db00cc97bafdb2d83fcf11",
+  "est_input_tokens": 42192
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 46163,
+  "output_tokens": 1720,
+  "request_id": "req_011CgCA4LrcvBqMVckX7MYJ6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Item 5. Shareholder Proposal Regarding a Report on Lobbying",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests an annually updated report disclosing lobbying policies, payments, trade association memberships, and decision-making oversight for lobbying and grassroots communications.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6. Shareholder Proposal Regarding a Policy for an Independent Chair",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests a board policy requiring separation of the Chairman and CEO roles, with the Chairman an independent director who is not a former CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7. Shareholder Proposal Regarding Chinese Congruency of Certain ETFs",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests a third-party review of whether China-focused ETFs align with the company's human rights and modern slavery commitments, and a board report on mitigation.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Item 8. Shareholder Proposal Regarding a Racial Equity Audit",
+    "proponent": "The Service Employees International Union Master Trust",
+    "topic_summary": "Requests an independent racial equity audit of the company's adverse impacts on nonwhite stakeholders and communities of color, with a publicly disclosed report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Item 9. Shareholder Proposal Regarding a Policy to Phase Out Fossil Fuel-Related Lending & Underwriting Activities",
+    "proponent": "The Sierra Club Foundation, together with Dominican Sisters of Springfield, IL",
+    "topic_summary": "Requests a time-bound policy to phase out lending and underwriting to projects and companies engaged in new fossil fuel exploration and development.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "10",
+    "title": "Item 10. Shareholder Proposal Regarding Disclosure of 2030 Absolute Greenhouse Gas Reduction Goals",
+    "proponent": "The New York City Comptroller, on behalf of New York City pension systems",
+    "topic_summary": "Requests a report disclosing 2030 absolute GHG emissions reduction targets for lending and underwriting in Oil and Gas and Power Generation, aligned with a net zero pathway.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "Item 11. Shareholder Proposal Regarding a Climate Transition Report",
+    "proponent": "Mack Street 2016 Trust, c/o As You Sow, with co-filers Debriana Berlin Rev Tr and United Church Funds",
+    "topic_summary": "Requests a report disclosing a transition plan describing how financing will align with 2030 sectoral GHG reduction targets, with measures and timelines.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Item 12. Shareholder Proposal Regarding Reporting on Pay Equity",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests annual reporting of unadjusted median and adjusted pay gaps across race and gender, including associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

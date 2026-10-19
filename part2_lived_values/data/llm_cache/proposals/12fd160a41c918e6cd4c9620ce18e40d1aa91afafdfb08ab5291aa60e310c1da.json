@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001193125-17-086538",
+  "task": "proposals",
+  "section_words": 2340,
+  "section_method": "resolved_windows",
+  "cache_key": "12fd160a41c918e6cd4c9620ce18e40d1aa91afafdfb08ab5291aa60e310c1da",
+  "est_input_tokens": 5105
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6930,
+  "output_tokens": 11,
+  "request_id": "req_011CgC9zAzg7mPM6PaCHbWEk"
+ },
+ "result": {
+  "proposals": []
+ }
+}

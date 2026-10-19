@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "32027f75f11065cbf2a590b1a1f42519b75d0f8d5bd1941bdc85455b4ca29207",
+  "est_input_tokens": 16214
+ },
+ "usage": {
+  "input_tokens": 16197,
+  "output_tokens": 415
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Net Income | 40%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Imperatives Revenue | 20%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Cash Flow | 40%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Earnings Per Share | 70%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | 30%"
+   }
+  ],
+  "equal_split": []
+ }
+}

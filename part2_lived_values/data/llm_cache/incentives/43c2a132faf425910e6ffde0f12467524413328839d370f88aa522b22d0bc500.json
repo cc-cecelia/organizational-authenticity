@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-093157",
+  "task": "incentives",
+  "section_words": 10209,
+  "section_method": "heading",
+  "cache_key": "43c2a132faf425910e6ffde0f12467524413328839d370f88aa522b22d0bc500",
+  "est_input_tokens": 22997
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26478,
+  "output_tokens": 907,
+  "request_id": "req_011CgC9zFBCGFCeAcKJr7cxs"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Average ROE (absolute and relative ROE) for PSUs",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE (using as reported financial results) over 2018\u20132020, using both absolute and relative metrics"
+   },
+   {
+    "metric": "Absolute ROE",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3-YEAR AVERAGE ABSOLUTE ROE% EARNED"
+   },
+   {
+    "metric": "Relative ROE",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3-YEAR AVERAGE RELATIVE ROE% EARNED"
+   },
+   {
+    "metric": "Average ROE (absolute and relative ROE) for PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The LTIP awards are adjusted upward or downward for each year of the performance period by an amount equal to our annual ROE, subject to an annual 12% cap"
+   },
+   {
+    "metric": "Annual ROE adjustment of LTIP notional value",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the notional values of these awards are adjusted upward or downward for each year of the performance period by an amount equal to our annual \"ROE,\" subject to an annual 12% cap"
+   },
+   {
+    "metric": "Book value per share (change in BVPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee may adjust the calculation of \"ROE\" and change in BVPS for events such as legal, regulatory and/or accounting changes"
+   }
+  ]
+ }
+}

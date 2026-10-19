@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-047986",
+  "task": "incentives",
+  "section_words": 10304,
+  "section_method": "heading",
+  "cache_key": "307bc6ef98edb0acadce3a4382a255453aa434ee0be5937ba4f5c6d126dea961",
+  "est_input_tokens": 22722
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25019,
+  "output_tokens": 1631,
+  "request_id": "req_011CgC9RuydvvtFi4ummpnfF"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Non-GAAP Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "each goal carried an equal weighting of 50% of the corporate performance component"
+   },
+   {
+    "metric": "Non-GAAP Operating Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "non-GAAP operating income as a percentage of non-GAAP revenue for the year exceeded the maximum plan performance metric"
+   },
+   {
+    "metric": "WSD Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "WSD Revenue (25%) | 0%"
+   },
+   {
+    "metric": "WSD Operating Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "WSD Operating Margin (25%) | 0%"
+   },
+   {
+    "metric": "Product Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Product Revenue (20%) | 106%"
+   },
+   {
+    "metric": "Design Wins",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Design Wins (15%) | 88%"
+   },
+   {
+    "metric": "Direct Expenses",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Direct Expenses (20%) (3) | 120%"
+   },
+   {
+    "metric": "Days Sales Outstanding",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Days Sales Outstanding (20%) (4) | 83%"
+   },
+   {
+    "metric": "Zero Audit Adjustments",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Zero Audit Adjustments (10%) | 150%"
+   },
+   {
+    "metric": "Individual performance multiplier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "NEOs were awarded an individual performance multiplier ranging from 100% to 150%, including 150% for Mr. Tan"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "eligible to earn up to a maximum of 240,000 ordinary shares based on our relative TSR as compared to the S&P Index"
+   },
+   {
+    "metric": "Share Price Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "we must achieve a share price growth of at least 130%"
+   },
+   {
+    "metric": "Share price growth (sustained increase in share price)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance criteria for the PRSUs were based on sustained increases in our share price"
+   }
+  ]
+ }
+}

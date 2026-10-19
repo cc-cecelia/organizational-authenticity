@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "1249697d280b01d587a97e7bf53725bb6ec70b411767e6a222d8b1dd6d936ab3",
+  "est_input_tokens": 16953
+ },
+ "usage": {
+  "input_tokens": 18491,
+  "output_tokens": 314
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's adjusted sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income ([w] #) and inventory improvement ([w] #)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income ([w] #) and inventory improvement ([w] #)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "earned based on the Company's achievement of a #-year average ROIC goal, and a relative TSR modifier"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "earned based on the Company's achievement of a #-year average ROIC goal, and a relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

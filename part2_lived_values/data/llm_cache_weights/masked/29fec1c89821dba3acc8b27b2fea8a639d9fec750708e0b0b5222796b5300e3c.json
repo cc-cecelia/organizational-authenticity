@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "29fec1c89821dba3acc8b27b2fea8a639d9fec750708e0b0b5222796b5300e3c",
+  "est_input_tokens": 16758
+ },
+ "usage": {
+  "input_tokens": 16998,
+  "output_tokens": 854
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (#) and Incentive Operating Income (#)."
+   },
+   {
+    "id": 1,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "Financial component is based on: \u2022 Sales \u2022 Incentive Operating Income"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (#) and Incentive Operating Income (#)."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Team scorecard is based on the Compensation & Human Capital Management Committee's assessment of our NEOs' progress toward strategic priorities."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "the specific team scorecard progress indicators included: gain market share at the enterprise level"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Positive progress on three-year enterprise DE&I goals."
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Team member survey results show that our team continues to be engaged in their work"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Growth in same-day services, represented by # growth in Drive Up, Order Pickup, and Shipt"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Completed new store and remodels met or exceeded sales plans for Fiscal #."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs recognize our NEOs for achieving superior long-term relative performance on three key metrics: \u2022 Adjusted Sales growth \u2022 EPS growth \u2022 ROIC"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our PSUs have a three-year performance period with the number of shares based on the following three [w] relative metrics versus our retail peer group:"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC. Average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares earned under the PBRSUs will be adjusted up or down by #age points if Target's TSR is in the top # or bottom #"
+   }
+  ],
+  "equal_split": []
+ }
+}

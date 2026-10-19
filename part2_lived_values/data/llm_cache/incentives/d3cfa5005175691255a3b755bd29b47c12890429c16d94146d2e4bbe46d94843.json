@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001564590-20-027321",
+  "task": "incentives",
+  "section_words": 6304,
+  "section_method": "heading",
+  "cache_key": "d3cfa5005175691255a3b755bd29b47c12890429c16d94146d2e4bbe46d94843",
+  "est_input_tokens": 14521
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15597,
+  "output_tokens": 1840,
+  "request_id": "req_011CgCB9w8sjiQCBkchxuE91"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestone",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Each of the 12 vesting tranches of the 2018 CEO Performance Award vests upon certification by the Board that both (i) the market capitalization milestone for such tranche"
+   },
+   {
+    "metric": "Total Revenue operational milestone",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "metric": "Adjusted EBITDA operational milestone",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "\"Adjusted EBITDA\" means (i) net income (loss) attributable to common stockholders before (ii) interest expense"
+   },
+   {
+    "metric": "Operational milestone relating to development of Model X or Model 3",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production, or a gross margin target"
+   },
+   {
+    "metric": "Aggregate vehicle production milestone",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production, or a gross margin target"
+   },
+   {
+    "metric": "Gross margin milestone (30% or more for four consecutive quarters)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "only one operational milestone, requiring gross margin of 30% or more for four consecutive quarters, has not been achieved and remains outstanding"
+   }
+  ]
+ }
+}

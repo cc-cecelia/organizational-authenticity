@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000222",
+  "task": "proposals",
+  "section_words": 15691,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "b0d758c60f4783568c1152670e83fe33d9bbbab0afaa89fe8add0a0ab4619e17",
+  "est_input_tokens": 33865
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 35395,
+  "output_tokens": 1490,
+  "request_id": "req_011CgC9HBx5dPRuptRwRw1wx"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "James McRitchie and Myra K. Young, and The NorthStar Asset Management Funded Pension Plan",
+    "topic_summary": "Requests the Board initiate a recapitalization plan so all outstanding stock has one vote per share, including negotiating with Class B holders to relinquish preexisting voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding a Lobbying Report",
+    "proponent": "Walden Asset Management, as lead filer, joined by Benedictine Sisters of Monasterio Pan De Vida, Benedictine Sisters of Cullman, Alabama, The Benedictine Sisters of Baltimore, Mercy Investment Services, Inc., The Oblate International Pastoral Investment Trust, and other individuals and organizations",
+    "topic_summary": "Requests an annually updated report on lobbying policies, payments used for direct, indirect and grassroots lobbying, and board and management decision-making oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding a Report on Gender Pay",
+    "proponent": "Arjuna Capital, as lead filer, with Proxy Impact on behalf of CB Wealth Generation, LLC, and Baldwin Brothers Inc. on behalf of Dylan Sage",
+    "topic_summary": "Requests a report on risks to the company from emerging public policies on the gender pay gap, including reputational, competitive, operational risks and recruiting and retaining female talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests elimination of charter and bylaw voting requirements greater than a simple majority, replacing them with a majority of votes cast for and against proposals.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding a Sustainability Metrics Report",
+    "proponent": "Zevin Asset Management, LLC, as lead filer, on behalf of Carol A. Reisen, with co-filers",
+    "topic_summary": "Requests a report assessing feasibility of integrating sustainability metrics, including senior executive diversity metrics, into CEO performance measures under incentive plans.",
+    "category": "environment",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding Board Diversity and Qualifications",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests disclosure of minimum board nominee qualifications and a matrix of each nominee's gender, race/ethnicity, skills, ideological diversity and experience.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding a Report on Content Governance",
+    "proponent": "Arjuna Capital, as lead filer, The New York State Common Retirement Fund, and Bruce Alexander Gaguine, as co-filers",
+    "topic_summary": "Requests a report reviewing the efficacy of enforcement of content policies and assessing risks from content controversies, including election interference, to finances, operations and reputation.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   }
+  ]
+ }
+}

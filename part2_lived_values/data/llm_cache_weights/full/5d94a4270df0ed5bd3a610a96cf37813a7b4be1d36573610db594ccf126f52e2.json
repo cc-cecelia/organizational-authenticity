@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "5d94a4270df0ed5bd3a610a96cf37813a7b4be1d36573610db594ccf126f52e2",
+  "est_input_tokens": 28068
+ },
+ "usage": {
+  "input_tokens": 31594,
+  "output_tokens": 476
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2018 Business Results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk, Controls, and Conduct"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Client/Customer/Stakeholder Focus"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teamwork & Leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "creating a diverse and inclusive environment that encourages employees to speak up"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs link ultimate payout to pre-established absolute and relative ROTCE goals"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs link ultimate payout to pre-established absolute and relative ROTCE goals"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the CMDC does not assign relative weightings to the above categories"
+   }
+  ]
+ }
+}

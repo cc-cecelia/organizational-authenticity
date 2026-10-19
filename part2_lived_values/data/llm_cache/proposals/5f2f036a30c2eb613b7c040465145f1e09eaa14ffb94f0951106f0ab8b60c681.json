@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001193125-23-100079",
+  "task": "proposals",
+  "section_words": 19790,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5f2f036a30c2eb613b7c040465145f1e09eaa14ffb94f0951106f0ab8b60c681",
+  "est_input_tokens": 47109
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 50310,
+  "output_tokens": 2182,
+  "request_id": "req_011CgCBrGnhLRv4TrfP231B4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Establish a New Board Committee on Decarbonization Risk",
+    "proponent": "Bahnsen Family Trust",
+    "topic_summary": "Asks the Board to charter a new committee to review ExxonMobil's strategy and responses to activist-set decarbonization timelines, including decarbonization risks.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Reduce Executive Stock Holding Period",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the executive pay committee to require senior executives to retain 50% of equity pay stock until normal retirement age and prohibit hedging.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Additional Carbon Capture and Storage and Emissions Report",
+    "proponent": "Steve Milloy",
+    "topic_summary": "Asks ExxonMobil to annually report CO2 stored underground from enhanced oil recovery and the net difference versus emissions from burning the produced oil.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Additional Direct Methane Measurement",
+    "proponent": "Sisters of St. Francis Charitable Trust",
+    "topic_summary": "Requests a report analyzing the reliability of ExxonMobil's methane emission disclosures and results of direct measurement efforts.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Establish a Scope 3 Target and Reduce Hydrocarbon Sales",
+    "proponent": "Follow This",
+    "topic_summary": "Requests a medium-term reduction target for Scope 3 emissions from use of energy products consistent with the Paris Agreement goals.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "10",
+    "title": "Additional Report on Worst-case Spill and Response Plans",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests a report evaluating economic, human, and environmental impacts of a worst-case oil spill from Guyana operations and cleanup response commitments.",
+    "category": "safety",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "11",
+    "title": "GHG Reporting on Adjusted Basis",
+    "proponent": "Andrew Behar",
+    "topic_summary": "Requests a recalculated emissions baseline excluding emissions from material asset divestitures since 2016 and a base-year recalculation policy.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "12",
+    "title": "Report on Asset Retirement Obligations Under IEA NZE Scenario",
+    "proponent": "Legal & General Investment Management America, Inc.",
+    "topic_summary": "Requests an audited report estimating quantitative impacts of the IEA NZE scenario on all asset retirement obligations.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "13",
+    "title": "Report on Plastics Under SCS Scenario",
+    "proponent": "Meyer Memorial Trust (S)",
+    "topic_summary": "Requests an audited report on how a significant reduction in virgin plastic demand under the Breaking the Plastic Wave scenario would affect the Company's finances.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "14",
+    "title": "Litigation Disclosure Beyond Legal and Accounting Requirements",
+    "proponent": "Anna Marie Lyles",
+    "topic_summary": "Requests an actuarial assessment of the potential cumulative risk to ExxonMobil from current environment-related litigation.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "15",
+    "title": "Tax Reporting Beyond Legal Requirements",
+    "proponent": "Oxfam America",
+    "topic_summary": "Requests a tax transparency report prepared in consideration of the GRI Tax Standard, excluding confidential information.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "16",
+    "title": "Energy Transition Social Impact Report",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Requests a report on social impact on workers and communities from facility closures or energy transition and mitigation alternatives.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   },
+   {
+    "item_number": "17",
+    "title": "Report on Commitment Against AMAP Work",
+    "proponent": "Green Century Capital Management",
+    "topic_summary": "Requests a report assessing benefits and drawbacks of committing to no oil and gas exploration and production in the AMAP area, including the Arctic Refuge.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board carefully considered this proposal and recommends you vote AGAINST it for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "68d53994560d3f8bcaca9ca1068d45917cccf7f53c2321419b59a6d7038e8473",
+  "est_input_tokens": 14399
+ },
+ "usage": {
+  "input_tokens": 14985,
+  "output_tokens": 938
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a # direct after-tax rate of return* and # all-in after-tax rate of return*, in each case on total capital expenditures*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | # | Exceeded total production target; Achieved most unit cost targets"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production | Achieved #MBbld crude oil and condensate production"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Finished second in peer group in absolute stock price performance and second in peer group in forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Balanced discretionary cash flow to CAPEX plus dividend and reduced net debt-to-total capitalization ratio* from # at year-end #to # at year-end #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as: | # | Substantially achieved"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Achieve positive ROCE* based on non-GAAP earnings*; | Achieved positive non-GAAP earnings* of #million and ROCE* of #"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Increase \"premium\" drilling inventory by #; | Added approximately #net premium drilling locations"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Reduce finding costs; | Reduced finding costs significantly from #levels"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Prove one new \"premium\" exploration play; and | Proved two new \"premium\" exploration plays"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Other strategic goals. | Closed #million in property sales"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A significant performance-based component for our Named Officers through long-term performance awards denominated and paid based on our total stockholder return relative to the total stockholder return of our peer companies."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reward our Named Officers based on EOG's stock performance versus specified peer companies and our absolute stock price performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The resulting assessment of performance against each goal is also provided below."
+   }
+  ]
+ }
+}

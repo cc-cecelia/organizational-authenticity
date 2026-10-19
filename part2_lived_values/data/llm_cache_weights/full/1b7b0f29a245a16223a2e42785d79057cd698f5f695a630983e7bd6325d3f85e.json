@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "1b7b0f29a245a16223a2e42785d79057cd698f5f695a630983e7bd6325d3f85e",
+  "est_input_tokens": 22382
+ },
+ "usage": {
+  "input_tokens": 23463,
+  "output_tokens": 699
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA \u2014 $8.107 billion \u2014 Our 2023 adjusted EBITDA of $8.107 billion represented a 25% increase over 2022"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Free Cash Flow \u2014 $4.038 billion \u2014 Our 2023 free cash flow of $4.038 billion represented a 185% increase over 2022"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "10% Quantitative ESG Goals | Targets to reduce Scope 3 emissions intensity and increase gender diversity"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "Reduce Scope 3 emissions intensity by 7% year on year."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Increase the percentage of women in SLB's salaried population from 23.8% in 2022 to 24.5% in 2023."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "20% was based on strategic personal objectives"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute FCF margin (2023 PSUs) relative ROCE and relative TSR performance goals over a three-year period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative ROCE PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2023 Relative TSR PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% awarded in the form of three-year, time-based RSUs"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the 2023 LTI program consisted of four types of grants, equally weighted at target performance"
+   }
+  ]
+ }
+}

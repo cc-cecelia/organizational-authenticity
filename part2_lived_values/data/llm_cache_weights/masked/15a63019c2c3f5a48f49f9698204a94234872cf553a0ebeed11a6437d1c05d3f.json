@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "15a63019c2c3f5a48f49f9698204a94234872cf553a0ebeed11a6437d1c05d3f",
+  "est_input_tokens": 20837
+ },
+ "usage": {
+  "input_tokens": 20600,
+  "output_tokens": 277
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus pool for executive officers is based on the Company's performance during the fiscal year compared to pre-established target levels for # [w] [w] measures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Operating Cash Flow\" is defined as our GAAP operating cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PRSU award to Mr. Benioff has the following key terms: Relative TSR as the performance metric"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "dadde10b73bffda00c36cbcc768fb6da92b90044cc4b721ed44811c55e29e9bc",
+  "est_input_tokens": 17969
+ },
+ "usage": {
+  "input_tokens": 21249,
+  "output_tokens": 752
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Sales exclude the impact of foreign exchange on actual sales relative to the goal target."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS is diluted earnings per common share from continuing operations excluding specified items"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Return on Assets (ROA) reflects earnings from continuing operations, excluding interest expense and specified items."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow equals Operating Cash Flow less acquisitions of property and equipment."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "COVID-#Test Sales | # | # of target | Target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care Sales Growth | # | # of Target | Target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Core Diagnostics Sales Growth | # | # of Target | Target"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest #\neach year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures Abbott's stock and dividend performance against our peer group. Used to position LTI award guidelines relative to the market."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic financial contribution goals."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Sales and Market Growth Contribution | Exceeded (+#) | Margin Contribution"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Financial Contribution | Met (#) | Met (#) | Met (#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

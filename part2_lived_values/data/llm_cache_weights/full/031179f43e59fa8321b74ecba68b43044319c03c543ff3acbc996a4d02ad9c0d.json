@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "031179f43e59fa8321b74ecba68b43044319c03c543ff3acbc996a4d02ad9c0d",
+  "est_input_tokens": 15499
+ },
+ "usage": {
+  "input_tokens": 16367,
+  "output_tokens": 2378
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Significantly exceeded a 20% direct after-tax rate of return"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Finished fourth in peer group in absolute stock price performance and second in peer group in forward-year cash flow multiple"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Reduced net debt-to-total capitalization ratio"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "EUR of wells drilled and completed in 2016 increased by 27%"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "adjusted cash operating expenses* decreased 15%"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Added approximately 2,800 net premium drilling locations and significant new premium net resource potential"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Closed $1.1 billion in property sales"
+   },
+   {
+    "id": 9,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Reduced safety and environmental incident rates"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A significant performance-based component (consisting of grants of performance units as part of our long-term incentive awards)"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001326801-24-000034",
+  "task": "incentives",
+  "section_words": 6518,
+  "section_method": "heading",
+  "cache_key": "930ced87519c5ec0d6957ffabce6113e7cc2a933d6a8c7002427a09e447dbf64",
+  "est_input_tokens": 15346
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15736,
+  "output_tokens": 1225,
+  "request_id": "req_011CgC9RJrXapZVvqzgeuZr9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Build awesome things.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   },
+   {
+    "metric": "Make our business successful.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   },
+   {
+    "metric": "Make progress on societal issues related to our business.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   },
+   {
+    "metric": "Go out and tell our story.",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001308179-21-000173",
+  "task": "incentives",
+  "section_words": 12065,
+  "section_method": "heading",
+  "cache_key": "78ba7a669299ff440e37956dca48c82abb2f9169923e6d12f6ade6741df94ab1",
+  "est_input_tokens": 24015
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28726,
+  "output_tokens": 230,
+  "request_id": "req_011CgCCQxP5o1pQHBjbK8EvE"
+ },
+ "result": {
+  "metrics": []
+ }
+}

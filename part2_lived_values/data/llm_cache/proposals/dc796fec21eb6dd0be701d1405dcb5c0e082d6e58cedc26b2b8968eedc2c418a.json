@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001193125-23-240594",
+  "task": "proposals",
+  "section_words": 6761,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "dc796fec21eb6dd0be701d1405dcb5c0e082d6e58cedc26b2b8968eedc2c418a",
+  "est_input_tokens": 15045
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16555,
+  "output_tokens": 429,
+  "request_id": "req_011CgC9bGWvCRJHu5QM9nEzf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL REGARDING PAY GAP REPORT",
+    "proponent": "Arjuna Capital, on behalf of Clark Freifeld and Andee Krasner, and Proxy Impact, on behalf of the Marguerite Casey Foundation",
+    "topic_summary": "Requests Oracle report on quantitative median and adjusted pay gaps across race and gender, including associated policy, reputational, competitive, and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 6."
+   },
+   {
+    "item_number": "7",
+    "title": "STOCKHOLDER PROPOSAL REGARDING INDEPENDENT BOARD CHAIRMAN",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Requests the Board adopt a policy and amend governing documents to require the Chairman of the Board be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board unanimously recommends a vote AGAINST adoption of Proposal No. 7."
+   }
+  ]
+ }
+}

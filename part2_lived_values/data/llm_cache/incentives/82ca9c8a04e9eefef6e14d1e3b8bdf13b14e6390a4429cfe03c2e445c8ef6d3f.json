@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0000109198-23-000014",
+  "task": "incentives",
+  "section_words": 11709,
+  "section_method": "heading",
+  "cache_key": "82ca9c8a04e9eefef6e14d1e3b8bdf13b14e6390a4429cfe03c2e445c8ef6d3f",
+  "est_input_tokens": 27003
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28159,
+  "output_tokens": 1875,
+  "request_id": "req_011CgCBhaUZhbsX5zomxx2Lv"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "MIP Incentive Pre-Tax Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 80,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "MIP Incentive Pre-Tax Income was the primary metric under our FY23 incentive plan (weighted at 80%)"
+   },
+   {
+    "metric": "Key Business Priorities",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Global MIP key priorities were the secondary measure under our FY23 incentive plan (weighted at 20%)"
+   },
+   {
+    "metric": "Driving profitable sales",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Driving profitable sales \u2022 Net sales of nearly $50 billion"
+   },
+   {
+    "metric": "Increasing market share",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increasing market share \u2022 Opened new stores and increased store count"
+   },
+   {
+    "metric": "Developing talent",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Developing talent \u2022 Increased award targets and expanded eligibility under our broad-based management incentive program"
+   },
+   {
+    "metric": "Championing culture/workplace",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Championing culture/workplace \u2022 Announced our four new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "metric": "Inclusion and diversity education and communication efforts",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued inclusion and diversity (I&D) education and communication efforts to support our global I&D priorities"
+   },
+   {
+    "metric": "Environmental corporate targets (Climate and Energy, Waste Management and Packaging)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Announced our four new global corporate targets in the areas of Climate and Energy, Waste Management and Packaging"
+   },
+   {
+    "metric": "Customer satisfaction survey data",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continued to receive positive indicators of customer satisfaction, as shown by customer survey data"
+   },
+   {
+    "metric": "EPS Growth (Incentive EPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "FY23 PSUs: PSUs granted to our NEOs in FY23 will be earned based on the achievement of FY23-25 Incentive EPS growth goals"
+   },
+   {
+    "metric": "Incentive ROIC modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSUs will also be subject to a downward Incentive ROIC modifier if the Company does not achieve its ROIC goals"
+   },
+   {
+    "metric": "LRPIP Incentive Pre-Tax Income (FY23-25)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee established a new three-year LRPIP Incentive Pre-tax Income target for FY23-25"
+   },
+   {
+    "metric": "LRPIP Incentive Pre-Tax Income (FY21-23 cycle)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "FY22-23 LRPIP Incentive Pre-Tax Income Threshold | Target | Maximum | Actual"
+   }
+  ]
+ }
+}

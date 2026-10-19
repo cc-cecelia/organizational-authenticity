@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-130746",
+  "task": "proposals",
+  "section_words": 4898,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "029829eaf59793c466f0596fafe9f18973118f98ab3d7fa2077e28c9dfbfd4ad",
+  "est_input_tokens": 10742
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12641,
+  "output_tokens": 262,
+  "request_id": "req_011CgCB8rRanRCxFGkGdgvyf"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING DECLASSIFICATION OF THE BOARD OF DIRECTORS",
+    "proponent": "Connecticut Retirement Plans and Trust Fund (CRPTF)",
+    "topic_summary": "Urges the board to eliminate the classification of the board so that all directors stand for election annually, without affecting unexpired terms.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL REGARDING DECLASSIFICATION OF THE BOARD."
+   }
+  ]
+ }
+}

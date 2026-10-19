@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "3eb4ff7bc3a5184ca38bdff6dc05c6aeeed62bf912aa851ed8a9ce799a3bfa8b",
+  "est_input_tokens": 12915
+ },
+ "usage": {
+  "input_tokens": 13310,
+  "output_tokens": 439
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "EPS performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#new molecular entity (NME) product approval consistent with goal, and #other significant approvals versus a goal of #."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Subjective assessment of the quality of the pipeline, considering many factors -- awarded a score of #recognizing another record-setting year for innovation."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PAs are designed to focus company leaders on multi-year operational performance relative to peer companies"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "SVAs may be earned based on Lilly's share price performance over a #-year period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The bonus is based on company performance in # areas over the course of the year, relative to internal targets"
+   }
+  ]
+ }
+}

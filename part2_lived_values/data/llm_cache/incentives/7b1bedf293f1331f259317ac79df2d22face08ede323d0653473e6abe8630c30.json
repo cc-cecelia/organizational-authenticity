@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-090034",
+  "task": "incentives",
+  "section_words": 9443,
+  "section_method": "heading",
+  "cache_key": "7b1bedf293f1331f259317ac79df2d22face08ede323d0653473e6abe8630c30",
+  "est_input_tokens": 22449
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24058,
+  "output_tokens": 1704,
+  "request_id": "req_011CgCCG4PiqDJmL7jgCb2TV"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS, adjusted ($/share)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "I. | EPS,adjusted ($/share) | 40.00% | $1.04 | $4.15 | $8.30 | $4.96 | 53.76%"
+   },
+   {
+    "metric": "Operational Performance Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subtotal | 40.00% | subtotal | 84.77%"
+   },
+   {
+    "metric": "Health, Safety, and Environmental",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "II. | Health,Safety, and Environmental (2) | 13.33% | 29.76%"
+   },
+   {
+    "metric": "Mechanical Availability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.33,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "III. | MechanicalAvailability (3) | 13.33% | 95.6 | 96.2 to 96.4 | 97.6 | 97.3 | 25.00%"
+   },
+   {
+    "metric": "Cost Management and Expense Control",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 13.34,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "IV. | CostManagement and Expense Control ($ in millions) | 13.34%"
+   },
+   {
+    "metric": "Strategic Company Goals and Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "V. | CompanyGoals and Objectives (4) | 20.00% | 20.00%"
+   },
+   {
+    "metric": "Return on capital employed (capital-based performance measure)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Included in these goals for 2017 was a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "metric": "Adjusted Net Cash Provided by Operating Activities and EBITDA (bonus pool funding)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The program is funded at an amount equal to the greater of (i) ANC multiplied by 0.80 percent, or (ii) EBITDA multiplied by 0.65 percent."
+   },
+   {
+    "metric": "Relative Total Shareholder Return (TSR) vs. performance peer group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Shares (50%) | Measures relative Total Shareholder Return (TSR) against nine-company Performance Peer group across a three-year period"
+   },
+   {
+    "metric": "Dividends accumulated during performance period (performance shares)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Additional shares of Common Stock may be earned based on the accumulated value of dividends paid on Valero's Common Stock during the pertinent performance period."
+   },
+   {
+    "metric": "Restricted stock (absolute stock price performance, time-vested)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Restricted Stock (50%) | Vests 1/3 per year over three years | Value delivered is driven by absolute performance of company stock"
+   }
+  ]
+ }
+}

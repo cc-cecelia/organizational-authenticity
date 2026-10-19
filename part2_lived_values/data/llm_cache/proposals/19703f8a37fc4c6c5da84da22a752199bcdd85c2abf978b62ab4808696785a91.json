@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001140361-24-016251",
+  "task": "proposals",
+  "section_words": 17957,
+  "section_method": "heading",
+  "cache_key": "19703f8a37fc4c6c5da84da22a752199bcdd85c2abf978b62ab4808696785a91",
+  "est_input_tokens": 38840
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 40139,
+  "output_tokens": 11,
+  "request_id": "req_011CgCB4cCDZ2HLv41TrxnB7"
+ },
+ "result": {
+  "proposals": []
+ }
+}

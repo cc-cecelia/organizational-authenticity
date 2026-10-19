@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001206774-22-001058",
+  "task": "incentives",
+  "section_words": 6706,
+  "section_method": "heading",
+  "cache_key": "016c6344c663dd475008622f53c4079e793fc30b00e35f0ad7b6e7d058c98ca7",
+  "est_input_tokens": 15619
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17763,
+  "output_tokens": 4093,
+  "request_id": "req_011CgCBMuMougsiKDKDhu2sb"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Systemwide sales growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2021, STIP metrics consisted of Systemwide sales growth (42.5%), operating income growth (42.5%) and human capital metrics (15%)."
+   },
+   {
+    "metric": "Operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 42.5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2021, STIP metrics consisted of Systemwide sales growth (42.5%), operating income growth (42.5%) and human capital metrics (15%)."
+   },
+   {
+    "metric": "Human Capital Metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2021, STIP metrics consisted of Systemwide sales growth (42.5%), operating income growth (42.5%) and human capital metrics (15%)."
+   },
+   {
+    "metric": "Values",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified McDonald's Values Index score"
+   },
+   {
+    "metric": "Representation of women in senior director and above positions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified increase in global representation of women in senior director and above positions"
+   },
+   {
+    "metric": "Representation of underrepresented minorities in senior director and above positions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified increase in U.S. representation of underrepresented minorities in senior director and above positions"
+   },
+   {
+    "metric": "Inclusion Index",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Meet or exceed specified McDonald's Inclusion Index score"
+   },
+   {
+    "metric": "EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "Relative TSR modifier versus S&P 500",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to a modifier based on the Company's relative TSR measured over the three-year performance period versus the S&P 500"
+   },
+   {
+    "metric": "EPS growth (2019-2021 PRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "both the Company's EPS growth and ROIIC exceeded threshold performance levels"
+   },
+   {
+    "metric": "ROIIC (2019-2021 PRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "both the Company's EPS growth and ROIIC exceeded threshold performance levels"
+   },
+   {
+    "metric": "Relative TSR versus S&P 500 (2019-2021 PRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Company's TSR was at the 40th percentile compared to the S&P 500 Index"
+   }
+  ]
+ }
+}

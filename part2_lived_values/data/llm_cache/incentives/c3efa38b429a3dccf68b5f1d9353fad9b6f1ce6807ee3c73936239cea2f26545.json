@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0000063908-16-000113",
+  "task": "incentives",
+  "section_words": 5135,
+  "section_method": "heading",
+  "cache_key": "c3efa38b429a3dccf68b5f1d9353fad9b6f1ce6807ee3c73936239cea2f26545",
+  "est_input_tokens": 11992
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13568,
+  "output_tokens": 1345,
+  "request_id": "req_011CgCBLae9KCHoMevt2YLPy"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Consolidated annual operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our STIP is designed to reward growth in annual operating income, which measures the success of the most important elements of our business strategy."
+   },
+   {
+    "metric": "Comparable guest count growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "These modifiers in 2015 include the following objective metrics: Comparable guest count growth"
+   },
+   {
+    "metric": "G&A expense control",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "These modifiers in 2015 include the following objective metrics: G&A expense control"
+   },
+   {
+    "metric": "Customer satisfaction",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "These modifiers in 2015 include the following objective metrics: Customer satisfaction"
+   },
+   {
+    "metric": "Success of our people initiatives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "These modifiers in 2015 include the following objective metrics: Success of our people initiatives"
+   },
+   {
+    "metric": "Compound annual operating income growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts will be initially determined based on the following quantitative measures over the three-year performance period: growth in operating income and ROIIC."
+   },
+   {
+    "metric": "ROIIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts will be initially determined based on the following quantitative measures over the three-year performance period: growth in operating income and ROIIC."
+   },
+   {
+    "metric": "Share of Traffic",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "change in the Company's share of guest traffic within the informal eating out category in the Company's top eight markets (\"Share of Traffic\")"
+   },
+   {
+    "metric": "Cumulative TSR versus the S&P 500 Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "applying a multiplier based on cumulative TSR versus the S&P 500 Index for the performance period."
+   },
+   {
+    "metric": "Compounded annual growth in EPS on a cumulative basis",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of an EPS growth target over the 2015-2017 performance period"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "6ca48668a1764111693312cffa7dcb9775cbb46489e936317d48156b656a426a",
+  "est_input_tokens": 21221
+ },
+ "usage": {
+  "input_tokens": 22887,
+  "output_tokens": 523
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the company's performance was above target in revenue growth and significantly above target in free cash flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Focus on Quality. We emphasize quality: payouts under our annual incentive plan can be reduced if a quality compliance modifier performance threshold is not achieved."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Compounded annual growth rate required over # fiscal years to achieve objectives."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market prevalent approach that will align LTPP with Relative TSR performance while maintaining a strong focus on Revenue Growth and ROIC."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Medtronic's RSUs include a #-year minimum performance threshold that must be met before the RSUs vest."
+   }
+  ],
+  "equal_split": []
+ }
+}

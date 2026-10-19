@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082140",
+  "task": "proposals",
+  "section_words": 9864,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "12ebd059ef264d3b74eec6f0ad6b41c9d70fccd63e3162bccb94014754a83f02",
+  "est_input_tokens": 22507
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23820,
+  "output_tokens": 1113,
+  "request_id": "req_011CgCBoqYqeiW2mWZJZRmW7"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Independent Chairman",
+    "proponent": "Olga Monks Pertzoff Trust 1945",
+    "topic_summary": "Adopt policy requiring the Board Chair, whenever possible, to be an independent director, phased in at next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Special Shareholder Meetings",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Amend governing documents so holders of a combined 10% of outstanding stock can call a special shareholder meeting without court approval.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board believes it is important for shareholders to have the right to call a special shareholder meeting"
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 \u2013 Report on Scenario Analysis",
+    "proponent": "Christian Brothers Investment Services, Inc.",
+    "topic_summary": "Issue an audited report on whether a significant reduction in fossil fuel demand per the IEA Net Zero 2050 scenario would affect financial position and assumptions, by January 31, 2022.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "the Board believes the requested audited report is unnecessary"
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 \u2013 Report on Environmental Expenditures",
+    "proponent": "Steven Milloy",
+    "topic_summary": "Publish annual report of costs and actual benefits of voluntary environment-related activities exceeding compliance requirements.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board believes the proposal, therefore, is unnecessary."
+   },
+   {
+    "item_number": "8",
+    "title": "Item 8 \u2013 Report on Political Contributions",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Semiannually report on policies and on electoral contributions and non-deductible expenditures, including trade association and 501(c)(4) payments used for elections.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "In the Board's view, this proposal is unnecessary."
+   },
+   {
+    "item_number": "9",
+    "title": "Item 9 \u2013 Report on Lobbying",
+    "proponent": "United Steelworkers",
+    "topic_summary": "Annually report on direct and indirect lobbying and grassroots communications policies, payments, recipients and oversight.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "For this reason, and others stated above, the Board recommends voting against this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Item 10 \u2013 Report on Climate Lobbying",
+    "proponent": "BNP Paribas Asset Management",
+    "topic_summary": "Evaluate and report on whether direct and trade association lobbying aligns with Paris Agreement goals and how misalignment risks are mitigated.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Considering the above, the Board believes the elements of this proposal have already been met or surpassed, and it is therefore unnecessary."
+   }
+  ]
+ }
+}

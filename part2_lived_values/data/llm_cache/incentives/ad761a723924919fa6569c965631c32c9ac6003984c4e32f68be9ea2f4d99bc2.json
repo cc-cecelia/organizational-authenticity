@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-119702",
+  "task": "incentives",
+  "section_words": 10495,
+  "section_method": "heading",
+  "cache_key": "ad761a723924919fa6569c965631c32c9ac6003984c4e32f68be9ea2f4d99bc2",
+  "est_input_tokens": 21620
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25405,
+  "output_tokens": 612,
+  "request_id": "req_011CgC9W9my5kJueW3b4VZ1y"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the bonus pool for executive officers is based on our performance during the fiscal year compared to pre-established target levels for three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Non-GAAP Income from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted measures: revenue, operating cash flow and non-GAAP income from operations"
+   },
+   {
+    "metric": "Total Stockholder Return (TSR) relative to Nasdaq-100 Index companies",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "depending on how our total stockholder return (\"TSR\") ranks over the three-year period from the grant date, relative to the companies in the Nasdaq-100 Index as of the grant date"
+   }
+  ]
+ }
+}

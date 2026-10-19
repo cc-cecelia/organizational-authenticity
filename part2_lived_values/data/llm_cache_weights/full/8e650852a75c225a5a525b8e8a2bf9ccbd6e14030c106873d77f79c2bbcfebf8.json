@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "8e650852a75c225a5a525b8e8a2bf9ccbd6e14030c106873d77f79c2bbcfebf8",
+  "est_input_tokens": 21798
+ },
+ "usage": {
+  "input_tokens": 25330,
+  "output_tokens": 1585
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted net revenue, which was weighted at 50%,"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted operating income, which was weighted at 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC, which operated as a potential downward modifier of the adjusted net revenue and adjusted net operating income result."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the adjusted EPS performance measure has a sliding scale so each NEO may achieve from 0% to 200% of the target award amount"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the inclusion of ROIC as a potential downward modifier increases executive focus on ROIC"
+   }
+  ],
+  "equal_split": []
+ }
+}

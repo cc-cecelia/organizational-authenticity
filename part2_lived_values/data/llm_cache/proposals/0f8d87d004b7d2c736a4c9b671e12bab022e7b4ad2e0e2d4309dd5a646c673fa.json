@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001047469-17-002228",
+  "task": "proposals",
+  "section_words": 4321,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0f8d87d004b7d2c736a4c9b671e12bab022e7b4ad2e0e2d4309dd5a646c673fa",
+  "est_input_tokens": 9558
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10782,
+  "output_tokens": 365,
+  "request_id": "req_011CgCBjTJm75xeQuiBohjRv"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Give Each Share An Equal Vote",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the Board to adopt a recapitalization plan giving each share one vote, eliminating the Ford family's 16-votes-per-share dual-class structure within two years.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 because it is not in the best interests of Ford and you."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests an annually updated report disclosing Ford's direct and indirect lobbying, grassroots lobbying communications, trade association payments, and board oversight of them.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 6 because it is not in the best interests of Ford and you."
+   }
+  ]
+ }
+}

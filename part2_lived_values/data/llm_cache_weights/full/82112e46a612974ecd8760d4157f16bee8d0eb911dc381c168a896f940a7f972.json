@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "82112e46a612974ecd8760d4157f16bee8d0eb911dc381c168a896f940a7f972",
+  "est_input_tokens": 25186
+ },
+ "usage": {
+  "input_tokens": 27251,
+  "output_tokens": 2259
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2023 financial performance, both on an absolute basis and relative to our Peers."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Steadfast focus on client centricity and One Goldman Sachs as foundational to our firm"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our compensation program is designed to be consistent with the safety and soundness of our firm"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Demonstrated commitment to our culture and Core Values and continued to advance our people strategy"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Dedicated commitment to our culture, Core Values and advancing our people strategy"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Diversity, Equity and Inclusion (e.g., hiring and representation)"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "attrition and retention"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Progress towards sustainable finance commitments"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROE is used because it is a risk-based metric that is an important indicator of the firm's operating performance"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-based vesting for the SVC Awards is based 50% on absolute TSR goals and 50% on relative TSR goals"
+   }
+  ],
+  "equal_split": []
+ }
+}

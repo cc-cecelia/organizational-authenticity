@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001326801-22-000043",
+  "task": "proposals",
+  "section_words": 13089,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f926228917f83fd0797675ee18a7d7b8c43db2c33ee58b4c7a90646c14ce7f7d",
+  "est_input_tokens": 31943
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31567,
+  "output_tokens": 1882,
+  "request_id": "req_011CgC9QqeB9dsx1Fhhytsr6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan, via phase-out within seven years, so all outstanding stock has one vote per share, eliminating Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "We believe that our capital structure is in the best interests of our shareholders and that our current corporate governance structure is sound and effective."
+   },
+   {
+    "item_number": "5",
+    "title": "Independent Board Chair",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Therefore, our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Concealment Clauses",
+    "proponent": "not stated",
+    "topic_summary": "Requests a public report assessing risks to the company from use of concealment clauses in harassment, discrimination and unlawful-act contexts.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "Given that our corporate policies foster a positive and inclusive workplace environment free from unlawful harassment and discrimination, and promote reporting any misconduct, our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary"
+   },
+   {
+    "item_number": "7",
+    "title": "Report on External Costs of Misinformation",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on risks from business practices prioritizing internal financial return over healthy social and environmental systems and threats to diversified shareholders' returns.",
+    "category": "shareholders",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Report on Community Standards Enforcement",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report analyzing why enforcement of Community Standards has proven ineffective at controlling hate speech, disinformation and incitement content.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Report and Advisory Vote on the Metaverse",
+    "proponent": "not stated",
+    "topic_summary": "Requests a third-party assessment of metaverse harms to users' psychological, civil and human rights, followed by a non-binding shareholder advisory vote on the project.",
+    "category": "community",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes this proposal is unnecessary. Therefore, our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Human Rights Impact Assessment",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent third-party Human Rights Impact Assessment of targeted advertising policies and practices, published by June 1, 2023.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary."
+   },
+   {
+    "item_number": "11",
+    "title": "Child Sexual Exploitation Online",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report by February 2023 assessing risks of increased child sexual exploitation from end-to-end encryption and privacy tools.",
+    "category": "community",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Civil Rights and Non-Discrimination Audit",
+    "proponent": "not stated",
+    "topic_summary": "Requests an audit analyzing the company's impacts on civil rights and non-discrimination and their effect on business, with a public report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Therefore, our board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Report on Lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annually updated report disclosing lobbying policies, payments for direct, indirect and grassroots lobbying, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our shareholders."
+   },
+   {
+    "item_number": "14",
+    "title": "Performance Review of Audit and Risk Oversight Committee",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent assessment of the Audit and Risk Oversight Committee's performance in overseeing risks to public safety and the public interest.",
+    "category": "integrity",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our shareholders."
+   },
+   {
+    "item_number": "15",
+    "title": "Request for Charitable Donation Disclosure",
+    "proponent": "not stated",
+    "topic_summary": "Requests a semi-annual report itemizing charitable donations above $999 by recipient, with policies and rationale for contributions.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our shareholders vote against this proposal."
+   }
+  ]
+ }
+}

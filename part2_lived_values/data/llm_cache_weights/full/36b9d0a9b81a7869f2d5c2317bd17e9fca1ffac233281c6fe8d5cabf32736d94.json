@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "36b9d0a9b81a7869f2d5c2317bd17e9fca1ffac233281c6fe8d5cabf32736d94",
+  "est_input_tokens": 24309
+ },
+ "usage": {
+  "input_tokens": 25149,
+  "output_tokens": 1202
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "TSPB was the sole metric underlying the performance-based portion of the Annual Cash Incentive opportunity for the named executive officers other than Ms. Hollub"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "80% of target value is linked to a basket of key company performance metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Safety | 12.5% | 0-25% | Combined Employee / Contractor Injury & Illness Incidence Rate (IIR)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Beat target IIR with an IIR of 0.28"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Beat target DART with a DART of 0.16"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational | 27% | 0-54% | Total Spend per Barrel | Production Growth"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Beat target TSPB of $28.50 with a TSPB of $28.37"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Exceeded target production growth from ongoing operations (grew volumes by 7% year-over-year)"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Strategic | 35% | 0-70% | Development and Execution of Market-Driven Strategy"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Development and Execution of Market-Driven Strategy | Maintenance of Financial Discipline and Strong Balance Sheet"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Maintenance of financial discipline and a strong balance sheet were strategic company objectives underlying a portion of Ms. Hollub's Annual Cash Incentive"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "Organizational | 5.5% | 0-11% | Improvement of Organizational Effectiveness"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Improvement of Organizational Effectiveness | Significant progress in growing Occidental's unconventional expertise"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "20% of target value is based on an assessment of individual performance"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "40% of target value is based on an assessment of the named executive officer's individual performance"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The TSR award accounts for 70% of the target 2016 long-term incentive award value."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The TSR award accounts for 70% of the target 2016 long-term incentive award value."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "if Occidental's absolute TSR is negative over the performance period, then, irrespective of Occidental's ranking within the peer group, the payout of the TSR award is capped at no more than target"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The RSU award accounts for 30% of the target 2016 long-term incentive award value."
+   }
+  ],
+  "equal_split": []
+ }
+}

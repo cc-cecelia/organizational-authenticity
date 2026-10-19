@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001206774-20-000230",
+  "task": "proposals",
+  "section_words": 7697,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "878f8fbfc28a1f414994230079ca7f3d046ff4b1ace89b80e63c9bf1b76fee58",
+  "est_input_tokens": 16669
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18542,
+  "output_tokens": 196,
+  "request_id": "req_011CgCBVuavfTiSTmMtzxhk9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING EEO POLICY RISK REPORT",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a public report on risks of omitting \"viewpoint\" and \"ideology\" from Starbucks' written equal employment opportunity policy.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   }
+  ]
+ }
+}

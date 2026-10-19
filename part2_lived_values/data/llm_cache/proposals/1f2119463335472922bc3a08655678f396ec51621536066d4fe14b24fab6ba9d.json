@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0000320187-23-000040",
+  "task": "proposals",
+  "section_words": 6493,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1f2119463335472922bc3a08655678f396ec51621536066d4fe14b24fab6ba9d",
+  "est_input_tokens": 14859
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16424,
+  "output_tokens": 501,
+  "request_id": "req_011CgCBT1s7swqVJ5jsoWeR4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING SUPPLEMENTAL PAY EQUITY DISCLOSURE",
+    "proponent": "Mary McInnes, c/o Arjuna Capital (co-filer Change Finance, P.B.C.)",
+    "topic_summary": "Requests Nike report on median pay gaps across race and gender, including associated policy, reputational, competitive, operational risks, and recruiting and retention risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response which follows the shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING A SUPPLY CHAIN MANAGEMENT REPORT",
+    "proponent": "Tulipshare Ltd.",
+    "topic_summary": "Requests the Board oversee and issue a report assessing effectiveness of supply chain management infrastructure in aligning with equity goals and human rights commitments, including forced labor and wage risks.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal and asks shareholders to read through NIKE's response which follows the shareholder proposal."
+   }
+  ]
+ }
+}

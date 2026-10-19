@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "bb5e712698005841f5803f09e4786e0e7af2c9aeb1e3b0621f94d3122e44f5a2",
+  "est_input_tokens": 15629
+ },
+ "usage": {
+  "input_tokens": 16365,
+  "output_tokens": 802
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # ROCE*"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of #billion before dividends"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve median in peer group in TSR performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve unit cost targets"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Realize total recordable incident rate below #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Continued commitment to strong environmental record"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Oil spill rate below #per Mboe gross volumes"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Methane emissions intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "GHG emissions intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Flaring intensity below #metric tons of CO #e per Mboe gross volumes"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational and organizational execution goals, [w] # in total for #encompassed our other goals"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR Performance (Primary Performance Metric)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #performance unit awards include an absolute ROCE* modifier."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The overall #performance award payout (after considering both relative TSR performance and the impact of the ROCE* modifier) is capped at target (#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

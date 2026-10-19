@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "356f91facc7c2bdff85e79402b0a0c2759365ebacb16ce9cd52e83a7a5a6e506",
+  "est_input_tokens": 33344
+ },
+ "usage": {
+  "input_tokens": 34848,
+  "output_tokens": 698
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings Per Share (EPS) (30%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (25%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Pipeline (25%)"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (50%)"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential (50%)"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Overlay"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key Integration Metrics (20%)"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Human Capital Management (50%)"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Synergies (50%)"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\")"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: 33%"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx): 33%"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3-Year Relative TSR: 34%"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Number of shares earned, based on increase or decrease in our common stock share price from the grant date"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "annual_incentive",
+    "evidence": "Human Capital Management (50%) (Retain and engage critical talent to support our strategy and deliver integration priorities)"
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001308179-20-000203",
+  "task": "proposals",
+  "section_words": 10971,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "77ba89717c6e913ef6c4d12ea88e90fb51a62bd23fa6a36389b9edc27babaa86",
+  "est_input_tokens": 25659
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26010,
+  "output_tokens": 3049,
+  "request_id": "req_011CgC9GsBirFbMbhHfoApsG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Equal Shareholder Voting Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan giving one vote per share, phasing out the disproportionate voting rights of Class B shares.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding Report on Arbitration of Employment-Related Claims",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on mandatory arbitration of employment-related claims for direct and contract employees, including workforce proportion and claim outcomes.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding the Establishment of Human Rights Risk Oversight Committee",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board committee of independent directors to oversee human rights risks from Alphabet's products and services and related policies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding Non-Binding Vote on Bylaw Amendments",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaws requiring a non-binding shareholder vote on any material board-approved bylaw amendment not already subject to a shareholder vote.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding Report on Sustainability Metrics",
+    "proponent": "not stated",
+    "topic_summary": "Requests a compensation committee report on integrating sustainability metrics, including senior executive diversity metrics, into executive performance measures or vesting conditions.",
+    "category": "environment",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding Report on Takedown Requests",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report assessing annual public disclosure by jurisdiction of content delisted, censored or penalized in response to government requests.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding Majority Vote For Election of Directors",
+    "proponent": "not stated",
+    "topic_summary": "Requests a majority-vote standard for uncontested director elections, with removal of directors who receive less than a majority.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding Report on Gender/Racial Pay Equity",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on Alphabet's global median gender and racial pay gap and related policy, reputational, competitive and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "13",
+    "title": "Stockholder Proposal Regarding the Nomination of Human Rights and/or Civil Rights Expert to Board",
+    "proponent": "not stated",
+    "topic_summary": "Requests nomination of at least one independent director candidate with high-level human and/or civil rights expertise for the next board election.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "14",
+    "title": "Stockholder Proposal Regarding Report on Whistleblower Policies and Practices",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report evaluating whistleblower policies and assessing expanding protections to cover public interest and human rights concerns.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

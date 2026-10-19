@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "7e77077324e950ad7ac0be3b6ed1e2f0233f23873f58c9ceb3abd850f3d7f2bd",
+  "est_input_tokens": 22548
+ },
+ "usage": {
+  "input_tokens": 24647,
+  "output_tokens": 923
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA (40%) Operating Excellence (35%) Adjusted Controllable Costs (15%) High-Performing Organization (10%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety, environmental stewardship and asset availability, is foundational in meeting our corporate strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Combined TRR and LWCR: Our industry-leading performance for TRR was 31% better than our maximum goal"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "PSE Rate: Our industry-leading PSE Rate was 50% better than maximum, achieving a payout of 200% of target."
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: Our availability of 96.8% across our lines of business was 1.5 percentage points above target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Controllable Costs focuses on maintaining or reducing costs."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe maintaining and enhancing a high-performing organization is critical to our success"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Culture foster behaviors that promote our unique culture"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Capability build depth and breadth in our skills"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Performance deliver exceptional, sustainable results"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Absolute ROCE accounts for 50% and is equally weighted between absolute and relative performance"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining 50% is our TSR performance relative to peers."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE performance for the three-year performance period was 4 th of 14 peers"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "After-tax ROCE accounts for 50% and is equally weighted between absolute and relative performance"
+   }
+  ]
+ }
+}

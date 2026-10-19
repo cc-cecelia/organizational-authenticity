@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "6fb4a472834d515a994b7cc3ef2b9b216dce5c06a7e5a219063e0142571c5965",
+  "est_input_tokens": 33863
+ },
+ "usage": {
+  "input_tokens": 34585,
+  "output_tokens": 793
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance | Business Strength | Organizational Strength"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver on our commitments to clients"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Grow with our clients' needs and evolve how we serve clients"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Lead in a changing world"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver sustainable solutions to meet client demand"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent pipeline and development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, equity and inclusion"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Corporate sustainability"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and sustained Operating Margin, as adjusted, determine the number of RSUs ultimately earned."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and Operating Margin, as adjusted, targets over a three-year performance period"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A # stock price growth hurdle from the grant price of #"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Positive Organic Revenue growth achieved in the three-year period of #through #."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "with # of the award opportunity dependent on BlackRock's achievement of financial performance goals, # dependent on BlackRock's progress towards meeting our strategic objectives"
+   }
+  ]
+ }
+}

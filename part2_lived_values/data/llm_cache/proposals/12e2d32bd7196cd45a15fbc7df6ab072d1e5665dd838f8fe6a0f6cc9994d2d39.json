@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0000059478-20-000080",
+  "task": "proposals",
+  "section_words": 9142,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "12e2d32bd7196cd45a15fbc7df6ab072d1e5665dd838f8fe6a0f6cc9994d2d39",
+  "est_input_tokens": 21170
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21309,
+  "output_tokens": 1245,
+  "request_id": "req_011CgCAT1vTzDVrMFZzfYVBK"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal to Disclose Direct and Indirect Lobbying Activities and Expenditures",
+    "proponent": "Service Employees International Union Pension Plans Master Trust",
+    "topic_summary": "Requests an annually updated report disclosing Lilly's direct and indirect lobbying, grassroots lobbying, payments to model-legislation organizations, and oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board, through its Public Policy and Compliance Committee, has reviewed this proposal and recommends a vote against it"
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal to Publish a Report on the Effectiveness of the Forced Swim Test",
+    "proponent": "People for the Ethical Treatment of Animals (PETA)",
+    "topic_summary": "Requests that Lilly assess the effectiveness of the Forced Swim Test in animal research and report findings to shareholders.",
+    "category": "community",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal to Amend the Bylaws to Require an Independent Board Chair",
+    "proponent": "Daughters of Charity, Inc.",
+    "topic_summary": "Requests adoption of a policy and bylaw amendment requiring the board chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal on Board Diversity Requesting Disclosures of Specific Minimum Qualifications and Board Nominee Skills, Experience, and Ideological Perspective",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests disclosure of board nominee minimum qualifications and a skills, experience and ideological perspective matrix for each nominee.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal to Publish Feasibility Report on Incorporating Public Concern Over Drug Prices into Senior Executive Compensation Arrangements",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests a report assessing feasibility of incorporating public concern over high drug prices into senior executive compensation arrangements.",
+    "category": "shareholders",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Proposal to Implement a Bonus Deferral Policy",
+    "proponent": "UAW Retiree Medical Benefits Trust",
+    "topic_summary": "Requests that senior executive bonuses based on one-year financial metrics be partly deferred and adjusted over a deferral period to reflect risk.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Proposal to Disclose Clawbacks on Executive Incentive Compensation Due to Misconduct",
+    "proponent": "Trinity Health",
+    "topic_summary": "Requests annual disclosure of whether incentive compensation was clawed back or forfeited from senior executives, including former ones, due to clawback provisions.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

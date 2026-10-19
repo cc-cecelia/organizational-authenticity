@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "afec2124fef7e7998373920d5b8a2b6644d317ccf69b9d7420b06537fa10a794",
+  "est_input_tokens": 12582
+ },
+ "usage": {
+  "input_tokens": 13563,
+  "output_tokens": 489
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating income was the primary metric"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "comparable guest count growth will be elevated to a primary metric (from a modifier) in the STIP"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentivizes the transition of our delivery initiative from restaurant deployment to sales growth"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentivizes accelerated adoption of digital customer engagement by driving additional digital guest counts"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-based RSUs are also subject to a modifier based on relative TSR over the 2018 - 2020 performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Components of 2018 Long-Term Incentive Compensation Each component generally weighted equally"
+   }
+  ]
+ }
+}

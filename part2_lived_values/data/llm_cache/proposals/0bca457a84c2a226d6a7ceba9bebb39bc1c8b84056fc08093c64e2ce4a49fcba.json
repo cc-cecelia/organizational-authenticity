@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001206774-22-000870",
+  "task": "proposals",
+  "section_words": 18905,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "0bca457a84c2a226d6a7ceba9bebb39bc1c8b84056fc08093c64e2ce4a49fcba",
+  "est_input_tokens": 39082
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 43598,
+  "output_tokens": 263,
+  "request_id": "req_011CgCCR1Gxgiwrj4XpmY5g9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Requesting Occidental Set and Disclose Quantitative Short-, Medium- and Long-Term GHG Emissions Reduction Targets Consistent with the Paris Agreement",
+    "proponent": "Follow This on behalf of Benta B.V.",
+    "topic_summary": "Asks Occidental to set and publish quantitative short-, medium- and long-term GHG targets for Scope 1, 2 and 3 emissions consistent with the Paris Agreement, and report annually on strategy and progress.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal, if properly presented."
+   }
+  ]
+ }
+}

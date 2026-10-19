@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001047469-17-002284",
+  "task": "proposals",
+  "section_words": 3897,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "39b92d0943651a8cbac11f379e6c578356ffcc87a13ff5c086c9055c154c9118",
+  "est_input_tokens": 9029
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10588,
+  "output_tokens": 443,
+  "request_id": "req_011CgCBx6mM3zDFmhLdrJ48w"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal: Report on Lobbying Expenditures",
+    "proponent": "Walden Asset Management",
+    "topic_summary": "Requests a report, updated annually, disclosing company lobbying policies, direct and indirect lobbying and grassroots lobbying payments, and board and management oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS YOU VOTE \"AGAINST\" THIS PROPOSAL FOR THE FOLLOWING REASONS:"
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal: Report on Executive Incentive Compensation Alignment with Low-Carbon Scenarios",
+    "proponent": "The Unitarian Universalist Association",
+    "topic_summary": "Requests an annual report on whether executive incentive compensation promotes resilience to low-carbon scenarios consistent with limiting warming below 2 degrees Celsius.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS YOU VOTE \"AGAINST\" THIS PROPOSAL FOR THE FOLLOWING REASONS:"
+   }
+  ]
+ }
+}

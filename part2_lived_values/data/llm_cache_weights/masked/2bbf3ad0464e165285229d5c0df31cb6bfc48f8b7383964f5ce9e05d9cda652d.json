@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "2bbf3ad0464e165285229d5c0df31cb6bfc48f8b7383964f5ce9e05d9cda652d",
+  "est_input_tokens": 22919
+ },
+ "usage": {
+  "input_tokens": 24103,
+  "output_tokens": 1166
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Chevron's annual incentive: four categories: financial results, capital management, operating performance, and health, environmental and safety performance."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u2014#reported earnings of #billion was below Plan, reflecting Upstream impairment and write-offs"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Cash flow \u2014Chevron delivered operating cash flow of #billion in #supported by strong production growth."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Divestiture proceeds \u2014#billion in asset sales proceeds were realized for the year."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of # was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed \u2014Reported ROCE for #of # was below Plan, mainly driven by lower earnings."
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures \u2014#organic C&E totaled #billion, in-line with budget."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones per Plan:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating performance\u2014#"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of #million barrels of oil-equivalent per day in #excluding divestments."
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expense totaled #billion, above Plan, with a slight increase in unit costs."
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Refining utilization rates were below Plan by #age points."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, environmental and safety performance"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Personal Safety\u2014Maintained industry-leading Days Away From Work rate and achieved record low Serious Injury count"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Loss of containment performance and spill volume was better than Plan, with some gaps in severity."
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Performance against the GHG metrics will impact CIP payout for approximately #eligible employees."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The MCC also takes into account individual performance. This is largely a personal leadership dimension"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The majority of the LTIP award derives value directly from TSR (relative and absolute)."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "RSUs accrue dividend equivalents that are reinvested as additional units, to be paid at the time of vesting."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strike price is equal to Chevron's closing common stock price on the grant date."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "d11476846f4ab9d5b5479460ca9c2a318f34a8c88a75d7d618c7405251abc09f",
+  "est_input_tokens": 18697
+ },
+ "usage": {
+  "input_tokens": 20128,
+  "output_tokens": 1099
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Scorecard focuses on our most important business drivers: (1) revenue, (2) earnings per share, and (3) pipeline milestones."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures of our success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the pipeline metric is included because it is a leading indicator of the Company's ability to create sustainable value for shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "U.S. filing and approval of KEYTRUDA for treatment of patients with metastatic non-small cell lung cancer whose tumors express PD-L1 were achieved ahead of schedule."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "U.S. filing of ZEPATIER for treatment of patients with chronic hepatitis C virus (HCV) infection was achieved slightly ahead of schedule."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Received approval of five other products, including BRIDION in the U.S., MARIZEV in Japan"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Progressed late-stage drugs through various stages of development, including products for cancer, Alzheimer's disease, diabetes and C. difficile infection."
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Augmented pipeline through an agreement with NGM Biopharmaceuticals (diabetes & obesity) and the acquisition of cCAM Biotherapeutics"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "these results, combined with individual performance, determine annual incentive payouts to the majority of our employees"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSUs granted for the 2013-2015 performance period provided senior executives the opportunity to earn share awards based on EPS performance"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 2,
+    "evidence": "the payout was reduced by 20% due to our three-year annualized TSR of 10.6%, which ranked 10 of 12 among our industry peers."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance is now measured using equal components of relative TSR and adjusted operating cash flow, both over a cumulative three-year period"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance is now measured using equal components of relative TSR and adjusted operating cash flow, both over a cumulative three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Performance is now measured using equal components of relative TSR and adjusted operating cash flow"
+   }
+  ]
+ }
+}

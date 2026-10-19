@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0000200406-24-000024",
+  "task": "proposals",
+  "section_words": 3158,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5c01b01f6121113cb8bee30a43c97ee0158ddf07d66bbd9207d93933e327865b",
+  "est_input_tokens": 7924
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9340,
+  "output_tokens": 377,
+  "request_id": "req_011CgCAbJnhm5UpytQs2ndCa"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal \u2015 gender-based compensation gaps and associated risks",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Asks the board to issue a report by March 31, 2025 on compensation and health benefit gaps, including how it addresses dysphoria and detransitioning care and associated risks.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder proposal \u2015 impact of extended patent exclusivities on patient access",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Asks the board to establish and report on a process for considering the impact of extended patent exclusivities on product access when pursuing secondary and tertiary patents.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   }
+  ]
+ }
+}

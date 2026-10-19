@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001140361-24-018302",
+  "task": "proposals",
+  "section_words": 11147,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7595c4d29733a94cddb36fb87b7d8b46d10fc2c1f72e8c6de0f25313af950a54",
+  "est_input_tokens": 26188
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28454,
+  "output_tokens": 627,
+  "request_id": "req_011CgCA8pCXigs9ZH7g7KLDn"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Requesting a Report on Risks of Politicized De-Banking",
+    "proponent": "Ridgeline Research LLC, on behalf of the American Conservative Values ETF",
+    "topic_summary": "Requests a Board report evaluating how Morgan Stanley oversees risks of discrimination against individuals based on race, religion, sex, national origin, or political views in providing financial services.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Transparency in Lobbying",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests an annual report disclosing lobbying policies, lobbying and grassroots payments with recipients, trade association and model-legislation organization payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Requesting a Clean Energy Supply Financing Ratio",
+    "proponent": "The Comptroller of the City of New York, on behalf of the New York City Teachers' Retirement System, Employees' Retirement System, Police Pension Fund, and Board of Education Retirement System",
+    "topic_summary": "Requests annual disclosure of a Clean Energy Supply Financing Ratio comparing low-carbon energy financing to fossil-fuel financing, with methodology described.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

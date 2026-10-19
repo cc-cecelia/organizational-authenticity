@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-529376",
+  "task": "incentives",
+  "section_words": 7674,
+  "section_method": "heading",
+  "cache_key": "ac1be49b41240044b8c0981b11c2eab4a9bda92920e78a88dbfe3a77908ea51f",
+  "est_input_tokens": 17357
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19819,
+  "output_tokens": 930,
+  "request_id": "req_011CgCBDPXDAk1qjxLyKPu1U"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales (40%) | $82.70 | $87.06 | $104.47"
+   },
+   {
+    "metric": "Operating Profit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "metric": "Inventory Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Inventory Turns | 20% | 4.33 | 90% | 10% | 4.81 | 5.77 | 120% | 200%"
+   },
+   {
+    "metric": "Three-Year Average ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-year average return on invested capital (\"ROIC\") and operating profit"
+   },
+   {
+    "metric": "Three-Year Average Operating Profit",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each performance measure is separately determined and equally weighted."
+   },
+   {
+    "metric": "Operating profit (performance-based restricted stock forfeiture condition)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "restricted stock is forfeited if Fiscal 2015 operating profit is not at least 90% of the MIP target"
+   },
+   {
+    "metric": "Stock price performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Stock price performance \u2013 annual grant with an exercise price of $116.15 made on March 24, 2015"
+   }
+  ]
+ }
+}

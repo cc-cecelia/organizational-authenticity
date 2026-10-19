@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "8304ed86cee2410f4a30a121e122f486f264589da497668551ad162408c164be",
+  "est_input_tokens": 30746
+ },
+ "usage": {
+  "input_tokens": 30946,
+  "output_tokens": 1325
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Safety, and Environmental ( # ) \u25cf Operational ( # ) \u25cf Financial\u2014Relative Adjusted ROCE ( # ) \u25cf Strategic Milestones ( # ) \u25cf Energy Transition Milestones ( # )"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "OPERATIONAL (VCIP ONLY) As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "FINANCIAL (VCIP AND PSP) The Financial metrics in our compensation programs strongly align with our returns-focused strategy"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "STRATEGIC MILESTONES (VCIP ONLY) Delivering on our value proposition requires that we take actions"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ENERGY TRANSITION MILESTONES (VCIP ONLY) Effective with our #short-term incentive program, we created a separately [w] measure"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics to reinforce our commitment"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events is a measure of the control of process hazards in a facility with the potential to impact people"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure results against the approved target."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating and Overhead Costs came in #[w] above the #billion target"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Operational Milestones and targets are also designed to create alignment within our workforce"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Our Strategic milestones included: Progressing the LNG business through advancing new PALNG, NFE, and NFS projects"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Implementing action plans for priority E&S risks and tracking progress against mitigations"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Refreshing our DEI strategy globally and identifying how to assess progress on each component of diversity, equity, and inclusion."
+   },
+   {
+    "id": 14,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Achieving an annual GHG emissions intensity aligned with our #target trajectory range"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Executing our capital and cost budget for approved MACC projects"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Advancing multiple low carbon opportunities."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We measure TSR relative to our performance peer group to mitigate the influence of sector-wide factors"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial\u2014Relative Adjusted ROCE ( # ) \u25cf Stock value"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Executive Restricted Stock Unit Program ... Long-term equity-based compensation designed to encourage executive retention"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000331",
+  "task": "incentives",
+  "section_words": 11545,
+  "section_method": "heading",
+  "cache_key": "3ed1d7a8ec8799327b26c403f6fa5e01305ac9bce7b5b2392ed2d760fd908409",
+  "est_input_tokens": 27090
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29208,
+  "output_tokens": 1615,
+  "request_id": "req_011CgCCMqZUrRapxMqjmwqkB"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Spend per Barrel",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The corporate performance portion is based on Occidental's total spend per barrel and sustainability performance."
+   },
+   {
+    "metric": "Sustainability",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the weighting of sustainability metrics for the company performance portion of the ACI award at 30%"
+   },
+   {
+    "metric": "Emissions Reduction Efforts (Scope 1 and 2)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve a 15% reduction in routine flaring from our 2020 baseline"
+   },
+   {
+    "metric": "Carbon Ventures and Reduction Projects (Scope 3)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 30,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Advance carbon management platform \u25ba Approval to commence, and commencement of, construction on first DAC plant (DAC 1)"
+   },
+   {
+    "metric": "Committee Adjustment for Key Strategic Accomplishments",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Record net income, operating cash flow and free cash flow for the 2022 fiscal year (FY22)"
+   },
+   {
+    "metric": "Individual Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The individual performance portion of the ACI award (20% of the target ACI award for Ms. Hollub and 40% for the other NEOs)"
+   },
+   {
+    "metric": "Maintain focus on safety, health, the environment, sustainability, diversity, governance, social responsibility and ethical conduct",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Maintain focus on Occidental's commitment to safety, health, the environment, sustainability, diversity, governance, social responsibility and the highest standards of ethical conduct"
+   },
+   {
+    "metric": "Balance capital allocation, total spend and asset divestitures to optimize cash flow generation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Balance capital allocation, total spend and asset divestitures to optimize cash flow generation to further reduce debt"
+   },
+   {
+    "metric": "Focus on optimizing long-term return on invested capital",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Focus on optimizing the long-term return on invested capital by investing strategically within Occidental's portfolio of assets"
+   },
+   {
+    "metric": "Relative TSR (PSU award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a performance-based TSR award (25%), a performance-based CROCE award (25%)"
+   },
+   {
+    "metric": "CROCE (PSU award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a performance-based CROCE award (25%)"
+   }
+  ]
+ }
+}

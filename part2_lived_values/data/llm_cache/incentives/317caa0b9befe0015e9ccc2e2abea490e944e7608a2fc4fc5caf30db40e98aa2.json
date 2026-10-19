@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001672764-17-000003",
+  "task": "incentives",
+  "section_words": 11366,
+  "section_method": "heading",
+  "cache_key": "317caa0b9befe0015e9ccc2e2abea490e944e7608a2fc4fc5caf30db40e98aa2",
+  "est_input_tokens": 22235
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26632,
+  "output_tokens": 691,
+  "request_id": "req_011CgCBUqPPFGZ8Z4LjmALWs"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Net Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted net revenue, which was weighted at 50%"
+   },
+   {
+    "metric": "Adjusted Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted operating income, which was weighted at 50%"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ROIC, which operated as a potential downward modifier of the adjusted net revenue and adjusted net operating income result"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the adjusted EPS performance measure has a sliding scale so each NEO may achieve from 0% to 200% of the target award amount"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If the target ROIC goal under the performance RSUs is not met, the number of performance RSUs to be delivered based on achievement of the adjusted EPS goal will be adjusted downward by as much as 50%"
+   }
+  ]
+ }
+}

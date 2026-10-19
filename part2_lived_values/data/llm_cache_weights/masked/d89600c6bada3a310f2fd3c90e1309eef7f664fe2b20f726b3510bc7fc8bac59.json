@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "d89600c6bada3a310f2fd3c90e1309eef7f664fe2b20f726b3510bc7fc8bac59",
+  "est_input_tokens": 22171
+ },
+ "usage": {
+  "input_tokens": 23413,
+  "output_tokens": 765
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income Per Barrel of crude oil throughput compared to a group of peer companies"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EBITDA is calculated as earnings before interest and financing costs, interest income, income taxes"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Distributable Cash Flow at MPLX per Unit is a non-GAAP measure reflecting cash flow available to be paid to MPLX's common unitholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Refining Operating Costs includes expenses related to employee and contract labor, maintenance, energy and chemicals/catalyst"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas (GHG) Intensity measures how efficiently we operate our facilities"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Process Safety Events Rate measures our ability to identify, understand and control certain process hazards."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Designated Environmental Incidents measures environmental performance through tracking Tier #and #incidents."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diversity, Equity & Inclusion measures our effectiveness toward reaching our #-year representation goals"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MPC PSUs align our NEOs' long-term compensation interests with our shareholders' long-term investment interests by conditioning payout on the performance of our TSR relative to that of our peers"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MPLX performance units pay out based on MPLX's total unitholder return (\"TUR\") performance relative to a peer group of midstream companies"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "DCF attributable to MPLX is measured for each year of a #-year performance cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "474a1cebe7775982b3f530c45f2ffff49d17fa08fda22e566385c5519ec965e7",
+  "est_input_tokens": 17142
+ },
+ "usage": {
+  "input_tokens": 18160,
+  "output_tokens": 456
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The LDC Committee aligned the [w] of the sales and operating profit goals to emphasize top line sales growth balanced with the Company's continued focus on profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded target levels for each of the sales and operating profit goals and achieved performance slightly below the target level for the inventory turns goal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "provides for the grant of shares of our common stock at the end of a three-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "provides for the grant of shares of our common stock at the end of a three-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance-Based Restricted Stock. In March #we granted performance-based restricted stock awards that were forfeitable if operating profit was less than # of the MIP target"
+   }
+  ],
+  "equal_split": []
+ }
+}

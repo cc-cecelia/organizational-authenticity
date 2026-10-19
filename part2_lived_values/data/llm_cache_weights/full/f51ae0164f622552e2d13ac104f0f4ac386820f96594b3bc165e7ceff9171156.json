@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "f51ae0164f622552e2d13ac104f0f4ac386820f96594b3bc165e7ceff9171156",
+  "est_input_tokens": 24761
+ },
+ "usage": {
+  "input_tokens": 25867,
+  "output_tokens": 407
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The objective performance goals under our annual incentive bonus plan... weighting of operating income was increased to 60% (from 50% in fiscal 2017)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Net Revenue was reduced to 40% (from 50% in fiscal 2017), to increase the emphasis on prioritization of investments."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee adjusted annual incentive bonuses for two executives, Ms. Brewer and Mr. Culver, to a level above the result indicated by the quantitative formula"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the number of shares earned is dependent on the achievement of a two-year EPS goal, with potential for downward adjustment based on a return on invested capital"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The ROIC performance goal operates as a downward modifier and will have no impact on the payout percentage of the fiscal 2018 PRSUs."
+   }
+  ],
+  "equal_split": []
+ }
+}

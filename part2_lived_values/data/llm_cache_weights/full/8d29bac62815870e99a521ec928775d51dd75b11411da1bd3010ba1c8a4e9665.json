@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "8d29bac62815870e99a521ec928775d51dd75b11411da1bd3010ba1c8a4e9665",
+  "est_input_tokens": 18769
+ },
+ "usage": {
+  "input_tokens": 23013,
+  "output_tokens": 802
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Sales (2) | $34.92B | 25% | $42.99B"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS | $3.65 | 25%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted ROA | 11.8% | 10%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | Recognizes the importance of generating cash to fund ongoing investments in our business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "COVID-19 Test Sales | 10% | 92.9% of target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diabetes Care Sales Growth | 10% | 89.1% of Target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Core Diagnostics Sales Growth | 10% | 89.7% of Target"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest one-third each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee positions LTI award guidelines relative to the market by comparing Abbott's 3-year TSR performance against our peers."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LTI Award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: Sales and market growth"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Margin Contribution | Measures how each officer has performed relative to their sales, margin, and strategic financial contribution goals."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Financial Contribution | Met (0) | Met (0) | Met (0) | 0"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Contribution scores are totaled and used to adjust each officer's award guideline."
+   }
+  ]
+ }
+}

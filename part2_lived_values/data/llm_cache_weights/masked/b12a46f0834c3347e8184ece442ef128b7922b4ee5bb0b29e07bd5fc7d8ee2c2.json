@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "b12a46f0834c3347e8184ece442ef128b7922b4ee5bb0b29e07bd5fc7d8ee2c2",
+  "est_input_tokens": 19631
+ },
+ "usage": {
+  "input_tokens": 19926,
+  "output_tokens": 385
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Net Revenue. For Messrs. Schultz, Maw and Johnson, # of their EMBP award was based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Operating Income. For Messrs. Schultz, Maw and Johnson, # of their total EMBP award was based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC, which operated as a potential downward modifier of the adjusted net revenue and adjusted net operating income result."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the number of shares earned is dependent on the achievement of future EPS and ROIC goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The extent to which performance RSUs vest is based on our achievement of #-year adjusted EPS and ROIC goals."
+   }
+  ],
+  "equal_split": []
+ }
+}

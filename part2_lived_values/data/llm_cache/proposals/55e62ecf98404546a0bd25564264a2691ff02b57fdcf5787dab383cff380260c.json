@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0000059478-16-000331",
+  "task": "proposals",
+  "section_words": 2542,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "55e62ecf98404546a0bd25564264a2691ff02b57fdcf5787dab383cff380260c",
+  "est_input_tokens": 5524
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6663,
+  "output_tokens": 201,
+  "request_id": "req_011CgCARFyWHbMN6KmF1ynXX"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal Seeking a Report Regarding How We Select the Countries In Which We Operate or Invest",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests the Board review guidelines for selecting countries/regions for operations and issue a report to shareholders by December 2016 on criteria for investing in, operating in and withdrawing from high-risk regions.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

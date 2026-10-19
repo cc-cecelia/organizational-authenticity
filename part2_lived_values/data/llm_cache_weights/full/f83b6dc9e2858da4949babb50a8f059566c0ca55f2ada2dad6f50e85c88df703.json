@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "f83b6dc9e2858da4949babb50a8f059566c0ca55f2ada2dad6f50e85c88df703",
+  "est_input_tokens": 18603
+ },
+ "usage": {
+  "input_tokens": 19633,
+  "output_tokens": 1040
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a key driver of shareholder returns and captures items not included in GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increases in market share is a driver of revenue and income across our portfolios and regions."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Both Quality and Inclusion, Diversity, and Equity (ID&E) are components of our scorecard that directly impact payouts of our annual incentive plan."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Women Mangers + (Total Medtronic) | 42.5% | 50% | 42.9% | 95%-105%"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Ethnically Diverse Managers + (US only) | 27.0% | 50% | 27.6% | 106%-120%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Complimenting our ID&E category was Quality emphasizing both compliance and quality."
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Findings/Inspections (FDA 483) | <= 1.5 | 33.3% | 1.0 | 33.3%"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Quality | FCA Execution Timelines | >= 95% | 33.3% | 95.0% | 33.3%"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Complaint Timeliness Execution | >= 70% | 33.3% | 65.0% | 30.0%"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "As noted above the FY23 MIP payout is 0%, resulting in no individual MIP modifications."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Performance Share Unit plan is a 3-year incentive plan that is based on long-term measures of company performance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The 50% portion focused on Relative TSR is defined as the ending share price of a share of common stock, plus the value of reinvested dividends"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the three-year ROIC target is not achieved the overall performance score is reduced by 30%."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 12,
+    "plan": "long_term_incentive",
+    "evidence": "The 50% portion focused on revenue growth is defined as the 3-year simple average"
+   }
+  ]
+ }
+}

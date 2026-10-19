@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-133349",
+  "task": "incentives",
+  "section_words": 9949,
+  "section_method": "heading",
+  "cache_key": "aa16b5291a91ba1ed027811d034703f6109c18714fa7a8b20dff7c4eab03ba95",
+  "est_input_tokens": 22524
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24904,
+  "output_tokens": 683,
+  "request_id": "req_011CgCBhMJZ1hPxz2eVjqi97"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted pre-tax income (MIP corporate goal)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For fiscal 2018, the ECC determined that for MIP, annual adjusted pre-tax income was an appropriate and effective measure"
+   },
+   {
+    "metric": "Adjusted pre-tax income (LRPIP fiscal 2016-2018 cycle, divisional weighted)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "that cumulative three-year adjusted pre-tax income was an appropriate and effective metric to motivate, focus, and reward operational performance"
+   },
+   {
+    "metric": "Adjusted pre-tax income (LRPIP fiscal 2018-2020 cycle)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the ECC also established the LRPIP adjusted pre-tax income target for this new three-year cycle based on aggregate targets for all divisions"
+   },
+   {
+    "metric": "Adjusted pre-tax income (PBSA vesting condition, fiscal 2018-2020 LRPIP-based PBSAs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achievement of at least 87% of the targeted cumulative pre-tax income performance for the applicable three-year cycle"
+   }
+  ]
+ }
+}

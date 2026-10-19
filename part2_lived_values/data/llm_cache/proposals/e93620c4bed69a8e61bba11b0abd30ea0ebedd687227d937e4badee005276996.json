@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2020,
+  "accession": "0001193125-20-102552",
+  "task": "proposals",
+  "section_words": 1748,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "e93620c4bed69a8e61bba11b0abd30ea0ebedd687227d937e4badee005276996",
+  "est_input_tokens": 4170
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5401,
+  "output_tokens": 210,
+  "request_id": "req_011CgCA9yn26174XZ489REhZ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2013 Production of a Report on the \"Statement on the Purpose of a Corporation\"",
+    "proponent": "Trio Foundation (represented by As You Sow)",
+    "topic_summary": "Requests the Board prepare a report reviewing the BRT Statement on the Purpose of a Corporation and provide its perspective on how governance and management systems should be altered to implement it.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

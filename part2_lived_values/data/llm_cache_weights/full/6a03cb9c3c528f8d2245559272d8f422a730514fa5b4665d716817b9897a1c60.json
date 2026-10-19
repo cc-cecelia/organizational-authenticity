@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "6a03cb9c3c528f8d2245559272d8f422a730514fa5b4665d716817b9897a1c60",
+  "est_input_tokens": 9978
+ },
+ "usage": {
+  "input_tokens": 10868,
+  "output_tokens": 152
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use EPS as the performance criterion for the Corporate Executive Bonus Plan because it measures profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Continued to use ROCE equaling or exceeding COE as the performance goal for the 2018 PBRSUs"
+   }
+  ],
+  "equal_split": []
+ }
+}

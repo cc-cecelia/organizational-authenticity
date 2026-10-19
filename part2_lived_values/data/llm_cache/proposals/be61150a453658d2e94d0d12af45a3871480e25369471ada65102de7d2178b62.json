@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001193125-24-087282",
+  "task": "proposals",
+  "section_words": 3915,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "be61150a453658d2e94d0d12af45a3871480e25369471ada65102de7d2178b62",
+  "est_input_tokens": 9188
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10347,
+  "output_tokens": 513,
+  "request_id": "req_011CgCACkMxWju2ipjC9WpR5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2013 Report on EEO Policy Risk",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests a public report on potential risks of omitting \"viewpoint\" and \"ideology\" from BlackRock's written EEO policy.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that our shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Amend Bylaws to Require Independent Board Chair",
+    "proponent": "Bluebell Capital Partners Limited",
+    "topic_summary": "Requests amending bylaws so the Board must elect an independent director as Chairman, phased in by the 2025 AGM.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that our shareholders vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2013 Report on Proxy Voting Record and Policies for Climate Change-Related Proposals",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Requests a board review of BlackRock's 2023 proxy voting record and climate-related proxy voting policies.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board recommends that our shareholders vote AGAINST this proposal."
+   }
+  ]
+ }
+}

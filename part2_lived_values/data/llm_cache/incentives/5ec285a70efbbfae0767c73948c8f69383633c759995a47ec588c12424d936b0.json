@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000174",
+  "task": "incentives",
+  "section_words": 7605,
+  "section_method": "heading",
+  "cache_key": "5ec285a70efbbfae0767c73948c8f69383633c759995a47ec588c12424d936b0",
+  "est_input_tokens": 17469
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19025,
+  "output_tokens": 1165,
+  "request_id": "req_011CgCBZMSG3NyX4JbUnhMNU"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Incentive EBIT (75%) and Total Adjusted Sales (25%)."
+   },
+   {
+    "metric": "Total Adjusted Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)."
+   },
+   {
+    "metric": "Team scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining 20% of their STIP is based on a team scorecard, designed to strongly align pay opportunity to Target's strategic agenda."
+   },
+   {
+    "metric": "Primary team scorecard progress indicators: out-of-stock management, digital/store/POS system stability, signature category growth",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increased reliability across channels through out-of-stock management; improved stability in digital, stores and point of sale systems; and signature category growth"
+   },
+   {
+    "metric": "Change in Market Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The three relative metrics used in our PSU plan are: Change in Market Share."
+   },
+   {
+    "metric": "EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations versus the reported EPS from continuing operations of our retail peer group."
+   },
+   {
+    "metric": "After-Tax ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax divided by average invested capital"
+   },
+   {
+    "metric": "Total shareholder return relative to retail peer group (PBRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PBRSUs cliff vest at the end of the three-year performance period with the number of shares based on relative three-year TSR performance versus our retail peer group."
+   }
+  ]
+ }
+}

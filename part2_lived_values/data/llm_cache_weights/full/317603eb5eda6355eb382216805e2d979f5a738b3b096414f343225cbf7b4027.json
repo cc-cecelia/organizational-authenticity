@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "317603eb5eda6355eb382216805e2d979f5a738b3b096414f343225cbf7b4027",
+  "est_input_tokens": 21392
+ },
+ "usage": {
+  "input_tokens": 25420,
+  "output_tokens": 641
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | 1/3 | $189.1 billion | $199.0 billion | $209.0 billion | $201.2 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Income* | 1/3 | $12.61 billion | $14.835 billion | $17.06 billion | $15.2 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | $10.3 billion | $12.1 billion | $13.9 billion | $13.6 billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter Score \u2022 Employee Engagement \u2022 Employee Teamwork | 1/3"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Enhance customer service and increase the Company's net promoter score across all business platforms;"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Employee Engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Employee Teamwork"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative Earnings Per Share | \u200b | \u200b | 50%"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity | \u200b | \u200b | 50%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue* | 1/3 | $189.1 billion"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Cumulative Earnings Per Share | \u200b | \u200b | 50%"
+   }
+  ]
+ }
+}

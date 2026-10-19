@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-087020",
+  "task": "proposals",
+  "section_words": 18573,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "88f090e7ba796b08650619dfc406e19214eb990dbf23ec482c3572b86fded023",
+  "est_input_tokens": 40993
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 44690,
+  "output_tokens": 816,
+  "request_id": "req_011CgCA3aX7eJrRBvMRqjQSG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Shareholder Right to Act by Written Consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, including on any appropriate topic.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding a Report on the Effects of the Use of Mandatory Arbitration",
+    "proponent": "The Nathan Cummings Foundation",
+    "topic_summary": "Requests a public report on how mandatory arbitration affects employees, harassment and discrimination prevalence, and employees' ability to seek redress.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding Conversion to a Public Benefit Corporation",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Asks the board to approve and submit to shareholders an amendment converting the company to a Public Benefit Corporation under Delaware law.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding a Racial Equity Audit",
+    "proponent": "Service Employees International Union Pension Plans Master Trust",
+    "topic_summary": "Urges the board to oversee a racial equity audit analyzing the company's impacts on nonwhite stakeholders and communities of color, publicly disclosed.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD UNANIMOUSLY RECOMMENDS A VOTE AGAINST THE SHAREHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

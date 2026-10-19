@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000174",
+  "task": "proposals",
+  "section_words": 2300,
+  "section_method": "resolved_windows",
+  "cache_key": "46f89fc4acee07a33b7b1481a8cc2113c97ba129d8c623e151a4a3cac14ba547",
+  "est_input_tokens": 5298
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6436,
+  "output_tokens": 11,
+  "request_id": "req_011CgCBZTDXs2QSHJVa7PFZV"
+ },
+ "result": {
+  "proposals": []
+ }
+}

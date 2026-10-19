@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "73fe5bc10f50ead1e84f46a35f037891c9f92045e98e07348d27943387a6a841",
+  "est_input_tokens": 26481
+ },
+ "usage": {
+  "input_tokens": 26523,
+  "output_tokens": 897
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Policy goals as a precondition to any 2015 annual incentive awards for our named executives"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The HRC annually reviews the CEO's achievement of individual qualitative objectives"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "These objectives include compliance with our policies on information security, regulatory compliance, risk management accountability and diversity and inclusion objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Evaluated the individual performance of named executives based on their focus on appropriate risk management practices"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company Financial Performance \u2014 the Company's 2015 net income of $22.9 billion, diluted EPS of $4.12, and RORCE of 12.8%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Priorities \u2013 the Company's progress on key strategic priorities, including"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "connecting with communities, as reflected by \u2022 ranked by United Way Worldwide as largest workplace-giving campaign"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "building and maintaining enduring relationships with our customers in furtherance of our vision to satisfy their financial needs"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Success or failure at achieving strategic business line objectives, including business line financial results, is factored into the HRC's executive compensation decisions"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our long-term equity awards are granted primarily in the form of Performance Shares that vest based on achievement of three-year RORCE performance criteria."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "reduces the target number of Performance Shares by one-third for each year in the three-year performance period the Company incurs a Net Operating Loss"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The HRC has full discretion to cancel all or a portion of these Performance Share awards upon the occurrence of the specified performance-based vesting conditions"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to cancellation in the HRC's discretion upon the occurrence of performance-based vesting conditions"
+   }
+  ],
+  "equal_split": []
+ }
+}

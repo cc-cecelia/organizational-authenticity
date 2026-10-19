@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001558370-24-003496",
+  "task": "incentives",
+  "section_words": 9348,
+  "section_method": "heading",
+  "cache_key": "616e70b78bfccad397f5f11dbed55ef8b6118cf6b5e872ef8954a24f31d83476",
+  "est_input_tokens": 19326
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23649,
+  "output_tokens": 5340,
+  "request_id": "req_011CgCAfVpMFpmmAQUwDHcNy"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Income Before Taxes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Based on non-GAAP performance measures such as: \u2014 Platform revenue \u2014 Income before taxes \u2014 Operating margin \u2014 Return on assets \u2014 Strategic and leadership goals"
+   },
+   {
+    "metric": "Platform Revenue, Operating Margin, and Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "metric": "Platform Revenue",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Platform Revenue is a non-GAAP metric comprised of net revenues less total Humira sales and adjusted for foreign exchange"
+   },
+   {
+    "metric": "Operating Margin",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Non - GAAP Operating Margin"
+   },
+   {
+    "metric": "Return on Assets",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Return on Assets"
+   },
+   {
+    "metric": "R&D/Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Richard A. Gonzalez | 20% | 60% | 10% | | 10%"
+   },
+   {
+    "metric": "ESG goal",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "metric": "EEDI strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to executing the equity, equality, diversity, and inclusion (EEDI) strategy."
+   },
+   {
+    "metric": "Strategic and leadership goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each NEO achieved or exceeded their 2023 strategic and leadership goals"
+   },
+   {
+    "metric": "Qualitative assessment of holistic performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Final awards are determined by the compensation committee and include a qualitative assessment of holistic performance."
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR is measured over a 3 - year performance period and used as a modifier"
+   },
+   {
+    "metric": "Relative Return on Invested Capital",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on AbbVie's return on invested capital (ROIC) articulated as pre-set goals and measured relative to a group"
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001047469-20-001466",
+  "task": "incentives",
+  "section_words": 6970,
+  "section_method": "heading+median_adjusted",
+  "cache_key": "cd094fc2f59503081c13a283dbcc3bab5880dbafd8d5abb4d92ceea69ba9db42",
+  "est_input_tokens": 13245
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17847,
+  "output_tokens": 651,
+  "request_id": "req_011CgCAoARFYsE7HRbwQbd2n"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Minimum return on equity target (performance-based restricted stock vesting)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "vest upon Abbott reaching a minimum return on equity target"
+   }
+  ]
+ }
+}

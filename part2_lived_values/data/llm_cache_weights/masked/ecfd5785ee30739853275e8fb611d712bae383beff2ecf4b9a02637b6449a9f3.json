@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "ecfd5785ee30739853275e8fb611d712bae383beff2ecf4b9a02637b6449a9f3",
+  "est_input_tokens": 29757
+ },
+ "usage": {
+  "input_tokens": 30778,
+  "output_tokens": 900
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Scorecard shows Citigroup Income from Continuing Operations Before Taxes under Profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citicorp Efficiency Ratio | # | #"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Tangible Common Equity | # | #"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Assets | # | #"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Citicorp Risk Appetite Ratio | # | #Citicorp Risk Appetite Surplus"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Scorecard ([w] #)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-Financial Scorecard ([w] #)"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong risk and controls management | \u25cf While Citi has more work to do, Citi achieved a significant milestone"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong personnel management | \u25cf Mr. Corbat has focused on encouraging diverse slates of candidates"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Enhance relations with external stakeholders, including stockholders | \u25cf Mr. Corbat continued his outreach to external stakeholders globally"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Set strategic direction | \u25cf Under Mr. Corbat's sponsorship, Citi received no objection to its capital plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Digitize and simplify customer platforms"
+   },
+   {
+    "id": 12,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Improve market share in core markets"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The new metrics are return on tangible common equity and cumulative earnings per share."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The new metrics are return on tangible common equity and cumulative earnings per share."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "retain total shareholder return as a performance modifier that caps the award at target"
+   }
+  ],
+  "equal_split": []
+ }
+}

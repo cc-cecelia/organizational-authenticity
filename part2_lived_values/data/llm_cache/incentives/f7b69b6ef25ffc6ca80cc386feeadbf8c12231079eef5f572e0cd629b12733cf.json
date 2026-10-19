@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0000320187-16-000339",
+  "task": "incentives",
+  "section_words": 8618,
+  "section_method": "heading",
+  "cache_key": "f7b69b6ef25ffc6ca80cc386feeadbf8c12231079eef5f572e0cd629b12733cf",
+  "est_input_tokens": 18807
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22495,
+  "output_tokens": 766,
+  "request_id": "req_011CgCBQMVEph9i38aqD8L8d"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Income before income taxes (PTI) (excluding effect of acquisitions, divestitures and accounting changes)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee also established a series of performance targets based on our income before income taxes (\"PTI\") for fiscal 2016"
+   },
+   {
+    "metric": "Cumulative revenues",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "performance targets based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\")"
+   },
+   {
+    "metric": "Cumulative diluted earnings per common share (EPS)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\")"
+   },
+   {
+    "metric": "Cumulative revenue growth (Performance-Based RSUs, fiscal 2016-2020)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "subject to performance vesting based on our cumulative revenue growth and cumulative EPS growth for the performance period"
+   },
+   {
+    "metric": "Cumulative EPS growth (Performance-Based RSUs, fiscal 2016-2020)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "based on our cumulative revenue growth and cumulative EPS growth for the performance period"
+   }
+  ]
+ }
+}

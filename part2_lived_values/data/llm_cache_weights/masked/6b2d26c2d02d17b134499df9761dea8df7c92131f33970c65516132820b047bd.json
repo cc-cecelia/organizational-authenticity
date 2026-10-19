@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "6b2d26c2d02d17b134499df9761dea8df7c92131f33970c65516132820b047bd",
+  "est_input_tokens": 20571
+ },
+ "usage": {
+  "input_tokens": 20721,
+  "output_tokens": 428
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The [w] of each of the sales and operating profit goals was aligned to emphasize top line sales growth balanced with the Company's continued focus on profitability"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The [w] of the inventory turns goal at # maintained visibility and attention on inventory turns while at the same time recognizing that this metric may be impacted"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Equity for senior officers is paid in a mix of performance shares, performance-based restricted stock, and stock options"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "provide for the issuance of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target."
+   }
+  ],
+  "equal_split": []
+ }
+}

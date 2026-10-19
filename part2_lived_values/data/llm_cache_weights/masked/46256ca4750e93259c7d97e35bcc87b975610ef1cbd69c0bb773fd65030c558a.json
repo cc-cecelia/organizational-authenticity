@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "46256ca4750e93259c7d97e35bcc87b975610ef1cbd69c0bb773fd65030c558a",
+  "est_input_tokens": 13228
+ },
+ "usage": {
+  "input_tokens": 14110,
+  "output_tokens": 533
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Streamlined plan to # [w]-[w] metrics\u2014Adjusted Revenue (for driving top-line growth) and Adjusted EBIT (for managing overall profitability)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted EBIT (for managing overall profitability)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Consistent with the prior year's awards, the Compensation Committee selected Relative TSR as the metric for the fiscal #\u2013 #PSU awards"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The fiscal #\u2013 #PSU awards also contain a People & Planet modifier designed to support our commitment to Purpose, which is a key component of our long-term strategy."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   }
+  ],
+  "equal_split": []
+ }
+}

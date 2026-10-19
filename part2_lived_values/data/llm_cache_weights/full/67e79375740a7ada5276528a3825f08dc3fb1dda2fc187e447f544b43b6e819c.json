@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "67e79375740a7ada5276528a3825f08dc3fb1dda2fc187e447f544b43b6e819c",
+  "est_input_tokens": 15003
+ },
+ "usage": {
+  "input_tokens": 15091,
+  "output_tokens": 1941
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "which begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "requiring that Tesla achieve gross margin of 30% or more for four consecutive quarters, has not been achieved and remains outstanding"
+   }
+  ],
+  "equal_split": []
+ }
+}

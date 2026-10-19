@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "6797982bf5ec235313d4e5fe6cb53082c74a5b003c24792f5f73ade0a88d2250",
+  "est_input_tokens": 22048
+ },
+ "usage": {
+  "input_tokens": 23933,
+  "output_tokens": 426
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated net cash flows from operating activities measured on a U.S. GAAP basis"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Mr. Kurian's 2017 PSUs are earned based on year-over-year growth in Oracle's total revenues for its cloud SaaS and PaaS offerings measured on a U.S. GAAP basis"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee selected year-over-year growth in our non-GAAP pre-tax profits as the financial performance metric for determining our NEOs' annual cash bonuses"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "long_term_incentive",
+    "evidence": "50% of the number of target PSUs is tied to relative growth in total consolidated revenues measured on a U.S. GAAP basis"
+   }
+  ]
+ }
+}

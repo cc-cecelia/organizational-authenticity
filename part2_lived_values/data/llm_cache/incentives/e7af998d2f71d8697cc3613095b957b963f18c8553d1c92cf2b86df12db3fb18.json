@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001510295-22-000023",
+  "task": "incentives",
+  "section_words": 10334,
+  "section_method": "opening_sentence",
+  "cache_key": "e7af998d2f71d8697cc3613095b957b963f18c8553d1c92cf2b86df12db3fb18",
+  "est_input_tokens": 23450
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26487,
+  "output_tokens": 1595,
+  "request_id": "req_011CgCCBJLyhD6pdwqCxp5Vs"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating Income Per Barrel",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income Per Barrel | 20% | 5th or 6th Position | 3rd or 4th Position"
+   },
+   {
+    "metric": "Adjusted EBITDA per Share",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBITDA per Share | 20% | $5.28 | $6.60 | $7.92 | $11.81"
+   },
+   {
+    "metric": "Distributable Cash Flow at MPLX per Unit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Distributable Cash Flow at MPLX per Unit | 20% | $3.62 | $4.02 | $4.22 | $4.66"
+   },
+   {
+    "metric": "Refining Operating Costs",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Refining Operating Costs (in millions) | 20% | $5,495 | $5,338 | $5,076 | $5,175"
+   },
+   {
+    "metric": "Greenhouse Gas Intensity",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Greenhouse Gas Intensity | 5% | 24.0 | 23.4 | 22.5 | 23.1"
+   },
+   {
+    "metric": "Process Safety Events Rate",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Process Safety Events Rate | 5% | 0.50 | 0.33 | 0.25 | 0.41"
+   },
+   {
+    "metric": "Designated Environmental Incidents",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Designated Environmental Incidents | 5% | 80 | 60 | 30 | 55"
+   },
+   {
+    "metric": "Diversity, Equity & Inclusion",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diversity, Equity & Inclusion | 5% | External hires are at least (Women / BIPOC)"
+   },
+   {
+    "metric": "Total Shareholder Return relative to peers (MPC PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "MPC PSUs pay out based on our three-year TSR performance relative to the peer group"
+   },
+   {
+    "metric": "MPLX Total Unitholder Return relative to peers (MPLX performance units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Unitholder Return (50% of MPLX Performance Unit Payout)"
+   },
+   {
+    "metric": "MPLX Distributable Cash Flow attributable to MPLX (MPLX performance units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Distributable Cash Flow (50% of MPLX Performance Unit Payout)"
+   }
+  ]
+ }
+}

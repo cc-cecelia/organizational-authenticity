@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "440954861dcbb4336e3fe9297b37e71ab7d6a24f9641afef62a05f3557e974df",
+  "est_input_tokens": 18197
+ },
+ "usage": {
+  "input_tokens": 19161,
+  "output_tokens": 704
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance | # | \u2022 Net New Business \u2022 Organic Revenue \u2022 Total Revenue \u2022 Operating Income"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Strength | # | \u2022 Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Client Retention and Client Relationship Strength"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Risk Management"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational Performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength | # | \u2022 Employee Engagement \u2022 Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Employee Engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Inclusiveness and Diversity Objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to # key drivers of stockholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares vesting under BPIP is based on the attainment of specified Organic Revenue and Operating Margin, as adjusted, levels."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 10,
+    "plan": "long_term_incentive",
+    "evidence": "BPIP is tied to # key drivers of stockholder value"
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000019",
+  "task": "incentives",
+  "section_words": 7500,
+  "section_method": "heading",
+  "cache_key": "59666231dc76ecb1d5dd790fa480df0f185261cb7a6064dd3e7bd6b5b7bcea34",
+  "est_input_tokens": 17743
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18444,
+  "output_tokens": 895,
+  "request_id": "req_011CgC9C5tZN2xpfAoNPrX3c"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee chose net sales and operating income ... as the financial performance measures for the 2022 annual cash incentive program"
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "payouts ... are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures"
+   },
+   {
+    "metric": "Apple values and key community initiatives assessment (Accessibility, Education, Environment, Inclusion & Diversity, Privacy, Supplier Responsibility, Key Community Initiatives)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee may choose to adjust the named executive officers' payout opportunity upwards or downwards by up to 10% or determine not to make any adjustments"
+   },
+   {
+    "metric": "Environment (achieving progress towards 2030 goal)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieving progress towards 2030 goal via the following five pillars across Apple"
+   },
+   {
+    "metric": "Inclusion & Diversity (increasing representation of diverse groups)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increasing representation of diverse groups with a particular focus on engineering and leadership"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest, if any, depends entirely on Relative TSR for the applicable performance period"
+   }
+  ]
+ }
+}

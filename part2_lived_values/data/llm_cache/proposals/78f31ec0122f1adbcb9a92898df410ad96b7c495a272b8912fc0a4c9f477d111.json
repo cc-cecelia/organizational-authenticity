@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0000059478-23-000120",
+  "task": "proposals",
+  "section_words": 13450,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "78f31ec0122f1adbcb9a92898df410ad96b7c495a272b8912fc0a4c9f477d111",
+  "est_input_tokens": 31670
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 31310,
+  "output_tokens": 1346,
+  "request_id": "req_011CgCAVADMZSFxn9ehPDzS2"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Proposal to Publish an Annual Report Disclosing Lobbying Activities",
+    "proponent": "Service Employees International Union Pension Plans Master Trust (SEIU)",
+    "topic_summary": "Requests an annual report disclosing company lobbying policies, payments to lobbying recipients including trade associations, and oversight processes for such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal to Eliminate Supermajority Voting Requirements",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests replacing every voting requirement above simple majority in the charter and bylaws with a majority of votes cast, with extensive solicitation and EDGAR filing steps.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that the company's shareholders oppose this proposal and instead adopt management's proposal"
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal to Establish and Report on a Process by which the Impact of Extended Patent Exclusivities on Product Access Would be Considered in Deciding Whether to Apply for Secondary and Tertiary Patents",
+    "proponent": "Trinity Health",
+    "topic_summary": "Asks the board to establish and report on a process considering how extended patent exclusivities affect product access before applying for secondary and tertiary patents.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal to Report on Risks of Supporting Abortion",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a report on known risks and costs from opposing or altering company policy regarding state abortion regulations and mitigation strategies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Proposal to Disclose Lobbying Activities and Alignment with Public Policy Positions and Statements",
+    "proponent": "CommonSpirit Health",
+    "topic_summary": "Requests a third-party review of how Lilly reconciles innovation and patient access commitments with its lobbying and policy advocacy, direct and through trade associations.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Proposal to Report on Effectiveness of the Company's Diversity, Equity, and Inclusion Efforts",
+    "proponent": "As You Sow",
+    "topic_summary": "Requests a report on DEI effectiveness using quantitative hiring, retention, and promotion metrics broken down by gender, race, and ethnicity.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Proposal to Adopt a Policy to Require Certain Third-Party Organizations to Annually Report Expenditures for Political Activities before Lilly Contributes to an Organization",
+    "proponent": "Change Finance, P.B.C.",
+    "topic_summary": "Requests a policy requiring trade associations and social welfare groups to report annually their political expenditures before receiving Lilly contributions, with reports posted publicly.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board, after review by its Directors and Corporate Governance Committee, recommends a vote against this proposal."
+   }
+  ]
+ }
+}

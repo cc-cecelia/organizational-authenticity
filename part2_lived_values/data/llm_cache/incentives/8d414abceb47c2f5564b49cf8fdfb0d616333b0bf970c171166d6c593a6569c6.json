@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001308179-21-000256",
+  "task": "incentives",
+  "section_words": 10374,
+  "section_method": "heading",
+  "cache_key": "8d414abceb47c2f5564b49cf8fdfb0d616333b0bf970c171166d6c593a6569c6",
+  "est_input_tokens": 21902
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24797,
+  "output_tokens": 179,
+  "request_id": "req_011CgC9GyQGox9xCnaaTLH6q"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sundar PSU market-based goals (2019 PSU award, 2020-2021 and 2020-2022 performance periods)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The number of PSUs included in the table assumes achievement of market-based goals at the target level for each performance tranche."
+   }
+  ]
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000205",
+  "task": "proposals",
+  "section_words": 14563,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cc700c22d05633eaf076f8bb81ce843d627c86f84d4ecfdf1ee076aee3c1ffa3",
+  "est_input_tokens": 33541
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33942,
+  "output_tokens": 2148,
+  "request_id": "req_011CgC9Gom651SZce9ZtHy8W"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal Regarding Equal Shareholder Voting",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board initiate a recapitalization plan giving each outstanding share one vote, phasing out Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Inequitable Employment Practices",
+    "proponent": "not stated",
+    "topic_summary": "Asks Alphabet to commit not to use mandatory arbitration of employment claims, non-compete agreements, no-poaching agreements, or involuntary NDAs in harassment settlements.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding the Establishment of a Societal Risk Oversight Committee",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to establish a Societal Risk Oversight Committee of independent directors to review potential societal consequences of products and services.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding a Report on Sexual Harassment Risk Management",
+    "proponent": "not stated",
+    "topic_summary": "Requests management review sexual harassment policies and report findings, including grievance mechanisms, settlements and disciplinary actions, by December 31, 2019.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding Majority Vote for the Election of Directors",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending bylaws so directors are elected by majority of votes cast in uncontested elections, with failed nominees removed from the board.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding a Report on Gender Pay",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on Alphabet's global median gender pay gap and associated policy, reputational, competitive and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding Strategic Alternatives",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to retain advisors to study strategic alternatives, including unifying share classes or asset sales, to maximize shareholder value.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding the Nomination of an Employee Representative Director",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board nominate a non-executive employee as Employee Representative Director for election by shareholders at the 2020 annual meeting.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Stockholder Proposal Regarding Simple Majority Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests eliminating supermajority voting requirements in the charter and bylaws, replacing them with a majority of votes cast standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Stockholder Proposal Regarding a Sustainability Metrics Report",
+    "proponent": "not stated",
+    "topic_summary": "Requests a Compensation Committee report on integrating sustainability metrics, including senior executive diversity metrics, into executive pay performance measures.",
+    "category": "environment",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "14",
+    "title": "Stockholder Proposal Regarding Google Search in China",
+    "proponent": "not stated",
+    "topic_summary": "Requests publication of a Human Rights Impact Assessment examining impacts of censored Google search in China by October 30, 2019.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "15",
+    "title": "Stockholder Proposal Regarding a Clawback Policy",
+    "proponent": "not stated",
+    "topic_summary": "Urges the Compensation Committee to adopt a clawback policy allowing recovery of incentive pay from senior executives for misconduct causing significant harm.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "16",
+    "title": "Stockholder Proposal Regarding a Report on Content Governance",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report reviewing enforcement of content policies and assessing risks from election interference, free expression and hate speech.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

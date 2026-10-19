@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "c2924569b8d9abab6f3bbc30e6008aadb8a815a5abeb2e57c515ef10b325fcc4",
+  "est_input_tokens": 13543
+ },
+ "usage": {
+  "input_tokens": 14920,
+  "output_tokens": 193
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Variable Cash | Revenue (determines cash payout)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SY PSUs based on annual Non-GAAP Operating Income, vesting over 4 years"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "MY PSUs based on 3-year TSR relative to the S&P 500, vesting after completion of the performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

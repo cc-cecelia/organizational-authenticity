@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "c117442db6ec9d0ed6896bf0b7d5814fcd898cc59415e2d13292c62c3d61aeef",
+  "est_input_tokens": 15556
+ },
+ "usage": {
+  "input_tokens": 16339,
+  "output_tokens": 594
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "While the performance metrics are not assigned a specific [w], safety performance and return on average capital employed (ROCE) are given the highest priority."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Return on Average Capital Employed (ROCE)* | Highest priority metrics considered by CC"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Replaced Free Cash Flow (FCF) with Cash Flow from Operations and Asset Sales (CFOAS). CFOAS is more likely to drive desired behavior"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reduced #performance share awards for CEO and other Named Executive Officers due to #-year Total Shareholder Return (TSR) performance that is not leading average of industry peers"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong Strategic Objectives, Business Results, and Project Execution performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "# of the annual bonus is delayed and paid out when a specified level of cumulative earnings per share (EPS) is achieved or in three years at a reduced level."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee establishes the overall size of the annual bonus pool (\"ceiling\") based on the annual percent change in projected Corporate earnings"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance."
+   }
+  ],
+  "equal_split": []
+ }
+}

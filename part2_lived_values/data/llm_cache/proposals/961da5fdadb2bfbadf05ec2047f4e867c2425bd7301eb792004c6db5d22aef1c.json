@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001104659-16-102981",
+  "task": "proposals",
+  "section_words": 3379,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "961da5fdadb2bfbadf05ec2047f4e867c2425bd7301eb792004c6db5d22aef1c",
+  "est_input_tokens": 7716
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8626,
+  "output_tokens": 550,
+  "request_id": "req_011CgC9dy22wCM8g3oka296r"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL FOR DISCLOSURE OF LOBBYING POLICIES AND PRACTICES",
+    "proponent": "Walden Asset Management",
+    "topic_summary": "Requests an annual report disclosing IBM's lobbying policies, direct and indirect lobbying payments including trade association and grassroots amounts, and board and management oversight of those payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL ON THE RIGHT TO ACT BY WRITTEN CONSENT",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board permit shareholders holding the minimum votes needed to act to take action by written consent.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "STOCKHOLDER PROPOSAL TO HAVE AN INDEPENDENT BOARD CHAIRMAN",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, with waiver if none is available.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

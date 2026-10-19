@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0001510295-24-000033",
+  "task": "proposals",
+  "section_words": 3765,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9f7455d4c770ad920b1c84f17cf8fdf045ee83248280199a1cfdf67f7813f32e",
+  "est_input_tokens": 8705
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10253,
+  "output_tokens": 163,
+  "request_id": "req_011CgCCBh4xjJxVkZ63AY7Ln"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "8",
+    "title": "Proposal 8 \u2013 Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board replace all supermajority voting requirements in the charter and bylaws with a majority of votes cast or simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends you vote AGAINST the following proposal."
+   }
+  ]
+ }
+}

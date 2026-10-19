@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "65c64994c3845874e366606ef29ec7bd7109e8014ec8101e7813df5bc414ec8c",
+  "est_input_tokens": 20565
+ },
+ "usage": {
+  "input_tokens": 21681,
+  "output_tokens": 648
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The target and maximum attainment levels for adjusted non-GAAP revenue and adjusted non-GAAP operating margin (defined below) for Fiscal Year # were set"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "adjusted non-GAAP operating income as a percentage of non-GAAP revenue, referred to as \"adjusted non-GAAP operating margin\" target set at #"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Direct Expenses (#) (#) | #"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (#) | #"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (#) | #"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (#) | #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (#) | #"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final payouts under the APB Plan include the effect of a non-subjective individual performance multiplier applied judiciously to recognize the extraordinary efforts of our executives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "This award may be earned, if at all, over two overlapping performance periods of three and four years, ending in #and #based on our TSR performance as compared to the S&P #(\"Relative TSR\")"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSU awards that may be earned, if at all, based on our Relative TSR and absolute TSR performance over four overlapping performance periods"
+   }
+  ],
+  "equal_split": []
+ }
+}

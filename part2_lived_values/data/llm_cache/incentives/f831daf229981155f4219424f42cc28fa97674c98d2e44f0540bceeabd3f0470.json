@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000005",
+  "task": "incentives",
+  "section_words": 15354,
+  "section_method": "heading",
+  "cache_key": "f831daf229981155f4219424f42cc28fa97674c98d2e44f0540bceeabd3f0470",
+  "est_input_tokens": 33973
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 35150,
+  "output_tokens": 1316,
+  "request_id": "req_011CgCC5yn8Ym9JbaXqDHDDn"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% based on achievement of adjusted EPS targets"
+   },
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "10% based on achievement of revenue targets"
+   },
+   {
+    "metric": "Pre-tax operating income (PTOI)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "10% based on achievement of PTOI targets"
+   },
+   {
+    "metric": "Key personal objectives (strategic, operational and personal objectives)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% based on achievement of strategic, operational and key personal objectives"
+   },
+   {
+    "metric": "People-related objectives such as retention, engagement and diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "people-related objectives such as retention, engagement and diversity"
+   },
+   {
+    "metric": "Ethics, compliance and governance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ethics, compliance and governance"
+   },
+   {
+    "metric": "Health, safety and environmental objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "health, safety and environmental objectives"
+   },
+   {
+    "metric": "New technology introduction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "new technology introduction"
+   },
+   {
+    "metric": "Return on capital employed (ROCE) relative to comparator group (2016 ROCE PSUs and 2018 ROCE PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2018 ROCE PSUs constitute 50% of our executives' 2018 target LTI dollar value."
+   },
+   {
+    "metric": "Free cash flow conversion (cumulative FCF as percentage of net income) (2017 and 2018 FCF PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2018 FCF PSUs constitute the other 50% of our executives' 2018 target LTI dollar value."
+   }
+  ]
+ }
+}

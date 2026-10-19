@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "746bb9c6844bb2846f6597d7c96c0c710314cf1665be78e7ea38b2b3cf43d044",
+  "est_input_tokens": 25503
+ },
+ "usage": {
+  "input_tokens": 26497,
+  "output_tokens": 758
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA | 157% payout; 70% based on achieving quantitative financial objectives, evenly split between adjusted EBITDA and free cash flow targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow goals encourage our NEOs to continue strengthening our balance sheet, so we can sustainably return value to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% based on strategic personal objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Strategic Planning and Sustainability Reduce SLB's Scope 3 emissions, using a pre-established CO 2 e target"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Digital Growth and Technology Innovation Increase digital revenue\u2014enabled by digital penetration\u2014above a pre-established target."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Core Growth Increase revenue generated from fit-for-basin technologies above a pre-established target."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "New Energy Innovation Oversee development of near- and mid-term New Energy growth strategy"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "HSE Performance Fatality-free. Mostly not achieved"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute FCF Margin PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2022 Relative ROCE PSUs \u2014 Performance Measures and Goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "2022 Relative TSR PSUs \u2014 Performance Measures and Goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the 2022 LTI program consisted of four types of grants, equally weighted at target performance"
+   }
+  ]
+ }
+}

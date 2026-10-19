@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "3e669a47d9ef5b3ca2bd03ab82e2f6232ea45b814dc15fe7f438f337209e5ebe",
+  "est_input_tokens": 35472
+ },
+ "usage": {
+  "input_tokens": 35682,
+  "output_tokens": 2480
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We include Adjusted ROCE in both our VCIP and PSP to ensure that we maintain financial discipline and balance short- and long-term performance."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic and ESG Milestones represent specific actions that are critical to implementing our strategy and aligning our workforce."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our success."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and absolute Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure the achievement of production results against the approved target."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Effective capital and operating cost management also helps us achieve a low cost of supply portfolio"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions that support delivery of our plan."
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis, as well as relative to peers."
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "successfully integrating Concho and demonstrating an annual run rate of $750 million of sustainable cost and capital reductions"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "demonstrating progress toward our Paris-aligned climate risk framework by executing approved marginal abatement cost curve projects"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "achieving top quartile ESG performance on MSCI, ISS, ESG, Bloomberg ESG and DJSI rating frameworks relative to peers"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "we included a DE&I milestone to increase internal and external transparency of DE&I metrics."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "comprised of a relative TSR metric and a relative Financial metric, with respective weightings of 60 and 40 percent"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial\u2014Relative Adjusted ROCE and/or Adjusted CROCE ( 40% )"
+   },
+   {
+    "id": 17,
+    "parent_id": 16,
+    "emphasis": 2,
+    "evidence": "For PSP, our Financial compensation measure includes Adjusted ROCE, and for PSPs commencing prior to 2020, Adjusted CROCE, relative to peers."
+   },
+   {
+    "id": 18,
+    "parent_id": 16,
+    "emphasis": 1,
+    "evidence": "Beginning with performance share programs commencing in 2020, the financial performance measure was further simplified by removing Adjusted CROCE"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the base VCIP award is comprised of equally weighted corporate performance categories including HSE, Operational, Financial, Strategic and ESG Milestones, and TSR"
+   },
+   {
+    "parent_id": 16,
+    "plan": "long_term_incentive",
+    "evidence": "Adjusted ROCE and Adjusted CROCE were weighted equally to determine the overall payout of the financial metric."
+   }
+  ]
+ }
+}

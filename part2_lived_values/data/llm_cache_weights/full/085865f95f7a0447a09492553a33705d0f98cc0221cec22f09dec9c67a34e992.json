@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "085865f95f7a0447a09492553a33705d0f98cc0221cec22f09dec9c67a34e992",
+  "est_input_tokens": 15267
+ },
+ "usage": {
+  "input_tokens": 16414,
+  "output_tokens": 1429
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve 45% all-in after-tax rate of return* on total capital expenditures | 20% | Achieved a 46% all-in after-tax rate of return*"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve double-digit ROCE* | 15% | Achieved a 4.3% ROCE* | Did not achieve"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Generate free cash flow* of $1.2 billion and reduce net debt-to-total capitalization ratio* | 10%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets: | 5% | Did not achieve production targets due to deferred production"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "510 MBbld crude oil and condensate production | Crude oil and condensate production \u2013 409 MBbld"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "919 MBoed total production | Total production \u2013 754 MBoed"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "$12.56/Boe DD&A | Actual DD&A \u2013 $12.32/Boe"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "$7.00/Boe LOE & Transportation Expense | Actual LOE & Transportation Expense \u2013 $6.51/Boe"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "$1.60/Boe G&A Expenses | Actual G&A Expenses \u2013 $1.75/Boe"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 5%"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Improve strong safety and environmental record, including a reduction in methane, GHG and flaring intensity rates | 5%"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "Reduction in methane, GHG and flaring intensity rates"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Strategic and other operational goals, such as: | 40% | Overall, significantly exceeded"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Lower finding costs by 4% | Lowered finding costs by significantly more than 4%"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Improve capital efficiency by 5% | Improved capital efficiency by significantly more than 5%"
+   },
+   {
+    "id": 15,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Drill 75% \"premium\" wells | Drilled more than 75% \"premium\" wells"
+   },
+   {
+    "id": 16,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Reduce total well cost by 4% | Reduced total well cost by 15%"
+   },
+   {
+    "id": 17,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Increase \"premium\" drilling inventory by 500 more locations than completed wells"
+   },
+   {
+    "id": 18,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Test and confirm new \"premium\" oil or gas prospects | Tested and confirmed several new \"premium\" prospects"
+   },
+   {
+    "id": 19,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Capture key acreage on new \"premium\" oil plays | Acquired key acreage on a number of new \"premium\" oil plays"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR versus peer companies over three-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Achieve 45% all-in after-tax rate of return* on total capital expenditures | 20% | Achieved a 46% all-in after-tax rate of return*"
+   }
+  ]
+ }
+}

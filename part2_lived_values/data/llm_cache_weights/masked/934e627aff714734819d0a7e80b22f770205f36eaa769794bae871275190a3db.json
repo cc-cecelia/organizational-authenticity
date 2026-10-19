@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "934e627aff714734819d0a7e80b22f770205f36eaa769794bae871275190a3db",
+  "est_input_tokens": 24504
+ },
+ "usage": {
+  "input_tokens": 25557,
+  "output_tokens": 2952
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial measures are key indicators of our profitable growth and are aligned with our external operating framework"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "For purposes of the Gratitude Bonus Plan, \"Revenue\" is defined as our GAAP revenues"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Operating Cash Flow\" is defined as our GAAP operating cash flow."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ESG measures strategically aligned with existing equality and net zero public commitments and initiatives"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "The equality measures focus on increasing representation of women, Black, Latinx, Indigenous and Multiracial employees."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "U.S. Underrepresented Minorities & Women (#)"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Global Women (#)"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Air travel emissions intensity is the amount of greenhouse gas (GHG) emissions attributed to air travel"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "The Sustainability Exhibit is the set of sustainability-related terms that Salesforce aims to include in supplier contracts."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "as well as the NEO's individual performance for the year"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts tied to our three-year TSR performance relative to the Nasdaq"
+   }
+  ],
+  "equal_split": []
+ }
+}

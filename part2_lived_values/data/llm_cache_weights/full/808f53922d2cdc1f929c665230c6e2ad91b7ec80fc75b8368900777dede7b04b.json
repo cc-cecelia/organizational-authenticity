@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "808f53922d2cdc1f929c665230c6e2ad91b7ec80fc75b8368900777dede7b04b",
+  "est_input_tokens": 21607
+ },
+ "usage": {
+  "input_tokens": 25643,
+  "output_tokens": 1087
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "In order for the PIP to pay out, the EPS goal (see 2015 Performance Goals for Performance Incentive Plan on page 38) must be achieved."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "To stress the importance of top-line growth, each officer is measured against Abbott's internal targets, which are established to exceed peer group growth rates."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Return Goals\u2014While top-line growth is important, that growth must be profitable in order to drive value for our shareholders."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion, key R&D milestones, gross margin expansion, and entry into new markets."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Sales Growth Goals\u2014To stress the importance of top-line growth, each officer is measured against Abbott's internal targets"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Financial Return Goals\u2014While top-line growth is important, that growth must be profitable in order to drive value for our shareholders."
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Strategic initiative goals are primarily related to key planned strategic actions, such as portfolio expansion, key R&D milestones, gross margin expansion, and entry into new markets."
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Leadership goals are primarily related to talent and succession planning initiatives."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR (compared to peer companies)\u2014Determines, as an aggregate target, where our equity grant guidelines should be positioned relative to the market"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance-restricted shares vest 1/3 each year that the performance target is achieved. Vesting is absolute\u2014either 100% or 0%."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual officer awards are then further adjusted up or down based upon assessment of: 1) Performance\u2014goals, leadership, and sustained performance (Weighted 50%)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "2) Long-range Plan Progress\u2014e.g., product approvals, R&D milestones, and margin expansion (Weighted 50%)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "3) Impact\u2014assessment of relative contribution to overall enterprise (Modifier of \u201310% to +10%)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 11,
+    "plan": "long_term_incentive",
+    "evidence": "Individual officer awards are then further adjusted up or down based upon assessment of"
+   }
+  ]
+ }
+}

@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0000078003-22-000038",
+  "task": "incentives",
+  "section_words": 11984,
+  "section_method": "heading",
+  "cache_key": "73c904a68261047dd50aade132ad9dc41762161eb3d3cf449296a4e34a15a4e3",
+  "est_input_tokens": 27396
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 30285,
+  "output_tokens": 3259,
+  "request_id": "req_011CgCAsaWi2pVxspctKigcc"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Revenue (40%)"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Diluted EPS (40%)"
+   },
+   {
+    "metric": "Cash Flow from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations (20%)"
+   },
+   {
+    "metric": "Pipeline Achievement Factor",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Up to +/- 25% Pipeline Achievement Factor"
+   },
+   {
+    "metric": "Other Qualitative Factors",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjust +/- depending on the Committee's evaluation of Other Qualitative Factors"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Individual awards are based on operating unit/function and individual performance measured over the performance year."
+   },
+   {
+    "metric": "ESG Scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "the Committee will use Pfizer's ESG Scorecard in addition to the annual financial and pipeline goals to determine the funding of the short-term incentive plan"
+   },
+   {
+    "metric": "Percentage of Vice President and higher roles held by women (globally)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "(1) Percentage of Vice President and higher roles held by women (globally)"
+   },
+   {
+    "metric": "Percentage of Vice President and higher roles held by minorities (U.S.)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "(2) Percentage of Vice President and higher roles held by minorities (U.S.)"
+   },
+   {
+    "metric": "Greenhouse Gas Emissions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "(3) Greenhouse Gas Emissions"
+   },
+   {
+    "metric": "5-Year Total Shareholder Return Units (TSRUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5- and 7-Year Total Shareholder Return Units (TSRUs) Represents 25% (each) of total annual grant value"
+   },
+   {
+    "metric": "7-Year Total Shareholder Return Units (TSRUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5- and 7-Year Total Shareholder Return Units (TSRUs) Represents 25% (each) of total annual grant value"
+   },
+   {
+    "metric": "Adjusted Net Income (NI) and relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Share Awards (PSAs) Represents 50% of total annual grant value"
+   }
+  ]
+ }
+}

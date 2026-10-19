@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "87d561583968fd0202103b0b5ee8ad3df90f596ea217e52809b0dad52d8211d0",
+  "est_input_tokens": 18420
+ },
+ "usage": {
+  "input_tokens": 18983,
+  "output_tokens": 1391
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual cash incentives were performance-based, with # determined formulaically based on achievement against pre-established financial targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Incentive Plan Revenue and Incentive Plan Operating Income. The fiscal year Incentive Plan Revenue and Incentive Plan Operating Income performance targets were based on meeting"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & strategy | Customers & stakeholders | Culture & organizational leadership"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & stakeholders | Culture & organizational leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture & organizational leadership"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation \u2022 Product development and implementation of strategic roadmap \u2022 Quality"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin \u2022 Efficiency and productivity \u2022 Innovation"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Product development and implementation of strategic roadmap"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 10,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship \u2022 Customer and partner engagement and outreach \u2022 Customer satisfaction \u2022 Developer community outreach"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer and partner engagement and outreach"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Developer community outreach"
+   },
+   {
+    "id": 14,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Culture \u2022 Diversity and inclusion \u2022 Organizational health"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Organizational health"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance stock awards ... PSA performance metrics are strategic measures that align with our mission and purpose"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commercial cloud subscribers | Paid seats for current or new per-user SaaS cloud services primarily in commercial customer segment"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows #monthly active devices | Comprises all Windows #monthly active devices, including PCs, tablets, mobile devices, gaming consoles, and Internet of Things devices"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consumer post-sales monetization gross margin | Includes Search, Store, Display/Homepage, Gaming, and Office Consumer/Services"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "LinkedIn sessions | Number of times logged-in members visit LinkedIn, separated by #minutes of inactivity; includes mobile and desktop"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Surface gross margin | Gross margin from Surface and first-party accessories, excluding Surface Hub"
+   },
+   {
+    "id": 23,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Potential relative TSR multiplier of up to #, triggered if Microsoft's TSR is positive and above the #th [w] of the S&P"
+   }
+  ],
+  "equal_split": []
+ }
+}

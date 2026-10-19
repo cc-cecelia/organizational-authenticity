@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0000059478-24-000099",
+  "task": "proposals",
+  "section_words": 9146,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "4b8d50789cd99686a428bf2dee6a8cf4a1fe6e02042167ddff9b918553b8a81c",
+  "est_input_tokens": 21616
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22285,
+  "output_tokens": 784,
+  "request_id": "req_011CgCATP2irgYBY7zZHcrs6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Proposal to Publish an Annual Report Disclosing Lobbying Activities",
+    "proponent": "Service Employees International Union Pension Plans Master Trust (SEIU)",
+    "topic_summary": "Requests an annual report disclosing Lilly's lobbying policies, lobbying and grassroots payments, trade association and model-legislation group payments, and oversight decision-making.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal to Report on Effectiveness of the Company's Diversity, Equity, and Inclusion Efforts",
+    "proponent": "As You Sow, on behalf of Marguerite Casey Foundation",
+    "topic_summary": "Requests a report on the effectiveness of DEI efforts using quantitative metrics for workforce diversity, hiring, promotion and retention by gender, race and ethnicity.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal to Establish and Report on a Process by which the Impact of Extended Patent Exclusivities on Product Access Would be Considered in Deciding Whether to Apply for Secondary and Tertiary Patents",
+    "proponent": "Trinity Health, as lead filer, with multiple additional cofilers",
+    "topic_summary": "Requests a process considering the impact of extended patent exclusivities on product access when deciding whether to apply for secondary and tertiary patents, with a published report.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal to Adopt a Comprehensive Human Rights Policy",
+    "proponent": "CommonSpirit Health, as lead filer, along with several co-filers",
+    "topic_summary": "Urges adoption of a comprehensive human rights policy covering own operations and suppliers, including the right to health and a human rights due diligence process.",
+    "category": "community",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

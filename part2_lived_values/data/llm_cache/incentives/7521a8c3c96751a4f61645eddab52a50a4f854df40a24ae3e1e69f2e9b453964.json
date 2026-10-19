@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000010",
+  "task": "incentives",
+  "section_words": 8118,
+  "section_method": "heading",
+  "cache_key": "7521a8c3c96751a4f61645eddab52a50a4f854df40a24ae3e1e69f2e9b453964",
+  "est_input_tokens": 18922
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19632,
+  "output_tokens": 1673,
+  "request_id": "req_011CgC9CH6Vem2ZmtX3MTwSu"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "metric": "Apple values and key community initiatives scorecard (modifier)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 7.5,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the People and Compensation Committee recognized the significant progress achieved as represented by the select highlights below, while also recognizing the areas of opportunity, and applied a modifier of 7.5% out of the maximum of 10%."
+   },
+   {
+    "metric": "Accessibility",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Focus: Ensuring our products, services, and experiences are fully accessible"
+   },
+   {
+    "metric": "Education",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increasing the number of educators and underserved students engaged in Apple-sponsored education initiatives"
+   },
+   {
+    "metric": "Environment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieving progress towards 2030 carbon neutral goal via the following five pillars across Apple"
+   },
+   {
+    "metric": "Inclusion & Diversity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increasing representation of diverse groups with a particular focus on engineering and leadership"
+   },
+   {
+    "metric": "Privacy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Protecting privacy and security of information through data minimization, on-device processing, transparency and user choice, and security"
+   },
+   {
+    "metric": "Racial Equity and Justice Initiative",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Address systematic barriers through strategic programs and investments across three pillars of education, economic equality, and criminal justice reform"
+   },
+   {
+    "metric": "Supplier Responsibility",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Transitioning supply chain to 100% renewable energy, increasing \"top performing suppliers\""
+   },
+   {
+    "metric": "Key Community Initiatives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "community",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Supporting strong communities through investments and employee giving"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest, if any, depends entirely on Relative TSR for the applicable performance period."
+   }
+  ]
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "ee3cc6ac5c4ea387f6c0987f272c6a58091797cdf02fcb7e54d89386d6ae6de0",
+  "est_input_tokens": 16742
+ },
+ "usage": {
+  "input_tokens": 16568,
+  "output_tokens": 1047
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on performance goals tied # to financial measures (organic revenue growth, adjusted net income, free cash flow)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects achievement of our strategic goals by encouraging efficient operations and resource allocations, in order to maximize earnings relative to the revenue environment"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects quality of earnings and cash flows that may be reinvested in our businesses, used to make acquisitions, or returned to shareholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee assesses non-financial performance across #identified areas of strategic importance"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 3,
+    "evidence": "the Committee determined that # of the areas of strategic importance to the Company was the achievement of its ESG priorities, and explicitly incorporated these ESG priorities"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Make progress on our greenhouse gas emission reduction goals"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continue to focus on the safety of our colleagues"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Continue to improve leadership diversity"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Build on momentum to support our communities through colleague involvement and STEM education"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Position Company for accelerated revenue growth | \u2022 Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "Improve Customer Allegiance Score (CAS) vs. #"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Position Company to drive margin expansion over mid-term | \u2022 Drives strong future profitability"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards achievement of financial goals (organic revenue growth, adjusted EPS)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Prevalent, industry-relevant measure of delivery of shareholder value"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "assessing TSR relative to some of the highest performing companies in S&P"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative (as opposed to absolute) nature of goals accounts for macroeconomic factors impacting the broader market"
+   }
+  ],
+  "equal_split": []
+ }
+}

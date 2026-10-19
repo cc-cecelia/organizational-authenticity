@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "dd5b90b8f982972134362e869f87d75d46626c154c2065a76b75d4b416cfadc5",
+  "est_input_tokens": 17202
+ },
+ "usage": {
+  "input_tokens": 17615,
+  "output_tokens": 670
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve a # after-tax rate of return* on capital expenditure program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve the following production and unit cost targets:"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "#MBbld crude oil and condensate production | Achieved #MBbld"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve top-# status in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maintain a year-end net debt-to-total capitalization ratio* of less than #, excluding material acquisitions"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic and other operational goals, such as:"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "achieve positive ROCE* and ROE*;"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "acquire new drilling potential;"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "confirm new reserve potential; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "other strategic goals"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We must achieve positive Adjusted Non-GAAP Net Income* (as reported in our year-end earnings release) for the payment of bonuses"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "A performance-based long-term incentive plan (consisting of grants of performance units) for our Named Officers based on our total stockholder return relative to the total stockholder return of our peer companies"
+   }
+  ],
+  "equal_split": []
+ }
+}

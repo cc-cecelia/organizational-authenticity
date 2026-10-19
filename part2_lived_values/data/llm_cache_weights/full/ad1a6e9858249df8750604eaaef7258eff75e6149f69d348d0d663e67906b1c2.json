@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "ad1a6e9858249df8750604eaaef7258eff75e6149f69d348d0d663e67906b1c2",
+  "est_input_tokens": 14903
+ },
+ "usage": {
+  "input_tokens": 14399,
+  "output_tokens": 227
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Build awesome things."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Make our business successful."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Make progress on societal issues related to our business."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Go out and tell our story."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   }
+  ]
+ }
+}

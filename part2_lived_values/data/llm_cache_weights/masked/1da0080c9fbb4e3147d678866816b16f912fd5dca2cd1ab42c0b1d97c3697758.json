@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "1da0080c9fbb4e3147d678866816b16f912fd5dca2cd1ab42c0b1d97c3697758",
+  "est_input_tokens": 39431
+ },
+ "usage": {
+  "input_tokens": 43535,
+  "output_tokens": 519
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue Growth Over Prior Year (Comparable, Constant Currency)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Diluted EPS Growth (Non-GAAP)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Free Cash Flow (Non-GAAP)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We emphasize quality: payouts under our annual incentive plan can be reduced if a quality compliance modifier performance threshold is not achieved."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Uses cumulative revenue growth, and return on invested capital performance measures over a three-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Return on Invested Capital (ROIC) | ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Vesting is dependent on achieving a three-year non-GAAP diluted EPS growth threshold"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures were diluted EPS, revenue growth and free cash flow, each [w] [w] at # (see the table on the following page"
+   }
+  ]
+ }
+}

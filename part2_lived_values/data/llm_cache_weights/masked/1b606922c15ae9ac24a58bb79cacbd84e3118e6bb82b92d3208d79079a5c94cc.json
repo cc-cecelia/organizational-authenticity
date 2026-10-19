@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "1b606922c15ae9ac24a58bb79cacbd84e3118e6bb82b92d3208d79079a5c94cc",
+  "est_input_tokens": 18261
+ },
+ "usage": {
+  "input_tokens": 18901,
+  "output_tokens": 890
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial metrics are revenue growth, non-GAAP diluted EPS, free cash flow, and market share"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The non-GAAP diluted EPS measure was also designated to be the plan threshold performance measure that had to be achieved in order for any payout to be made under the plan."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a key driver of shareholder returns and captures items not included in GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increases in market share is a driver of revenue and income across our portfolios and regions."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both Quality and Inclusion, Diversity, and Equity (ID&E) are components of our scorecard that directly impact payouts of our annual incentive plan."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "We made considerable progress in diversity focused on an increase in female managers and above"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "ethnically diverse managers and above. Medtronic exceeded the progress goal"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Complimenting our ID&E category was Quality emphasizing both compliance and quality."
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Compliance Findings/Inspections (FDA #)"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "FCA Execution Timelines"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Complaint Timeliness Execution"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "As noted above the FY2#MIP payout is #, resulting in no individual MIP modifications."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance-based equity compensation using both internal financial goals and relative total shareholder return"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR versus the Comparison Group over a #-year period (Relative TSR)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the three-year ROIC target is not achieved the overall performance score is reduced by #."
+   }
+  ],
+  "equal_split": []
+ }
+}

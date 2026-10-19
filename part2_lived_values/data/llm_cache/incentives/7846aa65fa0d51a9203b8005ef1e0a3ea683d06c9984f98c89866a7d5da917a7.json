@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0000050863-22-000011",
+  "task": "incentives",
+  "section_words": 18240,
+  "section_method": "heading",
+  "cache_key": "7846aa65fa0d51a9203b8005ef1e0a3ea683d06c9984f98c89866a7d5da917a7",
+  "est_input_tokens": 40258
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 41871,
+  "output_tokens": 1571,
+  "request_id": "req_011CgC9jHQxsSvphjBukgJGj"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Annual Cash Bonus Plan for 2021 is made up of three equally weighted performance metrics: revenue (1/3), net income (1/3), and \"One Intel\" operational goals (1/3)."
+   },
+   {
+    "metric": "Net Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "three equally weighted performance metrics: revenue (1/3), net income (1/3), and \"One Intel\" operational goals (1/3)."
+   },
+   {
+    "metric": "One Intel operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "\"One Intel\" operational goals (1/3)"
+   },
+   {
+    "metric": "Evolve from CPU to XPU",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1. Evolve from CPU to XPU. Goals related to continued execution of our leadership product portfolio"
+   },
+   {
+    "metric": "IDM 2.0 Leadership",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2. IDM 2.0 Leadership. Goals related to meeting customer volume commitments, supply chain ecosystem improvement"
+   },
+   {
+    "metric": "Expand from Silicon to Platform",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3. Expand from Silicon to Platform. Goals related to growth in key market segments such as Intelligent Edge and AI"
+   },
+   {
+    "metric": "Cultural Transformation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "4. Cultural Transformation. Goals related to quantitative improvements in the areas of manager training, customer experience, and being employer of choice"
+   },
+   {
+    "metric": "Environmental Sustainability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5. Environmental Sustainability. Goals related to energy conservation and net positive water use"
+   },
+   {
+    "metric": "Diversity & Inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "6. Diversity & Inclusion. Goals related to global inclusive hiring practices in support of our 2030 RISE workforce inclusion goals"
+   },
+   {
+    "metric": "Relative TSR vs S&P 500 IT Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR vs S&P 500 IT Index (50%)"
+   },
+   {
+    "metric": "Cumulative EPS growth rate",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative EPS growth rate compared to a target established at the beginning of the three-year performance period (50%)"
+   }
+  ]
+ }
+}

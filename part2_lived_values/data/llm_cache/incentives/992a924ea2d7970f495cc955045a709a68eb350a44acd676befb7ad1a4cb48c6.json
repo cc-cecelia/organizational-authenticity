@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0000200406-23-000023",
+  "task": "incentives",
+  "section_words": 11909,
+  "section_method": "heading",
+  "cache_key": "992a924ea2d7970f495cc955045a709a68eb350a44acd676befb7ad1a4cb48c6",
+  "est_input_tokens": 25902
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28511,
+  "output_tokens": 1801,
+  "request_id": "req_011CgCAbVnzczBJHoBgA4pfr"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operational Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 23.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operational Sales ($ millions) | 1/3 rd | $92,910 | $97,800 | $102,690"
+   },
+   {
+    "metric": "Adjusted Operational EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 23.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Operational EPS | 1/3 rd | $10.17 | $10.70 | $11.23"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 23.3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow ($ millions) | 1/3 rd | $14,130 | $15,700 | $17,270"
+   },
+   {
+    "metric": "Enterprise Strategic Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance against our Enterprise Long-Term Strategic Goals (30% weight)"
+   },
+   {
+    "metric": "Critical Business Objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We performed strongly against our product pipeline value and innovation platform goals."
+   },
+   {
+    "metric": "Environmental, Social & Governance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Environmental, Social & Governance | We met our quality and compliance objectives, closing audit remediation gaps"
+   },
+   {
+    "metric": "Quality and compliance objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We met our quality and compliance objectives, closing audit remediation gaps and reducing the number of health authority actions."
+   },
+   {
+    "metric": "Safety goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We achieved all our key safety goals."
+   },
+   {
+    "metric": "Human capital management goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We made substantial progress against our human capital management goals, including enhancing our talent pipeline"
+   },
+   {
+    "metric": "Diversity, equity and inclusion goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We partially met our diversity, equity and inclusion goals."
+   },
+   {
+    "metric": "Plastics and renewable electricity initiatives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We achieved key milestones on plastics and renewable electricity initiatives."
+   },
+   {
+    "metric": "2020-2022 Cumulative Adjusted Operational EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2020-2022 Cumulative Adjusted Operational EPS | 1/2 | $26.23 | $29.14 | $32.05"
+   },
+   {
+    "metric": "2020-2022 Relative TSR (CAGR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "2020-2022 Relative TSR (CAGR) | 1/2 | 10% below Composite | Equal to Composite | 10% above Composite"
+   }
+  ]
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "015078e7fdf87147e6c310a2c85a158059d2c8f522172a1a7e41c86a30eab358",
+  "est_input_tokens": 25347
+ },
+ "usage": {
+  "input_tokens": 26110,
+  "output_tokens": 589
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "# of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "progress towards meeting its organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Inclusion and diversity \u2022 Oversaw progress toward our senior women leadership target"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture \u2022 Despite the challenging environment, emphasized the importance of culture globally"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Attract and inspire talent \u2022 Drove increased senior leader accountability of talent and succession"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "long_term_incentive",
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted, over a three-year performance period"
+   }
+  ]
+ }
+}

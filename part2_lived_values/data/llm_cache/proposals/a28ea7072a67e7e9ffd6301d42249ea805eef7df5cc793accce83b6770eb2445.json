@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2021,
+  "accession": "0001047469-21-000592",
+  "task": "proposals",
+  "section_words": 4056,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a28ea7072a67e7e9ffd6301d42249ea805eef7df5cc793accce83b6770eb2445",
+  "est_input_tokens": 9683
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11230,
+  "output_tokens": 502,
+  "request_id": "req_011CgCAoYhhLDFUDYsLjnQem"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal on Lobbying Disclosure",
+    "proponent": "Unitarian Universalist Association",
+    "topic_summary": "Requests an annual report disclosing Abbott's lobbying policies, payments used for direct, indirect and grassroots lobbying, trade association memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal on Report on Racial Justice",
+    "proponent": "Handlery Hotels, Inc.",
+    "topic_summary": "Requests a report disclosing the company's plan, if any, to promote racial justice, including diversity and inclusion targets and quantitative hiring, retention and promotion data.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal on Independent Board Chairman",
+    "proponent": "Mr. Kenneth Steiner",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote AGAINST the proposal."
+   }
+  ]
+ }
+}

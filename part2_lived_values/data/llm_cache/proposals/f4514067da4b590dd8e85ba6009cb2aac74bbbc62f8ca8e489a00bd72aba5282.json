@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0000354950-19-000014",
+  "task": "proposals",
+  "section_words": 11661,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f4514067da4b590dd8e85ba6009cb2aac74bbbc62f8ca8e489a00bd72aba5282",
+  "est_input_tokens": 25590
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27496,
+  "output_tokens": 564,
+  "request_id": "req_011CgCBGaMBDzyPDnRedNai2"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING EEO-1 DISCLOSURE",
+    "proponent": "The Congregation of Benedictine Sisters, Boerne, Texas",
+    "topic_summary": "Requests Home Depot prepare and make available to investors a diversity report with gender and race data by job category, affirmative action summary, and diversity programs description.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING SPECIAL SHAREHOLDER MEETINGS",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws so holders of 10% of outstanding common stock can call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING REPORT ON PRISON LABOR IN THE SUPPLY CHAIN",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests an annual report to shareholders on the known extent of prison labor usage in the company's supply chain, including audit metrics and risks.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

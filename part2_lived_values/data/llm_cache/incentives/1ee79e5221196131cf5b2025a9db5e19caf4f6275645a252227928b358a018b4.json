@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "sector": "Energy",
+  "filing_year": 2020,
+  "accession": "0001193125-20-078074",
+  "task": "incentives",
+  "section_words": 11783,
+  "section_method": "heading",
+  "cache_key": "1ee79e5221196131cf5b2025a9db5e19caf4f6275645a252227928b358a018b4",
+  "est_input_tokens": 27774
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29386,
+  "output_tokens": 1637,
+  "request_id": "req_011CgCCH9PtY1TPbYvK8bYR4"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EPS, adjusted ($/share)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS,adjusted ($/share) | 40.00% | $1.66 | $6.65 | $13.30 | $5.88 | 39.78%"
+   },
+   {
+    "metric": "Health, Safety, and Environmental",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Health,Safety, and Environmental (2) | 13.33%"
+   },
+   {
+    "metric": "Mechanical Availability",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 13.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "MechanicalAvailability (3) | 13.33%"
+   },
+   {
+    "metric": "Refining Cash Operating Expense Management",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 13.34,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "RefiningCash Operating Expense Management (4) ($/EDC) | 13.34%"
+   },
+   {
+    "metric": "Company Goals and Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "CompanyGoals and Objectives (5) | 20.00% | 20.00%"
+   },
+   {
+    "metric": "Environmental scorecard incidents",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "environmental scorecard incidents, process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "metric": "Process safety incidents",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "metric": "Reportable spills",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "metric": "Environmental management system scores",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "metric": "Health & safety management system scores",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "health & safety management system scores"
+   },
+   {
+    "metric": "Return on Capital Employed (ROCE)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through Return on Capital Employed (ROCE)"
+   },
+   {
+    "metric": "Relative Total Shareholder Return (TSR) versus performance peer group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50.0,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Long-term Incentive Program | Performance Shares (50%) | \u2022 | Measures relative Total Shareholder Return (TSR) against ten-company Performance Peer group across a three-year period"
+   }
+  ]
+ }
+}

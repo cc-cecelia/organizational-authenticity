@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000320187-21-000035",
+  "task": "proposals",
+  "section_words": 10025,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "714b5cd3ddaa62a4c07c07f4d3eaa932a251afe9d8c1acb82e755a76ddf9d327",
+  "est_input_tokens": 22253
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23227,
+  "output_tokens": 1676,
+  "request_id": "req_011CgCBSNU5Sr6EKE6T6Y4m5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "PROPOSAL 4 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING POLITICAL CONTRIBUTIONS DISCLOSURE",
+    "proponent": "Mercy Rome, c/o Newground Social Investment",
+    "topic_summary": "Requests semiannual reporting on corporate policies and expenditures for electioneering and political contributions, including recipients, amounts, and decision-makers, excluding lobbying.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "PROPOSAL 5 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING A HUMAN RIGHTS IMPACT ASSESSMENT",
+    "proponent": "Domini Impact Equity Fund (with co-filers Northwest & Ethical Investments L.P., Seeds Trust, Trillium ESG Global Equity Fund, IA Clarington Inhance Canadian Equity SRI Fund)",
+    "topic_summary": "Requests publication of a Human Rights Impact Assessment examining actual and potential human rights impacts of cotton sourcing across the full supply chain, omitting proprietary information.",
+    "category": "community",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "PROPOSAL 6 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING SUPPLEMENTAL PAY EQUITY DISCLOSURE",
+    "proponent": "Elaine Alexander, c/o Arjuna Capital",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including related policy, reputational, competitive, and operational risks and risks to recruiting diverse talent.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the proposal"
+   },
+   {
+    "item_number": "7",
+    "title": "PROPOSAL 7 TO CONSIDER A SHAREHOLDER PROPOSAL REGARDING DIVERSITY AND INCLUSION EFFORTS REPORTING",
+    "proponent": "Wynnette LaBosse Tr, c/o As You Sow",
+    "topic_summary": "Requests annual reporting assessing diversity and inclusion efforts, including the Board's process for assessing program effectiveness and goals, metrics, and trends for promotion, recruitment, and retention.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the shareholder proposal"
+   }
+  ]
+ }
+}

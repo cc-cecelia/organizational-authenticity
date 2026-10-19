@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2018,
+  "accession": "0001193125-17-380130",
+  "task": "incentives",
+  "section_words": 5189,
+  "section_method": "heading",
+  "cache_key": "565713119bd9745177eed8da2f56b81d05eb1f88d5d1114b69b0adc100b8f370",
+  "est_input_tokens": 12387
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13278,
+  "output_tokens": 895,
+  "request_id": "req_011CgC9BPSUWxTw9F2MQoSGP"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures"
+   },
+   {
+    "metric": "Operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts of the annual cash incentive are determined based on an equal weighting for the net sales and operating income measures"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of performance-based RSUs that vest depends on Apple's total shareholder return relative to the other companies in the S&P 500"
+   }
+  ]
+ }
+}

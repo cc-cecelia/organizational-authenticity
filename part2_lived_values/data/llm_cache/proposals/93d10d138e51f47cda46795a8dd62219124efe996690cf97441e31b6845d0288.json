@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001193125-16-542189",
+  "task": "proposals",
+  "section_words": 7269,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "93d10d138e51f47cda46795a8dd62219124efe996690cf97441e31b6845d0288",
+  "est_input_tokens": 15277
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17064,
+  "output_tokens": 228,
+  "request_id": "req_011CgCA9Knkpb5j31mQbGCe4"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL \u2013 PROXY VOTING PRACTICES REGARDING EXECUTIVE COMPENSATION",
+    "proponent": "The Stephen M. Silberstein Revocable Trust",
+    "topic_summary": "Requests a board report by December 2016 evaluating options to align BlackRock's proxy voting practices on executive compensation with its stated principle of linking pay and performance.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends that you vote \"AGAINST\" this proposal"
+   }
+  ]
+ }
+}

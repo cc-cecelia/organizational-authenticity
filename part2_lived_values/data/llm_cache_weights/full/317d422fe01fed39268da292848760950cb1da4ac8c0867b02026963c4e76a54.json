@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "317d422fe01fed39268da292848760950cb1da4ac8c0867b02026963c4e76a54",
+  "est_input_tokens": 18660
+ },
+ "usage": {
+  "input_tokens": 18523,
+  "output_tokens": 883
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each of our named executive officers also received a 2023 cash incentive award based on the achievement of annual net sales and operating income performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts for our named executive officers under the Cash Incentive Plan are first determined quantitatively based on an equal weighting of the net sales and operating income performance measures."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "applied a modifier of 7.5% out of the maximum of 10% resulting in a final Cash Incentive Plan award for 2023 of 178.6%"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Accessibility Focus: Ensuring our products, services, and experiences are fully accessible"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Education Focus: Increasing the number of educators and underserved students engaged in Apple-sponsored education initiatives"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Environment Focus: Achieving progress towards 2030 carbon neutral goal via the following five pillars"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Inclusion & Diversity Focus: Increasing representation of diverse groups with a particular focus on engineering and leadership"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Privacy Focus: Protecting privacy and security of information through data minimization, on-device processing"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Racial Equity and Justice Initiative Focus: Address systematic barriers through strategic programs and investments"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Supplier Responsibility Focus: Transitioning supply chain to 100% renewable energy"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Key Community Initiatives Focus: Supporting strong communities through investments and employee giving"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The People and Compensation Committee continued to use Relative TSR as the metric for performance-based RSUs with the S&P 500 as the comparative group"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "based on an equal weighting of the net sales and operating income performance measures"
+   }
+  ]
+ }
+}

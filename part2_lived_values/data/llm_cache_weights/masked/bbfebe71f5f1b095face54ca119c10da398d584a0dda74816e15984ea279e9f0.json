@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "bbfebe71f5f1b095face54ca119c10da398d584a0dda74816e15984ea279e9f0",
+  "est_input_tokens": 17898
+ },
+ "usage": {
+  "input_tokens": 21246,
+  "output_tokens": 797
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Officer financial goals are based on adjusted financial measures that reflect the true results of our ongoing operations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Diluted EPS | Measures Abbott's ability to deliver profitable growth, contributing to strong shareholder returns."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Assets | Measures profitability and how effectively Company assets are used to generate profit."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Recognizes the importance of generating cash to fund ongoing investments in our business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Target not disclosed for competitive reasons. Diabetes Care and Core Diagnostics Sales Growth exclude the impact of foreign exchange."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Diabetes Care Sales Growth | # | # of Target | Target | # of Target | # of Target | #"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Core Diagnostics Sales Growth | # | # of Target | Target | # of Target | Below Threshold | #"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance restricted shares vest #-# each year only if the Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Abbott's process to determine long-term incentive awards is based on both company and individual performance."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures how each officer has performed relative to their sales, margin, and strategic financial contribution goals."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Margin Contribution | Met (#) | Met (#) | Exceeded (+#) | #Margin Contribution"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Financial Contribution | Met (#) | Met (#) | Met (#) | #Total"
+   }
+  ],
+  "equal_split": []
+ }
+}

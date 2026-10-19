@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "sector": "Healthcare",
+  "filing_year": 2024,
+  "accession": "0001104659-24-050055",
+  "task": "proposals",
+  "section_words": 2209,
+  "section_method": "resolved_windows",
+  "cache_key": "9e6dae29bd4884d28a1c52705de978b180f0ed870e27f866faafa43fd44fa990",
+  "est_input_tokens": 4930
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6591,
+  "output_tokens": 175,
+  "request_id": "req_011CgCAXNph5djaHFBnA1vYE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2014 Political Expenditures Misalignment with Company Values",
+    "proponent": "Foundation of America",
+    "topic_summary": "Requests an annual report analyzing congruence of political and electioneering expenditures with publicly stated company values and policies, and any resulting changes.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board has recommended a vote against this proposal for the reasons set forth following the proposal."
+   }
+  ]
+ }
+}

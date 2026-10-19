@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "f5daac76f11ed8ff082db696aa6cab77ffcb0e39dee169251f3f65e33ffc98ca",
+  "est_input_tokens": 20756
+ },
+ "usage": {
+  "input_tokens": 22696,
+  "output_tokens": 1268
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational Sustainability (50%): Half of our VCIP is based on Operational performance because strong safety, reliability and operating excellence are fundamental to our success."
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "Safety is a core value at Phillips 66, and maintaining superior safety performance is critical to our success."
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Total Recordable Rate: Lowest-ever combined (Phillips 66 and DCP) injury rate of 0.12 represents a 15% improvement over the prior three-year average."
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Tier 1 and 2 Process Safety Rate: Performance of 0.18 was tied for the second best performance in our history."
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: Maximizing asset availability and minimizing unplanned downtime is critical to the efficiency and reliability of our operations."
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Environmental stewardship is a foundational pillar of our sustainability strategy. We set environmental targets based on our historical performance"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "We have set targets to reduce our Scope 1, 2 and 3 emissions, and in 2023, we progressed our lower-carbon initiatives"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Environmental Performance: Our environmental performance metric, which measures Environmental Agency Reportable events and spills, was 27% improved over target"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Maintaining and enhancing a high-performing organization is critical to our success and is part of our human capital management strategy."
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Performance: empowering our workforce to deliver exceptional, sustainable results"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Capability: enhancing the depth and breadth of the skills of our workforce"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Culture: fostering behaviors that promote our unique culture through the principles of \"Our Energy in Action\""
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Sustainability (50%): The other half of our VCIP is based on Financial performance to ensure our executives are motivated to effectively manage costs"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "For Adjusted VCIP Controllable Costs, we measure our effectiveness in managing costs and set our threshold, target, and maximum performance levels based on our annual budget."
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 3,
+    "evidence": "Adjusted VCIP EBITDA measures our ability to create shareholder value."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The HRCC considers Adjusted PSP ROCE an important measure of Company growth, shareholder value creation and overall performance."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The HRCC recognizes that relative TSR is the most common performance metric for comparisons to peers."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures are equally weighted between operational and financial goals as strong operational performance drives financial performance."
+   }
+  ]
+ }
+}

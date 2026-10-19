@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001193125-16-505952",
+  "task": "proposals",
+  "section_words": 4730,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "eca95445c70a115cfa4529d5d6e35554eab67c1f99338ebb608a316ccab6a05c",
+  "est_input_tokens": 10796
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11694,
+  "output_tokens": 701,
+  "request_id": "req_011CgCAXYQ9MR5aw85SxE4QC"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2013 Policy for Share Repurchase Preference",
+    "proponent": "Jonathan Kalodimos, PhD",
+    "topic_summary": "Asks the board to adopt a general payout policy giving preference to share repurchases over cash dividends to return capital to shareholders.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2013 Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests the board adopt a policy requiring the Chair of the Board, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Report on Lobbying Disclosure",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Requests an annual report disclosing direct and indirect lobbying policies, payments, recipients, and board oversight of lobbying payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2013 Take-Back Programs for Unused Medicines",
+    "proponent": "Gun Denhart Living Trust",
+    "topic_summary": "Requests a board report reviewing policies for safe disposal of prescription drugs to prevent water pollution and setting out policy options, including industry take-back funding.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   }
+  ]
+ }
+}

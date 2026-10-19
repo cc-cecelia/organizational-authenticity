@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2022,
+  "accession": "0001308179-22-000016",
+  "task": "incentives",
+  "section_words": 14334,
+  "section_method": "heading",
+  "cache_key": "c5094278a98ff1c3058967420cc535f868fd93ec070a35d5bfa169e7538eb488",
+  "est_input_tokens": 31959
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 34063,
+  "output_tokens": 1494,
+  "request_id": "req_011CgCC6e5kD8SdnT5J7wpir"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increasing the adjusted EBITDA component to 35% (from 30%) of the target opportunity"
+   },
+   {
+    "metric": "Cash Flow Generation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "decreasing the cash flow generation component to 35% (from 40%) of the target opportunity"
+   },
+   {
+    "metric": "Strategic Personal Goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% was based on pre-established strategic personal objectives"
+   },
+   {
+    "metric": "Digital objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve a specified percentage of digital revenue growth, and enter into a minimum number of digital contracts exceeding a specified contract value."
+   },
+   {
+    "metric": "Sustainability objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Establish industry-leading emissions reduction targets."
+   },
+   {
+    "metric": "New Energy objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Accelerate expansion of new energy portfolio, by establishing a specified number of carbon capture and sequestration partnerships"
+   },
+   {
+    "metric": "Investor Relations objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Attract increased investments from new investors, existing institutional stockholders, and ESG-focused funds based on pre-established targets"
+   },
+   {
+    "metric": "HSE objectives",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve total recordable injury frequency and automotive accident rate per million miles below a target threshold."
+   },
+   {
+    "metric": "Absolute FCF Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Absolute FCF Margin PSUs: We replaced our previous free cash flow conversion rate metric"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Relative TSR PSUs: We introduced PSUs based on a three-year relative TSR metric"
+   },
+   {
+    "metric": "Relative ROCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Relative ROCE PSUs: We increased the rigor of the performance targets for our three-year relative return on capital employed"
+   }
+  ]
+ }
+}

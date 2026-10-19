@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "e7438bd8d86cbbe55342614676351f7facae5aafca145fbde1413db94d4b6a71",
+  "est_input_tokens": 18173
+ },
+ "usage": {
+  "input_tokens": 20400,
+  "output_tokens": 491
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial measures were adjusted by increasing the [w] on Operating Income with modest decreases on the [w] for Revenue and Cash Flow"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the increased [w] on Operating Income reflects that it is a primary driver of management decision making, a key metric for shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "modest decreases on the [w] for Revenue and Cash Flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Replaced the teamwork and engagement metrics with a single Employee Experience Index (EXI)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Non-financial performance measures were above maximum for EXI, and above threshold for NPS."
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "the Company's #EXI significantly outperformed expectations"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the #-year performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an average return on equity (\"ROE\") of #"
+   }
+  ],
+  "equal_split": []
+ }
+}

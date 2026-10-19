@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "8d31e5bfe4dd324c5be47d9fc73a097c88ce1168df16cc5ea5d71ec6fef47b84",
+  "est_input_tokens": 22120
+ },
+ "usage": {
+  "input_tokens": 27229,
+  "output_tokens": 800
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "is earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the remaining one-third of the award has been banked for vesting to be determined based on the company's relative TSR performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on AbbVie's return on equity (ROE) articulated as pre-set goals and measured relative to a group"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2024,
+  "accession": "0000797468-24-000075",
+  "task": "proposals",
+  "section_words": 10425,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a7509a1567d25f1f0cf09f6245bb76275a892b321e3e1101f5047681291bbd2e",
+  "est_input_tokens": 24432
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26279,
+  "output_tokens": 183,
+  "request_id": "req_011CgCCPfN7hc7sCaKPCxac8"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2014 Transparency in Lobbying",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests an annual report disclosing company lobbying policies, direct and indirect lobbying and grassroots payments, trade association and model-legislation organization payments, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this shareholder proposal."
+   }
+  ]
+ }
+}

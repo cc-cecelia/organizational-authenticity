@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001206774-17-000900",
+  "task": "proposals",
+  "section_words": 7063,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "64400039dcbfd7ffdd939f0b5c4be59f4f2a521a2f021e4eebc5ab740ed1735c",
+  "est_input_tokens": 15271
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17171,
+  "output_tokens": 417,
+  "request_id": "req_011CgCAGGPp58rRrMgH6hF2d"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Relating to Action by Written Consent",
+    "proponent": "Myra K. Young (submitted through John Chevedden)",
+    "topic_summary": "Asks the board to permit shareholders entitled to cast the minimum votes needed to act to take action by written consent, to equalize special meeting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "ITEM 5 RECOMMENDATION: Our Board of Directors recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Relating to Gender Pay Equity Disclosure",
+    "proponent": "Arjuna Capital (on behalf of Steven Matthew Schewel; co-sponsored by Walden Asset Management and Clean Yield Asset Management)",
+    "topic_summary": "Requests a report by October 2017 on the Company's policies and goals to reduce the gender pay gap.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "ITEM 6 RECOMMENDATION: Our Board of Directors recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

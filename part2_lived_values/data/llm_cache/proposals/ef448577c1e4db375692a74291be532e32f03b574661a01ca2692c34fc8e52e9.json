@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-121077",
+  "task": "proposals",
+  "section_words": 4174,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ef448577c1e4db375692a74291be532e32f03b574661a01ca2692c34fc8e52e9",
+  "est_input_tokens": 9585
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11264,
+  "output_tokens": 582,
+  "request_id": "req_011CgCB3sa9Qs9c9bgpyE738"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING DIVERSE BOARD CANDIDATES",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board policy requiring the initial list of director candidates to include qualified women and minority candidates, including from third-party consultants.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote against this proposal.although the Board believes...the policy requested by the proposal would not be an effective and prudent use of the Company's time and resources.although"
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING A POLICY TO REQUIRE AN INDEPENDENT BOARD CHAIR",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair to be an independent director, with limited waivers.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote against this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending governing documents so non-binding shareholder proposals are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that you vote against this proposal."
+   }
+  ]
+ }
+}

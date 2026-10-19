@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-092869",
+  "task": "proposals",
+  "section_words": 3870,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f183d239a277228dd6afd46447647d4d9b167747b9ea2325821efce30033a2f5",
+  "est_input_tokens": 8472
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9996,
+  "output_tokens": 237,
+  "request_id": "req_011CgCCCoL2Xuww1Wxz7cJQy"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING PLASTIC POLLUTION",
+    "proponent": "As You Sow, on behalf of Mr. Winston Dines",
+    "topic_summary": "Requests an annual report to shareholders, at reasonable cost and omitting proprietary information, on plastic pollution, disclosing trends in pellet releases and assessing effectiveness of policies to reduce plastic contamination.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD RECOMMENDS THAT YOU VOTE AGAINST THE PROPOSAL."
+   }
+  ]
+ }
+}

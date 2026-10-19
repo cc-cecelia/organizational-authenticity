@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "643d1650b754edb972782e1e13300e4d6891dfda746a84d229da68e3ee783156",
+  "est_input_tokens": 18707
+ },
+ "usage": {
+  "input_tokens": 20100,
+  "output_tokens": 1561
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Rewards NEOs on effective merchandising, driving market share gains and the enhancement of the Company's omnichannel sales and marketing"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Rewards NEOs for profitability of Company operations and focuses management on operational efficiency and expense management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on improving inventory management, which generates cash flow for investing in the business"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Rewards NEOs for focusing on growing Pro market share, which drives long-term sustainable sales growth and profitability for the business"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC is a comprehensive long-term financial metric that incorporates both operating profit and balance sheet performance in the calculation"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative TSR modifier also helps align executive outcomes with the creation of long-term shareholder value"
+   }
+  ],
+  "equal_split": []
+ }
+}

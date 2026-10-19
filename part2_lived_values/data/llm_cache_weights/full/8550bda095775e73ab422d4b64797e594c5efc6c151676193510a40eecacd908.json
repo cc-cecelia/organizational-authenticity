@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "8550bda095775e73ab422d4b64797e594c5efc6c151676193510a40eecacd908",
+  "est_input_tokens": 23251
+ },
+ "usage": {
+  "input_tokens": 23842,
+  "output_tokens": 1035
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Digital Revenue performance goal range represented an increase of 28% to 42% compared to actual results during the same period of fiscal 2020"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SG&A performance goal represented a decrease in spending of 6% to 12% compared to Prior Year 1H"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Inventory Units performance goal range represented a decrease in inventory levels of 1% to 15% compared to Prior Year 1H"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we also re-introduced our historical Adjusted EBIT metric, because EBIT is a key measure used internally to manage financial performance"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "with the final payout to be determined by the committee taking into consideration the Company's fiscal 2021 revenue performance"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected three-year Relative TSR as the performance metric because it is an objective and transparent measure of long-term shareholder value"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The fiscal 2021 \u2013 2023 LTIP awards also contain a \"People & Planet\" modifier designed to support our commitment to our Purpose Offense, which is a key component of our long-term strategy"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we do not grant an LTIP award... Adjusted Revenue and Adjusted EPS, two equally-weighted metrics: revenues and diluted earnings per share"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "set three-year cumulative performance targets for two equally-weighted metrics: revenues and diluted earnings per share"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "achievement of objective financial metrics set for each of two equally-weighted, six-month performance periods"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "In June 2018, the Compensation Committee set three-year cumulative performance targets for two equally-weighted metrics"
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001104659-23-029014",
+  "task": "proposals",
+  "section_words": 5343,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f563b3bcd736c59538d1a5ecdaf3e589bf75972716e466707fca8f046c6a03ba",
+  "est_input_tokens": 12601
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14251,
+  "output_tokens": 794,
+  "request_id": "req_011CgC9fTBEUULhyM8Yq8Ar7"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal to Have an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy that the Board Chairman be an independent director, separating the Chairman and CEO roles, phased in at contract renewal or CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Requesting a Public Report on Lobbying Activities",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests an annually updated report disclosing IBM's lobbying policies, direct and indirect lobbying and grassroots payments, and the oversight process for them.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Requesting a Public Report on Congruency in China Business Operations and ESG Activities",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a third-party review of whether IBM's China business activities align with its ESG commitments and Human Rights Statement, and board plans to mitigate misalignment.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Requesting a Public Report on Harassment and Discrimination Prevention Efforts",
+    "proponent": "Jay Stanley Weisfeld Trust",
+    "topic_summary": "Requests an independent review of the effectiveness of IBM's efforts to prevent harassment and discrimination against employees and a public report of findings.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "YOUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THIS PROPOSAL."
+   }
+  ]
+ }
+}

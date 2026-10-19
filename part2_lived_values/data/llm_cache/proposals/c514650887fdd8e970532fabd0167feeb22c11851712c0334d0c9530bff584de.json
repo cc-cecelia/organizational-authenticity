@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0000072971-24-000084",
+  "task": "proposals",
+  "section_words": 15859,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "c514650887fdd8e970532fabd0167feeb22c11851712c0334d0c9530bff584de",
+  "est_input_tokens": 39144
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 38701,
+  "output_tokens": 1424,
+  "request_id": "req_011CgC9yrUguDsvUa5eM12uS"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Annual Report on Prevention of Workplace Harassment and Discrimination",
+    "proponent": "The Comptroller of the State of New York, Thomas P. DiNapoli, Trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Requests an annual public report quantifying the effectiveness of efforts to prevent harassment and discrimination against protected classes of employees, including settlements, arbitration and concealment clauses.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2013 Third-Party Assessment of Respect for Freedom of Association and Collective Bargaining",
+    "proponent": "Segal Marco Advisors on behalf of the AFL-CIO Equity Index Funds",
+    "topic_summary": "Requests an independent third-party assessment of Wells Fargo's respect for freedom of association and collective bargaining, with remedial steps, publicly disclosed.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal \u2013 Report on Respecting Indigenous Peoples' Rights",
+    "proponent": "American Baptist Home Mission Societies",
+    "topic_summary": "Requests a report on effectiveness of policies and performance in respecting Indigenous Peoples' rights in corporate and project financing.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proposal \u2013 Audit of Climate Transition Policies",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests an audit analyzing adverse and beneficial economic and humanitarian impacts of climate transition policies on emerging nations, published on the website.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal \u2013 Annual Climate Lobbying Congruency Report",
+    "proponent": "The Sisters of St. Francis Dubuque Charitable Trust",
+    "topic_summary": "Requests annual report on whether lobbying and policy influence activities align with the company's net zero by 2050 commitment.",
+    "category": "environment",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal \u2013 Annual Report on Congruency of Political Spending and Corporate Values",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests annual report analyzing congruency between stated corporate values and electioneering and policy-organization contributions, listing misaligned contributions.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal \u2013 Transparency in Lobbying Annual Report",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests annual report disclosing lobbying policies, payments for direct, indirect and grassroots lobbying, and tax-exempt model legislation memberships and payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "13",
+    "title": "Shareholder Proposal \u2013 Report on Risks of Politicized De-Banking",
+    "proponent": "American Conservative Values ETF",
+    "topic_summary": "Requests evaluation and report on how the company oversees risks of discrimination against individuals based on race, religion, sex, national origin or political views in providing services.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

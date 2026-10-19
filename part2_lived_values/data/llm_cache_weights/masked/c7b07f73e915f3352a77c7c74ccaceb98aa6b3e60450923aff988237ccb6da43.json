@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "c7b07f73e915f3352a77c7c74ccaceb98aa6b3e60450923aff988237ccb6da43",
+  "est_input_tokens": 21685
+ },
+ "usage": {
+  "input_tokens": 22228,
+  "output_tokens": 2010
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "namely, full-year adjusted EBITDA and free cash flow"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee also considers free cash flow to be a good indicator of the efficiency of capital management."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a new quantitative component focused on reducing our Scope #emissions intensity and improving gender diversity"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reduce Scope #emissions intensity by # year on year."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "SLB recognizes the importance of gender diversity as a source of creativity, innovation, and competitive advantage"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "was tied to achieving strategic performance goals specific to their roles within SLB"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payout contingent on achieving rigorous absolute FCF margin, relative ROCE, and relative TSR performance"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Compensation Committee has based a portion of our NEOs' LTI awards on a relative ROCE metric since #"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "our Compensation Committee set the target performance goal above median"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "awarded in the form of #-year, time-based RSUs"
+   }
+  ],
+  "equal_split": []
+ }
+}

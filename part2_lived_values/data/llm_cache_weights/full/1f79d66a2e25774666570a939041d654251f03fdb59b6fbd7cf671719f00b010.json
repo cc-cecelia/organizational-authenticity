@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "1f79d66a2e25774666570a939041d654251f03fdb59b6fbd7cf671719f00b010",
+  "est_input_tokens": 17116
+ },
+ "usage": {
+  "input_tokens": 17379,
+  "output_tokens": 845
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payouts range from 0% to 200% of goal depending on Sales, Incentive Operating Income, and the assessment of the Team Scorecard."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For STIP, there is a team scorecard component based on the Human Resources & Compensation Committee's assessment of management's progress toward strategic priorities."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "market share gains at both the enterprise and category level in Apparel & Accessories, Food & Beverage, Essentials & Beauty, Hardlines, and Home Furnishings & D\u00e9cor"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "digital performance including increased sales and decreased unit cost"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "increased store comparable sales and utilization of same-day fulfillment services"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "increased guest engagement with Target Circle"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "maintaining strong team engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The three relative metrics used in our PSU plan are: Adjusted Sales growth."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS growth. The compound annual growth rate of our EPS versus the reported EPS of our retail peer group."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "ROIC. Three-year average net operating profit after-tax divided by average invested capital for both our results and our retail peer group"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PBRSUs have a three-year performance period with the number of shares based on relative three-year TSR performance versus our retail peer group."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Sales (50%) and Incentive Operating Income (50%)."
+   }
+  ]
+ }
+}

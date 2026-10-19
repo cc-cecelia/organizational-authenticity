@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001206774-16-005286",
+  "task": "proposals",
+  "section_words": 5403,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f701c0fad3367f8efccb938f23a631027725f80167c9c1d03cfa9f006e912d49",
+  "est_input_tokens": 11823
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13405,
+  "output_tokens": 490,
+  "request_id": "req_011CgCA5nKadzwADKysWZ9GQ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding a Change in the Treatment of Abstentions for Purposes of Vote Counting",
+    "proponent": "Newground Social Investment, SPC, on behalf of the Equality Network Foundation; Boston Common Asset Management, on behalf of the Boston Common U.S. Equity Fund",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder matters are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding a Policy to Prohibit Vesting of Deferred Equity Awards for Senior Executives Who Resign to Enter Government Service",
+    "proponent": "The Reserve Fund of the American Federation of Labor and Congress of Industrial Organizations",
+    "topic_summary": "Requests a policy prohibiting vesting of equity awards for senior executives who voluntarily resign to enter government service (Government Service Golden Parachute).",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

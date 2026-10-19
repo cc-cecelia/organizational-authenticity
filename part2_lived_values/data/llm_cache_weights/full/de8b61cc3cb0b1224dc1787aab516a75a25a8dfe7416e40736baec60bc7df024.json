@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "de8b61cc3cb0b1224dc1787aab516a75a25a8dfe7416e40736baec60bc7df024",
+  "est_input_tokens": 20149
+ },
+ "usage": {
+  "input_tokens": 24051,
+  "output_tokens": 577
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue* | \u200b | \u200b | \u200b | \u200b | 30 % | \u200b"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating Income* | \u200b | \u200b | \u200b | \u200b | 30 %"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | \u200b | \u200b | \u200b | \u200b | 15 %"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter System (NPS) \u2022 Employee Experience Index (EXI) | \u200b | \u200b | \u200b | \u200b | \u200b | 25 %"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS)"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We use our human capital management metric \u2014 the Employee Experience Index (EXI) \u2014 to measure an employee's sense of commitment and belonging"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 6,
+    "plan": "long_term_incentive",
+    "evidence": "specifically weighted equally between cumulative earnings per share and average return on equity"
+   }
+  ]
+ }
+}

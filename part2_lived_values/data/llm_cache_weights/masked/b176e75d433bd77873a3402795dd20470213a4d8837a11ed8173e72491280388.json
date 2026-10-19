@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "b176e75d433bd77873a3402795dd20470213a4d8837a11ed8173e72491280388",
+  "est_input_tokens": 18823
+ },
+ "usage": {
+  "input_tokens": 18595,
+  "output_tokens": 625
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonuses is EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability; and"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "qualitative goals and objectives including the effective use of capital ( Strategic Company Performance Goals );"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The annual incentive bonus pool for named executive officers is funded using quantitative company performance measures"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The program is funded at an amount equal to the greater of (i) ANC multiplied by #, or (ii) EBITDA multiplied by #."
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Included in these goals for #was a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance share awards require Valero's Total Shareholder Return (TSR) to meet or exceed the median TSR of our peers"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Restricted stock awards were also a component of the long-term incentive portfolio in #."
+   }
+  ],
+  "equal_split": []
+ }
+}

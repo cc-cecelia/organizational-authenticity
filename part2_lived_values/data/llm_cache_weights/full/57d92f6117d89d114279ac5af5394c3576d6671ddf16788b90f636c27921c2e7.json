@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "57d92f6117d89d114279ac5af5394c3576d6671ddf16788b90f636c27921c2e7",
+  "est_input_tokens": 18665
+ },
+ "usage": {
+  "input_tokens": 20075,
+  "output_tokens": 650
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance | 50% | \u2022 Net New Business \u2022 Organic Revenue \u2022 Total Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Strength | 30% | \u2022 Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Client Retention and Client Relationship Strength"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Risk Management"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational Performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength | 20% | \u2022 Employee Engagement \u2022 Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Employee Engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Inclusiveness and Diversity Objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of stockholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of stockholder value \u2013 Organic Revenue and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": []
+ }
+}

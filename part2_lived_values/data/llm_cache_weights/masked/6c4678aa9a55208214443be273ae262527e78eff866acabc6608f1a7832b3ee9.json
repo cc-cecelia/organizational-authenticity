@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "6c4678aa9a55208214443be273ae262527e78eff866acabc6608f1a7832b3ee9",
+  "est_input_tokens": 19601
+ },
+ "usage": {
+  "input_tokens": 22902,
+  "output_tokens": 579
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue* | \u200b | \u200b | \u200b | \u200b | # | \u200b | \u200b | \u200b | #billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #financial performance measures at target level represented, respectively, year-over-year growth in revenues of #billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flows from Operations* | \u200b | \u200b | \u200b | \u200b | # | \u200b | \u200b | \u200b | #billion"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stewardship: \u2022 Net Promoter System (NPS) \u200b \u2022 Employee Experience Index (EXI)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 3,
+    "evidence": "We assess our progress toward enhancing customer experiences using the Net Promoter System (NPS), which holistically measures the experiences we deliver"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We use our human capital management metric \u2014 the Employee Experience Index (EXI) \u2014 to measure an employee's sense of commitment and belonging to the Company"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the #-year performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance share grants were selected to ensure a strong pay-for-performance alignment of the Company's compensation program with drivers of shareholder value"
+   }
+  ],
+  "equal_split": []
+ }
+}

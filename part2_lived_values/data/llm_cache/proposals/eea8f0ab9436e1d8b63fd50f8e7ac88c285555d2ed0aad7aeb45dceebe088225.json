@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0000019617-23-000281",
+  "task": "proposals",
+  "section_words": 14739,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "eea8f0ab9436e1d8b63fd50f8e7ac88c285555d2ed0aad7aeb45dceebe088225",
+  "est_input_tokens": 34133
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33690,
+  "output_tokens": 1280,
+  "request_id": "req_011CgC9pfvgmvF9RsSQPrpK5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Adopt a policy requiring separation of Chairman and CEO roles, with the Chairman being an Independent Director whenever possible.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Fossil fuel phase out",
+    "proponent": "Sierra Club Foundation",
+    "topic_summary": "Adopt a policy for a time-bound phase-out of lending and underwriting to companies engaging in new fossil fuel exploration and development.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Amending public responsibility committee charter to include mandate to oversee animal welfare impact and risk",
+    "proponent": "Harrington Investments",
+    "topic_summary": "Revise the Public Responsibility Committee charter to include oversight of material issues related to animal welfare.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Special shareholder meeting improvement",
+    "proponent": "John Chevedden",
+    "topic_summary": "Give street name shares equal right to call a special meeting and lower the special meeting threshold from 20% to 10% of shares.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Report on climate transition planning",
+    "proponent": "As You Sow, on behalf of Catherine Raphael",
+    "topic_summary": "Issue a report disclosing a transition plan aligning financing with 2030 sectoral greenhouse gas emissions reduction targets, with measures and timelines.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Report on ensuring respect for civil liberties",
+    "proponent": "David Bahnsen",
+    "topic_summary": "Conduct an evaluation and report on how the Company oversees risks of discrimination based on race, religion, sex, national origin or political views in providing services.",
+    "category": "customers",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Report analyzing the congruence of the company's political and electioneering expenditures",
+    "proponent": "James McRitchie",
+    "topic_summary": "Publish a report analyzing whether political and electioneering expenditures are congruent with the Company's publicly stated values and policies.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "12",
+    "title": "Absolute GHG reduction goals",
+    "proponent": "The Comptroller of the City of New York, on behalf of the New York City Employees' Retirement System, the New York City Teachers' Retirement System, and the New York City Board of Education Retirement System",
+    "topic_summary": "Issue a report disclosing 2030 absolute GHG emissions reduction targets for lending and underwriting in Oil and Gas and Power Generation sectors.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   }
+  ]
+ }
+}

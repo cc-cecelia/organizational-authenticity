@@ -146,7 +146,26 @@ only for AAPL 2018. The row is flagged, and `filing_date` keeps the true date.
 | NVDA 2022 | An 86-word notice was filed as a separate DEF 14A; the full proxy is selected |
 | OXY 2019 | OXY's own DEFC14A responding to Icahn's consent solicitation (July 2019, not a meeting proxy) was not selected; the March annual proxy is |
 
-## Analysis (pilot: MSFT, JPM, XOM)
+## Lived-values panel (`output/lived_values_panel.csv`)
+One row per firm-year (450 rows), keyed on `ticker` + `year` (proxy filing year,
+the same convention as Part 1), for Part 3 to join. The full column definitions
+are in the docstring of `src/build_panel.py`. In brief:
+
+| Columns | Meaning |
+|---|---|
+| `pay_n_<category>`, `pay_n_other`, `pay_n_total` | Distinct pay-linked criteria (metrics plus named sub-criteria) that governed pay in the reported cycle, de-duplicated across plans and scopes |
+| `pay_share_<category>` | Share of the nine stakeholder categories (`other` excluded); sums to 1, comparable with Part 1's shares |
+| `fv_rate_<category>`, `fv_share_<category>` | Firm-voice dictionary rates per 10k words, and category shares |
+| `prop_n_<category>`, `prop_n_total`, `prop_share_board_against` | Shareholder-proposal pressure |
+| `flagged`, `flag_reason` | Filing-level flags from `proxy_coverage.csv` (contested election, timing shift, ...) |
+| `cda_quality`, `pay_status`, `proposals_status` | Extraction quality: drop or check `length_outlier`/`missing` rows in sensitivity analyses |
+| `cat_weight_<category>`, `cat_weight_other` | Share of the **annual incentive plan's** payout weight by category (sums to 1); see the weight layer below |
+| `cat_weight_lti_<category>` | The same for the long-term incentive plan |
+| `weight_source`, `weight_source_lti` | `disclosed` / `derived_from_stated_split` / `imputed_emphasis` / `none`: the weakest basis of any weighted criterion in the plan |
+| `fiscal_year_covered`, `filing_date` | For a one-year-lag test |
+
+## Analysis
+Run order for all firms: `text_measures.py` → `plot_trends.py` → `llm_extract.py` → `build_panel.py`.
 Both layers code text into the shared stakeholder taxonomy defined in the repo's
 CLAUDE.md (customers, employees, dei, environment, community, shareholders,
 integrity, safety, innovation; the definitions are mirrored in
@@ -191,6 +210,29 @@ Scalable, transparent and free to rerun.
   first filing year after the event. That year is computed per firm from its
   own filing calendar in `firm_event_exposure.csv`, so MSFT's October proxies
   react in the same calendar year.
+
+### Scaling the section finder from 3 to 50 firms
+The pilot's heading rules did not generalise. On all 450 proxies they missed
+the CD&A in 22 firm-years and left proposals outside the found section in 149.
+Changes:
+- **CD&A:**
+  - Headings glued to their paragraph (ORCL), split over two lines (HAL),
+    lower-cased by CSS (CVX) or replaced by an opening sentence (MPC) are now
+    recognised.
+  - A second pass with a lower minimum length catches Berkshire's 1k-word
+    CD&A.
+  - The best span is checked against the firm's own median CD&A length in its
+    other years. Outside 0.5-1.8x, the closest candidate is used instead
+    (16 firm-years, marked `median_adjusted`).
+  - Result: 445/450 found; 19 remain length outliers and are flagged
+    (`cda_quality`) rather than hand-tuned.
+- **Proposals:** besides the heading-based section, every non-management
+  `RESOLVED` clause, and the "supporting statement" / "proponent's statement"
+  headings used by firms that paraphrase proposals, anchors a window (300 words
+  before, 2,000 after, stopping at meeting-information headings). Overlapping
+  windows are merged. Proposal text is found in 412/450 firm-years. The other 38
+  contain no proponent statement at all; they are firms that received no
+  proposals that year (e.g. EOG, NVDA, AVGO, TMO, LOW).
 
 ### Layer 2: LLM extraction from targeted sections (`llm_extract.py`, `sections.py`)
 - **Sections, not whole documents.** `sections.py` finds the CD&A and the
@@ -255,6 +297,96 @@ chained), the shared coding rules, sub-criterion extraction, the never-derive
 weight rule, and the `scope` and `weight_of` fields. On v3, evidence grounding
 for the sampled items averages 98.8%, and the round-1 failures are encoded as
 regression checks. Item-level sheet: `handcheck_sheet_v3.csv`.
+
+## Weight layer (`src/weight_layer.py`)
+Most proxies do not fully disclose how much each criterion counts. Only 60 of
+375 firm-years with annual-incentive criteria have fully disclosed weights
+down to the last criterion. Counts of criteria treat a passing mention like a
+50% metric. The weight layer gives every firm-year a weight vector. It is a
+**separate pass**: it reads `incentive_metrics.csv` and never changes the
+extraction or its cache. It has its own cache, `data/llm_cache_weights/`.
+
+**One LLM call per firm-year, only where needed.** A call is made where some
+tier lacks per-item weights (406 of 418 firm-years; the 12 flat, fully
+weighted scorecards are handled in Python alone), plus the masking-test set.
+- Input: the CD&A and the extracted item list (names, levels, categories,
+  never the extracted weights).
+- Output: each item's parent tier, an emphasis score (1 = listed in passing,
+  2 = own description or rationale, 3 = called primary or key, or given the
+  most space), and any tier whose split the text calls equal.
+- Claude Haiku 5.5, schema-constrained JSON, cached by SHA-256 fingerprint.
+
+All arithmetic is plain Python (`build_weights()`), so rules can change
+without new API calls:
+1. **Stated tiers first.** Top-level weights as disclosed. A tier's weight is
+   always passed down to its sub-criteria: by stated child weights, else by a
+   stated equal split, else by emphasis. Example: MSFT 2019-20 is 50%
+   financial / 50% qualitative with stated thirds, so each qualitative
+   dimension gets 16.67% (`derived_from_stated_split`). Each dimension's 16.67%
+   then flows to the named criteria MSFT lists under it (e.g. Diversity and
+   inclusion, Compliance and integrity, Customer satisfaction).
+2. **Otherwise emphasis:** weight = emphasis / sum of emphasis within the
+   tier × the tier's weight. Proportional normalisation, not softmax. Any
+   undisclosed remainder of 100% is split this way.
+3. **Refinement (imputed splits only):** if none of a tier's children shares
+   the tier's own category, the tier keeps a residual share as an implicit
+   sibling, scored with its own emphasis. The extraction lists *named*
+   criteria, so children are often partial. JPM's "Client/Customer/Stakeholder"
+   has a single extracted child, "Delivery on DEI commitments"; without the
+   residual, its whole weight would move to `dei`. Stated splits are always
+   passed down in full.
+4. **Scope:** the union of all-executive and CEO-only rows, de-duplicated by
+   name (the row with a stated weight wins). Many firms tag the scorecard
+   `ceo` and the bonus formula `all`.
+
+Result (annual incentive, 375 firm-years): 60 `disclosed`, 33
+`derived_from_stated_split`, 282 `imputed_emphasis`. The 43 firm-years with
+`none` have long-term criteria only. Average weight on shareholder
+(financial) criteria is ~70% in every year. Environment rises from 0.4% (2016)
+to ~4-5% (2022-24); Energy reaches 12% environment and 11% safety in 2024.
+
+### Masking test (validation of the imputation)
+Run on the 180 firm-years whose annual-incentive tier weights are fully
+disclosed. **Leakage control:** the CD&A and the item names are redacted so
+the answer cannot be read:
+- every digit, and every spelled-out number or fraction word, becomes `#`;
+- every word containing *weigh / equal / proportion / percent*, and "evenly",
+  becomes `[w]`;
+- every "%" sign is removed.
+
+A first, looser redaction (digits only) was audited and failed: 26 of 180
+documents still contained phrases like "fifty percent", and 155 contained
+"equal". The strict version leaves **zero** such cues in all 180 documents.
+Masked calls are cached separately; their fingerprint includes the redaction
+version. Weights are rebuilt from the masked structure by (a) an equal split
+within every tier and (b) emphasis. They are compared with the disclosed truth
+at the deepest level where the truth is known (disclosed or derived from a
+stated split), so tiers with unweighted named sub-criteria still count.
+
+| MAE, percentage points | n | Equal split | Emphasis |
+|---|---|---|---|
+| Items with known weight | 799 | 10.20 | **9.55** |
+| Categories carrying weight | 424 | 9.82 | **9.69** |
+| Same, excluding shareholders | 246 | 9.16 | **8.99** |
+
+Per firm-year, emphasis beats the equal split in 66, loses in 38 and ties in
+76 (sign test p = 0.008). An equal split is exactly right in only 9%.
+
+**Reading.** Emphasis is a modest but significant improvement at the item
+level (-6% MAE). At the category level the gain is small (-1%), because most
+errors move weight between criteria of the same category (e.g. two financial
+metrics). It helps most when a dominant metric is plainly the focus of the text
+(TJX 2019: true 80/20, equal 50/50, emphasis 75/25; MCD 2020 operating income
+75%). It hurts when the text gives more space to a qualitative component than
+its formal weight (SLB 2018 personal objectives; INTC 2021-22 "One Intel"
+goals; IBM 2018 strategic-imperatives revenue at 20%). Per-firm examples:
+`output/analysis/mask_test_examples.csv`.
+
+**Use.** `cat_weight_*` with `weight_source == imputed_emphasis` carries
+roughly ±10 pp item-level error. Part 3 should treat it as an approximation:
+run sensitivity checks restricted to `disclosed` and
+`derived_from_stated_split` rows, and prefer within-firm changes over
+cross-firm levels.
 
 ## Known limitations
 - `company_tickers.json` is a current snapshot. Ticker reuse or registrant changes

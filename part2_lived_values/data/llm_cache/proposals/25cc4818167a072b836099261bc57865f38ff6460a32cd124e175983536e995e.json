@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2019,
+  "accession": "0001193125-19-106207",
+  "task": "proposals",
+  "section_words": 8907,
+  "section_method": "resolved_windows",
+  "cache_key": "25cc4818167a072b836099261bc57865f38ff6460a32cd124e175983536e995e",
+  "est_input_tokens": 20429
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21573,
+  "output_tokens": 888,
+  "request_id": "req_011CgCBsYYkupyFEaRDDDeiX"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "",
+    "title": "Human Right to Water",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the company's due diligence process to identify and address risks related to the Human Right to Water across its operations and value chain.",
+    "category": "community",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron has in place policies and processes to identify and manage human rights risks and promote responsible management of water resources."
+   },
+   {
+    "item_number": "5",
+    "title": "stockholder proposal regarding report on reducing carbon footprint",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on how Chevron can reduce its carbon footprint in alignment with Paris Agreement greenhouse gas reductions, including low-carbon investment and reduced oil and gas investment.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because preparing the report requested is an unnecessary and inefficient use of Chevron's resources"
+   },
+   {
+    "item_number": "6",
+    "title": "stockholder proposal regarding board committee on climate change",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board charter a new Board Committee on Climate Change to oversee corporate strategy and responses to climate-related risks and opportunities.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal as the full Board already has oversight of the Company's strategy, including the Company's response to climate change"
+   },
+   {
+    "item_number": "7",
+    "title": "stockholder proposal regarding independent chairman",
+    "proponent": "not stated",
+    "topic_summary": "Requests the board adopt a policy requiring the Chair of the Board, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that stockholder interests are best served when Directors have the flexibility to determine the best person to serve as Chairman"
+   },
+   {
+    "item_number": "8",
+    "title": "stockholder proposal regarding special meetings",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaws be amended to give holders of 10% of outstanding common stock the power to call a special shareowners meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because stockholders have consistently supported Chevron's current By-Law regarding special meetings"
+   }
+  ]
+ }
+}

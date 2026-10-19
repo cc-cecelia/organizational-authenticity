@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "98abaf7d7b9b7ce034fb87454a330183facefaa6999bead6b7fb16314f3c33ad",
+  "est_input_tokens": 13676
+ },
+ "usage": {
+  "input_tokens": 14082,
+  "output_tokens": 1530
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on company performance in three areas over the course of the year, relative to internal targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on company performance in three areas over the course of the year, relative to internal targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Science and Technology Committee assessed the company's progress toward achieving product pipeline goals"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee believes EPS growth is an effective measure of operational performance because it is closely linked to shareholder value"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "SVAs are earned based on Lilly's share price (and beginning in #relative TSR performance)."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The committee added the relative TSR modifier to the SVA program because it ensures senior leaders' rewards align with shareholder experience"
+   }
+  ],
+  "equal_split": []
+ }
+}

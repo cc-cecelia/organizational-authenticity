@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "f20f2d1591b62667c3ea73b7f804e25465b9bbdd03b5ba4e215d1089bc103fea",
+  "est_input_tokens": 17789
+ },
+ "usage": {
+  "input_tokens": 17557,
+  "output_tokens": 493
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Imperatives Revenue | Supports portfolio shift into a cognitive solutions and cloud platform company that will deliver the highest value opportunities for our clients and stockholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Net Income | Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow* | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating EPS | Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | Important measure of our ability to reinvest and return value to stockholders over multiple years"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reaffirms high value business model through a negative adjustment for ROIC below S&P #median, and a positive adjustment for ROIC above both the S&P #and S&P IT medians."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The PSU score is calculated as a [w] average of results against targets for Operating EPS (#) and Free Cash Flow (#)."
+   }
+  ]
+ }
+}

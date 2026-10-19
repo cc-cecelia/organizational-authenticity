@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "373990e309d69a74ef57b14600c358cad41c7574ee1d2531edd07d56a9eb16e8",
+  "est_input_tokens": 21610
+ },
+ "usage": {
+  "input_tokens": 26818,
+  "output_tokens": 77
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   }
+  ],
+  "equal_split": []
+ }
+}

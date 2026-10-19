@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "b90bf4dfdc57c1bdd0dde00e0960fe840506f2288e68331fb9c96cb37b47699e",
+  "est_input_tokens": 19178
+ },
+ "usage": {
+  "input_tokens": 22513,
+  "output_tokens": 1155
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to an annual 12% cap"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "further adjusted based 50% on our average \"ROE\" and 50% on our average change in BVPS"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "will be determined based on the firm's average \"ROE\" over 2015-2017"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "222fbc4b9ee953bd4eebc5bf2284b8e2d66489d9c08a7f1ea73ea62640357ba0",
+  "est_input_tokens": 33043
+ },
+ "usage": {
+  "input_tokens": 34671,
+  "output_tokens": 3142
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Aligns to our growth strategy and gives us the ability to measure our progress against our financial plans set early in the year"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Metric includes a negative decelerator feature that promotes significant rigor"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Goals represent key deliverables or milestones that position the company to successfully execute our long-term strategic objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance goals (other than for our CEO) or OKRs were included in the Annual Cash Bonus Plan for the first time in 2022"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Goals related to product leadership, platform differentiation, and deepening our relationships with industry partners and customers"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Goals related to our five Superpowers that combine to amplify and reinforce each other"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Regain Process Leadership Goals related to the execution of IDM 2.0"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Restore Our Winning Culture and Talent Base to Fuel Our Growth Goals related to attracting, developing, and retaining top talent"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Inclusive Business Practices Related to Our RISE 2030 Goals Goals related to building a diverse, inclusive, and safe work environment"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Sustainability Leadership Related to Our RISE 2030 Goals Goals related to reducing our environmental footprint"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "revenue growth percentage (weighted 60%)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cash flow from operations (CFFO)(weighted 40%)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three-year relative TSR (target payout to require above-median performance relative to the S&P 500 Index)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "three-year revenue CAGR (two modifiers can each impact the financial score percentages by +/- 25 points)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on a relative TSR metric (weighted 50%)"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "cumulative EPS growth percentage metric (weighted 50%)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "made up of three equally weighted metrics: Revenue (1/3), Gross Margin Percentage (1/3), and One Intel Operational Goals (1/3)"
+   }
+  ]
+ }
+}

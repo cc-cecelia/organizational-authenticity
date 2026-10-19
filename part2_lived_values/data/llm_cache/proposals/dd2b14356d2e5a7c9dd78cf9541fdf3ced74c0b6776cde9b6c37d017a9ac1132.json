@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0000019617-21-000275",
+  "task": "proposals",
+  "section_words": 5381,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "dd2b14356d2e5a7c9dd78cf9541fdf3ced74c0b6776cde9b6c37d017a9ac1132",
+  "est_input_tokens": 12324
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12818,
+  "output_tokens": 629,
+  "request_id": "req_011CgC9oEAcS9t5WkqiVpVv9"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Improve shareholder written consent",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests enabling 10% of shares to request a record date to initiate written consent, and reduce supermajority barriers to shareholder action outside annual meetings.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Racial equity audit and report",
+    "proponent": "CtW Investment Group",
+    "topic_summary": "Requests a racial equity audit analyzing JPMorgan's adverse impacts on nonwhite stakeholders and communities of color, with a publicly disclosed report.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Independent board chairman",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Political and electioneering expenditure congruency report",
+    "proponent": "Rhia Ventures on behalf of Jonathan Weinstock",
+    "topic_summary": "Requests an annual report analyzing congruency of political and electioneering expenditures with publicly stated company values, including brand and reputation risk analysis.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "03fa93aceeff26ce57862c7e22f24a1838b960d0b668038ddab11c58a6fc118f",
+  "est_input_tokens": 33117
+ },
+ "usage": {
+  "input_tokens": 32719,
+  "output_tokens": 500
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS is the primary basis on which we set our annual performance expectations"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and PTOI are important company performance indicators"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue and PTOI are important company performance indicators"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Key personal objectives are approved at the start of the fiscal year"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "people-related objectives such as retention, engagement and diversity"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "ethics, compliance and governance"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "health, safety and environmental objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "new technology introduction"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Other PSUs are subject to a three-year return on capital employed (\"ROCE\") performance condition"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "based on our free cash flow as a percentage of our cumulative net income, excluding charges and credits"
+   }
+  ],
+  "equal_split": []
+ }
+}

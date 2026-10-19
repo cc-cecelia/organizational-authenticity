@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "81954b94f5e3d13c4b997fb13a1dfa9c20e1ce6d88817f570abd2f4a534e0ec3",
+  "est_input_tokens": 17810
+ },
+ "usage": {
+  "input_tokens": 19895,
+  "output_tokens": 834
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue | Measures total revenue performance across the portfolio of business"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow* | Measures our ability to reinvest and return value to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The diversity modifier creates a common mechanism to align leaders with our commitment to creating an inclusive environment for all."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payouts for each executive are calculated using an Individual Contribution Factor (ICF)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "this includes, for example, client experience, market share, research and innovation, and culture and engagement"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures revenue performance over three years"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures operating profitability on a per share basis over three years"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Measures our ability to reinvest and return value to shareholders over three years"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In addition, the PSU Program has a Relative Return on Invested Capital (ROIC) modifier."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Revenue (40%), Operating EPS (30%) and Free Cash Flow (30%)."
+   }
+  ]
+ }
+}

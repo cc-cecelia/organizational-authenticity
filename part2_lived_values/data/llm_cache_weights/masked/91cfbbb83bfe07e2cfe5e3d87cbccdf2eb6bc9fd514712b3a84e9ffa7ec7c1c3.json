@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "91cfbbb83bfe07e2cfe5e3d87cbccdf2eb6bc9fd514712b3a84e9ffa7ec7c1c3",
+  "est_input_tokens": 33981
+ },
+ "usage": {
+  "input_tokens": 36393,
+  "output_tokens": 498
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenue Is a leading indicator of performance and value creation; provides a clear focus on growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS Is a measure of income; provides focus on profitable growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations Provides focus on generating cash in the short-term to fund operations and research"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a qualitative assessment of Pfizer's performance with respect to the product pipeline"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "business performance as compared to goals in other areas, as well as the management of the impact of LOEs"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Pfizer's performance against a combination of an operating income** goal, set annually, over three one-year periods and relative TSR"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the DRG Index, over a three-year period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Absolute TSR | #- and #-Year TSRUs generally vest three years from the grant date"
+   }
+  ],
+  "equal_split": []
+ }
+}

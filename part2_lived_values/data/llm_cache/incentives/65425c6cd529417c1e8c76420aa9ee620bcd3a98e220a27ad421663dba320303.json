@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001047469-18-002333",
+  "task": "incentives",
+  "section_words": 7558,
+  "section_method": "heading",
+  "cache_key": "65425c6cd529417c1e8c76420aa9ee620bcd3a98e220a27ad421663dba320303",
+  "est_input_tokens": 16475
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18757,
+  "output_tokens": 2797,
+  "request_id": "req_011CgCBjHNThhqw7uuWr8MuW"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Automotive Segment Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee again decided to emphasize Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit Profit Before Tax, and Quality"
+   },
+   {
+    "metric": "Automotive Segment Operating Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee again decided to emphasize Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit Profit Before Tax, and Quality"
+   },
+   {
+    "metric": "Automotive Segment Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee again decided to emphasize Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit Profit Before Tax, and Quality"
+   },
+   {
+    "metric": "Ford Credit Profit Before Tax",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee again decided to emphasize Automotive Segment Revenue, Automotive Segment Operating Cash Flow, Automotive Segment Operating Margin, Ford Credit Profit Before Tax, and Quality"
+   },
+   {
+    "metric": "Quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Global Quality metrics were developed from our Warranty Spending data and industry survey data that measures Things Gone Wrong and Customer Satisfaction"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the inclusion of a relative TSR metric more closely aligns executive compensation with the performance of our stock price"
+   },
+   {
+    "metric": "Automotive Segment Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "metric": "Automotive Segment Operating Margin",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "metric": "Automotive Segment Operating Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   },
+   {
+    "metric": "Ford Credit Profit Before Tax",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining metrics in our annual Incentive Bonus Plan and Performance Unit grants are identical because they support our strategic objectives"
+   }
+  ]
+ }
+}

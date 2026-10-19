@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "094814484e450e108154364c19f379bfb3a8a4b24e665d3c2808a41e1064684d",
+  "est_input_tokens": 18304
+ },
+ "usage": {
+  "input_tokens": 18432,
+  "output_tokens": 395
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our MIP paid out at the maximum level as a result of performance above the maximum of our sales, operating profit, and inventory turns metrics."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This weighting maintains visibility and attention on inventory turns while at the same time reducing the impact of this metric"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payout contingent on achieving pre-established average ROIC and operating profit targets over the three-year performance period."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payout contingent on achieving pre-established average ROIC and operating profit targets over the three-year performance period."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target."
+   }
+  ],
+  "equal_split": []
+ }
+}

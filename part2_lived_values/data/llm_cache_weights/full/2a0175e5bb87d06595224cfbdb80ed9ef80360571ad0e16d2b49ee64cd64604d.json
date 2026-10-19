@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "2a0175e5bb87d06595224cfbdb80ed9ef80360571ad0e16d2b49ee64cd64604d",
+  "est_input_tokens": 6540
+ },
+ "usage": {
+  "input_tokens": 7345,
+  "output_tokens": 577
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk and Control Management"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Leadership"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Client and Franchise"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payment representing 50% of award value will be indexed to changes in the value of Citi's common stock from the award date through the payment date."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The portion of the target bonus, if any, that the executives earn is tied to the following Citi-wide non-financial performance metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "submission of suitable transformation plans to Citi's regulators in the U.S.;"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "timely execution of required interim measures;"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "timely execution of the highest-priority risk-reduction Transformation Program components; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "sustainable outcomes in program execution, resourcing, risk reduction and data governance."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "demonstrable, quality individual leadership in all job specific aspects of the Transformation Program is considered as a performance threshold"
+   }
+  ],
+  "equal_split": []
+ }
+}

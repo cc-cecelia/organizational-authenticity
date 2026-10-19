@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "ffef41182f8ebf224378c94671683b90443b2a841c297dd2cbd58a885ccf1441",
+  "est_input_tokens": 21376
+ },
+ "usage": {
+  "input_tokens": 23286,
+  "output_tokens": 1010
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with 50% of the award opportunity dependent on BlackRock's financial performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To assess improvement in our business and organizational strengths, the MDCC uses internal BlackRock performance measures"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Organizational Strength | \u2022 | Employee Engagement"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | Net New Business"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | Net New Base Fees"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | Operating Income"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | Operating Margin, As Adjusted"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | EPS"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "\u2022 | Total Return and P/E Multiple"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "\u2022 | Relative Investment Performance Across Alpha and Beta Strategies"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "\u2022 | Strategic Initiatives"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "\u2022 | Client Retention and Client Relationship Strength"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "\u2022 | Risk Management"
+   },
+   {
+    "id": 13,
+    "parent_id": 1,
+    "emphasis": 1,
+    "evidence": "\u2022 | Operational Performance"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 | Employee Engagement"
+   },
+   {
+    "id": 15,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 | Leadership Bench Strength and Succession Plans"
+   },
+   {
+    "id": 16,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "\u2022 | Inclusiveness and Diversity Objectives"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "performance-based RSUs are settled in a number of shares of common stock that is determined based on the level of attainment of pre-established Organic Revenue and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Margin, as adjusted, is a measure of BlackRock's ability to efficiently manage our expense base"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The MDCC created three categories and assigned a weighting factor to each, with 50% of the award opportunity dependent on BlackRock's financial performance."
+   }
+  ]
+ }
+}

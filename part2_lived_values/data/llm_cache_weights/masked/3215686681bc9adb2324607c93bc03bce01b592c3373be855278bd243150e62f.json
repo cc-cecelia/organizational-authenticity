@@ -1,0 +1,156 @@
+{
+ "meta": {
+  "ticker": "MSFT",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "3215686681bc9adb2324607c93bc03bce01b592c3373be855278bd243150e62f",
+  "est_input_tokens": 18780
+ },
+ "usage": {
+  "input_tokens": 18779,
+  "output_tokens": 1032
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incentive Plan revenue and Incentive Plan operating income are defined in Annex A."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Incentive Plan Revenue and Incentive Plan Operating Income performance targets for the cash incentives were based on achieving the Company's operating budget"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Product & strategy Customers & stakeholders Culture & organizational leadership"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers & stakeholders"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Culture & organizational leadership"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Contribution margin Corporate citizenship"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Compliance and integrity Efficiency and productivity"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Efficiency and productivity"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer acceptance"
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Organizational diversity and inclusion"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Innovation"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Customer satisfaction"
+   },
+   {
+    "id": 13,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Leadership effectiveness"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Product development and implementation"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Developer community satisfaction"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Quality"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Commercial cloud revenue"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commercial cloud subscribers"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Windows #monthly active devices"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Surface gross margin"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Consumer post-sales monetization gross margin"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR multiplier is triggered only if Microsoft's TSR is positive and above the #th percentile of the S&P #."
+   }
+  ],
+  "equal_split": []
+ }
+}

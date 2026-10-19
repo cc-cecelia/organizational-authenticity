@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000248",
+  "task": "proposals",
+  "section_words": 3863,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "1e2176be4f45bd09fe0a4dced5a2d9d0f13226c66728ce1389ac8910cce95a14",
+  "est_input_tokens": 9010
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10223,
+  "output_tokens": 706,
+  "request_id": "req_011CgCCJy93u3QqDtD43aF2L"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REVIEW PUBLIC POLICY ADVOCACY ON CLIMATE",
+    "proponent": "The Needmor Fund",
+    "topic_summary": "Requests a review and assessment of organizations Occidental is a member of or financially supports for lobbying, with a summary report to shareholders.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that stockholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "5",
+    "title": "CARBON LEGISLATION IMPACT ASSESSMENT",
+    "proponent": "UMC Benefit Board, Inc.",
+    "topic_summary": "Requests an annual assessment of long-term portfolio impacts of climate change policies, including scenarios such as IEA 450 on reserves and capital planning.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends that stockholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "SPECIAL SHAREOWNER MEETINGS",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents to let holders of 15% of outstanding common stock call a special shareowner meeting, lowering the current 25% threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends the stockholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "7",
+    "title": "METHANE EMISSIONS AND FLARING",
+    "proponent": "Arjuna Capital",
+    "topic_summary": "Requests a report by September 2016 reviewing policies to measure, disclose, mitigate and set reduction targets for methane emissions and flaring.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends the stockholders vote AGAINST this proposal for the following reasons:"
+   }
+  ]
+ }
+}

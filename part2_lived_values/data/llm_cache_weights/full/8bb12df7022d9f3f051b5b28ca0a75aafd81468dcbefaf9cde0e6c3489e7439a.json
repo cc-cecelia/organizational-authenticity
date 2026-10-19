@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "8bb12df7022d9f3f051b5b28ca0a75aafd81468dcbefaf9cde0e6c3489e7439a",
+  "est_input_tokens": 30347
+ },
+ "usage": {
+  "input_tokens": 31906,
+  "output_tokens": 795
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with 50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting its ESG and organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "BlackRock's 2022 diluted earnings per share, as adjusted, decreased to $35.36"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return is defined as the change in share price plus reinvested dividends, measured through December 30, 2022."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Oversaw the increased breadth and transparency of BlackRock's corporate sustainability disclosures"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Held discussions with the Board to continue to progress CEO and President succession plans"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Continued to lead BlackRock to external recognition for its DEI talent efforts"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Launched a firmwide connectivity initiative featuring special Company events"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of BlackRock common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The number of shares vesting under BPIP is based on attainment of specified levels of Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "financial performance (50%), business strength objectives (25%) and ESG and organizational strength objectives (25%)"
+   }
+  ]
+ }
+}

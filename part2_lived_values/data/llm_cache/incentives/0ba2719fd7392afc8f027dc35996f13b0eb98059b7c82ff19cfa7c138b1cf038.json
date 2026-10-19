@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-095785",
+  "task": "incentives",
+  "section_words": 11793,
+  "section_method": "heading",
+  "cache_key": "0ba2719fd7392afc8f027dc35996f13b0eb98059b7c82ff19cfa7c138b1cf038",
+  "est_input_tokens": 26012
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28996,
+  "output_tokens": 1180,
+  "request_id": "req_011CgC9gXMHWELA3MUyCBRAd"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Absolute Financial Performance (year-over-year growth of adjusted net income)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Absolute Financial Performance (25% Weighting) | Reflects year-over-year growth of Intel's net income or adjusted net income"
+   },
+   {
+    "metric": "Relative Financial Performance (net income growth vs. technology peer companies)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative Financial Performance (25% Weighting) | Reflects Intel's year-over-year net income or adjusted net income growth compared with the net income or adjusted net income growth of technology peer companies"
+   },
+   {
+    "metric": "Operational Performance (business unit operational goals)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operational Performance (50% Weighting) | Reflects specific operational goals that the committee approves for each business unit"
+   },
+   {
+    "metric": "Corporate-level diversity and inclusion goal (hiring and retaining diverse talent)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to any adjustment for performance against corporate-level diversity and inclusion goal (focused on hiring and retaining diverse talent\u2014not achieved)"
+   },
+   {
+    "metric": "Individual performance-based adjustment (20%)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee determined to apply a 20% individual performance-based adjustment to the annual incentive cash performance results for each of our listed officers other than Mr. Krzanich"
+   },
+   {
+    "metric": "Relative TSR vs. S&P 500 IT Index (three-year OSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 100,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "OSUs are variable performance-based RSUs under which the number of shares of Intel common stock earned is based on Intel's relative TSR performance over a three-year period"
+   },
+   {
+    "metric": "Relative TSR vs. S&P 500 IT Index (2018 OSU grant, measured against S&P 500 IT Index)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Intel's TSR performance during the 36-month period starting from the grant date will be measured against the S&P 500 IT Index"
+   }
+  ]
+ }
+}

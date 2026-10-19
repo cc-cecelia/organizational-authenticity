@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "84e7094a867927926d89dbeb898ffac64f490088387a74e14078b94c1024a608",
+  "est_input_tokens": 33936
+ },
+ "usage": {
+  "input_tokens": 35952,
+  "output_tokens": 847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #Annual Cash Incentive award includes cash flow neutrality and return on capital metrics, which are aligned with Occidental's stated strategic goals."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #Annual Cash Incentive award includes cash flow neutrality and return on capital metrics, which are aligned with Occidental's stated strategic goals."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee determined to [w] a larger portion of Ms. Hollub's Annual Cash Incentive award opportunity toward key company performance metrics"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The minority portion of the Annual Cash Incentive award opportunity for #(# for Ms. Hollub and # for the other named executive officers) was subject to the Compensation Committee's assessment"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Effective organizational development within the executive's department;"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Contributions to succession planning efforts;"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Functional and operating accomplishments within the executive's department;"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Demonstration of ethical conduct;"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Commitment to health, environment and safety principles; and"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Dedication to collaboration and inclusion."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The #long-term incentive program consisted of a performance-based stock unit (PSU) award based on relative TSR, and a time-based RSU award"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "If Occidental's absolute TSR is negative over the performance period, then, irrespective of Occidental's ranking within the peer group, the payout of the TSR award is capped at no more than target."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The RSU award, which comprises the remainder of the #long-term incentive package, vests ratably over # years"
+   }
+  ],
+  "equal_split": []
+ }
+}

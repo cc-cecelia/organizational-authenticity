@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "0abf74bda554cb16d4f7da26e725fa80f17bc8ce91452265acc2f10bc829bd53",
+  "est_input_tokens": 30860
+ },
+ "usage": {
+  "input_tokens": 30925,
+  "output_tokens": 1243
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics to reinforce our commitment to be an industry leader in HSE"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Operational metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial metrics in our compensation programs strongly align with our returns-focused strategy, are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Strategic Milestones represent annual actions to progress our long-term objectives that position the company to grow and develop"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "we created a separately [w] measure for \"Energy Transition Milestones.\" These milestones are guided by our Triple Mandate"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events is a measure of the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure results against the approved target."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Capital target was an increase of approximately # from full-year #capital expenditures"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operating and Overhead Costs came in # above the #billion target"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational Milestones and targets are also designed to create alignment within our workforce around delivering business plans"
+   },
+   {
+    "id": 11,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Progressing the LNG business through advancing new PALNG, NFE, and NFS projects, securing several regasification and offtake agreements"
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Implementing action plans for priority E&S risks and tracking progress against mitigations"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Refreshing our DEI strategy globally and identifying how to assess progress on each component of diversity, equity, and inclusion."
+   },
+   {
+    "id": 14,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Achieving an annual GHG emissions intensity aligned with our #target trajectory range"
+   },
+   {
+    "id": 15,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Executing our capital and cost budget for approved MACC projects"
+   },
+   {
+    "id": 16,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Advancing multiple low carbon opportunities."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR is the best overall indicator of our long-term success."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Financial compensation measure includes Adjusted ROCE relative to peers over a one- and three-year period."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Executive Restricted Stock Unit Program is designed to reward our executives for long-term share performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

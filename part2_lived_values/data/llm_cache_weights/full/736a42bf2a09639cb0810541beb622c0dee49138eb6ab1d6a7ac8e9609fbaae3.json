@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "736a42bf2a09639cb0810541beb622c0dee49138eb6ab1d6a7ac8e9609fbaae3",
+  "est_input_tokens": 19841
+ },
+ "usage": {
+  "input_tokens": 21249,
+  "output_tokens": 639
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Approvals | 1-2 new drug first approval 9 other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Potential new drug Phase 3 starts | 2 | 3"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Qualitative Assessment | Chief scientific officer's assessment of performance against strategic objectives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Maximum annual cash bonus as percent of non-GAAP net income"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee believes EPS growth is an effective measure of operational performance"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Shareholder value awards are earned based on Lilly's share price and relative TSR performance."
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "A modifier based on Lilly's three-year cumulative TSR relative to our peer companies' median TSR performance is applied"
+   }
+  ],
+  "equal_split": []
+ }
+}

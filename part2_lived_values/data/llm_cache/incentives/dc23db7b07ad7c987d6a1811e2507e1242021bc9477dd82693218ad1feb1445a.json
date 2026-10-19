@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0001193125-20-099563",
+  "task": "incentives",
+  "section_words": 5947,
+  "section_method": "heading",
+  "cache_key": "dc23db7b07ad7c987d6a1811e2507e1242021bc9477dd82693218ad1feb1445a",
+  "est_input_tokens": 13683
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16084,
+  "output_tokens": 1326,
+  "request_id": "req_011CgCAh4goPyEv3qX3NANEE"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and Pre-Tax Income are equally weighted at 40% each"
+   },
+   {
+    "metric": "Non-GAAP Pre-Tax Income vs. Plan",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue and Pre-Tax Income are equally weighted at 40% each"
+   },
+   {
+    "metric": "Pipeline",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Pipeline milestones are collectively weighted at 20%"
+   },
+   {
+    "metric": "Approval Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 6,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Approval Milestones | 6 | 12"
+   },
+   {
+    "metric": "Filing Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 4,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Filing Milestones | 4 | 5"
+   },
+   {
+    "metric": "Global Development Milestones",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 3,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Global Development Milestones | 3 | 5"
+   },
+   {
+    "metric": "Discovery and Early Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 7,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Discovery and Early Development | 7 | 11"
+   },
+   {
+    "metric": "3-Year Cumulative EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Awards granted in 2017 and in subsequent years are measured against cumulative EPS (25%), OCF (25%) and R-TSR (50%)"
+   },
+   {
+    "metric": "3-Year Cumulative Operating Cash Flow (OCF)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Awards granted in 2017 and in subsequent years are measured against cumulative EPS (25%), OCF (25%) and R-TSR (50%)"
+   },
+   {
+    "metric": "3-Year Relative TSR (R-TSR)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "R-TSR performance versus our peer group is measured at the end of the three-year period"
+   }
+  ]
+ }
+}

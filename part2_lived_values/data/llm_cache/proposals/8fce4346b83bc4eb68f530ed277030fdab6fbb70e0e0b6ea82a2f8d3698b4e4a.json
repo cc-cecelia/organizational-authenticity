@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2017,
+  "accession": "0001206774-17-001114",
+  "task": "proposals",
+  "section_words": 5586,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "8fce4346b83bc4eb68f530ed277030fdab6fbb70e0e0b6ea82a2f8d3698b4e4a",
+  "est_input_tokens": 12341
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 13917,
+  "output_tokens": 453,
+  "request_id": "req_011CgCA7h38uCkssVGGaZ4EP"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Regarding a Change in the Treatment of Abstentions for Purposes of Vote Counting",
+    "proponent": "Investor Voice, SPC on behalf of Equality Network Foundation",
+    "topic_summary": "Asks the Board to amend governing documents so non-binding shareholder matters are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Regarding a Policy to Prohibit Vesting of Deferred Equity Awards for Senior Executives Who Resign to Enter Government Service",
+    "proponent": "The Reserve Fund of the American Federation of Labor and Congress of Industrial Organizations",
+    "topic_summary": "Requests a policy prohibiting vesting of equity awards for senior executives who voluntarily resign to enter government service (Government Service Golden Parachute).",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

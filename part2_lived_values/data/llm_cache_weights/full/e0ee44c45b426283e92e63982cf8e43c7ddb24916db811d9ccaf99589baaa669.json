@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "e0ee44c45b426283e92e63982cf8e43c7ddb24916db811d9ccaf99589baaa669",
+  "est_input_tokens": 34421
+ },
+ "usage": {
+  "input_tokens": 38199,
+  "output_tokens": 453
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The financial metrics used for our short-term incentive program in 2019 were revenue, adjusted earnings per share and cash flow from operations."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual Short-Term Incentive/Global Performance Plan (GPP) (Cash) | Company, Business/Operating Unit and Individual Performance Plan funded based on Pfizer's performance and weighted as follows: \u2013 40% Revenue, \u2013 40% Adjusted Diluted EPS"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\u2013 20% Cash Flow from Operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Awards (PSAs) Represents 50% of total annual grant value | Adjusted Net Income* and relative TSR"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the DRG Index, over a three-year period."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Absolute TSR | 5- and 7-Year TSRUs generally vest three years from the grant date"
+   }
+  ],
+  "equal_split": []
+ }
+}

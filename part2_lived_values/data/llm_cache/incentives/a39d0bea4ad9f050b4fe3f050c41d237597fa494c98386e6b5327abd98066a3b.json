@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-131092",
+  "task": "incentives",
+  "section_words": 7464,
+  "section_method": "heading",
+  "cache_key": "a39d0bea4ad9f050b4fe3f050c41d237597fa494c98386e6b5327abd98066a3b",
+  "est_input_tokens": 17403
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20057,
+  "output_tokens": 707,
+  "request_id": "req_011CgCBcEWNp72BPpU2MTgDL"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EBIT | Rewards the executives for profitability of over-all Company operations | Company's EBIT | 60%"
+   },
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales | Focuses the executives on effective merchandising, driving market share gains | Company's net sales | 25%"
+   },
+   {
+    "metric": "Leadership Effectiveness",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Leadership Effectiveness | Provides incentive compensation for leadership behavior that has the greatest positive impact on employee motivation, engagement | 15%"
+   },
+   {
+    "metric": "RONCAA",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs are based on (i) the Company's average RONCAA relative to pre-determined threshold, target and maximum levels"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the relative TSR modifier expands the PSU performance award to range from 34% of target at threshold performance to 200% of target at maximum performance"
+   }
+  ]
+ }
+}

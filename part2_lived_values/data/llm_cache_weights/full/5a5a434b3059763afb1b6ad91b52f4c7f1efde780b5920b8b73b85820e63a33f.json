@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "5a5a434b3059763afb1b6ad91b52f4c7f1efde780b5920b8b73b85820e63a33f",
+  "est_input_tokens": 19203
+ },
+ "usage": {
+  "input_tokens": 19312,
+  "output_tokens": 736
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Financial Performance Goal considered for our annual incentive bonuses is EPS."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental;"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in cost management and expense control."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "measures that correspond to two of our business priorities: Adjusted Net Cash Provided by Operating Activities (\"ANC\")"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Before Interest, Taxes, Depreciation, and Amortization (\"EBITDA\")"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Included in these goals for 2015 was a qualitative capital-based performance measure assessed by the Compensation Committee through return on capital employed."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Shares of Common Stock are earned with respect to vesting performance shares only upon Valero's achievement of TSR objectives (measured in relation to the TSR of our peers)."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock targets represent the remaining 50 percent of each executive officer's long-term incentive target on a share value basis."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the mix of long-term incentives awarded to our named executive officers was split evenly, on a share value basis, between grants of restricted stock and awards of performance shares"
+   }
+  ]
+ }
+}

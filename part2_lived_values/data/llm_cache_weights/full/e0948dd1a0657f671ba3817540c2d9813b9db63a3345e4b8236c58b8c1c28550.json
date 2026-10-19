@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "e0948dd1a0657f671ba3817540c2d9813b9db63a3345e4b8236c58b8c1c28550",
+  "est_input_tokens": 44083
+ },
+ "usage": {
+  "input_tokens": 45923,
+  "output_tokens": 651
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Business Results, including absolute and relative performance over multiple years"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk, Controls & Conduct, including feedback received from the Firm's risk and control professionals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Client/Customer/Stakeholder, including our engagement in communities and commitment to provide economic opportunity to underserved communities"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teamwork & Leadership, including creating a diverse, inclusive, respectful and accountable environment"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "OC members are provided with feedback on behaviors, practices and progress toward goals related to the Firm's diversity, equity and inclusion priorities."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Integrating environmental sustainability into business and operating decisions"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Investing in and supporting our communities"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU calculation links the ultimate payout of awards to pre-established absolute and relative ROTCE goals, subject to risk and control features"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the Firm's common equity Tier 1 (\"CET1\") capital ratio 2 is less than 7.5% at any year-end, then up to one-third of unvested PSUs will be subject to downward adjustment"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The CMDC does not assign relative weightings to these dimensions"
+   }
+  ]
+ }
+}

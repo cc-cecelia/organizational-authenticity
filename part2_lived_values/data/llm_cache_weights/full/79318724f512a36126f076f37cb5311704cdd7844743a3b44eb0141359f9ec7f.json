@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "79318724f512a36126f076f37cb5311704cdd7844743a3b44eb0141359f9ec7f",
+  "est_input_tokens": 21404
+ },
+ "usage": {
+  "input_tokens": 23417,
+  "output_tokens": 61
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Sundar's PSUs will fully vest."
+   }
+  ],
+  "equal_split": []
+ }
+}

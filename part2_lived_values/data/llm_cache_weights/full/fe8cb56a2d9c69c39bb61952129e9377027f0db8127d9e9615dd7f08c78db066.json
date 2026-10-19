@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "fe8cb56a2d9c69c39bb61952129e9377027f0db8127d9e9615dd7f08c78db066",
+  "est_input_tokens": 9463
+ },
+ "usage": {
+  "input_tokens": 10895,
+  "output_tokens": 349
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee added an R&D pipeline achievement factor to the existing short-term incentive financial metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adding the R&D pipeline achievement factor to the existing short-term incentive financial metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Consists of Total Shareholder Return Units (TSRUs) (granted in 2020) and one-third of each of the 2018, 2019 and 2020 PSA grants"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "A long-term incentive award tied to performance based on an operating metric and relative TSR performance"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSRU | Total Shareholder Return Unit \u2013 A long-term incentive award tied to absolute TSR"
+   }
+  ],
+  "equal_split": []
+ }
+}

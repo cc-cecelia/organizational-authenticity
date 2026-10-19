@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "367478f4ccd955ba655ef05bde2cff8d95440b324abc62a3f69eb4f98e18b6dc",
+  "est_input_tokens": 44034
+ },
+ "usage": {
+  "input_tokens": 44578,
+  "output_tokens": 435
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company scorecard incentivizes performance and includes key objectives in four categories: Shareholder, Customer, Colleague and Strategic Imperatives."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improved customer satisfaction scores and card retention rates versus 2019 levels;"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Annual Colleague Experience Survey provides insights into employee satisfaction, leadership efficacy, learning opportunities, and career development."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Company scorecard, which is used to measure our performance and progress on our business priorities, includes a clear set of diversity goals and overall talent metrics."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Redesigned performance restricted stock unit awards to include relative ROE metric and relative TSR modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

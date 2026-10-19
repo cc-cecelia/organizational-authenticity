@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2016,
+  "accession": "0001206774-16-005032",
+  "task": "proposals",
+  "section_words": 8906,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "ebebfc666cedc10c9da1df20774412c126c05236f4e40a91eff923883bfb8ff8",
+  "est_input_tokens": 19501
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21172,
+  "output_tokens": 982,
+  "request_id": "req_011CgCAGMEXCRk4JBBCfHQdE"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL RELATING TO ANNUAL DISCLOSURE OF EEO-1 DATA",
+    "proponent": "New York City Comptroller (on behalf of the Systems)",
+    "topic_summary": "Requests the Board adopt a policy requiring annual public disclosure of EEO-1 workforce data by race and gender across 10 job categories, beginning 2016.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal because:"
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL RELATING TO REPORT ON PRIVACY, DATA SECURITY AND GOVERNMENT REQUESTS",
+    "proponent": "Arjuna Capital/Baldwin Brothers Inc. (on behalf of Steven Matthew Schewel)",
+    "topic_summary": "Requests an annual report on Board oversight of privacy and data security risks and on government requests for customer information.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal because:"
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL RELATING TO ACTION BY WRITTEN CONSENT",
+    "proponent": "Myra K. Young",
+    "topic_summary": "Requests the Board permit shareholders holding the minimum votes needed to act to do so by written consent.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal because:"
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL RELATING TO LOBBYING DISCLOSURE",
+    "proponent": "Walden Asset Management (co-sponsored by Benedictine Sisters of Virginia and others)",
+    "topic_summary": "Requests an annual report disclosing lobbying policies, payments for direct, indirect and grassroots lobbying, trade association memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "ITEM 8 RECOMMENDATION: Our Board of Directors recommends that you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "SHAREHOLDER PROPOSAL RELATING TO INDEPENDENT BOARD CHAIRMAN",
+    "proponent": "Mr. Steiner",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "ITEM 9 RECOMMENDATION: Our Board of Directors recommends that you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000477",
+  "task": "proposals",
+  "section_words": 17209,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "63418ba7a9b4548b6c3c2e2570297dc107ddc88ca7f0433561b23d50c7f81d5a",
+  "est_input_tokens": 38017
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 39084,
+  "output_tokens": 695,
+  "request_id": "req_011CgCC1AH2YpaWiYjtGKZL1"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal \u2014 Independent Board Chairman",
+    "proponent": "John Chevedden, on behalf of Kenneth Steiner",
+    "topic_summary": "Requests the Board adopt a policy requiring separate people to hold the Chairman and CEO offices, with the Chairman preferably an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal \u2014 Share Retention Until Retirement",
+    "proponent": "The Comptroller of the State of New York, as trustee of the New York State Common Retirement Fund",
+    "topic_summary": "Urges the Compensation Committee to disclose whether it requires named executive officers to retain a significant percentage of equity-based shares until normal retirement age.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends you vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal \u2014 Report on Tax Payments",
+    "proponent": "Oxfam America",
+    "topic_summary": "Requests a tax transparency report prepared under the GRI Tax Standard, including country-by-country disclosure of payments to governments.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "For the foregoing reasons, the Board recommends you vote AGAINST this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal \u2014 Report on Lobbying Activities",
+    "proponent": "National Legal and Policy Center (NLPC)",
+    "topic_summary": "Requests an annual report detailing direct, indirect and grassroots lobbying policies, payments, recipients and oversight decision-making.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "For the foregoing reasons, the Board recommends you vote AGAINST this proposal."
+   }
+  ]
+ }
+}

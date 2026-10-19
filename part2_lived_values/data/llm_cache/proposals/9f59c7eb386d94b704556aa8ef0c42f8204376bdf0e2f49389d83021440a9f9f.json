@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0001193125-23-089525",
+  "task": "proposals",
+  "section_words": 9837,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9f59c7eb386d94b704556aa8ef0c42f8204376bdf0e2f49389d83021440a9f9f",
+  "est_input_tokens": 23213
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23996,
+  "output_tokens": 1169,
+  "request_id": "req_011CgCAij1RdwRokkey8uP1X"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Shareholder Proposal Regarding Business Operations in China",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests an annual report on the nature and extent to which Merck's corporate operations depend on and are vulnerable to China.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST it.](Board of Directors' Statement in Opposition to Proposal 5 says \"recommends a vote AGAINST it\"; ERM and disclosure reporting oversight is relevant.)"
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6 \u2013 Shareholder Proposal Regarding Access to COVID-19 Products",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Requests a report on whether public financial support for COVID-19 therapeutic development is considered in decisions affecting product access, such as licensing or pricing.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered this shareholder proposal and recommends a vote AGAINST it."
+   },
+   {
+    "item_number": "7",
+    "title": "Proposal 7 \u2013 Shareholder Proposal Regarding Indirect Political Spending",
+    "proponent": "Boston Common Asset Management",
+    "topic_summary": "Requests a policy requiring trade associations and similar groups seeking Merck funds to report their political expenditures, posted on Merck's website.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "recommends a vote AGAINST it because the Company has significant disclosures already regarding the Company's participation in the political process"
+   },
+   {
+    "item_number": "8",
+    "title": "Proposal 8 \u2013 Shareholder Proposal Regarding Patents and Access",
+    "proponent": "Province of Saint Joseph of the Capuchin Order and other co-filers",
+    "topic_summary": "Requests a process and report on how extended patent exclusivities' impact on product access is considered when deciding whether to seek secondary and tertiary patents.",
+    "category": "customers",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "The Board has considered this shareholder proposal carefully and recommends a vote AGAINST it."
+   },
+   {
+    "item_number": "9",
+    "title": "Proposal 9 \u2013 Shareholder Proposal Regarding a Congruency Report of Partnerships with Globalist Organizations",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a report analyzing whether voluntary partnerships with organizations such as WEF, CFR and Business Roundtable are congruent with fiduciary duties to shareholders.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board has considered this shareholder proposal carefully and recommends a vote AGAINST it."
+   },
+   {
+    "item_number": "10",
+    "title": "Proposal 10 \u2013 Shareholder Proposal Regarding an Independent Board Chairman",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring separate Chairman and CEO roles, with the Chairman whenever possible an independent director.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board has carefully considered the shareholder proposal and, for the reasons described below, believes adopting it is not in the best interests of Merck's shareholders."
+   }
+  ]
+ }
+}

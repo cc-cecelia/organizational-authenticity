@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "fe5eb7cf179226194d3351c25a76898d86519b5b79b70948fa1512541e172b4b",
+  "est_input_tokens": 42019
+ },
+ "usage": {
+  "input_tokens": 48530,
+  "output_tokens": 597
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Top line growth continues to be a key driver of shareholder value"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Under a free cash flow metric, Medtronic management is held accountable for GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Although not a performance measure, the Compensation Committee included a Quality Compliance Modifier as part of the plan design"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Uses a cumulative compound annual growth rate (Cumulative CAGR)over three scal years, which is a more rigorous measure of sustained revenue growth."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance threshold was set as the diluted EPS cumulative compound annual growth rate (cumulative CAGR) of 3%"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures were diluted EPS, revenue growth and free cash flow, each weighted equally at 33%"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Three-year Revenue Growth ... 50% Return on Invested Capital (ROIC) ... 50%"
+   }
+  ]
+ }
+}

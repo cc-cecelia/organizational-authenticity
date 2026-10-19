@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2020,
+  "accession": "0000200406-20-000018",
+  "task": "proposals",
+  "section_words": 3468,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "23bcfee766555af4d5755dab1790598b901fbf0bbf81f43d005c109c54b6844e",
+  "est_input_tokens": 8138
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9382,
+  "output_tokens": 394,
+  "request_id": "req_011CgCAZgYbdXBBf7x3EUFGC"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2013 Independent Board Chair",
+    "proponent": "Trillium Asset Management, LLC on behalf of Oneida Trust Minors",
+    "topic_summary": "Requests the board adopt and bylaw-codify a policy that the Chair of the Board be an independent member, waived only if no independent director is available.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2013 Report on Governance of Opioids-Related Risks",
+    "proponent": "Bright Start College Savings Trust, c/o Max Dulberger, Illinois State Treasurer's Office",
+    "topic_summary": "Requests a report describing governance measures implemented since 2012 to monitor and manage financial and reputational risks related to opioids.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "8a4a51d5e3ea64a08824fd44d2263c22982f72bb9b0070d872acbcef778eb918",
+  "est_input_tokens": 20439
+ },
+ "usage": {
+  "input_tokens": 21652,
+  "output_tokens": 2003
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The target and maximum attainment levels for adjusted non-GAAP revenue and adjusted non-GAAP operating margin (defined below) for Fiscal Year"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusted non-GAAP operating income as a [w] of non-GAAP revenue, referred to as \"adjusted non-GAAP operating margin\""
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Represents direct expenses of the division or function, as applicable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (#)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (#)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Revenue (#)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "WSD Operating Margin (#)"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final payouts under the APB Plan include the effect of a non-subjective individual performance multiplier"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "earned based on our Relative TSR and absolute TSR performance over"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on our Relative TSR and absolute TSR performance over # overlapping performance periods"
+   }
+  ],
+  "equal_split": []
+ }
+}

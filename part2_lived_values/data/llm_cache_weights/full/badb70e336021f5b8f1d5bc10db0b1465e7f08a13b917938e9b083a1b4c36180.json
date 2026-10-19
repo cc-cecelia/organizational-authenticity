@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "badb70e336021f5b8f1d5bc10db0b1465e7f08a13b917938e9b083a1b4c36180",
+  "est_input_tokens": 22310
+ },
+ "usage": {
+  "input_tokens": 23672,
+  "output_tokens": 297
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Annual bonus program represents 10 to 20 percent of total direct compensation, and is intended to link executive pay to annual Company earnings performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial and Operating Metrics\u2014Safety, ROCE, CFOAS, TSR\u2014Spills, Operated GHG Emissions Intensity"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance shares represent over 70 percent of total direct compensation, and are intended to link executive pay to the returns of long-term shareholders"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "the Committee assigns equal weight to each of the four strategic objectives"
+   }
+  ]
+ }
+}

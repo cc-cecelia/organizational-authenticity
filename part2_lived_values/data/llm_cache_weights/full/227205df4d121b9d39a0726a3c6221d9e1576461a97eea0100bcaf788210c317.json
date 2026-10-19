@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "227205df4d121b9d39a0726a3c6221d9e1576461a97eea0100bcaf788210c317",
+  "est_input_tokens": 19432
+ },
+ "usage": {
+  "input_tokens": 20600,
+  "output_tokens": 1614
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Adjusted Revenue target goal represented an increase of 15% compared to actual fiscal 2021 Revenue"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Adjusted Digital Revenue goal represented an increase of 31% compared to actual fiscal 2021 Digital Revenue"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Adjusted EBIT target goal represented an increase of 16% compared to actual fiscal 2021 EBIT"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the \"People & Planet\" modifier permits the Compensation Committee to adjust the earnout upwards or downwards by up to 20 percentage points"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected three-year Relative TSR as the performance metric because it is an objective and transparent measure of long-term shareholder value"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "In June 2021, the Compensation Committee selected three equally-weighted metrics and corresponding performance goals"
+   }
+  ]
+ }
+}

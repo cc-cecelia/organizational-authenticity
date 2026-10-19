@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000200406-19-000013",
+  "task": "incentives",
+  "section_words": 10424,
+  "section_method": "heading",
+  "cache_key": "da55f816212c12993a2756de009a10b367496b3ab32bb831a4fb725f0f5bcec3",
+  "est_input_tokens": 22426
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26348,
+  "output_tokens": 1869,
+  "request_id": "req_011CgCAYDpUDUdfFZZsfeXsD"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operational Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Exceeded our operational sales growth goal | 3.5% - 4.5% | 6.3%"
+   },
+   {
+    "metric": "Adjusted Operational EPS Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Exceeded our adjusted operational EPS growth goal | 6.8% - 9.6% | 10.4%"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Exceeded our free cash flow goal ($ Billions) | $17.1 - $17.9 | $18.5"
+   },
+   {
+    "metric": "Create Life-Enhancing Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Create Life-Enhancing Innovation: We exceeded our objectives that measure our priority innovation projects across all 3 businesses."
+   },
+   {
+    "metric": "Deliver Excellence in Execution",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver Excellence in Execution: We met our objectives that measure: our priority business platforms' sales, our sales in regions offering significant growth opportunity and our product quality."
+   },
+   {
+    "metric": "Generate Value Through Partnerships",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Generate Value Through Partnerships: We met our objectives that track elements we need to execute to unleash additional growth opportunities."
+   },
+   {
+    "metric": "Empower and Inspire our Employees",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Empower and Inspire our Employees: We exceeded our objectives that measure our organizational health, diversity, and reputation."
+   },
+   {
+    "metric": "Advanced diversity and our culture of inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strengthened our leadership talent pipeline, advanced diversity and our culture of inclusion, and exceeded our culture of health goals."
+   },
+   {
+    "metric": "Maintained our high reputational standing and employee engagement goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintained our high reputational standing, achieving our reputational index and employee engagement goals."
+   },
+   {
+    "metric": "Operational Sales",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operational Sales | 1/3 rd | 118.2% | 95.0% | 145.3% | 39.8%"
+   },
+   {
+    "metric": "Cumulative Adjusted Operational EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative Adjusted Operational EPS | 1/3 rd | 108.6% | 36.2%"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "1/3 Relative Total Shareholder Return: 3-year Compound Annual Growth Rate versus the Competitor Composite Peer Group"
+   },
+   {
+    "metric": "Share Price",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Ties PSU value directly to the share price"
+   }
+  ]
+ }
+}

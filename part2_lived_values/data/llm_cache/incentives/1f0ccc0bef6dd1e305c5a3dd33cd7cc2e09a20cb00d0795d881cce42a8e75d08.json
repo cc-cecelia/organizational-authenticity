@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001193125-16-530108",
+  "task": "incentives",
+  "section_words": 7294,
+  "section_method": "heading",
+  "cache_key": "1f0ccc0bef6dd1e305c5a3dd33cd7cc2e09a20cb00d0795d881cce42a8e75d08",
+  "est_input_tokens": 16844
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17619,
+  "output_tokens": 1417,
+  "request_id": "req_011CgCAj5WU95cpcqd6HFr8h"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Organic Revenue Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth (40%)"
+   },
+   {
+    "metric": "Adjusted Operating Income as a Percentage of Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Operating Income as a Percentage of Revenue (15%)"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "(iii) adjusted earnings per share (15%)"
+   },
+   {
+    "metric": "Non-financial measures (company-wide)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining 30% of the annual cash incentive award was based on company-wide, non-financial measures"
+   },
+   {
+    "metric": "Customer Allegiance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "company-wide, non-financial measures relating to the achievement of customer allegiance goals"
+   },
+   {
+    "metric": "New Product Introduction",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "increased new product introduction"
+   },
+   {
+    "metric": "Maximization of Opportunity in Emerging Markets",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the maximization of our opportunity in emerging markets"
+   },
+   {
+    "metric": "Building a Diverse Workforce / Employer of Choice",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the continuation of building a diverse workforce and employer of choice initiatives"
+   },
+   {
+    "metric": "Mergers and Acquisitions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the achievement of merger and acquisition-related goals"
+   },
+   {
+    "metric": "Organic Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share"
+   },
+   {
+    "metric": "Adjusted Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the measures organic revenue growth and adjusted earnings per share"
+   }
+  ]
+ }
+}

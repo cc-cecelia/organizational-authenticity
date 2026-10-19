@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2021,
+  "accession": "0000109198-21-000016",
+  "task": "proposals",
+  "section_words": 5005,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "188e9a35c79ccd479bc32efd93b3aaecf74fe2a4ebacd36a87286f4c78818487",
+  "est_input_tokens": 10962
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11955,
+  "output_tokens": 378,
+  "request_id": "req_011CgCBgkivggnd5rt2Kc9A6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON ANIMAL WELFARE",
+    "proponent": "Brianna Lynn Harrington",
+    "topic_summary": "Requests an independent analysis of material risks of operating without a company-wide animal welfare policy or restrictions on animal-sourced products linked to cruelty, reported by September 2021.",
+    "category": "environment",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SETTING TARGET AMOUNTS FOR CEO COMPENSATION",
+    "proponent": "Trillium Asset Management, LLC, on behalf of multiple shareholders",
+    "topic_summary": "Asks the Executive Compensation Committee to consider pay grades and salary ranges of all company employees when setting CEO compensation target amounts.",
+    "category": "employees",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST this Shareholder Proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "228389083d249b8036fc7c1f24b821cf3a713e2ee4dcc8a6cf8a20118c15cbce",
+  "est_input_tokens": 36018
+ },
+ "usage": {
+  "input_tokens": 36140,
+  "output_tokens": 410
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% based on achievement of earnings per share, excluding charges and credits (\"adjusted EPS\"), targets"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "40% based on absolute dollar cash flow generation targets"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% of our NEOs' cash incentive award opportunity was based on achievement of pre-established key personal objectives"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a three-year ROCE performance period (the \"2019 ROCE PSUs\")"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "awards of PSUs with a two-year FCF conversion performance period (the \"2019 FCF Conversion PSUs\")"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a three-year relative TSR modifier that applies to all 2019 ROCE PSUs and 2019 FCF Conversion PSUs"
+   }
+  ],
+  "equal_split": []
+ }
+}

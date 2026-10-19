@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001193125-19-119221",
+  "task": "proposals",
+  "section_words": 5049,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "35fe81959e7ed3e9af246a8253e03cc3095f6e8f2d3698d6b2d3403f882fd8a7",
+  "est_input_tokens": 11035
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12423,
+  "output_tokens": 677,
+  "request_id": "req_011CgCBgfcbviTfn9Toyc1aY"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON COMPENSATION DISPARITIES BASED ON RACE, GENDER, OR ETHNICITY",
+    "proponent": "Zevin Asset Management, LLC, on behalf of Carol A. Reisen, Benedictine Sisters of Mount St. Scholastica, Benedictine Sisters of Virginia, Benedictine Sisters of Cullman, Proxy Impact (Sarah Peter), JLens Investor Network (Hammerman Family Trust), and Friends Fiduciary Corporation",
+    "topic_summary": "Requests a report on policies and goals to identify and reduce compensation inequities based on gender, race, or ethnicity within the workforce.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "REPORT ON PRISON LABOR",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests an annual report assessing the effectiveness of policies for preventing prison labor in the company's supply chain, including supplier audit metrics.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST this Shareholder Proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "REPORT ON HUMAN RIGHTS RISKS",
+    "proponent": "Priests of the Sacred Heart, U.S. Province, and Sisters of St. Dominic",
+    "topic_summary": "Requests a report on the company's process for identifying and analyzing potential and actual human rights risks in operations and supply chain by December 2019.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote AGAINST this Shareholder Proposal."
+   }
+  ]
+ }
+}

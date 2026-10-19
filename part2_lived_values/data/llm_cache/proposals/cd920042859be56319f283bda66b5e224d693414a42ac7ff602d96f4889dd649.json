@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0000050863-24-000057",
+  "task": "proposals",
+  "section_words": 6267,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cd920042859be56319f283bda66b5e224d693414a42ac7ff602d96f4889dd649",
+  "est_input_tokens": 14696
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15329,
+  "output_tokens": 545,
+  "request_id": "req_011CgC9jdtmgH5cimWP6TChD"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Requests a Corporate Financial Sustainability Board Committee",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests a board committee on corporate financial sustainability to oversee and review the impact of the company's policy positions, advocacy, partnerships and charitable giving on social and political matters, with a public report by end of 2024.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board believes that establishing a separate corporate sustainability committee is not necessary to achieve effective Board oversight of these matters."
+   },
+   {
+    "item_number": "5",
+    "title": "Requests a Risk Report of Opposing State Abortion Regulation",
+    "proponent": "American Family Association",
+    "topic_summary": "Requests a public report on known and foreseeable risks and costs to the company from opposing or altering company policy in response to state abortion regulations, and mitigation strategies.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote \" AGAINST \" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Requests an Excessive Golden Parachute Approval Policy",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests a policy requiring shareholder approval of senior executive pay packages with golden parachute payments exceeding 2.99 times base salary plus target bonus.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote \" AGAINST \" this proposal."
+   }
+  ]
+ }
+}

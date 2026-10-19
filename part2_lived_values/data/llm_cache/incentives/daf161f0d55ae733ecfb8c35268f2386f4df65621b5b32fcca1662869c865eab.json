@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-086655",
+  "task": "incentives",
+  "section_words": 7103,
+  "section_method": "heading",
+  "cache_key": "daf161f0d55ae733ecfb8c35268f2386f4df65621b5b32fcca1662869c865eab",
+  "est_input_tokens": 16723
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18375,
+  "output_tokens": 695,
+  "request_id": "req_011CgCAFkNXYWBrDcHQ4V69S"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted diluted EPS was established as the performance criterion for all NEOs."
+   },
+   {
+    "metric": "ROTCE divided by COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee approved a performance goal based on ROTCE divided by COE with potential payouts ranging from 100% to 200% of the target shares granted"
+   },
+   {
+    "metric": "ROTCE",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee selected the performance measure of ROTCE because it reflects the capital position of the company"
+   },
+   {
+    "metric": "COE",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Criteria | \u00b7 ROTCE \u00b7 COE"
+   },
+   {
+    "metric": "ROTCE excluding AOCI divided by COE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "The Compensation Committee selected the performance measure of ROTCE excluding AOCI divided by COE as it incorporates the creation of financial value for stockholders"
+   }
+  ]
+ }
+}

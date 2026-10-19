@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "F",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "a2014b37d7750943bcb9f474366f2a061ae196ff8a33af3de0beeb93e49b163d",
+  "est_input_tokens": 30026
+ },
+ "usage": {
+  "input_tokens": 32468,
+  "output_tokens": 847
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee determined that Adjusted Free Cash Flow should be heavily weighted for both the 2020 Incentive Bonus Plan and the 2020 Performance Unit grants"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "replacing the Adjusted EBIT Margin metric for the Incentive Bonus Plan with an Adjusted EBIT metric in order to avoid using Adjusted EBIT Margin"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We underperformed on the Company Revenue, Company Adjusted EBIT, and Company Adjusted Free Cash Flow metrics primarily due to the adverse impact of COVID-19"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Quality metric was based on the weighted average of individual market and Business Unit objectives"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows: North America \u2014 45.0%"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The weightings for the Things Gone Wrong and Customer Satisfaction elements of the Quality metric were as follows: North America \u2014 45.0%"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "The weightings for the Warranty Spend element of the Quality metrics were as follows: North America \u2014 56.4%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee, with management's recommendations, considered each Named Executive's individual performance toward key performance indicators and objectives"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "These changes included replacing the relative TSR metric with a relative TSR modifier"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In years one and two, Performance Units are banked against performance to internal financial metrics and objectives established at the time of grant"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee determined that Adjusted Free Cash Flow should be heavily weighted for both the 2020 Incentive Bonus Plan and the 2020 Performance Unit grants"
+   }
+  ],
+  "equal_split": []
+ }
+}

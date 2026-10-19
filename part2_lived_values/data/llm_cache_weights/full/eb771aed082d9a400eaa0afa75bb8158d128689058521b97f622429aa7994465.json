@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "eb771aed082d9a400eaa0afa75bb8158d128689058521b97f622429aa7994465",
+  "est_input_tokens": 20608
+ },
+ "usage": {
+  "input_tokens": 23298,
+  "output_tokens": 121
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Fiscal 2017 MIP (Corporate)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to the corporate performance target under our LRPIP"
+   }
+  ],
+  "equal_split": []
+ }
+}

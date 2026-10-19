@@ -1,0 +1,25 @@
+direction,ticker,filing_year,mae_equal,mae_emphasis,metric,category,true,equal,emphasis
+emphasis_better,TJX,2019,30.0,5.0,Pre-tax Income for MIP,shareholders,80.0,50.0,75.0
+emphasis_better,TJX,2019,30.0,5.0,Total Sales for MIP,shareholders,20.0,50.0,25.0
+emphasis_better,C,2020,20.0,10.0,"Financial Goals (scorecard, 70% weighting for business leaders including CEO)",shareholders,70.0,50.0,60.0
+emphasis_better,C,2020,20.0,10.0,"Non-financial goals (scorecard, 30% weighting for business leaders including CEO)",integrity,30.0,50.0,40.0
+emphasis_better,TJX,2023,30.0,20.0,MIP Incentive Pre-Tax Income,shareholders,80.0,50.0,60.0
+emphasis_better,TJX,2023,30.0,20.0,Key Business Priorities,other,20.0,50.0,40.0
+emphasis_better,WFC,2024,15.0,5.0,Company performance achievement,other,65.0,50.0,60.0
+emphasis_better,WFC,2024,15.0,5.0,Individual performance achievement,other,35.0,50.0,40.0
+emphasis_better,MCD,2020,27.78,21.43,Operating income growth,shareholders,75.0,33.33,42.86
+emphasis_better,MCD,2020,27.78,21.43,Comparable guest count growth,customers,25.0,33.33,28.57
+emphasis_better,MCD,2020,27.78,21.43,Delivery sales modifier,customers,0.0,33.33,28.57
+emphasis_worse,SLB,2018,0.0,10.0,Adjusted EPS (financial half of annual cash incentive),shareholders,50.0,50.0,60.0
+emphasis_worse,SLB,2018,0.0,10.0,"Personal objectives (strategic, operational and key personal objectives)",other,50.0,50.0,40.0
+emphasis_worse,XOM,2018,0.0,10.0,Earnings bonus units delayed on cumulative earnings per share (EPS),shareholders,50.0,50.0,40.0
+emphasis_worse,XOM,2018,0.0,10.0,Annual bonus formula based on annual change in earnings,shareholders,50.0,50.0,60.0
+emphasis_worse,IBM,2018,8.89,15.24,Strategic Imperatives Revenue,shareholders,20.0,33.33,42.86
+emphasis_worse,IBM,2018,8.89,15.24,Operating Net Income,shareholders,40.0,33.33,28.57
+emphasis_worse,IBM,2018,8.89,15.24,Operating Cash Flow,shareholders,40.0,33.33,28.57
+emphasis_worse,INTC,2021,0.0,6.35,Year-Over-Year Net Income Growth,shareholders,33.33,33.33,28.57
+emphasis_worse,INTC,2021,0.0,6.35,Relative Net Income Growth vs. Tech 15 peers,shareholders,33.33,33.33,28.57
+emphasis_worse,INTC,2021,0.0,6.35,One Intel Operational goals,other,33.33,33.33,42.86
+emphasis_worse,INTC,2022,0.0,6.35,Revenue,shareholders,33.33,33.33,28.57
+emphasis_worse,INTC,2022,0.0,6.35,Net Income,shareholders,33.33,33.33,28.57
+emphasis_worse,INTC,2022,0.0,6.35,One Intel operational goals,other,33.33,33.33,42.86

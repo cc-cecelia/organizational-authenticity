@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "94fc190f05140f4a79ef9b493f03bc9138d473cbbbfd7d160fa4c544ade2f32c",
+  "est_input_tokens": 17371
+ },
+ "usage": {
+  "input_tokens": 31769,
+  "output_tokens": 239
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The number of performance shares the executive officer will receive is dependent upon the achievement of a cumulative EPS measure and an average ROE measure"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The number of performance shares the executive officer will receive is dependent upon the achievement of a cumulative EPS measure and an average ROE measure"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The number of performance shares the executive officer will receive is dependent upon the achievement of a cumulative EPS measure and an average ROE measure"
+   }
+  ]
+ }
+}

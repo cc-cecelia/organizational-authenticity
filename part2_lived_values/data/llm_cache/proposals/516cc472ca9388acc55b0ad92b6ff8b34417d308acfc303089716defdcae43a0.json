@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001104659-22-041499",
+  "task": "proposals",
+  "section_words": 6094,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "516cc472ca9388acc55b0ad92b6ff8b34417d308acfc303089716defdcae43a0",
+  "est_input_tokens": 12664
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14057,
+  "output_tokens": 208,
+  "request_id": "req_011CgCBmFSgRihMbto79p8hg"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2014 Equal Voting Rights for Each Share",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the Board to ensure all outstanding stock has equal one-vote-per-share, encouraging holders of multiple-vote shares to relinquish those rights, with a 7-year transition.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST Proposal 5 because it is not in the best interests of Ford and you."
+   }
+  ]
+ }
+}

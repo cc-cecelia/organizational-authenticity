@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "b682e35df4ae215018dbfc381058ad3fd97e70e05891e1ec2e88450c2c594b6f",
+  "est_input_tokens": 18449
+ },
+ "usage": {
+  "input_tokens": 21284,
+  "output_tokens": 399
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee also established a series of performance targets based on our income before income taxes (\"PTI\") for fiscal 2016"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "performance targets based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\") for the performance period"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "performance targets based on our cumulative revenues and cumulative diluted earnings per common share (\"EPS\") for the performance period"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on our cumulative revenue growth and cumulative EPS growth for the performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on our cumulative revenue growth and cumulative EPS growth for the performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "long_term_incentive",
+    "evidence": "Participants will receive a payout at the average of the percentage levels at which the two performance targets are met"
+   }
+  ]
+ }
+}

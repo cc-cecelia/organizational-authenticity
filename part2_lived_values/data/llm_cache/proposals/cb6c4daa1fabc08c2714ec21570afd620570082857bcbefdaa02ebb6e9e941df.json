@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000612",
+  "task": "proposals",
+  "section_words": 20551,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cb6c4daa1fabc08c2714ec21570afd620570082857bcbefdaa02ebb6e9e941df",
+  "est_input_tokens": 48928
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 49870,
+  "output_tokens": 2305,
+  "request_id": "req_011CgC9M8xrWXgUhrfLEqAmR"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "Bylaw Amendment: Stockholder Approval of Director Compensation",
+    "proponent": "John Chevedden",
+    "topic_summary": "Amend bylaws so directors' compensation above $1 requires prior disclosure and stockholder approval vote, excluding director-held shares.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "4",
+    "title": "EEO Policy Risk Report",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Request a public report on risks of omitting \"viewpoint\" and \"ideology\" from Alphabet's written EEO policy.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "5",
+    "title": "Report on Electromagnetic Radiation and Wireless Technologies Risks",
+    "proponent": "Lendri Purcell",
+    "topic_summary": "Annual report on health effects and financial risks of electromagnetic radiation and wireless technologies, comparing safety performance to peers.",
+    "category": "safety",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "6",
+    "title": "Policy for Director Transparency on Political and Charitable Giving",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Require director nominees to disclose political and charitable donations above specified thresholds for prior years.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "7",
+    "title": "Report on Climate Risks to Retirement Plan Beneficiaries",
+    "proponent": "As You Sow, on behalf of the As You Sow Foundation Fund",
+    "topic_summary": "Report on how Alphabet protects 401(k) beneficiaries from portfolio climate risk created by high-carbon retirement plan investments.",
+    "category": "environment",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "8",
+    "title": "Lobbying Report",
+    "proponent": "United Church Funds and Missionary Oblates of Mary Immaculate - US Province",
+    "topic_summary": "Annual report on lobbying policies, payments for direct, indirect and grassroots lobbying, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "9",
+    "title": "Equal Shareholder Voting",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Recapitalize so each share has one vote, phasing out Class B disproportionate voting rights within seven years.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Reproductive Healthcare Misinformation Risks",
+    "proponent": "Educational Foundation of America and Planned Parenthood Federation of America on behalf of EGIS Trust",
+    "topic_summary": "Publish report assessing effectiveness of policies to reduce false or misleading reproductive health content in Google ads and search.",
+    "category": "customers",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "11",
+    "title": "AI Principles and Board Oversight",
+    "proponent": "Trillium ESG Global Equity Fund, Benedictine Sisters of Baltimore, and Benedictine Sisters of Mount St. Scholastica",
+    "topic_summary": "Amend Audit and Compliance Committee charter to expressly oversee AI activities and implementation of AI Principles.",
+    "category": "integrity",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "12",
+    "title": "Report on Generative AI Misinformation and Disinformation Risks",
+    "proponent": "not stated",
+    "topic_summary": "Annual report assessing risks from generative AI misinformation and disinformation and steps to remediate and measure effectiveness.",
+    "category": "innovation",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "13",
+    "title": "Human Rights Assessment of AI-Driven Targeted Ad Policies",
+    "proponent": "Shareholder Association for Research & Education, on behalf of United Church of Canada Pension Plan",
+    "topic_summary": "Publish independent third-party human rights impact assessment of AI-driven targeted advertising policies by June 1, 2025.",
+    "category": "community",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   },
+   {
+    "item_number": "14",
+    "title": "Report on Online Safety for Children",
+    "proponent": "Boston Common Asset Management",
+    "topic_summary": "Adopt child online safety targets and publish annual report with quantitative metrics on child safety and harm reduction on YouTube and Alphabet platforms.",
+    "category": "customers",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "OUR BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL."
+   }
+  ]
+ }
+}

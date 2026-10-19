@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "eea7f0148c3c371d8683e4451e15625eabcb37e6e3a3e6be800d467d44906d36",
+  "est_input_tokens": 30601
+ },
+ "usage": {
+  "input_tokens": 32735,
+  "output_tokens": 903
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Revenue (40%) | A leading indicator of performance and value creation"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted Diluted EPS (40%) | A measure of income that provides focus on profitable growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations (20%) | A measure that provides focus on generating cash in the short term"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Modifiers of up to +/- 30 percentage points (PP): Pipeline Achievement (25 PP) and ESG Scorecard (5 PP)"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Pipeline Growth (e.g., organic growth, acquired assets, recent product approvals and robust nature of the pipeline)"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Environmental, Social and Governance (ESG) Scorecard Incorporated into the Annual Short-Term Incentive Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Percentage of Vice President and higher roles held by women (globally) | 43.0% | 43.1%"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Percentage of Vice President and higher roles held by minorities (U.S.) | 26.5% | 28.1%"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Greenhouse Gas Emissions (in metric tons) | <1.2M mt | 1.14M mt"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Awards (PSAs) Represents 50% of total annual grant value | Adjusted Net Income (NI)* and relative TSR"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative TSR, as compared to the NYSE Arca Pharmaceutical Index (DRG Index or DRG), over a three-year period"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "5- and 7-Year Total Shareholder Return Units (TSRUs) Represents 25% (each) of total annual grant value (50% in total) | Absolute TSR"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Adjusted Diluted EPS (40%)"
+   }
+  ]
+ }
+}

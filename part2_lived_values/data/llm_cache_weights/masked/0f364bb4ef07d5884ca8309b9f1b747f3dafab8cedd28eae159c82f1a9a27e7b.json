@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "0f364bb4ef07d5884ca8309b9f1b747f3dafab8cedd28eae159c82f1a9a27e7b",
+  "est_input_tokens": 17551
+ },
+ "usage": {
+  "input_tokens": 19522,
+  "output_tokens": 344
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's EBIT"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "sales ([w] # for the CEO and all other NEOs)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "strategic initiatives ([w] # for the CEO and all other NEOs)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSUs will be earned based on the Company's RONCAA over a #-year performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "and for the #and #PSUs, a relative TSR modifier"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "based on the Company's achievement of # or more performance measures established at the beginning of the fiscal year"
+   }
+  ]
+ }
+}

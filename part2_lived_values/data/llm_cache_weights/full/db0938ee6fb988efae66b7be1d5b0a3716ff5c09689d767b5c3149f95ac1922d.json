@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "db0938ee6fb988efae66b7be1d5b0a3716ff5c09689d767b5c3149f95ac1922d",
+  "est_input_tokens": 16263
+ },
+ "usage": {
+  "input_tokens": 17047,
+  "output_tokens": 282
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted diluted EPS was established as the performance criterion for all NEOs."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approved a performance goal based on ROTCE divided by COE with potential payouts ranging from 100% to 200%"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Compensation Committee selected the performance measure of ROTCE because it reflects the capital position of the company absent the effects of goodwill"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "COE is calculated using the Capital Asset Pricing Model, which is a commonly used financial metric"
+   }
+  ],
+  "equal_split": []
+ }
+}

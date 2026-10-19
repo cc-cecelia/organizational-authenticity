@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "fe608b76cc748022ba71dbf713dabfd0b9e7ade7b0065ec116201b1784349be1",
+  "est_input_tokens": 29832
+ },
+ "usage": {
+  "input_tokens": 30786,
+  "output_tokens": 738
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Income from Continuing Operations Before Taxes"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citicorp Efficiency Ratio"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Tangible Common Equity"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Assets"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citicorp Risk Appetite Ratio"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial Scorecard"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-Financial Scorecard"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong risk and controls management"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong personnel management"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Enhance relations with external stakeholders, including stockholders"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Set strategic direction"
+   },
+   {
+    "id": 11,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Digitize and simplify customer platforms"
+   },
+   {
+    "id": 12,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Improve market share in core markets"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our return on tangible common equity target, which is meaningfully higher than our"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The new metrics are return on tangible common equity and cumulative earnings per share."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "this year's Performance Share Units retain total shareholder return as a performance modifier that caps the award at target"
+   }
+  ],
+  "equal_split": []
+ }
+}

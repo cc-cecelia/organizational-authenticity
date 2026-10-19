@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001045810-20-000055",
+  "task": "incentives",
+  "section_words": 6236,
+  "section_method": "heading",
+  "cache_key": "529dbb14bd09181ce3b151d1fb1f17c98a1fdd93d613c14e11f50b6e36ac35d3",
+  "est_input_tokens": 13919
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16527,
+  "output_tokens": 480,
+  "request_id": "req_011CgC9CeB2EhR7gx64BbBdv"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Annual Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Variable Cash | Motivate and reward for annual corporate financial performance | At-Risk | Annual Revenue | 9% | 9%"
+   },
+   {
+    "metric": "Non-GAAP Operating Income",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "SY PSUs | Align with stockholder interests by linking NEO pay to annual operational performance | At-Risk | Annual Non-GAAP Operating Income"
+   },
+   {
+    "metric": "3-Year TSR Relative to S&P 500",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "MY PSUs | Align with long-term stockholder interests by linking NEO pay to multi-year relative shareholder return | At-Risk | 3-Year TSR Relative to S&P 500"
+   }
+  ]
+ }
+}

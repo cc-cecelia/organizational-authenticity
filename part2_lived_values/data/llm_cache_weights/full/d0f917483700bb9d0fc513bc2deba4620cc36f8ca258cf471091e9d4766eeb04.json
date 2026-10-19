@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "d0f917483700bb9d0fc513bc2deba4620cc36f8ca258cf471091e9d4766eeb04",
+  "est_input_tokens": 15641
+ },
+ "usage": {
+  "input_tokens": 16803,
+  "output_tokens": 1479
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share | 20%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Net Revenues, Income Before Taxes, Operating Margin, Humira Sales, and Return on Assets | 20% to 60%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Established a formal payout matrix based on net revenues and operating margin to guide NEO annual incentive awards"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual Incentive Payout Matrix | Range Net Revenues | 0% to 200% of target Operating Margin | 0% to 200% of target"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "R&D/Biosimilars | 0% to 50%"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Business Development | 0% to 20%"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Other (including strategic initiatives, etc.) | 0% to 30%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The qualitative assessment reflects NEOs' overall leadership, progress on strategic initiatives, advancement of the pipeline, and enhancement of AbbVie's biopharmaceutical culture."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the committee considers all financial and non-financial goals holistically, without specific weightings, when evaluating CEO performance."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Equity (ROE) Performance Metric. During the term of the award, one-third of the award vests in each year that AbbVie's prior year ROE meets or exceeds the performance goal."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "96dad41ad5e0a9efa070ea4d3844b08e3200f70502fdb187836c278ddffa8b7c",
+  "est_input_tokens": 21964
+ },
+ "usage": {
+  "input_tokens": 24204,
+  "output_tokens": 1927
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The non-GAAP diluted EPS measure was also designated to be the plan threshold performance measure that had to be achieved"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "significantly above target in free cash flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We emphasize quality: payouts under our annual incentive plan can be reduced"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Compounded annual growth rate required over three fiscal years to achieve objectives."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This change is in response to suggestions from shareholders about introducing this metric into the Company's long-term incentive plans."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance threshold was set as the cumulative diluted EPS over a three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "each weighted equally at 33%"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Relative TSR is weighted at one-third along with Revenue Growth and ROIC."
+   }
+  ]
+ }
+}

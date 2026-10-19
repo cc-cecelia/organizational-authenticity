@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001193125-19-257430",
+  "task": "proposals",
+  "section_words": 2721,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "59858519d040e061cc45e9bc586130fed658a981aebbd1bbae2b9dfeeac7f13f",
+  "est_input_tokens": 6150
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7307,
+  "output_tokens": 394,
+  "request_id": "req_011CgC9aSpG1zv4Hw9fwTJHi"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "STOCKHOLDER PROPOSAL REGARDING PAY EQUITY REPORT",
+    "proponent": "Pax World Mutual Funds, along with co-sponsor the Comptroller of the City of New York",
+    "topic_summary": "Requests Oracle prepare a report by April 2020 identifying whether a gender pay gap exists among its employees and outlining steps to reduce it.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 4."
+   },
+   {
+    "item_number": "5",
+    "title": "STOCKHOLDER PROPOSAL REGARDING INDEPENDENT BOARD CHAIR",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Requests a policy requiring the Chairman of the Board to be an independent member of the Board whenever possible, with phase-in allowed.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends a vote AGAINST adoption of Proposal No. 5."
+   }
+  ]
+ }
+}

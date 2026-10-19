@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "8ff75776b7168ec0f154ad64b5901dd144cbf6d7d31240b51dccc358bb469622",
+  "est_input_tokens": 24713
+ },
+ "usage": {
+  "input_tokens": 26821,
+  "output_tokens": 326
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue | $25,650 - $25,750 | $25,947 | $26,492 | 102.1% of Target"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Operating Cash Flow\" is defined as our GAAP operating cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "\"Non-GAAP Income from Operations\" is defined as our non-GAAP income from operations"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Target payout requires 60 th percentile TSR performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the bonus pool for Executive Officers was based on our performance during the fiscal year compared to pre-established target levels for three equally weighted measures"
+   }
+  ]
+ }
+}

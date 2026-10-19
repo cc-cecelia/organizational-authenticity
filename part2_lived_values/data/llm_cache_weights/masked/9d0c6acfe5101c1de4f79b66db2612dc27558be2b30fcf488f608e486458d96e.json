@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "9d0c6acfe5101c1de4f79b66db2612dc27558be2b30fcf488f608e486458d96e",
+  "est_input_tokens": 18241
+ },
+ "usage": {
+  "input_tokens": 20404,
+  "output_tokens": 588
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee decided to adjust and reweight performance metrics for #as follows: \u2022 Financial measures were adjusted by increasing the [w] on Operating Income with modest decreases on the [w] for Revenue and Cash Flow"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the increased [w] on Operating Income reflects that it is a primary driver of management decision making, a key metric for shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "modest decreases on the [w] for Revenue and Cash Flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reweighted the two resulting Stewardship metrics (Net Promoter Score and EXI) [w] to comprise # of the annual incentive scorecard in aggregate."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Enhance customer service and increase the Company's NPS across all business platforms"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Replaced the teamwork and engagement metrics with a single Employee Experience Index (EXI) the Company has been using for several years."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "specifically [w] [w] between cumulative earnings per share and average return on equity for the three-year performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Performance share grants were selected to ensure a strong pay-for-performance alignment of the Company's compensation program with drivers of shareholder value"
+   }
+  ],
+  "equal_split": []
+ }
+}

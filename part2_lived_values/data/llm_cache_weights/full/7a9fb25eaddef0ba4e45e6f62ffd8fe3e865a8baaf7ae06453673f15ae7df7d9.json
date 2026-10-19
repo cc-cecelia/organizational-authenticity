@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "7a9fb25eaddef0ba4e45e6f62ffd8fe3e865a8baaf7ae06453673f15ae7df7d9",
+  "est_input_tokens": 20927
+ },
+ "usage": {
+  "input_tokens": 23993,
+  "output_tokens": 193
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Average ROA (1) (50% Weighting)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Three-year Average Growth in Adjusted TBV (2) (50% Weighting)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The awards are equally weighted with 50% based on ROA goals and 50% based on adjusted TBV growth goals."
+   }
+  ]
+ }
+}

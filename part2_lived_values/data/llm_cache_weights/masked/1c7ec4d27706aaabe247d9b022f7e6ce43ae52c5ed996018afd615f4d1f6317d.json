@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "1c7ec4d27706aaabe247d9b022f7e6ce43ae52c5ed996018afd615f4d1f6317d",
+  "est_input_tokens": 21693
+ },
+ "usage": {
+  "input_tokens": 21501,
+  "output_tokens": 2505
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects top line financial performance, which is a strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Prevalent, industry-relevant measure of profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Ensures all colleagues can contribute to profitability of the Company"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Reflects quality of earnings and cash flows that may be reinvested in our businesses"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Committee assesses performance in our five identified areas of strategic importance"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Strong indicator of our long-term ability to drive shareholder value"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Drives strong future profitability"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Ensuring the Company remains focused on attracting and retaining high potential colleagues"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Properly managing the strategic use of capital through acquisitions, dividends, share repurchases and debt repayment is of paramount importance"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic revenue growth, which also features under our annual incentive plan"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Prevalent, industry-relevant measure of delivery of shareholder value"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative (as opposed to absolute) nature of goals accounts for macroeconomic factors impacting the broader market"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "based on standalone organic revenue growth in equal proportion to adjusted earnings per share"
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "df8fd464b0597ef15e451c43a257b1abff212144c6a873241678991394b12f26",
+  "est_input_tokens": 16979
+ },
+ "usage": {
+  "input_tokens": 18444,
+  "output_tokens": 428
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at #, each based on the C&MD Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] at #, each based on the C&MD Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSUs link realized compensation value to the achievement of critical financial objectives and align executives' interests with those of our shareholders."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "R-TSR performance versus our peer group is measured at the end of the three-year period and compares Merck's average annual TSR to the median TSR of our pharmaceutical peer group."
+   }
+  ],
+  "equal_split": []
+ }
+}

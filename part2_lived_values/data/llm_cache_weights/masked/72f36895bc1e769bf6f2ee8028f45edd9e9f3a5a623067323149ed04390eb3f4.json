@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "72f36895bc1e769bf6f2ee8028f45edd9e9f3a5a623067323149ed04390eb3f4",
+  "est_input_tokens": 18224
+ },
+ "usage": {
+  "input_tokens": 18414,
+  "output_tokens": 394
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We use a number of the financial metrics highlighted above, which drive shareholder value, as the key performance metrics in our compensation programs."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The operating profit threshold must be met for any MIP payout to occur."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This weighting maintains visibility and attention on inventory turns while at the same time reducing the impact of this metric"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "provides for the issuance of shares of our common stock at the end of a #-year period based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on the achievement of average ROIC and operating profit goals over that period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted stock is forfeited if Fiscal #operating profit is not at least # of the MIP target."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001193125-24-014772",
+  "task": "proposals",
+  "section_words": 10369,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "920f1c91ac86d5e72383404db16ea766efd2e1c5f2a7249bde230016bc3dbbd1",
+  "est_input_tokens": 23679
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25546,
+  "output_tokens": 583,
+  "request_id": "req_011CgCBYSfkirCY8CSfk5okU"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal requesting a report on plant-based milk pricing",
+    "proponent": "People for the Ethical Treatment of Animals (\"PETA\")",
+    "topic_summary": "Requests a report examining costs to Starbucks' reputation and impact on projected sales from its upcharge on plant-based milk.",
+    "category": "customers",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Starbucks board of directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder proposal requesting a report on direct and systemic discrimination",
+    "proponent": "National Center for Public Policy Research (\"NCPPR\")",
+    "topic_summary": "Requests an audit and report on whether Starbucks programs and practices directly or systemically discriminate against groups of employees, including non-diverse employees, and reviews Partner Networks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Starbucks board of directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder proposal requesting a report on human rights policies",
+    "proponent": "National Legal and Policy Center (\"NLPC\")",
+    "topic_summary": "Requests a report by March 31, 2025 analyzing congruency of Starbucks human rights policy positions with its actions, especially in conflict zones and under oppressive regimes.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Starbucks board of directors recommends that shareholders vote AGAINST this proposal for the following reasons"
+   }
+  ]
+ }
+}

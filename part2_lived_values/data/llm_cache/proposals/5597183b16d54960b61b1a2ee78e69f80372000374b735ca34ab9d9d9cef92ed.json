@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0001308179-24-000626",
+  "task": "proposals",
+  "section_words": 8213,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5597183b16d54960b61b1a2ee78e69f80372000374b735ca34ab9d9d9cef92ed",
+  "est_input_tokens": 19481
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 20012,
+  "output_tokens": 917,
+  "request_id": "req_011CgCBcqyaW9PqxqTevQWNv"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal to adopt a policy for an independent board chair",
+    "proponent": "The Accountability Board, Inc.",
+    "topic_summary": "Asks the Board to adopt a policy and amend bylaws requiring the Board Chair to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal to adopt a policy for an independent board chair."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder proposal requesting animal pain management reporting",
+    "proponent": "The Humane Society of the United States",
+    "topic_summary": "Asks Target to disclose progress on its animal pain management commitment, including procedures, supply chain percentages, and pain management provided.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal requesting animal pain management reporting."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder proposal to establish wage policies",
+    "proponent": "The Shareholder Commons, on behalf of Legal & General Investment Management America, Inc.",
+    "topic_summary": "Asks the Board to establish wage policies providing workers minimum earnings to meet families' basic needs, consistent with a living wage.",
+    "category": "employees",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal to establish wage policies."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder proposal requesting a political contributions congruency analysis",
+    "proponent": "Tara Health Foundation",
+    "topic_summary": "Asks Target to annually report on political and electioneering expenditures and any incongruence with stated company values and policies.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal requesting a political contributions congruency analysis."
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder proposal requesting a report on Target's partnerships with, charitable contributions to, and other support for certain organizations",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Asks the Board to evaluate and report on risks to financial sustainability and reputation from partnerships and donations to divisive social and political organizations, such as HRC's Corporate Equality Index.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that shareholders vote Against the shareholder proposal requesting a report on Target's partnerships with, charitable contributions to, and other support for certain organizations."
+   }
+  ]
+ }
+}

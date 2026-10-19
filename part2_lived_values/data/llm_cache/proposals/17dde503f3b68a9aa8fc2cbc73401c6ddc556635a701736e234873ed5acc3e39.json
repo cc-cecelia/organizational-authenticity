@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001326801-20-000037",
+  "task": "proposals",
+  "section_words": 11328,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "17dde503f3b68a9aa8fc2cbc73401c6ddc556635a701736e234873ed5acc3e39",
+  "est_input_tokens": 25673
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25441,
+  "output_tokens": 1196,
+  "request_id": "req_011CgC9QozTWGKDhqESvz956"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan giving all outstanding stock one vote per share, phasing out Class B disproportionate voting rights within seven years.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Independent Board Chairperson",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy and bylaw amendment requiring the Board Chair, whenever possible, to be an independent director.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Directors to be Elected by Majority Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending articles or bylaws so directors are elected by majority of votes cast, with plurality retained for contested elections.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends a vote AGAINST the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Political Advertising",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the controversy surrounding political advertising and posts on Facebook, including implications of policies exempting politicians' content from platform rules.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors recommends that our stockholders vote against this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Human/Civil Rights Expert on Board",
+    "proponent": "not stated",
+    "topic_summary": "Requests nomination of at least one independent director candidate with a high level of human and/or civil rights expertise.",
+    "category": "community",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "our board of directors does not believe that setting aside a board seat for any pre-determined profile is a good corporate governance practice"
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Civil and Human Rights Risks",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on board-level oversight of civil and human rights risks, including board expertise and responsibilities.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our stockholders"
+   },
+   {
+    "item_number": "10",
+    "title": "Child Sexual Exploitation Online",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report assessing risk of increased child sexual exploitation as Facebook develops end-to-end encryption and other privacy tools.",
+    "category": "safety",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our stockholders"
+   },
+   {
+    "item_number": "11",
+    "title": "Median Gender/Racial Pay Gap",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the company's global median gender/racial pay gap and related policy, reputational, and talent risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "our board of directors believes that the preparation of the report contemplated by this proposal is unnecessary and not beneficial to our stockholders"
+   }
+  ]
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "94946df8d7bb670b828d86577a116f14dcbb7f474dc41b22a6786ba8f0fe5e43",
+  "est_input_tokens": 36357
+ },
+ "usage": {
+  "input_tokens": 37277,
+  "output_tokens": 1340
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Earnings Per Share (EPS) (#) | Non-GAAP Diluted EPS Net Income excluding specified items"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues, Net of Foreign Exchange Total revenues minus reserves for returns, discounts, rebates and other adjustments"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top line growth that aligns with the strategic priority of revenue renewal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our pipeline metric highlights the importance of pipeline delivery to the near-term and long-term success of the company."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Regulatory submissions and approvals for new medicines and new indications and formulations of key marketed products"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Investigational new drug/clinical trial application approvals \u2022 Early- to late-stage development transition decisions"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we shifted focus from Key Integration metrics to a balanced ESG Scorecard measuring achievement against sustainability and social goals"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "environmental goals represent incremental milestones toward our longer-term commitments to reduce GHG emissions and zero waste to landfills"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "supplier diversity goal represents incremental progress toward a #goal on diverse supplier spend"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "representation goals are aligned to the goals we previously made for #representation levels"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "employee engagement score was set based on internal trend data covering employees' observations"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\"), based on individual performance (both Results and Values)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Drive enterprise performance: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Demonstrate ethics, integrity and quality in everything we do, including setting a firm \"tone at the top\""
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Maximize the reach and potential of the marketed portfolio and ensure the long-term sustainability of the pipeline"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Embed our patient-centric culture and drive our People Strategy: Deepen manager, leadership and team effectiveness"
+   },
+   {
+    "id": 16,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "boldly cultivate a diverse and inclusive global community, and attract, develop and retain the best people"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (Ex-FX): # #-Year Relative TSR"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative Total Revenues (Ex-FX) (#) | Payout"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-Year Relative TSR (#) | TSR Percentile | Payout"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Units: rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": []
+ }
+}

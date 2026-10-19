@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "33cf8f9a855e0b236e51b1a7f13e986682ffee739f50871757a3cf5be738b47e",
+  "est_input_tokens": 33232
+ },
+ "usage": {
+  "input_tokens": 35921,
+  "output_tokens": 449
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenue A leading indicator of performance and value creation; provides a clear focus on growth; an important measure in our industry"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS A measure of income that provides focus on profitable growth and expense control; viewed as a strong indicator of sustained performance over the long term"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations A measure that provides focus on generating cash in the short-term to fund operations and research"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Provides alignment with shareholders by aligning compensation to operational goals and relative TSR over a #-year performance period"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Aligns rewards to both a strategic financial performance metric NI (#) over # #-year periods and relative TSR* performance as compared to the DRG Index"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSRUs, which deliver value based on absolute total shareholder return, vest on the # anniversary of the date of grant"
+   }
+  ],
+  "equal_split": []
+ }
+}

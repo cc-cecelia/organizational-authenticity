@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "4580246a8d2b644bf7ded559cedb69b2bf4f66e58354c2c997b0d8c66e121fa2",
+  "est_input_tokens": 29538
+ },
+ "usage": {
+  "input_tokens": 30258,
+  "output_tokens": 708
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with # of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "BlackRock's progress towards meeting its ESG and organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Diluted Earnings Per Share, as adjusted, decreased to"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (#) (#-year)"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Corporate sustainability \u2022 Oversaw the increased breadth and transparency of BlackRock's corporate sustainability disclosures"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent pipeline and development \u2022 Held discussions with the Board to continue to progress CEO and President succession plans"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, equity and inclusion \u2022 Continued to lead BlackRock to external recognition for its DEI talent efforts"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture \u2022 Launched a firmwide connectivity initiative"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to # key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of BlackRock common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   }
+  ],
+  "equal_split": []
+ }
+}

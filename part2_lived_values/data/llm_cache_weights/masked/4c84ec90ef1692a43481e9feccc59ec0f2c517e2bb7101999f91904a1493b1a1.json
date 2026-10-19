@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "4c84ec90ef1692a43481e9feccc59ec0f2c517e2bb7101999f91904a1493b1a1",
+  "est_input_tokens": 14699
+ },
+ "usage": {
+  "input_tokens": 15967,
+  "output_tokens": 872
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] [w] at # each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Revenue and Pre-Tax Income are [w] [w] at # each based on the C&B Committee's belief that they are the key financial measures of our success during the year."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on internal and external early discovery opportunities, late-stage clinical development progression, and regulatory filings and approvals."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "focused on internal and external early discovery opportunities"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "late-stage clinical development progression, and regulatory filings and approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "R-TSR performance versus our peer group is measured at the end of the #-year period and compares Merck's average annual TSR to the median TSR of our pharmaceutical peer group."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "PSUs paid out at # based on achievement of cumulative #-year OCF, cumulative #-year EPS and R-TSR metrics during the performance period"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The #PSU program is linked to #-year cumulative EPS and OCF and #-year R-TSR."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Beginning in #we removed the OCF metric and increased the [w] of EPS to streamline our program design, focusing on a single earnings metric."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Assuming the spinoff occurs in #as planned, we intend to revert to a #-year cumulative EPS and R-TSR design"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "The Pipeline goals are collectively [w] at # and are designed to ensure that we are focused on internal and external early discovery opportunities"
+   }
+  ]
+ }
+}

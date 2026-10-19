@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001206774-19-001299",
+  "task": "incentives",
+  "section_words": 5452,
+  "section_method": "heading",
+  "cache_key": "c208f2148840300f2b5ee59b27e7904747685be5302b1d55339c75d036398b22",
+  "est_input_tokens": 12958
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14794,
+  "output_tokens": 1062,
+  "request_id": "req_011CgCBMAtgTScfjBXbux6pM"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our STIP rewards growth in annual operating income, which measures the success of the most important elements of our business strategy."
+   },
+   {
+    "metric": "Comparable Guest Count Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Comparable Guest Count Growth | Incentivizes growth in guest counts, which is an indicator of the health of our business | Potential impact of up to plus or minus 25 percentage points"
+   },
+   {
+    "metric": "Delivery Sales Initiative",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentivizes the transition of our delivery initiative from restaurant deployment to sales growth \u25a0 Potential impact of up to plus or minus 12.5 percentage points"
+   },
+   {
+    "metric": "Digital Adoption",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentivizes accelerated adoption of digital customer engagement by driving additional digital guest counts \u25a0 Potential impact of 0 to plus 12.5 percentage points"
+   },
+   {
+    "metric": "Compound annual EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-based RSUs granted in 2018 as part of the annual cycle will vest on the third anniversary of the grant date, subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "metric": "3-year ROIIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to the Company's achievement of two key financial metrics, EPS growth and ROIIC."
+   },
+   {
+    "metric": "Cumulative TSR v. S&P 500 Index Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance-based RSUs are also subject to a modifier based on relative TSR over the 2018 - 2020 performance period."
+   }
+  ]
+ }
+}

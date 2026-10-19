@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "sector": "Energy",
+  "filing_year": 2016,
+  "accession": "0001193125-16-508576",
+  "task": "incentives",
+  "section_words": 7676,
+  "section_method": "heading",
+  "cache_key": "32766aa32bf32c10f2499b444dab62d1fb03cf5ec270366b9183f72b5168480e",
+  "est_input_tokens": 17705
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19280,
+  "output_tokens": 1655,
+  "request_id": "req_011CgCC2LhrfquHVWV3akcEG"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Achieve a 10% after-tax rate of return on capital expenditure program",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve a 10% after-tax rate of return* on capital expenditure program | 25%"
+   },
+   {
+    "metric": "Achieve the following production and unit cost targets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve the following production and unit cost targets: | 15%"
+   },
+   {
+    "metric": "287.8 MBbld crude oil and condensate production",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "287.8 MBbld crude oil and condensate production"
+   },
+   {
+    "metric": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Achieve top-half status in peer group in absolute stock price performance and forward-year cash flow multiple | 10%"
+   },
+   {
+    "metric": "Maintain a year-end net debt-to-total capitalization ratio of less than 25%, excluding material acquisitions; develop a preliminary 2016 funding plan by year-end",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintain a year-end net debt-to-total capitalization ratio* of less than 25%, excluding material acquisitions | 5%"
+   },
+   {
+    "metric": "Strategic and other operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 45,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic and other operational goals, such as: | 45%"
+   },
+   {
+    "metric": "achieve positive ROCE and ROE",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "achieve positive ROCE* and ROE*;"
+   },
+   {
+    "metric": "acquire new drilling potential",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "acquire new drilling potential;"
+   },
+   {
+    "metric": "confirm new reserve potential",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "confirm new reserve potential; and"
+   },
+   {
+    "metric": "other strategic goals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "other strategic goals"
+   },
+   {
+    "metric": "Adjusted Non-GAAP Net Income positive funding threshold",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "We must achieve positive Adjusted Non-GAAP Net Income* (as reported in our year-end earnings release) for the payment of bonuses"
+   },
+   {
+    "metric": "Total stockholder return relative to peer companies (performance units)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance units vest and pay out at the end of the five-year vesting period based on our total stockholder return relative to the total stockholder return of our peer companies"
+   }
+  ]
+ }
+}

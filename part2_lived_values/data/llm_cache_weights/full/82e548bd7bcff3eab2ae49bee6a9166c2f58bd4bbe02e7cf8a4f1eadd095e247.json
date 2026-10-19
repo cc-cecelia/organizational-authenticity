@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "82e548bd7bcff3eab2ae49bee6a9166c2f58bd4bbe02e7cf8a4f1eadd095e247",
+  "est_input_tokens": 15296
+ },
+ "usage": {
+  "input_tokens": 16235,
+  "output_tokens": 949
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Achieve 35% all-in after-tax rate of return* on total capital expenditures based on \"premium\" price deck of flat $40/Bbl WTI oil"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve 25% ROCE* | 15% | Achieved 36% ROCE* (calculated based on non-GAAP adjusted net income)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of $6 billion before dividends | 15% | Generated $7.6 billion of free cash flow*"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top four in peer group in absolute stock price performance and forward-year cash flow multiple | 7.5%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record \u2014 specifically"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "year-over-year reductions in our methane, GHG and flaring emissions intensity rates"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "a reduction in our oil spill rates below the prior three-year averages"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "a wellhead gas capture rate of 99.8% or higher"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "improvement in our safety incident rate below the prior three-year average"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational and organizational execution goals (finding costs, capital efficiency, well inventory and acreage additions, risk management, unique culture, operational and unit cost targets)"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "supporting EOG's unique culture"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "effective risk management"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR Performance (Primary Performance Metric)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Capital Employed (Modifier to Performance Multiple)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Negative TSR Cap (Modifier to Final Performance Multiple)"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Ten (10) goals with respect to our operational and organizational execution, weighted 37.5% in total"
+   }
+  ]
+ }
+}

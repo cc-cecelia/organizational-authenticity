@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000237",
+  "task": "incentives",
+  "section_words": 8954,
+  "section_method": "heading",
+  "cache_key": "b028b4f35bf066fdfa4a1ece2e78902e1795777be1990b71508eec982f5c043a",
+  "est_input_tokens": 20000
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21044,
+  "output_tokens": 3812,
+  "request_id": "req_011CgCBaHh4QVJhFD1svx4qf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)"
+   },
+   {
+    "metric": "Total Adjusted Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Incentive EBIT (75%) and Total Adjusted Sales (25%)"
+   },
+   {
+    "metric": "Team scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining 33% of their STIP is based on a team scorecard"
+   },
+   {
+    "metric": "Digital channel sales growth that outpaces the industry",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "digital channel sales growth that outpaces the industry"
+   },
+   {
+    "metric": "Owned brand launches and redesigned store experiences",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "owned brand launches and redesigned store experiences"
+   },
+   {
+    "metric": "Supply chain optimization",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "supply chain optimization"
+   },
+   {
+    "metric": "New small format stores",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "new small format stores"
+   },
+   {
+    "metric": "Store remodels",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a significant number of store remodels"
+   },
+   {
+    "metric": "Change in Market Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Change in Market Share."
+   },
+   {
+    "metric": "EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS Growth. The compound annual growth rate of our EPS from continuing operations"
+   },
+   {
+    "metric": "After-Tax ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "After-Tax ROIC. Three-year average net operating profit after-tax divided by average invested capital"
+   },
+   {
+    "metric": "Relative three-year TSR performance versus retail peer group (PBRSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with the number of shares based on relative three-year TSR performance versus our retail peer group"
+   },
+   {
+    "metric": "Target stock price hurdle of $75 per share for 20 consecutive trading days (Price-Vested Options)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "will become exercisable only if Target's stock price exceeds a hurdle of $75 per share for 20 consecutive trading days"
+   }
+  ]
+ }
+}

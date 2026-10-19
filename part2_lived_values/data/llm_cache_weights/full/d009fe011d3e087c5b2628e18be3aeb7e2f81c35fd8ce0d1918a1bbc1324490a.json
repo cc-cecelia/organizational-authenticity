@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "d009fe011d3e087c5b2628e18be3aeb7e2f81c35fd8ce0d1918a1bbc1324490a",
+  "est_input_tokens": 11905
+ },
+ "usage": {
+  "input_tokens": 13050,
+  "output_tokens": 415
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating income growth requires the Company to balance increases in revenue with financial discipline"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Comparable Guest Count Growth | \u25cf Measures the health of our business \u25cf Strengthens our focus on this important measure"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Implementation of Delivery Initiative | \u25cf Incentivizes rapid expansion of our Delivery initiative"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to the Company's achievement of two key financial metrics, compound annual net income growth and ROIIC"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to the Company's achievement of two key financial metrics, compound annual net income growth and ROIIC"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payout of the RSUs is limited to 200% of the target award (calculated as a cap of 180% of target based on the two performance metrics, subject to a modifier"
+   }
+  ],
+  "equal_split": []
+ }
+}

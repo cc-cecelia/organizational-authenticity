@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "508c298f994c07f17ec7c4024b20b3ff6d3ac96fa10b0aae297df4dd4673ff1d",
+  "est_input_tokens": 17658
+ },
+ "usage": {
+  "input_tokens": 16775,
+  "output_tokens": 443
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The compensation, nominating & governance committee exercised its discretion in determining the company performance percentage"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Continue making progress on the major social issues facing the internet and our company, including privacy, safety, and security."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Build new experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Keep building our business by supporting the millions of businesses that rely on our services to grow and create jobs."
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Communicate more transparently about what we're doing and the role our services play in the world."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance assessments for each named executive officer then serving were determined in the discretion of the compensation, nominating & governance committee"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   }
+  ]
+ }
+}

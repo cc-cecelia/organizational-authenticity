@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "07bfca73d26073b4a6909b524da39c7413e168c2d03c83eede02067dedb9e9ad",
+  "est_input_tokens": 27058
+ },
+ "usage": {
+  "input_tokens": 27400,
+  "output_tokens": 733
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top-line growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our pipeline metric highlights the importance of pipeline delivery to the near-term and long-term success of the company."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes delivery of the late-stage pipeline , which drives near-term value"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression and successes of the R&D pipeline at various stages of development"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reflects management's holistic evaluation of our pipeline performance, including such considerations as the performance of high value assets"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an Individual Performance Factor, which is calculated based on individual achievements against pre-defined strategic and operational goals"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures for #PSU awards are cumulative total revenues (ex-fx), cumulative non-GAAP operating margin, and relative TSR"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures for #PSU awards are cumulative total revenues (ex-fx), cumulative non-GAAP operating margin, and relative TSR"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Incorporating the three-year relative TSR as a core performance measure rather than a modifier"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The number of shares earned from Market Share Units (MSUs) can increase or decrease, in proportion to the change in our share price"
+   }
+  ],
+  "equal_split": []
+ }
+}

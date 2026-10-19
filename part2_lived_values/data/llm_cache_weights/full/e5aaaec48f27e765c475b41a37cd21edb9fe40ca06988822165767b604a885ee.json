@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "e5aaaec48f27e765c475b41a37cd21edb9fe40ca06988822165767b604a885ee",
+  "est_input_tokens": 10068
+ },
+ "usage": {
+  "input_tokens": 11479,
+  "output_tokens": 2239
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures of our success"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures of our success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The pipeline is critical for a research-based pharmaceutical company and is a key driver of long-term growth."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 3,
+    "evidence": "\u25a0 Multiple approvals achieved in a variety of therapeutic areas including, oncology, vaccines and diabetes. | 10%"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "\u25a0 Multiple filings achieved in a variety of therapeutic areas, including oncology, infectious disease and diabetes. | 5.6%"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "\u25a0 Progressed numerous late stage product candidates in a variety of therapeutic areas, including oncology, vaccines, infectious disease and diabetes. | 7.5%"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "\u25a0 Progressing numerous programs through early discovery and into first-in-human trials in a variety of therapeutic areas including, oncology, infectious disease, neurology, cardiovascular disease and diabetes. | 5.3%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share and OCF targets are established based on our three-year financial plan"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings Per Share and OCF targets are established based on our three-year financial plan"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR performance versus our Peer Group is measured at the end of the three-year performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Revenue and pre-tax income are equally weighted at 40% each and targets are established based on our annual operating plan"
+   },
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "\u25a0 Approval Milestones | 5%"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Performance was measured using equal components of Operating Cash Flow (\"OCF\") and relative TSR"
+   }
+  ]
+ }
+}

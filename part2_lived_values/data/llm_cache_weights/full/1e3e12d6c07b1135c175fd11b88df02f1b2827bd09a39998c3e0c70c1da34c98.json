@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "1e3e12d6c07b1135c175fd11b88df02f1b2827bd09a39998c3e0c70c1da34c98",
+  "est_input_tokens": 10801
+ },
+ "usage": {
+  "input_tokens": 11371,
+  "output_tokens": 628
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "vesting schedule based entirely on the attainment of both operational and market capitalization milestones"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "vesting for each of the ten tranches requires achievement of certain operational milestones"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Successful completion of the Model X Alpha Prototype;"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Successful completion of the Model X Beta Prototype;"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Completion of the first Model X Production Vehicle;"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Successful completion of the Model 3 Alpha Prototype;"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Successful completion of the Model 3 Beta Prototype;"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Completion of the first Model 3 Production Vehicle;"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Gross margin of 30% or more for four consecutive quarters;"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Aggregate vehicle production of 100,000 vehicles;"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Aggregate vehicle production of 200,000 vehicles; and"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Aggregate vehicle production of 300,000 vehicles."
+   }
+  ],
+  "equal_split": []
+ }
+}

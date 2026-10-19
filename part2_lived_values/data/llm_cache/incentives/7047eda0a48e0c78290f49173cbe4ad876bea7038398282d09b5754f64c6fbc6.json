@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "META",
+  "sector": "Technology",
+  "filing_year": 2022,
+  "accession": "0001326801-22-000043",
+  "task": "incentives",
+  "section_words": 7704,
+  "section_method": "heading",
+  "cache_key": "7047eda0a48e0c78290f49173cbe4ad876bea7038398282d09b5754f64c6fbc6",
+  "est_input_tokens": 17921
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17952,
+  "output_tokens": 1963,
+  "request_id": "req_011CgC9QUdsAaS5F1GH3hUEz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company performance percentage (company priorities)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "None of these priorities were assigned any specific weighting or dollar amount of the target bonus."
+   },
+   {
+    "metric": "Continue making progress on the major social issues facing the internet and our company, including privacy, safety, and security.",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Continue making progress on the major social issues facing the internet and our company, including privacy, safety, and security."
+   },
+   {
+    "metric": "Build new experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future.",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Build new experiences that meaningfully improve people's lives today and set the stage for even bigger improvements in the future."
+   },
+   {
+    "metric": "Keep building our business by supporting the millions of businesses that rely on our services to grow and create jobs.",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Keep building our business by supporting the millions of businesses that rely on our services to grow and create jobs."
+   },
+   {
+    "metric": "Communicate more transparently about what we're doing and the role our services play in the world.",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Communicate more transparently about what we're doing and the role our services play in the world."
+   },
+   {
+    "metric": "Individual performance assessment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance assessment determinations were based on an overall subjective assessment of each executive officer's performance and no single factor was determinative"
+   }
+  ]
+ }
+}

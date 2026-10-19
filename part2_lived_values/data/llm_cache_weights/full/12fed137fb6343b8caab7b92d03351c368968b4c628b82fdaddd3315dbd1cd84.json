@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "12fed137fb6343b8caab7b92d03351c368968b4c628b82fdaddd3315dbd1cd84",
+  "est_input_tokens": 27562
+ },
+ "usage": {
+  "input_tokens": 28322,
+  "output_tokens": 822
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Performance Goal considered for our annual incentive bonus targets is EPS, adjusted for special items and impairments"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The annual incentive bonus design guides and incentivizes this daily focus with particular emphasis on ensuring safety and protection of our employees, contractors and communities."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in managing refinery operating costs."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Company Performance Goals were established in the first quarter of the 2019 performance year by the Chief Executive Officer and approved by the Compensation Committee."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental stewardship including environmental scorecard incidents, process safety incidents, reportable spills"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "process safety incidents, reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "reportable spills, environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "environmental management system scores, and health & safety management system scores"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "health & safety management system scores"
+   },
+   {
+    "id": 10,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a qualitative capital-based performance measure assessed by the Compensation Committee through Return on Capital Employed (ROCE)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Measures relative Total Shareholder Return (TSR) against ten-company Performance Peer group across a three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Incentive compensation (annual bonus and long-term incentives) represents the majority"
+   }
+  ]
+ }
+}

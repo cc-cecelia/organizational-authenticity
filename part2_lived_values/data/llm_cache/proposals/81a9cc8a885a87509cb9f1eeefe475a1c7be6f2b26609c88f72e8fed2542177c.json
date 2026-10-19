@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000384",
+  "task": "proposals",
+  "section_words": 14846,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "81a9cc8a885a87509cb9f1eeefe475a1c7be6f2b26609c88f72e8fed2542177c",
+  "est_input_tokens": 31655
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33288,
+  "output_tokens": 1158,
+  "request_id": "req_011CgC9Fu4YfTdWXmYQYK6hD"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Equal Shareholder Voting",
+    "proponent": "John Chevedden, James McRitchie, Myra K. Young and the NorthStar Asset Management Funded Pension Plan",
+    "topic_summary": "Asks the Board to initiate a recapitalization plan so all outstanding stock has one vote per share, including negotiation with Class B holders to relinquish preexisting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding a Lobbying Report",
+    "proponent": "Walden Asset Management",
+    "topic_summary": "Requests an annual report disclosing Google's direct and indirect and grassroots lobbying policies, payments, and oversight decision-making processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding a Political Contributions Report",
+    "proponent": "Clean Yield Asset Management, on behalf of John Fedor-Cunningham",
+    "topic_summary": "Requests a semiannually updated report disclosing the company's political contributions and expenditures, including recipients, amounts, and decision-makers.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding The Adoption of a Majority Vote Standard For The Election of Directors",
+    "proponent": "The Firefighters' Pension System of the City of Kansas City, Missouri, Trust",
+    "topic_summary": "Asks the Board to amend governance documents so directors are elected by a majority of votes cast, retaining plurality for contested elections.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding an Independent Chairman of the Board Policy",
+    "proponent": "The Marco Consulting Group Trust I",
+    "topic_summary": "Asks the Board to adopt a policy that the board chairman be an independent director who has not previously been an executive officer of the company.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding a Report on Gender Pay",
+    "proponent": "Arjuna Capital, Ann Alexander, Michael Baldwin, Margherita Baldwin, and the Sustainability Group on behalf of the William B. Perkins Trust",
+    "topic_summary": "Requests a report by October 2016 on the company's policies and goals to reduce the gender pay gap.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends a vote \"AGAINST\" the stockholder proposal."
+   }
+  ]
+ }
+}

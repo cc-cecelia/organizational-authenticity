@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2022,
+  "accession": "0000078003-22-000038",
+  "task": "proposals",
+  "section_words": 8551,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "cc3c3f6bace5881e07ad0ee0fdba3129629a3da36d659846be69f7e05f40f40f",
+  "est_input_tokens": 21193
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22697,
+  "output_tokens": 927,
+  "request_id": "req_011CgCAsc1F2mzzMiTexacNm"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Item 4 \u2013 Amending Proxy Access",
+    "proponent": "Mr. John Chevedden",
+    "topic_summary": "Asks the board to enable shareholders to combine shares to equal 3% of stock held continuously for 3 years to access proxy access, removing the 20-shareholder cap.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "the Board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "Item 5 \u2013 Report on Political Expenditures Congruency",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Asks Pfizer to publish an annual report analyzing whether political and electioneering expenditures are congruent with the company's purpose and publicly stated values and policies.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Item 6 \u2013 Report on Transfer of Intellectual Property to Potential COVID-19 Manufacturers",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Asks the board to commission a third-party report on the feasibility of transferring IP and know-how so additional manufacturers in low- and middle-income countries can produce COVID-19 vaccine doses.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Item 7 \u2013 Report on Board Oversight of Risks Related to Anticompetitive Practices",
+    "proponent": "Sisters of St. Francis Charitable Trust",
+    "topic_summary": "Asks the board to report on how it oversees risks related to anticompetitive practices, including board oversight responsibility and its role in public policy activities on such risks.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Item 8 \u2013 Report on Public Health Costs of Protecting Vaccine Technology",
+    "proponent": "The Shareholder Commons, on behalf of the John Bishop Montgomery Trust U/A DTD 4/4/2019",
+    "topic_summary": "Asks the board to report on public health costs of limited sharing of COVID-19 vaccine technology and how those costs may affect returns to diversified shareholders.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2019,
+  "accession": "0001104659-19-013856",
+  "task": "incentives",
+  "section_words": 8095,
+  "section_method": "heading",
+  "cache_key": "b2b8baedc9e47d39f12ef54bac51f7f89ae17bd468cc164de2f205f6297cf9b6",
+  "est_input_tokens": 18570
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19616,
+  "output_tokens": 2465,
+  "request_id": "req_011CgC9eBDWPVJF37mbAQqeM"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Strategic Imperatives Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Imperatives Revenue (2) | $39.8B | 97% | 20%"
+   },
+   {
+    "metric": "Operating Net Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Net Income (3) | $12.7B | 95% | 40%"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Cash Flow (3) | $15.6B | 97% | 40%"
+   },
+   {
+    "metric": "Total IBM Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "replace Strategic Imperatives revenue with total IBM revenue, at the same 20% weighting"
+   },
+   {
+    "metric": "Operating EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)"
+   },
+   {
+    "metric": "Relative Return on Invested Capital (ROIC) modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This modifier reduces the score up to 20 points when performance falls below the S&P 500 Index median, and increases the score up to 20 points"
+   }
+  ]
+ }
+}

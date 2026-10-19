@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "e8024646299a909dc618b89d29e513285e899c06dcc823e1a4c17c04b391946f",
+  "est_input_tokens": 20439
+ },
+ "usage": {
+  "input_tokens": 21189,
+  "output_tokens": 1038
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic | 30% | 0% - 60% | Execution of Business Plan"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Cash Flow Neutrality | \u25a0 The total of cash flow from operations"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational | 25% | 0% - 50% | Production from Ongoing Operations"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Production from Ongoing Operations | 650 MBOED"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Oil and Gas Operating Expense per BOE | $11.60 per BOE"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial | 30% | 0% - 60% | CROCE (2) | 19%"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "CROCE (2) | 19% | Exceeded target performance with a CROCE of 27%"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Core EPS (3) | $2.10 | Exceeded target performance with a Core EPS of $5.01"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Safety/Environmental | 15% | 0% - 30% | Combined Employee/Contractor IIR (4)"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor IIR (4) | < 0.28"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Combined Employee/Contractor DART (4) | < 0.16"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Oil Spills | \u25a0 No net oil release > 500 barrels impacting fresh water"
+   },
+   {
+    "id": 12,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Risk | \u25a0 No \"4\" or \"5\" level incident"
+   },
+   {
+    "id": 13,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Sustainability | \u25a0 Demonstrable advancement of CCUS"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The individual performance portion of the Annual Cash Incentive award (20% for Ms. Hollub and 40% for the other named executive officers)"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The TSR award comprised 45% and 35% of Ms. Hollub's and the other named executive officers' target long-term incentive award opportunity"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CROCE award comprised 25% and 20% of Ms. Hollub's and the other named executive officers' target long-term incentive award opportunity"
+   }
+  ],
+  "equal_split": []
+ }
+}

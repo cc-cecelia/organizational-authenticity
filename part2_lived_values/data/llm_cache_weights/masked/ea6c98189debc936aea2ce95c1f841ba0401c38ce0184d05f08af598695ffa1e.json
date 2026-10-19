@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2020,
+  "masked": true,
+  "fingerprint": "ea6c98189debc936aea2ce95c1f841ba0401c38ce0184d05f08af598695ffa1e",
+  "est_input_tokens": 35142
+ },
+ "usage": {
+  "input_tokens": 34664,
+  "output_tokens": 457
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected adjusted EPS and cash flow generation as the absolute measures upon which to base the financial portion of our NEOs' annual cash incentive payout opportunity"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee approved a cash flow generation metric to align our executives' short-term incentive compensation with our publicly-stated goal"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our NEOs' key personal objectives are approved early in the fiscal year."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our selection of ROCE as a performance metric for our #PSUs is also consistent with our strategic priorities."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our selection of free cash flow as a [w] of cumulative net income converted as the performance metric for the #FCF Conversion PSUs is also part of our goal"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Board also approved a #-year relative TSR modifier that applies to all #ROCE PSUs and #FCF Conversion PSUs."
+   }
+  ],
+  "equal_split": []
+ }
+}

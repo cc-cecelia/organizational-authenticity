@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001193125-19-104809",
+  "task": "proposals",
+  "section_words": 2607,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7f221dc917b3c54703cf13130dd6e4877bc790b4665950bffbd6b01a92ba5573",
+  "est_input_tokens": 6255
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7638,
+  "output_tokens": 385,
+  "request_id": "req_011CgCA9jY18NakVMfvozcKG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal \u2013 Production of an Annual Report on Certain Trade Association and Lobbying Expenditures",
+    "proponent": "Unitarian Universalist Association (\"UUA\")",
+    "topic_summary": "Requests an annual report disclosing BlackRock's direct and indirect lobbying policies, payments, trade association memberships and decision-making oversight for such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends that you vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2013 Simple Majority Vote Requirement",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests elimination of charter and bylaw voting requirements greater than a simple majority, replacing them with a majority of votes cast or simple majority standard.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends that you vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

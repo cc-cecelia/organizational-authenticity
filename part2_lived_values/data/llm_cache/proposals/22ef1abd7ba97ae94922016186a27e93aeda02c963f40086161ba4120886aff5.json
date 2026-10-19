@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "AAPL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000019",
+  "task": "proposals",
+  "section_words": 10274,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "22ef1abd7ba97ae94922016186a27e93aeda02c963f40086161ba4120886aff5",
+  "est_input_tokens": 23976
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24290,
+  "output_tokens": 765,
+  "request_id": "req_011CgC9C8UaYT3LYVQcXZJSH"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Civil Rights and Non-Discrimination Audit Proposal",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests an audit analyzing the Company's impacts on civil rights and non-discrimination and their effect on the business, with a publicly disclosed report.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 5 because:"
+   },
+   {
+    "item_number": "6",
+    "title": "Communist China Audit",
+    "proponent": "National Legal and Policy Center",
+    "topic_summary": "Requests annual reporting on the nature and extent to which corporate operations depend on and are vulnerable to China.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 6 because:"
+   },
+   {
+    "item_number": "7",
+    "title": "Board Policy",
+    "proponent": "Nia Impact Capital (lead filer), with a co-filer",
+    "topic_summary": "Requests a policy making a Board member available to discuss with proponents when a shareholder proposal receives majority non-insider support.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 7 because:"
+   },
+   {
+    "item_number": "8",
+    "title": "Racial and Gender Pay Gaps",
+    "proponent": "Arjuna Capital",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated policy, reputational, competitive and operational risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 8 because:"
+   },
+   {
+    "item_number": "9",
+    "title": "Shareholder Proxy Access Amendments",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests amending the proxy access bylaw so shareholder nominees equal 20% of directors or 2, whichever is greater.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST Proposal No. 9 because:"
+   }
+  ]
+ }
+}

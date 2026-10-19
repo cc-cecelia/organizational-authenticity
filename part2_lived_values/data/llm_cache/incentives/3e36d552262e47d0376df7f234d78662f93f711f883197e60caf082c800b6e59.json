@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001140361-23-016930",
+  "task": "incentives",
+  "section_words": 9242,
+  "section_method": "heading",
+  "cache_key": "3e36d552262e47d0376df7f234d78662f93f711f883197e60caf082c800b6e59",
+  "est_input_tokens": 21419
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23848,
+  "output_tokens": 2416,
+  "request_id": "req_011CgCA8tSWsFWj5w3CaixsU"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company financial performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDS Committee weighed the Company's overall financial performance"
+   },
+   {
+    "metric": "Business unit performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "as applicable, business unit performance and achievement of its long-term strategic objectives"
+   },
+   {
+    "metric": "Achievement of long-term strategic objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "business unit performance and achievement of its long-term strategic objectives"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the CMDS Committee considered the following individual contributions of the CEO and each other NEO"
+   },
+   {
+    "metric": "Risk and control framework",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Maintained focus on risk and control framework, including enhancements to core controls"
+   },
+   {
+    "metric": "MS Average ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   },
+   {
+    "metric": "Relative ROTCE",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The other half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period relative to the ROTCE of each member of a peer group"
+   }
+  ]
+ }
+}

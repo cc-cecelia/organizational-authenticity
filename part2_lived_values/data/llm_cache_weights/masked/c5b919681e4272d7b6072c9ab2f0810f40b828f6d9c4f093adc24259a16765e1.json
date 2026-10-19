@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "c5b919681e4272d7b6072c9ab2f0810f40b828f6d9c4f093adc24259a16765e1",
+  "est_input_tokens": 38796
+ },
+ "usage": {
+  "input_tokens": 38222,
+  "output_tokens": 760
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue (Non-GAAP) goals and actual results shown in scoring table; revenue and gross margin percentage are primary financial metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Annual Cash Bonus Plan for #is made up of three [w] performance metrics: revenue (#/#), net income (#/#), and \"One Intel\" operational goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For #there were four One Intel operational goal categories, as well as two ESG metrics."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Evolve from CPU to XPU. Goals related to continued execution of our leadership product portfolio"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. IDM #Leadership. Goals related to meeting customer volume commitments, supply chain ecosystem improvement"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Expand from Silicon to Platform. Goals related to growth in key market segments such as Intelligent Edge and AI"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Cultural Transformation. Goals related to quantitative improvements in the areas of manager training, customer experience, and being employer of choice"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Environmental Sustainability. Goals related to energy conservation and net positive water use"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Diversity & Inclusion. Goals related to global inclusive hiring practices in support of our #RISE workforce inclusion goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR vs S&P #IT Index (#)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative EPS growth rate compared to a target established at the beginning of the three-year performance period (#)"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0000320187-16-000339",
+  "task": "proposals",
+  "section_words": 2120,
+  "section_method": "resolved_windows",
+  "cache_key": "900727880414495527733521413c9e0d266da3648226b45426e9ea353ec5d177",
+  "est_input_tokens": 4996
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6473,
+  "output_tokens": 218,
+  "request_id": "req_011CgCBQaQNAHxCS6mw9xMeJ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder proposal regarding political contributions disclosure",
+    "proponent": "Mercy A. Rome, c/o Newground Social Investment",
+    "topic_summary": "Requests a semiannually updated report disclosing political campaign and public-influence contribution policies, recipients, amounts, and responsible NIKE decision-makers, including trade association and 501(c)(4) payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the Proposal and asks shareholders to read through NIKE's response"
+   }
+  ]
+ }
+}

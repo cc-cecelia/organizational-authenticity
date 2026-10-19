@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "e8d1f9a94189112a52299349cc3efd92fa330065fd981b4ef739680540900175",
+  "est_input_tokens": 38600
+ },
+ "usage": {
+  "input_tokens": 39291,
+  "output_tokens": 3175
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Everything we do depends on safely executing our business plans"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "are core to delivering our value proposition of superior returns through cycles"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Milestones are set annually for VCIP"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe it is important to include TSR in both VCIP and PSP"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We target top-quartile performance relative to our peers for Total Recordable Rate"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "absolute continuous improvement for Process Safety Events"
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "we set an annual Production target, and we measure the achievement of production results"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The target was set at $6.1 billion, which excluded adjustments for expected 2019 acquisitions and dispositions"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Capital target was flat compared to full-year 2018 capital expenditures"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Our Operational Milestones are intended to drive a focus on key actions or decisions"
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Absolute targets for Adjusted ROCE and Adjusted CROCE were set in accordance with the budget"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE and Adjusted CROCE, relative to peers"
+   },
+   {
+    "id": 13,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We exceeded our goal of returning cash from operations to stockholders"
+   },
+   {
+    "id": 14,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "We completed the sale of our U.K. assets for $2.7 billion"
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "delivering our value proposition through growing production per debt-adjusted share at least 8 percent annually"
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "establishing a system for setting and monitoring emissions reduction targets"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "relative TSR has increased from 50% to 60%"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the weighting of relative Financial metrics (Adjusted ROCE/CROCE) increased from 30 percent to 40 percent"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "the Strategic Objectives performance measure was eliminated from the PSP"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was assigned an equal weight."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "9ef603b500f7e5d8e22da1ce56667f0bce1cbffdd86baf09d9fc78efa86fdf02",
+  "est_input_tokens": 25710
+ },
+ "usage": {
+  "input_tokens": 27005,
+  "output_tokens": 728
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "with # of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "# dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "# dependent on BlackRock's progress towards meeting its ESG and organizational priorities."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver sustainable solutions for clients"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Corporate sustainability"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent and succession"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, Equity and Inclusion"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "BlackRock grew revenue by #, operating income, as adjusted, by # and EPS, as adjusted, by #"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Diluted Earnings Per Share, as adjusted"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (#-year, #-year, #-year)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance-based RSUs are settled in a number of shares of common stock that is determined based on attainment of pre-established Organic Revenue growth and Operating Margin, as adjusted, targets"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": []
+ }
+}

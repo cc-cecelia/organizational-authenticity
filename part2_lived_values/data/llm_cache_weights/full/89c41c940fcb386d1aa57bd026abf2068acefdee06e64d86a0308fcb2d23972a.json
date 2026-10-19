@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "89c41c940fcb386d1aa57bd026abf2068acefdee06e64d86a0308fcb2d23972a",
+  "est_input_tokens": 12127
+ },
+ "usage": {
+  "input_tokens": 12602,
+  "output_tokens": 1746
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "based on the achievement by the end of 2016 of specified metrics relating to vehicle deliveries"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "reductions in vehicle service backlog and service cycle times and vehicle customer satisfaction scores"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each of the ten vesting tranches requires that the Company meet a combination of (i) an operational milestone achievement and (ii) a significant increase in our market capitalization"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "vesting of the first tranche requires the achievement of any one of the ten defined operational milestones"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Aggregate vehicle production of 200,000 vehicles; and"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Gross margin of 30% or more for four consecutive quarters;"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Successful completion of the Model 3 Beta Prototype."
+   }
+  ],
+  "equal_split": []
+ }
+}

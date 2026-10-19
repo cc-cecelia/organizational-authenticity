@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0000200406-23-000023",
+  "task": "proposals",
+  "section_words": 5658,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "bb1a74ba34d7a11569d513265898af01991c5e9c8a5b986fc44698e0ef6ee17f",
+  "est_input_tokens": 13711
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14394,
+  "output_tokens": 778,
+  "request_id": "req_011CgCAb3GZ9LKixQNuu17f5"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal \u2015 Federal Securities Laws Mandatory Arbitration Bylaw",
+    "proponent": "Hal Scott/The Doris Behr 2012 Irrevocable Trust, Harvard Law School, Lewis 339",
+    "topic_summary": "Asks the Board to adopt a mandatory arbitration bylaw for federal securities law claims, barring class actions, with a five-year sunset provision.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal \u2015 Vaccine Pricing Report",
+    "proponent": "Oxfam America, Inc.",
+    "topic_summary": "Asks the Board to report on whether and how government financial support for COVID-19 vaccines and therapeutics is considered in pricing and access decisions.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons"
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal \u2015 Executive Compensation Adjustment Policy",
+    "proponent": "Vermont Pension Investment Commission",
+    "topic_summary": "Asks the Board to adopt a policy that financial metrics for senior executive incentive pay not exclude legal or compliance costs.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote AGAINST the adoption of this proposal for the following reasons"
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal \u2013 Impact of Extended Patent Exclusivities on Product Access",
+    "proponent": "Mercy Investment Services, Inc.",
+    "topic_summary": "Asks the Board to establish and report on a process considering the impact of extended patent exclusivities on product access when pursuing secondary and tertiary patents.",
+    "category": "customers",
+    "secondary_category": "innovation",
+    "board_recommendation": "against",
+    "evidence": "Board's Statement in Opposition to Shareholder Proposal The Board of Directors recommends a vote AGAINST the adoption of this proposal"
+   }
+  ]
+ }
+}

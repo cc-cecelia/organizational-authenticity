@@ -1,0 +1,131 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "e06f7a601ed8f9e6505eeea6e17cfc68b19d7c1d41bf3d9b219bcd10a298d291",
+  "est_input_tokens": 31886
+ },
+ "usage": {
+  "input_tokens": 31725,
+  "output_tokens": 1199
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Total Shareholder Return, which is [w] #; Operational/Financial, which is [w] #; and Strategic Plan"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational\u2014This measure was adopted to focus on various operational elements."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress in implementing its strategic plan"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "culture, organization, governance, diversity, opportunity capture, policies/controls, reputation"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments An important design element of our PSP program is the Committee's ability to make individual adjustments"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Corporate Performance (# of VCIP Payout) In December #the Committee approved # corporate performance measures"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Health, Safety and Environmental (\"HSE\")\u2014We seek to be a good employer, good community member"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Operational\u2014This measure was adopted to focus on various operational elements."
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Financial\u2014This measure comprises several financial measures."
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return\u2014TSR represents the [w] change in a company's common stock price"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Business Unit Performance (# of VCIP Payout) The business units were subject to the following metrics"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 13,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 14,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 15,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "Exploration & Production Operating Business Units\u2014# Production, # Unit Cost, # Milestones and # HSE"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments An important design element of the program is the Committee's ability to make individual adjustments"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "Total Shareholder Return, which is [w] #; Operational/Financial, which is [w] #; and Strategic Plan, which is [w] #."
+   },
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was given [w] [w] within the corporate performance component."
+   }
+  ]
+ }
+}

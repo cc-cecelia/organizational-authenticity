@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2021,
+  "accession": "0001510295-21-000046",
+  "task": "proposals",
+  "section_words": 4109,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "03257343db6f85284bf54fe631654881e5d091eb3fd63f55ee9c990ec71bc40d",
+  "est_input_tokens": 9131
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10088,
+  "output_tokens": 204,
+  "request_id": "req_011CgCCBFNtBznG3STSyVxYg"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal Seeking to Prohibit Accelerated Vesting of Equity Awards in Connection with a Change in Control",
+    "proponent": "International Brotherhood of Teamsters",
+    "topic_summary": "Requests a Board policy prohibiting accelerated vesting of equity awards for senior executive officers upon a change in control, allowing pro-rata vesting up to termination.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

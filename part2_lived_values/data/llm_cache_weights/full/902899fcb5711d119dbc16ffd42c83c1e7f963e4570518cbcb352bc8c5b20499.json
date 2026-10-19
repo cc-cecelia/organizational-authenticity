@@ -1,0 +1,132 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "902899fcb5711d119dbc16ffd42c83c1e7f963e4570518cbcb352bc8c5b20499",
+  "est_input_tokens": 22018
+ },
+ "usage": {
+  "input_tokens": 24275,
+  "output_tokens": 1089
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financials\u201440 Percent"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Earnings \u20142016 earnings and earnings per share met Business Plan targets"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Net cash flow \u2014We remain on target to be cash flow breakeven at $50 Brent in 2017."
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Divestiture proceeds \u2014$2.8 billion in sales proceeds were realized in 2016."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital Management\u201430 Percent"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Return on capital employed (ROCE) \u20142016 annual ROCE performance beat the Business Plan objective"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Capital and exploratory expenditures (C&E) \u2014C&E totaled $22.4 billion in 2016"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "Major milestones:"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Performance\u201415 Percent"
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Net production of 2.594 million barrels of oil-equivalent per day was slightly below the external guidance"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Operating expenses and selling, general and administrative expenses totaled $25.0 billion, well under the Business Plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 2,
+    "evidence": "Refining unit utilization rates exceeded the Business Plan by 1.4 percent."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Health, Environment and Safety\u201415 Percent"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Maintained industry-leading personal safety rates, better than the Business Plan"
+   },
+   {
+    "id": 14,
+    "parent_id": 12,
+    "emphasis": 2,
+    "evidence": "Achieved record low spills and had continued improvement in lowering both the number and the impact of loss of containment incidents."
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the CEO and the other NEOs all received a 1.0 Individual Performance Factor (IPF)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The majority of the LTIP award derives value directly from TSR (relative and absolute)."
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Stock Options | 60% | 25% | \u2022 Strike price is equal to the closing common stock price on the grant date."
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Restricted Stock Units | 0% | 25% | \u2022 Actual number of RSUs granted is determined by dividing"
+   }
+  ],
+  "equal_split": []
+ }
+}

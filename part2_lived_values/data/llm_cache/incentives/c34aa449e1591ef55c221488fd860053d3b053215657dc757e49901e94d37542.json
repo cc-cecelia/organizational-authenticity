@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "TGT",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001308179-19-000197",
+  "task": "incentives",
+  "section_words": 7222,
+  "section_method": "heading",
+  "cache_key": "c34aa449e1591ef55c221488fd860053d3b053215657dc757e49901e94d37542",
+  "est_input_tokens": 16320
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17500,
+  "output_tokens": 1783,
+  "request_id": "req_011CgCBZvxsxiCoVRcQKJhWe"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Incentive Operating Income (50%) and Sales (50%)."
+   },
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial component of our STIP program is based on two financial metrics: Incentive Operating Income (50%) and Sales (50%)."
+   },
+   {
+    "metric": "Team scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The remaining 33% of their STIP is based on a team scorecard, designed to strongly align pay opportunity to Target's strategic agenda."
+   },
+   {
+    "metric": "Market share gains in Apparel & Accessories, Essentials & Beauty and Food & Beverage",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "primary team scorecard progress indicators identified at the beginning of the year included: market share gains in Apparel & Accessories, Essentials & Beauty and Food & Beverage"
+   },
+   {
+    "metric": "Digital channel sales growth that outpaces the industry",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "digital channel sales growth that outpaces the industry; numerous owned brand launches and redesigned store experiences"
+   },
+   {
+    "metric": "Owned brand launches and redesigned store experiences",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "numerous owned brand launches and redesigned store experiences"
+   },
+   {
+    "metric": "New small format stores and store remodels",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "new small format stores; a significant number of store remodels"
+   },
+   {
+    "metric": "Expansion of same day delivery through Shipt and Target.com",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "expansion of same day delivery through our wholly-owned subsidiary, Shipt, Inc., and on Target.com."
+   },
+   {
+    "metric": "Adjusted Sales growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs recognize our executive officers for achieving superior long-term relative performance on three key metrics: - Adjusted Sales growth - EPS growth - ROIC"
+   },
+   {
+    "metric": "EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs recognize our executive officers for achieving superior long-term relative performance on three key metrics: - Adjusted Sales growth - EPS growth - ROIC"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PSUs recognize our executive officers for achieving superior long-term relative performance on three key metrics: - Adjusted Sales growth - EPS growth - ROIC"
+   },
+   {
+    "metric": "Relative three-year TSR (PBRSU)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PBRSU amount will be adjusted up or down by 25 percentage points if Target's TSR is in the top one-third or bottom one-third for the retail peer group"
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MS",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "f6abcd514def2dbf6c74a5ac9df11de93a052b6c8fdd904e7b2f16a7b52a94de",
+  "est_input_tokens": 22817
+ },
+ "usage": {
+  "input_tokens": 25410,
+  "output_tokens": 518
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieved record net revenues of $48 billion up 16% from 2019, Net Income of $11 billion up 22% from 2019, and EPS of $6.46"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Company Financial Performance and Strategic Objectives"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Delivered ROTCE of 15.2 % (or 15.4% excluding integration costs) and an Expense Efficiency Ratio of 70%"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "ending the year with a Common Equity Tier 1 Ratio of 17.4%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Continued focus on recruiting and developing exceptional talent"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The other half of the target LTIP award is earned based on the Company's TSR over the three-year period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "One-half of the target LTIP award is earned based on the Company's average ROTCE over the three-year performance period"
+   }
+  ]
+ }
+}

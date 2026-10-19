@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001564590-18-009339",
+  "task": "proposals",
+  "section_words": 5025,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "a64e70b17bf427b0e4e4d32fddadec147cede3029d6f01e7fd3072a9951331aa",
+  "est_input_tokens": 11261
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12727,
+  "output_tokens": 370,
+  "request_id": "req_011CgCB9J6vZaDzmF2y9J76M"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "Stockholder Proposal to Require that the Chair of the Board of Directors be an Independent Director",
+    "proponent": "Mr. Jing Zhao",
+    "topic_summary": "Requests Tesla adopt a policy that the chairman of the board be an independent director rather than the CEO.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board Recommends a Vote AGAINST the Stockholder Proposal to Require That the Chair of the Board of Directors be an Independent Director."
+   },
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal Regarding Proxy Access",
+    "proponent": "James McRitchie",
+    "topic_summary": "Asks the board to amend bylaws to provide shareholder proxy access with a 3% ownership threshold, three-year holding period, and nominee limits.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board Recommends a Vote AGAINST the Stockholder Proposal Regarding Proxy Access."
+   }
+  ]
+ }
+}

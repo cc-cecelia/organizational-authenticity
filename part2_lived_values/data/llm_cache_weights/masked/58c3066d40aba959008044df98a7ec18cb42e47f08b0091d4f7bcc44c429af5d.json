@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "58c3066d40aba959008044df98a7ec18cb42e47f08b0091d4f7bcc44c429af5d",
+  "est_input_tokens": 20341
+ },
+ "usage": {
+  "input_tokens": 21704,
+  "output_tokens": 641
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures, which were [w] [w] (#/#each), were diluted earnings per share, revenue growth and cash-flow indicator"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The diluted earnings per share measure was also designated to be the plan threshold performance measure that had to be achieved in order for any payout to be made under the plan."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow Indicator is defined as profit after tax exclusive of special charges, plus or minus changes in accounts receivable, inventories, and accounts payable."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Although not a performance measure, the Compensation Committee included a Quality Compliance Modifier as part of the plan design to foster a culture of compliance"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance measures ... the Long-Term Performance Plan uses cumulative revenue growth, and return on invested capital performance measures over a three-year performance period"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Invested Capital is defined as Net Cash Earnings plus Interest Expense net of Tax, divided by Invested Capital for each year, averaged over the #-year period."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance threshold was set as the diluted earnings per share cumulative compound annual growth rate (cumulative CAGR) of #."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The performance measures, which were [w] [w] (#/#each), were diluted earnings per share, revenue growth and cash-flow indicator"
+   }
+  ]
+ }
+}

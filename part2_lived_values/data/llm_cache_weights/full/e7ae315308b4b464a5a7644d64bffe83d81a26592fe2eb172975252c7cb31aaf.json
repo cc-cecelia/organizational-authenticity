@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "e7ae315308b4b464a5a7644d64bffe83d81a26592fe2eb172975252c7cb31aaf",
+  "est_input_tokens": 10470
+ },
+ "usage": {
+  "input_tokens": 10764,
+  "output_tokens": 514
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization from $3.2 billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Total Revenue* (in billions) | Adjusted EBITDA** (in billions)"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Adjusted EBITDA** (in billions)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "specified operational milestone relating to development of Model X or Model 3, aggregate vehicle production or a gross margin target"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a gross margin target"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "operational milestone relating to development of Model X or Model 3"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "a sustained incremental $4 billion increase in Tesla's market capitalization"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "long_term_incentive",
+    "evidence": "any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability"
+   }
+  ]
+ }
+}

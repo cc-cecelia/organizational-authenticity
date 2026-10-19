@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-543341",
+  "task": "incentives",
+  "section_words": 4663,
+  "section_method": "heading",
+  "cache_key": "bee4a1f3211edd5c745d9af9075174a24284056cc1569170b762b9eb77d3956b",
+  "est_input_tokens": 10937
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12337,
+  "output_tokens": 3185,
+  "request_id": "req_011CgCB7xqXWym2qkYbs6Sa9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestones",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Each of the ten vesting tranches requires that the Company meet a combination of (i) an operational milestone achievement and (ii) a significant increase in our market capitalization of $4.0 billion."
+   },
+   {
+    "metric": "Operational milestones",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "vesting of the first tranche requires the achievement of any one of the ten defined operational milestones"
+   },
+   {
+    "metric": "Successful completion of the Model X Alpha Prototype",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Successful completion of the Model X Alpha Prototype;"
+   },
+   {
+    "metric": "Successful completion of the Model X Beta Prototype",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Successful completion of the Model X Beta Prototype;"
+   },
+   {
+    "metric": "Completion of the first Model X Production Vehicle",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Completion of the first Model X Production Vehicle;"
+   },
+   {
+    "metric": "Successful completion of the Model 3 Alpha Prototype",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Successful completion of the Model 3 Alpha Prototype;"
+   },
+   {
+    "metric": "Successful completion of the Model 3 Beta Prototype",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Successful completion of the Model 3 Beta Prototype;"
+   },
+   {
+    "metric": "Completion of the first Model 3 Production Vehicle",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Completion of the first Model 3 Production Vehicle;"
+   },
+   {
+    "metric": "Gross margin of 30% or more for four consecutive quarters",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Gross margin of 30% or more for four consecutive quarters;"
+   },
+   {
+    "metric": "Aggregate vehicle production of 100,000 vehicles",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Aggregate vehicle production of 100,000 vehicles;"
+   },
+   {
+    "metric": "Aggregate vehicle production of 200,000 vehicles",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Aggregate vehicle production of 200,000 vehicles; and"
+   },
+   {
+    "metric": "Aggregate vehicle production of 300,000 vehicles",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Aggregate vehicle production of 300,000 vehicles."
+   }
+  ]
+ }
+}

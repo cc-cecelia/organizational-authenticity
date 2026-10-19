@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "f184aa2a11112609703875c3009e89329c49225d1f1e2e632c499ea555f36c10",
+  "est_input_tokens": 17750
+ },
+ "usage": {
+  "input_tokens": 18735,
+  "output_tokens": 1387
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Revenue Growth"
+   },
+   {
+    "id": 1,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Actual revenue growth and EPS outcomes exceeding the ambitious guidance communicated in January"
+   },
+   {
+    "id": 2,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Return on Equity (ROE) is calculated for the relevant periods by dividing the (i) net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Committee believes each performance metric is a key driver of Company performance."
+   },
+   {
+    "id": 4,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Net Promoter Score | Actual outcomes above goals set and pre- pandemic levels"
+   },
+   {
+    "id": 5,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Retention | Maintained retention rates above pre- pandemic levels"
+   },
+   {
+    "id": 6,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Merchant Locations | Sustained virtual parity coverage in the U.S. (#) and continued to grow international coverage"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong customer retention rates"
+   },
+   {
+    "id": 8,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Diversity Representation (Increasing underrepresented U.S. minority and global womenrepresentation across the Company"
+   },
+   {
+    "id": 9,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Talent Retention (Retaining our critical talent at all levels)"
+   },
+   {
+    "id": 10,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Culture (Maintaining a strong level of inclusion and engagement)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Outstanding progress in continuing to increase colleague engagement levels across all categories"
+   },
+   {
+    "id": 12,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Expand leadership in the premium consumer space | # U.S. Consumer Services Billed Business growth"
+   },
+   {
+    "id": 13,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Build on our strong position in commercial payments | # Commercial Services Billed Business growth"
+   },
+   {
+    "id": 14,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Strengthen our global, integrated network to provide unique value | Sustained virtual parity coverage"
+   },
+   {
+    "id": 15,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to uplift control and compliance environment across the enterprise | Risk profile, performance and risk taking remained within Risk Appetite"
+   },
+   {
+    "id": 16,
+    "parent_id": 17,
+    "emphasis": 2,
+    "evidence": "Continue to progress on key ESG goals | Continued to make progress against our DE&I Action Plan"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic quadrant of the Scorecard was increased while reducing the [w] of the Shareholder quadrant"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "determining the #Company Performance Multiplier to be #"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The maximum individual performance multiplier for leadership performance is #."
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The program requires top-quartile relative ROE for PRSUs to pay out at target"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "above target payouts are contingent on Total Shareholder Return (TSR) performance being in the top # of our peer group"
+   },
+   {
+    "id": 22,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Vesting is also subject to the satisfaction of positive cumulative net income conditions"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The Committee believes each performance metric is a key driver of Company performance."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "ORCL",
+  "sector": "Technology",
+  "filing_year": 2023,
+  "accession": "0001193125-23-240594",
+  "task": "incentives",
+  "section_words": 8604,
+  "section_method": "heading",
+  "cache_key": "aa44b8b8f579923a8bcb696cee37ffabd00a931acc6b7f9972830fa5e389e41e",
+  "est_input_tokens": 19710
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21495,
+  "output_tokens": 1975,
+  "request_id": "req_011CgC9bK7SXPpALPhVQFWMo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Year-over-year growth in non-GAAP operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based solely on financial performance tied to growth in non-GAAP operating income"
+   },
+   {
+    "metric": "Stock price goal (average stock price of $80 or more for 30 calendar days)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Oracle's average stock price was $80 or more for 30 calendar days ending in June 2021"
+   },
+   {
+    "metric": "Market capitalization goals",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Oracle's market capitalization increased by more than $100 billion compared to the baseline market capitalization set in fiscal 2018"
+   },
+   {
+    "metric": "Operational goal of attaining $10 billion in non-GAAP total SaaS revenues in a fiscal year",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the operational goal of attaining $10 billion in non-GAAP total SaaS revenues in a fiscal year have been achieved"
+   }
+  ]
+ }
+}

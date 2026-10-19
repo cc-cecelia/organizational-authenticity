@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "ticker": "GS",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "84f15b1d627b14d785be3f50427d61e5e0113fca9f198bc2423f02731764d245",
+  "est_input_tokens": 25021
+ },
+ "usage": {
+  "input_tokens": 27126,
+  "output_tokens": 2093
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs will be paid at 0-150% of the initial award based on our average ROE over 2023-2025"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "using absolute and relative metrics as described in the below table"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "3-Year Average Absolute ROE% Earned | 3-Year Average Relative ROE% Earned"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our Compensation Committee places key importance on the assessment of annual firmwide performance"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Financial performance | ROE 10.2% | ROTE (a) 11.0%"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "ROTE (a) 11.0% | Net Revenues $47.4 billion"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Net Revenues $47.4 billion ( 2nd highest full-year net revenues )"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "EPS $30.06 ( 2nd highest full-year EPS )"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Pre-Tax Earnings $13.5 billion | Efficiency Ratio 65.8% | 1-Year TSR -7.9%"
+   },
+   {
+    "id": 9,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Efficiency Ratio 65.8% | 1-Year TSR -7.9%"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strength of client feedback \u220e Broadening share of addressable market"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our CRO presented the annual risk assessment jointly to our Compensation Committee and our Risk Committee"
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "\u220e Compliance \u220e Standing with regulators \u220e Governance and controls"
+   },
+   {
+    "id": 13,
+    "parent_id": 11,
+    "emphasis": 1,
+    "evidence": "\u220e Capital and liquidity \u220e 360\u00b0 feedback on risk management, firm reputation and compliance"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Commitment to our people strategy, including advancing our culture, diversity and talent development"
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "\u220e Diversity, equity & inclusion (e.g., hiring and representation)"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 1,
+    "evidence": "\u220e Attrition \u220e Leadership pipeline health \u220e Return to office"
+   },
+   {
+    "id": 17,
+    "parent_id": 10,
+    "emphasis": 1,
+    "evidence": "\u220e Progress towards sustainable finance commitments"
+   },
+   {
+    "id": 18,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "\u220e Strategic priorities and KPIs: \u00bb Grow and strengthen existing businesses \u00bb Diversify our products and services"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "An assessment of each NEO's individual performance and achievements is critical to our Compensation Committee's decision-making process"
+   }
+  ],
+  "equal_split": []
+ }
+}

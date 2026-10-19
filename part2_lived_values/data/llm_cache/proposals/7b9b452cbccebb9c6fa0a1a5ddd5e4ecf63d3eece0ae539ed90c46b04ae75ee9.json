@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0001047469-19-002763",
+  "task": "proposals",
+  "section_words": 2588,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "7b9b452cbccebb9c6fa0a1a5ddd5e4ecf63d3eece0ae539ed90c46b04ae75ee9",
+  "est_input_tokens": 5475
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7224,
+  "output_tokens": 212,
+  "request_id": "req_011CgCAzE1cYdpruU2qqyDqS"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "ITEM 4\u2014SHAREHOLDER PROPOSAL ON SHAREHOLDER RIGHT TO ACT BY WRITTEN CONSENT",
+    "proponent": "Kenneth Steiner",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

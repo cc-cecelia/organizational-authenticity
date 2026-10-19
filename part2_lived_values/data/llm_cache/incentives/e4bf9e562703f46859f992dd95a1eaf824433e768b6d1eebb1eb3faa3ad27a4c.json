@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001047469-16-011386",
+  "task": "incentives",
+  "section_words": 6829,
+  "section_method": "heading",
+  "cache_key": "e4bf9e562703f46859f992dd95a1eaf824433e768b6d1eebb1eb3faa3ad27a4c",
+  "est_input_tokens": 15874
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17881,
+  "output_tokens": 4429,
+  "request_id": "req_011CgCAbc1JWCxbFJVmc56L9"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Earnings Per Share",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earnings Per Share | 20%"
+   },
+   {
+    "metric": "Net Revenues, Income Before Taxes, Operating Margin, Humira Sales, and Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Net Revenues, Income Before Taxes, Operating Margin, Humira Sales, and Return on Assets | 20% to 60%"
+   },
+   {
+    "metric": "Net Revenues (payout matrix)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Net Revenues | 0% to 200% of target"
+   },
+   {
+    "metric": "Operating Margin (payout matrix)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Margin | 0% to 200% of target"
+   },
+   {
+    "metric": "R&D/Biosimilars",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "R&D/Biosimilars | 0% to 50%"
+   },
+   {
+    "metric": "Business Development",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Business Development | 0% to 20%"
+   },
+   {
+    "metric": "Other (including strategic initiatives, etc.)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Other (including strategic initiatives, etc.) | 0% to 30%"
+   },
+   {
+    "metric": "Qualitative assessment of leadership, strategic initiatives, pipeline advancement and biopharmaceutical culture",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The qualitative assessment reflects NEOs' overall leadership, progress on strategic initiatives, advancement of the pipeline, and enhancement of AbbVie's biopharmaceutical culture."
+   },
+   {
+    "metric": "All financial and non-financial goals (CEO holistic assessment)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the committee considers all financial and non-financial goals holistically, without specific weightings"
+   },
+   {
+    "metric": "Return on Equity (ROE) performance-vested restricted stock",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "one-third of the award vests in each year that AbbVie's prior year ROE meets or exceeds the performance goal"
+   },
+   {
+    "metric": "Earnings Per Share performance shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Performance Shares (40% of total LTI award)"
+   },
+   {
+    "metric": "Relative total stockholder return (TSR) modifier on performance shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "earned based on company performance in earnings per share (EPS) and relative total stockholder return (TSR)"
+   },
+   {
+    "metric": "Relative Return on Equity performance-vested restricted stock",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "Performance-Vested Restricted Stock (40% of total LTI award)"
+   }
+  ]
+ }
+}

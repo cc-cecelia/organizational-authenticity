@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "TMO",
+  "filing_year": 2016,
+  "masked": true,
+  "fingerprint": "c1f938869088c76494cc9e3dc40175800f21085c2e92ea460de9150bcc0951ae",
+  "est_input_tokens": 16153
+ },
+ "usage": {
+  "input_tokens": 15622,
+  "output_tokens": 713
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Key financial metrics include organic revenue growth, adjusted operating income margin, and adjusted earnings per share."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "(ii) adjusted operating income as a percentage of revenue (#)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "(iii) adjusted earnings per share (#)."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The remaining # of the annual cash incentive award was based on company-wide, non-financial measures relating to the achievement of customer allegiance goals"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Customer Allegiance | We improved our customer allegiance score over our #score"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "New Product Introduction | We launched numerous new products, but the percentage of #product revenue"
+   },
+   {
+    "id": 6,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Maximization of Opportunity in Emerging Markets | We had significant growth in Asia Pacific driven by strong growth in China and India"
+   },
+   {
+    "id": 7,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Building a Diverse Workforce/ Employer of Choice | We improved leadership diversity and had strong momentum"
+   },
+   {
+    "id": 8,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Mergers and Acquisitions | We successfully integrated Life Technologies, with # organic revenue growth"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "performance-based restricted stock units granted in #and #to all named executive officers which incorporated the Company's performance on organic revenue growth"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Compensation Committee adopted as performance goals the measures organic revenue growth and adjusted earnings per share."
+   }
+  ],
+  "equal_split": []
+ }
+}

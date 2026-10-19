@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2020,
+  "accession": "0001193125-20-091451",
+  "task": "incentives",
+  "section_words": 4185,
+  "section_method": "heading",
+  "cache_key": "f24e9353ef7a55f8a605dd65b31177dc17cd9be3056569552a8725041a398961",
+  "est_input_tokens": 9911
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12430,
+  "output_tokens": 1847,
+  "request_id": "req_011CgC9iSSQv13sVCSYBreFB"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net income growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ANNUAL CASH BONUS | Incentivize achievement of Intel's short-term financial and operational objectives | ANNUAL | \u2022 Net income growth (25%)"
+   },
+   {
+    "metric": "Relative net income growth vs. tech peers",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "\u2022 Relative net income growth vs. tech peers (25%) \u2022 Operational goals (50%)"
+   },
+   {
+    "metric": "Operational goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "\u2022 Relative net income growth vs. tech peers (25%) \u2022 Operational goals (50%)"
+   },
+   {
+    "metric": "Company profitability",
+    "plan": "other",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "QUARTERLY CASH BONUS | Company-wide program that rewards quarterly profitability based on Intel's net income relative to company compensation costs | QUARTER | \u2022 Company profitability"
+   },
+   {
+    "metric": "Relative TSR vs. S&P 500 IT Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "PERFORMANCE STOCK UNITS | ... | \u2022 Relative TSR vs. S&P 500 IT Index (50%) \u2022 Cumulative EPS growth compared to a target (50%)"
+   },
+   {
+    "metric": "Cumulative EPS growth compared to a target",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "\u2022 Relative TSR vs. S&P 500 IT Index (50%) \u2022 Cumulative EPS growth compared to a target (50%)"
+   }
+  ]
+ }
+}

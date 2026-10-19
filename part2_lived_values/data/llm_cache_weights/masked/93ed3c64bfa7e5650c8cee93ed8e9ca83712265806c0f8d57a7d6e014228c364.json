@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "93ed3c64bfa7e5650c8cee93ed8e9ca83712265806c0f8d57a7d6e014228c364",
+  "est_input_tokens": 26612
+ },
+ "usage": {
+  "input_tokens": 27117,
+  "output_tokens": 564
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Corporate performance is based on Occidental's total spend per barrel, CROCE and sustainability performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "CROCE was added as a financial metric for #to provide a more comprehensive view of company strategic, operational and financial performance"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee annually reviews all facets of the ACI award, with an aim to incentivize the NEOs to excel in areas that are aligned with Occidental's business objectives."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Emissions Reduction Projects (Scope #and #) | Reduce operating emissions"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "The low carbon ventures targets focus on business development for DAC and CCUS"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Share Units (PSUs) continued to use relative Total Shareholder Return (TSR) and absolute Cash Return on Capital Employed (CROCE) metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The CROCE award is designed to focus executives on the efficient use of capital by promoting discipline in capital allocation decisions."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "The sustainability metric remains [w] at # to continue advancing the company's net-zero strategy"
+   }
+  ]
+ }
+}

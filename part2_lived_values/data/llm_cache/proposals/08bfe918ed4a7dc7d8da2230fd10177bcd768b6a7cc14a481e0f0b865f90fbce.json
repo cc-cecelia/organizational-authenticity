@@ -1,0 +1,63 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2018,
+  "accession": "0001193125-18-104990",
+  "task": "proposals",
+  "section_words": 14879,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "08bfe918ed4a7dc7d8da2230fd10177bcd768b6a7cc14a481e0f0b865f90fbce",
+  "est_input_tokens": 32993
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 34765,
+  "output_tokens": 748,
+  "request_id": "req_011CgCBG9a9pfKpkAFY2YZD6"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING SEMI-ANNUAL REPORT ON POLITICAL CONTRIBUTIONS",
+    "proponent": "New York State Common Retirement Fund",
+    "topic_summary": "Requests semiannually updated report disclosing policies and expenditures for political campaign and public influence contributions, including trade association payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING EEO-1 DISCLOSURE",
+    "proponent": "The Congregation of Benedictine Sisters, Boerne, Texas",
+    "topic_summary": "Requests a diversity report with employee gender and race data by EEOC job category, affirmative action summaries, and diversity programs by September 2018.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING SPECIAL SHAREHOLDER MEETINGS",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws so holders of 10% of outstanding common stock can call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REGARDING AMENDMENT OF COMPENSATION CLAWBACK POLICY",
+    "proponent": "International Brotherhood of Teamsters General Fund",
+    "topic_summary": "Asks the committee to amend the executive clawback policy to allow recoupment for conduct causing financial or reputational harm and to disclose recoupment decisions.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

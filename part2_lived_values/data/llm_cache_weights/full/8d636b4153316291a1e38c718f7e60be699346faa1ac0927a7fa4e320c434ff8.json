@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "VLO",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "8d636b4153316291a1e38c718f7e60be699346faa1ac0927a7fa4e320c434ff8",
+  "est_input_tokens": 31624
+ },
+ "usage": {
+  "input_tokens": 32225,
+  "output_tokens": 1075
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Weighted at 40% of the target Annual Bonus Incentive program, the Financial Performance Goal considered for our annual incentive bonus targets is Earnings per Share (EPS), adjusted"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "With a combined weighting of 40% of our Annual Bonus Incentive program, the Operational Performance Goals considered for our annual incentive bonuses"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in the areas of health, safety, and environmental stewardship, including environmental scorecard incidents, process safety incidents"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in improving refining competitiveness through improved mechanical availability"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Valero's achievements in managing refinery operating costs."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "qualitative objectives related to Valero's long-term strategy (Strategic Execution) for the completed year"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Returns to Stockholders | \u2022 | Return cash to stockholders through dividends and stock buybacks"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Disciplined Use of Capital | \u2022 | Balanced utilization of sustaining and growth capital vs target"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Operational Excellence | \u2022 | Execution of capital projects and turnarounds"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Organizational Excellence | \u2022 | Strategic communications"
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Environmental, Social and Governance (ESG) Efforts & Improvement | \u2022 | Environmental stewardship"
+   },
+   {
+    "id": 11,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Diversity and inclusion | \u2022 | Completed Gender & Race Pay equity analyses"
+   },
+   {
+    "id": 12,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Corporate citizenship and community | \u2022 | Record fundraising for the United Way"
+   },
+   {
+    "id": 13,
+    "parent_id": 5,
+    "emphasis": 1,
+    "evidence": "Compliance | \u2022 | Completed third-party assessment of company-wide compliance program"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance shares tied to relative TSR performance and investment returns performance"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The performance shares awarded in 2020 are subject to vesting in three increments, with criteria segmented such that 75% of the target award will be measured against Valero's relative TSR performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "are measured against the following equally weighted sub-components:"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001672764-17-000003",
+  "task": "proposals",
+  "section_words": 9231,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3654a043ffd149a38f8781dad7464c09a7c6313f7baa1066c71a5f937b1a0b37",
+  "est_input_tokens": 15891
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21531,
+  "output_tokens": 227,
+  "request_id": "req_011CgCBUri1bBQQMLRtKfmby"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "PROPOSAL 5 \u2014 SHAREHOLDER PROPOSAL REGARDING AMENDMENT TO PROXY ACCESS BYLAW",
+    "proponent": "James McRitchie",
+    "topic_summary": "Amend the proxy access bylaw to raise nominees to 25% of the board or 2, remove the limit on shareholders aggregating shares, and remove the re-nomination vote threshold.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal."
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-529376",
+  "task": "proposals",
+  "section_words": 10330,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "bc7aaee458ebdd3cad98f6288051d74f6ce7ead27600d3f093a12e9dfa7c4e73",
+  "est_input_tokens": 22714
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24986,
+  "output_tokens": 346,
+  "request_id": "req_011CgCBDooi5Lvyq2DiSV4BL"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REGARDING EMPLOYMENT DIVERSITY REPORT",
+    "proponent": "Benedictine Sisters, Boerne, Texas",
+    "topic_summary": "Requests a diversity report with employee gender and race data by EEO-1 job category, affirmative action summary, and diversity policies, available by September 2016.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Proposal 5 \u2013 Special Shareowner Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend bylaws to give holders of 10% of outstanding common stock the power to call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

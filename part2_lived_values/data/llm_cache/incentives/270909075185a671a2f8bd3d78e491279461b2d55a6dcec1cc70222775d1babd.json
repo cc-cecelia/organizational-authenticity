@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000120",
+  "task": "incentives",
+  "section_words": 10785,
+  "section_method": "heading",
+  "cache_key": "270909075185a671a2f8bd3d78e491279461b2d55a6dcec1cc70222775d1babd",
+  "est_input_tokens": 22135
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 28233,
+  "output_tokens": 616,
+  "request_id": "req_011CgCCPQLUaruZsNzjnXCPf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash Value Added",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   }
+  ]
+ }
+}

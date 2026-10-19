@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "JNJ",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "b88cb5ec1dbd21de518f47bb0c9049f34af001f603855bd43f6318a8e046bf99",
+  "est_input_tokens": 22221
+ },
+ "usage": {
+  "input_tokens": 25303,
+  "output_tokens": 943
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded our operational sales growth goal. | 3.5% - 4.5% | 6.3%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded our adjusted operational EPS growth goal | 6.8% - 9.6% | 10.4%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Exceeded our free cash flow goal ($ Billions) | $17.1 - $17.9 | $18.5"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Create Life-Enhancing Innovation: We exceeded our objectives that measure our priority innovation projects across all 3 businesses."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Deliver Excellence in Execution: We met our objectives that measure: our priority business platforms' sales, our sales in regions offering significant growth opportunity and our product quality."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Generate Value Through Partnerships: We met our objectives that track elements we need to execute to unleash additional growth opportunities."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Empower and Inspire our Employees: We exceeded our objectives that measure our organizational health, diversity, and reputation."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "advanced diversity and our culture of inclusion, and exceeded our culture of health goals."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Maintained our high reputational standing, achieving our reputational index and employee engagement goals."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operational Sales | 1/3 rd | 118.2% | 95.0% | 145.3% | 39.8%"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cumulative Adjusted Operational EPS | 1/3 rd | 108.6% | 36.2%"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "1/3 Relative Total Shareholder Return: 3-year Compound Annual Growth Rate versus the Competitor Composite Peer Group"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Motivate attainment of our long-term goals, TSR, and share price growth"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 9,
+    "plan": "long_term_incentive",
+    "evidence": "Performance Share Units | 60% | vested 3 years after grant"
+   }
+  ]
+ }
+}

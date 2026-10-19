@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "CRM",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "60405230a09ac04d0d132c77a9e74f78aa169beb400e473c872cfa52e59a1229",
+  "est_input_tokens": 27646
+ },
+ "usage": {
+  "input_tokens": 28333,
+  "output_tokens": 490
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Fiscal #Performance Highlights"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our broad-based Annual Performance Bonus Plan is designed to tie individual cash bonus awards to achievement against key Company performance metrics"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For fiscal #the Compensation Committee approved the following # [w] [w] Company financial performance metrics: revenue, operating cash flow and non-GAAP income from operations."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The [w] measures focus on increasing representation of women, Black, Latinx, Indigenous and Multiracial employees."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The sustainability measures focus on reducing global air travel emissions intensity, as well as increasing the [w] of spend with suppliers"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we measure our TSR [w] rank over a #-year performance period relative to the PRSU Index Group to determine the final payout"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We selected non-GAAP operating margin because we believe it is a key indicator of our performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

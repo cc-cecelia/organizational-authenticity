@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2023,
+  "accession": "0001308179-23-000057",
+  "task": "incentives",
+  "section_words": 11647,
+  "section_method": "heading",
+  "cache_key": "51fed876d36276e2a1b1d684c15a18971a7b3424599e8bba72ba6979d9c22eef",
+  "est_input_tokens": 25786
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27614,
+  "output_tokens": 2327,
+  "request_id": "req_011CgCC8NNk5cFFjyDz6T8ye"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBITDA | Free Cash Flow ... Weight (%) 35 | Payout Result (%) 157"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free cash flow goals encourage our NEOs to continue strengthening our balance sheet"
+   },
+   {
+    "metric": "Strategic personal objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "30% based on pre-established strategic personal objectives"
+   },
+   {
+    "metric": "Strategic Planning and Sustainability",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reduce SLB's Scope 3 emissions, using a pre-established CO2e target"
+   },
+   {
+    "metric": "Digital Growth and Technology Innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Accelerate development of new technologies, Transition Technologies and fit-for-basin technologies"
+   },
+   {
+    "metric": "Core Growth",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increase revenue generated from fit-for-basin technologies above a pre-established target"
+   },
+   {
+    "metric": "New Energy Innovation",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Oversee development of near- and mid-term New Energy growth strategy"
+   },
+   {
+    "metric": "HSE Performance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Fatality-free. | Mostly not achieved"
+   },
+   {
+    "metric": "Absolute FCF Margin PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "payout under the 2022 PSUs will be contingent on achieving absolute FCF margin, relative ROCE, and relative TSR performance goals"
+   },
+   {
+    "metric": "Relative ROCE PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "In selecting ROCE as the performance metric for 25% of our NEOs' 2022 target LTI grant date fair value"
+   },
+   {
+    "metric": "Relative TSR PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative performance metric, comparing our cumulative TSR over a three-year period to that of our direct competitors"
+   }
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "5b757f036f1a19caf4c73fe06e0bfcb831606d16baf1403d7e12b30dfdaeddf0",
+  "est_input_tokens": 26901
+ },
+ "usage": {
+  "input_tokens": 28179,
+  "output_tokens": 843
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The corporate performance portion is based on Occidental's total spend per barrel and sustainability performance."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee maintained the sustainability metric weighting at 30% to continue advancing the company's net-zero strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "incentivize executives to address Occidental's Scope 1, 2 and 3 emissions in the short-term by including targets focused on emissions reduction efforts"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "carbon ventures and reduction projects (Scope 3 emissions)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "COMMITTEE ADJUSTMENT FOR KEY STRATEGIC ACCOMPLISHMENTS: Record net income, operating cash flow and free cash flow for the 2022 fiscal year"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The individual performance portion of the ACI award (20% of the target ACI award for Ms. Hollub and 40% for the other NEOs)"
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Maintain focus on Occidental's commitment to safety, health, the environment, sustainability, diversity, governance, social responsibility and the highest standards of ethical conduct"
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Balance capital allocation, total spend and asset divestitures to optimize cash flow generation to further reduce debt"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Focus on optimizing the long-term return on invested capital by investing strategically within Occidental's portfolio of assets"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the Compensation Committee continued using TSR and CROCE as the performance criteria for the PSU awards."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CROCE award incentivizes a high level of executive focus on capital efficiency and prudent capital allocation."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "Long-Term Incentive Award Program"
+   }
+  ]
+ }
+}

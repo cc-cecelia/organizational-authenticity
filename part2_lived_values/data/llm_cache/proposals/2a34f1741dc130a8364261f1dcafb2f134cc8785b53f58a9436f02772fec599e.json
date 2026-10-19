@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001145443-24-000041",
+  "task": "proposals",
+  "section_words": 8563,
+  "section_method": "resolved_windows",
+  "cache_key": "2a34f1741dc130a8364261f1dcafb2f134cc8785b53f58a9436f02772fec599e",
+  "est_input_tokens": 21240
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23825,
+  "output_tokens": 1042,
+  "request_id": "req_011CgCAQiRxNP5t1tjMMoYHG"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Proposal 5",
+    "proponent": "not stated",
+    "topic_summary": "Stockholder proposal on independent board leadership (independent chair requirement); the board recommends against it.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "therefore, the Board recommends a vote AGAINST this Proposal 5."
+   },
+   {
+    "item_number": "6",
+    "title": "Proposal 6",
+    "proponent": "Sisters of St. Joseph of Peace, Dominican Sisters of Springfield, Good Shepherd Province Center, Maryknoll Sisters, The Nathan Cummings Foundation, School Sisters of Notre Dame, The Sisters of St. Francis of Philadelphia and Sisters of the Order of St. Benedict",
+    "topic_summary": "Requests a report on the effectiveness of Citigroup's policies and performance in respecting internationally-recognized human rights standards for Indigenous Peoples' rights.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "therefore the Board recommends that you vote AGAINST this Proposal 6."
+   },
+   {
+    "item_number": "7",
+    "title": "Director Election Resignation Bylaw Proposal",
+    "proponent": "New York City Carpenters Pension Fund",
+    "topic_summary": "Requests amending the director resignation bylaw so holdover directors not reelected by majority vote automatically resign 30 days after certification, unless board finds compelling reasons.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "therefore the Board recommends a vote AGAINST this Proposal 7."
+   },
+   {
+    "item_number": "8",
+    "title": "Report to Shareholders on Risks Created by the Company's Diversity, Equity, and Inclusion Efforts",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests a report on whether DEI practices create discrimination risks and the potential costs of such discrimination to the business.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "therefore, the Board recommends a vote AGAINST this Proposal 8."
+   },
+   {
+    "item_number": "9",
+    "title": "Report on Risks of Politicized De-banking",
+    "proponent": "American Family Association",
+    "topic_summary": "Requests an evaluation and report on how Citigroup oversees risks of discrimination based on race, religion, sex, national origin or political views in its services.",
+    "category": "customers",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "therefore, the Board recommends a vote AGAINST this Proposal 9."
+   },
+   {
+    "item_number": "10",
+    "title": "Report on Animal Welfare Oversight",
+    "proponent": "Harrington Investments, Inc.",
+    "topic_summary": "Requests a report disclosing whether and how the Board oversees material risks associated with animal welfare in Citi's financing.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "therefore, the Board recommends a vote AGAINST this Proposal 10."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "163df12f90b6eba963ecb6a772a9d66b7fa5b210f5a4fcb9e9d440888d4b4deb",
+  "est_input_tokens": 20137
+ },
+ "usage": {
+  "input_tokens": 20872,
+  "output_tokens": 424
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For Messrs. Schultz, Maw and Johnson, 50% of their EMBP award was based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "adjusted operating income, which was weighted at 50%, and"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC, which operated as a potential downward modifier of the adjusted net revenue and adjusted net operating income result."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the adjusted EPS performance measure has a sliding scale so each NEO may achieve from 0% to 200% of the target award amount."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "If the target ROIC goal under the performance RSUs is not met, the number of performance RSUs to be delivered based on achievement of the adjusted EPS goal will be adjusted downward by as much as 50%."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "annual_incentive",
+    "evidence": "adjusted operating income, which was weighted at 50%"
+   }
+  ]
+ }
+}

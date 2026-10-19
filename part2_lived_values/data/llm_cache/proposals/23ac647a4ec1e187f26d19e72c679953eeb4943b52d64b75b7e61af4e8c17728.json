@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2017,
+  "accession": "0001193125-17-108511",
+  "task": "proposals",
+  "section_words": 10887,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "23ac647a4ec1e187f26d19e72c679953eeb4943b52d64b75b7e61af4e8c17728",
+  "est_input_tokens": 23972
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26335,
+  "output_tokens": 516,
+  "request_id": "req_011CgCBJFUvDg7gQ2kJvLNpN"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Employment Diversity Report",
+    "proponent": "Benedictine Sisters, Boerne, Texas; Convent Academy of the Incarnate Word",
+    "topic_summary": "Requests a diversity report with employee gender and race data by EEOC job category, affirmative action policies, and workplace diversity programs, available by September 2017.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Regarding Advisory Vote on Political Contributions",
+    "proponent": "The Northstar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests an annual proxy proposal describing political contributions and electioneering policies, congruency analysis, and an advisory shareholder vote on those policies and plans.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Special Shareowner Meetings",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests amending bylaws to let holders of 15% of outstanding common stock call a special shareowner meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends that you vote against this shareholder proposal."
+   }
+  ]
+ }
+}

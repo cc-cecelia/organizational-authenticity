@@ -1,0 +1,166 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2021,
+  "accession": "0001193125-21-082907",
+  "task": "incentives",
+  "section_words": 10642,
+  "section_method": "heading",
+  "cache_key": "0e6b7f8849e462ecf78aa52409633628bee1a424a9c05987574b0d9b4843acdb",
+  "est_input_tokens": 24701
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25686,
+  "output_tokens": 1649,
+  "request_id": "req_011CgC9xA2aMUQpjfNHGjXJQ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the HRC assessed Company performance at 75% of target with target representing achievement of expected performance levels"
+   },
+   {
+    "metric": "Individual Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The determination of actual annual incentive compensation for 2020 was determined by the HRC based on a holistic assessment of Company performance, individual performance, and risk accountability."
+   },
+   {
+    "metric": "Risk Accountability (Risk Overlay)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Risk Accountability (Risk Overlay) | Reflects effectiveness of each named executive in risk management specific to the named executive's role and business function"
+   },
+   {
+    "metric": "Diversity, equity and inclusion progress",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC used progress on diversity as a potential modifier of variable compensation, with failure to meet expectations resulting in a reduction"
+   },
+   {
+    "metric": "Financial metrics (revenue, expenses, returns, profitability, deposits, capital returned to shareholders)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial metrics include, among others, revenue, expenses, returns, profitability, deposits, and capital returned to shareholders"
+   },
+   {
+    "metric": "Non-financial metrics (regulatory deliverables, strategic plan, risk management framework, impact of pandemic)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "nonfinancial metrics include business performance metrics such as Company progress against regulatory deliverables and strategic plan, advancement of our risk management framework"
+   },
+   {
+    "metric": "ROTCE (absolute)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of Performance Shares earned at the end of the performance period is based on the achievement of average three-year ROTCE, on an absolute basis."
+   },
+   {
+    "metric": "Total Shareholder Return (relative TSR governor)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The HRC has retained the TSR governor which will continue to limit payout to the extent TSR lags median peer performance."
+   },
+   {
+    "metric": "Net Operating Loss (NOL) reduction",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For any year in the three-year performance period that our Company incurs a NOL, the target number of Performance Shares will be reduced by one-third."
+   },
+   {
+    "metric": "Individual Performance",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Grant value based on achievement of annual objectives (same objectives as annual cash bonus)"
+   },
+   {
+    "metric": "Risk Accountability (Risk Overlay)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Grant value based on achievement of annual objectives (same objectives as annual cash bonus)"
+   }
+  ]
+ }
+}

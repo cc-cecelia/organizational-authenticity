@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "cb7b07a159a1a2da6215b2e2b90cb5201ac91c1859a6021c985c6a87c6cca911",
+  "est_input_tokens": 30596
+ },
+ "usage": {
+  "input_tokens": 30700,
+  "output_tokens": 845
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company performance was a key input into the determination of NEOs' 2023 variable compensation."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Achievement Level | 120%"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Risk, Regulatory, & Control Execute against milestones to reduce outstanding regulatory deliverables, and continue to strengthen risk and control infrastructure"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Financial Deliver financial results and make progress on efficiency initiatives"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Operational Excellence"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Customer-Centric Culture & Conduct"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Technology & Innovation"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Set refreshed operational sustainability goals for 2030."
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Talent & Leadership"
+   },
+   {
+    "id": 9,
+    "parent_id": 7,
+    "emphasis": 2,
+    "evidence": "Set refreshed operational sustainability goals for 2030. These goals include reducing greenhouse gas emissions from 2019 levels by 70%"
+   },
+   {
+    "id": 10,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Advancing DE&I commitments (diverse representation)"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "consistent with last year, absolute and relative ROTCE are the primary performance conditions in our PSAs."
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 3,
+    "evidence": "absolute and relative ROTCE are the primary performance conditions in our PSAs."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the HRC continued to apply an award payout modifier of +/-20% based on our relative TSR over the three-year performance period."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "three-year average absolute ROTCE (weighted 75%) and three-year average relative ROTCE (weighted 25%)"
+   }
+  ]
+ }
+}

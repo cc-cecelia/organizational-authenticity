@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2024,
+  "accession": "0000109198-24-000023",
+  "task": "proposals",
+  "section_words": 4842,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5c4a1c2cef4e0293c7a9187914a53a0d2933ddfc8957521f745e91a1fed3d965",
+  "est_input_tokens": 10636
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11402,
+  "output_tokens": 228,
+  "request_id": "req_011CgCBiDUYR5aHZi34vBTXx"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "REPORT ON EFFECTIVENESS OF SOCIAL COMPLIANCE EFFORTS IN TJX'S SUPPLY CHAIN",
+    "proponent": "NorthStar Asset Management, Inc. Funded Pension Plan",
+    "topic_summary": "Requests a third-party assessment and report on the effectiveness of TJX's due diligence in preventing forced, child, and prison labor in its supply chain.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "your Board unanimously recommends that you vote AGAINST the shareholder proposal."
+   }
+  ]
+ }
+}

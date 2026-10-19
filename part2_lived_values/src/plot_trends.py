@@ -36,6 +36,16 @@ EVENT_SHORT = {
 }
 
 
+SECTOR_SHORT = {"Technology": "Tech", "Financials": "Fin", "Healthcare": "Health",
+                "Consumer Discretionary": "Cons. Disc.", "Energy": "Energy"}
+
+
+def end_label(sector: str, label: str) -> str:
+    """Ticker for a one-firm sector (pilot), short sector name otherwise."""
+    inner = label.split(" (")[-1].rstrip(")")
+    return SECTOR_SHORT[sector] if inner.startswith("n=") else inner
+
+
 def sector_lines(m: pd.DataFrame, col: str) -> dict:
     out = {}
     for sector in SECTOR_ORDER:
@@ -79,8 +89,8 @@ def draw(m: pd.DataFrame, prefix: str, title: str, path) -> None:
             ax.plot(s.index, s.values, color=SECTOR_COLORS[sector], lw=2, zorder=3,
                     marker="o", ms=4, markeredgecolor=SURFACE, markeredgewidth=1)
         # Direct labels at line ends, nudged apart so they never overlap.
-        ends = sorted(((s.values[-1], s.index[-1], lab.split(" (")[-1].rstrip(")"))
-                       for lab, s in lines.values()))
+        ends = sorted(((s.values[-1], s.index[-1], end_label(sector, lab))
+                       for sector, (lab, s) in lines.items()))
         gap, prev = ymax * 0.065, None
         for y, x, text in ends:
             y = y if prev is None else max(y, prev + gap)

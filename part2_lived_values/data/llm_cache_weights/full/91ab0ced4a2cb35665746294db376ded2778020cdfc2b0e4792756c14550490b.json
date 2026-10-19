@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "91ab0ced4a2cb35665746294db376ded2778020cdfc2b0e4792756c14550490b",
+  "est_input_tokens": 34805
+ },
+ "usage": {
+  "input_tokens": 35928,
+  "output_tokens": 1363
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "70% of each participant's target incentive opportunity will be earned based on adjusted net revenue and adjusted operating income financial metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For fiscal 2022, the portion of the annual cash incentive award derived from financial performance goals was based on the achievement of adjusted net revenue and adjusted operating income measures"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "our coffee, dairy, and waste goals for fiscal 2022 would have accounted for 10% of the overall fiscal 2022 Annual Incentive Bonus Plan payout, with equal weighting amongst such goals"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Coffee (33% weighting) | Dairy (33% weighting) | Waste (33%)"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Coffee (33% weighting) | Dairy (33% weighting) | Waste (33%)"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Coffee (33% weighting) | Dairy (33% weighting) | Waste (33%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "our total Company comparable sales, total Company net new stores, and total Company operating margin goals would have accounted for 10% of the overall fiscal 2022 Annual Incentive Bonus Plan payout"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "FY22 Total Company Comp (33% weighting)"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "FY22 Total Company Net New Stores (33% weighting)"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "FY22 Total Company Operating Margin (33% weighting)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The IPF was weighted at 30% of the total payout under the fiscal 2022 Annual Incentive Bonus Plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "People (Common goals shared by all NEOs with performance results varying by individual) | 10%"
+   },
+   {
+    "id": 12,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Living Our Mission and Values/Helping Others Succeed (Goals vary by individual) | 20%"
+   },
+   {
+    "id": 13,
+    "parent_id": 10,
+    "emphasis": 2,
+    "evidence": "Strategic and Operational Goals (Goals vary by individual)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the number of shares earned is based on three-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of 25% based on relative TSR performance"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an additional downward or upward adjustment of up to 10% based on achievement of inclusion and diversity goals"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Planet Positive ... with equal weighting amongst such goals"
+   },
+   {
+    "parent_id": 6,
+    "plan": "annual_incentive",
+    "evidence": "total Company operating margin goals would have accounted for 10% of the overall fiscal 2022 Annual Incentive Bonus Plan payout, with equal weighting of such goals"
+   },
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "our coffee, dairy, and waste goals for fiscal 2022 would have accounted for 10% of the overall fiscal 2022 Annual Incentive Bonus Plan payout, with equal weighting amongst such goals"
+   }
+  ]
+ }
+}

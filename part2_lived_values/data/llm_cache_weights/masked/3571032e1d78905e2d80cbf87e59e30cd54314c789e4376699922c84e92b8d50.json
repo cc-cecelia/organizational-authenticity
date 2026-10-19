@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "3571032e1d78905e2d80cbf87e59e30cd54314c789e4376699922c84e92b8d50",
+  "est_input_tokens": 14098
+ },
+ "usage": {
+  "input_tokens": 14379,
+  "output_tokens": 710
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "To determine payouts under the cash and equity incentive programs, the committee establishes specific company performance goals related to revenue, EPS, progress of our pipeline portfolio, stock price growth, and total shareholder return"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on # areas of company performance relative to internal targets: revenue, EPS, and pipeline progress."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Science and Technology Committee's assessment of the company's progress toward achieving product pipeline goals is detailed below:"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Approvals | #new drug first approval #other approvals"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development | Plans exceeded industry benchmark"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Deliver to Launch | Meet planned project timelines | Delivered faster than project plans"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Chief scientific officer's assessment of performance against strategic objectives"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "performance awards-equity awards that vest over # years with a performance component measuring the company's #-year growth in EPS relative to the expected peer group growth"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "shareholder value awards, which are performance-based equity awards that pay out based on absolute company stock price growth and TSR relative to peers"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a modifier based on Lilly's #-year cumulative TSR relative to our peer companies' median TSR performance will be applied to executive officer payouts."
+   }
+  ],
+  "equal_split": []
+ }
+}

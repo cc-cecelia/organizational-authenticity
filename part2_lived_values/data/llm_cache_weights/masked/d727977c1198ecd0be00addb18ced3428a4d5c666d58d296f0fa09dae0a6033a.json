@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "d727977c1198ecd0be00addb18ced3428a4d5c666d58d296f0fa09dae0a6033a",
+  "est_input_tokens": 18627
+ },
+ "usage": {
+  "input_tokens": 21698,
+  "output_tokens": 750
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Income before taxes exceeded target by #billion"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Platform Revenue, Operating Margin, and Return on Assets"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Platform revenue is a non-GAAP metric comprised of net revenues less total Humira sales and adjusted for foreign exchange"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "D. Non \u2010 GAAP Operating Margin"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "C. Adjusted Return on Assets"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "R&D/Innovation"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The ESG goal was [w] # within the short-term incentive program for each NEO."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Our EEDI strategy includes specific priority areas to ensure AbbVie fosters a community that is inclusive"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each NEO achieved or exceeded their #strategic and leadership goals, which are listed below:"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Final awards are determined by the compensation committee based on a qualitative assessment of holistic performance"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Diluted EPS (#) | \u200b | #| \u200b | #| \u200b | #| \u200b | #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR is measured over a #- year performance period and used as a modifier"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on AbbVie's return on invested capital (ROIC) articulated as pre-set goals and measured relative to a group"
+   }
+  ],
+  "equal_split": []
+ }
+}

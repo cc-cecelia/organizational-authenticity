@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0000059478-19-000146",
+  "task": "incentives",
+  "section_words": 8906,
+  "section_method": "heading",
+  "cache_key": "bdbd8965a21c7e62553ce4c4aba4a902fe8e7b33b3cc617726e15795a883ac30",
+  "est_input_tokens": 20073
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22317,
+  "output_tokens": 1524,
+  "request_id": "req_011CgCASsCboZe3qoVxPYoHo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "metric": "EPS performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "metric": "Pipeline progress",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "metric": "Approvals",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Approvals | 1-2 new drug first approval 9 other approvals"
+   },
+   {
+    "metric": "Potential new drug Phase 3 starts",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Potential new drug Phase 3 starts | 2 | 3"
+   },
+   {
+    "metric": "Plan Boldly",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development"
+   },
+   {
+    "metric": "Deliver to Launch",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deliver to Launch | Meet planned project timelines"
+   },
+   {
+    "metric": "Qualitative Assessment",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Qualitative Assessment | Chief scientific officer's assessment of performance against strategic objectives"
+   },
+   {
+    "metric": "Maximum annual cash bonus as percent of non-GAAP net income (EOIP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the maximum amount for 2018 is 0.3 percent of non-GAAP net income"
+   },
+   {
+    "metric": "EPS growth over two-year performance period",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Payouts are based on achieving EPS growth targets over a two-year performance period"
+   },
+   {
+    "metric": "Lilly absolute share price growth (shareholder value awards)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Shareholder value awards are earned based on Lilly's share price and relative TSR performance."
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "A modifier based on Lilly's three-year cumulative TSR relative to our peer companies' median TSR performance is applied to executive officer payouts."
+   }
+  ]
+ }
+}

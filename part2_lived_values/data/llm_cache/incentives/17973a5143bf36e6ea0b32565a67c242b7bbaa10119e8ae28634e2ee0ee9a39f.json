@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0000930413-18-000973",
+  "task": "incentives",
+  "section_words": 15771,
+  "section_method": "heading+median_adjusted",
+  "cache_key": "17973a5143bf36e6ea0b32565a67c242b7bbaa10119e8ae28634e2ee0ee9a39f",
+  "est_input_tokens": 35447
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 39999,
+  "output_tokens": 1088,
+  "request_id": "req_011CgCAr1r9X4kfN8sPqtyY8"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Revenue, \u2013 40% Adjusted Diluted EPS, and \u2013 20% Cash Flow from Operations"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Adjusted Diluted EPS"
+   },
+   {
+    "metric": "Cash Flow from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% Cash Flow from Operations"
+   },
+   {
+    "metric": "Qualitative assessment of product pipeline",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a qualitative assessment of Pfizer's performance with respect to the product pipeline"
+   },
+   {
+    "metric": "Business performance as compared to goals in other areas, including management of LOEs",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "business performance as compared to goals in other areas, as well as the management of the impact of LOEs"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Share Awards (PSAs) Representing 50% of total annual grant value | Operating Income** and relative TSR"
+   },
+   {
+    "metric": "Relative TSR versus DRG Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "relative TSR, as compared to the DRG Index, over a three-year period"
+   },
+   {
+    "metric": "Absolute TSR (5- and 7-Year TSRUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5- and 7-Year Total Shareholder Return Units (TSRUs) Each represents 25% of total annual grant value (50% in total)"
+   }
+  ]
+ }
+}

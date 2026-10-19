@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "C",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "d9391fee0db593cfb6315a7335bc944fbbe2363c7eeb484a6624c7320ce72337",
+  "est_input_tokens": 30661
+ },
+ "usage": {
+  "input_tokens": 32569,
+  "output_tokens": 945
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Scorecard (weighted 70%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citicorp Efficiency Ratio | 57.9% | 4"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Tangible Common Equity | 7.6% | 4"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citigroup Return on Assets | 0.82% | 4"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Citicorp Risk Appetite Ratio | 131% | 2"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Financial Scorecard (weighted 70%)"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-Financial Scorecard (weighted 30%)"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong risk and controls management | \u25cf While Citi has more work to do"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Strong personnel management | \u25cf Mr. Corbat has focused on encouraging diverse slates"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Enhance relations with external stakeholders, including stockholders | \u25cf Mr. Corbat continued his outreach"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Set strategic direction | \u25cf Under Mr. Corbat's sponsorship"
+   },
+   {
+    "id": 11,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Digitize and simplify customer platforms"
+   },
+   {
+    "id": 12,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Improve market share in core markets"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Return on tangible common equity 2019 target is 10% and cumulative earnings per share target is $17.70"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Cumulative earnings per share is determined by adding the diluted earnings per share"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the number of Performance Share Units that may be earned is capped at 100% of target if Citi's total shareholder return is negative"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 13,
+    "plan": "long_term_incentive",
+    "evidence": "Half of the target units will be earned based on return on tangible common equity performance and the remaining half will be earned based on cumulative earnings per share."
+   }
+  ]
+ }
+}

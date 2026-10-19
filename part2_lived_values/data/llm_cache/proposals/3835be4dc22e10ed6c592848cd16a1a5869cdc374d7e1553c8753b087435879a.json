@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "sector": "Technology",
+  "filing_year": 2021,
+  "accession": "0001308179-21-000256",
+  "task": "proposals",
+  "section_words": 11898,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3835be4dc22e10ed6c592848cd16a1a5869cdc374d7e1553c8753b087435879a",
+  "est_input_tokens": 28014
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29341,
+  "output_tokens": 1356,
+  "request_id": "req_011CgC9H7sWFamivHGS842DT"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Give Each Share an Equal Vote",
+    "proponent": "not stated",
+    "topic_summary": "Requests a recapitalization plan, phased out within seven years, so all outstanding stock has one vote per share, eliminating Class B disproportionate voting rights.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Nomination of Human Rights and/or Civil Rights Expert to Board",
+    "proponent": "not stated",
+    "topic_summary": "Asks the Nominating Committee to nominate at least one independent director candidate with recognized high human and/or civil rights expertise for the next Board election.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding Report on Sustainability Metrics",
+    "proponent": "not stated",
+    "topic_summary": "Requests a Compensation Committee report assessing integrating sustainability metrics, including senior executive diversity metrics, into executive pay performance measures or vesting conditions.",
+    "category": "dei",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding Report on Takedown Requests",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report assessing feasibility of annually disclosing by jurisdiction terms, queries or sites delisted or censored in response to government requests.",
+    "category": "integrity",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding Report on Whistleblower Policies and Practices",
+    "proponent": "not stated",
+    "topic_summary": "Requests a third-party review of the effectiveness of whistleblower policies in protecting human rights, with a public report.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding Report on Charitable Contributions",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annual report listing and analyzing charitable contributions, including recipients, restrictions, outcomes and reputational risks from donation controversies.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding Report on Risks Related to Anticompetitive Practices",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on how the board oversees risks related to anticompetitive practices, including committee responsibility and board role in public policy.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "11",
+    "title": "Stockholder Proposal Regarding a Transition to a Public Benefit Corporation",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending the charter to become a public benefit corporation, contingent on Class B holders converting shares so at least 60% of voting power is not Class B controlled.",
+    "category": "community",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Our Board of Directors recommends that stockholders vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

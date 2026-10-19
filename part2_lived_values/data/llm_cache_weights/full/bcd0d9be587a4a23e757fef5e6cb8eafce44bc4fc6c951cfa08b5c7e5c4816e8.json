@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "bcd0d9be587a4a23e757fef5e6cb8eafce44bc4fc6c951cfa08b5c7e5c4816e8",
+  "est_input_tokens": 22196
+ },
+ "usage": {
+  "input_tokens": 24988,
+  "output_tokens": 242
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Re-earning the PRSUs granted in February 2020 (based on 2019 performance) requires the company to meet average ROA and average adjusted TBV growth standards over a three-year performance period"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The awards are equally weighted with 50% based on ROA standards and 50% based on adjusted TBV growth standards."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The awards are equally weighted with 50% based on ROA standards and 50% based on adjusted TBV growth standards."
+   }
+  ]
+ }
+}

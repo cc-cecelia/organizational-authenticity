@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "23005f685a0e4d9b9a4be086db8702fe3c1f75b23eb964a8c5c542f66f04e398",
+  "est_input_tokens": 36240
+ },
+ "usage": {
+  "input_tokens": 37254,
+  "output_tokens": 1260
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Non-GAAP Diluted EPS Net Income excluding specified items divided by outstanding shares of common stock"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top line growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of top line growth that aligns with the strategic priority of revenue renewal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Increases BMS-wide focus on delivery of our late-stage pipeline and continued development of a robust pipeline through both internal efforts and business development"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Near-Term Value Submissions and approvals"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Long-Term Growth Potential"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "we shifted focus from key integration metrics to a balanced ESG scorecard with the goal of accelerating progress against our sustainability and social commitments"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Environmental Reflects progress towards environmental commitments on GHG emissions and waste reductions"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Human Capital Management and Social Responsibility Reflects progress on clinical trial & supplier diversity"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "achievement of executive representation goals and employee engagement trends"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Employee Engagement Trends"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual incentive awards for each NEO are determined by evaluating both company performance (as measured by the Company Performance Factor) and individual performance (as measured by the Individual Performance Factor"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Drive enterprise performance: Achieve budgeted financial targets established at the beginning of the year"
+   },
+   {
+    "id": 13,
+    "parent_id": 12,
+    "emphasis": 1,
+    "evidence": "Demonstrate ethics, integrity and quality in everything we do"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Maximize the reach and potential of the marketed portfolio and ensure the long-term sustainability of the pipeline"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Embed our patient-centric culture and drive our People Strategy"
+   },
+   {
+    "id": 16,
+    "parent_id": 15,
+    "emphasis": 1,
+    "evidence": "boldly cultivate a diverse and inclusive global community"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Performance Share Unit Awards made in #are focused on motivating executives to deliver long-term top-line growth and improved margins"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative Total Revenues (Ex-FX)"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR over a #-year period ending in the first # of the applicable payout year"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2017,
+  "accession": "0001308179-17-000223",
+  "task": "incentives",
+  "section_words": 9299,
+  "section_method": "heading",
+  "cache_key": "3bc974e9c176b0f12ac765f889bf706da2b7dc8ede0f85e2052c4073f69f96ab",
+  "est_input_tokens": 21234
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24027,
+  "output_tokens": 1061,
+  "request_id": "req_011CgCAuB28Yux3Anbe2Fnmk"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue Growth Over Prior Year (Constant Currency, Constant Week)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance measures, which were weighted equally (1/3 each), were diluted earnings per share, revenue growth and cash-flow indicator"
+   },
+   {
+    "metric": "Diluted Earnings Per Share Growth (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance measures, which were weighted equally (1/3 each), were diluted earnings per share, revenue growth and cash-flow indicator"
+   },
+   {
+    "metric": "Cash-Flow Indicator",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash flow generated from operations plus management of short-term receivables, inventory, and payables is a key driver"
+   },
+   {
+    "metric": "Quality Compliance Modifier Performance Threshold",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "if the Company did not meet the requisite quality score, the payout is reduced by five (5) percentage points"
+   },
+   {
+    "metric": "Three-year Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-year Revenue Growth | Uses a cumulative compound annual growth rate (Cumulative CAGR) over three fiscal years"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "metric": "Diluted EPS cumulative CAGR threshold (RSU vesting)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance threshold was set as the diluted earnings per share cumulative compound annual growth rate (cumulative CAGR) of 3%"
+   }
+  ]
+ }
+}

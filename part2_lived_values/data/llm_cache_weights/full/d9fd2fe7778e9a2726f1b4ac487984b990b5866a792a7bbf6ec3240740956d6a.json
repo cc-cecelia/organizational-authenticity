@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "d9fd2fe7778e9a2726f1b4ac487984b990b5866a792a7bbf6ec3240740956d6a",
+  "est_input_tokens": 24606
+ },
+ "usage": {
+  "input_tokens": 26507,
+  "output_tokens": 157
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the FY22-24 cycle"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of EPS Growth and ROIC targets for the FY22-24 cycle"
+   }
+  ],
+  "equal_split": []
+ }
+}

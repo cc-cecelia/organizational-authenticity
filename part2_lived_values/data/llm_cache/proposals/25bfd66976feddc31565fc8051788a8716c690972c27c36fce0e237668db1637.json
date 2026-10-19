@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2016,
+  "accession": "0001193125-16-543341",
+  "task": "proposals",
+  "section_words": 3754,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "25bfd66976feddc31565fc8051788a8716c690972c27c36fce0e237668db1637",
+  "est_input_tokens": 8378
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 10269,
+  "output_tokens": 232,
+  "request_id": "req_011CgCB8TFK8xWuE2ykuX86X"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "3",
+    "title": "Proposal Three \u2014 Simple Majority Vote",
+    "proponent": "James McRitchie (through designee John Chevedden)",
+    "topic_summary": "Requests the board eliminate supermajority voting requirements in the charter and bylaws, replacing them with a majority of votes cast or simple majority where legally permissible.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE AGAINST THE STOCKHOLDER PROPOSAL REGARDING SIMPLE MAJORITY VOTING."
+   }
+  ]
+ }
+}

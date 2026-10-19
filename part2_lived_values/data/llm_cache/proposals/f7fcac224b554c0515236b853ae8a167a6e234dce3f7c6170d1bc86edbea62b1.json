@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001193125-19-017145",
+  "task": "proposals",
+  "section_words": 9664,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "f7fcac224b554c0515236b853ae8a167a6e234dce3f7c6170d1bc86edbea62b1",
+  "est_input_tokens": 21098
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23634,
+  "output_tokens": 422,
+  "request_id": "req_011CgCBVqQezEbwddyjEgwEz"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Regarding True Diversity Board Policy",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests board adopt policy disclosing minimum nominee qualifications and each nominee's skills, ideological perspectives, and experience in a chart or matrix.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Regarding Report on Sustainable Packaging",
+    "proponent": "As You Sow, on behalf of Michelle Swenson & Stan Drobac Revocable Trust and Trillium Asset Management, LLC on behalf of Matthew W. Patsky Roth IRA",
+    "topic_summary": "Requests a report on reducing environmental impacts by scaling sustainable packaging initiatives, including cup recycling, reusable containers, and recycled content.",
+    "category": "environment",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "our board unanimously recommends that you vote \"AGAINST\" this shareholder proposal"
+   }
+  ]
+ }
+}

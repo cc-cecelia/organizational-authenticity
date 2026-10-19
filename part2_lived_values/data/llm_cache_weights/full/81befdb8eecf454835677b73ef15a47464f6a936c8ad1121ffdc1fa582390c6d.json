@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "81befdb8eecf454835677b73ef15a47464f6a936c8ad1121ffdc1fa582390c6d",
+  "est_input_tokens": 19824
+ },
+ "usage": {
+  "input_tokens": 22863,
+  "output_tokens": 339
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's sales (weighted 40%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "operating income (weighted 40%)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "inventory turnover (weighted 10%)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pro sales growth (weighted 10%)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The 2021 PSUs will be earned based on the Company's achievement of a three-year average ROIC goal and a relative TSR modifier."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR modifier cannot be lower than 0.67x or higher than 1.33x"
+   }
+  ],
+  "equal_split": []
+ }
+}

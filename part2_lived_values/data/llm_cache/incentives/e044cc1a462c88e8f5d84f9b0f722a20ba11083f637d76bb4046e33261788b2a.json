@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2019,
+  "accession": "0001140361-19-006720",
+  "task": "incentives",
+  "section_words": 11339,
+  "section_method": "heading",
+  "cache_key": "e044cc1a462c88e8f5d84f9b0f722a20ba11083f637d76bb4046e33261788b2a",
+  "est_input_tokens": 23346
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29222,
+  "output_tokens": 596,
+  "request_id": "req_011CgCAguyvUA7gUkCRSpEAf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Company Scorecard (EIP Company performance component)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Company performance component (as reflected by the Company Scorecard) is multiplied by the target award opportunity."
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% of the award will be determined by the Company's Operating Cash Flow vs. target for the three-year performance period."
+   },
+   {
+    "metric": "Cumulative Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% of the award will be determined by the Company's Cumulative Earnings Per Share vs. target for the three-year performance period."
+   },
+   {
+    "metric": "Relative TSR (average annual TSR vs. Peer Group median)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% of the award will be determined by the Company's average annual TSR relative to the median TSR of our Peer Group for the three-year performance period."
+   }
+  ]
+ }
+}

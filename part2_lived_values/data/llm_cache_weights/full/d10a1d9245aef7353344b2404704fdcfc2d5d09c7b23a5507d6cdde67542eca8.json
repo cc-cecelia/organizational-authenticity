@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "d10a1d9245aef7353344b2404704fdcfc2d5d09c7b23a5507d6cdde67542eca8",
+  "est_input_tokens": 18174
+ },
+ "usage": {
+  "input_tokens": 18358,
+  "output_tokens": 461
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "IBM measures five key financial metrics, and in 2018, added a relative Return on Invested Capital (ROIC) modifier to the PSU program"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Net Income | Measures our profit and operational success"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating Cash Flow* | Important measure of our ability to reinvest and return value to stockholders"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating EPS | Measures operating profitability on a per share basis"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free Cash Flow | Important measure of our ability to reinvest and return value to stockholders over multiple years"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The modifier is based on IBM's ROIC performance over the three-year performance period, relative to the S&P 500 Index"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   }
+  ]
+ }
+}

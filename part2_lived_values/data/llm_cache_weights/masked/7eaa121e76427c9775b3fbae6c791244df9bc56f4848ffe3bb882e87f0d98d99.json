@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "7eaa121e76427c9775b3fbae6c791244df9bc56f4848ffe3bb882e87f0d98d99",
+  "est_input_tokens": 14773
+ },
+ "usage": {
+  "input_tokens": 15346,
+  "output_tokens": 920
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # all-in after-tax rate of return* on total capital expenditures based on \"premium\" price deck"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Achieve # ROCE* | # | Achieved # ROCE* (calculated based on non-GAAP adjusted net income) | Significantly exceeded"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Generate free cash flow* of #billion before dividends"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Achieve top # in peer group in absolute stock price performance and forward-year cash flow multiple"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Improve strong safety and environmental record \u2014 specifically: \u2022 year-over-year reductions in our methane, GHG and flaring emissions intensity rates"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "year-over-year reductions in our methane, GHG and flaring emissions intensity rates"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a reduction in our oil spill rates below the prior #-year averages"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "a wellhead gas capture rate of # or higher"
+   },
+   {
+    "id": 8,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "improvement in our safety incident rate below the prior #-year average"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "goals with respect to our operational and organizational execution, [w] # in total, encompassed our other goals, including goals with respect to finding costs, capital efficiency"
+   },
+   {
+    "id": 10,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "supporting EOG's unique culture"
+   },
+   {
+    "id": 11,
+    "parent_id": 9,
+    "emphasis": 1,
+    "evidence": "effective risk management and supporting EOG's unique culture"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Relative TSR Performance (Primary Performance Metric)"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Return on Capital Employed (Modifier to Performance Multiple) In #the Compensation Committee approved the introduction of an absolute ROCE* modifier"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Negative TSR Cap (Modifier to Final Performance Multiple) Also effective for the #performance unit awards"
+   }
+  ],
+  "equal_split": []
+ }
+}

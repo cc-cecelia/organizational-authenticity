@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0001193125-23-099980",
+  "task": "incentives",
+  "section_words": 8221,
+  "section_method": "heading",
+  "cache_key": "769d1e08cf0e61dbb3ca6aec3563f04bbfd6384df5782b40d4d040662888829e",
+  "est_input_tokens": 19003
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21323,
+  "output_tokens": 872,
+  "request_id": "req_011CgCBdzNtA99shza4rP5bg"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales | Rewards NEOs on effective merchandising, driving market share gains | Company sales | 40%"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income | Rewards NEOs for profitability of Company operations | Company operating income | 40%"
+   },
+   {
+    "metric": "Inventory Turnover",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Inventory Turnover | Cost of goods sold / average inventory | 10%"
+   },
+   {
+    "metric": "Pro Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pro Sales Growth | Percentage increase in Pro sales over the prior fiscal year in the U.S. home improvement market | 10%"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the PSUs awarded in 2022 will be earned based on the Company's ROIC for the three-year performance period of fiscal years 2022 through 2024 and the relative TSR modifier"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reducing payouts when the Company's TSR underperforms the S&P 500 Index and increasing payouts when the Company's TSR outperforms the S&P 500 Index, subject to a 200% cap on payouts"
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "25685f8c59d4470957aa17728da7a7f7c45eceafc7e5580f364eb06c2c83735d",
+  "est_input_tokens": 21189
+ },
+ "usage": {
+  "input_tokens": 25907,
+  "output_tokens": 153
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "This plan measures company Cash Value Added as compared to our pre-established goals during a one-year period."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Summary Compensation Table shows amounts paid for the 2013 cycle Performance Unit Program, which closed on December 31, 2015."
+   }
+  ],
+  "equal_split": []
+ }
+}

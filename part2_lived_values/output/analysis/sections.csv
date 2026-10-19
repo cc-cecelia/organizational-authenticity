@@ -1,28 +1,451 @@
-ticker,filing_year,cda_found,cda_method,cda_words,cda_end_marker,proposals_found,proposals_words,proposals_signal_hits,proposals_end_marker,resolved_in_doc,resolved_in_section
-JPM,2016,True,heading,11944,Executive compensation tables,True,7901.0,17.0,General information about the meeting,6,5
-JPM,2017,True,heading,12586,Executive compensation tables,True,6509.0,22.0,General information about the meeting,6,5
-JPM,2018,True,heading,12239,Executive compensation tables,True,4239.0,9.0,Information about the annual shareholder meeting,4,3
-JPM,2019,True,heading,12679,Executive compensation tables,True,3592.0,7.0,ANNUAL MEETING INFORMATION,4,3
-JPM,2020,True,heading,15476,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,8222.0,14.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,5,4
-JPM,2021,True,heading,18345,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,4995.0,11.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,3,2
-JPM,2022,True,heading,19787,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,True,8055.0,16.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,5,4
-JPM,2023,True,heading,16309,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,True,12371.0,29.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,7,6
-JPM,2024,True,heading,16437,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,True,12285.0,45.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,8,7
-MSFT,2016,True,heading,8765,Compensation Committee report,True,1951.0,6.0,7. Information about the meeting,2,1
-MSFT,2017,True,heading,8186,Summary compensation table,False,,,,1,0
-MSFT,2018,True,opening_sentence,8245,The Compensation Committee has reviewed and discussed with management the Compen,False,,,,1,0
-MSFT,2019,True,heading,8837,Compensation Committee Report,True,3526.0,6.0,5. Information About the Meeting,3,2
-MSFT,2020,True,heading,11758,Summary Compensation Table,True,1588.0,4.0,5. Information About the Meeting,2,1
-MSFT,2021,True,heading,11749,Summary Compensation Table,True,5980.0,16.0,5. Information About the Meeting,6,5
-MSFT,2022,True,heading,12412,Summary Compensation Table,True,7005.0,16.0,5. Information About the Meeting,7,6
-MSFT,2023,True,heading,11263,Compensation Committee Report,True,10958.0,23.0,5. Information About the Meeting,10,9
-MSFT,2024,True,heading,12787,Compensation Committee Report,True,8697.0,15.0,5. Information About the Meeting,7,6
-XOM,2016,True,heading,7555,EXECUTIVE COMPENSATION TABLES,True,11452.0,27.0,Shareholder Proposals for Next Year,11,10
-XOM,2017,True,heading,7395,EXECUTIVE COMPENSATION TABLES,True,8141.0,22.0,Shareholder Proposals and Director Nominations for Next Year,10,9
-XOM,2018,True,heading,7062,EXECUTIVE COMPENSATION TABLES,True,4051.0,11.0,Shareholder Proposals and Director Nominations for Next Year,5,4
-XOM,2019,True,heading,7372,EXECUTIVE COMPENSATION TABLES,True,7527.0,25.0,Shareholder Proposals and Director Nominations for Next Year,8,7
-XOM,2020,True,heading,6076,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2019 Change in Pens,True,6725.0,17.0,Shareholder Proposals and Director Nominations for Next Year,6,5
-XOM,2021,True,heading,9472,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2020 Pension Value ,True,9092.0,22.0,Shareholder Proposals and Director Nominations for Next Year,6,5
-XOM,2022,True,heading,8479,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2021 Change inPensi,True,8196.0,24.0,Shareholder Proposals and Director Nominations for Next Year,8,7
-XOM,2023,True,heading,9328,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2022 Change in Pens,True,18848.0,83.0,Shareholder Proposals and Director Nominations for Next Year,13,12
-XOM,2024,True,heading,9057,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2023 Change in Pens,True,11558.0,49.0,Shareholder Proposals and Director Nominations for Next Year,5,4
+ticker,filing_year,cda_found,cda_method,cda_words,cda_end_marker,cda_target_words,proposals_found,proposals_words,proposals_signal_hits,proposals_end_marker,resolved_in_doc,resolved_in_section
+AAPL,2016,True,heading,4893.0,Executive Compensation Tables,5254.5,True,10274.0,13.0,Other Matters,5,5
+AAPL,2017,True,heading,5320.0,Executive Compensation Tables,5041.0,True,6456.0,11.0,Other Matters,6,6
+AAPL,2018,True,heading,5189.0,Executive Compensation Tables,5106.5,True,2595.0,7.0,Other Matters,3,2
+AAPL,2019,True,heading,4712.0,Executive Compensation Tables,5254.5,True,2563.0,8.0,Other Matters,3,3
+AAPL,2020,True,heading,4531.0,Executive Compensation Tables,5254.5,True,3894.0,12.0,Other Matters,4,4
+AAPL,2021,True,heading,4135.0,"""Summary Compensation Table – 2020, 2019, and 2018.""",5254.5,True,2250.0,9.0,Other Matters,3,3
+AAPL,2022,True,heading,5619.0,Compensation Committee Report,5041.0,True,11358.0,18.0,Other Matters,7,6
+AAPL,2023,True,heading,7500.0,Compensation Committee Report,5041.0,True,10274.0,34.0,Other Matters,6,5
+AAPL,2024,True,heading,8118.0,People and Compensation Committee Report,5041.0,True,10297.0,15.0,Other Matters,6,5
+ABBV,2016,True,heading,6829.0,Compensation Committee Report,10449.0,True,2939.0,6.0,Other Matters,2,2
+ABBV,2017,True,heading,11550.0,Audit Committee Report,9335.0,True,3434.0,7.0,Other Matters,2,2
+ABBV,2018,True,heading,12211.0,Audit Committee Report,9335.0,True,4582.0,10.0,Other Matters,3,3
+ABBV,2019,True,heading,13121.0,Audit Committee Report,9335.0,True,4403.0,9.0,Other Matters,3,3
+ABBV,2020,True,heading,13123.0,Audit Committee Report,9335.0,True,4625.0,9.0,Other Matters,3,3
+ABBV,2021,True,heading,8623.0,Compensation Committee Report,10449.0,True,3684.0,6.0,Other Matters,2,2
+ABBV,2022,True,heading,8474.0,Compensation Committee Report,10449.0,True,5763.0,10.0,Other Matters,3,3
+ABBV,2023,True,heading,9322.0,Compensation Committee Report,10449.0,True,9235.0,12.0,INFORMATION ABOUT THE ANNUAL MEETING,4,4
+ABBV,2024,True,heading,9348.0,Compensation Committee Report,10436.0,True,7547.0,7.0,INFORMATION ABOUT THE ANNUAL MEETING,2,2
+ABT,2016,True,heading,10992.0,COMPENSATION COMMITTEE REPORT,9616.5,False,,,,0,0
+ABT,2017,True,heading,8016.0,COMPENSATION COMMITTEE REPORT,10418.0,True,2380.0,3.0,INFORMATION CONCERNING SECURITY OWNERSHIP,0,0
+ABT,2018,True,heading,9389.0,COMPENSATION COMMITTEE REPORT,10418.0,True,2065.0,3.0,INFORMATION CONCERNING SECURITY OWNERSHIP,0,0
+ABT,2019,True,heading+median_adjusted,6749.0,(ITEM 2 ON PROXY CARD),9616.5,True,1942.0,5.0,INFORMATION CONCERNING SECURITY OWNERSHIP,0,0
+ABT,2020,True,heading+median_adjusted,6970.0,(ITEM 2 ON PROXY CARD),9616.5,True,4899.0,18.0,INFORMATION CONCERNING SECURITY OWNERSHIP,3,3
+ABT,2021,True,heading+median_adjusted,7892.0,(ITEM 2 ON PROXY CARD),9616.5,True,4056.0,11.0,INFORMATION CONCERNING SECURITY OWNERSHIP,2,2
+ABT,2022,True,heading,8762.0,COMPENSATION COMMITTEE REPORT,10418.0,True,6408.0,17.0,SECURITY OWNERSHIP OF EXECUTIVE OFFICERS AND DIRECTORS,3,3
+ABT,2023,True,heading,9054.0,COMPENSATION COMMITTEE REPORT,10418.0,True,5117.0,20.0,SECURITY OWNERSHIP OF EXECUTIVE OFFICERS AND DIRECTORS,2,2
+ABT,2024,True,heading,9844.0,COMPENSATION COMMITTEE REPORT,10190.5,False,,,,0,0
+AMZN,2016,True,heading,6333.0,RATIFICATION OF THE APPOINTMENT OF 3. SHAREHOLDER PROPOSAL REGARDING SUSTAINABIL,3706.0,True,4266.0,8.0,Compensation Discussion and Analysis,3,3
+AMZN,2017,True,heading,2726.0,ITEM 7—SHAREHOLDER PROPOSAL REGARDING SUSTAINABILITY AS AN EXECUTIVE COMPENSATIO,4580.5,True,4903.0,11.0,Compensation Discussion and Analysis,3,3
+AMZN,2018,True,heading,2565.0,ITEM 6—SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PR,4580.5,True,4174.0,11.0,Compensation Discussion and Analysis,3,3
+AMZN,2019,True,heading,2710.0,Leadership Development and Compensation Committee Report,4580.5,True,15223.0,30.0,Compensation Discussion and Analysis,12,12
+AMZN,2020,True,heading,3513.0,Leadership Development and Compensation Committee Report,4580.5,True,19022.0,28.0,Compensation Discussion and Analysis,12,12
+AMZN,2021,True,heading,3899.0,Leadership Development and Compensation Committee Report,4387.5,True,26984.0,34.0,Compensation Discussion and Analysis,11,11
+AMZN,2022,True,heading,5262.0,Leadership Development and Compensation Committee Report,3706.0,True,38250.0,42.0,Compensation Discussion and Analysis,15,15
+AMZN,2023,True,heading,7379.0,Leadership Development and Compensation Committee Report,3706.0,True,38409.0,64.0,Compensation Discussion and Analysis,18,18
+AMZN,2024,True,heading,6787.0,Leadership Development and Compensation Committee Report,3706.0,True,36666.0,60.0,Compensation Discussion and Analysis,14,14
+AVGO,2016,True,heading,10439.0,Summary Compensation Table,10189.0,True,1964.0,2.0,,2,2
+AVGO,2017,True,heading,10304.0,COMPENSATION COMMITTEE REPORT,10244.0,True,1791.0,3.0,,4,3
+AVGO,2018,True,heading,11407.0,COMPENSATION COMMITTEE REPORT,10189.0,True,1637.0,2.0,,3,2
+AVGO,2019,True,heading,9693.0,COMPENSATION COMMITTEE REPORT,10359.0,False,,,,1,0
+AVGO,2020,True,heading,9812.0,COMPENSATION COMMITTEE REPORT,10359.0,False,,,,1,0
+AVGO,2021,True,heading,10669.0,COMPENSATION COMMITTEE REPORT,10189.0,False,,,,1,0
+AVGO,2022,True,heading,10414.0,COMPENSATION COMMITTEE REPORT,10189.0,False,,,,1,0
+AVGO,2023,True,heading,9518.0,"Security Ownership of Certain Beneficial Owners, Directors",10359.0,True,643.0,1.0,,1,1
+AVGO,2024,True,heading,10074.0,COMPENSATION COMMITTEE REPORT,10359.0,False,,,,1,0
+AXP,2016,True,heading,14147.0,ITEM 2,15429.0,True,8906.0,10.0,VOTING INFORMATION,6,4
+AXP,2017,True,heading,10284.0,of director compensation.,15429.0,True,7063.0,5.0,Additional Voting Information,4,2
+AXP,2018,True,heading+median_adjusted,10669.0,Summary Compensation Table* | TDC,14499.5,True,8001.0,3.0,Additional Voting Information,2,1
+AXP,2019,True,heading,14852.0,ITEM 2 | Ratification of Appointment of Independent Registered Public Accounting,15076.5,True,8452.0,7.0,Additional Voting Information,5,5
+AXP,2020,True,heading,16006.0,Item 2: Ratification of Appointment of Independent Registered Public Accounting ,14499.5,True,7616.0,5.0,Additional Voting Information,3,3
+AXP,2021,True,heading,19370.0,Item 2: Ratification of Appointment of Independent Registered Public Accounting ,14499.5,True,9983.0,6.0,Additional Voting Information,3,3
+AXP,2022,True,heading,19833.0,Item 2: Ratification of Appointment of Independent Registered Public Accounting ,14499.5,True,7064.0,6.0,Additional Voting Information,2,2
+AXP,2023,True,heading,7875.0,Summary Compensation Table* | Total Direct Compensation,15429.0,True,6801.0,6.0,Additional Voting Information,3,2
+AXP,2024,True,heading,9709.0,Summary Compensation Table* | Total Direct Compensation,15429.0,True,9546.0,12.0,Additional Voting Information,4,3
+BAC,2016,True,heading,11486.0,PROPOSAL 3: RATIFYING THE APPOINTMENT OF OUR INDEPENDENT REGISTERED PUBLIC ACCOU,10720.5,True,2236.0,3.0,"Voting Information for Registered Holders. If you are a registered holder, meani",2,1
+BAC,2017,True,heading,10072.0,"Proposal 2: Approving Our Executive Compensation (an Advisory, Non-binding ""Say",11198.0,True,8438.0,10.0,,5,4
+BAC,2018,True,heading,9852.0,Proposal 3: Ratifying the Appointment of Our Independent Registered Public Accou,11198.0,True,2330.0,4.0,,1,0
+BAC,2019,True,heading,11536.0,PROPOSAL 3: RATIFYING THE APPOINTMENT OF OUR INDEPENDENT REGISTERED PUBLIC ACCOU,10720.5,True,6275.0,6.0,,4,3
+BAC,2020,True,heading,10531.0,Proposal 3: Ratifying the appointment of our independent registered public accou,11198.0,True,9301.0,10.0,Voting information for registered holders. If,3,2
+BAC,2021,True,heading,9795.0,Proposal 3: Ratifying the appointment of our independent registered public accou,11198.0,True,11191.0,18.0,Voting information,3,2
+BAC,2022,True,heading,11971.0,Proposal 3: Ratifying the appointment of our independent registered public accou,10720.5,True,7247.0,10.0,,4,3
+BAC,2023,True,heading,10910.0,Pay versus performance table,11008.5,True,13861.0,14.0,,6,5
+BAC,2024,True,heading,12955.0,Summary compensation table,10720.5,True,8419.0,15.0,,5,4
+BLK,2016,True,heading,8188.0,2015 Summary Compensation Table,11056.0,True,7269.0,11.0,OTHER MATTERS,1,1
+BLK,2017,True,heading,9190.0,Summary of Executive Compensation Tables,11056.0,True,2704.0,15.0,Questions and Answers about the Annual Meeting and Voting,2,2
+BLK,2018,True,heading,10423.0,Summary of Executive Compensation Tables,11056.0,True,1644.0,8.0,Annual Meeting Information,1,1
+BLK,2019,True,heading,10301.0,Executive Compensation Tables,11056.0,True,2607.0,12.0,Annual Meeting Information,2,2
+BLK,2020,True,heading,10894.0,Executive Compensation Tables,10820.5,True,1748.0,5.0,Annual Meeting Information,1,1
+BLK,2021,True,heading,11218.0,Executive Compensation Tables,10658.5,True,3168.0,5.0,Annual Meeting Information,2,2
+BLK,2022,True,heading,11450.0,"""2021 Summary Compensation Table"" on page 85.",10658.5,True,1552.0,7.0,Annual Meeting Information,1,1
+BLK,2023,True,heading,13127.0,6. Executive Compensation Tables,10658.5,True,3966.0,16.0,Annual Meeting Information,3,3
+BLK,2024,True,heading,15125.0,2023 Summary Compensation Table,10658.5,True,3915.0,23.0,Annual Meeting Information,3,3
+BMY,2016,True,heading,8202.0,Summary Compensation Table under the Non-Equity Incentive Plan Compensation colu,14072.5,True,4307.0,4.0,OTHER MATTERS,2,2
+BMY,2017,True,heading,12901.0,Summary Compensation Table,13725.0,True,2775.0,3.0,OTHER MATTERS,2,1
+BMY,2018,True,heading,12206.0,Summary Compensation Table,14072.5,True,4377.0,5.0,OTHER MATTERS,3,2
+BMY,2019,True,heading,12157.0,Summary Compensation Table,14072.5,True,2588.0,3.0,OTHER MATTERS,2,1
+BMY,2020,True,heading,16843.0,Summary Compensation Table,12553.5,True,5059.0,8.0,,3,3
+BMY,2021,True,opening_sentence,15244.0,The Compensation and Management Development Committee of Bristol Myers Squibb ha,12553.5,True,5574.0,8.0,,2,1
+BMY,2022,True,opening_sentence,15685.0,The Compensation and Management Development Committee of Bristol Myers Squibb ha,12553.5,False,,,,2,0
+BMY,2023,True,heading,17240.0,Summary Compensation Table,12553.5,True,6256.0,9.0,,4,4
+BMY,2024,True,heading,4628.0,Item 1—Election of the Board of Directors,14072.5,True,17957.0,1.0,Audit Committee,1,0
+BRK.B,2016,True,heading_short,1864.0,2. | SHAREHOLDER PROPOSAL,2576.0,True,1073.0,2.0,3. | OTHER MATTERS,1,1
+BRK.B,2017,True,heading,2516.0,4. | SHAREHOLDER PROPOSAL,2576.0,True,2583.0,8.0,7. | OTHER MATTERS,5,4
+BRK.B,2018,True,heading,2318.0,2. | SHAREHOLDER PROPOSAL,2576.0,True,1886.0,5.0,4. | OTHER MATTERS,2,2
+BRK.B,2019,False,,,,,False,,,,0,0
+BRK.B,2020,True,heading,3387.0,4. | SHAREHOLDER PROPOSAL,2516.0,True,1995.0,4.0,5. | OTHER MATTERS,3,3
+BRK.B,2021,True,heading,2496.0,2. | SHAREHOLDER PROPOSAL,2576.0,True,2245.0,5.0,4. | OTHER MATTERS,2,2
+BRK.B,2022,True,heading,2645.0,Security Ownership of Certain Beneficial Owners,2516.0,True,3154.0,9.0,6. | OTHER MATTERS,4,4
+BRK.B,2023,True,heading,2576.0,Security Ownership of Directors and Executive Officers,2516.0,True,4368.0,14.0,10. | OTHER MATTERS,8,7
+BRK.B,2024,True,heading,2696.0,Security Ownership of Directors and Executive Officers,2516.0,True,4797.0,11.0,8. | OTHER MATTERS,6,6
+C,2016,True,heading+median_adjusted,5286.0,The Personnel and Compensation Committee Report,5185.5,True,8094.0,14.0,,6,6
+C,2017,True,heading+median_adjusted,13776.0,The Personnel and Compensation Committee Report,5185.5,True,7580.0,15.0,,6,6
+C,2018,True,heading,5009.0,(1) | Reported in the 2017 Summary Compensation Table.,8813.0,True,11791.0,26.0,,8,8
+C,2019,True,heading,2392.0,PROPOSAL 3: ADVISORY VOTE TO APPROVE CITI'S 2018 EXECUTIVE COMPENSATION | 77,8813.0,True,12786.0,25.0,,8,8
+C,2020,True,heading,5362.0,(1) | Reported in the 2019 Summary Compensation Table.,8636.5,True,5741.0,9.0,,3,3
+C,2021,True,heading,3270.0,PROPOSAL 3: ADVISORY VOTE TO APPROVE CITI'S 2020 EXECUTIVE COMPENSATION | 79,8813.0,True,7312.0,15.0,,5,4
+C,2022,True,heading,2662.0,PROPOSAL 3: ADVISORY VOTE TO APPROVE OUR 2021 EXECUTIVE COMPENSATION | 77,8813.0,True,7861.0,17.0,,5,4
+C,2023,True,heading+median_adjusted,4852.0,Pay Versus Performance,5185.5,True,7118.0,12.0,,4,4
+C,2024,True,heading+median_adjusted,5086.0,Pay Versus Performance,5185.5,True,8563.0,14.0,,6,6
+COP,2016,True,heading,14585.0,Executive Compensation Tables,15555.0,True,3731.0,5.0,Submission of Future Stockholder Proposals and Nominations,3,3
+COP,2017,True,heading,14777.0,Executive Compensation Tables,15555.0,True,3897.0,6.0,Submission of Future Stockholder Proposals and Nominations,4,4
+COP,2018,True,heading,10505.0,Human Resources and Compensation Committee Report,15555.0,True,3931.0,3.0,,2,2
+COP,2019,True,heading,15620.0,Human Resources and Compensation Committee Report,15133.5,True,1191.0,1.0,,1,1
+COP,2020,True,heading,16951.0,Human Resources and Compensation Committee Report,15133.5,True,1192.0,1.0,,1,1
+COP,2021,True,heading,17907.0,Human Resources and Compensation Committee Report,15133.5,True,5279.0,11.0,Available Information and Questions and Answers,3,3
+COP,2022,True,heading,15490.0,Human Resources and Compensation Committee Report,15198.5,True,9871.0,9.0,Could other matters be decided at the Annual Meeting?,4,4
+COP,2023,True,heading,15800.0,Executive Compensation Tables,15133.5,True,17209.0,12.0,Could other matters be decided at the Annual Meeting?,5,5
+COP,2024,True,heading,13628.0,Human Resources and Compensation Committee Report,15555.0,True,6434.0,5.0,Could other matters be decided at the Annual Meeting?,2,2
+CRM,2016,True,heading,9531.0,SUMMARY COMPENSATION TABLE,10912.0,True,7427.0,12.0,If any other matters,4,4
+CRM,2017,True,heading,10267.0,SUMMARY COMPENSATION TABLE,10912.0,True,4950.0,6.0,,3,2
+CRM,2018,True,heading,9324.0,SUMMARY COMPENSATION TABLE,10912.0,True,8378.0,16.0,,4,4
+CRM,2019,True,heading,10495.0,PROPOSAL 1 — ELECTION OF DIRECTORS,10798.0,True,7152.0,7.0,,3,3
+CRM,2020,True,heading,6159.0,Summary Compensation Table.,10912.0,True,4717.0,6.0,,2,2
+CRM,2021,True,heading,11384.0,SUMMARY COMPENSATION TABLE,10381.0,True,4718.0,6.0,,2,2
+CRM,2022,True,heading,11329.0,SUMMARY COMPENSATION TABLE,10381.0,True,3690.0,6.0,,3,2
+CRM,2023,True,heading,11336.0,SUMMARY COMPENSATION TABLE,10381.0,True,20319.0,15.0,SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS,4,3
+CRM,2024,True,heading,12590.0,SUMMARY COMPENSATION TABLE,10381.0,True,5865.0,18.0,,3,3
+CVX,2016,True,heading,10111.0,Summary Compensation Table,11188.0,True,16239.0,23.0,,11,11
+CVX,2017,True,heading,9842.0,Summary Compensation Table,11188.0,True,11959.0,18.0,,8,8
+CVX,2018,True,heading+median_adjusted,19634.0,Security Ownership of Certain Beneficial Owners and Management,10755.5,True,13570.0,18.0,,9,8
+CVX,2019,True,heading,10254.0,summary compensation table,11188.0,True,8907.0,14.0,,6,5
+CVX,2020,True,heading,10511.0,summary compensation table,11188.0,True,10831.0,22.0,,7,6
+CVX,2021,True,heading,11000.0,summary compensation table,10943.5,True,8631.0,18.0,,7,6
+CVX,2022,True,heading,11376.0,Summary compensation table,10755.5,True,9865.0,21.0,,9,8
+CVX,2023,True,heading,11550.0,summary compensation table,10755.5,True,9264.0,23.0,,9,8
+CVX,2024,True,heading,11673.0,summary compensation table,10755.5,True,4778.0,11.0,,5,4
+EOG,2016,True,heading,7676.0,Summary Compensation Table,6788.5,False,,,,1,0
+EOG,2017,True,heading,6776.0,Summary Compensation Table,7238.5,False,,,,1,0
+EOG,2018,True,heading,6447.0,Summary Compensation Table,7238.5,False,,,,1,0
+EOG,2019,True,heading,6801.0,Summary Compensation Table,7226.0,False,,,,1,0
+EOG,2020,True,heading,6655.0,Summary Compensation Table,7238.5,True,609.0,1.0,,1,1
+EOG,2021,True,heading,6651.0,Summary Compensation Table,7238.5,True,2252.0,2.0,,2,2
+EOG,2022,True,heading,7902.0,Summary Compensation Table,6788.5,False,,,,1,0
+EOG,2023,True,heading+median_adjusted,6579.0,Summary Compensation Table,6788.5,False,,,,1,0
+EOG,2024,True,heading+median_adjusted,7004.0,Summary Compensation Table,6788.5,False,,,,1,0
+F,2016,True,heading,8216.0,Proposal 4.,12760.5,True,6503.0,6.0,Questions and Answers About the Proxy Materials,4,3
+F,2017,True,heading,10606.0,COMPENSATION COMMITTEE REPORT,12760.5,True,4321.0,6.0,Questions and Answers About the Proxy Materials,4,3
+F,2018,True,heading,7558.0,Summary Compensation Table on p. 62).,12760.5,True,5587.0,10.0,Annual Report and Other Matters,7,6
+F,2019,True,heading,10697.0,COMPENSATION COMMITTEE REPORT,12760.5,True,7669.0,10.0,Questions and Answers About the Proxy Materials,7,6
+F,2020,True,heading,12055.0,COMPENSATION COMMITTEE REPORT,12081.5,True,4777.0,6.0,Questions and Answers About the Proxy Materials,4,3
+F,2021,True,heading,14077.0,(d) of the Summary Compensation Table on p. 80.,11376.0,True,3575.0,4.0,Questions and Answers About the Proxy Materials,3,2
+F,2022,True,heading,16116.0,Proposal 1. Election of Directors,11376.0,True,6094.0,6.0,Annual Report and Other Matters,5,4
+F,2023,True,heading,13466.0,Proposal 1. Election of Directors,11376.0,True,5016.0,10.0,Annual Report and Other Matters,7,5
+F,2024,True,heading,15868.0,Proposal 1. Election of Directors,11376.0,True,5849.0,10.0,Annual Report and Other Matters,6,5
+GOOGL,2016,True,heading,13258.0,Approval of the stockholder proposal,9005.0,True,14846.0,20.0,"(1) | an Audit Committee,",6,6
+GOOGL,2017,True,heading,11976.0,STOCKHOLDER PROPOSALS,9005.0,True,15665.0,23.0,"1. | an Audit Committee,",8,7
+GOOGL,2018,True,heading,3112.0,Development and Compensation Committee Report,10689.0,True,15691.0,17.0,IMPORTANT ANNUAL MEETING INFORMATION | 000004 | 000000000.000000 ext 000000000.0,7,7
+GOOGL,2019,True,heading,11004.0,STOCKHOLDER PROPOSALS,9005.0,True,14563.0,37.0,"As recent examples, our Audit Committee has considered",13,13
+GOOGL,2020,True,heading,2534.0,——SUMMARY COMPENSATION TABLE The following table,10689.0,True,10971.0,24.0,QUESTIONS AND ANSWERS ABOUT THE PROXY MATERIALS AND THE,11,11
+GOOGL,2021,True,heading,10374.0,STOCKHOLDER PROPOSALS,9320.0,True,11898.0,21.0,— | VOTING INFORMATION,9,9
+GOOGL,2022,True,heading,11364.0,STOCKHOLDER PROPOSALS,9005.0,True,26074.0,52.0,— | VOTING INFORMATION,17,17
+GOOGL,2023,True,heading,7636.0,STOCKHOLDER PROPOSALS,10689.0,True,22004.0,56.0,"As codified in its charter, the Audit Committee",12,12
+GOOGL,2024,True,heading,5637.0,Alphabet Pay vs. Performance,10689.0,True,20551.0,42.0,The broad risk oversight areas in the Audit Committee,11,11
+GS,2016,True,heading,9287.0,Item 2. An Advisory Vote to Approve Executive Compensation (Say on Pay),11043.5,True,9951.0,20.0,Frequently Asked Questions,4,4
+GS,2017,True,heading,11173.0,Item 2. An Advisory Vote to Approve,10817.0,True,2340.0,3.0,,3,3
+GS,2018,True,heading,10209.0,2017 SUMMARY COMPENSATION TABLE,11043.5,True,12988.0,17.0,Frequently Asked Questions,6,6
+GS,2019,True,heading,10489.0,2018 SUMMARY COMPENSATION TABLE,11043.5,True,8407.0,9.0,Frequently Asked Questions,3,3
+GS,2020,True,heading+median_adjusted,8780.0,2019 Summary Compensation Table,10817.0,True,10747.0,16.0,FREQUENTLY ASKED QUESTIONS,4,4
+GS,2021,True,heading,11555.0,Non-Employee Director Compensation,10817.0,True,18573.0,42.0,FREQUENTLY ASKED QUESTIONS,11,11
+GS,2022,True,heading,11639.0,Summary Compensation Table.,10817.0,True,12503.0,32.0,FREQUENTLY ASKED QUESTIONS,5,5
+GS,2023,True,heading,10720.0,2022 SUMMARY COMPENSATION TABLE,11043.5,True,18297.0,67.0,FREQUENTLY ASKED QUESTIONS,11,11
+GS,2024,True,heading,10914.0,2023 SUMMARY COMPENSATION TABLE,10946.5,True,18780.0,80.0,FREQUENTLY ASKED QUESTIONS,11,11
+HAL,2016,True,heading,10550.0,Stockholder Proposals for the 2017 Annual Meeting,10412.5,True,2311.0,2.0,,2,2
+HAL,2017,True,heading,10785.0,PROPOSAL NO. 4 | PROPOSAL FOR ADVISORY VOTE ON THE FREQUENCY OF FUTURE ADVISORY ,10412.5,True,5107.0,3.0,,3,3
+HAL,2018,True,heading,10341.0,Stockholder Proposals for the 2019 Annual,10517.0,True,422.0,1.0,,1,1
+HAL,2019,True,heading,8761.0,Summary Compensation Table,10517.0,True,487.0,1.0,,1,1
+HAL,2020,True,heading,8987.0,Summary Compensation Table,10517.0,True,472.0,1.0,,1,1
+HAL,2021,True,heading,12065.0,Proposal No. 5 Proposal,10412.5,True,472.0,1.0,,1,1
+HAL,2022,True,heading,2957.0,A Closer Look at the Summary Compensation Table,10517.0,True,469.0,1.0,,1,1
+HAL,2023,True,heading,11340.0,Summary Compensation Table,10412.5,True,2820.0,2.0,,2,2
+HAL,2024,True,heading,10484.0,Summary Compensation Table,10445.5,True,777.0,1.0,,1,1
+HD,2016,True,heading,7674.0,SUMMARY COMPENSATION TABLE,8427.0,True,10330.0,8.0,SUMMARY COMPENSATION TABLE,3,3
+HD,2017,True,heading,8045.0,SUMMARY COMPENSATION TABLE,8427.0,True,10887.0,12.0,SUMMARY COMPENSATION TABLE,4,3
+HD,2018,True,heading,8087.0,SUMMARY COMPENSATION TABLE,8427.0,True,14879.0,21.0,SUMMARY COMPENSATION TABLE,6,5
+HD,2019,True,heading,7663.0,SUMMARY COMPENSATION TABLE,8427.0,True,11661.0,17.0,SUMMARY COMPENSATION TABLE,5,4
+HD,2020,True,heading,8362.0,SUMMARY COMPENSATION TABLE,8289.5,True,13648.0,29.0,SUMMARY COMPENSATION TABLE,5,4
+HD,2021,True,heading,8670.0,SUMMARY COMPENSATION TABLE,8224.5,True,12451.0,22.0,SUMMARY COMPENSATION TABLE,3,2
+HD,2022,True,heading,8492.0,SUMMARY COMPENSATION TABLE,8224.5,True,16776.0,37.0,SUMMARY COMPENSATION TABLE,6,5
+HD,2023,True,heading,9847.0,SUMMARY COMPENSATION TABLE,8224.5,True,16415.0,28.0,SUMMARY COMPENSATION TABLE,5,4
+HD,2024,True,heading,8498.0,SUMMARY COMPENSATION TABLE,8224.5,True,16469.0,33.0,SUMMARY COMPENSATION TABLE,6,5
+IBM,2016,True,heading,7143.0,2015 SUMMARY COMPENSATION TABLE NARRATIVE,8513.0,True,3379.0,7.0,FREQUENTLY ASKED QUESTIONS,3,3
+IBM,2017,True,heading,7229.0,2016 SUMMARY COMPENSATION TABLE NARRATIVE,8513.0,True,2971.0,8.0,FREQUENTLY ASKED QUESTIONS,4,3
+IBM,2018,True,heading,8285.0,2017 Summary Compensation Table Narrative,8513.0,True,3055.0,9.0,Frequently Asked Questions,3,3
+IBM,2019,True,heading,8095.0,2018 Summary Compensation Table and Related Narrative,8513.0,True,2725.0,2.0,,2,1
+IBM,2020,True,heading,8335.0,2019 Summary Compensation Table and Related Narrative,8488.0,True,3729.0,5.0,Frequently Asked Questions,2,2
+IBM,2021,True,heading+median_adjusted,10028.0,2020 Summary Compensation Table and Related Narrative,8310.0,True,3718.0,3.0,Frequently Asked Questions,2,1
+IBM,2022,True,heading,9950.0,2021 Summary Compensation Table and Related Narrative,8310.0,True,3862.0,7.0,Frequently Asked Questions,2,1
+IBM,2023,True,heading,8839.0,2022 Summary Compensation Table and Related Narrative,8310.0,True,5343.0,11.0,Frequently Asked Questions,4,3
+IBM,2024,True,heading,8691.0,2023 Summary Compensation Table and Related Narrative,8310.0,True,7178.0,10.0,Frequently Asked Questions,5,5
+INTC,2016,True,heading,9580.0,STOCKHOLDER PROPOSALS,13129.5,True,5599.0,14.0,OTHER MATTERS,3,3
+INTC,2017,True,heading,10724.0,PROPOSAL 4:,13129.5,True,4944.0,9.0,OTHER MATTERS,2,2
+INTC,2018,True,heading,9528.0,2017 SUMMARY COMPENSATION TABLE,13129.5,True,6308.0,10.0,OTHER MATTERS,1,1
+INTC,2019,True,heading,11793.0,2018 SUMMARY COMPENSATION TABLE,12595.0,True,8644.0,12.0,OTHER MATTERS,3,3
+INTC,2020,True,heading,4185.0,PROPOSAL 1,13129.5,True,4788.0,5.0,OTHER MATTERS,1,1
+INTC,2021,True,heading,14976.0,2020 Summary Compensation Table,11258.5,True,8288.0,9.0,120 | Other Matters | 2021 PROXY STATEMENT,2,2
+INTC,2022,True,heading,18240.0,Executive Compensation Tables,11258.5,True,6380.0,8.0,Other Matters,1,1
+INTC,2023,True,heading,14933.0,Executive Compensation Tables,11258.5,True,5983.0,7.0,Other Matters,1,1
+INTC,2024,True,heading,14466.0,Executive Compensation Tables,11258.5,True,6267.0,11.0,Other Matters,2,2
+JNJ,2016,True,heading,9841.0,Executive Compensation Tables,11487.0,True,4730.0,6.0,Other Matters,3,3
+JNJ,2017,True,heading,9461.0,Executive Compensation Tables,11487.0,True,1692.0,2.0,Other Matters,1,1
+JNJ,2018,True,heading,10390.0,Executive Compensation Tables,11487.0,True,2175.0,3.0,Other Matters,2,2
+JNJ,2019,True,heading,10424.0,Executive Compensation Tables,11487.0,True,2791.0,5.0,General Information,2,2
+JNJ,2020,True,heading,11519.0,Executive Compensation Tables,10939.5,True,3468.0,6.0,General Information,2,2
+JNJ,2021,True,heading,11794.0,Executive Compensation Tables,10939.5,True,7883.0,8.0,General Information,4,4
+JNJ,2022,True,heading,12377.0,Executive Compensation Tables,10939.5,True,21273.0,26.0,General Information,11,11
+JNJ,2023,True,heading,11909.0,Executive Compensation Tables,10939.5,True,5658.0,9.0,General Information,4,4
+JNJ,2024,True,heading,11455.0,Executive compensation tables,10971.5,True,3158.0,6.0,Other matters,2,2
+JPM,2016,True,heading,11944.0,Executive compensation tables,15892.5,True,8420.0,18.0,General information about the meeting,6,6
+JPM,2017,True,heading,12586.0,Executive compensation tables,15892.5,True,7033.0,23.0,General information about the meeting,6,6
+JPM,2018,True,heading,12239.0,Executive compensation tables,15892.5,True,4636.0,10.0,Information about the annual shareholder meeting,4,4
+JPM,2019,True,heading,12679.0,Executive compensation tables,15892.5,True,3974.0,8.0,ANNUAL MEETING INFORMATION,4,4
+JPM,2020,True,heading,15476.0,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,14494.0,True,8814.0,15.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,5,5
+JPM,2021,True,heading,18345.0,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,14077.5,True,5381.0,12.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,3,3
+JPM,2022,True,heading,19787.0,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,14077.5,True,8635.0,17.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,5,5
+JPM,2023,True,heading,16309.0,EXECUTIVE COMPENSATION TABLES | EXECUTIVE COMPENSATION,14077.5,True,14739.0,30.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,7,7
+JPM,2024,True,heading,16437.0,EXECUTIVE COMPENSATION | EXECUTIVE COMPENSATION TABLES,14077.5,True,12929.0,46.0,INFORMATION ABOUT THE ANNUAL SHAREHOLDER MEETING,8,8
+LLY,2016,True,heading,6010.0,Summary Compensation Table,8133.0,True,2542.0,4.0,Other Matters,1,1
+LLY,2017,True,heading,6437.0,Summary Compensation Table,8133.0,True,2726.0,2.0,Other Matters,1,1
+LLY,2018,True,heading,6535.0,Summary Compensation Table,8133.0,True,5181.0,10.0,Other Matters,3,3
+LLY,2019,True,heading,8906.0,Summary Compensation Table,7743.0,True,2933.0,3.0,Other Matters,1,1
+LLY,2020,True,heading,7429.0,Summary Compensation Table,8133.0,True,9142.0,14.0,Other Matters,7,7
+LLY,2021,True,heading,8057.0,Summary Compensation Table,7819.0,True,7468.0,11.0,Other Matters,4,4
+LLY,2022,True,heading,9027.0,Summary Compensation Table,7743.0,True,9887.0,10.0,Other Matters,4,4
+LLY,2023,True,heading,8209.0,Summary Compensation Table,7743.0,True,13450.0,17.0,Other Matters,6,6
+LLY,2024,True,heading,9016.0,Summary Compensation Table,7743.0,True,9146.0,9.0,Other Matters,4,4
+LOW,2016,True,heading,7495.0,Summary Compensation Table,9055.5,True,2941.0,4.0,,3,2
+LOW,2017,True,heading,7464.0,Summary Compensation Table,9055.5,True,1791.0,3.0,SHAREHOLDER PROPOSALS FOR THE 2018 ANNUAL MEETING,2,1
+LOW,2018,True,heading,9415.0,Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation,8503.0,False,,,,2,0
+LOW,2019,True,heading,12633.0,Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation,8503.0,False,,,,1,0
+LOW,2020,True,heading,8734.0,Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation,8824.5,True,1659.0,2.0,,2,0
+LOW,2021,True,heading,9377.0,Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation,8503.0,False,,,,1,0
+LOW,2022,True,heading,9580.0,Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation in Fis,8503.0,True,7252.0,15.0,General Information,5,4
+LOW,2023,True,heading,8221.0,VI. COMPENSATION COMMITTEE REPORT,9055.5,False,,,,1,0
+LOW,2024,True,heading,8272.0,COMPENSATION COMMITTEE REPORT,9055.5,False,,,,1,0
+MCD,2016,True,heading,5135.0,Summary compensation table,6389.0,True,7419.0,51.0,Security ownership of certain beneficial owners,6,6
+MCD,2017,False,,,,,True,24172.0,54.0,SUMMARY COMPENSATION TABLE,7,7
+MCD,2018,True,heading,5211.0,SUMMARY COMPENSATION TABLE,6389.0,True,4815.0,27.0,SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS,2,2
+MCD,2019,True,heading,5452.0,SUMMARY COMPENSATION TABLE,6389.0,True,2376.0,9.0,SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS,0,0
+MCD,2020,True,heading,6389.0,SUMMARY COMPENSATION TABLE,5452.0,True,3808.0,16.0,SECURITY OWNERSHIP OF MANAGEMENT,2,2
+MCD,2021,True,heading,5216.0,Summary Compensation Table,6389.0,True,5401.0,21.0,Security Ownership of Management,2,2
+MCD,2022,True,heading,6706.0,2021 Summary Compensation Table,5452.0,True,13406.0,54.0,Security Ownership of Management,6,6
+MCD,2023,True,heading,8537.0,2022 Summary Compensation Table,5452.0,True,10850.0,38.0,Security Ownership of Certain Beneficial Owners,7,7
+MCD,2024,True,heading,7919.0,2023 Summary Compensation Table,5452.0,True,8991.0,29.0,Security Ownership of Management,4,4
+MDT,2016,True,heading,13762.0,PROPOSAL 2 — RATIFICATION OF INDEPENDENT AUDITOR AND AUTHORIZATION,10645.0,True,15056.0,15.0,,8,8
+MDT,2017,True,heading,9299.0,2017 Summary Compensation Table,11986.0,True,2973.0,2.0,,2,2
+MDT,2018,True,heading,19714.0,PROPOSAL 2 — NON-BINDING RATIFICATION OF INDEPENDENT AUDITOR AND BINDING AUTHORI,10645.0,True,2967.0,2.0,,2,2
+MDT,2019,True,heading,9964.0,2019 Summary Compensation Table,11986.0,True,4625.0,5.0,,5,5
+MDT,2020,True,heading,11326.0,PROPOSAL 2 – NON-BINDING RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITOR AND ,11305.0,True,3669.0,5.0,,5,5
+MDT,2021,True,heading,12828.0,COMPENSATION COMMITTEE REPORT,10645.0,True,4576.0,5.0,,5,5
+MDT,2022,True,heading,12646.0,Proposal 2,10645.0,True,3405.0,5.0,,5,5
+MDT,2023,True,heading,8137.0,Compensation Committee Report,11986.0,True,4607.0,4.0,,6,4
+MDT,2024,True,heading,8602.0,Compensation Committee Report,11986.0,True,2171.0,3.0,,5,3
+META,2016,True,heading,5912.0,2015 Summary Compensation Table,7169.0,True,17625.0,19.0,,9,9
+META,2017,True,heading,5721.0,2016 Summary Compensation Table,7169.0,True,5259.0,15.0,,5,5
+META,2018,True,heading,5748.0,2017 Summary Compensation Table,7169.0,True,6054.0,21.0,,6,6
+META,2019,True,heading,7015.0,2018 Summary Compensation Table,6920.5,True,7756.0,23.0,OTHER MATTERS,9,8
+META,2020,True,heading,7727.0,2019 Summary Compensation Table,6766.5,True,11328.0,21.0,OTHER MATTERS,9,9
+META,2021,True,heading,7626.0,2020 SUMMARY COMPENSATION TABLE,6766.5,True,8750.0,18.0,Questions and Answers About the Proxy Materials and the Annual Meeting,6,6
+META,2022,True,heading,7704.0,2021 SUMMARY COMPENSATION TABLE,6766.5,True,13089.0,33.0,Questions and Answers About the Proxy Materials and the Annual Meeting,13,12
+META,2023,True,heading,7323.0,2022 SUMMARY COMPENSATION TABLE,6766.5,True,16913.0,42.0,Questions and Answers About the Proxy Materials and the Annual Meeting,11,11
+META,2024,True,heading,6518.0,2023 SUMMARY COMPENSATION TABLE,7169.0,True,16414.0,34.0,Questions and Answers About the Proxy Materials and the Annual Meeting,10,10
+MPC,2016,True,heading,13795.0,2015 Summary Compensation Table,10522.0,True,5438.0,8.0,Audit Committee,4,4
+MPC,2017,True,heading,12115.0,2016 Summary Compensation Table,10522.0,True,5120.0,13.0,Audit Committee Report,4,3
+MPC,2018,True,heading,13623.0,2017 Summary Compensation Table,10522.0,True,1126.0,2.0,Audit Committee Report,2,1
+MPC,2019,True,heading,10542.0,Compensation Committee Report,10522.0,True,2849.0,7.0,Questions and Answers About the Annual Meeting,2,2
+MPC,2020,True,heading,9477.0,Executive Compensation Tables,10542.0,True,2173.0,10.0,Security Ownership by Management,3,3
+MPC,2021,True,opening_sentence,10522.0,The Compensation and Organization Development Committee has reviewed and discuss,10542.0,True,4109.0,5.0,Security Ownership by Management,2,2
+MPC,2022,True,opening_sentence,10334.0,The Compensation and Organization Development Committee has reviewed and discuss,10542.0,True,5964.0,14.0,Security Ownership of Management,3,3
+MPC,2023,True,opening_sentence,8765.0,The Compensation and Organization Development Committee has reviewed and discuss,10542.0,True,7175.0,27.0,Security Ownership of Management,4,4
+MPC,2024,False,,,,,True,3765.0,10.0,Security Ownership of Management,1,1
+MRK,2016,True,heading,8356.0,SUMMARY COMPENSATION TABLE,8086.0,True,6477.0,9.0,OTHER MATTERS,3,3
+MRK,2017,True,heading,8086.0,SUMMARY COMPENSATION TABLE,8128.0,True,6747.0,12.0,QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING AND,5,4
+MRK,2018,True,heading,4476.0,SUMMARY COMPENSATION TABLE,8128.0,True,1619.0,4.0,QUESTIONS AND ANSWERS ABOUT THE,1,1
+MRK,2019,True,heading,11339.0,PROPOSAL 3 PROPOSAL TO ADOPT THE 2019 INCENTIVE STOCK PLAN,8086.0,True,4380.0,8.0,QUESTIONS AND ANSWERS ABOUT THE ANNUAL MEETING AND VOTING,3,2
+MRK,2020,True,heading,5947.0,Summary Compensation Table,8128.0,True,2660.0,6.0,Questions and Answers About the Annual Meeting and Voting,2,1
+MRK,2021,True,heading,6851.0,Summary Compensation Table,8128.0,True,3195.0,6.0,Questions and Answers About the Annual Meeting and Voting,2,1
+MRK,2022,True,heading,9255.0,Summary Compensation Table | 63,8086.0,True,4658.0,13.0,Questions and Answers About the Annual Meeting and Voting,3,2
+MRK,2023,True,heading,8128.0,Summary Compensation Table,8086.0,True,9837.0,19.0,Questions and Answers about the Annual Meeting and Voting,6,5
+MRK,2024,False,,,,,True,4650.0,8.0,Questions and Answers about the 2024 Annual Meeting and Voting | | | | | | 97,3,2
+MS,2016,True,heading,11962.0,Item 4,9413.0,True,5403.0,17.0,We do not know of any other matters that,3,3
+MS,2017,True,heading,11378.0,Item 4,9413.0,True,5586.0,15.0,QUESTIONS AND ANSWERS,4,4
+MS,2018,True,heading,6196.0,"""2017 Summary Compensation Table.""",10020.0,True,1549.0,9.0,INFORMATION ABOUT THE ANNUAL MEETING,2,1
+MS,2019,True,heading,8619.0,2018 Summary Compensation Table,10020.0,True,2430.0,8.0,INFORMATION ABOUT THE ANNUAL MEETING,2,1
+MS,2020,True,heading,8463.0,2019 Summary Compensation Table,10020.0,True,711.0,1.0,,1,1
+MS,2021,True,heading,10456.0,2020 Summary Compensation Table,9413.0,False,,,,1,0
+MS,2022,True,heading,9584.0,2021 Summary Compensation Table,9849.0,True,3088.0,10.0,Information About the Annual Meeting,3,2
+MS,2023,True,heading,9242.0,2022 Summary Compensation Table,10020.0,True,5135.0,13.0,Information About the Annual Meeting,2,1
+MS,2024,True,heading,14613.0,2023 Summary Compensation Table,9413.0,True,11147.0,30.0,Information About the Annual Meeting,7,6
+MSFT,2016,True,heading,8765.0,Compensation Committee report,11506.0,True,2178.0,6.0,7. Information about the meeting,2,1
+MSFT,2017,True,heading,8186.0,Summary compensation table,11506.0,False,,,,1,0
+MSFT,2018,True,opening_sentence,8245.0,The Compensation Committee has reviewed and discussed with management the Compen,11506.0,False,,,,1,0
+MSFT,2019,True,heading,8837.0,Compensation Committee Report,11506.0,True,3526.0,6.0,5. Information About the Meeting,3,2
+MSFT,2020,True,heading,11758.0,Summary Compensation Table,10050.0,True,1588.0,4.0,5. Information About the Meeting,2,1
+MSFT,2021,True,heading,11749.0,Summary Compensation Table,10050.0,True,5980.0,16.0,5. Information About the Meeting,6,5
+MSFT,2022,True,heading,12412.0,Summary Compensation Table,10050.0,True,7005.0,16.0,5. Information About the Meeting,7,6
+MSFT,2023,True,heading,11263.0,Compensation Committee Report,10293.0,True,10958.0,23.0,5. Information About the Meeting,10,9
+MSFT,2024,True,heading,12787.0,Compensation Committee Report,10050.0,True,8697.0,15.0,5. Information About the Meeting,7,6
+NKE,2016,True,heading,8618.0,PROPOSAL 2,8212.5,True,2120.0,4.0,,1,1
+NKE,2017,True,heading,8016.0,PROPOSAL 2,8466.5,True,2068.0,4.0,,3,1
+NKE,2018,True,heading,9160.0,PROPOSAL 2,8212.5,True,2263.0,5.0,,2,2
+NKE,2019,True,heading,8524.0,PROPOSAL 3 RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTI,8212.5,False,,,,1,0
+NKE,2020,True,heading,7845.0,COMPENSATION COMMITTEE REPORT,8466.5,True,3130.0,4.0,OTHER MATTERS,3,1
+NKE,2021,True,heading,9970.0,COMPENSATION COMMITTEE REPORT,8212.5,True,10025.0,12.0,OTHER MATTERS,5,4
+NKE,2022,True,heading,8409.0,COMPENSATION COMMITTEE REPORT,8270.0,True,3642.0,3.0,OTHER MATTERS,3,1
+NKE,2023,True,heading,7849.0,COMPENSATION COMMITTEE REPORT,8466.5,True,6493.0,7.0,OTHER MATTERS AT THE MEETING,3,2
+NKE,2024,True,heading,5885.0,COMPENSATION COMMITTEE REPORT,8466.5,True,9045.0,15.0,OTHER MATTERS AT THE MEETING,6,5
+NVDA,2016,True,heading,8564.0,"Summary Compensation Table for Fiscal Years 2016, 2015 and 2014",7067.0,False,,,,1,0
+NVDA,2017,True,heading,8818.0,"Summary Compensation Table for Fiscal 2017, 2016 and 2015",7067.0,True,1202.0,1.0,,2,1
+NVDA,2018,True,heading,6771.0,"Summary Compensation Table for Fiscal 2018, 2017, and 2016",7754.5,False,,,,1,0
+NVDA,2019,True,heading,7221.0,"Summary Compensation Table for Fiscal 2019, 2018, and 2017",7600.5,False,,,,2,0
+NVDA,2020,True,heading,6236.0,"Summary Compensation Table for Fiscal 2020, 2019, and 2018",7754.5,False,,,,1,0
+NVDA,2021,True,heading,6266.0,"Summary Compensation Table for Fiscal 2021, 2020, and 2019",7754.5,False,,,,1,0
+NVDA,2022,True,heading,6913.0,"Summary Compensation Table for Fiscal 2022, 2021, and 2020",7754.5,False,,,,1,0
+NVDA,2023,True,heading,8288.0,"Summary Compensation Table for Fiscal 2023, 2022 and 2021",7067.0,True,1249.0,1.0,,2,1
+NVDA,2024,True,heading,8630.0,"Summary Compensation Table for Fiscal 2024, 2023, and 2022",7067.0,True,1894.0,2.0,Other Matters,1,0
+ORCL,2016,True,heading,9802.0,Fiscal 2016 Summary Compensation Table,9216.5,True,2983.0,4.0,STOCKHOLDER PROPOSALS FOR THE 2017 ANNUAL MEETING,2,2
+ORCL,2017,True,heading,10100.0,Fiscal 2017 Summary Compensation Table,9216.5,True,6613.0,13.0,STOCKHOLDER PROPOSALS FOR THE 2018 ANNUAL MEETING,5,4
+ORCL,2018,True,heading,6598.0,PROPOSAL NO. 1,9439.5,True,4965.0,9.0,STOCKHOLDER PROPOSALS FOR THE 2019 ANNUAL MEETING,4,3
+ORCL,2019,True,heading,9585.0,Fiscal 2019 Summary Compensation Table,9216.5,True,2721.0,3.0,STOCKHOLDER PROPOSALS FOR THE 2020 ANNUAL MEETING,2,1
+ORCL,2020,True,heading,8395.0,Compensation Committee Report,9439.5,True,1696.0,3.0,Committee and 50% of the Audit Committee.,2,1
+ORCL,2021,True,heading,15001.0,PROPOSAL NO. 1,9216.5,True,5479.0,10.0,STOCKHOLDER PROPOSALS FOR THE 2022 ANNUAL MEETING,3,2
+ORCL,2022,True,heading,9139.0,Compensation Committee Report,9439.5,True,1445.0,1.0,,1,1
+ORCL,2023,True,heading,8604.0,Compensation Committee Report,9439.5,True,6761.0,8.0,STOCKHOLDER PROPOSALS FOR THE 2024 ANNUAL MEETING,4,3
+ORCL,2024,True,heading,9294.0,Compensation Committee Report,9362.0,True,1492.0,2.0,STOCKHOLDER PROPOSALS FOR THE 2025 ANNUAL MEETING,2,1
+OXY,2016,True,heading,10831.0,Compensation Committee Report,11277.0,True,3863.0,13.0,GENERAL INFORMATION,5,4
+OXY,2017,True,heading,10413.0,Compensation Committee Report,11277.0,True,5326.0,9.0,GENERAL INFORMATION,5,5
+OXY,2018,True,heading,16362.0,DIRECTOR COMPENSATION,10920.0,True,5901.0,5.0,,5,5
+OXY,2019,True,heading,8678.0,Compensation Committee Report,11277.0,True,2884.0,5.0,Stockholder Proposals for the 2020 Annual Meeting,2,1
+OXY,2020,True,heading,11825.0,Compensation Committee Report,10920.0,False,,,,5,0
+OXY,2021,True,heading,11009.0,Compensation Committee Report,11188.0,False,,,,1,0
+OXY,2022,True,heading,10101.0,Executive Compensation Tables,11277.0,True,18905.0,6.0,This Compensation Discussion,2,2
+OXY,2023,True,heading,11545.0,Compensation Committee Report,10920.0,True,484.0,1.0,,1,1
+OXY,2024,True,heading,11923.0,Compensation Committee Report,10920.0,True,10425.0,7.0,AUDIT COMMITTEE,2,1
+PFE,2016,True,heading,2708.0,NEO 2015 PERFORMANCE YEAR TDC AND SUMMARY COMPENSATION TABLE,12523.5,True,4626.0,10.0,Annual Meeting Information,4,4
+PFE,2017,True,heading,2915.0,TDC versus the Summary Compensation Table:,12523.5,True,4799.0,10.0,Annual Meeting Information,4,4
+PFE,2018,True,heading+median_adjusted,15771.0,2017 Summary Compensation Table,8043.5,True,5714.0,11.0,ANNUAL MEETING INFORMATION,3,2
+PFE,2019,True,heading,4103.0,2018 NEO PERFORMANCE-YEAR TDC AND SUMMARY COMPENSATION TABLE,12523.5,True,6020.0,14.0,Annual Meeting Information,5,4
+PFE,2020,True,heading+median_adjusted,15548.0,2019 Summary Compensation Table,8043.5,True,7664.0,12.0,Annual Meeting Information,5,5
+PFE,2021,True,heading,4063.0,2020 NEO PERFORMANCE-YEAR TDC AND SUMMARY COMPENSATION TABLE TDC,12523.5,True,4136.0,13.0,Annual Meeting Information,3,2
+PFE,2022,True,heading,11984.0,Summary Compensation Table,8583.0,True,8551.0,21.0,Annual Meeting Information,5,4
+PFE,2023,True,heading,13692.0,Summary Compensation Table,8043.5,True,9411.0,29.0,Annual Meeting Information,5,4
+PFE,2024,True,heading,13063.0,SUMMARY COMPENSATION TABLE,8043.5,True,5613.0,16.0,Annual Meeting Information,4,3
+PSX,2016,True,heading,10334.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9130.0,True,700.0,1.0,,1,1
+PSX,2017,True,heading,8847.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9700.0,True,707.0,1.0,,1,1
+PSX,2018,True,heading,10822.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9130.0,True,848.0,1.0,,1,1
+PSX,2019,True,heading,8600.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9700.0,True,3870.0,7.0,Could other matters be decided at the Annual Meeting?,2,2
+PSX,2020,True,heading,8653.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9700.0,True,3194.0,7.0,,2,2
+PSX,2021,True,heading,9919.0,AND COMPENSATION COMMITTEE REPORT summarizes certain Compensation Committee acti,9130.0,True,7219.0,16.0,Could other matters be decided at the Annual Meeting?,3,3
+PSX,2022,False,,,,,True,9611.0,12.0,Could other matters be decided at the Annual Meeting?,3,3
+PSX,2023,True,heading,9700.0,Human Resources and Compensation Committee Report,9130.0,True,6401.0,11.0,Could other matters be decided at the Annual Meeting?,2,2
+PSX,2024,True,heading,9130.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,9700.0,True,6186.0,12.0,Could other matters be decided at the Annual Meeting?,2,2
+SBUX,2016,True,heading,9063.0,COMPENSATION COMMITTEE REPORT,11267.0,True,9206.0,13.0,• | Voting Information Form;,3,2
+SBUX,2017,True,heading,11366.0,COMPENSATION COMMITTEE REPORT,11115.0,True,9231.0,7.0,Voting Information Form;,2,1
+SBUX,2018,True,heading,9568.0,Compensation Committee Report,11267.0,True,12040.0,22.0,• | Voting Information Form;,5,4
+SBUX,2019,True,heading,11062.0,COMPENSATION COMMITTEE REPORT,11267.0,True,9664.0,13.0,• | Voting Information Form;,3,3
+SBUX,2020,True,heading,10277.0,Executive Compensation Tables,11267.0,True,7697.0,5.0,● | Voting Information Form;,2,1
+SBUX,2021,True,heading,11168.0,Executive Compensation Tables,11214.0,True,5061.0,5.0,,2,1
+SBUX,2022,True,heading,15517.0,Executive Compensation Tables,11115.0,True,12933.0,8.0,VOTING INFORMATION,3,3
+SBUX,2023,True,heading,15500.0,Executive Compensation Tables,11115.0,True,7565.0,20.0,,6,5
+SBUX,2024,True,heading,13652.0,EXECUTIVE COMPENSATION TABLES,11115.0,True,10369.0,24.0,"Additional retainer—Audit Committee chair* | $30,000",4,3
+SCHW,2016,True,heading,5497.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,6396.0,True,2436.0,7.0,INFORMATION ABOUT VOTING PROCEDURES AND PROXIES,3,2
+SCHW,2017,True,heading,5865.0,EXECUTIVE COMPENSATION TABLES,6396.0,True,5103.0,15.0,INFORMATION ABOUT VOTING PROCEDURES AND PROXIES,5,5
+SCHW,2018,True,heading,5632.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,6396.0,True,3240.0,9.0,INFORMATION ABOUT VOTING PROCEDURES AND PROXIES,3,3
+SCHW,2019,True,heading,4428.0,Summary Compensation Table.,6396.0,True,2318.0,5.0,INFORMATION ABOUT VOTING PROCEDURES AND PROXIES,2,2
+SCHW,2020,True,heading,5940.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,6358.5,True,4835.0,8.0,,3,3
+SCHW,2021,True,heading,6852.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,5902.5,True,3813.0,6.0,,3,3
+SCHW,2022,True,heading,7599.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,5902.5,True,4778.0,7.0,,3,2
+SCHW,2023,True,heading,7103.0,COMPENSATION COMMITTEE REPORT The Compensation Committee has reviewed and discus,5902.5,True,4255.0,6.0,Voting Procedures and Other Information,3,2
+SCHW,2024,True,heading,7246.0,Executive Compensation Tables,5902.5,True,5305.0,10.0,VOTING PROCEDURES AND OTHER INFORMATION,4,3
+SLB,2016,True,heading,13633.0,COMPENSATION COMMITTEE REPORT,14728.5,True,2886.0,3.0,,4,3
+SLB,2017,True,heading,14875.0,Summary Compensation Table.,14458.0,True,923.0,1.0,,1,1
+SLB,2018,True,heading,14582.0,Compensation Committee Report,14604.5,True,502.0,1.0,,1,1
+SLB,2019,True,heading,15354.0,Compensation Committee Report,14458.0,True,516.0,1.0,,1,1
+SLB,2020,True,heading,16499.0,Compensation Committee Report,14458.0,True,525.0,1.0,,1,1
+SLB,2021,True,heading,16261.0,Compensation Committee Report,14458.0,True,490.0,1.0,,1,1
+SLB,2022,True,heading,14334.0,Executive Compensation Tables,14728.5,True,508.0,1.0,,1,1
+SLB,2023,True,heading,11647.0,Executive Compensation Tables,14728.5,True,510.0,1.0,,1,1
+SLB,2024,True,heading,10228.0,Executive Compensation Tables,14728.5,True,536.0,1.0,,1,1
+TGT,2016,True,heading,8082.0,SUMMARY COMPENSATION TABLE,7665.0,True,1295.0,6.0,QUESTIONS AND ANSWERS ABOUT OUR ANNUAL MEETING AND VOTING,2,2
+TGT,2017,True,heading,7605.0,Summary compensation table,7734.0,True,2300.0,1.0,,1,1
+TGT,2018,True,heading,8954.0,Summary compensation table,7665.0,True,1589.0,3.0,Questions and answers about our Annual Meeting and voting,1,1
+TGT,2019,True,heading,7222.0,Summary compensation table,7734.0,True,1247.0,4.0,Questions and answers about our Annual Meeting and voting,2,2
+TGT,2020,True,heading,7676.0,Summary compensation table,7723.0,True,2348.0,1.0,,1,1
+TGT,2021,True,heading,7601.0,Summary compensation table,7734.0,True,1938.0,3.0,Questions and answers about the 2021 Annual Meeting and voting,1,1
+TGT,2022,True,heading,8927.0,Summary compensation table,7665.0,True,2316.0,3.0,Questions and answers about the 2022 Annual Meeting,1,1
+TGT,2023,True,heading,7792.0,Summary compensation table,7665.0,True,2747.0,3.0,Questions and answers about the 2023 Annual Meeting,1,1
+TGT,2024,True,heading,7654.0,Summary compensation table,7734.0,True,8213.0,20.0,Questions and answers about the 2024 Annual,6,6
+TJX,2016,True,heading,11369.0,Compensation Committee Report,10398.5,True,3077.0,5.0,STOCKHOLDER PROPOSALS AND DIRECTOR NOMINATIONS,3,2
+TJX,2017,True,heading,9810.0,DIRECTOR COMPENSATION,11108.5,True,6244.0,11.0,OTHER MATTERS,5,4
+TJX,2018,True,heading,9949.0,Compensation Committee Report,11108.5,True,5228.0,11.0,OTHER MATTERS,4,4
+TJX,2019,True,heading,7504.0,to the Summary Compensation Table.,11108.5,True,5049.0,8.0,OTHER MATTERS,4,3
+TJX,2020,True,heading,9742.0,DIRECTOR COMPENSATION,11108.5,True,8029.0,12.0,OTHER MATTERS,4,4
+TJX,2021,True,heading,12400.0,COMPENSATION COMMITTEE REPORT,10398.5,True,5005.0,5.0,OTHER MATTERS,2,2
+TJX,2022,True,heading,11644.0,DIRECTOR COMPENSATION,10398.5,True,7849.0,15.0,OTHER MATTERS,4,4
+TJX,2023,True,heading,11709.0,COMPENSATION COMMITTEE REPORT,10398.5,True,7203.0,17.0,OTHER MATTERS,3,3
+TJX,2024,True,heading,10848.0,PAY VERSUS PERFORMANCE,10659.0,True,4842.0,19.0,OTHER MATTERS,1,1
+TMO,2016,True,heading,7294.0,Compensation Committee Report,8533.0,True,2311.0,1.0,,1,1
+TMO,2017,True,heading,7202.0,Compensation Committee Report,8533.0,False,,,,1,0
+TMO,2018,True,heading,8818.0,Compensation Committee Report,7983.0,False,,,,1,0
+TMO,2019,True,heading,9578.0,Compensation Committee Report,7983.0,False,,,,1,0
+TMO,2020,True,heading,7718.0,Compensation Committee report,8533.0,False,,,,1,0
+TMO,2021,True,heading,9952.0,Compensation Committee report,7983.0,True,1436.0,3.0,Security ownership of certain beneficial owners and management,2,1
+TMO,2022,True,heading,8248.0,Compensation Committee report,8268.0,False,,,,1,0
+TMO,2023,True,heading,7464.0,Compensation Committee report,8533.0,True,648.0,1.0,,1,1
+TMO,2024,True,heading,10602.0,Compensation Committee report,7983.0,True,1511.0,4.0,Security ownership of certain beneficial owners and management,1,1
+TSLA,2016,True,heading,4663.0,Compensation Committee Report,6349.0,True,3754.0,8.0,Audit Committee,1,1
+TSLA,2017,True,heading,5367.0,Compensation Committee Report,6349.0,True,4898.0,9.0,Audit Committee,3,2
+TSLA,2018,True,heading,6340.0,Compensation Committee Report,6331.0,True,5025.0,16.0,Audit Committee,2,2
+TSLA,2019,True,heading,6587.0,Compensation Committee Report,6322.0,True,5071.0,16.0,Audit Committee,2,2
+TSLA,2020,True,heading,6304.0,Compensation Committee Report,6349.0,True,6822.0,42.0,Audit Committee,4,3
+TSLA,2021,True,heading,6656.0,Compensation Committee Report,6322.0,True,17498.0,57.0,Audit Committee,6,6
+TSLA,2022,True,heading,6358.0,Compensation Committee Report,6322.0,True,21121.0,56.0,Audit Committee,8,8
+TSLA,2023,True,heading,4533.0,Executive Compensation—Summary Compensation Table,6349.0,True,13233.0,10.0,Audit Committee,3,3
+TSLA,2024,True,heading,6750.0,Compensation Committee Report,6322.0,True,50237.0,87.0,Audit Committee,32,31
+UNH,2016,True,heading,10410.0,Compensation Committee Report,10720.5,True,746.0,1.0,,1,1
+UNH,2017,True,heading,10595.0,Compensation Committee Report,10641.5,True,3044.0,5.0,Questions and Answers About the Annual Meeting and Voting,2,2
+UNH,2018,True,heading,11243.0,Compensation Committee Report,10516.0,True,714.0,1.0,,1,1
+UNH,2019,True,heading,10437.0,Compensation Committee Report,10720.5,True,2216.0,4.0,Questions and Answers About the Annual Meeting and Voting,2,2
+UNH,2020,True,heading,13912.0,PROPOSAL 2: Advisory Approval of the Company's Executive Compensation,10516.0,True,701.0,1.0,,1,1
+UNH,2021,True,heading,9336.0,2020 Summary Compensation Table*,10720.5,True,771.0,1.0,,1,1
+UNH,2022,True,heading,10846.0,2021 Summary Compensation Table*,10516.0,True,1685.0,6.0,,2,1
+UNH,2023,True,heading,9321.0,2022 Summary Compensation Table,10720.5,True,5006.0,9.0,,3,2
+UNH,2024,True,heading,12663.0,2023 Summary Compensation Table.,10516.0,True,2209.0,9.0,,2,2
+VLO,2016,True,heading,8184.0,SUMMARY COMPENSATION TABLE,12671.5,True,3438.0,4.0,,4,4
+VLO,2017,True,heading,8284.0,SUMMARY COMPENSATION TABLE,12671.5,True,2092.0,3.0,,3,3
+VLO,2018,True,heading,9443.0,Summary Compensation Table,12671.5,True,3209.0,3.0,,4,3
+VLO,2019,True,heading,9933.0,Summary Compensation Table,12671.5,True,1507.0,2.0,,2,2
+VLO,2020,True,heading,11783.0,Summary Compensation Table,11746.5,True,3127.0,3.0,,3,3
+VLO,2021,True,heading,13560.0,Summary Compensation Table,10858.0,True,1471.0,2.0,,2,2
+VLO,2022,True,heading,15035.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,10858.0,True,3377.0,6.0,•Audit Committee Charter,3,3
+VLO,2023,True,heading,17121.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,10858.0,True,4663.0,8.0,GENERAL INFORMATION,4,4
+VLO,2024,True,heading+median_adjusted,11093.0,HUMAN RESOURCES AND COMPENSATION COMMITTEE REPORT,10858.0,True,1151.0,2.0,,2,2
+WFC,2016,True,heading,11603.0,Executive Compensation Tables,11350.0,True,2990.0,17.0,Voting Information,2,1
+WFC,2017,True,heading,9615.0,Compensation Committee Report,11497.0,True,9290.0,27.0,Voting Information,6,5
+WFC,2018,True,heading,12189.0,ITEM 3 – RATIFY APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR,11350.0,True,5825.0,15.0,VOTING INFORMATION,4,4
+WFC,2019,True,heading,11309.0,Compensation Committee Report,11497.0,True,5643.0,9.0,Voting Information,3,2
+WFC,2020,True,heading,11391.0,Compensation Committee Report,11456.0,True,7279.0,10.0,Voting Information,3,2
+WFC,2021,True,heading,10642.0,Compensation Committee Report,11497.0,True,9234.0,20.0,Voting Information,4,4
+WFC,2022,True,heading,9331.0,Compensation Committee Report,11497.0,True,10866.0,28.0,Voting Information,8,8
+WFC,2023,True,heading,13791.0,Compensation Committee Report,11350.0,True,12809.0,30.0,Voting Information,9,9
+WFC,2024,True,heading,13161.0,Compensation Committee Report,11350.0,True,15859.0,43.0,"Security Ownership of Certain Beneficial Owners, Officers, and Directors",9,9
+XOM,2016,True,heading,7573.0,EXECUTIVE COMPENSATION TABLES,7937.0,True,11732.0,27.0,Shareholder Proposals for Next Year,11,10
+XOM,2017,True,heading,7395.0,EXECUTIVE COMPENSATION TABLES,8026.0,True,8424.0,22.0,Shareholder Proposals and Director Nominations for Next Year,10,9
+XOM,2018,True,heading,7062.0,EXECUTIVE COMPENSATION TABLES,8026.0,True,4338.0,11.0,Shareholder Proposals and Director Nominations for Next Year,5,4
+XOM,2019,True,heading,7372.0,EXECUTIVE COMPENSATION TABLES,8026.0,True,8166.0,26.0,Shareholder Proposals and Director Nominations for Next Year,8,7
+XOM,2020,True,heading,6076.0,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2019 Change in Pens,8026.0,True,7358.0,18.0,Shareholder Proposals and Director Nominations for Next Year,6,5
+XOM,2021,True,heading,9472.0,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2020 Pension Value ,7484.0,True,9864.0,23.0,Shareholder Proposals and Director Nominations for Next Year,6,5
+XOM,2022,True,heading,8479.0,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2021 Change inPensi,7484.0,True,8848.0,25.0,Shareholder Proposals and Director Nominations for Next Year,8,7
+XOM,2023,True,heading,9328.0,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2022 Change in Pens,7484.0,True,19790.0,84.0,Shareholder Proposals and Director Nominations for Next Year,13,12
+XOM,2024,True,heading,9057.0,EXECUTIVE COMPENSATION TABLES SUMMARY COMPENSATION TABLE FOR 2023 Change in Pens,7484.0,True,14711.0,52.0,Shareholder Proposals and Director Nominations for Next Year,5,4

@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "BAC",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "6249cfb92a8833e978b06e9f9a3775ed6257f853767588b10973b8db28a3e4f4",
+  "est_input_tokens": 20475
+ },
+ "usage": {
+  "input_tokens": 23336,
+  "output_tokens": 234
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Since 2013, PRSUs have been based 50% on three-year average ROA and 50% on three-year average growth in adjusted tangible book value (TBV) goals."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The awards are equally weighted with 50% based on ROA goals and 50% based on adjusted TBV growth goals."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "The awards are equally weighted with 50% based on ROA goals and 50% based on adjusted TBV growth goals."
+   }
+  ]
+ }
+}

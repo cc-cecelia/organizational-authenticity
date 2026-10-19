@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "sector": "Financials",
+  "filing_year": 2018,
+  "accession": "0001193125-18-082312",
+  "task": "incentives",
+  "section_words": 12189,
+  "section_method": "heading",
+  "cache_key": "09e9232c150285352dcbdd8a2cc440978cb30b8c3e8f966e14b52e674ecf7668",
+  "est_input_tokens": 24998
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29272,
+  "output_tokens": 478,
+  "request_id": "req_011CgC9u91xxVsTvGxL8aYyx"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "RORCE (average over three-year performance period) for 2017 Performance Shares",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to adjustment upward (to a maximum of 150% of the target award for Mr. Weiss..."
+   },
+   {
+    "metric": "Relative RORCE performance versus peers (2017 Performance Shares)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The target number of Performance Shares... is the number of shares that would be earned for achieving the absolute performance threshold and median performance relative to peers"
+   },
+   {
+    "metric": "Net operating loss condition (2017 Performance Shares)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to further downward adjustment by 1/3 in the event our Company incurs a net operating loss for any year in the three-year performance period"
+   }
+  ]
+ }
+}

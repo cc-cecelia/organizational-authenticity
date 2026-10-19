@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000261",
+  "task": "incentives",
+  "section_words": 19714,
+  "section_method": "heading",
+  "cache_key": "ea30888a012452f4cf675fd36f1a80f08fedeb73eff8ed0cd4fd64106a6b9cac",
+  "est_input_tokens": 42360
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 49703,
+  "output_tokens": 1072,
+  "request_id": "req_011CgCAxSdLFseYQSVAE1cRq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue Growth Over Prior Year (Comparable, Constant Currency)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance measures were diluted EPS, revenue growth and free cash flow, each weighted equally at 33%"
+   },
+   {
+    "metric": "Diluted EPS Growth (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance measures were diluted EPS, revenue growth and free cash flow, each weighted equally at 33%"
+   },
+   {
+    "metric": "Free Cash Flow (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33.33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance measures were diluted EPS, revenue growth and free cash flow, each weighted equally at 33%"
+   },
+   {
+    "metric": "Quality Compliance Modifier Performance Threshold",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "if the Company did not meet the requisite quality score, the payout is reduced by five (5) percentage points"
+   },
+   {
+    "metric": "Three-year Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-year Revenue Growth | ... | 50%"
+   },
+   {
+    "metric": "Return on Invested Capital (ROIC)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Invested Capital (\"ROIC\") | ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital. | Minimum 10% | Target 13% | Maximum 18% | 50%"
+   },
+   {
+    "metric": "Diluted EPS cumulative CAGR threshold (RSU vesting)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance threshold was set as the diluted EPS cumulative compound annual growth rate (cumulative CAGR) of 3%"
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2020,
+  "accession": "0001193125-20-108770",
+  "task": "incentives",
+  "section_words": 8734,
+  "section_method": "heading",
+  "cache_key": "7b76c19b710ceaf299138d5f8ecb9157ce192c5d9768d2640c775eddcc1a1f3f",
+  "est_input_tokens": 18505
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22140,
+  "output_tokens": 662,
+  "request_id": "req_011CgCBd8M5QckpQhArpGzMZ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 45,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's adjusted sales (weighted 45%)"
+   },
+   {
+    "metric": "Adjusted operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 45,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjusted operating income (weighted 45%)"
+   },
+   {
+    "metric": "Inventory improvement",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "inventory improvement (weighted 10%)"
+   },
+   {
+    "metric": "Three-year average ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2019 PSUs will be earned based on the Company's achievement of a three-year average ROIC goal, and a relative TSR modifier."
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PSUs reported in this column are earned based on the Company's ROIC over a three-year performance period and a relative TSR modifier."
+   }
+  ]
+ }
+}

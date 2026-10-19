@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "85a002339208ec1366d9875ef974561e68f172a347f226e9cac0980fe48b752e",
+  "est_input_tokens": 14698
+ },
+ "usage": {
+  "input_tokens": 14926,
+  "output_tokens": 1264
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "which begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "in order to satisfy all eight revenue-based operational milestones, Tesla would have to increase revenue by more than $163 billion"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   }
+  ],
+  "equal_split": []
+ }
+}

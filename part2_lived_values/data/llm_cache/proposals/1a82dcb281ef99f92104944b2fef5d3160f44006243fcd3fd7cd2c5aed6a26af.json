@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2023,
+  "accession": "0000829224-23-000007",
+  "task": "proposals",
+  "section_words": 7565,
+  "section_method": "resolved_windows",
+  "cache_key": "1a82dcb281ef99f92104944b2fef5d3160f44006243fcd3fd7cd2c5aed6a26af",
+  "est_input_tokens": 18090
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19554,
+  "output_tokens": 957,
+  "request_id": "req_011CgCBWxTqmyvvNjjA7kSwk"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REGARDING REPORT ON PLANT-BASED MILK PRICING",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report examining costs to Starbucks' reputation and projected sales from its upcharge on plant-based milk, presented to shareholders by end of third quarter.",
+    "category": "customers",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The Starbucks board of directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REGARDING CEO SUCCESSION PLANNING POLICY AMENDMENT",
+    "proponent": "not stated",
+    "topic_summary": "Requests amending Corporate Governance Principles to expand CEO succession planning policy with position qualifications, internal candidate development, and three-year lead time requirements.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The board of directors adopted these changes on December 23, 2022."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REGARDING ANNUAL REPORT ON COMPANY OPERATIONS IN CHINA",
+    "proponent": "NLPC",
+    "topic_summary": "Requests annual report to shareholders on the nature and extent to which corporate operations depend on and are vulnerable to China, excluding confidential business information.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Starbucks board of directors recommends that shareholders vote AGAINST this proposal for the following reasons:"
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REGARDING ASSESSMENT OF WORKER RIGHTS COMMITMENTS",
+    "proponent": "not stated",
+    "topic_summary": "Requests independent third-party assessment of Starbucks' adherence to freedom of association and collective bargaining commitments, publicly disclosed on its website.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that our shareholders vote against this proposal."
+   },
+   {
+    "item_number": "9",
+    "title": "SHAREHOLDER PROPOSAL REGARDING CREATION OF BOARD COMMITTEE ON CORPORATE SUSTAINABILITY",
+    "proponent": "not stated",
+    "topic_summary": "Requests creation of a board committee on corporate sustainability to oversee the impact of policy positions and advocacy, with a public report by end of 2023.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "The board of directors recommends that our shareholders vote against this proposal."
+   }
+  ]
+ }
+}

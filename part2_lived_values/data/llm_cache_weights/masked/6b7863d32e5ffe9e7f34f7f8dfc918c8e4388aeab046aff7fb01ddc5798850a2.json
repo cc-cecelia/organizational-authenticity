@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2018,
+  "masked": true,
+  "fingerprint": "6b7863d32e5ffe9e7f34f7f8dfc918c8e4388aeab046aff7fb01ddc5798850a2",
+  "est_input_tokens": 20019
+ },
+ "usage": {
+  "input_tokens": 20739,
+  "output_tokens": 443
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "an absolute financial component (# [w]), a relative financial component (# [w]), and an operational performance component (# [w])"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Intel's adjusted net income increased # year over year, compared with # adjusted net income growth for the technology peer group"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee assigned a # [w] to operational performance because it views operational excellence and technological leadership as ultimately driving superior financial performance."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "All operational performance goals are subject to adjustment based on corporate-level goals that for #related to hiring and retaining of diverse"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Payouts may be adjusted upward or downward based on individual performance."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "This is primarily in the form of performance-based restricted stock units (referred to as \"OSUs\" or \"outperformance stock units\") that vest based on Intel's total stockholder return (TSR)"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "f0c06c6d21e9f5f8e3ff100e5adc022fb25b9d9ff51b510059391bfb36592220",
+  "est_input_tokens": 18983
+ },
+ "usage": {
+  "input_tokens": 19820,
+  "output_tokens": 874
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow is a key driver of shareholder returns and captures items not included in non-GAAP net income"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Both Quality and Inclusion, Diversity, and Equity (ID&E) are components of our scorecard that directly impact payouts of our annual incentive plan."
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Women Mangers + (Total Medtronic) | # # YoY increase"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Ethnically Diverse Managers + (US only) | # # YoY increase"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The quality performance component consists of metrics and receipt of a warning letter (material and immaterial) will trigger the quality modifier."
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Compliance | Findings/Inspections (FDA #) | <= #"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "FCA Execution Timelines | >= # | # | # | #"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 1,
+    "evidence": "Complaint Timeliness Execution | >= # | # | # | #"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The final component of the FY#MIP for NEOs is individual performance based on an assessment of performance for each individual considering financial, strategic and cultural objectives."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our long-term incentive vehicles are completely denominated in equity"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our Performance Share Unit plan is a #-year incentive plan that is based on long-term measures of company performance"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC is defined as net cash earnings plus interest expense net of tax, divided by invested capital for each year, averaged over the #-year period."
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "5336c4ddcafcda4de0f0cb237edbc23a5f1e96e26cfe739df6044f1a34888463",
+  "est_input_tokens": 27695
+ },
+ "usage": {
+  "input_tokens": 29423,
+  "output_tokens": 392
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDC does not assign relative weightings to these categories."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Risk and Control Committees: The CMDC does not assign relative weightings to these categories."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Customers and clients"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "People and Leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The ultimate number of PSUs earned at vesting is based on a formula using absolute and relative ROTCE performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "In setting the 14% absolute ROTCE goal, the CMDC reviewed the Firm's historical performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "To promote a proper pay-for-performance alignment, the CMDC does not assign relative weightings to these categories."
+   }
+  ]
+ }
+}

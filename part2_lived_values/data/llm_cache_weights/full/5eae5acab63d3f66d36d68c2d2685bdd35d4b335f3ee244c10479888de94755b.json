@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "5eae5acab63d3f66d36d68c2d2685bdd35d4b335f3ee244c10479888de94755b",
+  "est_input_tokens": 32559
+ },
+ "usage": {
+  "input_tokens": 32869,
+  "output_tokens": 1258
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Now, TSR is weighted 50% and financial metrics are 30%. Strategic metrics have remained 20%."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational/Financial, which is weighted 40%; and Strategic Plan, which is weighted 20%."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress in implementing its strategic plan over a given performance period."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "align growth options, culture, organization, governance, diversity, opportunity capture, policies/controls, reputation"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "No individual adjustments were made for our Named Executive Officers for PSP XII or 2016 VCIP."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The VCIP program, which is available to all employees, is made up of 50% corporate performance and 50% business unit performance."
+   },
+   {
+    "id": 6,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Health, Safety and Environmental (\"HSE\")\u2014We seek to be a good employer, good community member and good steward of the environmental resources we manage."
+   },
+   {
+    "id": 7,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Operational\u2014This measure was adopted to focus on various operational elements. For VCIP, these include absolute targets for production, capital expenditures"
+   },
+   {
+    "id": 8,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Financial\u2014This measure comprises several financial measures. For VCIP, it includes adjusted ROCE (discussed below) and adjusted CROCE"
+   },
+   {
+    "id": 9,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Strategic Plan\u2014This measure is an analysis made by the HRCC of the Company's progress in implementing its strategic plan over a given performance period."
+   },
+   {
+    "id": 10,
+    "parent_id": 5,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return\u2014TSR represents the percentage change in a company's common stock price from the beginning of a period of time to the end of the stated period"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "half of the performance measurement is based on the performance of the business units to which employees are assigned."
+   },
+   {
+    "id": 12,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Exploration & Production Operating Business Units\u201430% Production, 30% Unit Cost, 25% Milestones and 15% HSE"
+   },
+   {
+    "id": 13,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Exploration & Production Operating Business Units\u201430% Production, 30% Unit Cost, 25% Milestones and 15% HSE"
+   },
+   {
+    "id": 14,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Exploration & Production Operating Business Units\u201430% Production, 30% Unit Cost, 25% Milestones and 15% HSE"
+   },
+   {
+    "id": 15,
+    "parent_id": 11,
+    "emphasis": 2,
+    "evidence": "Exploration & Production Operating Business Units\u201430% Production, 30% Unit Cost, 25% Milestones and 15% HSE"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The HRCC has discretion to adjust the base award up or down based on individual performance"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 5,
+    "plan": "annual_incentive",
+    "evidence": "Each of the performance measures was given equal weight within the corporate performance component."
+   }
+  ]
+ }
+}

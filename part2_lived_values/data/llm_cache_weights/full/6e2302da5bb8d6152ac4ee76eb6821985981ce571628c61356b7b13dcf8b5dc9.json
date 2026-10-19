@@ -1,0 +1,120 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "6e2302da5bb8d6152ac4ee76eb6821985981ce571628c61356b7b13dcf8b5dc9",
+  "est_input_tokens": 31995
+ },
+ "usage": {
+  "input_tokens": 32053,
+  "output_tokens": 2931
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the HRC determined that 65% of Mr. Scharf's variable compensation should be determined by overall Company performance"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "35% by Mr. Scharf's individual performance"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Below we summarize the key financial results reviewed by the HRC, which together with our non-financial results"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 3,
+    "evidence": "Our top priority remains building an appropriate risk and control infrastructure"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Enhanced the customer experience through innovative products and services"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Continued focus on developing strong executive leadership team"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Continued the development of payment APIs for commercial and corporate clients"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Realized approximately $3.5 billion in gross expense savings through efficiency initiatives in 2022"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Donated approximately $300 million to over 3,400 nonprofits in support of housing"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Risk, Regulatory, & Control Execute against milestones to reduce outstanding regulatory deliverables"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Execute against key strategic priorities, including multi-year technology plan"
+   },
+   {
+    "id": 11,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver financial results and make progress on efficiency initiatives"
+   },
+   {
+    "id": 12,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Advance talent management and diverse representation strategy"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Absolute and relative ROTCE are used as the primary performance conditions in our PSAs."
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "For the relative ROTCE component, the HRC set the target objective at the median of the Financial Performance Peer Group"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "TSR 1 performance modifier, which adjusts the ultimate payout by 20% (positively or negatively)"
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the target number of PSAs will be reduced by one third"
+   }
+  ],
+  "equal_split": []
+ }
+}

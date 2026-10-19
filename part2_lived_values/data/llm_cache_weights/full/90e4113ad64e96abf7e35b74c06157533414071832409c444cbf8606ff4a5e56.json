@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "90e4113ad64e96abf7e35b74c06157533414071832409c444cbf8606ff4a5e56",
+  "est_input_tokens": 9438
+ },
+ "usage": {
+  "input_tokens": 10907,
+  "output_tokens": 354
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Effective in 2019 and in light of the recently announced joint venture with GSK, the Committee approved changing the financial operating metric for the PSAs to Adjusted Net Income (NI) from Operating Income (OI)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee approved changing the financial operating metric for the PSAs to Adjusted Net Income (NI) from Operating Income (OI) (except for the 2017 PSAs due to legal requirements)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The relative TSR metric as compared to the DRG Pharmaceutical Index (DRG Index) and the other features of the award remain unchanged."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "TSRU | Total Shareholder Return Unit \u2013 A long-term incentive award tied to absolute TSR"
+   }
+  ],
+  "equal_split": []
+ }
+}

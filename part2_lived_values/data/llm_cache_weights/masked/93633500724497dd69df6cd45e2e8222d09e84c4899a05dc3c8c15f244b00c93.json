@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "ticker": "COP",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "93633500724497dd69df6cd45e2e8222d09e84c4899a05dc3c8c15f244b00c93",
+  "est_input_tokens": 39820
+ },
+ "usage": {
+  "input_tokens": 39573,
+  "output_tokens": 1164
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "We view this as our fundamental license to operate."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operational (VCIP only) As an E&P company, strong operational performance is essential for delivering on our commitments to stockholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial (VCIP and PSP) The Financial metrics in our compensation programs strongly align with our returns-focused strategy and are core to delivering our value proposition"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strategic Milestones are set annually for VCIP"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative Total Shareholder Return (VCIP and PSP) We believe it is important to include TSR in both VCIP and PSP because it is the most tangible, visible measure"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "We include relative Total Recordable Rate and absolute Process Safety Events in our compensation metrics"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Process Safety Events refers to the control of process hazards in a facility with the potential to impact people, property, or the environment."
+   },
+   {
+    "id": 7,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "our operational compensation metrics include absolute targets for Production, Capital, Operating and Overhead Costs, and Operational Milestones."
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating and Overhead Costs The target was set at #billion, which excluded adjustments"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operational Milestones In the Lower #milestones included executing the Big #unconventional development program"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis, as well as relative to peers."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "For VCIP, our Financial compensation measure includes Adjusted ROCE both on an absolute basis, as well as relative to peers."
+   },
+   {
+    "id": 12,
+    "parent_id": 3,
+    "emphasis": 1,
+    "evidence": "Strategic Milestones are set annually for VCIP"
+   },
+   {
+    "id": 13,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "Relative Total Shareholder Return (VCIP and PSP)"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "TSR has a higher [w] in the PSP to more closely align with stockholder performance benchmarks"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For PSP, our Financial compensation measure includes improvement in Adjusted ROCE and, and for PSPs commencing prior to #improvement in Adjusted CROCE, relative to peers."
+   },
+   {
+    "id": 16,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Strategic Objectives (PSP) were eliminated from the PSP for later programs"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Stock price settlement on the settlement date"
+   }
+  ],
+  "equal_split": []
+ }
+}

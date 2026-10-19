@@ -1,0 +1,143 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001193125-19-102995",
+  "task": "proposals",
+  "section_words": 15223,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "3576cb1958b2cbd283a5a0f6e680ab100b844f76dca1663b07c0a9dcf145e276",
+  "est_input_tokens": 34835
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 36235,
+  "output_tokens": 3794,
+  "request_id": "req_011CgCB4Pn6repWecFQudKrc"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN ANNUAL REPORT ON MANAGEMENT OF FOOD WASTE",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annual report on the environmental and social impacts of food waste generated from the company's operations, at reasonable cost and omitting proprietary information.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING AN ANNUAL REPORT ON MANAGEMENT OF FOOD WASTE."
+   },
+   {
+    "item_number": "5",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REDUCTION IN THE OWNERSHIP THRESHOLD FOR CALLING SPECIAL SHAREHOLDER MEETINGS",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to amend bylaws so holders of 20% net long of outstanding common stock can call a special shareholder meeting, down from 30%.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REDUCTION IN THE OWNERSHIP THRESHOLD FOR CALLING SPECIAL SHAREHOLDER MEETINGS."
+   },
+   {
+    "item_number": "6",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A BAN ON GOVERNMENT USE OF CERTAIN TECHNOLOGIES",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to prohibit sales of facial recognition technology to government agencies unless independent evidence shows it does not violate civil and human rights.",
+    "category": "community",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A BAN ON GOVERNMENT USE OF CERTAIN TECHNOLOGIES."
+   },
+   {
+    "item_number": "7",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON THE IMPACT OF GOVERNMENT USE OF CERTAIN TECHNOLOGIES",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent study and report on privacy, civil rights, and human rights risks and financial risks of the Rekognition facial recognition technology sold to governments.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REPORT ON THE IMPACT OF GOVERNMENT USE OF CERTAIN TECHNOLOGIES."
+   },
+   {
+    "item_number": "8",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CERTAIN PRODUCTS",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on efforts to address hate speech and the sale of offensive products, including policy development, consulted experts, and enforcement mechanisms.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REPORT ON CERTAIN PRODUCTS."
+   },
+   {
+    "item_number": "9",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING AN INDEPENDENT BOARD CHAIR POLICY",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to adopt a policy requiring the Board Chair to be an independent director, with limited exceptions and prospective application.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING AN INDEPENDENT BOARD CHAIR POLICY."
+   },
+   {
+    "item_number": "10",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CERTAIN EMPLOYMENT POLICIES",
+    "proponent": "not stated",
+    "topic_summary": "Asks management to review sexual harassment policies, assess needed additions, and report findings, including grievance mechanisms, discipline, and settlement disclosure, by December 31, 2019.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REPORT ON CERTAIN EMPLOYMENT POLICIES."
+   },
+   {
+    "item_number": "11",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON CLIMATE CHANGE TOPICS",
+    "proponent": "not stated",
+    "topic_summary": "Requests a public report on how the company is planning for climate change disruptions and reducing its company-wide dependence on fossil fuels.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REPORT ON CLIMATE CHANGE TOPICS."
+   },
+   {
+    "item_number": "12",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A BOARD IDEOLOGY DISCLOSURE POLICY",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to disclose minimum nominee qualifications and each nominee's skills, ideological perspectives, and experience in a chart or matrix.",
+    "category": "integrity",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A BOARD IDEOLOGY DISCLOSURE POLICY."
+   },
+   {
+    "item_number": "13",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING CHANGES TO THE COMPANY'S GENDER PAY REPORTING",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on the company's global median gender pay gap and associated policy, reputational, competitive, operational, and talent retention risks.",
+    "category": "dei",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING CHANGES TO THE COMPANY'S GENDER PAY REPORTING."
+   },
+   {
+    "item_number": "14",
+    "title": "SHAREHOLDER PROPOSAL REQUESTING A REPORT ON INTEGRATING CERTAIN METRICS INTO EXECUTIVE COMPENSATION",
+    "proponent": "not stated",
+    "topic_summary": "Asks the Compensation Committee to assess the feasibility of linking sustainability metrics, including senior executive diversity metrics, to executive performance measures or vesting conditions.",
+    "category": "shareholders",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REQUESTING A REPORT ON INTEGRATING CERTAIN METRICS INTO EXECUTIVE COMPENSATION."
+   },
+   {
+    "item_number": "15",
+    "title": "SHAREHOLDER PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS",
+    "proponent": "not stated",
+    "topic_summary": "Asks the board to amend governing documents so non-binding shareholder matters are decided by a simple majority of votes cast FOR and AGAINST, excluding abstentions.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "THE BOARD RECOMMENDS THAT YOU VOTE \"AGAINST\" THIS PROPOSAL REGARDING VOTE-COUNTING PRACTICES FOR SHAREHOLDER PROPOSALS."
+   }
+  ]
+ }
+}

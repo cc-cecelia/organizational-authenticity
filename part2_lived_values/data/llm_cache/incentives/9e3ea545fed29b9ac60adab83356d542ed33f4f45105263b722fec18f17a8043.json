@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "sector": "Technology",
+  "filing_year": 2016,
+  "accession": "0001104659-16-102981",
+  "task": "incentives",
+  "section_words": 7143,
+  "section_method": "heading",
+  "cache_key": "9e3ea545fed29b9ac60adab83356d542ed33f4f45105263b722fec18f17a8043",
+  "est_input_tokens": 16574
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17424,
+  "output_tokens": 1719,
+  "request_id": "req_011CgC9byiu1xumPoEDwkufH"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating Net Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Net Income | 40%"
+   },
+   {
+    "metric": "Strategic Imperatives Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic Imperatives Revenue | 20%"
+   },
+   {
+    "metric": "Operating Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Cash Flow | 40%"
+   },
+   {
+    "metric": "Client experience",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on factors beyond IBM's financial performance, for example, client experience, market share growth and workforce development"
+   },
+   {
+    "metric": "Market share growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "client experience, market share growth and workforce development"
+   },
+   {
+    "metric": "Workforce development",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "client experience, market share growth and workforce development"
+   },
+   {
+    "metric": "Operating Earnings Per Share",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Earnings Per Share | 70%"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow | 30%"
+   }
+  ]
+ }
+}

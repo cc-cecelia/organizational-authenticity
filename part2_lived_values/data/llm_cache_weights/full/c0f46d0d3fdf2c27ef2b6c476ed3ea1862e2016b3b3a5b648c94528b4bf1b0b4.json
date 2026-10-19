@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "c0f46d0d3fdf2c27ef2b6c476ed3ea1862e2016b3b3a5b648c94528b4bf1b0b4",
+  "est_input_tokens": 16040
+ },
+ "usage": {
+  "input_tokens": 15480,
+  "output_tokens": 474
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "grow our user base across all our products"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "increase sharing, engagement, and meaningful interactions"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "improve product quality"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "improve security for our community"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "improve our brand"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "make progress toward our long-term investments"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual performance assessments for each named executive officer were determined in the discretion of the compensation & governance committee"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The compensation & governance committee exercised its discretion in determining the company performance percentage"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Equity award value and individual performance assessment (RSU refresher grants)"
+   }
+  ],
+  "equal_split": []
+ }
+}

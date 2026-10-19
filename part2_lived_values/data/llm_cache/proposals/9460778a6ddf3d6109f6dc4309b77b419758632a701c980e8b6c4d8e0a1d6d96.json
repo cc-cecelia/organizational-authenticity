@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "ticker": "AMZN",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2022,
+  "accession": "0001104659-22-045572",
+  "task": "proposals",
+  "section_words": 38250,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "9460778a6ddf3d6109f6dc4309b77b419758632a701c980e8b6c4d8e0a1d6d96",
+  "est_input_tokens": 90317
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 89859,
+  "output_tokens": 2650,
+  "request_id": "req_011CgCBC9LQdripqDMs9GfTH"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "Shipment Zero: Report on Retirement Plan Options Alignment with Climate Goals",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board report reviewing retirement plan investment options and assessing alignment of current options with Amazon's climate action goals, including a low-carbon default option.",
+    "category": "environment",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on retirement plan options."
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Requesting a Report on Customer Due Diligence",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent third-party report assessing whether customers' use of surveillance, computer vision, or cloud products contributes to human rights violations.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer due diligence."
+   },
+   {
+    "item_number": "7",
+    "title": "Policy to Include Hourly Employees as Director Candidates",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy requiring the initial list of board candidates to include hourly employees, to promote employee representation in board decisions.",
+    "category": "employees",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "RECOMMENDATION OF THE BOARD OF DIRECTORS ON ITEM 7 Why We Recommend You Vote Against This Proposal"
+   },
+   {
+    "item_number": "8",
+    "title": "Shareholder Proposal Requesting a Report on Plastics Use",
+    "proponent": "not stated",
+    "topic_summary": "Requests a board report on how Amazon could reduce plastics use in packaging in line with the Pew Report's reduction findings to address ocean pollution.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on packaging materials."
+   },
+   {
+    "item_number": "9",
+    "title": "Board Report on Worker Health and Safety Disparities",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report examining whether health and safety practices create racial and gender disparities in warehouse worker injury rates and their career impact.",
+    "category": "safety",
+    "secondary_category": "dei",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on worker health and safety differences."
+   },
+   {
+    "item_number": "10",
+    "title": "Shareholder Proposal Requesting Additional Reporting on Risks Associated with the Use of Certain Contract Clauses",
+    "proponent": "not stated",
+    "topic_summary": "Requests a public report assessing risks from employee concealment clauses that may limit discussion of harassment, discrimination and other unlawful acts.",
+    "category": "integrity",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on risks associated with the use of certain contract clauses."
+   },
+   {
+    "item_number": "11",
+    "title": "Shareholder Proposal Requesting a Report on Charitable Contributions",
+    "proponent": "not stated",
+    "topic_summary": "Requests semi-annual website disclosure itemizing all charitable donations above $999 by recipient, with policies and rationale for each contribution.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on charitable contributions."
+   },
+   {
+    "item_number": "12",
+    "title": "Shareholder Proposal Requesting Alternative Tax Reporting",
+    "proponent": "not stated",
+    "topic_summary": "Requests a tax transparency report prepared under the GRI Tax Standard, including revenues, profits and taxes by jurisdiction.",
+    "category": "integrity",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting alternative tax reporting."
+   },
+   {
+    "item_number": "13",
+    "title": "Shareholder Proposal Requesting Additional Reporting on Freedom of Association",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report analyzing how Amazon's human rights policies protect freedom of association and collective bargaining rights under ILO and UN standards.",
+    "category": "employees",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on freedom of association."
+   },
+   {
+    "item_number": "14",
+    "title": "Shareholder Proposal Requesting Additional Reporting on Lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests annual disclosure of lobbying policies, direct and indirect lobbying and grassroots payments with recipients, and board oversight of such payments.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on lobbying."
+   },
+   {
+    "item_number": "15",
+    "title": "Shareholder Proposal Requesting a Policy Requiring More Director Candidates Than Board Seats",
+    "proponent": "not stated",
+    "topic_summary": "Requests reform of board elections so the company lists more director candidates than seats to be filled, giving shareholders more choice.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a policy requiring more director candidates than board seats."
+   },
+   {
+    "item_number": "16",
+    "title": "Shareholder Proposal Requesting a Report on Warehouse Working Conditions",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent audit and report on working conditions and treatment of warehouse workers, including effects of policies, performance metrics and targets.",
+    "category": "employees",
+    "secondary_category": "safety",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on warehouse working conditions."
+   },
+   {
+    "item_number": "17",
+    "title": "Shareholder Proposal Requesting Additional Reporting on Gender/Racial Pay",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on median pay gaps across race and gender, including associated policy, reputational and recruiting risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting additional reporting on gender/racial pay."
+   },
+   {
+    "item_number": "18",
+    "title": "Shareholder Proposal Requesting a Diversity and Equity Audit",
+    "proponent": "not stated",
+    "topic_summary": "Requests a racial equity audit analyzing Amazon's impacts on civil rights, diversity, equity and inclusion and their effects on the business.",
+    "category": "dei",
+    "secondary_category": "community",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a diversity and equity audit."
+   },
+   {
+    "item_number": "19",
+    "title": "Shareholder Proposal Requesting a Report on Customer Use of Certain Technologies",
+    "proponent": "not stated",
+    "topic_summary": "Requests an independent study of Rekognition facial recognition risks to privacy, civil rights, and sales to repressive governments, with reporting by September 2022.",
+    "category": "community",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors recommends a vote \"AGAINST\" this proposal requesting a report on customer use of certain technologies."
+   }
+  ]
+ }
+}

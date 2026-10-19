@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "a59098ba90ac4e7fca1568e6f396d50c836580be1b0101792702ef69b3d6f54a",
+  "est_input_tokens": 13395
+ },
+ "usage": {
+  "input_tokens": 14145,
+  "output_tokens": 422
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue performance | 25%"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS performance | 50%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pipeline progress | 25%"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "1 new molecular entity (NME) product approval consistent with goal, and 10 other significant approvals versus a goal of 6."
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Subjective assessment of the quality of the pipeline, considering many factors -- awarded a score of 5"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Awards ('PAs') - equity awards vesting over three years, with a performance component measuring the company's two-year growth in earnings per share"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Shareholder Value Awards (\"SVAs\") - performance-based equity awards that pay out based on company stock price growth over a three-year period"
+   }
+  ],
+  "equal_split": []
+ }
+}

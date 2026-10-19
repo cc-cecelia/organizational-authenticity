@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "9a9cf42c96ef77fcc7cd75286edcfc1b8a8435969f9679e57332269b80a81259",
+  "est_input_tokens": 32688
+ },
+ "usage": {
+  "input_tokens": 33623,
+  "output_tokens": 853
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of topline growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "sharpening management's focus on key financial and pipeline goals"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes delivery of the late-stage pipeline , which drives near-term value"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression, execution and successes of the R&D pipeline at various stages of clinical development"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Reflects management's, the Science & Technology Committee's (\"S&T Committee\") and CMDC's holistic evaluation of our pipeline performance"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Used to encourage and reward our executives' ongoing commitment to continue to successfully integrate the Celgene business"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Retain and engage critical talent to support our strategy and deliver integration priorities"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Reflects commitment to deliver cumulative transaction synergies associated with Celgene integration"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\"), based on individual performance (both Results and Values)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Non-GAAP Operating Margin: # Total Revenues (ex-fx): # #-Year Relative TSR: #"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Total Revenues (ex-fx)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "shareholder value as measured by relative TSR over a #-year period"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Market Share Unit Awards: rewards the creation of incremental shareholder value over a long-term period."
+   }
+  ],
+  "equal_split": []
+ }
+}

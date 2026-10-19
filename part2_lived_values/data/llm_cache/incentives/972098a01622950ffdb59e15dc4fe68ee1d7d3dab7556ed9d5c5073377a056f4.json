@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "sector": "Technology",
+  "filing_year": 2017,
+  "accession": "0001193125-17-112133",
+  "task": "incentives",
+  "section_words": 10724,
+  "section_method": "heading",
+  "cache_key": "972098a01622950ffdb59e15dc4fe68ee1d7d3dab7556ed9d5c5073377a056f4",
+  "est_input_tokens": 22279
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27994,
+  "output_tokens": 976,
+  "request_id": "req_011CgC9gDQHA1hVhvzPMDZzz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Absolute Financial Component (year-over-year net income growth)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Absolute Financial Component represents 25% of the annual incentive cash payout formula and is based on year-over-year growth of Intel's net income."
+   },
+   {
+    "metric": "Relative Financial Component (net income growth relative to technology peers)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Relative Financial Component represents 25% of the annual incentive cash payout formula and is based on Intel's year-over-year net income growth compared with net income growth of technology peer companies."
+   },
+   {
+    "metric": "Operational Performance Component (business unit operational goals)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Operational Performance Component represents 50% of the annual incentive cash payout formula and is based on specific operational goals that the Compensation Committee approves for each business unit."
+   },
+   {
+    "metric": "Corporate level goals: hiring and retaining of diverse talent",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2016, the corporate level goals were focused on hiring and retaining of diverse talent"
+   },
+   {
+    "metric": "Corporate level goals: reduction of cycle time and number of iterations between product design and production",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the reduction cycle time and number of iterations between product design and production, which were achieved"
+   },
+   {
+    "metric": "Relative TSR versus technology peer group (OSU conversion)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of shares of Intel common stock to be received at vesting will range from 0% to 200% of the target amount, based on the TSR of Intel common stock measured against the median TSR of the technology peer group over a three-year period."
+   }
+  ]
+ }
+}

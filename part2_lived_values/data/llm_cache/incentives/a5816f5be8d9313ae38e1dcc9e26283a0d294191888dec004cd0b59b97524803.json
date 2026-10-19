@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2019,
+  "accession": "0001564590-19-014268",
+  "task": "incentives",
+  "section_words": 6587,
+  "section_method": "heading",
+  "cache_key": "a5816f5be8d9313ae38e1dcc9e26283a0d294191888dec004cd0b59b97524803",
+  "est_input_tokens": 15127
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 16232,
+  "output_tokens": 1338,
+  "request_id": "req_011CgCB9SWwT1eseanZcJohf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Market capitalization milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the market capitalization milestone for such tranche, which begins at $100 billion for the first tranche and increases by increments of $50 billion thereafter"
+   },
+   {
+    "metric": "Total Revenue operational milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   },
+   {
+    "metric": "Adjusted EBITDA operational milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following 8 operational milestones focused on revenue or 8 operational milestones focused on profitability"
+   }
+  ]
+ }
+}

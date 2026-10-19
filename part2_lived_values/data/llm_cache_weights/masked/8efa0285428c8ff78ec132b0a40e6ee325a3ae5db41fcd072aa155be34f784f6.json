@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "8efa0285428c8ff78ec132b0a40e6ee325a3ae5db41fcd072aa155be34f784f6",
+  "est_input_tokens": 24657
+ },
+ "usage": {
+  "input_tokens": 24557,
+  "output_tokens": 439
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For the NEOs, # of the objective performance goals, which accounts for # of the overall Annual Incentive Bonus Plan payout, is based on a consolidated adjusted net revenue goal."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For the NEOs, # of the objective performance goals, which accounts for # of the overall Annual Incentive Bonus Plan payout, is based on a consolidated adjusted operating income goal."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The IPF is [w] at # of the total payout under the Annual Incentive Bonus Plan."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "based on an assessment of individual performance against certain strategic, operational, leadership and ESG goals"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PRSUs, where the number of shares earned is based on #-year EPS performance against pre-established annual targets"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 2,
+    "evidence": "subject to a downward or upward adjustment of # based on relative TSR performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

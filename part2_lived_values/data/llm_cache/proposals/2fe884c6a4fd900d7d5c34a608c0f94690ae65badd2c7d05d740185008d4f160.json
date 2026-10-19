@@ -1,0 +1,53 @@
+{
+ "meta": {
+  "ticker": "AXP",
+  "sector": "Financials",
+  "filing_year": 2019,
+  "accession": "0001206774-19-000869",
+  "task": "proposals",
+  "section_words": 8452,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2fe884c6a4fd900d7d5c34a608c0f94690ae65badd2c7d05d740185008d4f160",
+  "est_input_tokens": 18504
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 19387,
+  "output_tokens": 534,
+  "request_id": "req_011CgCAHjLacnHyix44qjXRJ"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Shareholder Proposal Relating to Action by Written Consent",
+    "proponent": "Kenneth Steiner (via John Chevedden)",
+    "topic_summary": "Asks the board to permit shareholders holding the minimum votes needed to act to take action by written consent, consistent with applicable law.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal."
+   },
+   {
+    "item_number": "5",
+    "title": "Shareholder Proposal Relating to Deducting the Stock Buyback Impact from Executive Pay",
+    "proponent": "Myra K. Young (via John Chevedden)",
+    "topic_summary": "Asks the board to adopt a policy not to use EPS in senior executive incentive pay unless EPS excludes the effect of stock buybacks during the performance period.",
+    "category": "shareholders",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "The Board recommends a vote AGAINST this proposal because"
+   },
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal Relating to Gender Pay Equity",
+    "proponent": "Arjuna Capital (on behalf of Lauren Jane McMahon)",
+    "topic_summary": "Asks the company to report on risks from emerging public policies addressing the gender pay gap, including reputational, competitive, operational risks and recruiting female talent.",
+    "category": "dei",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Our Board recommends a vote AGAINST this proposal."
+   }
+  ]
+ }
+}

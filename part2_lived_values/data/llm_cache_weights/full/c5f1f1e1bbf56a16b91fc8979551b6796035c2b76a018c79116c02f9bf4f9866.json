@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2021,
+  "masked": false,
+  "fingerprint": "c5f1f1e1bbf56a16b91fc8979551b6796035c2b76a018c79116c02f9bf4f9866",
+  "est_input_tokens": 25992
+ },
+ "usage": {
+  "input_tokens": 27505,
+  "output_tokens": 492
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "30% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "20% dependent on BlackRock's progress towards meeting its organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Inclusion and diversity"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Purpose and culture"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Attract and inspire talent"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and Operating Margin, as adjusted, targets over a three-year performance period"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "BPIP is tied to two key drivers of shareholder value \u2013 Organic Revenue growth and Operating Margin, as adjusted"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "weighted 50%, 30% and 20% respectively"
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "sector": "Healthcare",
+  "filing_year": 2023,
+  "accession": "0001140361-23-013442",
+  "task": "proposals",
+  "section_words": 6256,
+  "section_method": "resolved_windows",
+  "cache_key": "0a5ae66f1f26a9b18c00b323f9f6cdc09e75f2aa719ed178884138cc85e75a76",
+  "est_input_tokens": 13918
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15549,
+  "output_tokens": 361,
+  "request_id": "req_011CgCB2xzJYBjToFMuptyor"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "6",
+    "title": "Shareholder Proposal on Workplace Non-Discrimination Audit",
+    "proponent": "National Center for Public Policy Research",
+    "topic_summary": "Requests an audit analyzing the impacts of the Company's Diversity, Equity & Inclusion policies on civil rights, non-discrimination and returns to merit, with a public report.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" this proposal."
+   },
+   {
+    "item_number": "7",
+    "title": "Shareholder Proposal on Special Shareholder Meeting Improvement",
+    "proponent": "John Chevedden",
+    "topic_summary": "Asks the board to amend governing documents so street name shares and non-street name shares have an equal right to call a special shareholder meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "The Board of Directors unanimously recommends a vote \"AGAINST\" this proposal."
+   }
+  ]
+ }
+}

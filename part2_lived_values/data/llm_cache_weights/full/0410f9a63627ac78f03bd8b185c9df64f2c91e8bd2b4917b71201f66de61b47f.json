@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2020,
+  "masked": false,
+  "fingerprint": "0410f9a63627ac78f03bd8b185c9df64f2c91e8bd2b4917b71201f66de61b47f",
+  "est_input_tokens": 14684
+ },
+ "usage": {
+  "input_tokens": 15760,
+  "output_tokens": 490
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Vesting of the EBU occurs when cumulative earnings per share (EPS) threshold is achieved, currently $6.50"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Bonus program is based on estimates of year-end earnings made in November of each year"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations and Asset Sales is the sum of the net cash provided by operating activities and proceeds"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock over a specified period of time"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Highest priority is given to progress toward strategic objectives, safety and operations integrity, and return on average capital employed (ROCE)"
+   }
+  ],
+  "equal_split": []
+ }
+}

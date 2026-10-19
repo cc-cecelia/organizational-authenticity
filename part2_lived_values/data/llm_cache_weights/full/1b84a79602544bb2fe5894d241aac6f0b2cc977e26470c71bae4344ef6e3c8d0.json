@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "1b84a79602544bb2fe5894d241aac6f0b2cc977e26470c71bae4344ef6e3c8d0",
+  "est_input_tokens": 18796
+ },
+ "usage": {
+  "input_tokens": 21251,
+  "output_tokens": 407
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "NEOs were also eligible for variable cash awards based on annual revenue performance, in addition to base salary."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "SY PSUs based on annual Non-GAAP Operating Income performance (with an opportunity to earn Additional SY PSUs based on annual Non-GAAP Gross Margin performance), vesting over 4 years"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Up to an additional 50% of an NEO's target SY PSU payout, or the Additional SY PSUs, could be earned upon achievement of a Fiscal 2024 Non-GAAP Gross Margin goal"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "MY PSUs based on 3-year TSR relative to the S&P 500, vesting over 3 years, and"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 1,
+    "plan": "long_term_incentive",
+    "evidence": "evenly split between both forms of PSUs to emphasize both shorter-term and longer-term performance"
+   }
+  ]
+ }
+}

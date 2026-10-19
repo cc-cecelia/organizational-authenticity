@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "INTC",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "504cc98eb3637f8ee99101057a6fb21d7098d1afb579dc58b199be86703b355c",
+  "est_input_tokens": 38581
+ },
+ "usage": {
+  "input_tokens": 38242,
+  "output_tokens": 778
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Revenue (Net Income) listed among annual incentive metrics; Annual Cash Bonus Plan metrics revenue, net income, and Intel operational goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The Annual Cash Bonus Plan for #is made up of # [w] [w] performance metrics: revenue (#/#), net income (#/#), and \"# Intel\" operational goals"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Company # Intel operational goals are established to reflect our most critical business priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Evolve from CPU to XPU. Goals related to continued execution of our leadership product portfolio"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. IDM #Leadership. Goals related to meeting customer volume commitments, supply chain ecosystem improvement"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Expand from Silicon to Platform. Goals related to growth in key market segments such as Intelligent Edge and AI"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Cultural Transformation. Goals related to quantitative improvements in the areas of manager training, customer experience, and being employer of choice"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Environmental Sustainability. Goals related to energy conservation and net positive water use"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "#. Diversity & Inclusion. Goals related to global inclusive hiring practices in support of our #RISE workforce inclusion goals"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Performance Stock Units | Designed to reward long-term profitability and long-term performance relative to peers"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cumulative EPS growth rate compared to a target established at the beginning of the #-year performance period"
+   }
+  ],
+  "equal_split": []
+ }
+}

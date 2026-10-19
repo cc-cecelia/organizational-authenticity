@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "MRK",
+  "sector": "Healthcare",
+  "filing_year": 2016,
+  "accession": "0001308179-16-000336",
+  "task": "incentives",
+  "section_words": 8356,
+  "section_method": "heading",
+  "cache_key": "0f6767141573c43c01c701ad636eeb4df9fe1dc59ea48841a602ad6ef5d4804a",
+  "est_input_tokens": 18861
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21093,
+  "output_tokens": 1957,
+  "request_id": "req_011CgCAg2wbhf9SxWmhRXYKQ"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue vs. Plan",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures of our success"
+   },
+   {
+    "metric": "EPS vs. Plan",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The revenue and earnings metrics are equally weighted because the C&B Committee believes they are the key financial measures of our success"
+   },
+   {
+    "metric": "Pipeline Milestones",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the pipeline metric is included because it is a leading indicator of the Company's ability to create sustainable value for shareholders over the long term"
+   },
+   {
+    "metric": "U.S. Filing/Approval of KEYTRUDA for Non-Small Cell Lung Cancer",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "U.S. filing and approval of KEYTRUDA for treatment of patients with metastatic non-small cell lung cancer whose tumors express PD-L1 were achieved ahead of schedule."
+   },
+   {
+    "metric": "U.S. Filing/Approval of ZEPATIER for chronic HCV",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "U.S. filing of ZEPATIER for treatment of patients with chronic hepatitis C virus (HCV) infection was achieved slightly ahead of schedule."
+   },
+   {
+    "metric": "Other Approvals and Submissions",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Received approval of five other products, including BRIDION in the U.S., MARIZEV in Japan"
+   },
+   {
+    "metric": "Late-Stage Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Progressed late-stage drugs through various stages of development, including products for cancer, Alzheimer's disease"
+   },
+   {
+    "metric": "Early Development/Discovery Research and Business Development",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Augmented pipeline through an agreement with NGM Biopharmaceuticals (diabetes & obesity) and the acquisition of cCAM Biotherapeutics"
+   },
+   {
+    "metric": "Individual performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "NEO individual performance that ranged from 100% to 125% resulted in average annual incentive payouts for the NEOs"
+   },
+   {
+    "metric": "Earnings per share (EPS) over each year of 2013-2015",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The number of shares ultimately earned varied based on performance against earnings per share (\"EPS\") goals"
+   },
+   {
+    "metric": "Relative total shareholder return (TSR) modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The preliminary award was then adjusted downward by 20% to 105% based on our three-year (2013-2015) annualized total shareholder return"
+   },
+   {
+    "metric": "Relative TSR (2014 PSU design)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance is now measured using equal components of relative TSR and adjusted operating cash flow, both over a cumulative three-year period"
+   },
+   {
+    "metric": "Adjusted operating cash flow (2014 PSU design)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance is now measured using equal components of relative TSR and adjusted operating cash flow, both over a cumulative three-year period"
+   }
+  ]
+ }
+}

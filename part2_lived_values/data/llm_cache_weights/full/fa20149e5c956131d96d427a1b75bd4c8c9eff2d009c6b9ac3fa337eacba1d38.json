@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "fa20149e5c956131d96d427a1b75bd4c8c9eff2d009c6b9ac3fa337eacba1d38",
+  "est_input_tokens": 15880
+ },
+ "usage": {
+  "input_tokens": 17073,
+  "output_tokens": 504
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Half of the annual bonus is delayed and paid out when a specified level of cumulative earnings per share (EPS) is achieved"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Size of annual bonus determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "The Compensation Committee can apply negative discretion for individual performance."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given the highest priority"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Cash Flow from Operations and Asset Sales is the sum of the net cash provided by operating activities and proceeds associated with sales of subsidiaries"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Shareholder Return (TSR) measures the change in value of an investment in stock over a specified period of time"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Strong Strategic Objectives, Business Results, and Project Execution performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

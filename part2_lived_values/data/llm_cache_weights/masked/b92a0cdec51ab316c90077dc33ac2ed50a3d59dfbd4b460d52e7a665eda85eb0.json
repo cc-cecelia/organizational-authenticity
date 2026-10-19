@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "filing_year": 2022,
+  "masked": true,
+  "fingerprint": "b92a0cdec51ab316c90077dc33ac2ed50a3d59dfbd4b460d52e7a665eda85eb0",
+  "est_input_tokens": 18439
+ },
+ "usage": {
+  "input_tokens": 20122,
+  "output_tokens": 340
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance measures selected by the Compensation Committee were the Company's sales"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "operating income ([w] #), inventory turnover ([w] #) and Pro sales growth"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "inventory turnover ([w] #)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Pro sales growth ([w] #)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee set the target ROIC performance level for the #PSUs based on achievement of average ROIC goals"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The chart below illustrates how the relative TSR modifier expands the #PSU performance award"
+   }
+  ],
+  "equal_split": []
+ }
+}

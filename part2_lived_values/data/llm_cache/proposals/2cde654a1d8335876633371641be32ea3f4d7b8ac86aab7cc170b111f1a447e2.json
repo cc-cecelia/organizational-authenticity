@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "sector": "Financials",
+  "filing_year": 2023,
+  "accession": "0001193125-23-086655",
+  "task": "proposals",
+  "section_words": 4255,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "2cde654a1d8335876633371641be32ea3f4d7b8ac86aab7cc170b111f1a447e2",
+  "est_input_tokens": 10129
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11003,
+  "output_tokens": 298,
+  "request_id": "req_011CgCAFmbhaokEZLcDkKH6Q"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "5",
+    "title": "First Stockholder Proposal",
+    "proponent": "James McRitchie",
+    "topic_summary": "Requests annual report on unadjusted median and adjusted pay gaps across race and gender globally and/or by country, including associated risks.",
+    "category": "dei",
+    "secondary_category": "employees",
+    "board_recommendation": "against",
+    "evidence": "We recommend that you vote against the two stockholder proposals."
+   },
+   {
+    "item_number": "6",
+    "title": "Second Stockholder Proposal",
+    "proponent": "The National Center for Public Policy Research",
+    "topic_summary": "Requests board evaluation and report on how it oversees risks of discrimination against individuals based on race, religion, sex, national origin, or political views in providing financial services.",
+    "category": "integrity",
+    "secondary_category": "customers",
+    "board_recommendation": "against",
+    "evidence": "we recommend a vote against the stockholder proposal."
+   }
+  ]
+ }
+}

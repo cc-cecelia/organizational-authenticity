@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "XOM",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "04c3ca7a5020670f29d5ee2ab30acb86410e08a544bd5a94600c624b8b9ba71c",
+  "est_input_tokens": 16632
+ },
+ "usage": {
+  "input_tokens": 18039,
+  "output_tokens": 625
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Size of annual bonus pool determined by a formula, aligned with change in annual earnings"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual bonus grants are determined by the performance award matrix on page 31"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Half of annual bonus delayed until cumulative earnings per share (EPS) reach a specified level"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "While the performance areas and metrics are not assigned a specific weight, safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The Committee also takes into account leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance award matrix on page 31 determines the size of individual awards and widely differentiates among eligible executives"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 3,
+    "evidence": "safety performance and return on average capital employed (ROCE) are given highest priority."
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "The Committee also takes into account leadership in sustaining sound business controls and a strong ethical and corporate governance environment."
+   }
+  ],
+  "equal_split": []
+ }
+}

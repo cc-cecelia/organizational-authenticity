@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001193125-18-112804",
+  "task": "proposals",
+  "section_words": 13570,
+  "section_method": "resolved_windows",
+  "cache_key": "754c83e4566aea38caf4f32cf2f7c50cc0aa44ee3ab54775f6ebe41183594218",
+  "est_input_tokens": 30937
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 32264,
+  "output_tokens": 1327,
+  "request_id": "req_011CgCBsBA968EtxAByVrfs3"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Stockholder Proposal Regarding Report on Lobbying",
+    "proponent": "not stated",
+    "topic_summary": "Requests an annual report disclosing Chevron's direct and indirect lobbying policies, payments, trade association memberships, and oversight processes.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that a special report beyond Chevron's current voluntary and mandatory disclosures is an unnecessary and inefficient use of Chevron's resources."
+   },
+   {
+    "item_number": "5",
+    "title": "Stockholder Proposal Regarding Report on Business with Conflict-Complicit Governments",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report evaluating the feasibility of a policy of not doing business with governments complicit in genocide or crimes against humanity.",
+    "category": "community",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because Chevron has in place rigorous policies and processes to identify and manage geopolitical and socioeconomic issues and risks."
+   },
+   {
+    "item_number": "6",
+    "title": "Stockholder Proposal Regarding Report on Transition to a Low Carbon Business Model",
+    "proponent": "not stated",
+    "topic_summary": "Requests a report on how Chevron could adapt its business model and energy mix to a decarbonizing economy, including renewable investments.",
+    "category": "environment",
+    "secondary_category": "shareholders",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because we believe such a report is unnecessary in light of the safeguards and oversight in place through Chevron's strategy, planning and risk management processes."
+   },
+   {
+    "item_number": "7",
+    "title": "Stockholder Proposal Regarding Report on Methane Emissions",
+    "proponent": "not stated",
+    "topic_summary": "Requests a quantitative report on actions beyond regulatory requirements to minimize methane emissions and leakage from hydraulic fracturing operations.",
+    "category": "environment",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because we believe such a report is unnecessary in light of Chevron's demonstrated efforts and progress in managing methane emissions"
+   },
+   {
+    "item_number": "8",
+    "title": "Stockholder Proposal Regarding Independent Chairman",
+    "proponent": "not stated",
+    "topic_summary": "Requests a policy requiring the Board Chair, whenever possible, to be an independent director, phased in at the next CEO transition.",
+    "category": "integrity",
+    "secondary_category": "none",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that stockholder interests are best served when Directors have the flexibility to determine the best person to serve as Chairman"
+   },
+   {
+    "item_number": "9",
+    "title": "Stockholder Proposal Regarding Independent Director with Environmental Expertise",
+    "proponent": "not stated",
+    "topic_summary": "Requests that at least one board candidate be an independent director with recognized environmental expertise in hydrocarbon exploration and production.",
+    "category": "integrity",
+    "secondary_category": "environment",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because the Board believes that its current membership possesses significant environmental experience."
+   },
+   {
+    "item_number": "10",
+    "title": "Stockholder Proposal Regarding Special Meetings",
+    "proponent": "not stated",
+    "topic_summary": "Requests bylaw amendments giving holders of 10% of outstanding common stock the power to call a special shareowners meeting.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "against",
+    "evidence": "Your Board recommends a vote AGAINST this proposal because stockholders have consistently supported Chevron's current By-Law regarding special meetings"
+   }
+  ]
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "ticker": "CVX",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "0a6222c2a66f27af1258f9189878a9b9df06551a2212eb883cd3dbc387dab63a",
+  "est_input_tokens": 25447
+ },
+ "usage": {
+  "input_tokens": 27162,
+  "output_tokens": 1461
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Financial results (#) \u2022 Capital & cost management (#) \u2022 Operating & safety performance (#) \u2022 Lower carbon (#)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Capital & cost management (#) \u2022 Operating & safety performance (#) \u2022 Lower carbon (#)"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Operating & safety performance \u2013 # Personal safety \u2013 Despite a year-on-year reduction in fatalities"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Lower carbon \u2013 # Greenhouse gas management \u2013 Identified, funded, and executed GHG reduction projects"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Individual bonus component reflecting executive leadership and performance"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Adjusted return on capital employed \u2013 ROCE, excluding special items and FX, for #of # was lower than Plan"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Free cash flow excluding working capital \u2013 Chevron delivered #billion of free cash flow excluding working capital"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "Relative adjusted earnings per share \u2013 The Company's #-year adjusted earnings per share performance improvement"
+   },
+   {
+    "id": 8,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Operating expenses, excluding fuel and transportation \u2013 #billion, below Plan on lower costs in Upstream"
+   },
+   {
+    "id": 9,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Capital expenditures \u2013 #organic capex totaled #billion, above Plan due to higher investments in Permian assets"
+   },
+   {
+    "id": 10,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Major milestone \u2013 Tengizchevroil FGP mechanical completion was achieved in #Q#."
+   },
+   {
+    "id": 11,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Personal safety \u2013 Despite a year-on-year reduction in fatalities, opportunity for improvement remains"
+   },
+   {
+    "id": 12,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Process safety \u2013 The number of Tier #+ Tier #Loss of Containment incidents exceeded Plan (unfavorable)."
+   },
+   {
+    "id": 13,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Net production \u2013 #million barrels of oil-equivalent per day (MMBOED) in #excluding divestments, above Plan"
+   },
+   {
+    "id": 14,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Refinery operational availability - Slightly below Plan mainly due to unplanned downtime."
+   },
+   {
+    "id": 15,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Greenhouse gas management \u2013 Identified, funded, and executed GHG reduction projects via our marginal abatement cost curve (MACC) process."
+   },
+   {
+    "id": 16,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Equity renewable fuels production \u2013 #barrels per day in #above Plan with the successful flexible conversion"
+   },
+   {
+    "id": 17,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Hydrogen \u2013 In September, Chevron acquired a majority stake in ACES Delta"
+   },
+   {
+    "id": 18,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Carbon capture, utilization and storage: Southeast Texas stratigraphic well is ready for execution."
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on relative Total Shareholder Return (\"TSR\") against the LTIP Performance Share Peer Group and the S&P #Total Return Index"
+   },
+   {
+    "id": 20,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "based on relative ROCE Improvement (\"ROCE-I\") against the LTIP Performance Share Peer Group"
+   },
+   {
+    "id": 21,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Include a negative TSR adjustment in the payout formula that reduces the payout modifier by # in the event of an above-target payout"
+   }
+  ],
+  "equal_split": []
+ }
+}

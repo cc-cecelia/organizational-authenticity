@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "15d410497003b8360518cc75a1dc44f322ca993da40f750654de3bcfe4072d29",
+  "est_input_tokens": 30813
+ },
+ "usage": {
+  "input_tokens": 31806,
+  "output_tokens": 1312
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "70% of each participant's target incentive opportunity was earned based on adjusted net revenue and adjusted operating income financial metrics"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted operating income ... 57%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the inclusion and diversity goals summarized below accounted for 7.5% of the overall fiscal year 2023 Annual Incentive Bonus Plan payout"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Serve as a mentor to BIPOC mentees and demonstrate a meaningful time commitment"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "BIPOC Retention Rate * | \u00b7 50% payout for BIPOC Retention Rate >87%"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Inclusive Leadership Survey | Linked to Mentorship Program: Average score >3.0 on scale of 1-5"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe giving back more than we take from the planet contributes to our primary objective of maintaining Starbucks standing"
+   },
+   {
+    "id": 7,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Supply Chain | 11% | See page 59 | 100.0%"
+   },
+   {
+    "id": 8,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Sustainable Coffee | 11% | See page 59 | 100.0%"
+   },
+   {
+    "id": 9,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Reusables | 11% | See page 59 | 100.0%"
+   },
+   {
+    "id": 10,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Greener Stores | 11% | See page 59 | 200.0%"
+   },
+   {
+    "id": 11,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Planet+ Menu | 11% | See page 59 | 0.0%"
+   },
+   {
+    "id": 12,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Sustainable Dairy | 11% | See page 59 | 100.0%"
+   },
+   {
+    "id": 13,
+    "parent_id": 6,
+    "emphasis": 2,
+    "evidence": "Sustainability Measurement | 34% | See page 59 | 100.0%"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\") (15%) The IPF was based on the elements set forth in the table below"
+   },
+   {
+    "id": 15,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "Living Our Mission and Values/Helping Others Succeed (Goals vary by individual)"
+   },
+   {
+    "id": 16,
+    "parent_id": 14,
+    "emphasis": 2,
+    "evidence": "Strategic and Operational Goals (Goals vary by individual) | Individual strategic and operational goals directly tied to the NEO's primary areas of responsibility"
+   },
+   {
+    "id": 17,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the adjusted EPS metric is measured over a three-year period"
+   },
+   {
+    "id": 18,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a relative TSR modifier can impact payout of PRSUs upward or downward by up to 25%"
+   },
+   {
+    "id": 19,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "a three-year inclusion and diversity goal for the fiscal year 2023 PRSUs, which focuses on improvement in Black, Indigenous, and LatinX representation"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "the remaining 30% was earned based on inclusion and diversity and sustainability metrics"
+   }
+  ]
+ }
+}

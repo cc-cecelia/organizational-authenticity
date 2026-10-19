@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "C",
+  "sector": "Financials",
+  "filing_year": 2024,
+  "accession": "0001145443-24-000041",
+  "task": "incentives",
+  "section_words": 5086,
+  "section_method": "heading+median_adjusted",
+  "cache_key": "fb16a6ee269d68b56f8caccf7d3e07db901f78838c441a7c1dfdff660387b529",
+  "est_input_tokens": 10738
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 14391,
+  "output_tokens": 1072,
+  "request_id": "req_011CgCAQjPF8FkXj2fGhAiw1"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Average RoTCE 2023-2025",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Average RoTCE 2023-2025 | Cumulative TBVPS 2023-2025 | Percentage of Target PSUs Earned"
+   },
+   {
+    "metric": "Cumulative TBVPS 2023-2025",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cumulative TBVPS 2023-2025 | Percentage of Target PSUs Earned"
+   }
+  ]
+ }
+}

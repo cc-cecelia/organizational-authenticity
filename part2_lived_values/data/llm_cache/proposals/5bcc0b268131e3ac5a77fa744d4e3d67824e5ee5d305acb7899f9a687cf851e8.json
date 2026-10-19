@@ -1,0 +1,33 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "sector": "Technology",
+  "filing_year": 2024,
+  "accession": "0001045810-24-000104",
+  "task": "proposals",
+  "section_words": 1894,
+  "section_method": "heading+resolved_windows",
+  "cache_key": "5bcc0b268131e3ac5a77fa744d4e3d67824e5ee5d305acb7899f9a687cf851e8",
+  "est_input_tokens": 4280
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5640,
+  "output_tokens": 176,
+  "request_id": "req_011CgC9FYyZJMtnH1vEdr9Nm"
+ },
+ "result": {
+  "proposals": [
+   {
+    "item_number": "4",
+    "title": "Proposal 4 \u2013 Simple Majority Vote",
+    "proponent": "John Chevedden",
+    "topic_summary": "Requests the board replace each supermajority voting requirement in the charter and bylaws with a majority of votes cast or simple majority standard, as legally permitted.",
+    "category": "shareholders",
+    "secondary_category": "integrity",
+    "board_recommendation": "no_recommendation",
+    "evidence": "Our Board is not making a voting recommendation with respect to Proposal 4."
+   }
+  ]
+ }
+}

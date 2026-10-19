@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "IBM",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "df970b8f4bc3f6340b00979ca1d140b4580fcc42987bf40cc9edc8f14eb5ad80",
+  "est_input_tokens": 18278
+ },
+ "usage": {
+  "input_tokens": 20038,
+  "output_tokens": 765
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on full year financial performance against IBM revenue and operating cash flow, the weighted incentive score was 116."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Based on full year financial performance against IBM revenue and operating cash flow, the weighted incentive score was 116."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The diversity modifier affirms management's commitment to improving diverse representation of our workforce that reflects the labor pool demographics of the communities in which we operate."
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "payouts for each executive are calculated using an Individual Contribution Factor (ICF)"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "For 2022, no qualitative adjustment was made."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "the Chairman and CEO can recommend an adjustment, up or down, based on factors beyond IBM's financial performance; for example, client experience, market share growth"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance; for example, client experience, market share growth and diversity and inclusion of IBM's workforce"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "factors beyond IBM's financial performance; for example, client experience, market share growth and diversity and inclusion of IBM's workforce"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The PSU score is calculated as a weighted average of results against targets for Operating EPS (70%) and Free Cash Flow (30%)."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In addition, the PSU Program has a Relative Return on Invested Capital (ROIC) modifier."
+   }
+  ],
+  "equal_split": []
+ }
+}

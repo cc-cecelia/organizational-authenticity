@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "BMY",
+  "filing_year": 2021,
+  "masked": true,
+  "fingerprint": "e66a5c3a2961e8f7ffe74425a6247b0bb01bf80b75cd4a559972f59b40e6ba8e",
+  "est_input_tokens": 31934
+ },
+ "usage": {
+  "input_tokens": 32940,
+  "output_tokens": 795
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A critical measure of annual profitability aligning our employees' interests with those of our shareholders"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A measure of topline growth that creates a foundation of long-term sustainable growth and competitive superiority"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "our pipeline metric continues to play a critical role in our annual incentive plan"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Used to encourage and reward our executives' ongoing commitment to continue to successfully integrate the Celgene business"
+   },
+   {
+    "id": 4,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Human Capital Management (#) (Retain and engage critical talent to support our strategy and deliver integration priorities)"
+   },
+   {
+    "id": 5,
+    "parent_id": 3,
+    "emphasis": 2,
+    "evidence": "Synergies (#) (Reflects commitment to deliver cumulative transaction synergies associated with Celgene integration)"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Near-Term Value (Submissions and approvals) \u2022 Long-Term Growth Potential"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Recognizes the progression, execution and successes of the R&D pipeline at various stages of clinical development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "with a Qualitative Overlay on the entire metric"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Factor (\"IPF\"), based on individual performance (both Results and Values)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "focusing on strong year-to-year financial and operational performance"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Total Revenues (ex-fx)"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "#-Year Relative TSR"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Market Share Units stock price performance"
+   }
+  ],
+  "equal_split": []
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "filing_year": 2023,
+  "masked": true,
+  "fingerprint": "c0f02f15f757ed1a626d3100e5ebd353a1b190a355d44c18652791e802367f99",
+  "est_input_tokens": 24781
+ },
+ "usage": {
+  "input_tokens": 25226,
+  "output_tokens": 762
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Our NEOs' STI payouts were based on strong #adjusted EBITDA results, partially offset by below-target #free cash flow results"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Free cash flow goals encourage our NEOs to continue strengthening our balance sheet, so we can sustainably return value to shareholders"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Annual cash incentive awards are earned according to the achievement of financial and strategic personal objectives."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Strategic Planning and Sustainability Reduce SLB's Scope #emissions, using a pre-established CO #e target"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Digital Growth and Technology Innovation Increase digital revenue\u2014enabled by digital penetration\u2014above a pre-established target."
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Core Growth Increase revenue generated from fit-for-basin technologies above a pre-established target."
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "New Energy Innovation Oversee development of near- and mid-term New Energy growth strategy"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "HSE Performance Fatality-free. Mostly not achieved"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "PSUs will be contingent on achieving absolute FCF margin, relative ROCE, and relative TSR performance goals over respective #-year periods."
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In selecting ROCE as the performance metric for # of our NEOs' #target LTI grant date fair value"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR PSUs \u2014 Performance Measures and Goals relative TSR rank, as compared to the cumulative TSR results achieved by the # direct competitors"
+   }
+  ],
+  "equal_split": []
+ }
+}

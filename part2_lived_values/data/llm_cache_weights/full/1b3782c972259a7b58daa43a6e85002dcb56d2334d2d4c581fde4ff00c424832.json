@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "ticker": "BLK",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "1b3782c972259a7b58daa43a6e85002dcb56d2334d2d4c581fde4ff00c424832",
+  "est_input_tokens": 34747
+ },
+ "usage": {
+  "input_tokens": 36535,
+  "output_tokens": 794
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Each category is assigned a weighting factor, with 50% of the award opportunity dependent on BlackRock's achievement of financial performance goals"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting our strategic objectives as measured by our business strength"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "25% dependent on BlackRock's progress towards meeting its organizational priorities"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver on our commitments to clients"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Grow with our clients' needs and evolve how we serve clients"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Lead in a changing world"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Deliver sustainable solutions to meet client demand"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Talent pipeline and development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Diversity, equity and inclusion"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Purpose and culture"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Corporate sustainability"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and Operating Margin, as adjusted, determine the number of RSUs ultimately earned"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Organic Revenue growth and Operating Margin, as adjusted, determine the number of RSUs ultimately earned"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "A 30% stock price growth hurdle from the grant price of $673.58"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Positive Organic Revenue growth achieved in the three-year period of 2024 through 2026."
+   }
+  ],
+  "equal_split": []
+ }
+}

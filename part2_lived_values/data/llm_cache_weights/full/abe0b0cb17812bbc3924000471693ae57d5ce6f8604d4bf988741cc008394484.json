@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "abe0b0cb17812bbc3924000471693ae57d5ce6f8604d4bf988741cc008394484",
+  "est_input_tokens": 17851
+ },
+ "usage": {
+  "input_tokens": 20379,
+  "output_tokens": 855
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Systemwide sales is an important metric in a franchise business, as income generation is closely correlated to sales growth"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating income growth requires us to balance increases in revenue with financial discipline to produce strong margins and cash flow."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Human capital metrics reinforce our values and hold executives accountable for making progress on DEI goals."
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Meet or exceed specified McDonald's Values Index* score"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Meet or exceed specified increase in global representation of women in senior director and above positions"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Meet or exceed specified increase in U.S. representation of underrepresented minorities in senior director and above positions"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Meet or exceed specified McDonald ' s Inclusion Index* score"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the Committee introduced an additional quantitative performance modifier in the STIP that is focused on expanding and diversifying our franchisee pipeline"
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "subject to our achievement of two key financial metrics, EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The PRSUs are also subject to a modifier based on our relative TSR measured over the three-year performance period vs. the S&P 500 Index."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "subject to EPS, ROIIC and relative TSR performance metrics for the 2020\u20132022 performance period"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 2,
+    "plan": "annual_incentive",
+    "evidence": "NEOs could earn five STIP points for each human capital metric achieved with achievement of three metrics corresponding to a target-level payout of 15 STIP points."
+   }
+  ]
+ }
+}

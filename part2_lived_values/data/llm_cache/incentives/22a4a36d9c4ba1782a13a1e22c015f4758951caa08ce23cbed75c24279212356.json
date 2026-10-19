@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2018,
+  "accession": "0001308179-18-000070",
+  "task": "incentives",
+  "section_words": 16362,
+  "section_method": "heading",
+  "cache_key": "22a4a36d9c4ba1782a13a1e22c015f4758951caa08ce23cbed75c24279212356",
+  "est_input_tokens": 36049
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 40450,
+  "output_tokens": 1825,
+  "request_id": "req_011CgCCLYSox75V9WGyDAQDE"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Cash flow neutrality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2017 Annual Cash Incentive award includes cash flow neutrality and return on capital metrics"
+   },
+   {
+    "metric": "Return on capital",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2017 Annual Cash Incentive award includes cash flow neutrality and return on capital metrics"
+   },
+   {
+    "metric": "Company performance portion (basket of key company performance metrics)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 80,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Company performance accounted for 80% of Ms. Hollub's target Annual Cash Incentive award and 60% for the other named executive officers."
+   },
+   {
+    "metric": "Individual performance assessment",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The minority portion of the Annual Cash Incentive award opportunity for 2017 (20% for Ms. Hollub and 40% for the other named executive officers)"
+   },
+   {
+    "metric": "Effective organizational development within the executive's department",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Effective organizational development within the executive's department;"
+   },
+   {
+    "metric": "Contributions to succession planning efforts",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Contributions to succession planning efforts;"
+   },
+   {
+    "metric": "Functional and operating accomplishments within the executive's department",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Functional and operating accomplishments within the executive's department;"
+   },
+   {
+    "metric": "Demonstration of ethical conduct",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Demonstration of ethical conduct;"
+   },
+   {
+    "metric": "Commitment to health, environment and safety principles",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Commitment to health, environment and safety principles; and"
+   },
+   {
+    "metric": "Dedication to collaboration and inclusion",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Dedication to collaboration and inclusion."
+   },
+   {
+    "metric": "Relative TSR (PSU TSR award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The TSR award accounted for 70% of Ms. Hollub's target long-term incentive package and 55% for the other named executive officers."
+   },
+   {
+    "metric": "Absolute TSR (negative TSR payout cap)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "If Occidental's absolute TSR is negative over the performance period, then, irrespective of Occidental's ranking within the peer group, the payout of the TSR award is capped at no more than target."
+   },
+   {
+    "metric": "Time-based RSU award (performance condition under 162(m): operating cash flow before working capital and production volume)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "The RSU award accounted for 30% of Ms. Hollub's long-term incentive package and 45% for the other named executive officers."
+   }
+  ]
+ }
+}

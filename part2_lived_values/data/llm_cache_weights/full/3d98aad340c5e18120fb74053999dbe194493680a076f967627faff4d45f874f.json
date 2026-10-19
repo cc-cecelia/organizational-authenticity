@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2019,
+  "masked": false,
+  "fingerprint": "3d98aad340c5e18120fb74053999dbe194493680a076f967627faff4d45f874f",
+  "est_input_tokens": 19718
+ },
+ "usage": {
+  "input_tokens": 21456,
+  "output_tokens": 1136
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA (40%) Operating Excellence (35%) Adjusted Controllable Costs (15%) High-Performing Organization (10%)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety, environmental stewardship and asset availability, is critical to meeting our corporate strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "For metrics for which comparative data was available, like Total Recordable Rate (TRR), Lost Workday Case Rate (LWCR), and Process Safety Event (PSE) Rate"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "In 2018, we exceeded our target for LWCR and achieved the maximum level of performance for TRR"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "For PSE Rate, our performance was below target but above the threshold level of performance."
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "id": 6,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: The Compensation Committee confirmed that our availability of 97.5 percent across all of our lines of business"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Controllable Costs focuses on operating excellence and our ability to deliver differentiated returns to shareholders."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "We believe maintaining and enhancing a high-performing organization is critical to our success."
+   },
+   {
+    "id": 9,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Culture foster behaviors that promote our unique culture"
+   },
+   {
+    "id": 10,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Capability build depth and breadth in our skills"
+   },
+   {
+    "id": 11,
+    "parent_id": 8,
+    "emphasis": 1,
+    "evidence": "Performance deliver exceptional, sustainable results"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments can range from +/\u201350 percent of the target award."
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The absolute ROCE threshold is a return percentage equivalent to the Adjusted EBITDA required to cover our sustaining capital"
+   },
+   {
+    "id": 14,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative ROCE | 25% | above 10th percentile of Performance Peers"
+   },
+   {
+    "id": 15,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee also recognizes that relative TSR is the most common standard for relative comparisons to peers."
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 8,
+    "plan": "annual_incentive",
+    "evidence": "Culture foster behaviors that promote our unique culture"
+   },
+   {
+    "parent_id": -1,
+    "plan": "long_term_incentive",
+    "evidence": "After-tax ROCE accounts for 50 percent and is equally weighted between absolute and relative."
+   }
+  ]
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "filing_year": 2019,
+  "masked": true,
+  "fingerprint": "f157a2643aebce83dcb51bcd7c558e39bd4b1bf561662fb8720f09fc76d5c6b4",
+  "est_input_tokens": 21341
+ },
+ "usage": {
+  "input_tokens": 22933,
+  "output_tokens": 516
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the company's performance was above target in revenue growth and significantly above target in free cash flow"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Focus on Quality. We emphasize quality: payouts under our annual incentive plan can be reduced if a quality compliance modifier performance threshold is not achieved."
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Compounded annual growth rate required over three fiscal years to achieve objectives."
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "ROIC measures all components of management's responsibility to generate sustained, long-term returns on invested capital."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Relative TSR was added for the FY1#-FY2#LTPP plan and is defined as the ending share price of a share of common stock"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Vesting is dependent on achieving a three-year non- GAAP diluted EPS growth threshold"
+   }
+  ],
+  "equal_split": []
+ }
+}

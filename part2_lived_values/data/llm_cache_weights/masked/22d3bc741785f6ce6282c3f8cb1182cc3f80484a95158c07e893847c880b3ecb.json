@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "ticker": "PSX",
+  "filing_year": 2017,
+  "masked": true,
+  "fingerprint": "22d3bc741785f6ce6282c3f8cb1182cc3f80484a95158c07e893847c880b3ecb",
+  "est_input_tokens": 17968
+ },
+ "usage": {
+  "input_tokens": 20102,
+  "output_tokens": 793
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization)"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Operating excellence, including personal and process safety as well as environmental stewardship and asset availability, is critical"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Combined TRR and LWCR: Our performance in personal safety was top quartile compared to our industry group."
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Process Safety Rate: Our Process Safety Event Rate was the best in our Company history"
+   },
+   {
+    "id": 4,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Environmental Events: The Compensation Committee considered that in the industries in which we operate there is increasingly stringent regulation"
+   },
+   {
+    "id": 5,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "Asset Availability: The Compensation Committee determined that our availability was # across all of our lines of business"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Adjusted Controllable Costs focuses on operating excellence and our ability to deliver differentiated returns to shareholders."
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "In #we added the High-Performing Organization metric to measure the effectiveness of our talent management initiatives."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Individual Performance Adjustments can range from +/\u2013# of target award. Adjustments are based on measurable performance of the individual NEO"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance metrics used for all three PSP programs in effect in #are # ROCE, [w] between absolute and relative, and # relative TSR."
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The absolute ROCE maximum delivers # above WACC over the performance period."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee also recognizes that relative TSR is the most common standard for relative comparisons to peers."
+   }
+  ],
+  "equal_split": []
+ }
+}

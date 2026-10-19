@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "ticker": "WFC",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "6ffd07fe90d1486ecc8d234ca9ff12b6a87880daccea728629cb6cdbcf5c5783",
+  "est_input_tokens": 22073
+ },
+ "usage": {
+  "input_tokens": 22666,
+  "output_tokens": 2506
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The HRC evaluated 2021 performance on several key financial measures relative to 2020"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "making significant progress on our risk, regulatory and control work"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Advance talent management and strategy, and continue to drive cultural changes across the Company"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 2,
+    "evidence": "Progress diverse representation and develop programs to foster inclusion of under-represented groups"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Execute medium-long term plans to advance the Company's key strategic priorities"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "continuing to support and invest in our customers, communities, and employees"
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Realized ~$4 billion in gross saves through efficiency initiatives"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Published our updated ESG Report and Goals and Performance Data"
+   },
+   {
+    "id": 8,
+    "parent_id": 7,
+    "emphasis": 1,
+    "evidence": "Announced goal of aligning our business activities with the goals of the Paris Climate Agreement, and achieving net-zero greenhouse gas emissions by 2050"
+   },
+   {
+    "id": 9,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "approved awards weighted to 75% absolute ROTCE and 25% relative ROTCE"
+   },
+   {
+    "id": 10,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "reintroduced relative ROTCE as a performance measure and established a performance and payout scale"
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "adjusts the ultimate payout by 20% (positively or negatively) if relative TSR results are in the top quartile"
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the target number of Performance Shares will be reduced by one-third"
+   }
+  ],
+  "equal_split": []
+ }
+}

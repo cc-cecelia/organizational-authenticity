@@ -1,0 +1,102 @@
+{
+ "meta": {
+  "ticker": "LLY",
+  "filing_year": 2024,
+  "masked": true,
+  "fingerprint": "e4c8d9118aa6260042d294a3b2ab6b566925bd09c3676b6ad56dac26e9d7d5cb",
+  "est_input_tokens": 20309
+ },
+ "usage": {
+  "input_tokens": 20351,
+  "output_tokens": 936
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The bonus is based on # areas of company performance measured relative to internal targets: revenue, EPS, and pipeline progress."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each measure contributes to the final payout multiple on a [w] basis: revenue (#[w]), EPS (#[w]), and pipeline progress (#[w])."
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Science and Technology Committee's assessment of the company's product pipeline achievements is detailed below:"
+   },
+   {
+    "id": 3,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase #starts | #| #Potential new drug Phase #starts"
+   },
+   {
+    "id": 4,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new drug Phase #starts | #-#| #Potential new indication or line extension Phase #starts"
+   },
+   {
+    "id": 5,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Approvals | #new drug first approvals #other approvals"
+   },
+   {
+    "id": 6,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Potential new indication or line extension Phase #starts | #| #Plan Boldly"
+   },
+   {
+    "id": 7,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Plan Boldly | Meet industry benchmark for speed of development | Exceeded industry benchmark for speed of development"
+   },
+   {
+    "id": 8,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Deliver to Launch | Meet planned project timelines | Met project timelines"
+   },
+   {
+    "id": 9,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "Qualitative Assessment | Assessment of the chief scientific and medical officer's evaluation of performance against strategic objectives"
+   },
+   {
+    "id": 10,
+    "parent_id": 2,
+    "emphasis": 1,
+    "evidence": "A Game Changer Event is a significant scientific advancement that the Science and Technology Committee deems could capture significant value for patients and for the company."
+   },
+   {
+    "id": 11,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "Payout is based on the company's #-year growth in EPS relative to the median external analyst-anticipated peer group EPS growth."
+   },
+   {
+    "id": 12,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "shareholder value award, which is a performance-based equity award that pays out based on absolute company stock price growth measured over a #-year period"
+   },
+   {
+    "id": 13,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "relative value award, which is a performance-based equity award that pays out based on company TSR results relative to peers measured over a #-year period"
+   }
+  ],
+  "equal_split": []
+ }
+}

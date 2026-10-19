@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "ticker": "META",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "bfd7a09f0f83b07681d988bbcf9ad01635b8f48e01a89d3b3a39cc02938e0a79",
+  "est_input_tokens": 13615
+ },
+ "usage": {
+  "input_tokens": 13359,
+  "output_tokens": 580
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The First Half 2015 company performance percentage approved by the compensation & governance committee was 110%."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The performance assessment determinations were based on an overall subjective assessment of each officer's performance"
+   },
+   {
+    "id": 2,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "The compensation & governance committee evaluates our executive officers based on their overall performance, impact, and results"
+   },
+   {
+    "id": 3,
+    "parent_id": 1,
+    "emphasis": 2,
+    "evidence": "demonstration of strong leadership, long-term vision, effective execution, and management capabilities"
+   },
+   {
+    "id": 4,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "grow our user base across all our products, increase sharing and engagement, continue to achieve revenue growth"
+   },
+   {
+    "id": 5,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "increase sharing and engagement"
+   },
+   {
+    "id": 6,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "continue to achieve revenue growth and significant savings from efficiency"
+   },
+   {
+    "id": 7,
+    "parent_id": 0,
+    "emphasis": 2,
+    "evidence": "significant savings from efficiency, improve product quality, improve our brand"
+   },
+   {
+    "id": 8,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve product quality"
+   },
+   {
+    "id": 9,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "improve our brand, and make progress toward our long-term investments"
+   },
+   {
+    "id": 10,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "make progress toward our long-term investments"
+   }
+  ],
+  "equal_split": []
+ }
+}

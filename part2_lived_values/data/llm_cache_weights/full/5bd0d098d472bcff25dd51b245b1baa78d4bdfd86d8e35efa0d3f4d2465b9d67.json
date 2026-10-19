@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "ticker": "JPM",
+  "filing_year": 2018,
+  "masked": false,
+  "fingerprint": "5bd0d098d472bcff25dd51b245b1baa78d4bdfd86d8e35efa0d3f4d2465b9d67",
+  "est_input_tokens": 26925
+ },
+ "usage": {
+  "input_tokens": 28812,
+  "output_tokens": 533
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Risk-based capital hurdle"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Client/Customer Focus"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Teamwork & Leadership"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The CMDC does not assign relative weightings to the above categories."
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 3,
+    "evidence": "Calibrated the Absolute ROTCE goal to 17% based on the current forecast of the Firm's future performance"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 3,
+    "evidence": "Achievement of median relative performance results in target payout (100%), which is consistent with peer practices"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "In response to regulatory feedback, introduced a risk-based capital hurdle referencing the Firm's Fully Phased-In common equity tier 1"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": 0,
+    "plan": "annual_incentive",
+    "evidence": "the CMDC does not assign relative weightings to the above categories"
+   },
+   {
+    "parent_id": 4,
+    "plan": "long_term_incentive",
+    "evidence": "the formula based on absolute and relative ROTCE performance"
+   }
+  ]
+ }
+}
