@@ -14,9 +14,11 @@ backed.
 Inputs per firm i, year t, category k (shared taxonomy):
   s_ikt  Part 1 salience sal_<k>, 0-3                    (stated_values.csv)
   d_ikt  pay-linked criteria in k, pay_n_<k>             (lived_values_panel.csv)
-  w_ikt  share of the pay plan tied to k: the disclosed annual-incentive weight
-         (Part 2 llm_firm_year.csv aip_weight_share_<k>) if available, else an
-         imputed weight column in the panel if Part 2 has added one.
+  w_ikt  share of the annual incentive plan's payout weight in k, cat_weight_<k>
+         (lived_values_panel.csv). Part 2 uses the disclosed weight where available,
+         else one derived from a stated split, else an imputed emphasis weight;
+         provenance in weight_source. cat_weight_other holds criteria that fit no
+         stakeholder (e.g. individual performance) and is simply not counted.
 
 Index:
   c_ikt(tau) = min(max(w_ik,t, w_ik,t+1) / tau, 1)
@@ -45,100 +47,34 @@ from theme_dictionary import CATEGORIES  # noqa: E402  (shared taxonomy, read-on
 
 SAY_CSV = ROOT / "part1_stated_values" / "output" / "stated_values.csv"
 PANEL_CSV = ROOT / "part2_lived_values" / "output" / "lived_values_panel.csv"
-LLM_FY_CSV = ROOT / "part2_lived_values" / "output" / "analysis" / "llm_firm_year.csv"
 OUT_DIR = ROOT / "part3_authenticity_index" / "output"
 OUT_CSV = OUT_DIR / "authenticity_index.csv"
 
-# Disclosed weights are used only when less than this share of the plan sits in the
-# unresolved `other` bucket.
-MAX_UNRESOLVED_OTHER = 0.05
 TAUS = {"tau0": 0.0, "tau5": 0.05, "tau10": 0.10, "tau20": 0.20}
 LAST_YEAR = 2024
 # Weight sources counted as stated (not estimated) for the robustness variant.
 STRICT_SOURCES = {"disclosed", "derived_from_stated_split"}
-# Candidate names for the imputed-weight column Part 2 may add to the panel
-# (fraction of the plan, 0-1). The first prefix found is used.
-IMPUTED_WEIGHT_PREFIXES = ["pay_weight_imputed_", "pay_imputed_weight_", "pay_w_imputed_", "pay_weight_"]
 NON_SH = [k for k in CATEGORIES if k != "shareholders"]
 
 
-def load_do() -> tuple:
-    """Panel with d (counts) and w (weights) per (ticker, year), and the weight source used."""
+def load_do() -> pd.DataFrame:
+    """Panel with d (counts) and w (weights) per (ticker, year), and the weight source.
+
+    History: an interim guard ignored a proxy-year's weights when >= 5% of its plan
+    sat in `other`, because in the pilot Part 2 parked nested splits there (MSFT
+    2019-20). Part 2's weight layer now resolves nested splits, `other` holds only
+    genuine non-stakeholder criteria, and the guard was removed. Rows that still
+    have >= 5% in `other` are listed by analyze.py as a documented residual.
+    """
     panel = pd.read_csv(PANEL_CSV)
     d = panel[["ticker", "year", "flagged", "flag_reason", "cda_quality", "pay_status", "pay_n_total"]
               + [f"pay_n_{k}" for k in CATEGORIES]].copy()
-
     w = pd.DataFrame({"ticker": d.ticker, "year": d.year})
-    w_src = pd.Series("none", index=d.index)
-
-    # Preferred: Part 2's panel weights, cat_weight_<k> (disclosed where available,
-    # else imputed) with their provenance in weight_source.
-    if any(c.startswith("cat_weight_") for c in panel.columns):
-        cols = [f"cat_weight_{k}" for k in CATEGORIES if f"cat_weight_{k}" in panel]
-        vals = panel[cols]
-        scale = 100.0 if vals.max().max() > 1.5 else 1.0      # accept percent or fraction
-        has = vals.notna().any(axis=1)
-        for k in CATEGORIES:
-            col = f"cat_weight_{k}"
-            w[f"w_{k}"] = np.where(has, panel[col].fillna(0.0) / scale if col in panel else 0.0, np.nan)
-        src = panel["weight_source"].astype(str) if "weight_source" in panel else pd.Series("panel", index=panel.index)
-        w_src[has.values] = src[has].values
-        # Interim guard (kept until the full panel shows no row with >= 5% in `other`).
-        if "cat_weight_other" in panel:
-            other = (panel["cat_weight_other"].fillna(0.0) / scale)
-            unres = has & (other >= MAX_UNRESOLVED_OTHER)
-            for k in CATEGORIES:
-                w.loc[unres.values, f"w_{k}"] = np.nan
-            w_src[unres.values] = "disclosed_unresolved"
-        w["w_source"] = w_src.values
-        return d.merge(w, on=["ticker", "year"]), "cat_weight_ (panel)"
-
-    # Fallback for the pilot panel, which has no weight columns: disclosed weights
-    # from llm_firm_year.csv (fractions; only firm-years whose stated weights sum to ~100%).
-    if LLM_FY_CSV.exists():
-        fy = pd.read_csv(LLM_FY_CSV)
-        cols = [c for c in fy.columns if c.startswith("aip_weight_share_")]
-        if cols:
-            disc = fy[["ticker", "filing_year"] + cols].rename(columns={"filing_year": "year"})
-            disc = disc[disc[cols].notna().any(axis=1)]
-            # Guard: Part 2 keeps only weights stated as a share of the plan total, so a
-            # nested split (MSFT 2019-20: 50% "qualitative", split 1/3 each across
-            # customers, innovation, culture) lands entirely in `other` and the
-            # stakeholder categories read 0%. Treat such rows as unresolved rather than
-            # as zero weight; they fall back to imputed weights when Part 2 adds them.
-            other = disc.get("aip_weight_share_other", pd.Series(0.0, index=disc.index)).fillna(0.0)
-            unresolved = disc.loc[other >= MAX_UNRESOLVED_OTHER, ["ticker", "year"]]
-            disc = disc[other < MAX_UNRESOLVED_OTHER]
-            m = d[["ticker", "year"]].merge(disc, on=["ticker", "year"], how="left")
-            has = m[cols].notna().any(axis=1)
-            for k in CATEGORIES:
-                col = f"aip_weight_share_{k}"
-                w[f"w_{k}"] = np.where(has, m[col].fillna(0.0) if col in m else 0.0, np.nan)
-            w_src[has.values] = "disclosed"
-            unres = d[["ticker", "year"]].merge(unresolved.assign(_u=True), on=["ticker", "year"], how="left")["_u"]
-            w_src[unres.fillna(False).astype(bool).values] = "disclosed_unresolved"
+    has = panel[[f"cat_weight_{k}" for k in CATEGORIES]].notna().any(axis=1)
     for k in CATEGORIES:
-        if f"w_{k}" not in w:
-            w[f"w_{k}"] = np.nan
-
-    # Imputed weights from the panel, where no disclosed weight exists.
-    prefix = next((p for p in IMPUTED_WEIGHT_PREFIXES
-                   if any(c.startswith(p) for c in panel.columns)), None)
-    if prefix:
-        imp_rows = panel[[f"{prefix}{k}" for k in CATEGORIES if f"{prefix}{k}" in panel]].notna().any(axis=1)
-        fill = w_src.isin(["none", "disclosed_unresolved"]) & imp_rows
-        for k in CATEGORIES:
-            col = f"{prefix}{k}"
-            if col in panel:
-                w.loc[fill, f"w_{k}"] = panel.loc[fill, col].fillna(0.0)
-            else:
-                w.loc[fill, f"w_{k}"] = 0.0
-        w_src[fill] = "imputed"
-    weightish = [c for c in panel.columns if "weight" in c and not (prefix and c.startswith(prefix))]
-    if weightish:
-        print(f"note: unrecognized weight-like panel columns (not used): {weightish}")
-    w["w_source"] = w_src.values
-    return d.merge(w, on=["ticker", "year"]), (prefix or "")
+        w[f"w_{k}"] = np.where(has, panel[f"cat_weight_{k}"].fillna(0.0), np.nan)
+    w["w_source"] = np.where(has, panel["weight_source"].astype(str), "none")
+    return d.merge(w, on=["ticker", "year"])
 
 
 def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
@@ -171,9 +107,7 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
     # Coverage indicator per category (primary, tau -> 0) and max weight per category.
     d = np.array([[x[f"pay_n_{k}"] for k in CATEGORIES] for x in avail], dtype=float) if avail else None
     cov0 = (np.nanmax(d, axis=0) > 0).astype(float) if avail else np.full(len(CATEGORIES), np.nan)
-    wrows = [x for x in avail if x.get("w_source") not in ("none", "disclosed_unresolved", None)
-             and not pd.isna(x.get("w_source"))]
-    unresolved = any(x.get("w_source") == "disclosed_unresolved" for x in avail)
+    wrows = [x for x in avail if x.get("w_source") not in ("none", None) and not pd.isna(x.get("w_source"))]
     wmax = (np.nanmax(np.array([[x[f"w_{k}"] for k in CATEGORIES] for x in wrows], dtype=float), axis=0)
             if wrows else None)
     out["w_source"] = "+".join(sorted({x["w_source"] for x in wrows})) if wrows else "none"
@@ -212,8 +146,7 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
         c = None if (reason or smax is None) else np.minimum(smax / tau, 1.0)
         out[f"A_strict_{name}"] = A(c, CATEGORIES) if c is not None else np.nan
     out["A_reason"] = reason
-    out["A_weighted_reason"] = reason or (("disclosed_weights_unresolved" if unresolved else "no_weights")
-                                          if wmax is None else "")
+    out["A_weighted_reason"] = reason or ("no_weights" if wmax is None else "")
     if not reason and s[[CATEGORIES.index(k) for k in NON_SH]].sum() == 0:
         out["A_ex_shareholders_reason"] = "say_only_shareholders"
     else:
@@ -235,7 +168,7 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
 
 def main() -> int:
     say = pd.read_csv(SAY_CSV)
-    do, imputed_prefix = load_do()
+    do = load_do()
     do_map = {(r["ticker"], int(r["year"])): r for r in do.to_dict("records")}
     rows = []
     for r in say.to_dict("records"):
@@ -257,8 +190,7 @@ def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     out.to_csv(OUT_CSV, index=False)
     print(f"wrote {OUT_CSV}: {len(out)} rows, A computed for {out.A.notna().sum()}, "
-          f"weighted (tau10) for {out.A_tau10.notna().sum()}; imputed-weight column: "
-          f"{imputed_prefix or 'not present yet'}")
+          f"weighted (tau10) for {out.A_tau10.notna().sum()}")
     print(out.A_reason.replace('', 'ok').value_counts().to_string())
     return 0
 

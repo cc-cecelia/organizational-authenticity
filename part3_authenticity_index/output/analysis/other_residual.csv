@@ -1,0 +1,137 @@
+ticker,year,weight_source,cat_weight_other,other_criteria
+AAPL,2022,derived_from_stated_split,0.3333,"ESG Modifier (Apple values and key community initiatives: accessibility, education, environment, inclusion and diversity, privacy, and supplier responsibility)"
+AAPL,2023,imputed_emphasis,0.1111,"Apple values and key community initiatives assessment (Accessibility, Education, Environment, Inclusion & Diversity, Privacy, Supplier Responsibility, Key Community Initiatives)"
+ABBV,2016,imputed_emphasis,0.2,"Business Development; Other (including strategic initiatives, etc.); Qualitative assessment of leadership, strategic initiatives, pipeline advancement and biopharmaceutical culture"
+ABBV,2021,imputed_emphasis,0.2222,Business Development; Allergan Integration; Strategic and leadership goals
+ABBV,2022,imputed_emphasis,0.29,Business Development; Allergan Integration; ESG; Strategic and leadership goals
+ABBV,2023,imputed_emphasis,0.15,ESG goal; Strategic and leadership goals
+ABBV,2024,imputed_emphasis,0.05,ESG goal; Strategic and leadership goals; Qualitative assessment of holistic performance
+ABT,2016,imputed_emphasis,0.2,Strategic Initiatives
+AVGO,2022,derived_from_stated_split,0.25,Individual performance multiplier
+AVGO,2023,imputed_emphasis,0.25,Individual performance multiplier (APB Plan)
+AVGO,2024,imputed_emphasis,0.25,Divisional strategic goals; Individual Multiplier
+AXP,2021,imputed_emphasis,0.2222,Strategic Imperatives (Company scorecard category)
+AXP,2022,imputed_emphasis,0.25,"Company Scorecard: Strategic category; Key ESG priorities, including metrics"
+AXP,2024,imputed_emphasis,0.0833,"Strategic category: expand leadership in the premium consumer space, build on commercial payments, strengthen global integrated network, uplift control and compliance environment, progress on key ESG goals"
+BLK,2016,imputed_emphasis,0.075,Business Strength; Operational Performance
+BLK,2017,imputed_emphasis,0.05,Business Strength; Operational Performance
+BLK,2018,imputed_emphasis,0.175,"Business Strength; Non-financial factors such as individual NEO performance, client relationship strength, organizational discipline and inclusion and diversity commitment"
+BLK,2020,imputed_emphasis,0.1,Business Strength; Sharpen execution and accountability
+BLK,2021,imputed_emphasis,0.3,Business Strength (30% of award opportunity)
+BLK,2022,imputed_emphasis,0.25,Business strength objectives (25% of award opportunity)
+BLK,2023,imputed_emphasis,0.05,ESG and organizational strength objectives
+BLK,2024,imputed_emphasis,0.1181,Business Strength; Organizational Strength; Lead in a changing world
+C,2016,imputed_emphasis,0.075,Non-financial goals (30% weighting); Execute on key franchise initiatives; Set strategic direction
+C,2017,imputed_emphasis,0.075,Non-Financial Scorecard
+C,2018,imputed_emphasis,0.1111,Strategic direction
+C,2019,imputed_emphasis,0.1429,Individual executive performance
+C,2021,imputed_emphasis,0.2,Leadership
+C,2022,imputed_emphasis,0.1429,Leadership
+COP,2016,imputed_emphasis,0.6042,Strategic Plan; Award Unit Performance; Individual Performance Adjustments; Stakeholder Relationships
+COP,2017,derived_from_stated_split,0.225,Corporate Performance (VCIP); Strategic Plan (VCIP corporate); Business Unit Performance (VCIP); Milestones (E&P operating business units); Individual Performance Adjustments (VCIP)
+COP,2019,imputed_emphasis,0.1,Strategic Milestones; Operational Milestones
+COP,2021,imputed_emphasis,0.1333,Strategic Milestones
+COP,2022,imputed_emphasis,0.1238,Strategic and ESG Milestones; Operational Milestones; Integrating Concho
+COP,2023,imputed_emphasis,0.0545,Strategic and ESG Milestones; Integration; Additional Strategic Accomplishments
+COP,2024,imputed_emphasis,0.1,Strategic Milestones; Operational Milestones
+CVX,2016,imputed_emphasis,0.16,Individual Performance Factor
+CVX,2017,imputed_emphasis,0.1,Major milestones; Individual Performance Factor
+CVX,2019,imputed_emphasis,0.4,Individual Performance Factor
+CVX,2023,imputed_emphasis,0.06,Individual performance (individual bonus component); Major milestones
+CVX,2024,imputed_emphasis,0.1,Individual performance; Major milestone
+EOG,2016,imputed_emphasis,0.1125,Strategic and other operational goals; other strategic goals
+EOG,2017,imputed_emphasis,0.1091,Strategic and other operational goals
+EOG,2018,imputed_emphasis,0.05,Other strategic goals
+EOG,2019,imputed_emphasis,0.2,Strategic and other operational goals; Drill 90% premium wells
+EOG,2021,imputed_emphasis,0.12,Strategic and other operational goals
+F,2021,imputed_emphasis,0.1818,Individual Performance Factor
+GOOGL,2024,imputed_emphasis,1.0,"Environmental, Social, and Governance Bonus"
+GS,2019,imputed_emphasis,0.0714,Individual performance (360° Review Process)
+GS,2022,imputed_emphasis,0.1818,How the results are achieved/investment in the future
+GS,2023,imputed_emphasis,0.25,Individual performance
+IBM,2020,imputed_emphasis,0.3429,"Individual Contribution Factor (ICF); Factors beyond IBM's financial performance (e.g. client experience, market share growth, workforce development)"
+IBM,2022,imputed_emphasis,0.2,Individual Contribution Factor
+IBM,2023,imputed_emphasis,0.2045,Individual Contribution Factor (ICF); Qualitative adjustment based on factors beyond financial performance
+IBM,2024,imputed_emphasis,0.2667,Individual Contribution Factor; Qualitative adjustment beyond financial performance
+INTC,2016,imputed_emphasis,0.15,Operational Performance Component
+INTC,2017,imputed_emphasis,0.2143,Operational Performance Component (business unit operational goals)
+INTC,2019,imputed_emphasis,0.375,Operational Performance (business unit operational goals); Individual performance-based adjustment (20%)
+INTC,2020,disclosed,0.5,Operational goals
+INTC,2023,imputed_emphasis,0.2445,One Intel Operational Goals; Individual Objectives and Key Results; Process Efficiency and Leadership
+INTC,2024,imputed_emphasis,0.24,One Intel Operational Goals; Individual Performance Goals
+JNJ,2016,imputed_emphasis,0.1429,"Excellence in Execution (portfolio, organizational effectiveness, quality, and supply)"
+JNJ,2017,imputed_emphasis,0.0833,Excellence in Execution
+JNJ,2021,imputed_emphasis,0.06,Key Strategic Priorities
+JNJ,2023,imputed_emphasis,0.1001,Enterprise Strategic Goals
+LOW,2018,disclosed,0.15,strategic initiatives
+LOW,2019,disclosed,0.15,Strategic initiatives
+MDT,2022,imputed_emphasis,0.3077,Team Performance; Individual Performance
+META,2016,imputed_emphasis,0.5455,"Individual performance percentage; Overall performance, impact, and results; Leadership, long-term vision, effective execution, and management capabilities; Improve our brand"
+META,2017,imputed_emphasis,0.55,Company-wide priorities; Individual performance assessment; improve our brand; make progress toward our long-term investments
+META,2018,imputed_emphasis,0.4545,improve our brand; Individual performance assessment
+META,2019,imputed_emphasis,0.2143,improve our brand; Individual performance assessment
+META,2020,imputed_emphasis,0.6364,Company priorities (company performance percentage); Individual performance assessment (individual performance percentage)
+META,2021,derived_from_stated_split,0.2,Individual performance assessment
+META,2022,imputed_emphasis,0.4,Company performance percentage (company priorities); Individual performance assessment
+META,2023,imputed_emphasis,0.5,Individual performance assessment
+META,2024,derived_from_stated_split,0.25,Go out and tell our story.
+MPC,2018,imputed_emphasis,0.1,Mechanical Availability
+MPC,2019,derived_from_stated_split,0.05,Mechanical Availability
+MRK,2016,imputed_emphasis,0.25,Individual performance
+MS,2019,imputed_emphasis,0.0769,Major infrastructure initiatives
+MS,2020,imputed_emphasis,0.1667,"Major infrastructure initiatives; Board assessment of Company culture, leadership, strategy and reputation"
+MS,2021,imputed_emphasis,0.6667,Company Financial Performance and Strategic Objectives; Individual performance
+MS,2023,imputed_emphasis,0.38,Achievement of long-term strategic objectives; Individual performance
+MS,2024,imputed_emphasis,0.2222,Individual performance
+NKE,2017,imputed_emphasis,0.25,Individual performance (Committee discretion to reduce or eliminate award)
+NKE,2018,imputed_emphasis,0.4,"Individual or Company performance, viewed holistically (Committee discretion)"
+OXY,2017,imputed_emphasis,0.3,Individual performance; Individual performance assessment (other named executive officers)
+OXY,2018,imputed_emphasis,0.05,Individual performance assessment
+OXY,2020,imputed_emphasis,0.0714,Individual performance portion
+OXY,2021,imputed_emphasis,0.1176,"Maintain focus on Occidental's commitment to safety, health, the environment, sustainability, diversity, governance, social responsibility, and the highest standards of ethical conduct; Implement the Board-approved strategic plan in a timely, beneficial and efficient manner"
+OXY,2022,imputed_emphasis,0.2,"Individual performance portion (safety, health, environment, sustainability, diversity, governance, social responsibility, ethical conduct)"
+PFE,2016,imputed_emphasis,1.0,"Annual operating, financial and strategic objectives"
+PFE,2024,imputed_emphasis,0.1875,ESG Scorecard; Other Qualitative Factors
+SBUX,2019,imputed_emphasis,0.2857,Committee Discretion (individual performance adjustment)
+SBUX,2020,imputed_emphasis,0.2308,"Individual Performance Factor; Strategic, operational and leadership goals"
+SBUX,2021,imputed_emphasis,0.15,Individual Performance Factor
+SBUX,2022,imputed_emphasis,0.2,Individual Performance Factor; Living Our Mission and Values/Helping Others Succeed/Strategic and Operational Goals
+SBUX,2024,imputed_emphasis,0.0882,Individual Performance Factor; Living Our Mission and Values/Helping Others Succeed; Strategic and Operational Goals
+SLB,2016,imputed_emphasis,0.0833,Personal objectives
+SLB,2017,imputed_emphasis,0.0526,"Personal objectives; Strategic personal objectives (M&A, market share, R&D, manufacturing, Transformation, employee engagement); Ensure over 95% of tasks completed under Transformation program"
+SLB,2018,disclosed,0.5,"Personal objectives (strategic, operational and key personal objectives)"
+SLB,2019,imputed_emphasis,0.1,"Key personal objectives (strategic, operational and personal objectives)"
+SLB,2020,disclosed,0.3,Key personal objectives
+SLB,2021,imputed_emphasis,0.0857,Key personal objectives
+SLB,2022,imputed_emphasis,0.05,Strategic Personal Goals
+SLB,2023,imputed_emphasis,0.0545,Strategic personal objectives
+SLB,2024,imputed_emphasis,0.2,Individual Goals (strategic personal objectives)
+TGT,2016,imputed_emphasis,0.0833,"Personal performance review (enterprise leadership, development of a high performing and diverse team, commitment to high ethical standards, achievement of strategic goals)"
+TGT,2017,imputed_emphasis,0.08,Team scorecard
+TGT,2018,imputed_emphasis,0.066,Team scorecard; Supply chain optimization
+TGT,2019,imputed_emphasis,0.066,Team scorecard; New small format stores and store remodels
+TGT,2022,imputed_emphasis,0.055,Team Scorecard
+TGT,2023,imputed_emphasis,0.055,Team scorecard
+TGT,2024,imputed_emphasis,0.055,Team scorecard
+TJX,2017,imputed_emphasis,1.0,Fiscal 2017 MIP (Corporate)
+TJX,2021,imputed_emphasis,0.2857,Key Business Priorities during the Pandemic; Operational Recovery
+TMO,2016,imputed_emphasis,0.05,Non-financial measures (company-wide)
+TMO,2017,imputed_emphasis,0.0714,Non-financial measures
+TMO,2018,imputed_emphasis,0.05,Non-financial measures
+TMO,2019,imputed_emphasis,0.06,Non-financial performance (strategic assessment)
+TMO,2021,imputed_emphasis,0.06,Non-financial performance
+TMO,2022,imputed_emphasis,0.06,Non-financial performance
+UNH,2022,imputed_emphasis,0.0833,Stewardship
+UNH,2023,imputed_emphasis,0.0833,Stewardship
+VLO,2016,imputed_emphasis,0.1,Company Goals and Objectives
+VLO,2017,imputed_emphasis,0.1333,Operational Performance Goals; Mechanical Availability; Individual performance
+VLO,2019,imputed_emphasis,0.1333,Operational Performance Goals; Mechanical Availability; Individual performance (qualitative evaluation of the individual's performance)
+VLO,2022,imputed_emphasis,0.05,Strategic Execution
+VLO,2023,imputed_emphasis,0.1,Strategic Execution
+WFC,2016,imputed_emphasis,0.0571,"Strategic Priorities (customer relationships, revenue growth, risk management, expense management, community engagement, diversity and inclusion)"
+WFC,2020,imputed_emphasis,0.0833,Individual performance
+WFC,2021,imputed_emphasis,0.1429,Individual Performance
+WFC,2023,imputed_emphasis,0.1567,Company performance; Individual performance; Operational Excellence
+WFC,2024,imputed_emphasis,0.4429,Company performance achievement; Individual performance achievement; Operational Excellence
+XOM,2019,imputed_emphasis,0.125,Individual performance assessment
+XOM,2024,imputed_emphasis,0.0769,Individual performance assessment against goals and objectives

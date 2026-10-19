@@ -10,9 +10,9 @@ Firm-years with A: 383; firms: 48.
 | A | 383.000 | 0.407 | 0.288 | 0.000 | 0.000 | 0.167 | 0.375 | 0.625 | 0.818 | 1.000 |
 | A_ex_shareholders | 380.000 | 0.350 | 0.304 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 0.750 | 1.000 |
 | unstated_backing | 285.000 | 0.195 | 0.290 | 0.000 | 0.000 | 0.000 | 0.000 | 0.333 | 0.600 | 1.000 |
-| A_tau5 | 253.000 | 0.333 | 0.272 | 0.000 | 0.000 | 0.125 | 0.308 | 0.500 | 0.741 | 1.000 |
-| A_tau10 | 253.000 | 0.293 | 0.241 | 0.000 | 0.000 | 0.111 | 0.250 | 0.429 | 0.615 | 1.000 |
-| A_tau20 | 253.000 | 0.236 | 0.193 | 0.000 | 0.000 | 0.100 | 0.221 | 0.333 | 0.500 | 1.000 |
+| A_tau5 | 350.000 | 0.384 | 0.279 | 0.000 | 0.000 | 0.165 | 0.355 | 0.596 | 0.773 | 1.000 |
+| A_tau10 | 350.000 | 0.335 | 0.250 | 0.000 | 0.000 | 0.158 | 0.306 | 0.499 | 0.686 | 1.000 |
+| A_tau20 | 350.000 | 0.261 | 0.200 | 0.000 | 0.000 | 0.121 | 0.241 | 0.359 | 0.511 | 1.000 |
 
 ### By sector
 | sector | n | firms | mean_A | median_A | mean_A_ex_sh | mean_unstated |
@@ -66,64 +66,108 @@ Highest 8:
 | GS | Financials | 9 | 0.672 | 0.617 | 0.171 |  |
 
 ## Sensitivity to τ
-Compared on the 253 firm-years (41 firms) where all four τ values are defined (the weighted versions need disclosed or imputed weights).
+Compared on the 350 firm-years (46 firms) where all four τ values are defined (the weighted versions need disclosed or imputed weights).
 
 Spearman rank correlation of firm rankings (firm mean A):
 
 |  | τ→0 | τ=5% | τ=10% | τ=20% |
 |---|---|---|---|---|
-| τ→0 | 1.000 | 0.936 | 0.889 | 0.824 |
-| τ=5% | 0.936 | 1.000 | 0.977 | 0.920 |
-| τ=10% | 0.889 | 0.977 | 1.000 | 0.971 |
-| τ=20% | 0.824 | 0.920 | 0.971 | 1.000 |
+| τ→0 | 1.000 | 0.958 | 0.928 | 0.869 |
+| τ=5% | 0.958 | 1.000 | 0.976 | 0.904 |
+| τ=10% | 0.928 | 0.976 | 1.000 | 0.963 |
+| τ=20% | 0.869 | 0.904 | 0.963 | 1.000 |
 
 Firms whose rank drops most as τ rises (token coverage: pay criteria exist but carry little weight):
 
 | ticker | rank_tau0 | rank_tau20 | rank_drop | A_tau0 | A_tau20 | n | flag |
 |---|---|---|---|---|---|---|---|
-| TGT | 16.000 | 34.000 | 18.000 | 0.549 | 0.085 | 3 | n<5 |
-| TMO | 13.000 | 31.000 | 18.000 | 0.610 | 0.101 | 5 |  |
-| NKE | 26.000 | 41.000 | 15.000 | 0.306 | 0.010 | 6 |  |
-| WFC | 5.000 | 17.000 | 12.000 | 0.724 | 0.267 | 6 |  |
-| MSFT | 4.000 | 15.000 | 11.000 | 0.798 | 0.292 | 9 |  |
-| BMY | 15.000 | 21.000 | 6.000 | 0.580 | 0.237 | 7 |  |
-| INTC | 14.000 | 19.000 | 5.000 | 0.591 | 0.244 | 5 |  |
-| GS | 6.000 | 11.000 | 5.000 | 0.715 | 0.328 | 6 |  |
-| JNJ | 7.000 | 12.000 | 5.000 | 0.710 | 0.323 | 8 |  |
-| MS | 25.000 | 28.000 | 3.000 | 0.315 | 0.182 | 3 | n<5 |
+| TMO | 16.000 | 36.000 | 20.000 | 0.548 | 0.117 | 9 |  |
+| SLB | 18.000 | 34.000 | 16.000 | 0.505 | 0.150 | 9 |  |
+| MSFT | 4.000 | 20.000 | 16.000 | 0.798 | 0.292 | 9 |  |
+| NKE | 31.000 | 45.000 | 14.000 | 0.262 | 0.009 | 7 |  |
+| TGT | 19.000 | 29.000 | 10.000 | 0.476 | 0.197 | 9 |  |
+| BMY | 15.000 | 23.000 | 8.000 | 0.580 | 0.237 | 7 |  |
+| IBM | 34.000 | 41.000 | 7.000 | 0.250 | 0.066 | 9 |  |
+| JNJ | 9.000 | 15.000 | 6.000 | 0.676 | 0.343 | 9 |  |
+| GOOGL | 43.000 | 46.000 | 3.000 | 0.138 | 0.000 | 2 | n<5 |
+| WFC | 8.000 | 11.000 | 3.000 | 0.685 | 0.359 | 9 |  |
 
 ## Robustness: stated weights only
-The weighted index recomputed with only `disclosed` and `derived_from_stated_split` weights (Part 2's `imputed_emphasis` estimates excluded). Defined for 85 firm-years, 19 firms. Rankings compared on the same firm-years.
+The weighted index recomputed with only `disclosed` and `derived_from_stated_split` weights (Part 2's `imputed_emphasis` estimates excluded). Defined for 99 firm-years, 23 firms. Rankings compared on the same firm-years.
 
 | comparison | spearman |
 |---|---|
-| τ=10%: all weights vs stated only | 0.963 |
-| τ=20%: all weights vs stated only | 0.974 |
-| τ→0 vs τ=10% stated only | 0.639 |
+| τ=10%: all weights vs stated only | 0.790 |
+| τ=20%: all weights vs stated only | 0.844 |
+| τ→0 vs τ=10% stated only | 0.447 |
 
 Firm means (τ = 10%):
 
 | ticker | n | A_tau0 | A_tau10_all | A_tau10_stated | A_tau20_all | A_tau20_stated | rank_all | rank_stated | flag |
 |---|---|---|---|---|---|---|---|---|---|
 | JPM | 2 | 0.826 | 0.826 | 0.826 | 0.826 | 0.826 | 1.000 | 1.000 | n<5 |
-| TJX | 2 | 0.429 | 0.429 | 0.429 | 0.429 | 0.429 | 3.000 | 2.000 | n<5 |
-| LOW | 5 | 0.411 | 0.411 | 0.411 | 0.319 | 0.319 | 4.000 | 3.000 |  |
-| MPC | 3 | 0.546 | 0.399 | 0.354 | 0.317 | 0.246 | 5.000 | 4.000 | n<5 |
-| XOM | 2 | 0.604 | 0.514 | 0.292 | 0.413 | 0.292 | 2.000 | 5.000 | n<5 |
-| MCD | 4 | 0.368 | 0.264 | 0.264 | 0.213 | 0.213 | 6.000 | 6.000 | n<5 |
-| BMY | 6 | 0.562 | 0.264 | 0.252 | 0.235 | 0.229 | 7.000 | 7.000 |  |
-| UNH | 2 | 0.250 | 0.250 | 0.250 | 0.156 | 0.156 | 8.000 | 8.000 | n<5 |
-| LLY | 2 | 0.225 | 0.225 | 0.225 | 0.225 | 0.225 | 9.000 | 9.000 | n<5 |
-| AVGO | 2 | 0.167 | 0.167 | 0.167 | 0.093 | 0.093 | 12.000 | 10.000 | n<5 |
-| HD | 9 | 0.156 | 0.156 | 0.156 | 0.156 | 0.156 | 13.000 | 11.000 |  |
-| MDT | 9 | 0.383 | 0.212 | 0.154 | 0.209 | 0.153 | 10.000 | 12.000 |  |
-| MRK | 6 | 0.175 | 0.175 | 0.139 | 0.175 | 0.139 | 11.000 | 13.000 |  |
-| SBUX | 3 | 0.053 | 0.053 | 0.053 | 0.053 | 0.053 | 16.000 | 14.000 | n<5 |
-| CRM | 8 | 0.088 | 0.055 | 0.041 | 0.039 | 0.032 | 15.000 | 15.000 |  |
-| IBM | 6 | 0.161 | 0.021 | 0.021 | 0.021 | 0.021 | 17.000 | 16.000 |  |
-| PFE | 7 | 0.181 | 0.080 | 0.008 | 0.080 | 0.008 | 14.000 | 17.000 |  |
-| NKE | 3 | 0.590 | 0.000 | 0.000 | 0.000 | 0.000 | 18.500 | 18.500 | n<5 |
-| ABT | 4 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 18.500 | 18.500 | n<5 |
+| TJX | 2 | 0.429 | 0.429 | 0.429 | 0.429 | 0.429 | 5.000 | 2.000 | n<5 |
+| LOW | 5 | 0.411 | 0.411 | 0.411 | 0.319 | 0.319 | 6.000 | 3.000 |  |
+| MPC | 5 | 0.602 | 0.461 | 0.405 | 0.336 | 0.267 | 4.000 | 4.000 |  |
+| META | 4 | 0.487 | 0.477 | 0.374 | 0.425 | 0.374 | 3.000 | 5.000 | n<5 |
+| XOM | 2 | 0.604 | 0.514 | 0.292 | 0.413 | 0.292 | 2.000 | 6.000 | n<5 |
+| MCD | 4 | 0.368 | 0.264 | 0.264 | 0.213 | 0.213 | 8.000 | 7.000 | n<5 |
+| BMY | 6 | 0.562 | 0.264 | 0.252 | 0.235 | 0.229 | 9.000 | 8.000 |  |
+| UNH | 2 | 0.250 | 0.250 | 0.250 | 0.156 | 0.156 | 10.000 | 9.000 | n<5 |
+| LLY | 2 | 0.225 | 0.225 | 0.225 | 0.225 | 0.225 | 11.000 | 10.000 | n<5 |
+| COP | 2 | 0.167 | 0.167 | 0.167 | 0.153 | 0.153 | 15.500 | 11.500 | n<5 |
+| AVGO | 2 | 0.167 | 0.167 | 0.167 | 0.093 | 0.093 | 15.500 | 11.500 | n<5 |
+| HD | 9 | 0.156 | 0.156 | 0.156 | 0.156 | 0.156 | 17.000 | 13.000 |  |
+| MDT | 9 | 0.383 | 0.212 | 0.154 | 0.209 | 0.153 | 13.000 | 14.000 |  |
+| MRK | 6 | 0.175 | 0.175 | 0.139 | 0.175 | 0.139 | 14.000 | 15.000 |  |
+| SBUX | 3 | 0.053 | 0.053 | 0.053 | 0.053 | 0.053 | 20.000 | 16.000 | n<5 |
+| CRM | 8 | 0.088 | 0.055 | 0.041 | 0.039 | 0.032 | 19.000 | 17.000 |  |
+| IBM | 6 | 0.161 | 0.039 | 0.021 | 0.039 | 0.021 | 21.000 | 18.000 |  |
+| PFE | 7 | 0.181 | 0.116 | 0.008 | 0.113 | 0.008 | 18.000 | 19.000 |  |
+| INTC | 2 | 0.464 | 0.402 | 0.000 | 0.246 | 0.000 | 7.000 | 21.500 | n<5 |
+| NKE | 3 | 0.590 | 0.000 | 0.000 | 0.000 | 0.000 | 22.500 | 21.500 | n<5 |
+| SLB | 4 | 0.525 | 0.214 | 0.000 | 0.107 | 0.000 | 12.000 | 21.500 | n<5 |
+| ABT | 4 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 22.500 | 21.500 | n<5 |
+
+## Residual: bonus weight on criteria with no stakeholder (`other` >= 5%)
+136 of 375 proxy-years with weights put >= 5% of the bonus on criteria that fit no stakeholder (34 firms; full list in `other_residual.csv`). These weights are not counted toward any category, so they lower weighted coverage only by leaving less weight for stakeholders; they are not unresolved splits.
+
+| ticker | years | mean_other | example |
+|---|---|---|---|
+| GOOGL | 1 | 1.00 | Environmental, Social, and Governance Bonus |
+| TJX | 2 | 0.64 | Fiscal 2017 MIP (Corporate) |
+| PFE | 2 | 0.59 | Annual operating, financial and strategic objectives |
+| META | 9 | 0.42 | Individual performance percentage; Overall performance, impact, and results; Lea |
+| NKE | 2 | 0.33 | Individual performance (Committee discretion to reduce or eliminate award) |
+| MDT | 1 | 0.31 | Team Performance; Individual Performance |
+| MS | 5 | 0.30 | Major infrastructure initiatives |
+| INTC | 6 | 0.29 | Operational Performance Component |
+| IBM | 4 | 0.25 | Individual Contribution Factor (ICF); Factors beyond IBM's financial performance |
+| AVGO | 3 | 0.25 | Individual performance multiplier |
+| MRK | 1 | 0.25 | Individual performance |
+| AAPL | 2 | 0.22 | ESG Modifier (Apple values and key community initiatives: accessibility, educati |
+| ABT | 1 | 0.20 | Strategic Initiatives |
+| COP | 7 | 0.19 | Strategic Plan; Award Unit Performance; Individual Performance Adjustments; Stak |
+| SBUX | 5 | 0.19 | Committee Discretion (individual performance adjustment) |
+| AXP | 3 | 0.19 | Strategic Imperatives (Company scorecard category) |
+| ABBV | 5 | 0.18 | Business Development; Other (including strategic initiatives, etc.); Qualitative |
+| F | 1 | 0.18 | Individual Performance Factor |
+| WFC | 5 | 0.18 | Strategic Priorities (customer relationships, revenue growth, risk management, e |
+| GS | 3 | 0.17 | Individual performance (360° Review Process) |
+| CVX | 5 | 0.16 | Individual Performance Factor |
+| SLB | 9 | 0.16 | Personal objectives |
+| LOW | 2 | 0.15 | strategic initiatives |
+| OXY | 5 | 0.15 | Individual performance; Individual performance assessment (other named executive |
+| BLK | 8 | 0.14 | Business Strength; Operational Performance |
+| C | 6 | 0.12 | Non-financial goals (30% weighting); Execute on key franchise initiatives; Set s |
+| EOG | 5 | 0.12 | Strategic and other operational goals; other strategic goals |
+| VLO | 5 | 0.10 | Company Goals and Objectives |
+| XOM | 2 | 0.10 | Individual performance assessment |
+| JNJ | 4 | 0.10 | Excellence in Execution (portfolio, organizational effectiveness, quality, and s |
+| UNH | 2 | 0.08 | Stewardship |
+| MPC | 2 | 0.08 | Mechanical Availability |
+| TGT | 7 | 0.07 | Personal performance review (enterprise leadership, development of a high perfor |
+| TMO | 6 | 0.06 | Non-financial measures (company-wide) |
 
 ## Validity
 ### Known groups
@@ -131,15 +175,15 @@ Firm means (τ = 10%):
 
 | year | s_customers | d_customers | cov_customers | w_customers | cov10_customers | A | A_tau10 | A_reason |
 |---|---|---|---|---|---|---|---|---|
-| 2016 | 2.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.83 | 0.17 |  |
+| 2016 | 2.00 | 1.00 | 1.00 | 0.06 | 0.57 | 0.83 | 0.69 |  |
 | 2017 | 3.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.43 | 0.14 |  |
 | 2018 | 3.00 | 1.00 | 1.00 | 0.04 | 0.42 | 0.84 | 0.53 |  |
 | 2019 | 3.00 | 1.00 | 1.00 | 0.04 | 0.42 | 0.84 | 0.53 |  |
-| 2020 | 3.00 | 0.00 | 0.00 |  |  | 0.42 |  |  |
+| 2020 | 3.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.42 | 0.42 |  |
 | 2021 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | 0.40 | 0.40 |  |
-| 2022 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | 1.00 | 0.40 |  |
-| 2023 | 1.00 | 1.00 | 1.00 |  |  | 1.00 |  |  |
-| 2024 | 1.00 | 1.00 | 1.00 |  |  | 0.40 |  |  |
+| 2022 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | 1.00 | 0.92 |  |
+| 2023 | 1.00 | 1.00 | 1.00 | 0.09 | 0.93 | 1.00 | 0.83 |  |
+| 2024 | 1.00 | 1.00 | 1.00 | 0.09 | 0.93 | 0.40 | 0.31 |  |
 
 **XOM environment** (expected: coverage jumps from 2022). `s` = stated salience, `d` = pay-linked criteria and `w` = plan weight (max over proxies t and t+1), `cov` = coverage indicator (τ→0), `cov10` = weighted coverage at τ = 10%:
 
@@ -152,22 +196,22 @@ Firm means (τ = 10%):
 | 2020 | 1.00 | 1.00 | 1.00 | 0.17 | 1.00 | 0.36 | 0.33 |  |
 | 2021 | 1.00 | 4.00 | 1.00 | 0.30 | 1.00 | 0.42 | 0.39 |  |
 | 2022 | 1.00 | 4.00 | 1.00 | 0.38 | 1.00 | 0.36 | 0.33 |  |
-| 2023 | 1.00 | 4.00 | 1.00 | 0.38 | 1.00 | 0.60 | 0.38 |  |
-| 2024 | 2.00 | 3.00 | 1.00 |  |  | 0.75 |  |  |
+| 2023 | 1.00 | 4.00 | 1.00 | 0.38 | 1.00 | 0.60 | 0.55 |  |
+| 2024 | 2.00 | 3.00 | 1.00 | 0.15 | 1.00 | 0.75 | 0.71 |  |
 
 **WFC, every category** (cell = stated salience / coverage τ→0 / weighted coverage τ=10%):
 
 | year | page_type | A | customers | employees | dei | environment | community | shareholders | integrity | safety | innovation |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 2016 | values | 0.83 | 2/1/0.0 | 1/0/0.0 | 0/1/0.0 | 0/0/0.0 | 0/1/0.0 | 1/1/1.0 | 2/1/0.0 | 0/0/0.0 | 0/0/0.0 |
+| 2016 | values | 0.83 | 2/1/0.6 | 1/0/0.0 | 0/1/0.7 | 0/0/0.0 | 0/1/0.3 | 1/1/1.0 | 2/1/1.0 | 0/0/0.0 | 0/0/0.0 |
 | 2017 | values | 0.43 | 3/0/0.0 | 1/0/0.0 | 0/0/0.0 | 0/0/0.0 | 0/0/0.0 | 1/1/1.0 | 2/1/0.0 | 0/0/0.0 | 0/0/0.0 |
 | 2018 | values | 0.84 | 3/1/0.4 | 3/1/0.4 | 3/1/0.6 | 1/0/0.0 | 2/1/0.4 | 2/1/1.0 | 3/1/1.0 | 0/0/0.0 | 2/0/0.0 |
 | 2019 | values | 0.84 | 3/1/0.4 | 3/1/0.4 | 3/1/0.6 | 1/0/0.0 | 2/1/0.4 | 2/1/1.0 | 3/1/1.0 | 0/0/0.0 | 2/0/0.0 |
-| 2020 | values | 0.42 | 3/0 | 3/0 | 3/1 | 1/0 | 2/0 | 2/1 | 3/1 | 0/0 | 2/0 |
-| 2021 | about | 0.40 | 1/1/1.0 | 0/1/0.6 | 0/1/0.6 | 1/1/1.0 | 3/0/0.0 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
-| 2022 | about | 1.00 | 1/1/1.0 | 0/1/0.6 | 0/1/0.6 | 1/1/1.0 | 3/1/0.0 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
-| 2023 | about | 1.00 | 1/1 | 0/1 | 0/1 | 1/1 | 3/1 | 0/1 | 0/1 | 0/0 | 0/1 |
-| 2024 | about | 0.40 | 1/1 | 0/1 | 0/1 | 1/1 | 3/0 | 0/1 | 0/1 | 0/0 | 0/1 |
+| 2020 | values | 0.42 | 3/0/0.0 | 3/0/0.0 | 3/1/1.0 | 1/0/0.0 | 2/0/0.0 | 2/1/1.0 | 3/1/1.0 | 0/0/0.0 | 2/0/0.0 |
+| 2021 | about | 0.40 | 1/1/1.0 | 0/1/0.6 | 0/1/1.0 | 1/1/1.0 | 3/0/0.0 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
+| 2022 | about | 1.00 | 1/1/1.0 | 0/1/1.0 | 0/1/0.6 | 1/1/1.0 | 3/1/0.9 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
+| 2023 | about | 1.00 | 1/1/0.9 | 0/1/1.0 | 0/1/0.3 | 1/1/0.6 | 3/1/0.9 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
+| 2024 | about | 0.40 | 1/1/0.9 | 0/1/0.9 | 0/1/0.3 | 1/1/0.6 | 3/0/0.0 | 0/1/0.9 | 0/1/0.9 | 0/0/0.0 | 0/1/0.9 |
 
 ### Discriminant check
 OLS of A (τ→0) on page type, log page word count and sector, standard errors clustered by firm. A valid alignment measure should not be explained by which page was scraped or how long it is.

@@ -189,6 +189,29 @@ def robustness_stated_weights(ok: pd.DataFrame, res: list) -> None:
             "Firm means (τ = 10%):", "", md_table(f.reset_index(), ".3f"), ""]
 
 
+def other_residual(res: list) -> None:
+    """Documented residual: proxy-years with >= 5% of the bonus in `other` (no stakeholder)."""
+    panel = pd.read_csv(ROOT / "part2_lived_values" / "output" / "lived_values_panel.csv")
+    met = pd.read_csv(ROOT / "part2_lived_values" / "output" / "analysis" / "incentive_metrics.csv")
+    r = panel[panel.cat_weight_other >= 0.05][["ticker", "year", "weight_source", "cat_weight_other"]].copy()
+    oth = (met[(met.category == "other") & (met.plan == "annual_incentive") & (met.applies_to == "reported_year")]
+           .groupby(["ticker", "filing_year"]).metric.apply(lambda m: "; ".join(dict.fromkeys(m)))
+           .rename("other_criteria").reset_index().rename(columns={"filing_year": "year"}))
+    r = r.merge(oth, on=["ticker", "year"], how="left").sort_values(["ticker", "year"])
+    r.to_csv(AN / "other_residual.csv", index=False)
+    n_w = int(panel[[c for c in panel.columns if c.startswith("cat_weight_")
+                     and not c.startswith("cat_weight_lti")]].notna().any(axis=1).sum())
+    by_firm = r.groupby("ticker").agg(years=("year", "size"), mean_other=("cat_weight_other", "mean"),
+                                      example=("other_criteria", "first")).reset_index()
+    by_firm["example"] = by_firm.example.fillna("").str.slice(0, 80)
+    res += ["## Residual: bonus weight on criteria with no stakeholder (`other` >= 5%)",
+            f"{len(r)} of {n_w} proxy-years with weights put >= 5% of the bonus on criteria that fit no "
+            f"stakeholder ({r.ticker.nunique()} firms; full list in `other_residual.csv`). These weights are not "
+            "counted toward any category, so they lower weighted coverage only by leaving less weight for "
+            "stakeholders; they are not unresolved splits.", "",
+            md_table(by_firm.sort_values("mean_other", ascending=False), ".2f"), ""]
+
+
 def validity(d: pd.DataFrame, ok: pd.DataFrame, res: list) -> None:
     res += ["## Validity", "### Known groups"]
     for t, k, years, expect in (("WFC", "customers", range(2016, 2025), "low coverage 2016-2018"),
@@ -248,6 +271,7 @@ def main() -> int:
     firm_ranking(ok, res)
     sensitivity(ok, res)
     robustness_stated_weights(ok, res)
+    other_residual(res)
     validity(d, ok, res)
     (AN / "results.md").write_text("\n".join(res))
     print("\n".join(res))
