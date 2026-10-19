@@ -119,7 +119,8 @@ The pre-fill is rule-based plus a manual read, and a reviewer spot-checks it. `s
 `stated_values.csv` has one row per company-year: 450 rows, with the 35 gap years kept as `status = missing`. The required columns come first: `ticker, company_name, sector, year, page_text_clean, changed_from_prior, theme_categories, analyst_notes`.
 
 ### Theme categories
-- **Taxonomy.** Rows are coded into the **shared stakeholder taxonomy** (CLAUDE.md; Freeman 1984) that Part 2 uses for proxy statements. The 9 codes are customers, employees, dei, environment, community, shareholders, integrity, safety and innovation.
+- **Taxonomy.** Rows are coded into the **shared stakeholder taxonomy** that Part 2 uses for proxy statements, grounded in stakeholder theory (Freeman 1984). The 9 codes are customers, employees, dei, environment, community, shareholders, integrity, safety and innovation. The full definitions, the theory rationale, why `dei` and `safety` are separate categories, and the tie-break rules are in the Part 2 README, [Shared stakeholder taxonomy](../part2_lived_values/README.md#shared-stakeholder-taxonomy), and in `part2_lived_values/src/theme_dictionary.py`.
+- **Why `dei` and `safety` stand alone.** DEI shows the sharpest swings of the period (2020 racial-justice moment, 2023 SFFA ruling and backlash), which folding it into `employees` would hide. Safety is the clearest say/do test for energy firms, whose safety rhetoric can be checked against safety metrics in their pay plans.
 - **Why this taxonomy.** Part 3 compares what a firm says (this page) with what it pays for and is pressed on (its proxy), stakeholder by stakeholder. That comparison only works if both sides use identical categories.
 - **No duplicated definitions.** The definitions and tie-break rules are imported read-only from Part 2's `part2_lived_values/src/theme_dictionary.py`, so the two parts cannot drift apart.
 
@@ -229,6 +230,17 @@ Firms under 6 of 9 years:
 - **LOW (5/9).** The corporate site is not archived before 2020.
 
 Every gap has a row in `gap_log.csv`, and every capture tried has a row in `decision_log.csv`.
+
+## Assumptions
+Collected from the decisions above:
+- A firm's dedicated values or mission page, or its general About page when none exists, represents its stated values for that year.
+- The capture nearest July 1 represents the page for the calendar year.
+- A URL a page redirects to is the same logical page. A redirect to a homepage, login, sitemap, search or error page, or to an unrelated domain, means the page was retired.
+- The page type (values vs About) can be read from the URL path.
+- The visible text of the raw `id_` capture is what visitors saw. Content rendered only by JavaScript is missing.
+- Word-sequence similarity of 0.98 or more between consecutive years means no substantive change.
+- Business description (products, size, rankings, scale) is not a stated value unless the sentence states a commitment.
+- LLM salience coding with verbatim evidence approximates a careful human reading (hand-checked on a pilot sample).
 
 ## Known limitations
 - **Page type is URL-based.** An About page that carries a full values statement is labelled `about`.

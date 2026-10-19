@@ -1,8 +1,9 @@
 # Part 2: Lived values (SEC proxy statements)
 
-**Status:** data collection is complete for all 50 firms. Both analysis layers
-have run on the MSFT, JPM and XOM pilot, and the LLM layer has been hand-checked on
-10 firm-years (results below). The 50-firm run is pending.
+**Status:** complete for all 50 firms, 2016-2024. Proxies are collected, both
+analysis layers have run, and the firm-year panel is built
+(`output/lived_values_panel.csv`). The LLM layer was hand-checked on 10
+firm-years (results below). An out-of-sample extension covers 2025-2026.
 
 **Coverage: 450 of 450 firm-years have a proxy.** 441 are clean and 9 are flagged
 for review (listed below).
@@ -102,6 +103,56 @@ SEC JSON, filing headers and raw documents are cached on disk.
      as skills-matrix entries ("ethnic, gender, national, or other diversity")
      or "Board recommendation", are deliberately kept, because they are content.
 
+## Shared stakeholder taxonomy
+Parts 1 and 2 code text into exactly the same nine categories, so that Part 3 can
+compare the say side (About pages, Part 1) with the do side (proxies, Part 2)
+category by category. The definitions, coding rules and seed terms live in
+`src/theme_dictionary.py`, which Part 1 imports read-only; every seed term there
+has a written rationale.
+
+**Framework: stakeholder theory (Freeman 1984).** A values statement declares
+which stakeholders the firm prioritizes. Proxy compensation metrics (what
+executives are paid to deliver) and shareholder proposals (what investors press
+the board on, and how the board responds) map onto the same stakeholders. One
+taxonomy therefore covers both sides.
+
+| Code | Covers |
+|---|---|
+| `customers` | Customer focus, satisfaction, service quality, product access and affordability |
+| `employees` | Workforce, talent, culture, engagement, wellbeing, workforce-wide pay and benefits, human capital |
+| `dei` | Diversity, equity, inclusion: representation goals, board diversity, gender/racial pay equity, belonging |
+| `environment` | Climate, emissions, energy transition, sustainability, natural resources |
+| `community` | Communities, philanthropy, social impact, human rights, broader society |
+| `shareholders` | Shareholder value, financial performance, returns, growth, capital discipline |
+| `integrity` | Ethics, compliance, governance, transparency, accountability, risk culture |
+| `safety` | Health and safety of workers and operations, process safety, product safety |
+| `innovation` | Innovation, R&D, technology, new products, transformation |
+
+**Why two of the splits:**
+- `dei` is separate from `employees` because it shows the sharpest swings over
+  2020-2023: the 2020 racial-justice moment, then the 2023 SFFA ruling and the
+  anti-DEI backlash. Folding it into `employees` would hide that movement.
+- `safety` is separate because it is the clearest say/do test for energy firms:
+  their safety rhetoric can be checked directly against safety metrics in their
+  incentive plans.
+
+**Coding rules** (`theme_dictionary.CODING_RULES`, also used in the LLM prompts
+of both parts):
+- Text can belong to several categories (multi-label).
+- Tie-breaks for ambiguous cases, from the pilot hand check:
+  - Financial, stock-market and capital metrics are `shareholders`.
+  - Business-volume metrics (subscribers, active users, market share) are
+    `shareholders`, because they measure growth. `customers` is for customer
+    outcomes: satisfaction, service, access, affordability.
+  - Risk, controls, conduct, compliance and capital-adequacy safeguards are
+    `integrity`.
+  - Gender/racial pay equity and representation are `dei`, not `employees`.
+  - Executive pay design is `shareholders`; clawbacks and misconduct are
+    `integrity`. Executives are not the `employees` stakeholder.
+  - Board structure, independence, lobbying and political spending are
+    `integrity`. Shareholder voting rights are `shareholders`.
+- Text that fits no category is coded `other`, which is not a theme.
+
 ## Outputs (`output/`)
 | File | Grain | Contents |
 |---|---|---|
@@ -167,10 +218,9 @@ are in the docstring of `src/build_panel.py`. In brief:
 
 ## Analysis
 Run order for all firms: `text_measures.py` → `plot_trends.py` → `llm_extract.py` → `build_panel.py`.
-Both layers code text into the shared stakeholder taxonomy defined in the repo's
-CLAUDE.md (customers, employees, dei, environment, community, shareholders,
-integrity, safety, innovation; the definitions are mirrored in
-`theme_dictionary.CATEGORY_DEFINITIONS`).
+Both layers code text into the shared stakeholder taxonomy (see
+[Shared stakeholder taxonomy](#shared-stakeholder-taxonomy) above; definitions in
+`src/theme_dictionary.py`, `CATEGORY_DEFINITIONS`).
 
 ```bash
 python part2_lived_values/src/text_measures.py --tickers MSFT JPM XOM     # layer 1
@@ -265,8 +315,9 @@ Changes:
     - category and an evidence quote.
   - (b) Every shareholder proposal, with topic, category and the board's
     recommendation.
-- **Shared coding rules** (`theme_dictionary.CODING_RULES`, mirrored in
-  CLAUDE.md) settle the ambiguous cases the hand check exposed: business-volume
+- **Shared coding rules** (`theme_dictionary.CODING_RULES`, listed under
+  [Shared stakeholder taxonomy](#shared-stakeholder-taxonomy) above) settle the
+  ambiguous cases the hand check exposed: business-volume
   metrics, capital hurdles, pay equity, executive pay, governance and voting
   rights.
 - **Which aggregate to use:** `llm_firm_year.csv` gives, per firm-year,
@@ -451,6 +502,27 @@ python part2_lived_values/src/llm_extract.py --tasks incentives
 - The CD&A length guard needs a firm's other years, so with two years it is
   inactive in the extension.
 
+## Assumptions
+Collected from the decisions and sections above:
+- A firm-year is the calendar year of the proxy's filing date. A proxy filed in year t mainly reports fiscal t-1, so `fiscal_year_covered` is carried for lag tests.
+- The company's own definitive proxy (DEF 14A, or DEFC14A when the company itself filed it) is the authoritative document. Amendments, additional materials and third-party solicitations are excluded.
+- One proxy per firm-year: the annual-meeting proxy is preferred over special-meeting proxies, then the earliest filing.
+- The primary document holds the proxy body. Texts under 5,000 words are flagged rather than trusted.
+- Today's `company_tickers.json`, plus documented CIK overrides, maps each ticker to the registrants that filed its 2016-2024 proxies.
+- "Firm voice" (the proxy minus the shareholder-proposal section) is the firm's own language; proposal text is largely written by proponents.
+- The criteria the CD&A ties incentive pay to for the reported cycle are what the board pays for (the lived-values signal).
+- Where a weight is not stated, the emphasis the text gives a criterion approximates its weight (about ±10 pp item-level error in the masking test).
+
+## With more time
+Drawn from the limitations and known issues documented above:
+- Capture text and figures inside images (infographics, pay-mix charts), for example with OCR, since they are currently missed.
+- Measure stance, not only emphasis, in the dictionary layer (for example, separate support for DEI from opposition to a DEI proposal), extending what the LLM layer's board-recommendation field does for proposals.
+- Reduce reliance on imputed weights (about ±10 pp item-level error): resolve more stated splits and refine the emphasis model where the masking test shows it fails (qualitative components that get more text than weight).
+- Resolve the TJX 2017 long-term plan row, which needs a source that names the measure rather than an inference.
+- Track historical registrant changes and fiscal-year-end changes directly, instead of relying on today's ticker file and each registrant's current year end.
+- Normalize for the growth in proxy length and format (graphics, pay-versus-performance tables from 2023), for example with section-level rates, so that per-10k-word trends reflect substance.
+- Extend to all 500 firms. The CIK sanity check keeps the manual-review list short at that scale.
+
 ## Known limitations
 - `company_tickers.json` is a current snapshot. Ticker reuse or registrant changes
   need the override file; the sanity check catches only registrants created after 2016.
@@ -475,3 +547,6 @@ python part2_lived_values/src/llm_extract.py --tasks incentives
 - Proxy length and format changed a lot over 2016-2024 (more graphics,
   pay-versus-performance tables from 2023), which can move per-10k-word rates
   without any change in substance. Shares are less exposed to this.
+- COVID-19 was considered as an external event but not modeled as a separate
+  event marker, so 2020-2021 shifts are attributed only to the events in
+  `events.py`.

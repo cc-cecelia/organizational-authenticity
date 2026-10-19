@@ -116,9 +116,9 @@ NaN reasons:
   - JPM, MSFT and the energy firms score high because they run stakeholder scorecards that name the same stakeholders their pages do.
   - This is the first threat to validity below.
 
-![Each company's average score and its range across years](output/figures/firms_vs_years_summary.png)
+![The 10 highest and 10 lowest companies: average score and range across years](output/figures/firms_vs_years_summary.png)
 
-*What to look for: company averages run from 0.02 to 0.92, while the all-company yearly average (shaded band) stays between 0.36 and 0.47. Individual years still swing when a page or pay plan changes.*
+*What to look for: the 10 highest and 10 lowest of the 45 companies. Their averages run from 0.02 to 0.92, while the all-company yearly average (shaded band) stays between 0.36 and 0.47. Individual years still swing when a page or pay plan changes. All 45 are in `output/analysis/firm_ranking.csv`.*
 
 **By sector and year.**
 - Energy (0.53) and Financials (0.53) score highest. Consumer Discretionary (0.31) and Technology (0.33) score lowest.
@@ -148,7 +148,7 @@ NaN reasons:
 | NKE | 31 | 45 | 7 |
 | TGT | 18 | 29 | 9 |
 
-**Robustness: stated weights only.** As Session 2 suggested, the weighted index was recomputed using only `disclosed` and `derived_from_stated_split` weights, excluding Part 2's `imputed_emphasis` estimates. This leaves 99 firm-years across 23 firms (`output/analysis/robustness_stated_weights.csv`).
+**Robustness: stated weights only.** Because Part 2 marks its estimated weights as approximate (about ±10 pp), the weighted index was recomputed using only `disclosed` and `derived_from_stated_split` weights, excluding Part 2's `imputed_emphasis` estimates. This leaves 99 firm-years across 23 firms (`output/analysis/robustness_stated_weights.csv`).
 - **The rankings mostly hold.** Compared on the same firm-years, the Spearman correlation with the all-weights version is 0.79 at τ = 10% and 0.84 at τ = 20%.
 - **Two firms drive the gap, and both have fewer than 5 firm-years (n<5):**
   - INTC falls from rank 7 to 21.5 and SLB from 12 to 21.5.
@@ -187,6 +187,16 @@ NaN reasons:
 - Page type (values vs About: +0.09, p = 0.13) and page length (p = 0.17) do not significantly explain the score, so the index is not an artifact of which page was scraped or how long it is.
 - Sector does explain the score: Energy is +0.23 (p = 0.001) and Financials +0.23 (p = 0.010), relative to Consumer Discretionary.
 - This is consistent with substance rather than artifact. Energy pay plans carry safety and environment scorecards, and bank plans carry risk and conduct criteria, which matches what those firms state. Cross-firm comparisons are best made within sector.
+
+## Assumptions
+Collected from the rationale and definitions above:
+- Executive incentive criteria are a credible signal of what a firm prioritizes, because pay is costly and legally disclosed; a values page is cheap talk.
+- A stated value is "backed" when the same stakeholder category appears among the pay-linked criteria (a category match, not a judgment of what the pay rewards).
+- A page in year t can be backed by the proxy filed in t or in t+1; the latter reports pay for the year the page was live.
+- Salience on the 0-3 scale measures relative emphasis, so a headline value counts three times a passing mention.
+- With τ → 0, any pay criterion counts as coverage; the weighted versions treat τ as a materiality threshold on the annual bonus.
+- Annual-bonus weights stand for plan weights. Long-term plans are excluded because they are almost entirely financial, and bonus weight in `other` (no stakeholder) is not counted.
+- Part 2's estimated (`imputed_emphasis`) weights are adequate for the weighted versions; the stated-weights robustness check tests this.
 
 ## Limitations and threats to validity
 1. **Construct validity: A measures whether stated values enter executive incentive design, not honesty in general.**

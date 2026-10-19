@@ -1,5 +1,5 @@
 """
-Part 3: Organizational Authenticity Index (spec: CLAUDE.md "Part 3 design").
+Part 3: Organizational Authenticity Index (design and rationale: part3_authenticity_index/README.md).
 
 Usage (from repo root):
     .venv/bin/python part3_authenticity_index/src/build_index.py

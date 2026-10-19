@@ -216,6 +216,15 @@ environmental criteria declined only modestly while talk fell more. Of the
 five firms that keep both (ABBV, JNJ, SLB, VLO, XOM), three are in Energy, the
 closest thing to genuine quiet retention in this sample.
 
+## Assumptions
+Collected from the data and method above:
+- Page salience (Part 1) and proxy firm voice (Part 2, proposal text removed) measure what a firm says; pay-linked criteria (Part 2) measure what it does.
+- Comparing each firm's 2021-2022 average with 2023-2024, and with 2025-2026 in the out-of-sample test, separates before from after the backlash.
+- A proxy filed in year t reports pay designed early in t-1, so 2025-2026 filings are the first to show plans designed after the June 2023 SFFA ruling.
+- The cut thresholds (page salience down 0.5 points or firm voice down 25%; a criterion disappearing in a post year or its weight down 50%) mark a real retreat rather than noise.
+- Presence of a criterion is the main do-side signal; weights vote only where disclosed or derived from a stated split.
+- A criterion leaving the `dei` category marks the removal of explicit DEI wording, not necessarily of the underlying goal.
+
 ## Threats to validity
 1. **Short window and small sample.** Two post years, 50 firms, and 17-18
    eligible firms per theme. Quadrant counts of 0-5 are anecdotal; no test

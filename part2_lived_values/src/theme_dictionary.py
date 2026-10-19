@@ -1,4 +1,5 @@
-"""Seed dictionary for the shared stakeholder taxonomy (see CLAUDE.md).
+"""Seed dictionary for the shared stakeholder taxonomy (see part2_lived_values/README.md,
+"Shared stakeholder taxonomy").
 
 One entry per term: (regex, note). Regexes run on lower-cased prose (tables
 removed) with word boundaries added automatically, and each match counts
@@ -26,7 +27,7 @@ import re
 CATEGORIES = ["customers", "employees", "dei", "environment", "community",
               "shareholders", "integrity", "safety", "innovation"]
 
-# Same wording as the "Shared theme taxonomy" table in CLAUDE.md; also used
+# Same wording as the "Shared stakeholder taxonomy" table in the Part 2 README; also used
 # in the LLM prompts so both layers code against identical definitions.
 CATEGORY_DEFINITIONS = {
     "customers": "Customer focus, satisfaction, service quality, product access and affordability",
@@ -41,7 +42,7 @@ CATEGORY_DEFINITIONS = {
 }
 
 # Tie-break rules for ambiguous cases, found in the pilot hand check. Used in
-# the LLM prompts and mirrored in CLAUDE.md so Part 1 codes the same way.
+# the LLM prompts and listed in the Part 2 README so Part 1 codes the same way.
 CODING_RULES = [
     "Financial, stock-market and capital metrics (EPS, TSR, ROE, revenue, cash flow, margins) are shareholders.",
     "Business-volume metrics (subscribers, active users, market share, unit sales) are shareholders: they measure "

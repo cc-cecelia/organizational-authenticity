@@ -9,7 +9,7 @@ Usage (from repo root):
 
 Two tasks:
   themes   One call per snapshot. For each of the 9 shared taxonomy categories
-           (CLAUDE.md "Shared theme taxonomy", imported from Part 2's
+           (part2_lived_values/README.md, "Shared stakeholder taxonomy", imported from Part 2's
            theme_dictionary so both parts code against identical definitions
            and tie-break rules): salience 0-3 and the single strongest
            verbatim evidence span. Plus analyst_notes on tone and framing.
@@ -317,7 +317,7 @@ def plan_change(row: dict, prior: Optional[dict]) -> dict:
     gap = int(row["year"]) - int(prior["year"])
     base = {"compared_to_year": int(prior["year"]), "years_since_prior": gap}
     if row["page_group"] != prior["page_group"] or row["page_type"] != prior["page_type"]:
-        # Rule (CLAUDE.md): a page switch is never counted as a content change.
+        # Rule (README, "Which page counts"): a page switch is never counted as a content change.
         return dict(base, change_type="page_switch", changed_from_prior=None)
     if row["text_sha1"] == prior["text_sha1"]:
         return dict(base, change_type="identical", changed_from_prior=False, text_similarity=1.0)
