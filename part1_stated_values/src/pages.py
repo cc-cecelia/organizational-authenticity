@@ -192,6 +192,9 @@ def validate(fetch: wayback.FetchResult, cand: Candidate, year: int,
         return False, "redirect_offdomain", "", ""
     if config.LOGIN_PATH_RE.search(urlparse(final).path):
         return False, "redirect_login", "", ""
+    if (canonical(final) != canonical(cand.url)
+            and config.UNRELATED_PATH_RE.search(urlparse(final).path)):
+        return False, "redirect_unrelated_page", "", ""
     # Landing on a homepage is only a failure if we did not ask for a root URL
     # (e.g. about.google/ is itself a legitimate About site) or if the host changed.
     if is_homepage(final) and (not is_homepage(cand.url)

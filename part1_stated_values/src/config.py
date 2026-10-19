@@ -90,6 +90,9 @@ ABOUT_PATH_RE = re.compile(
 # as a homepage. Landing on a homepage means the About page no longer existed.
 LOCALE_SEGMENT_RE = re.compile(r"^([a-z]{2}([-_][a-z]{2})?|index\.\w+|home(\.\w+)?|default\.\w+)$", re.I)
 LOGIN_PATH_RE = re.compile(r"(login|signin|sign-in|logon|auth|sso|account)", re.I)
+# A redirect landing on a sitemap, search, or error page means the requested page
+# was retired (Apple's /about/ redirected to /sitemap/ from 2018 on).
+UNRELATED_PATH_RE = re.compile(r"(sitemap|site-map|/search|/404|/error|not-?found)", re.I)
 SOFT_404_RE = re.compile(
     r"(page (you requested )?(was )?not (be )?found|404 error|error 404|"
     r"page (cannot|can't|could not) be found|no longer available|page does not exist)",

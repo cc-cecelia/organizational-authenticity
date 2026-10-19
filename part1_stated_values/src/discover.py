@@ -28,6 +28,8 @@ Usage (from repo root; slow, meant for the background):
 from __future__ import annotations
 
 import argparse
+import contextlib
+import fcntl
 import json
 import sys
 from collections import defaultdict
@@ -174,17 +176,38 @@ def auto_judge(firm: pd.Series, cand: Dict, title: str):
     return False, "not clearly an About/values page"
 
 
+@contextlib.contextmanager
+def _review_lock():
+    """Exclusive lock so parallel discovery shards do not clobber the review CSV."""
+    lock_path = config.DISCOVERY_CACHE_DIR / "review.lock"
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(lock_path, "w") as fh:
+        fcntl.flock(fh, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(fh, fcntl.LOCK_UN)
+
+
 def update_review_csv(firm: pd.Series, candidates: List[Dict]) -> pd.DataFrame:
     """Append new candidates to the review CSV; keep existing (possibly edited) rows."""
+    # Titles are fetched outside the lock (slow network work), rows merged inside.
+    pending = []
+    for c in candidates:
+        pending.append((c, fetch_title(c["url"], c["years"])))
+    with _review_lock():
+        return _merge_review(firm, pending)
+
+
+def _merge_review(firm: pd.Series, pending) -> pd.DataFrame:
     path = config.DISCOVERY_REVIEW_CSV
     review = (pd.read_csv(path, dtype=str, keep_default_na=False) if path.exists()
               else pd.DataFrame(columns=REVIEW_COLUMNS))
     have = {(r.ticker, pages.canonical(r.url)) for r in review.itertuples()}
     new = []
-    for c in candidates:
+    for c, title in pending:
         if (firm.ticker, pages.canonical(c["url"])) in have:
             continue
-        title = fetch_title(c["url"], c["years"])
         approved, reason = auto_judge(firm, c, title)
         new.append({"ticker": firm.ticker, "url": c["url"], "page_type": c["page_type"],
                     "years": " ".join(map(str, c["years"])),
@@ -202,6 +225,9 @@ def main():
     ap.add_argument("--from-gaps", action="store_true",
                     help="run for every firm with gaps in output/gap_log.csv")
     ap.add_argument("--force", action="store_true", help="re-run even if cached")
+    ap.add_argument("--shard", default="0/1",
+                    help="i/n: process every n-th firm starting at i, so n workers can "
+                         "run in parallel (each keeps its own polite rate limit)")
     args = ap.parse_args()
 
     firms = pd.read_csv(config.COMPANIES_CSV, dtype=str)
@@ -213,18 +239,26 @@ def main():
         tickers = sorted(gap_years, key=list(firms.ticker).index)
     else:
         tickers = args.tickers or []
+    i, n = (int(x) for x in args.shard.split("/"))
+    tickers = tickers[i::n]
     config.DISCOVERY_CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
     for t in tickers:
         out = config.DISCOVERY_CACHE_DIR / f"{t}.json"
+        wanted = gap_years.get(t, set(config.YEARS))
         if out.exists() and not args.force:
-            print(f"[{t}] cached, skipping")
-            continue
+            # Re-run if the firm's gap years grew since the cached discovery
+            # (e.g. after an extraction fix made a previously accepted year thin).
+            cached = set(json.loads(out.read_text()).get("gap_years", []))
+            if wanted <= cached:
+                print(f"[{t}] cached, skipping")
+                continue
+            print(f"[{t}] gap years changed ({sorted(wanted - cached)} new), re-running")
         if t not in gap_years and not args.tickers:
             continue
         firm = firms[firms.ticker == t].iloc[0]
         print(f"[{t}] discovering ({len(prefixes_for(firm))} prefixes)...", flush=True)
-        res = discover_firm(firm, gap_years.get(t, set(config.YEARS)))
+        res = discover_firm(firm, wanted)
         out.write_text(json.dumps(res, indent=1))
         n_err = sum(q["status"] != "ok" for q in res["queries"])
         print(f"[{t}] {res['n_urls_seen']} URLs seen, {len(res['candidates'])} candidates kept, "
