@@ -66,9 +66,33 @@ def load_do() -> tuple:
     d = panel[["ticker", "year", "flagged", "flag_reason", "cda_quality", "pay_status", "pay_n_total"]
               + [f"pay_n_{k}" for k in CATEGORIES]].copy()
 
-    # Disclosed weights (fractions; only firm-years whose stated weights sum to ~100%).
     w = pd.DataFrame({"ticker": d.ticker, "year": d.year})
     w_src = pd.Series("none", index=d.index)
+
+    # Preferred: Part 2's panel weights, cat_weight_<k> (disclosed where available,
+    # else imputed) with their provenance in weight_source.
+    if any(c.startswith("cat_weight_") for c in panel.columns):
+        cols = [f"cat_weight_{k}" for k in CATEGORIES if f"cat_weight_{k}" in panel]
+        vals = panel[cols]
+        scale = 100.0 if vals.max().max() > 1.5 else 1.0      # accept percent or fraction
+        has = vals.notna().any(axis=1)
+        for k in CATEGORIES:
+            col = f"cat_weight_{k}"
+            w[f"w_{k}"] = np.where(has, panel[col].fillna(0.0) / scale if col in panel else 0.0, np.nan)
+        src = panel["weight_source"].astype(str) if "weight_source" in panel else pd.Series("panel", index=panel.index)
+        w_src[has.values] = src[has].values
+        # Interim guard (kept until the full panel shows no row with >= 5% in `other`).
+        if "cat_weight_other" in panel:
+            other = (panel["cat_weight_other"].fillna(0.0) / scale)
+            unres = has & (other >= MAX_UNRESOLVED_OTHER)
+            for k in CATEGORIES:
+                w.loc[unres.values, f"w_{k}"] = np.nan
+            w_src[unres.values] = "disclosed_unresolved"
+        w["w_source"] = w_src.values
+        return d.merge(w, on=["ticker", "year"]), "cat_weight_ (panel)"
+
+    # Fallback for the pilot panel, which has no weight columns: disclosed weights
+    # from llm_firm_year.csv (fractions; only firm-years whose stated weights sum to ~100%).
     if LLM_FY_CSV.exists():
         fy = pd.read_csv(LLM_FY_CSV)
         cols = [c for c in fy.columns if c.startswith("aip_weight_share_")]
@@ -145,7 +169,8 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
     # Coverage indicator per category (primary, tau -> 0) and max weight per category.
     d = np.array([[x[f"pay_n_{k}"] for k in CATEGORIES] for x in avail], dtype=float) if avail else None
     cov0 = (np.nanmax(d, axis=0) > 0).astype(float) if avail else np.full(len(CATEGORIES), np.nan)
-    wrows = [x for x in avail if x.get("w_source") in ("disclosed", "imputed")]
+    wrows = [x for x in avail if x.get("w_source") not in ("none", "disclosed_unresolved", None)
+             and not pd.isna(x.get("w_source"))]
     unresolved = any(x.get("w_source") == "disclosed_unresolved" for x in avail)
     wmax = (np.nanmax(np.array([[x[f"w_{k}"] for k in CATEGORIES] for x in wrows], dtype=float), axis=0)
             if wrows else None)
