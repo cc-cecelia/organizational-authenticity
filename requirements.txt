@@ -1,0 +1,8 @@
+# Part 1: Wayback scraping and text extraction
+requests>=2.31
+trafilatura>=1.12
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.0
+tqdm>=4.66
+python-dotenv>=1.0

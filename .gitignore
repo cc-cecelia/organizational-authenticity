@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Raw archived HTML cache (large, re-creatable from Wayback)
+part1_stated_values/cache/
+data/cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
