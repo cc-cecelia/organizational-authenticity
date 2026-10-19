@@ -90,7 +90,7 @@ NaN reasons:
 - **Documented residual.** 134 of 377 proxy-years with weights (33 firms) still put 5% or more of the bonus in `other` (`output/analysis/other_residual.csv`, which lists each row's criteria).
   - These are mostly individual-performance factors (META in all 9 years, IBM, NKE), team or operational components (INTC, MDT) and strategic projects (MS).
   - They lower weighted coverage only by leaving less of the plan for stakeholders, which is the intended reading.
-  - Two coarse labels flagged in an earlier run have since been recoded by Part 2 (commit `8008c55`). GOOGL's 2023 to 2024 "Environmental, Social, and Governance Bonus" is now split 50/50 into environment and community, and TJX's 2017 plan-name entry is now adjusted pre-tax income.
+  - Two coarse labels flagged in an earlier run have since been recoded by Part 2 (commit `8008c55`). GOOGL's 2023 to 2024 "Environmental, Social, and Governance Bonus" is now split 50/50 into an environmental component (environment) and a social component (coded dei in 2023, where its evidence cites GOOGL's racial-equity commitments, and community in 2024), and TJX's 2017 plan-name entry is now adjusted pre-tax income.
 
 ## Results (full panel: 48 firms, 384 firm-years)
 `output/analysis/results.md` holds every table, and figures are in `output/figures/`. Numbers below are for the primary index A (τ → 0) unless stated.
