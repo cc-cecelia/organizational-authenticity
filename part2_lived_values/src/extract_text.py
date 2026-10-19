@@ -208,8 +208,11 @@ def classify_meeting(text: str, head_chars: int = 20_000) -> str:
     Used only when a firm has more than one DEF 14A in a filing year.
     """
     head = text[:head_chars].lower()
-    annual = len(re.findall(r"annual (general )?meeting", head))
-    special = len(re.findall(r"special (general )?meeting", head))
+    # Covers "annual meeting", "annual general meeting" and
+    # "annual shareholders'/stockholders' meeting" (MCD's phrasing).
+    mid = r" (?:general |(?:share|stock)holders'? )?meeting"
+    annual = len(re.findall("annual" + mid, head))
+    special = len(re.findall("special" + mid, head))
     if annual == special == 0:
         return "unknown"
     return "annual" if annual >= special else "special"

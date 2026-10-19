@@ -59,8 +59,8 @@ ARCHIVE_URL = "https://www.sec.gov/Archives/edgar/data/{cik}/{acc_nodash}/{doc}"
 HEADER_URL = "https://www.sec.gov/Archives/edgar/data/{cik}/{acc_nodash}/{acc}-index-headers.html"
 
 # --- Quality thresholds ----------------------------------------------------
-# A full annual proxy is typically 30k-120k words. Anything far below this
-# probably means the primary document is a wrapper and the body lives in
-# other files of the filing, so we flag it for review rather than silently
-# accept it.
-MIN_EXPECTED_WORDS = 10_000
+# A full annual proxy is typically 25k-80k words; Berkshire's famously lean
+# proxies are 10k-15k. Anything under 5k words is almost surely a wrapper
+# (NVDA 2022 filed an 86-word notice as a separate DEF 14A) or a body split
+# across several files, so we flag it rather than silently accept it.
+MIN_EXPECTED_WORDS = 5_000

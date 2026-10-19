@@ -37,7 +37,7 @@ import config
 from cik_map import build_cik_map
 from edgar_client import EdgarClient
 from extract_text import classify_meeting, html_to_text, plain_to_text
-from filings_index import archive_url, filed_by, list_filings
+from filings_index import archive_url, fiscal_year_covered, header_parties, list_filings
 
 log = logging.getLogger("download_proxies")
 YEARS = list(range(config.FIRST_YEAR, config.LAST_YEAR + 1))
@@ -90,31 +90,48 @@ def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
     t = firm["ticker"]
     m = cmap[t]
     base = {"ticker": t, "company_name": firm["company_name"], "sector": firm["sector"]}
-    cik_row = dict(base, **m)
+    cik_row = dict(base, **{k: v for k, v in m.items() if k != "ciks"})
+    cik_row["cik"] = ";".join(str(c) for c in m["ciks"])
 
-    if m["cik"] is None:
+    if not m["ciks"]:
         cov = [dict(base, cik="", filing_year=y, status="gap",
                     gap_reason="no_cik", notes=m["cik_note"]) for y in YEARS]
         return [], cov, cik_row
 
-    meta, filings = list_filings(client, m["cik"])
-    cik_row.update(meta)
-    # Sanity check: the registrant must have existed throughout the window.
-    cik_row["history_covers_window"] = meta["earliest_filing"] <= f"{config.FIRST_YEAR}-01-01"
+    # Union the proxy filings of every registrant in the firm's CIK chain.
+    metas, filings, seen = [], [], set()
+    for cik in m["ciks"]:
+        meta, fl = list_filings(client, cik)
+        metas.append(meta)
+        for f in fl:
+            if f["accession"] not in seen:
+                seen.add(f["accession"])
+                f["fiscal_year_end_raw"] = meta["fiscal_year_end"]
+                filings.append(f)
+    filings.sort(key=lambda f: f["filing_date"])
+    cik_row["entity_name"] = " ; ".join(x["entity_name"] for x in metas)
+    cik_row["former_names"] = " ; ".join(x["former_names"] for x in metas if x["former_names"])
+    cik_row["earliest_filing"] = min(x["earliest_filing"] for x in metas)
+    # Sanity check: the registrant chain must have existed throughout the window.
+    cik_row["history_covers_window"] = cik_row["earliest_filing"] <= f"{config.FIRST_YEAR}-01-01"
     if not cik_row["history_covers_window"]:
         log.warning("%s: CIK %s earliest filing %s is after window start; "
                     "check for a predecessor registrant and add an override",
-                    t, m["cik"], meta["earliest_filing"])
+                    t, cik_row["cik"], cik_row["earliest_filing"])
 
     manifest = []
     for f in filings:
         f["eligible"] = f["form"] in config.PROXY_FORMS
         if f["form"] == config.CONTESTED_FORM:
-            filer_cik, filer_name = filed_by(client, m["cik"], f["accession"])
-            f["filed_by"] = filer_name
-            if filer_cik != m["cik"]:
+            hp = header_parties(client, f["cik"], f["accession"])
+            f["filed_by"] = hp["filer_name"]
+            f["subject_company"] = hp["subject_name"]
+            if hp["filer_cik"] != f["cik"]:
                 f["eligible"] = False
-                f["excluded_reason"] = f"filed by third party ({filer_name})"
+                f["excluded_reason"] = f"filed by third party ({hp['filer_name']})"
+            elif hp["subject_cik"] != f["cik"]:
+                f["eligible"] = False
+                f["excluded_reason"] = f"our solicitation at another company ({hp['subject_name']})"
         if f["eligible"]:
             f = fetch_and_extract(client, t, f)
             if "error" in f:
@@ -126,7 +143,7 @@ def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
         in_year = [r for r in manifest if r["filing_year"] == y]
         originals = [r for r in in_year if r["eligible"]]
         n_amend = sum(r["form"] in config.AMENDMENT_FORMS for r in in_year)
-        row = dict(base, cik=m["cik"], filing_year=y, n_definitive_in_year=len(originals),
+        row = dict(base, cik=cik_row["cik"], filing_year=y, n_definitive_in_year=len(originals),
                    n_amendments_in_year=n_amend, status="gap", gap_reason="", notes="")
 
         usable = [r for r in originals if "error" not in r]
@@ -169,6 +186,10 @@ def process_firm(client: EdgarClient, firm: dict, cmap: dict) -> tuple:
                     "accession", "form", "filing_date", "report_date", "meeting_type",
                     "primary_doc", "source_url", "raw_path", "text_path", "raw_bytes",
                     "prose_words", "table_words", "text_chars")})
+                row["cik"] = chosen["cik"]  # the registrant that filed this year's proxy
+                fye = chosen["fiscal_year_end_raw"]
+                row["fiscal_year_end"] = f"{fye[:2]}-{fye[2:]}" if fye else ""  # MM-DD
+                row["fiscal_year_covered"] = fiscal_year_covered(chosen["filing_date"], fye)
                 row["status"] = "ok_flagged" if notes else "ok"
                 row["notes"] = "; ".join(notes)
         coverage.append(row)
@@ -200,7 +221,7 @@ def main(argv=None) -> int:
 
     manifest, coverage, cik_rows = [], [], []
     for firm in firms.to_dict("records"):
-        log.info("== %s (CIK %s)", firm["ticker"], cmap[firm["ticker"]]["cik"])
+        log.info("== %s (CIK %s)", firm["ticker"], cmap[firm["ticker"]]["ciks"])
         mf, cov, ck = process_firm(client, firm, cmap)
         manifest += mf
         coverage += cov
