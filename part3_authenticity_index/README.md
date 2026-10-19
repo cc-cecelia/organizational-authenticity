@@ -1,6 +1,6 @@
 # Part 3: Organizational Authenticity Index
 
-**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `f098411`, which includes the JPM 2024 weight correction). The primary index covers **383 of 450 firm-years across 48 firms**. To reproduce:
+**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `f098411`, which includes the JPM 2024 weight correction). For page-year 2024 it also uses the 2025 proxies from Part 2's out-of-sample extension. The primary index covers **384 of 450 firm-years across 48 firms**. To reproduce:
 
 ```
 .venv/bin/pip install -r part3_authenticity_index/requirements.txt
@@ -32,6 +32,13 @@ Raising τ separates real backing from token mentions.
 - **Why salience-weighted.** Leaving a headline value unbacked is a bigger gap than leaving a passing mention unbacked.
 - **Why a ratio.** It is scale-free across short and long pages.
 - **Why proxies t and t+1.** The page for year t was archived around July 1 of t. The proxy filed in t reports pay for fiscal t−1, and the proxy filed in t+1 reports pay for fiscal t, the year the page was live. Either can show backing, so coverage uses the maximum over both.
+- **2024's t+1 comes from Part 2's extension.**
+  - **Source.** The 2025 proxies come from Part 2's out-of-sample extension (`output/extension_2025_2026/`). They are used only where that extension's CD&A extraction exists and lists reported-year metrics. The criteria counts are built with Part 2's own `pay_counts()`, so de-duplication matches the main panel. The source is recorded in `do_t1_source`.
+  - **Coverage.** 44 firms get a 2025 t+1 this way. The other 6 keep 2024 alone and are flagged:
+    - MRK's 2025 proxy has no CD&A section.
+    - BRK.B, GS, AMZN, F and MPC have 2025 extractions with no metrics. Part 2's panel treats such rows as missing, not zero, and Part 3 follows it.
+  - **No 2025 weights.** The extension has no weight layer. For 2024, the weighted versions therefore use 2024 weights only (`weights_partial` = True), while the primary index uses both years' criteria counts.
+  - **Effect.** With a second proxy, 2024 is comparable to the other years. Its mean A rose from 0.40 (t only) to 0.47.
 
 ## Definitions
 For firm *i*, year *t* and category *k* (the 9 shared codes):
@@ -59,7 +66,8 @@ Columns in `output/authenticity_index.csv` (one row per firm-year, 450 rows):
 | `s_<k>`, `d_<k>`, `w_<k>`, `cov_<k>` | Per-category inputs and the τ → 0 coverage, for auditing any score |
 | `A_reason`, `A_weighted_reason`, `A_ex_shareholders_reason`, `unstated_backing_reason` | Why a value is NaN (see below) |
 | `do_window` | Proxy years used: `t_and_t1`, `t_only_2024`, `t_only_t1_missing`, `t1_only_t_missing` |
-| `flag_2024_t_only` | True for 2024, which has no t+1 proxy in the window |
+| `do_t1_source` | Where the t+1 proxy came from: `panel`, `extension_2025_2026` (page-year 2024 only), or `none` |
+| `flag_2024_t_only` | True for page-year 2024 rows with no usable 2025 proxy (6 firms) |
 | `w_source`, `weights_partial` | Where the weights came from; True if only one of the two proxy years had them |
 | `p2_flagged_t/t1`, `p2_flag_reason_t/t1`, `p2_cda_quality_t/t1` | Part 2 quality flags for both proxy years, carried through |
 | `page_type`, `word_count` | Say-side context, used in the discriminant check |
@@ -84,19 +92,19 @@ NaN reasons:
   - They lower weighted coverage only by leaving less of the plan for stakeholders, which is the intended reading.
   - Two entries are coarse labels that may hide stakeholder content: GOOGL 2024's "Environmental, Social, and Governance Bonus" (100% `other`) and TJX's plan-name entries. A finer Part 2 coding could move them into categories.
 
-## Results (full panel: 48 firms, 383 firm-years)
+## Results (full panel: 48 firms, 384 firm-years)
 `output/analysis/results.md` holds every table, and figures are in `output/figures/`. Numbers below are for the primary index A (τ → 0) unless stated.
 
 **Distribution.**
-- A has mean 0.41 and median 0.38, spanning the full 0 to 1 range (10th percentile 0, 90th percentile 0.82).
-- `A_ex_shareholders` has mean 0.35.
-- `unstated_backing` has mean 0.20: a fifth of a typical firm's non-financial pay categories go unmentioned on its page.
-- The index varies more between firms than within them over time: the SD of firm means is 0.24, against an average within-firm SD of 0.16.
+- A has mean 0.42 and median 0.40, spanning the full 0 to 1 range (10th percentile 0, 90th percentile 0.83).
+- `A_ex_shareholders` has mean 0.36.
+- `unstated_backing` has mean 0.19: about a fifth of a typical firm's non-financial pay categories go unmentioned on its page.
+- The index varies more between firms than within them over time: the SD of firm means is 0.25, against an average within-firm SD of 0.16.
 - 2 firms have no index. AAPL has no page with codable values, and BRK.B has no pay-metric section to extract.
 
 **The rankings, and what they measure.** The full table is `output/analysis/firm_ranking.csv`. Firms with fewer than 5 firm-years are flagged **(n<5)**.
 - **Lowest firm means:** SCHW 0.02, NVDA 0.03, CRM 0.09, GOOGL 0.12, AMZN 0.14 (n<5), ABT 0.14 and HD 0.16.
-- **Highest firm means:** EOG 1.00 (n<5), JPM 0.92, VLO 0.82, MSFT 0.80, BLK 0.71 and WFC 0.69.
+- **Highest firm means:** EOG 1.00 (n<5), JPM 0.92, VLO 0.82, MSFT 0.82, WFC 0.75 and BLK 0.71.
 - **A measures whether stated values enter executive incentive design. It does not measure honesty in general.**
   - NVDA, SCHW and GOOGL score near 0 because their annual bonus is purely financial *by design*. Their pages state customers, innovation and community, and their pay philosophy deliberately ties executive incentives to financial results and equity value alone.
   - A firm with a purely financial pay philosophy therefore scores low by construction, whatever it practices elsewhere.
@@ -104,20 +112,20 @@ NaN reasons:
   - This is the first threat to validity below.
 
 **By sector and year.**
-- Energy (0.53) and Financials (0.52) score highest. Consumer Discretionary (0.30) and Technology (0.32) score lowest.
-- The year means are flat (0.36 to 0.46) with no trend.
+- Energy (0.53) and Financials (0.53) score highest. Consumer Discretionary (0.31) and Technology (0.33) score lowest.
+- The year means range from 0.36 to 0.47, with no clear trend. 2023 (0.46) and 2024 (0.47) are the two highest years, a small late rise that two years cannot establish as a trend.
 
 **Weighted versions are lower:** mean 0.38 at τ = 5%, 0.34 at τ = 10% and 0.26 at τ = 20% (350 firm-years). Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
 
-**Sensitivity to τ** (46 firms, 350 firm-years with weights): the firm rankings are stable. Spearman correlations of firm mean A are 0.96 between τ → 0 and 5%, 0.93 with 10%, and 0.87 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
+**Sensitivity to τ** (46 firms, 350 firm-years with weights): the firm rankings are stable. Spearman correlations of firm mean A are 0.95 between τ → 0 and 5%, 0.92 with 10%, and 0.87 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
 
 | Firm | Rank at τ → 0 | Rank at τ = 20% | n |
 |---|---|---|---|
 | TMO | 16 | 36 | 9 |
-| SLB | 18 | 34 | 9 |
 | MSFT | 4 | 20 | 9 |
+| SLB | 19 | 34 | 9 |
 | NKE | 31 | 45 | 7 |
-| TGT | 19 | 29 | 9 |
+| TGT | 18 | 29 | 9 |
 
 **Robustness: stated weights only.** As Session 2 suggested, the weighted index was recomputed using only `disclosed` and `derived_from_stated_split` weights, excluding Part 2's `imputed_emphasis` estimates. This leaves 99 firm-years across 23 firms (`output/analysis/robustness_stated_weights.csv`).
 - **The rankings mostly hold.** Compared on the same firm-years, the Spearman correlation with the all-weights version is 0.79 at τ = 10% and 0.84 at τ = 20%.
@@ -155,8 +163,8 @@ NaN reasons:
 - **A threat to validity, shown by WFC: a category match is not a values match.** A criterion coded `customers` can reward the very behavior that harmed customers.
 
 **Validity: discriminant check.** OLS of A on page type, log word count and sector, with firm-clustered standard errors, gives R² = 0.16.
-- Page type (values vs About: +0.10, p = 0.11) and page length (p = 0.17) do not significantly explain the score, so the index is not an artifact of which page was scraped or how long it is.
-- Sector does explain the score: Energy is +0.24 (p = 0.001) and Financials +0.23 (p = 0.009), relative to Consumer Discretionary.
+- Page type (values vs About: +0.09, p = 0.13) and page length (p = 0.17) do not significantly explain the score, so the index is not an artifact of which page was scraped or how long it is.
+- Sector does explain the score: Energy is +0.23 (p = 0.001) and Financials +0.23 (p = 0.010), relative to Consumer Discretionary.
 - This is consistent with substance rather than artifact. Energy pay plans carry safety and environment scorecards, and bank plans carry risk and conduct criteria, which matches what those firms state. Cross-firm comparisons are best made within sector.
 
 ## Limitations and threats to validity

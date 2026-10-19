@@ -1,6 +1,6 @@
 sector,n,firms,mean_A,median_A,mean_A_ex_sh,mean_unstated
-Consumer Discretionary,74,10,0.299,0.236,0.213,0.152
-Energy,76,10,0.531,0.533,0.46,0.214
-Financials,79,9,0.516,0.5,0.464,0.191
-Healthcare,84,10,0.358,0.333,0.324,0.204
-Technology,70,9,0.323,0.177,0.282,0.199
+Consumer Discretionary,74,10,0.31,0.261,0.226,0.144
+Energy,76,10,0.533,0.533,0.461,0.216
+Financials,79,9,0.53,0.6,0.478,0.186
+Healthcare,85,10,0.365,0.333,0.331,0.202
+Technology,70,9,0.329,0.177,0.289,0.199

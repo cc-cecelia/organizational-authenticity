@@ -1,8 +1,8 @@
 ,coef,se,p
-Intercept,0.56,0.224,0.013
-C(page_type)[T.values],0.095,0.06,0.113
-C(sector)[T.Energy],0.241,0.071,0.001
-C(sector)[T.Financials],0.231,0.088,0.009
-C(sector)[T.Healthcare],0.058,0.071,0.41
-C(sector)[T.Technology],0.05,0.102,0.622
-log_words,-0.051,0.037,0.166
+Intercept,0.576,0.23,0.012
+C(page_type)[T.values],0.093,0.061,0.127
+C(sector)[T.Energy],0.231,0.071,0.001
+C(sector)[T.Financials],0.234,0.091,0.01
+C(sector)[T.Healthcare],0.054,0.071,0.453
+C(sector)[T.Technology],0.045,0.105,0.665
+log_words,-0.052,0.038,0.173

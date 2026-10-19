@@ -47,6 +47,10 @@ from theme_dictionary import CATEGORIES  # noqa: E402  (shared taxonomy, read-on
 
 SAY_CSV = ROOT / "part1_stated_values" / "output" / "stated_values.csv"
 PANEL_CSV = ROOT / "part2_lived_values" / "output" / "lived_values_panel.csv"
+# Part 2's out-of-sample extension (filing years 2025-2026). Only the 2025 CD&A
+# extraction is used, as the t+1 proxy for page-year 2024. The extension has no
+# panel or weight layer, so it supplies criteria counts (d) but not weights.
+EXT_DIR = ROOT / "part2_lived_values" / "output" / "extension_2025_2026"
 OUT_DIR = ROOT / "part3_authenticity_index" / "output"
 OUT_CSV = OUT_DIR / "authenticity_index.csv"
 
@@ -77,6 +81,33 @@ def load_do() -> pd.DataFrame:
     return d.merge(w, on=["ticker", "year"])
 
 
+def load_ext_2025() -> list:
+    """2025 do-side rows from the extension, for firms whose CD&A extraction exists.
+
+    Counts use Part 2's own pay_counts() (read-only import), so de-duplication and
+    the reported_year filter are identical to the main panel.
+    """
+    runs_p, met_p = EXT_DIR / "analysis" / "llm_runs.csv", EXT_DIR / "analysis" / "incentive_metrics.csv"
+    if not (runs_p.exists() and met_p.exists()):
+        return []
+    from build_panel import pay_counts  # Part 2, read-only
+    runs = pd.read_csv(runs_p)
+    done = runs[(runs.task == "incentives") & (runs.filing_year == 2025) & runs.status.isin(["ok", "cached"])]
+    met = pd.read_csv(met_p)
+    met = met[(met.filing_year == 2025) & met.ticker.isin(done.ticker)]
+    counts = pay_counts(met).reset_index().rename(columns={"filing_year": "year"})
+    cov = pd.read_csv(EXT_DIR / "proxy_coverage.csv")
+    cov = cov[cov.filing_year == 2025].set_index("ticker")
+    rows = []
+    for r in counts.to_dict("records"):
+        t = r["ticker"]
+        st = cov.status.get(t, "")
+        rows.append({**r, "flagged": st == "ok_flagged", "flag_reason": cov.notes.get(t) if st == "ok_flagged" else np.nan,
+                     "cda_quality": "unchecked_extension", "pay_status": "ok", "w_source": "none",
+                     **{f"w_{k}": np.nan for k in CATEGORIES}, "do_source": "extension_2025_2026"})
+    return rows
+
+
 def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
     """All index columns for one firm-year."""
     out = {}
@@ -84,7 +115,7 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
 
     # Which proxy years back this page-year.
     avail = [x for x in (do_t, do_t1) if x is not None and pd.notna(x.get("pay_n_total"))]
-    if year == LAST_YEAR:
+    if do_t1 is None and year == LAST_YEAR:
         window = "t_only_2024"
     elif do_t1 is None or pd.isna(do_t1.get("pay_n_total")):
         window = "t_only_t1_missing" if avail else "none"
@@ -93,7 +124,11 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
     else:
         window = "t_and_t1"
     out["do_window"] = window
-    out["flag_2024_t_only"] = year == LAST_YEAR
+    out["flag_2024_t_only"] = window == "t_only_2024"
+    # Where the t+1 proxy came from: the main panel, or (page-year 2024 only) Part 2's
+    # 2025 extension, which has criteria counts but no weights.
+    out["do_t1_source"] = (do_t1.get("do_source", "panel") if do_t1 is not None
+                           and pd.notna(do_t1.get("pay_n_total")) else "none")
 
     # Reasons an index cannot be computed.
     reason = ""
@@ -170,6 +205,8 @@ def main() -> int:
     say = pd.read_csv(SAY_CSV)
     do = load_do()
     do_map = {(r["ticker"], int(r["year"])): r for r in do.to_dict("records")}
+    for r in load_ext_2025():                       # t+1 for page-year 2024
+        do_map[(r["ticker"], 2025)] = r
     rows = []
     for r in say.to_dict("records"):
         t, y = r["ticker"], int(r["year"])
