@@ -1,6 +1,6 @@
 ticker,company_name,sector,domain,seed_urls
 MSFT,Microsoft,Technology,microsoft.com,https://www.microsoft.com/en-us/about;https://www.microsoft.com/en-us/about/values;https://news.microsoft.com/facts-about-microsoft/
-AAPL,Apple,Technology,apple.com,https://www.apple.com/about/;https://www.apple.com/diversity/
+AAPL,Apple,Technology,apple.com,https://www.apple.com/about/
 NVDA,NVIDIA,Technology,nvidia.com,https://www.nvidia.com/en-us/about-nvidia/;https://www.nvidia.com/object/about-nvidia.html
 GOOGL,Alphabet,Technology,google.com,https://about.google/;https://www.google.com/about/;https://about.google/philosophy/;https://www.google.com/about/philosophy.html;https://abc.xyz/
 META,Meta Platforms,Technology,meta.com,https://about.meta.com/company-info/;https://about.fb.com/company-info/;https://newsroom.fb.com/company-info/;https://about.meta.com/
@@ -9,7 +9,7 @@ CRM,Salesforce,Technology,salesforce.com,https://www.salesforce.com/company/abou
 ORCL,Oracle,Technology,oracle.com,https://www.oracle.com/corporate/;https://www.oracle.com/corporate/index.html;https://www.oracle.com/about/
 IBM,IBM,Technology,ibm.com,https://www.ibm.com/about;https://www.ibm.com/ibm/us/en/;https://www.ibm.com/ibm/values/us/
 INTC,Intel,Technology,intel.com,https://www.intel.com/content/www/us/en/company-overview/company-overview.html;https://www.intel.com/content/www/us/en/company-overview/our-values.html
-BRK.B,Berkshire Hathaway,Financials,berkshirehathaway.com,https://www.berkshirehathaway.com/;https://www.berkshirehathaway.com/ownman.pdf
+BRK.B,Berkshire Hathaway,Financials,berkshirehathaway.com,https://www.berkshirehathaway.com/ownman.pdf
 JPM,JPMorgan Chase,Financials,jpmorganchase.com,https://www.jpmorganchase.com/about;https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm;https://www.jpmorganchase.com/about/business-principles;https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm
 BAC,Bank of America,Financials,bankofamerica.com,https://about.bankofamerica.com/en-us/who-we-are/;https://about.bankofamerica.com/en/our-company;https://about.bankofamerica.com/en-us/our-company/
 WFC,Wells Fargo,Financials,wellsfargo.com,https://www.wellsfargo.com/about/;https://www.wellsfargo.com/about/corporate/vision-and-values/
@@ -30,7 +30,7 @@ PFE,Pfizer,Healthcare,pfizer.com,https://www.pfizer.com/about;https://www.pfizer
 MDT,Medtronic,Healthcare,medtronic.com,https://www.medtronic.com/us-en/about/mission.html;https://www.medtronic.com/us-en/about.html;https://www.medtronic.com/covidien/en-us/about/mission.html
 BMY,Bristol-Myers Squibb,Healthcare,bms.com,https://www.bms.com/about-us.html;https://www.bms.com/about-us/our-company.html;https://www.bms.com/about-us/our-company/our-mission-and-values.html
 AMZN,Amazon,Consumer Discretionary,aboutamazon.com,https://www.aboutamazon.com/about-us;https://www.amazon.jobs/en/principles;https://www.aboutamazon.com/about-us/leadership-principles
-TSLA,Tesla,Consumer Discretionary,tesla.com,https://www.tesla.com/about;https://www.tesla.com/about/
+TSLA,Tesla,Consumer Discretionary,tesla.com,https://www.tesla.com/about
 HD,Home Depot,Consumer Discretionary,homedepot.com,https://corporate.homedepot.com/about;https://corporate.homedepot.com/about/values;https://corporate.homedepot.com/en/about/values
 MCD,McDonald's,Consumer Discretionary,mcdonalds.com,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html;https://corporate.mcdonalds.com/corpmcd/about-us.html;https://corporate.mcdonalds.com/mcd/our_company.html;https://www.aboutmcdonalds.com/mcd/our_company/mission_and_values.html
 NKE,Nike,Consumer Discretionary,nike.com,https://about.nike.com/;https://news.nike.com/company;https://purpose.nike.com/
