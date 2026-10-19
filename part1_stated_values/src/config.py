@@ -156,3 +156,30 @@ REVIEW_APPROVE_RE = re.compile(
     r"our-company|our company|about|our-story|our story|overview|vision)",
     re.I,
 )
+
+# --------------------------------------------------------------------------- #
+# LLM analysis (llm_analyze.py)
+# --------------------------------------------------------------------------- #
+# Same model, effort and determinism approach as Part 2: Haiku 5.5 rejects
+# non-default sampling parameters, so there is no temperature 0; outputs are
+# schema-constrained and every request is cached by a SHA-256 fingerprint of
+# (model, effort, prompt version, task, system, prompt, schema), so a rerun
+# never re-queries and published results are fixed.
+LLM_MODEL = "claude-haiku-5-5"
+LLM_EFFORT = "low"
+LLM_PROMPT_VERSION = "p1v2"    # bump after any prompt/schema edit (p1v2: pilot hand-check fixes)
+LLM_CACHE_DIR = CACHE_DIR / "llm"
+
+# Change detection: word-sequence similarity (difflib ratio) between a page and
+# the same logical page in the prior collected year. At or above the threshold
+# the edit is treated as minor without an LLM call; below it, the LLM judges
+# substantive vs cosmetic from the diff.
+# Calibration (read the diffs per similarity band over all 242 eligible pairs):
+# [0.98, 1) were figure updates and capitalization only ("121,000 -> 120,300
+# employees"); [0.90, 0.98) still held substantive edits (MPC 2020->21 removed
+# "We aim for an accident-free, incident-free workplace", sim 0.947; JPM
+# 2021->22 added a customer principle, sim 0.941). LLM calls cost fractions of
+# a cent, so the threshold favors recall.
+SIMILARITY_THRESHOLD = 0.98
+
+STATED_VALUES_CSV = OUTPUT_DIR / "stated_values.csv"
