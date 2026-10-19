@@ -1,0 +1,50 @@
+{
+ "label": "PSX 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4821,
+  "output_tokens": 1848,
+  "request_id": "req_011CgC9M1tTKNLxVpBiZuFQB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "improve lives by providing access to energy which is essential to a high standard of living and health throughout the world"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we are committed to safety, reliability and environmental stewardship"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Providing Energy. Improving Lives."
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "strategies proven to drive shareholder value since our start in 2012"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "making responsible choices to adapt"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "We do this while living out our values of safety, honor and commitment"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "in-house research and development at Phillips 66 drives new ideas toward commercialization"
+   }
+  },
+  "analyst_notes": "Aspirational, upbeat tone ('we are excited', 'well-positioned') in first-person plural. Tagline 'Improving Lives' and shareholder value recur. Commitments are mostly hedged ('committed to'). Much of the page is factual history and business description, which is coded 0. Safety is named as a core value."
+ }
+}

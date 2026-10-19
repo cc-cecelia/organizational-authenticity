@@ -1,0 +1,13 @@
+{
+ "label": "WFC 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1897,
+  "output_tokens": 100,
+  "request_id": "req_011CgC8fbFHb2cGHDvREzayE"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the Community Mural Program item describing custom art honoring local communities, a community-facing value. Link label changed from 'Read the Report' to 'Learn More'; the economic growth and quality-of-life statement remains. Code and date identifiers updated."
+ }
+}

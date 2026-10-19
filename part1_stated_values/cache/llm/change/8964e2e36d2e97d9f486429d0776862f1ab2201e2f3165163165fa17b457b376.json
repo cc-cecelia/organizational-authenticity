@@ -1,0 +1,13 @@
+{
+ "label": "JPM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3362,
+  "output_tokens": 130,
+  "request_id": "req_011CgC8MQUQ2y298jkrV32bs"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds new principles on customer advocacy and focus, employee wellbeing and respect, learning, and fighting inequities (\"Fight social, racial and economic inequities\"); adds \"communities\" to integrity commitments; \"Exceptional Client\" heading and \"fair and fully transparent\" compensation added. Core mission unchanged."
+ }
+}

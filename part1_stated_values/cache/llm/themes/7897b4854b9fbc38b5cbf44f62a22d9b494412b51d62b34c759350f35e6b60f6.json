@@ -1,0 +1,50 @@
+{
+ "label": "LLY 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3359,
+  "output_tokens": 1444,
+  "request_id": "req_011CgC8oQboFDnvKi9DSUvzz"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "the people we serve starting with those who take our medicines"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We maintain an environment built on mutual respect, openness and individual integrity."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We will make a significant contribution to humanity by improving global health in the 21st century."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "strive to deliver superior business results"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We conduct our business consistent with all applicable laws and are honest in our dealings with customers"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We pursue pharmaceutical innovation"
+   }
+  },
+  "analyst_notes": "Heritage-framed and aspirational, using first-person plural 'we' throughout. Opens with founder history and a 'remain committed' pledge. Values are stated as absolutes, with integrity listed first and patients and customers addressed before employees and communities. Mission and vision are short present-tense declarations, and the page avoids hedging."
+ }
+}

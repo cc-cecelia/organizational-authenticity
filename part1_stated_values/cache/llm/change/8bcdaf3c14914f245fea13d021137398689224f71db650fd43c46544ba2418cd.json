@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2471,
+  "output_tokens": 119,
+  "request_id": "req_011CgC9KvUVfJhEAsxGAVikn"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Changed \"bottom line\" to \"performance\" and renamed \"Inclusive Culture\" to \"Diversity and Inclusion\", adding an explicit diversity label. Also added \"including\" to the principles lead-in. Core values are otherwise unchanged; the diversity framing is the main shift."
+ }
+}

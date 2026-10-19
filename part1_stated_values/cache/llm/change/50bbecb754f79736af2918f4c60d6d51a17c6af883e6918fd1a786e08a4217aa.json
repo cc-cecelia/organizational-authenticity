@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3136,
+  "output_tokens": 139,
+  "request_id": "req_011CgC9FER6r9JQB9pE81XnX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added framing that ExxonMobil aims to meet energy needs while offering lower-emission solutions (\"and\" equation), a \"thoughtful transition to an energy-secure, lower-emissions future,\" and a leading role in the energy transition. Removed product-marketing chrome (rewards, gas cards, station finder). Shifts emphasis toward climate transition."
+ }
+}

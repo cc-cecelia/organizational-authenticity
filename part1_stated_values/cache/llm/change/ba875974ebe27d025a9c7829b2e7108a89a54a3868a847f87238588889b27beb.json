@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3978,
+  "output_tokens": 182,
+  "request_id": "req_011CgC945FtfTHJAHV1xEwhv"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page drops the 2017 mission line 'to accelerate the world's transition to sustainable energy' and the 'increasingly affordable' framing, replacing it with 'Tesla believes the faster the world stops relying on fossil fuels' and 'a zero-emission future'. It adds energy products (Powerwall, Powerpack, Solar Roof) and affordability ('making products accessible and affordable') alongside a clean-transport goal, shifting emphasis toward environment and product accessibility."
+ }
+}

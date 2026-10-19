@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3506,
+  "output_tokens": 536,
+  "request_id": "req_011CgC9NH72b26FmQp9Rxfeh"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We are the best-in-class producer of essential fuels and products that are foundational to modern life."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We are guided by five principles, in Safety, Environment, Community, Employees and Governance."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "fueling lives while protecting our communities and the environment with industry-leading safety records and continued efforts to reduce emissions."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "fueling lives while protecting our communities and the environment"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our executive team and board of directors are committed to operations excellence, disciplined management of capital and long-term value."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Our executive team and board of directors are committed to operations excellence, disciplined management of capital and long-term value."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "with industry-leading safety records"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Valero is leading through innovation, ingenuity and unmatched execution to responsibly meet the world's growing demand for reliable and sustainable energy."
+   }
+  },
+  "analyst_notes": "Confident, aspirational tone ('best-in-class', 'industry-leading', 'unmatched') with absolute claims. Lists guiding principles but gives little elaboration. Safety, environment and community are paired early. Voice is first-person plural ('We're proud'). Most commitments are phrased in general terms, with little on DEI or workforce."
+ }
+}

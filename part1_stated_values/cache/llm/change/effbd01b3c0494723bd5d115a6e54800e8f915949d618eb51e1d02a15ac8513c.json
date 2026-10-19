@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2470,
+  "output_tokens": 150,
+  "request_id": "req_011CgC9EvJSWcii668G3csSp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the governance section: 'Good governance is essential for creating long-term viability' and 'Good corporate governance creates a business environment conducive to long-term growth', plus the 'uphold high ethical standards and promote transparency' and board-oversight language. Also removed the Esso/Exxon/Mobil customer-confidence line. Integrity and community emphasis dropped; the rest is updated facts and layout."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3579,
+  "output_tokens": 169,
+  "request_id": "req_011CgC9RJzxqFTrJBJZ5dek4"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page replaces the 2023 'Guiding Principles' set with a new values section (Integrity, Safety, Collaboration, Creativity, Reliability, Respect) and drops 'We compete to win', the DEI inclusion commitment and the R&D/shareholders/communities continuous-improvement statement. It adds sustainability and community-wellbeing headlines and product showcases, and shifts emphasis toward safety, sustainability and product innovation."
+ }
+}

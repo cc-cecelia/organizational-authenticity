@@ -1,0 +1,13 @@
+{
+ "label": "MCD 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1874,
+  "output_tokens": 113,
+  "request_id": "req_011CgCA2TbrhA4EYrw4jt4fq"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Added navigation label 'More in Who We Are' and featured content heading 'Our Growth Pillars' with two generic lines about building on foundations and leading by example. No mission, value or commitment statements were removed or reworded; the added text is largely promotional chrome, so the change is cosmetic."
+ }
+}

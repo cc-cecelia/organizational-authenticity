@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4104,
+  "output_tokens": 1940,
+  "request_id": "req_011CgC9QjnSnvg5Gxne8uXFy"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We believe the quality of our service defines who we are."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We value diversity and equality. It makes us stronger, more innovative, and better positioned for success."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are leveraging our world-class technical expertise, resources, and versatile capabilities to lead the transition to a sustainable energy future."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Strengthening the economic and social well-being of the communities where we operate is among our most valued principles."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Priority number one. We are focused on our own personal safety as well as the safety of others."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are resourceful. We are innovative and strive to apply the right technology and solution every time."
+   }
+  },
+  "analyst_notes": "Declarative, corporate voice using first-person plural 'we' throughout. Named values lead, with Integrity and Safety framed as absolute ('foundation', 'Priority number one'). Customers and employees are addressed through collaboration and service claims. Headcount, incident rates and product descriptions are factual and carry no commitments. Sustainability and community appear as section headlines with softer, aspirational wording."
+ }
+}

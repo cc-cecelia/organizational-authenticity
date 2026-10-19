@@ -1,0 +1,50 @@
+{
+ "label": "LLY 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3163,
+  "output_tokens": 1177,
+  "request_id": "req_011CgC8o6nFeAf9hnwydx9UR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "the people we serve starting with those who take our medicines"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "extending to health care professionals, employees and the communities in which we live"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We will make a significant contribution to humanity by improving global health in the 21st century."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity, excellence and respect for people."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Lilly unites caring with discovery to make life better for people around the world."
+   }
+  },
+  "analyst_notes": "Aspirational, heritage-driven page using first-person plural 'we' and absolute phrasing ('We will', 'we remain committed'). Patients are addressed first, then health professionals and employees. Values are stated briefly in a headline list. Framing centres on global health and humanity rather than business metrics. Notable wording: 'Colonel Eli Lilly' founding story and the 'unites caring with discovery' promise."
+ }
+}

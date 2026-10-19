@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2216,
+  "output_tokens": 126,
+  "request_id": "req_011CgC8xFHxje5rDmbrbQvRr"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the 2018 'Responsibility' framing with a purpose statement: 'Our purpose is grounded in our commitment to fund programs that provide public benefit' and 'Health for All' as core purpose, emphasizing patient access to affordable medicines. Removed items were mostly news teasers and a typo fix."
+ }
+}

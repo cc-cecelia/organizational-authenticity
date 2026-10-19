@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4934,
+  "output_tokens": 576,
+  "request_id": "req_011CgC8tn9zT6nyYHMRP1HBx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We strive to identify and meet the most critical needs of patients and customers through continuous innovation across all areas of our business."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We reward commitment and performance and are responsive to the needs of our employees and their families."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We believe corporate responsibility is about our health, social, environmental and economic impact on people and communities around the world."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "we\u2019ve focused on not just the next quarter, but the next quarter century."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We are committed to the highest standards of ethics and integrity."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity, safety and teamwork of our employees."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are dedicated to the highest standard of innovation and scientific excellence."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led tone with a patients-first framing; patients are addressed before employees and shareholders. Uses mostly absolute commitments ('We are committed', 'We are dedicated') alongside hedged 'aspire' language. Mostly first-person plural voice. Innovation and science dominate; environment and shareholders receive little explicit commitment."
+ }
+}

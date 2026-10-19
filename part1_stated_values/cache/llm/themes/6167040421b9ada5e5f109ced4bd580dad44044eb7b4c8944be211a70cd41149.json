@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4582,
+  "output_tokens": 393,
+  "request_id": "req_011CgC8EtzC3M5JTnTKie7zs"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we ask this question every day of all those we serve"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "being a great place to work for our teammates"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "sharing our success with our communities"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "By driving responsible growth, we deliver returns to our clients and shareholders"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "maintaining strong guidelines for business practices and professional and personal conduct"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Corporate and aspirational, framed around a single question and 'responsible growth'. Clients are addressed first, with shareholders and communities close behind. Uses 'we have to' imperatives and resolute language, but the page is mostly a web-chrome-heavy brand statement with a long legal disclaimer. Commitments are stated absolutely, with a hedge only in the footer on goals."
+ }
+}

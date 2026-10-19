@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2656,
+  "output_tokens": 126,
+  "request_id": "req_011CgCA53XbGQBFbgvieMyTz"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The About page changed only factual and figure updates: refinery capacity rose from 3 million to 3.1 million barrels per day, outlets from 'More than 7,500' to 'Approximately 7,400', assets from $44.3 billion to $46.2 billion, and the description was reworded. No mission, values or commitments were added or removed."
+ }
+}

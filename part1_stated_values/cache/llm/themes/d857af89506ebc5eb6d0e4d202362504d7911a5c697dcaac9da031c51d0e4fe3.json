@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3113,
+  "output_tokens": 1627,
+  "request_id": "req_011CgC8mEJt7PsM8knUVC9e3"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Since 1850, American Express has worked to make a difference in our customers' lives in ways that matter most to them."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "we bring the powerful backing of American Express to our customers, colleagues and communities"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Community Giving from the American Express Foundation"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Promotional, aspirational tone with heavy use of 'powerful backing' language. Customers are addressed first, with colleagues and communities following in a single list. Voice is first-person plural ('our'). Commitments are general and unhedged ('worked to make a difference'), with few concrete measures. Much of the text is navigation or call-to-action chrome, leaving little developed value content."
+ }
+}

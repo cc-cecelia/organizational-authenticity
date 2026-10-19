@@ -1,0 +1,13 @@
+{
+ "label": "WFC 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1904,
+  "output_tokens": 483,
+  "request_id": "req_011CgC8fLDuqYcN9r43Lr9f5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Wording was refreshed in the page's teasers: \"journal\" became \"stories\" and the art blurb shifted from \"commemorate the rich legacy\" to \"honors the vibrancy and unique character\" of communities. The community focus is unchanged, and the reference-code lines changed too. No value or stakeholder was added or removed."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "MCD 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1815,
+  "output_tokens": 124,
+  "request_id": "req_011CgC96toAmZEDZ1zCfVvad"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added a 'Growth Pillars' section stating 'building on our strong foundations to ensure we have long-term success' and 'the opportunity to lead by example and effect meaningful change'. This introduces a long-term success/growth emphasis and a leadership-driven change commitment; 'More in Who We Are' is navigation chrome."
+ }
+}

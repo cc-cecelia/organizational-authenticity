@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4849,
+  "output_tokens": 133,
+  "request_id": "req_011CgC9MtgthDhAQkiLG6iAB"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 adds an explicit 'Vision and Values' section (safety, honor, commitment), recasts strategy around financial strength and capital allocation, and adds 'Our Energy' on advancing sustainable communities. It also removes the Technology/R&D section and the 'Our Refineries' and history framing, shifting emphasis toward values and financial discipline."
+ }
+}

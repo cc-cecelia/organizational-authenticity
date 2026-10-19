@@ -1,0 +1,13 @@
+{
+ "label": "META 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9074,
+  "output_tokens": 121,
+  "request_id": "req_011CgC8Us8wz9fNAxSCWuv6b"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page adds a new 'Our Principles' section, including 'Give People a Voice', 'Serve Everyone', 'Keep People Safe and Protect Privacy' and 'Promote Economic Opportunity'. It replaces the old mission and purpose statement with a shorter one and adds community impact figures."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5877,
+  "output_tokens": 154,
+  "request_id": "req_011CgC9xwyZYD5DBexKCY925"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The Vision and Mission statements were removed and the values list was rewritten (Customer First, Fearless Innovation, Results Driven, Integrity replacing customer obsessed, fearless, truth and transparency), adding 'shape technology as a force for good'. New Edge to Cloud and Tech Innovation sections were added; the mission-like 'improves the life of every person on the planet' replaced 'enriches the lives'."
+ }
+}

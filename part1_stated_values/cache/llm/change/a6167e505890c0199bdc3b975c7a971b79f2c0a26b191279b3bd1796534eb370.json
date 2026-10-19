@@ -1,0 +1,13 @@
+{
+ "label": "META 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 9133,
+  "output_tokens": 138,
+  "request_id": "req_011CgC9xDPj8QJ9fNmwzYBLA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page replaces the 2019 mission-only Company Info with a new 'Our Principles' section: Give People a Voice, Build Connection and Community, Serve Everyone, Keep People Safe and Protect Privacy, and Promote Economic Opportunity. Emphasis shifts toward stated principles on voice, safety, privacy and economic opportunity."
+ }
+}

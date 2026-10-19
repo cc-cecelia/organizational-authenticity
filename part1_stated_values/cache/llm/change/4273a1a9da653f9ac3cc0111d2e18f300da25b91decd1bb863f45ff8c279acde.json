@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3307,
+  "output_tokens": 148,
+  "request_id": "req_011CgC9xMryMsSJfkvN5n44v"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly rotating promos, testimonials, leadership listings, awards, cookie and legal text, and updated facts (\"10 years in a row\", \"150,000+ companies\"). Standing statements shift only slightly: \"We believe everyone can be a Trailblazer\" and \"helping create a future with greater opportunity and equality for all\" are added, but the core mission tone is largely retained."
+ }
+}

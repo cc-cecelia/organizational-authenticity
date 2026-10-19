@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2532,
+  "output_tokens": 150,
+  "request_id": "req_011CgC8sbK6HwH68dDdKKV6P"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Employee count updated (~30,000 to ~47,000) and the mission-adjacent line 'But we do more than just treat diseases. We're meeting the health needs of people and societies' was replaced with 'but we're really just getting started'; 'Our history' section added. Ethics and compliance text is unchanged apart from capitalization, so the value framing largely persists, but the community-oriented health-needs language was dropped."
+ }
+}

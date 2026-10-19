@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2625,
+  "output_tokens": 132,
+  "request_id": "req_011CgCA4T8PSjBGW89giDXGs"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Values were reworded into bullet points with notable shifts: 'committed to' safety replaced by 'Aim for an accident-free, incident-free workplace'; 'Integrity' framing dropped; 'Respect' principle removed; 'partner with our communities' became 'partner with our stakeholders'; 'Diversity' and inclusion statements retained."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2414,
+  "output_tokens": 447,
+  "request_id": "req_011CgC9P3dgGYCDJZUHmRuNe"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the value statement \"Our Products Fuel Modern Life\" and its claims of protecting communities and the environment with safety records and emission cuts. Added mostly factual metrics, plus an emissions target (\"On track to achieve 100%...\") and \"$77 million generated for charities.\""
+ }
+}

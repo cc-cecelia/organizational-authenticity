@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2869,
+  "output_tokens": 141,
+  "request_id": "req_011CgC9JT5wLd4L551zAgQtX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed Executive Management line ('Driven to create value for our customers, our shareholders and our employees') and reframed Global Stewardship toward 'social and environmental stewardship' with innovation and lower environmental impact. Added Accountability section on 'progressive accountability guidelines'. Revenue figure updated (cosmetic). Net shift toward environment, innovation and integrity."
+ }
+}

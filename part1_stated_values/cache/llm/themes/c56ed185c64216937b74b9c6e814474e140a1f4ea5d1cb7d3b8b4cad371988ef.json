@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4055,
+  "output_tokens": 1694,
+  "request_id": "req_011CgC91dGtGWyQef53tQKQu"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "They seek diverse perspectives"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Aspirational and absolute, using 'Leaders' in the third person with 'never' and 'always' framing. Customers lead the page, and people-development and long-term value follow. Mostly third-person, with occasional first-person plural ('we do', 'We value'). Hedging appears only once ('many people may think'). Distinctive wording includes 'peculiar' and 'Amazonians'."
+ }
+}

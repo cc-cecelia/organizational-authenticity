@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3208,
+  "output_tokens": 1467,
+  "request_id": "req_011CgC8mZhvugihNywgTZ4SS"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "has worked to make a difference in our customers' lives in ways that matter most to them"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "we bring the powerful backing of American Express to our customers, colleagues and communities"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Through our enterprise ESG strategy"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "we bring the powerful backing of American Express to our customers, colleagues and communities"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "corporate governance information"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief, promotional and aspirational, with customers named first and most often. Uses first-person plural 'we' and the phrase 'powerful backing' repeatedly. Commitments are stated absolutely but not quantified. Governance and sustainability appear only as navigation-style labels. Much of the page is newsroom chrome."
+ }
+}

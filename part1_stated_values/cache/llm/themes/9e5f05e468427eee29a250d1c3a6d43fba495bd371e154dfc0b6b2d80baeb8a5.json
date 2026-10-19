@@ -1,0 +1,50 @@
+{
+ "label": "F 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3443,
+  "output_tokens": 1723,
+  "request_id": "req_011CgC9CctspZCwSFKJLjyok"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "we've worked to earn their trust, every single day."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "be it employees, our union partners, customers, dealerships, businesses, neighborhoods, cities or government."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "the company acts decisively to create and promote a sustainable future for our shared planet"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We've innovated to expand their opportunities."
+   }
+  },
+  "analyst_notes": "Aspirational, purpose-led copy in first-person plural, with headline-style sections such as Better Lives and Stronger Communities. It leads with people, community and planet rather than financial returns. Commitments are mostly absolute and declarative ('we do what we do best'), softened by 'we believe'. Distinctive phrasing includes 'shorten the distance between where you are and where you want to go' and 'making life electric'."
+ }
+}

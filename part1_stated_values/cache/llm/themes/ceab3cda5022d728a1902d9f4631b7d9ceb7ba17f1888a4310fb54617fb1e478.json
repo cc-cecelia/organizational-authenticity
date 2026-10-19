@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3673,
+  "output_tokens": 468,
+  "request_id": "req_011CgC8m37BmyVycFqS9XcHp"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Provide the world\u2019s best customer experience every day."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We respect our communities and are committed to working together so they can thrive and make a meaningful difference in the world."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We\u2019re committed to ensuring that we have a welcoming and inclusive culture where everyone\u2019s voice matters and where people of all races, ethnicities, genders, gender identities, sexual orientations, ages, religions, disabilities and viewpoints can thrive."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We Support Our Communities"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We Do What\u2019s Right"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "From our innovative products to our world-class customer service, our customers expect the best\u2014and our teams are proud to deliver it."
+   }
+  },
+  "analyst_notes": "Customer-centric and aspirational, with a first-person plural voice ('we', 'our') and frequent absolute promises ('promise to have their backs'). Employee and DEI language is prominent, with an extended inclusion commitment. Shareholder and environmental content is absent. Values are labeled in headline form."
+ }
+}

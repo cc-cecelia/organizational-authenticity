@@ -1,0 +1,50 @@
+{
+ "label": "UNH 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4179,
+  "output_tokens": 1960,
+  "request_id": "req_011CgC8p4R9iURFV1UtQUnXL"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We will walk in the shoes of people we serve and those with whom we work."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "collaboration with our colleagues and clients"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "We will encourage the variety of thoughts and perspectives that reflect the diversity of our markets, customers and workforce."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We will then respond in service and advocacy for each individual, each group or community, and for society as a whole."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We will be accountable and responsible for consistently delivering high quality and superior results that make a difference."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We will honor commitments. We will never compromise ethics."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "pursue a course of continuous, positive and practical innovation as a core competency within our enterprise"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural 'We will' statements with absolute language ('never compromise ethics'). Integrity and innovation lead as headline values; compassion and relationships address people served and colleagues. Repeated slogans 'Help People Live Healthier Lives' and 'Make Health Care Work for Everyone'. Environment and safety are absent; financial language is minimal."
+ }
+}

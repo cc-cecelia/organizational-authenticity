@@ -1,0 +1,50 @@
+{
+ "label": "SLB 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4025,
+  "output_tokens": 524,
+  "request_id": "req_011CgC9Ja5NyKvxdHpBmkNaG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we\u2019ve always built our business around our customers and their endeavors; they are at the center of everything we do"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We are industry leaders because of our exceptional and talented people. They are the core that drives our purpose and integrity"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Indeed, it is our diversity that makes us stronger."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Bring Balance Back to Our Planet Our planet needs balance to thrive, for the climate, for people, and for natureTogether, we will pave the way through better practices, innovative technologies, and the commitment to help others."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Actively supporting STEM education for women."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "The Ethics and Compliance (E&C) program ensures compliance risks are known and addressed and that the program is effectively implemented."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Together, we create amazing technology that unlocks access to energy for the benefit of all."
+   }
+  },
+  "analyst_notes": "Confident, aspirational tone centred on purpose and technology; first-person plural 'we' throughout. Customers and people lead the framing. Environment and energy transition appear as aspirations rather than measured commitments. Integrity is stated factually via the Ethics and Compliance program. Safety and shareholder returns are absent."
+ }
+}

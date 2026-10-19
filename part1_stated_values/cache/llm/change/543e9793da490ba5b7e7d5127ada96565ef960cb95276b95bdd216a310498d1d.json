@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3581,
+  "output_tokens": 115,
+  "request_id": "req_011CgCA37YdfnfB1zrsZRdZS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly updated figures and fiscal-year facts (store count, ranking, dates, vendor wording). The business-model and financial-performance paragraphs were reworded, but their emphasis on flexibility, growth and cash return to shareholders is unchanged. No mission or value statement was added or removed."
+ }
+}

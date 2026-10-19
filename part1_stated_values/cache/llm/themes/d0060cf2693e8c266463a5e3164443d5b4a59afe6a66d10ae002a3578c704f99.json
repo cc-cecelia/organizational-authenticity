@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4541,
+  "output_tokens": 430,
+  "request_id": "req_011CgC9AgMvvyTt58UNYseBr"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Our off-price values continued to resonate with our new and already loyal customers across all of our geographies."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We have dedicated nearly 40 years to cultivating our merchandising talent"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "We brought our values to more consumers around the world"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "while simultaneously driving superior financial returns and distributing cash to our shareholders through our share buyback and dividend programs"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are convinced that being leaders in innovation will keep us differentiated from the rest of the retail world"
+   }
+  },
+  "analyst_notes": "Confident, celebratory tone centred on growth metrics, store expansion and market share. Shareholder returns and customer traffic lead the framing. Uses first-person plural and exclamation marks; commitments are stated absolutely (we are convinced, we are confident). Values are framed as off-price value mission, a recurring phrase."
+ }
+}

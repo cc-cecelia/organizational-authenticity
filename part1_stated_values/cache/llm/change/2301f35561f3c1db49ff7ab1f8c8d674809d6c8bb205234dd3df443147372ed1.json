@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3609,
+  "output_tokens": 124,
+  "request_id": "req_011CgC8aEykqBhyU8qfmbaKj"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are updated rankings (#15 to #11, #44 to #38), a Twitter handle change from @JobsatIntel to @WeAreIntel, and analytics/script metadata and asset tags. No values, commitments, mission statements or stakeholders were added or removed; the diff reflects updated facts and page chrome."
+ }
+}

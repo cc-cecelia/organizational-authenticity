@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3621,
+  "output_tokens": 150,
+  "request_id": "req_011CgC9G5v9zDtysS6GdPuLx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 adds innovation (\"human ingenuity fuels innovation\"), lower-carbon future, and a new values set led by \"partnership\", \"diversity and inclusion\", \"trust and integrity\". It removes 2020 'high performance' and 'strategies' emphasizing 'superior shareholder value' and returns, shifting emphasis from shareholder returns to stakeholders and innovation."
+ }
+}

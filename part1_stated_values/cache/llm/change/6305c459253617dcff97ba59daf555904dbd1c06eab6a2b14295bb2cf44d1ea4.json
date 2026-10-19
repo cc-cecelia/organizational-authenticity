@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2214,
+  "output_tokens": 119,
+  "request_id": "req_011CgCA1ET4vEhNJzi9BvfFs"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page replaces the 1960 Mission statement ('first and foremost priority is to contribute to human welfare', 'To maintain good citizenship as a company') with a headline about motivating 'the extraordinary for 60 years'. The citizenship commitment and its tagline are removed, shifting emphasis."
+ }
+}

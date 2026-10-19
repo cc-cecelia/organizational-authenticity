@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2445,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9zS9W9LcAu7NDW3iBK"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are mostly capitalization, layout and updated figures (30+ million patients to 28 million; 21 to 22 facilities; $4.3 billion R&D 2015 unchanged). Added a 'Meet AbbVie: Determined to Make a Difference' featured promo. No mission or value statements were altered."
+ }
+}

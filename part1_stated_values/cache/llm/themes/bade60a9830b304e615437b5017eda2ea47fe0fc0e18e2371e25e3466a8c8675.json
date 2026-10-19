@@ -1,0 +1,50 @@
+{
+ "label": "MPC 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3462,
+  "output_tokens": 1844,
+  "request_id": "req_011CgC9L6qbAJ1GmZHarWW1N"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Strive to provide our employees with a collaborative, supportive and inclusive work environment where they can maximize their full potential for personal and business success"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Value diversity in culture, background, perspective and experiences"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Commit to safe and environmentally responsible operations"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Actively partner with our stakeholders to find and create shared value, making a positive difference together"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "with business partners, shareholders and the communities where we work and live"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Set high expectations for ourselves and build trust in each other"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Aim for an accident-free, incident-free workplace"
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Terse bulleted values page written in first-person plural ('we', 'our') with aspirational imperatives ('Aim for', 'Strive to', 'Commit to') rather than absolute guarantees. Safety and integrity headline the values; employees come next, with shareholders appearing only as a trust audience. The board section asserts strict governance and transparency in absolute terms."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2304,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9x5NmuLU7XsNocNBTx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the 'Invention of the GPU' history blurb and nav-style links and adds a new headline, 'Taking on the world's greatest challenges', with text on tackling challenges no one else can solve and AI 'profoundly impacting society'. This shifts emphasis toward stated ambition and societal impact."
+ }
+}

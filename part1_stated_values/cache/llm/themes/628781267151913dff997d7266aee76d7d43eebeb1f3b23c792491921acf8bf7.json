@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4006,
+  "output_tokens": 1768,
+  "request_id": "req_011CgC922PS5Tjjw9iNktQDE"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Almost entirely third-person aspirational statements about 'Leaders' rather than corporate commitments. Customers and innovation dominate the headline principles. Language is absolute and superlative ('never', 'always', 'relentlessly high standards'). Some first-person 'we' appears only in the people and frugality passages. Wording is distinctive and idiomatic, such as 'not invented here' and 'Have Backbone'."
+ }
+}

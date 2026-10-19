@@ -1,0 +1,50 @@
+{
+ "label": "MCD 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3578,
+  "output_tokens": 1559,
+  "request_id": "req_011CgC96Pptn5LG3QqVvAbNb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We put our customers and people first"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We will elevate our people practices to ensure our people feel welcomed, valued, and part of the McDonald\u2019s community"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We open our doors to everyone"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We are good neighbors"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "driving growth while operating together"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We do the right thing"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "committed to fostering a safe, respectful and inclusive workplace"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "getting faster, more innovative and more efficient at solving problems for our customers and people"
+   }
+  },
+  "analyst_notes": "Aspirational, we-voice framing built around five named core values presented as headlines. Customers and people are placed first, and the Serve and Integrity values are stated in absolute terms. Forward-looking 'will' commitments appear in the Foundation section. Environment is absent. Safety and innovation appear only as passing strategy phrases."
+ }
+}

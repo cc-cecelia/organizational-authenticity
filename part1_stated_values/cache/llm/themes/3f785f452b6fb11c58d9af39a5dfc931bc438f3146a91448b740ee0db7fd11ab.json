@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3287,
+  "output_tokens": 795,
+  "request_id": "req_011CgC8XLhCsCER8vzv4dzHd"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Factual and descriptive, built from scale figures (customers, partners, employees, revenue) and navigation links. It states no values or commitments and uses no first-person voice. Customers and partners are listed before any other stakeholder. The only evaluative wording is 'leading-edge capabilities', which describes products rather than a commitment to innovate."
+ }
+}

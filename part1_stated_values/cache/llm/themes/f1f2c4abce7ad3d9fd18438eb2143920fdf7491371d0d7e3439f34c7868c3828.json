@@ -1,0 +1,50 @@
+{
+ "label": "JPM 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7063,
+  "output_tokens": 2013,
+  "request_id": "req_011CgC8Lp8fLcmDVxNLxBQxN"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our job is to always do right by them and consistently strive not only to meet their needs but also to exceed their expectations"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Recognize that we gain strength from a diverse workforce \u2013 embrace our differences"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Leverage our success in order to give back to the communities where we do business"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Work for profitable, sustainable, long-term growth"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "At JPMorgan Chase, acting with integrity is paramount\u2013 and it applies to every aspect of our company."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Build a safety-first culture"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "drive change and innovation and never stop learning"
+   }
+  },
+  "analyst_notes": "Aspirational, imperative-heavy list of directives in second person, with first-person plural promises ('we will') and an explicit hedge ('We cannot promise specific outcomes'). Leads with customers, then integrity and people. Headings like 'Exceptional Client Service' and 'A Commitment to Integrity' frame priorities; sports analogies appear in the team section."
+ }
+}

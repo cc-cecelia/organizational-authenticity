@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3482,
+  "output_tokens": 127,
+  "request_id": "req_011CgCA1JmGqfmCAiUXuLjQW"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page replaces the 2019 mission statement with a 'Commitment to Patients' and adds a 'shared values' list (passion, innovation, urgency, accountability, inclusion, integrity). Removed: the 2019 integrity, diversity and natural-resources commitments; added: patient-centricity and innovation emphasis."
+ }
+}

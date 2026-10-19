@@ -1,0 +1,13 @@
+{
+ "label": "LLY 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3162,
+  "output_tokens": 112,
+  "request_id": "req_011CgC9zCsnFLXyVhretzAV2"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page removes the 1876 founding story, the 'committed to his vision' passage, the Purpose statement and the three core values (Integrity, Excellence, Respect for People). It adds a 'GET BETTER' ad script about patients not being blamed, dismissed, or limited by income."
+ }
+}

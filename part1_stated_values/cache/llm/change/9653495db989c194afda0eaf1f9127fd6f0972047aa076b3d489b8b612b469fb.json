@@ -1,0 +1,13 @@
+{
+ "label": "BAC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2128,
+  "output_tokens": 123,
+  "request_id": "req_011CgC8dtr96MgCtzyzYdCEm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the ESG Report and Student Leaders teasers; added Arts & Culture ('We value the impact art makes on communities') and Investing in women ('empowering women') teasers. Responsible growth reworded from 'our strategy of' to 'our focus on', a modest emphasis shift. Report center moved, unchanged."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1955,
+  "output_tokens": 117,
+  "request_id": "req_011CgC9xY788bqhCEPq6wXDp"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Diff shows reordering of the '130,000+ Employees' fact line, a title change from 'Integrated Cloud Applications and Platform Services' to '&', and added navigation and contact chrome (Contact Us, sales phone, Support Directory, Events, News). No mission, values or commitments changed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3328,
+  "output_tokens": 932,
+  "request_id": "req_011CgC8vfVhhUAdYRPuvaFrj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "creating more possibilities for more people through the power of health"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "both as individuals and as communities"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "we\u2019re discovering new ways to make life better"
+   }
+  },
+  "analyst_notes": "Aspirational, anthem-style framing built on a tagline rather than specific commitments. Voice is first-person plural ('we') and the page speaks to individuals and people generally, not to employees, investors or regulators. Innovation and reach are the main ideas, with the 'discovering new ways' wording carrying most of the value claim. Other stakeholder categories are absent, and most of the text is legal and site chrome."
+ }
+}

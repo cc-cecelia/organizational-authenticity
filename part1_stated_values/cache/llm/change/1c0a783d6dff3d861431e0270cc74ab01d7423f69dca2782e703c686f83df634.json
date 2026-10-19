@@ -1,0 +1,13 @@
+{
+ "label": "OXY 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1925,
+  "output_tokens": 124,
+  "request_id": "req_011CgC9P9jYhoDCxPSuiGXFF"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission statement changed: 'continue at the forefront of our industry as a strong performer' became 'achieve excellence in our industry as THE leader'; 'stockholders' became 'stakeholders'; 'maximize shareholder value' became 'maximize value', dropping the shareholder focus and broadening the stakeholder reference."
+ }
+}

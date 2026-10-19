@@ -1,0 +1,50 @@
+{
+ "label": "COP 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4170,
+  "output_tokens": 1649,
+  "request_id": "req_011CgC9GBegnahteMmME5jGF"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We use infrared camera technology to proactively manage fugitive emissions and improve environmental performance."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "ConocoPhillips has supported United Way through our annual campaign for nearly 30 years."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "These core values are the fundamental principles and standards of behavior by which we are guided each and every day."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "we have become a technical company committed to innovation and the responsible development of energy"
+   }
+  },
+  "analyst_notes": "Confident, factual corporate tone with superlatives such as world's largest and unmatched, mostly in the third-person 'we' voice. Stakeholder coverage is thin: innovation and community dominate, while customers, employees, DEI and safety are absent. Commitments are stated directly ('is committed to') rather than hedged. Much of the page is business description and social media chrome."
+ }
+}

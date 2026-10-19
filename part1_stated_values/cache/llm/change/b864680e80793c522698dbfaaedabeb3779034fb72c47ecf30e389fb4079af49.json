@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2753,
+  "output_tokens": 135,
+  "request_id": "req_011CgCA1D3j4Kui74Eermhn5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Page restructured with new headings ('ONE COMPANY, ONE MISSION', 'THE MEDTRONIC MISSION', 'CITIZENSHIP') and removed inline 'See X' links and browser notice. Mission bullet wording is unchanged; added Citizenship teaser about the Foundation and volunteering is rotating featured content."
+ }
+}

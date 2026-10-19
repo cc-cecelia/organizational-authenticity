@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2004,
+  "output_tokens": 136,
+  "request_id": "req_011CgC9QsBwXFHXbYucbhbsq"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page adds a business-description line ('create innovative technologies... advance a sustainable energy future') and a 'View Guiding Principles' link, while removing the 2020 OTC award teaser text. The community value 'Enhancing the economic and social well-being of the communities' persists, with only a 'View XMR' link added, so the stated community commitment is unchanged."
+ }
+}

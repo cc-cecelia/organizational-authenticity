@@ -1,0 +1,50 @@
+{
+ "label": "IBM 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6201,
+  "output_tokens": 1470,
+  "request_id": "req_011CgC8YvCrrPRCPD5FwHwbh"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "IBM is your trusted partner for your journey to cloud"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "IBM\u2019s greatest asset is the IBMer."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "We believe our strength lies in the diversity of our employees."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Augmented intelligence can benefit social services, public safety, education and our environment"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "as the world\u2019s responsible\u2014and dependable\u2014steward of technology"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "At IBM Research, we invent things that matter."
+   }
+  },
+  "analyst_notes": "Aspirational, promotional tone dominated by history, products and research showcases. Uses confident first-person plural 'we' and 'we believe' statements. Employees and innovation are foregrounded; customers, DEI and integrity appear briefly. Environment and shareholders are absent. Commitments are largely absolute, not hedged."
+ }
+}

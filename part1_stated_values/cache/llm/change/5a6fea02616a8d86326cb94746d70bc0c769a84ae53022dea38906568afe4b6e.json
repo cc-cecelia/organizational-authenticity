@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2559,
+  "output_tokens": 142,
+  "request_id": "req_011CgC8SSN8eXQsqfMiLtbw1"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2019 page mostly swaps navigation and link labels (e.g., 'UNIVERSITY RELATIONS' to 'UNIVERSITY RECRUITING', added 'Cart' and 'CONTACT US' prompts) and reflows the same Invention of the GPU paragraph. No stated value, commitment, mission or stakeholder is added or removed."
+ }
+}

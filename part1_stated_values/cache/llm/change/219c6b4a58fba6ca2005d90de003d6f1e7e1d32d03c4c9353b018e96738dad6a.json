@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1986,
+  "output_tokens": 150,
+  "request_id": "req_011CgC8SCWhTMB7kPcFfUrmS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 page adds navigation and product-category links (Platforms, AI and Deep Learning, Data Center, GeForce Gaming, and so on) and removes the 'Our New Home Rises in Silicon Valley' teaser. The only wording change is a rephrase of the tagline to 'Explore the frontiers of parallel, visual, and AI computing.' No value or commitment is added or removed."
+ }
+}

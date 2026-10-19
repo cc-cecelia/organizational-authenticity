@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4183,
+  "output_tokens": 460,
+  "request_id": "req_011CgC9BDJGtjFueE6tw25u6"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our mission is to deliver great value to our customers every day."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "prioritizing the health and safety of our Associates, customers, and communities"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "our strong financial returns and cash generation historically allowed us to simultaneously invest in the growth of the business and return cash to shareholders"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "prioritizing the health and safety of our Associates, customers, and communities"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "while also testing new ideas"
+   }
+  },
+  "analyst_notes": "Factual, confident tone centered on customer value and the off-price model, with several 'we believe' and 'we are convinced' statements. Customers are addressed first; the employee and sustainability commitments are brief and generic. Wording is first-person plural and mostly declarative, with a sustainability pledge stated without specifics."
+ }
+}

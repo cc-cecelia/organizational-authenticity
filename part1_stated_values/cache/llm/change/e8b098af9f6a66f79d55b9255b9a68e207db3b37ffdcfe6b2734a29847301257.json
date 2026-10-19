@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2733,
+  "output_tokens": 139,
+  "request_id": "req_011CgC9zj8TGLbbaYThJaGZY"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures: R&D investment $12.2B to $13.5B, total giving $3B to $1.85B, employee count 68K to 69K. Rotating featured content swapped: LGBTQ+, nursing, HIV story, Q1 2023 earnings teasers replace women of color, Beacon of Hope, measles and research teasers. No standing value statements changed."
+ }
+}

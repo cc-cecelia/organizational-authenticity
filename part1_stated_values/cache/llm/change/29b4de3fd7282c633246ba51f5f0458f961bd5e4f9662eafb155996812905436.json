@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1956,
+  "output_tokens": 133,
+  "request_id": "req_011CgC91V7zaBbx1AXY6LNVW"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a mission statement to discover, develop and deliver innovative medicines for patients, and states that people and patients are central to everything the company does. Removes the 'A Commitment to Patients' heading and Global Patient Week text, plus links to Ethics and Compliance, Diversity & Inclusion, Sustainability, Responsibility, and the Foundation."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "JNJ 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3825,
+  "output_tokens": 526,
+  "request_id": "req_011CgC8rXPg76P7VNEngKBgy"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We believe our first responsibility is to the patients, doctors and nurses, to mothers and fathers and all others who use our products and services."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We are responsible to our employees who work with us throughout the world. We must provide an inclusive work environment where each person must be considered as an individual."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We must respect their diversity and dignity and recognize their merit."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "protecting the environment and natural resources."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We are responsible to the communities in which we live and work and to the world community as well."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our final responsibility is to our stockholders. Business must make a sound profit."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We must provide highly capable leaders and their actions must be just and ethical."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "working conditions clean, orderly and safe."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We must experiment with new ideas. Research must be carried on, innovative programs developed"
+   }
+  },
+  "analyst_notes": "Credo-framed, aspirational and absolute, using 'must' throughout. Customers and patients are addressed first as the primary responsibility, then employees, communities, and stockholders last. Written in first-person plural. Shareholder return is framed as a final responsibility, not a lead value. Page also includes a redirect notice to a pharmaceutical site."
+ }
+}

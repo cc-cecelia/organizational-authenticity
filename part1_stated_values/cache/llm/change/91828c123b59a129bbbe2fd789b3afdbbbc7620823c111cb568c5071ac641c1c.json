@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3153,
+  "output_tokens": 135,
+  "request_id": "req_011CgC9zuZmNA7TfXMSXvf9L"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 mission statement ('Our Mission is to enable our customers to make the world healthier, cleaner and safer') and 'step ahead' commitment were removed. The 2022 page replaces them with brand-by-brand descriptions and customer-focused language like 'innovative solutions' and 'convenient access', shifting emphasis from mission to product portfolio."
+ }
+}

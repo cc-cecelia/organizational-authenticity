@@ -1,0 +1,50 @@
+{
+ "label": "META 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5456,
+  "output_tokens": 485,
+  "request_id": "req_011CgC8UUHHg3JFuuRtjKCUo"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Serve Everyone We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "People deserve to be heard and to have a voice \u2014 even when that means defending the right of people we disagree with."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Give people the power to build community and bring the world closer together."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Our tools level the playing field so businesses grow, create jobs and strengthen the economy."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We have a responsibility to promote the best of what people can do together by keeping people safe and preventing harm."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "Keep People Safe and Protect Privacy We have a responsibility to promote the best of what people can do together by keeping people safe and preventing harm."
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing in largely third-person and plural 'we' voice, with principles described as beliefs 'we hold deeply and make tradeoffs to pursue.' Community and connection lead; safety and privacy appear as a principle. Business-scale statistics and history dominate the page, which is largely factual description rather than commitments."
+ }
+}

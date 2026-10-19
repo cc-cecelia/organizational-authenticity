@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4006,
+  "output_tokens": 1724,
+  "request_id": "req_011CgC92Bz9czM4igCoa6guC"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "They seek diverse perspectives and work to disconfirm their beliefs."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Page frames values as leadership behaviors, addressed mainly to internal leaders in third person ('Leaders'), with few first-person 'we' statements. Tone is aspirational and absolute, often using 'never' and 'always'. Customer Obsession leads, followed by innovation and long-term ownership. Distinctive wording includes 'Disagree and Commit' and 'Are Right, A Lot'. Hedges are rare; 'may be misunderstood' is one exception."
+ }
+}

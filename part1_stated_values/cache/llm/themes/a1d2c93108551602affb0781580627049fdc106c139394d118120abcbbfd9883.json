@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3040,
+  "output_tokens": 1415,
+  "request_id": "req_011CgC8tJCigSk1S4C4N2Fxg"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "expand access to our products"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "that values collaboration"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "employ a diverse workforce"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "driven by a desire to improve life"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Ethics and transparency at Merck are cornerstones of our corporate reputation."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "achieve scientific excellence"
+   }
+  },
+  "analyst_notes": "Concise, declarative, and institutional, opening with a first-person-plural core values statement. Integrity is the most repeated theme through headings and the 'cornerstones' sentence, phrased in absolute terms. Customers, community and innovation appear as aspirational values. Several headings are bare labels with little elaboration. A stray 'TEST' placeholder appears in the text."
+ }
+}

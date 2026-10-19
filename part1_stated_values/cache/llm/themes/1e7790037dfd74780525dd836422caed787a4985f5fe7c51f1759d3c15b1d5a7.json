@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3091,
+  "output_tokens": 466,
+  "request_id": "req_011CgC98BeDejLNykSN5LGAD"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "With our partners, our coffee and our customers at our core, we live these values:"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "To inspire and nurture the human spirit \u2013 one person, one cup and one neighborhood at a time."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "finding new ways to grow our company and each other."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Being present, connecting with transparency, dignity and respect."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Acting with courage, challenging the status quo and finding new ways to grow our company and each other."
+   }
+  },
+  "analyst_notes": "Aspirational, value-led tone with short imperative and declarative statements; uses 'we' and 'our' collectively rather than first-person singular. Employees and culture lead, with customers and community following. Commitments are stated absolutely, with no hedging. Distinctive wording includes 'one person, one cup and one neighborhood' and 'through the lens of humanity'."
+ }
+}

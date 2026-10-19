@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2392,
+  "output_tokens": 138,
+  "request_id": "req_011CgC9AZRiEHmCkj8iaP5B7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page adds a Purpose & History section and a Corporate Strategy item on a 'durable business model' plus an explicit 'Our Commitments' heading. It drops the 'Target trivia' list, including the Human Rights Campaign 100 score and the female and leader-of-color store management stats, replacing it with giving, volunteering and Fortune workplace facts."
+ }
+}

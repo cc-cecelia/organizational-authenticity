@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1870,
+  "output_tokens": 112,
+  "request_id": "req_011CgCA2r9w5dkmVFj4NUZvZ"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures only: the 'Communities in 2019' label became '2020', sales figures were revised (e.g. '$72.1B' to '~$90B'), and '~18m' became '20M' with a '$42M' figure replaced by '$150M'. No mission, values or commitments changed."
+ }
+}

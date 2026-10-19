@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2389,
+  "output_tokens": 82,
+  "request_id": "req_011CgCA3S76WbjXzBssKHjp7"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2019 version drops a long list of regional and product navigation links (Mobil, Esso, Mobil 1, regional lists). This is site navigation removal, not any change to stated values or commitments."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6231,
+  "output_tokens": 147,
+  "request_id": "req_011CgC9zWa9gG7grK73sizHj"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page adds a new \"Our principles\" section (\"what we achieve inspires hope and transforms lives\") and a transparency and sustainability pledge (\"we pledge to do so in a transparent and sustainable way\"). It also drops the \"Research and innovation are the cornerstones\" and \"Working together\" statements and the Ethics & compliance section, while updating facts and figures."
+ }
+}

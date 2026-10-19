@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3091,
+  "output_tokens": 487,
+  "request_id": "req_011CgC97s3nbuWye2HEhLM2N"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "With our partners, our coffee and our customers at our core, we live these values:"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "To inspire and nurture the human spirit \u2013 one person, one cup and one neighborhood at a time."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Acting with courage, challenging the status quo and finding new ways to grow our company and each other."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Being present, connecting with transparency, dignity and respect."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Acting with courage, challenging the status quo and finding new ways to grow our company and each other."
+   }
+  },
+  "analyst_notes": "Aspirational, values-led page using absolute, second-person-plural framing ('we live these values'). Employees and culture lead, with belonging and warmth emphasized; customers and community follow. Commitments are stated without hedging. Distinctive wording includes 'through the lens of humanity' and the mission's 'one person, one cup and one neighborhood'. Safety and environment are absent."
+ }
+}

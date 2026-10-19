@@ -1,0 +1,50 @@
+{
+ "label": "HD 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4688,
+  "output_tokens": 1979,
+  "request_id": "req_011CgC95mB1j7PotnFKK4Wnn"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "we must go the extra mile to give customers knowledgeable advice about merchandise"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "The key to our success is treating people well."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "work in an environment of mutual respect, free of discrimination and harassment"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "giving our time, talents, energy and resources to worthwhile causes in our communities and society"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "The investors who provide the capital necessary to allow our company to grow need and expect a return on their investment."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We exercise good judgment by \"doing the right thing\" instead of just \"doing things right.\""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "initiate creative and innovative ways to serve our customers and improve the business"
+   }
+  },
+  "analyst_notes": "Values are headed by short labels and illustrated with associate anecdotes in third person, so commitments are asserted through stories rather than argued. Shareholder value leads the page. Value statements use first-person plural and absolute language such as must and is the key. Few hedges; much of the content is narrative about individual associates."
+ }
+}

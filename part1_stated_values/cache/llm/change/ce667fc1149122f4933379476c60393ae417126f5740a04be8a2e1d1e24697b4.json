@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2810,
+  "output_tokens": 153,
+  "request_id": "req_011CgC9yy7Jam7cnvkkXLc6W"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Values reframed: 'We Deliver for Our Customers' became 'We Back Our Customers' with a promise to 'have their backs'. Added 'We Embrace Diversity' and 'We Stand for Inclusion' (all races, genders, disabilities belong), replacing the older diversity and 'We Need Different Views' lines. Community section now 'We Support Our Communities' with a 'committed to' commitment."
+ }
+}

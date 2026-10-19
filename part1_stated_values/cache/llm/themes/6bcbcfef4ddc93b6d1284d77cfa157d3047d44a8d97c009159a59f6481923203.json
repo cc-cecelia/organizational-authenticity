@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 15078,
+  "output_tokens": 649,
+  "request_id": "req_011CgC8xPiyNqcj6A7tkHyNb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We invest in innovative medicines and techniques that drive down the costs of medicine as well as patient assistance when patients can\u2019t afford their medicines."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "ensuring the health, safety and well-being of our workforce is critical to delivering our purpose."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Diversity is just as crucial to building a successful business as it is to building a vibrant culture."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Our company purpose\u2014Breakthroughs that change patients\u2019 lives\u2014guides our environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources, and the reduction of waste arising from our operations."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "All patients should have access to the medicines they need."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Pfizer is committed to providing shareholders, potential investors, and the public with a transparent view of our efforts toward fulfilling our purpose"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We\u2019re committed to conducting business in an ethical and responsible manner."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We integrate environment, health, and safety (EHS) into how we run our business"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "It affirms our strong commitment to innovation and to keeping the needs of patients at the heart of our IP practice"
+   }
+  },
+  "analyst_notes": "Factual, corporate-voiced page built on a list of responsibility topics, with a mix of absolute and hedged commitments. Patients are the dominant reference point, with the company purpose 'Breakthroughs that change patients\u2019 lives' repeated. Uses first-person plural ('we', 'our') throughout. Workforce, DEI and environment appear as brief sections. Much of the page is historical timeline and chrome, so stated values are sparse."
+ }
+}

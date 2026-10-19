@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2275,
+  "output_tokens": 131,
+  "request_id": "req_011CgCA16P8URhphXRZhfstT"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 adds a purpose statement: \"commitment to fund programs that provide public benefit\" and \"Health for All\" at the core of purpose, plus access to safe, effective, affordable medicines. Removed the UN Sustainable Development Goals belief line and the \"Responsibility\" heading; featured news and a typo fix are cosmetic."
+ }
+}

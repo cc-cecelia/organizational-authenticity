@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2598,
+  "output_tokens": 111,
+  "request_id": "req_011CgC8yuiHnvxJ1qRgQejsV"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The Mission statement text is essentially unchanged; the 2020 version adds the word 'all' ('personal worth of all employees') and a Mission and Medallion Ceremony history paragraph, plus a quote and heading. These are minor wording and historical additions with no shift in emphasis."
+ }
+}

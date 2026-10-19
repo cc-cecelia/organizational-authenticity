@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3458,
+  "output_tokens": 1326,
+  "request_id": "req_011CgC8vwPQy7hFrsXUnMYhB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "bringing life-changing health technologies to the people who need them"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our purpose is to make the world a better place"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, purpose-led page that addresses patients and customers first, using second-person 'you' and 'your best life'. Commitments are stated in absolute terms ('our purpose', 'our commitment') with little elaboration of concrete actions. Employees, environment, shareholders and integrity are absent. Disclaimers and link text are site chrome and were ignored."
+ }
+}

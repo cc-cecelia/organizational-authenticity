@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6172,
+  "output_tokens": 152,
+  "request_id": "req_011CgC8t4zEhSZKRPGYzpKZT"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 adds 'Our principles' and a pledge to improve lives 'in a transparent and sustainable way', plus new R&D focus language ('We target specific difficult-to-cure diseases') and a history section on the AbbVie-Abbott split. It drops 'Finding better solutions to the toughest challenges' and the 'Working together' partners section, shifting emphasis toward mission, sustainability and transparency."
+ }
+}

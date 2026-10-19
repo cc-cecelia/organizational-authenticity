@@ -1,0 +1,13 @@
+{
+ "label": "SBUX 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2123,
+  "output_tokens": 124,
+  "request_id": "req_011CgC98oSGikun1uKNAfrj7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The mission statement was reworded: the 2022 'to inspire and nurture the human spirit \u2013 one person, one cup, and one neighborhood at a time' became 'With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.' The new wording adds conversation and community and shifts focus toward human connection."
+ }
+}

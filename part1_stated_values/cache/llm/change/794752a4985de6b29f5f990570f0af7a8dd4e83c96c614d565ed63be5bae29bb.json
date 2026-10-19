@@ -1,0 +1,13 @@
+{
+ "label": "META 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4845,
+  "output_tokens": 111,
+  "request_id": "req_011CgC8VPmTE3DtNrY1qUA3h"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the 2021 'Our Mission' and history timeline, and replaces the core 'Our principles' text with a new 'Our Culture' section on workforce diversity. Stakeholder emphasis shifts toward employees and DEI, and the leadership roster is replaced."
+ }
+}

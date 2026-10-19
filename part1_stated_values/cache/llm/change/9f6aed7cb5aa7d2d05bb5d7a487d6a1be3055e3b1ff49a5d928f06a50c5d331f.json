@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1908,
+  "output_tokens": 100,
+  "request_id": "req_011CgC9wu1SSbk17nm6pPrc8"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Added a 'Trustworthy Computing' heading and a 'Responding to COVID-19 together' featured item describing employee safety, community health and customer resources. This is time-limited rotating featured content, not a change to Microsoft's standing mission or values."
+ }
+}

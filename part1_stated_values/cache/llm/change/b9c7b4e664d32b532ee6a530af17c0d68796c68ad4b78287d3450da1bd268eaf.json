@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2155,
+  "output_tokens": 203,
+  "request_id": "req_011CgCA4cZRjMs7mfuteZGEX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page adds an explicit vision statement and names core values: \"core company values of safety, honor and commitment.\" It removes the earlier line that vision and values are \"our guiding principles.\" It also adds a business description and a museum link, and rewords the tagline."
+ }
+}

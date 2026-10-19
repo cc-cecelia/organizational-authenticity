@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2030,
+  "output_tokens": 136,
+  "request_id": "req_011CgC8qCQ9T2zpURU4Ec1V3"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only updated figures changed: technology investment rose from $3.3B to $3.5B, transactions from 1 trillion to 1.1 trillion, and workforce from 285,000 to 305,000. The value statements about innovation and quality are unchanged, and the 'at least' qualifier was dropped on clinical staff. No values or stakeholders were added or removed."
+ }
+}

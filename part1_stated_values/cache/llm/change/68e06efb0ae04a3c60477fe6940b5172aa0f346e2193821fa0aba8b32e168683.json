@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5742,
+  "output_tokens": 144,
+  "request_id": "req_011CgC9KaJYgfmF1x3GEm3xq"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2024 page reframes around energy transition and decarbonization: adds 'Decarbonizing Industry', 'Scaling New Energy Systems', 'Bring Balance'-style framing, 'balanced planet' and net-zero mission text, and 'Our Values' with 'Our people are exceptional... diverse'. Drops 'Our Promise' wording and 'Case Studies'."
+ }
+}

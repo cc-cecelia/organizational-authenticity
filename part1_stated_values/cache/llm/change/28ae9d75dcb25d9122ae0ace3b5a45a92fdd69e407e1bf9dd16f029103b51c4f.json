@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2357,
+  "output_tokens": 307,
+  "request_id": "req_011CgC9NT9m2KCzNUNo69ax3"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The changes are updated facts and figures: renewable fuels rank moved from \"America's largest\" to \"the world's second largest\", ethanol plant count and description changed, a DGD joint venture was added, and the headquarters/offices sentence was removed. The five principles and values list is unchanged apart from punctuation. No values or commitments changed."
+ }
+}

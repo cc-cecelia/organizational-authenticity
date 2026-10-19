@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3680,
+  "output_tokens": 137,
+  "request_id": "req_011CgCA3fVm7ErPsnjiR17to"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page replaces the 2020 values set (high performance, integrity and trust, protect people and the environment, strategies, enterprise strategies) with new themes: human ingenuity and innovation, lower carbon, leadership responsibility, and a 'vision' and 'purpose', plus new 'how we work' items like 'align and inspire' and 'build relationships'."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "LLY 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3359,
+  "output_tokens": 1419,
+  "request_id": "req_011CgC8oVcC3A5P6KqHF4gR7"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "starting with those who take our medicines"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We maintain an environment built on mutual respect, openness and individual integrity."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Respect for People includes our concern for all people who touch or are touched by our company"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We will make a significant contribution to humanity by improving global health in the 21st century."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "strive to deliver superior business results"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We conduct our business consistent with all applicable laws and are honest in our dealings with customers"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We pursue pharmaceutical innovation, provide high quality products"
+   }
+  },
+  "analyst_notes": "Heritage-framed and values-led, with absolute first-person plural commitments ('We conduct', 'We pursue') and aspirational vision language. Integrity is the headline core value. Customers, then employees and communities are addressed first. Patient focus and humanity-wide health language are distinctive; wording is mostly declarative rather than hedged."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "META 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8129,
+  "output_tokens": 442,
+  "request_id": "req_011CgC8U4BhH84N42owHhxWm"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "People use Facebook to stay connected with friends and family, to discover what\u2019s going on in the world"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We encourage people to be bold. Our open culture keeps everyone informed and allows people to move around and solve the problems they care about most."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Facebook\u2019s mission is to give people the power to build community and bring the world closer together."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We work in small teams and move fast to develop new products, constantly iterating and improving."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing centred on connection and community, written in the third person about 'Facebook' and 'people'. The culture paragraph uses 'we' and 'our' and is the only place addressing staff. Most of the page is factual timeline, statistics, offices and leadership bios, which are business description and not coded. Commitments are stated absolutely, with no hedging. Stakeholders are addressed mainly as users."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "F 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3512,
+  "output_tokens": 1464,
+  "request_id": "req_011CgC9CaRYYY99B6yKaTW2Z"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Our team collaborates worldwide to provide new transportation solutions to our customers."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our mission is to drive human progress through the freedom of movement."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are once again working to revolutionize mobility, fueled by new challenges and creating solutions to build a better world for everyone."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice opening with a purpose headline on mobility and innovation. The mission centres progress and freedom of movement rather than stakeholders. The history and locations sections are factual. The carbon neutrality commitment appears only in a news teaser, so it is treated as chrome and not coded. Employees and customers get little attention."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3159,
+  "output_tokens": 127,
+  "request_id": "req_011CgC9zQPKfkeQUgNhhyfat"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Credo reworded: patients listed first with 'provide value'; employees gain 'diversity', 'inclusive work environment', 'fulfillment and purpose', and 'health and well-being'; communities add 'help people be healthier'; innovation adds 'investments made for the future'. Emphasis on health, diversity and inclusion shifts."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3160,
+  "output_tokens": 603,
+  "request_id": "req_011CgC9x6AA2ZsyxR7XrWo6F"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page drops the headline \"Taking on the world's greatest challenges\" and adds a workplace-culture statement: \"The mission is boss. Everyone has a voice.\" Most other additions are rotating product and showcase content (metaverse, Omniverse, Earth-2, robotics, DRIVE)."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4596,
+  "output_tokens": 1499,
+  "request_id": "req_011CgC8XQyg7VUmCi4icF6Qb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Employees develop skills and achieve success alongside managers who invest in them"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We don\u2019t just value differences\u2014we celebrate them."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "At Oracle, we know that sustainability is good business."
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Oracle applies enterprise expertise to startup ingenuity to solve business problems"
+   }
+  },
+  "analyst_notes": "Mostly factual: a long company-history timeline and promotional headlines dominate. Aspirational claims appear in the Innovative and Culture sections, using first-person plural 'we' in the culture block. Employee and recruiting prompts are addressed to prospective workers. Commitments are mostly unhedged, with few specific values beyond innovation."
+ }
+}

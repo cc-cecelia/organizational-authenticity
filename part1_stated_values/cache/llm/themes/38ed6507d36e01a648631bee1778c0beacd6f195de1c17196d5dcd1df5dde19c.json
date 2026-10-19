@@ -1,0 +1,50 @@
+{
+ "label": "JPM 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6648,
+  "output_tokens": 1706,
+  "request_id": "req_011CgC8ciR4rFsh9gqHW6Eq9"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We Focus on the Customer"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Provide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Excel by embracing an inclusive work environment and diverse teams"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Leverage our success in order to give back to the communities where we do business"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Work for profitable, sustainable, long-term growth"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "acting with integrity is paramount"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Build a safety-first culture"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Innovate, test and learn \u2013 we know some ideas will fail, and that\u2019s okay"
+   }
+  },
+  "analyst_notes": "Aspirational and largely imperative, with bullets phrased as commands. The page uses first-person plural 'we' and hedges outcomes ('We cannot promise specific outcomes'). Clients come first, then employees and integrity, with the environment absent. Distinctive wording includes 'fortress balance sheet' and 'a steadfast commitment'."
+ }
+}

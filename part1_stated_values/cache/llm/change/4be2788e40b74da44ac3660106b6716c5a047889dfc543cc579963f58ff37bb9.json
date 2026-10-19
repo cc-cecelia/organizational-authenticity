@@ -1,0 +1,13 @@
+{
+ "label": "GS 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3307,
+  "output_tokens": 104,
+  "request_id": "req_011CgC9yNb9i6QHN7bpwv4KY"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page adds a UK Race at Work Charter section committing to ethnic minority representation, adds racial equity and Black talent goals, and reframes women's advancement as measurable change. Its emphasis shifts from women's representation to broader diversity and racial equity."
+ }
+}

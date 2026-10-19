@@ -1,0 +1,13 @@
+{
+ "label": "NKE 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2203,
+  "output_tokens": 132,
+  "request_id": "req_011CgC97eiNrAEhT7hDuaHjV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page drops the 2018 mission to 'double our business, while cutting our environmental impact in half' and replaces it with 'We believe in a fair, sustainable future\u2014one where everyone thrives on a healthy planet and level playing field.' It adds a 'Purpose' menu item and renames Community Impact to 'Social & Community Impact.'"
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3573,
+  "output_tokens": 1974,
+  "request_id": "req_011CgC9QczR9geXhKyiEdiME"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We deliver what we promise. We believe the quality of our service defines who we are."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We are committed to inclusion across race, gender, nationality, religion, identity, experience, and any other unique attribute."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "How our strategy for sustainability serves as the cornerstone of our operations and our future."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Enhancing the economic and social well-being of the communities where we live and operate is among our most enduring principles."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "meeting the needs of our customers, shareholders, and global communities"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Priority number one. We are focused on our own personal safety as well as the safety of others."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are resourceful. We are innovative and strive to apply the right technology and solution every time."
+   }
+  },
+  "analyst_notes": "Aspirational values-led page using first-person plural throughout. Leads with integrity and safety, framed as absolute foundations and top priority. Commitments to inclusion and community are stated in full sentences, while innovation is hedged as striving. Employee and shareholder content is thin, and the page mixes headcount and award facts with value statements. Tone is promotional, e.g. Collaboration is a priority, but we are actually doing it."
+ }
+}

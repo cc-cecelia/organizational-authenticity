@@ -1,0 +1,13 @@
+{
+ "label": "MS 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2487,
+  "output_tokens": 133,
+  "request_id": "req_011CgC9yUUNT1HEcrda6G2FM"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 About page adds a 'Building a Future We Believe In' section stating 'we put our beliefs to work... prioritize diversity and inclusion and find meaningful ways to give back', plus 'Why Us' and 'Why Morgan Stanley' value-led text. Most other changes are updated figures or rotating featured content, which are cosmetic."
+ }
+}

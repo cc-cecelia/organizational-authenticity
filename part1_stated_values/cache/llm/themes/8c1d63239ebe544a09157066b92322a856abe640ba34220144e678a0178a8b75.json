@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4212,
+  "output_tokens": 1673,
+  "request_id": "req_011CgC8VnfMKZDEjS42yyAWB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our customers\u2019 success is critical to our growth and we\u2019re committed to succeeding together."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Find incredible opportunities to grow your career at an award-winning workplace, while also helping improve the lives and opportunities of people around the world."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Ensuring that all voices are welcome and heard increases our awareness of what is possible."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "helping create a future with greater opportunity and equality for all."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Nothing is more important to our company than the privacy of our customers\u2019 data."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Regularly providing new, innovative solutions gives our customers a competitive advantage."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice ('we believe', 'we're building') with a Trailblazer and Ohana framing. Customers are addressed first, through the Trust, Customer Success and Innovation core values. Commitments are mostly absolute ('Nothing is more important'). Employee and community content is brief and aspirational. Financial and environmental themes are absent."
+ }
+}

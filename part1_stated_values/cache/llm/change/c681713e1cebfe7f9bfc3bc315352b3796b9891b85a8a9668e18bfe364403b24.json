@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2050,
+  "output_tokens": 114,
+  "request_id": "req_011CgC8GAgnUYV5GWodXrBKX"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The diff adds only regional and brand-listing navigation (Mobil, Esso, Mobil 1, Wholesale fuels, country sub-entries) with no value, commitment, mission, or stakeholder statements added or removed; this is menu and product-list chrome, not a shift in stated values."
+ }
+}

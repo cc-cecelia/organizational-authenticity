@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1950,
+  "output_tokens": 139,
+  "request_id": "req_011CgC9LDVvZiJ2EC7cKHiYg"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 version drops the aim of an \"accident-free, incident-free workplace\" and the \"everyone goes home safely\" line, and removes \"has been and remains a priority\" in favor of \"is a priority.\" It adds safety systems design, well-maintained equipment and continuous learning as how the safety commitment is reflected, shifting emphasis toward process safety."
+ }
+}

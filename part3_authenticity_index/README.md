@@ -1,6 +1,6 @@
 # Part 3: Organizational Authenticity Index
 
-**Status: full run.** The index is built on Part 2's full `lived_values_panel.csv` (commit `8008c55`, which includes the JPM 2024 weight correction and the GOOGL and TJX recodes). For page-year 2024 it also uses the 2025 proxies from Part 2's out-of-sample extension. The primary index covers **384 of 450 firm-years across 48 firms**. To reproduce:
+**Status: full run.** The index is built on Part 2's full `part2_lived_values/output/lived_values_panel.csv` (commit `8008c55`, which includes the JPM 2024 weight correction and the GOOGL and TJX recodes). For page-year 2024 it also uses the 2025 proxies from Part 2's out-of-sample extension. The primary index covers **384 of 450 firm-years across 48 firms**. To reproduce:
 
 ```
 .venv/bin/pip install -r part3_authenticity_index/requirements.txt
@@ -33,7 +33,7 @@ Raising τ separates real backing from token mentions.
 - **Why a ratio.** It is scale-free across short and long pages.
 - **Why proxies t and t+1.** The page for year t was archived around July 1 of t. The proxy filed in t reports pay for fiscal t−1, and the proxy filed in t+1 reports pay for fiscal t, the year the page was live. Either can show backing, so coverage uses the maximum over both.
 - **2024's t+1 comes from Part 2's extension.**
-  - **Source.** The 2025 proxies come from Part 2's out-of-sample extension (`output/extension_2025_2026/`). They are used only where that extension's CD&A extraction exists and lists reported-year metrics. The criteria counts are built with Part 2's own `pay_counts()`, so de-duplication matches the main panel. The source is recorded in `do_t1_source`.
+  - **Source.** The 2025 proxies come from Part 2's out-of-sample extension (`part2_lived_values/output/extension_2025_2026/`). They are used only where that extension's CD&A extraction exists and lists reported-year metrics. The criteria counts are built with Part 2's own `pay_counts()`, so de-duplication matches the main panel. The source is recorded in `do_t1_source`.
   - **Coverage.** 44 firms get a 2025 t+1 this way. The other 6 keep 2024 alone and are flagged:
     - MRK's 2025 proxy has no CD&A section.
     - BRK.B, GS, AMZN, F and MPC have 2025 extractions with no metrics. Part 2's panel treats such rows as missing, not zero, and Part 3 follows it.

@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3632,
+  "output_tokens": 291,
+  "request_id": "req_011CgC9Bj9e1yamWNLn5HX7W"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page dropped the commitment \"We are committed to making a positive, sustainable impact on the world in which we live and conduct business.\" It also removed the long business-model and financial-outlook passages. It added a brief \"Corporate Responsibility is an important part of how we conduct our business.\""
+ }
+}

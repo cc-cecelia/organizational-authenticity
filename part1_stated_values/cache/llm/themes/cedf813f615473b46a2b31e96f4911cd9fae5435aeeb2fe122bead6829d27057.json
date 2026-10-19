@@ -1,0 +1,50 @@
+{
+ "label": "PSX 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4770,
+  "output_tokens": 2130,
+  "request_id": "req_011CgC9LhZ9ECMNEbSemv8Kj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "deliver quality products to customers"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We strive to attract, train, develop and retain individuals with the knowledge and skills to implement our business strategy"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "to improve lives by providing access to energy which is essential to a high standard of living and health throughout the world"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We deliver on our vision through consistently executing the strategies proven to drive shareholder value since our start in 2012"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We continuously test our capital allocation decisions through a range of economic and market scenarios"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "we back that up with core company values of safety, honor and commitment"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We are reshaping the company\u2019s portfolio by investing capital in higher-valued businesses"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural tone centered on the 'Providing Energy. Improving Lives.' slogan and named values of safety, honor and commitment. Shareholder value is stated prominently alongside community. Much of the page is factual corporate history and business description. Commitments are mostly stated absolutely, with few hedges."
+ }
+}

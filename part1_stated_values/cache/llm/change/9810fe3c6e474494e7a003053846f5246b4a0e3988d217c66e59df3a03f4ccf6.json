@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4649,
+  "output_tokens": 153,
+  "request_id": "req_011CgC8uKEksgRg4B9H8XYrX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2024 adds a DE&I section (\"embedding a culture of inclusion and belonging\", \"equal opportunity for all\", \"A DE&I mindset is central to our business growth\") and a Patients and caregivers focus. Removed: detailed values for Respect for people, Ethics, Innovation, and Patients first, plus the stakeholder list and the responsibility statement. Values are now a bulleted list."
+ }
+}

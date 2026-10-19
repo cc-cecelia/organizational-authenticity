@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1983,
+  "output_tokens": 138,
+  "request_id": "req_011CgC8a4gNXgci97EsF1nTC"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are mainly updated rankings (#12 to #14, #40 to #44/#46), capitalization of a headline, a reworded ranking link label, and removed footer and social-link chrome. The tagline 'The only thing more amazing than our technology is what the world does with it' was dropped, but it is not a stated value, so no value, commitment or stakeholder shifted."
+ }
+}

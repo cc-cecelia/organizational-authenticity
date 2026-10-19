@@ -1,0 +1,50 @@
+{
+ "label": "IBM 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3859,
+  "output_tokens": 1338,
+  "request_id": "req_011CgC8YTNq4J4PriKUXpf8Y"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Dedication to every client's success."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "IBMers came together to define the essence of the company."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "actively build relationships with all the constituencies of our business \u2014 including clients, partners, communities, investors and fellow IBMers."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Trust and personal responsibility in all relationships."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation that matters - for our company and for the world."
+   }
+  },
+  "analyst_notes": "Aspirational, with headline values stated as absolutes, such as 'every client' and 'every IBMer'. Mixes first-person 'we' with third-person 'IBMers'. Clients lead the framing. Values are explicitly distinguished from ethics and compliance, and a Palmisano quote reinforces that. Hedged language appears only in the 'aspiration' wording."
+ }
+}

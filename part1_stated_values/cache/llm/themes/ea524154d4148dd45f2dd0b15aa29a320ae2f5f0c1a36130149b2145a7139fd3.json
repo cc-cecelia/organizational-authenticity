@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4957,
+  "output_tokens": 2285,
+  "request_id": "req_011CgC8WSJ2sEaCs8cLoJEDw"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "When our customers succeed, we succeed."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Trailblazers around the world reach across roles, companies, and industries to help one another learn, grow, and succeed."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Everyone deserves equal opportunities."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are committed to bringing the full power of Salesforce to accelerate the world\u2019s journey to net zero."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "spearheading initiatives in philanthropy, racial equality and justice, climate action and advocacy"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We earn the trust of our customers, employees, and extended family through transparency, security, compliance, privacy, and performance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Providing continual technology releases and new initiatives gives our customers a competitive advantage."
+   }
+  },
+  "analyst_notes": "Aspirational, relationship-centred tone using first-person plural 'we' throughout. Customers and trust lead the framing, with community and stakeholder capitalism prominent. Commitments are mostly absolute ('We are committed', 'We earn'). Heavy use of metaphor ('bridges', 'Relationships are gold'). Much of the page is navigation and promotional chrome."
+ }
+}

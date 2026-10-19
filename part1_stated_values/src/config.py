@@ -18,7 +18,8 @@ PART1_DIR = Path(__file__).resolve().parents[1]
 REPO_ROOT = PART1_DIR.parent
 COMPANIES_CSV = REPO_ROOT / "data" / "companies.csv"
 
-# Raw cache (git-ignored). Everything here can be regenerated from Wayback.
+# Caches. cdx/, raw/ and discovery/ are git-ignored and can be regenerated from
+# Wayback; llm/ (LLM responses) is committed so the LLM step reproduces offline.
 CACHE_DIR = PART1_DIR / "cache"
 CDX_CACHE_DIR = CACHE_DIR / "cdx"            # one JSON file per CDX query
 RAW_CACHE_DIR = CACHE_DIR / "raw"            # raw archived bytes + metadata

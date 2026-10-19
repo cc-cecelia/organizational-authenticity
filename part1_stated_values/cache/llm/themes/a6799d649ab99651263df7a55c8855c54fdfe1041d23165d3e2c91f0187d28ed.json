@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3414,
+  "output_tokens": 1080,
+  "request_id": "req_011CgC8w72rEQ1PmQPHgeiBQ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "bringing life-changing health technologies to the people who need them"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our purpose is to make the world a better place"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "LIFE-CHANGING TECHNOLOGY"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural framing ('our purpose', 'our commitment') with direct address to 'you' and 'your best life'. Values are stated in absolute terms with little hedging. Customers and society are addressed first; employees, environment, and governance are absent. Lifestyle wording ('LIFE. TO THE FULLEST.') dominates, and the legal disclaimers are site chrome."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5514,
+  "output_tokens": 519,
+  "request_id": "req_011CgC9ybiSJBjz7uYFBrNnj"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed standing statements: \"We believe in the power of investing to transform people's lives\", \"Our culture of service extends beyond our clients to include our communities\", and \"building trust\". Added \"a better, more modern way to build and manage wealth\" and customer-service emphasis, plus award and survey promos."
+ }
+}

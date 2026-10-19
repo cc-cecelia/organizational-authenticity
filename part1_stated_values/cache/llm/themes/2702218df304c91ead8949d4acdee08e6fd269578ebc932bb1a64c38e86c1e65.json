@@ -1,0 +1,50 @@
+{
+ "label": "TMO 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3137,
+  "output_tokens": 1517,
+  "request_id": "req_011CgC8u97ZDTUZ9evK4qAUu"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our mission is to enable our customers to make the world healthier, cleaner and safer."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "make the world healthier, cleaner and safer"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "make the world healthier, cleaner and safer"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "make the world healthier, cleaner and safer"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "an unmatched combination of innovative technologies, purchasing convenience and comprehensive support"
+   }
+  },
+  "analyst_notes": "Factual and corporate, opening with scale claims ($18 billion revenue, 55,000 employees) before values. Customers are the framing stakeholder; the mission is stated absolutely ('Our mission is to') with no hedging. Mixes 'we' and 'Our' voice with third-person company description. Aspirational wording is limited to the mission line; the rest reads as product and brand listing. Workforce, DEI and integrity are absent."
+ }
+}

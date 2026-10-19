@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7233,
+  "output_tokens": 151,
+  "request_id": "req_011CgC9xxwrh6dyBwkQ72YpL"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page drops the 2022 values list (Customer First, Fearless Innovation, Integrity), 'Catalyst for Wonderful' and 'Delivering on Commitments', and adds a RISE strategy, supply-chain resilience 'moonshot', Moore's Law progress, open ecosystems and corporate responsibility commitments, shifting emphasis toward strategy and manufacturing."
+ }
+}

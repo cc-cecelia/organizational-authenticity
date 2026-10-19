@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3703,
+  "output_tokens": 1107,
+  "request_id": "req_011CgC98LUHb8aaDYFPe4tga"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We are committed to the highest standards of quality and service"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Our employees \u2013 who we call partners \u2013 are at the heart of the Starbucks experience."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "creating a culture of belonging where everyone is welcome"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe Starbucks can, and should, have a positive impact on the communities we serve."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "our purpose goes far beyond profit"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "while innovating to create new experiences to savor"
+   }
+  },
+  "analyst_notes": "Warm, aspirational first-person plural voice with heritage storytelling. Partners and community are foregrounded, with a headline on doing good. Commitments are mostly absolute ('We are committed to'), though the community impact claim is hedged ('can, and should'). Profit is framed as secondary, and 'partners' and 'the people business' are distinctive wording."
+ }
+}

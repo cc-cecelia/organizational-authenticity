@@ -1,0 +1,50 @@
+{
+ "label": "MS 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4641,
+  "output_tokens": 522,
+  "request_id": "req_011CgC8gFRTgUwAPwcizBPQv"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We know a diverse workforce and an inclusive culture matters to our clients."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our skilled workforce is comprised of individuals drawn from a broad cross section of the global communities we serve."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We know a diverse workforce and an inclusive culture matters to our clients."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "New fuel-cell system and six-acre solar panel field at Morgan Stanley's Westchester campus help reduce the firm's carbon footprint."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Through philanthropy and employee volunteerism, we support the diverse communities where our employees live and work."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Leadership at Morgan Stanley isn't just about good corporate governance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Morgan Stanley develops TAPS \u2013 the first automated trade processing system \u2013 in 1984"
+   }
+  },
+  "analyst_notes": "Aspirational, community-led framing. Opens with philanthropy and sustainability initiatives and social-impact claims; the first-person plural 'we' is used throughout. Commitments are largely hedged ('we believe', 'we work to'). Most of the page is historical timeline and business facts, which are not coded. Customers, employees, and safety receive little or no stated attention."
+ }
+}

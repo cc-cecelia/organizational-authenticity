@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4233,
+  "output_tokens": 1072,
+  "request_id": "req_011CgC8ZoESm5GfvUV8Yj8Qm"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "to achieve full representation of women and under-represented minorities at Intel by 2020"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We believe technology must constantly evolve to make more things possible and all things easier, smarter, and more connected than ever before."
+   }
+  },
+  "analyst_notes": "Mostly site chrome: rankings, recruiting prompts and tracking scripts dominate. The substantive text is brief and aspirational, using first-person plural 'We believe' for innovation. The DEI commitment is the only concrete, quantified pledge, stated in absolute terms with a dollar figure and a 2020 target. Other stakeholders are absent."
+ }
+}

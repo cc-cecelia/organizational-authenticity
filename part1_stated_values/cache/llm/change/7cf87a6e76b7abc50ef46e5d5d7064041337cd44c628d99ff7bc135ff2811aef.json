@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4968,
+  "output_tokens": 133,
+  "request_id": "req_011CgC8k1nmy3ACbHYbHUYh8"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page drops the 2019 mission-style statement 'Charles Schwab exists to help people achieve better financial outcomes' and the 'Citizenship' passage on investing resources where they make the most difference, along with 'helping improve people's lives'. Its 2020 version emphasizes awards and client-asset figures, which are updated, but no values are added."
+ }
+}

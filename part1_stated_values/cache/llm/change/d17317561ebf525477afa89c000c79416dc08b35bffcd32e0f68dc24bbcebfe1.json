@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2657,
+  "output_tokens": 109,
+  "request_id": "req_011CgCA1ENrTwCrrUi38xreb"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mission statement text is essentially unchanged; the only wording change is 'all employees' in the employees clause. Added Earl Bakken quote, a 1974 Mission Medallion Ceremony history paragraph, and page headings. Fewer than minor edits to standing commitments."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "WFC 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3081,
+  "output_tokens": 140,
+  "request_id": "req_011CgC8ekgHxaQAog7Gw2gL8"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the Stumpf letter's praise of 'putting our customers first' and 'Barron's' and 'Fortune' rankings; added 'we must never lose sight of putting our customers first' as a commitment and 'we've worked diligently to stay true to our vision', plus a 'better bank' post-crisis statement; emphasis on customers and integrity-style accountability shifted."
+ }
+}

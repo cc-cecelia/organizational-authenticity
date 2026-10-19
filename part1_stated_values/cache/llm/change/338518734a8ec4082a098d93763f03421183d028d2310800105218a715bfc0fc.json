@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5471,
+  "output_tokens": 157,
+  "request_id": "req_011CgC8jipZaAy3bjRxybhLR"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds a \"What we do\" statement that Schwab \"exists to help people achieve better financial outcomes\" and a Citizenship line about investing resources where \"we can make the most difference.\" It removes the 2018 Austin campus, \"Great Workplace\" and FORTUNE/J.D. Power award framing, and shifts emphasis toward customer satisfaction and awards.</parameter>"
+ }
+}

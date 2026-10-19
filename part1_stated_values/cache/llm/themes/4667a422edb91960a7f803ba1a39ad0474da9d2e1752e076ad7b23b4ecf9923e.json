@@ -1,0 +1,50 @@
+{
+ "label": "GOOGL 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5543,
+  "output_tokens": 2564,
+  "request_id": "req_011CgC8TxEGbAzRmipVfFcvX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Focus on the user and all else will follow."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We put great stock in our employees"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "people from diverse backgrounds with creative approaches to work, play and life"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "to help people access and use even more of the ever-expanding information in their lives"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "You can make money without doing evil."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Our users trust our objectivity and no short-term gain could ever justify breaching that trust."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Through innovation and iteration, we aim to take things that work well and improve upon them in unexpected ways"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice throughout, mixing hedges ('we hope', 'we believe') with absolute claims ('never'). Users come first via the headline principle 'Focus on the user'; employees and business appear later. Framing is a dated founder-era credo inviting accountability ('you can hold us to that'). Revenue passages are defensive, stressing trust and unmanipulated results."
+ }
+}

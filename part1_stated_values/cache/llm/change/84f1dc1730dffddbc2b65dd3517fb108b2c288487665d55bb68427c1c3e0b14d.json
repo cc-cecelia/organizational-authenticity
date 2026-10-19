@@ -1,0 +1,13 @@
+{
+ "label": "WFC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3543,
+  "output_tokens": 114,
+  "request_id": "req_011CgC9yFhuaAipjEeszKMAK"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page replaces the long-form 2017 Vision & Values narrative with a structured framework: a customer-focused vision, five primary values (customers, people, ethics, diversity and inclusion, leadership) and six goals, adding new stated commitments including innovation, risk management and shareholder value."
+ }
+}

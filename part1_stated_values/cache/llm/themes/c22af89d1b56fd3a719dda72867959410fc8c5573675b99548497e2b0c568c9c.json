@@ -1,0 +1,50 @@
+{
+ "label": "XOM 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4113,
+  "output_tokens": 1674,
+  "request_id": "req_011CgC9DqH2sCnWWRytbGgkb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "have provided reliable and trusted fuels that not only meet, but exceed customer confidence and expectations"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "addressing the risks of climate change"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "the economic development of the communities where we operate"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "we must continuously achieve superior financial and operating results"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "observe the highest standards of integrity in conducting business"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "Fueling the world safely and responsibly"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "develops and applies next-generation technologies to help safely and responsibly meet"
+   }
+  },
+  "analyst_notes": "Mostly factual, third-person corporate prose with some first-person plural 'we' and aspirational framing ('committed to being the world's premier'). Integrity, governance and financial results lead; employees, DEI and environment are minimal, with climate mentioned only as a risk. Commitments are absolute ('must', 'expected'). Consumer product and station calls to action are chrome and ignored."
+ }
+}

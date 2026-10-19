@@ -1,0 +1,50 @@
+{
+ "label": "TSLA 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3900,
+  "output_tokens": 1514,
+  "request_id": "req_011CgC93Lc5dLCpotYRs5oQx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "continues to make products accessible and affordable to more and more people"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "ultimately accelerating the advent of clean transport and clean energy production"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Combining safety, performance, and efficiency"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "unveiled Tesla\u2019s cutting-edge battery technology and electric powertrain"
+   }
+  },
+  "analyst_notes": "Mission-led and aspirational, opening with an environmental goal and framing Tesla as a clean-energy mission rather than a business. Mostly factual product description in third person, with absolute claims such as 'Tesla believes' and 'the future we want' in first-person plural. Employees, DEI and shareholders are essentially absent; customers and environment are addressed most."
+ }
+}

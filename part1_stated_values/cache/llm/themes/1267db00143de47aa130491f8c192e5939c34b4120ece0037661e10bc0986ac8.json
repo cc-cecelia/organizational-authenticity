@@ -1,0 +1,50 @@
+{
+ "label": "ABBV 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3933,
+  "output_tokens": 1647,
+  "request_id": "req_011CgC8so4HMsEGde5oW3zQX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we care deeply for our patients, their families, our employees, and our communities"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "delivering a lasting impact to our patients, their families, our employees and the community"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "Embracing diversity & inclusion"
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We proudly do our part to serve and support our communities and protect the environment"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We are proud to serve and support the community"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "uncompromising integrity at the heart of everything we do"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "pursuing the highest standards in quality, compliance, safety, and performance"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We innovate relentlessly in everything we do"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute, emotive language ('always', 'relentlessly', 'every single day'). Patients and employees are addressed first, then community. Integrity is framed as central. Commitments are often hedged with 'we strive'. Distinctive wording: 'inspire hope and transform lives'. Shareholders are absent."
+ }
+}

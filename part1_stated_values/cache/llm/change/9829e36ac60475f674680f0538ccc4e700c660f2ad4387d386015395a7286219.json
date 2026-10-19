@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2635,
+  "output_tokens": 133,
+  "request_id": "req_011CgC8mmCjgUEZn8fkS6PFa"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the Mission statement and the eight-value section (customer essentials, excellence, integrity, respect, diversity, inclusion, teamwork, community commitment), including explicit inclusion and diversity commitments. It adds a News Hub teaser and a general line about ESG strategy, Community Giving and backing customers, colleagues and communities."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2130,
+  "output_tokens": 134,
+  "request_id": "req_011CgCA2r8STzGsXk4WecbbN"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Strategy framing changed: 2020's four pillars (merchandising excellence, supply chain transformation, operational efficiency, customer engagement) became a 'Total Home Strategy' with five areas (Pro, Online, Installation Services, Localization, Assortment) and a goal of 'market share acceleration'. Metrics were updated to 2021 figures."
+ }
+}

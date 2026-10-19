@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3002,
+  "output_tokens": 224,
+  "request_id": "req_011CgCA1gSVuMr2jVyze3Sua"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2020 version adds Model Y and Cybertruck product facts and a Gigafactory Shanghai location, and drops 'Model 3' from the production sentence. The safety commitment ('the safest factories in the world') is unchanged, so no stated value shifts."
+ }
+}

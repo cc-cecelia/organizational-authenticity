@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3653,
+  "output_tokens": 697,
+  "request_id": "req_011CgC9BCPheoHZ9BhyPYXZY"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mostly updated figures and fiscal-year notes. The mission now promises value 'every day' with a 'quality, fashionable, brand name' framing, and drops the 'demographic reach is among the widest in retail' claim. Financial strength now means 'ability to invest in the growth of the business' instead of 'balance growth with reinvesting'."
+ }
+}

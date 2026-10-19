@@ -1,0 +1,13 @@
+{
+ "label": "IBM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5093,
+  "output_tokens": 159,
+  "request_id": "req_011CgC8ZTbF24Ac2V7dwNYTG"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page drops the 2021-era history timeline (most entries removed) and the FAQ-style questions on sustainability and IBM's future, and adds new program blurbs: IBM Sustainability Accelerator for \"vulnerable communities\" and IBM SkillsBuild for \"traditionally underrepresented communities in technology\". Shifts emphasis toward community and DEI, though core value statements stay largely unchanged."
+ }
+}

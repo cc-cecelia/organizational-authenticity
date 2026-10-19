@@ -1,0 +1,13 @@
+{
+ "label": "LLY 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2151,
+  "output_tokens": 266,
+  "request_id": "req_011CgC9z9hnAHnNmyqPn8tB7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page drops the standalone mission ('help people live longer, healthier, more active lives'), vision ('significant contribution to humanity') and values ('Integrity, excellence and respect for people'). It replaces them with a single 'Our Purpose' line, changing 'make life better' to 'create medicines that make life better'."
+ }
+}

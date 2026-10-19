@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3805,
+  "output_tokens": 157,
+  "request_id": "req_011CgC9xWZLwXGmKjhSsKokA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page removes the 'Customer Company' mission framing, the 'Customer Success' and 'Innovation' core value sections, and the 'HISTORY' and 'Questions?' sections, while the 'Trust' and 'Equality' and 'Sustainability' values are retained. Changes to standing values and mission are substantive, notably removal of 'we innovate together' and 'When our customers succeed, we succeed.'"
+ }
+}

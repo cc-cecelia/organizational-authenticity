@@ -1,0 +1,50 @@
+{
+ "label": "TSLA 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4003,
+  "output_tokens": 1607,
+  "request_id": "req_011CgC943gsYUHkxC9wbUzpq"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Tesla continues to make products accessible and affordable to more and more people"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "requiring production employees to participate in a multi-day training program before ever setting foot on the factory floor"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy."
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "To achieve our goal of having the safest factories in the world, Tesla is taking a proactive approach to safety"
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mission-led and aspirational, with sustainability as the headline. Third-person Tesla dominates, with a rare first-person plural in the safety and closing lines. Product achievements are stated in absolute superlatives, such as safest, best and first ever. Customers and safety get brief elaboration, while employees and innovation get little."
+ }
+}

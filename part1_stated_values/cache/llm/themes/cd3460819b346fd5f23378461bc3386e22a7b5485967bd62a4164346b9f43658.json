@@ -1,0 +1,50 @@
+{
+ "label": "NKE 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4018,
+  "output_tokens": 1948,
+  "request_id": "req_011CgC971bhypo7ZPsNXmvJ3"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "our experts guide millions of people on their personal sport journeys"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "No matter where we come from, a love of sport unites us. It teaches us to be competitive, but always collaborative and welcoming."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "At Nike, we believe that diversity fosters creativity and accelerates innovation."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "by making our products more sustainably"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Social & Community Impact The World Is Our Community"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "we're holding ourselves accountable for progress"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "To make big leaps, we take big risks."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led voice using first-person plural 'we' throughout. Team, diversity and innovation lead, with community and sustainability following. Commitments are often hedged ('we believe', 'we aim to') while some claims are absolute ('every athlete'). Shareholders and safety are absent. Headlines and section titles carry much of the framing."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "BLK 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2589,
+  "output_tokens": 130,
+  "request_id": "req_011CgC9yZXyPivhn38BwQ5t1"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission 'to create a better financial future for our clients' removed and replaced by 'help more and more people invest in their financial well-being'. Client-interest and 'Their interests come first' principle dropped and replaced by 'your goals are our goals'. Emphasis shifts from performance/diversity to collaboration and emotional ownership; diversity line removed."
+ }
+}

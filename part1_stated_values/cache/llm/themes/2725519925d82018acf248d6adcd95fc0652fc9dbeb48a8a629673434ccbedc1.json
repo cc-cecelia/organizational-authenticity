@@ -1,0 +1,50 @@
+{
+ "label": "MS 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5107,
+  "output_tokens": 501,
+  "request_id": "req_011CgC8h8YVQUzdvjqR61REF"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Morgan Stanley is differentiated by the caliber of our diverse team. Our culture of access and inclusion has built our legacy and shapes our future, helping to strengthen our business and bring value to clients."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We believe our greatest asset is our people."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "commit to diversity and inclusion"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Our firm's commitment to sustainability informs our operations, governance, risk management, diversity efforts, philanthropy and research."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Giving back is a core value"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Do the right thing, put clients first, lead with exceptional ideas, commit to diversity and inclusion, and give back."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "As a global financial services firm, Morgan Stanley is committed to technological innovation."
+   }
+  },
+  "analyst_notes": "Aspirational, values-led tone built on a named list of five core values. Customers and community are emphasized, with a commitment to giving back and diversity prominent. Mostly absolute commitment language ('is committed to', 'is dedicated to'). Shareholder and safety themes are absent; the belief that capital should benefit all of society is distinctive."
+ }
+}

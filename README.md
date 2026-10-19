@@ -44,7 +44,7 @@ python3 -m venv .venv
 | Part 4 | `python part4_proposal/src/say_do.py && python part4_proposal/src/plot_say_do.py` | Committed outputs of Parts 1 to 3 | **Offline**, free |
 | Part 1: per-firm shifts | `python part1_stated_values/src/linguistic_shifts.py` | `stated_values.csv` | **Offline**, free |
 | Part 1: scrape | `python part1_stated_values/src/scrape.py` (then optionally `discover.py --from-gaps`) | Network (Wayback Machine). The raw HTML cache is gitignored. | Free; about 1 to 2 hours first run (polite rate limit), discovery several hours |
-| Part 1: LLM coding | `python part1_stated_values/src/llm_analyze.py` | API. The Part 1 LLM cache is gitignored. | About $0.6 from an empty cache (854 calls) |
+| Part 1: LLM coding | `python part1_stated_values/src/llm_analyze.py` | API, but the **cache is committed** (854 responses in `part1_stated_values/cache/llm/`), so a rerun from the committed `snapshots.csv` makes no API calls | **Offline**, $0 with the committed cache; about $0.6 from an empty one |
 | Part 2: proxies | `python part2_lived_values/src/download_proxies.py` | Network (SEC EDGAR). Rebuilds the per-filing text the LLM steps read. | Free; about 5 minutes |
 | Part 2: text measures, panel | `text_measures.py`, `plot_trends.py`, `build_panel.py` | Proxy text | Offline, free |
 | Part 2: LLM extraction and weights | `llm_extract.py`, `weight_layer.py` | API, but the **caches are committed** (1,864 responses), so a rerun after `download_proxies.py` makes no API calls | $0 with the committed cache; about $3.0 (extraction) and $2.2 (weights) from an empty one |

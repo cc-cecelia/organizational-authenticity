@@ -1,0 +1,50 @@
+{
+ "label": "LOW 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3246,
+  "output_tokens": 1045,
+  "request_id": "req_011CgC9AQRy1z6cUZHC9CkPB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "The people we serve are at the heart of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our associates have deep home improvement experience and training"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Invested in communities in 2022"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "To deliver on our mission and drive market share acceleration"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual, with aspirational lines such as 'dream remodel' and 'be there when you need us most'. The page leads with customers, then associates' expertise. It uses a corporate 'we' voice and absolute language, with no hedging. Scale metrics and the Total Home Strategy dominate, and environment, DEI and governance are absent."
+ }
+}

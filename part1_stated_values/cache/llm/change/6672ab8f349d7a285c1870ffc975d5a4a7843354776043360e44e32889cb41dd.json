@@ -1,0 +1,13 @@
+{
+ "label": "BLK 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2985,
+  "output_tokens": 118,
+  "request_id": "req_011CgC9yWknvnJVNxfSsj5r9"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2017 drops the 2016 'Responsibility is at the heart of our business' and community investment in education, plus the transparency and governance commitments. It adds a long-term sustainability focus: 'long-term responsibility and sustainability are integrated into our business model', with environmental, social and governance issues tied to financial impact."
+ }
+}

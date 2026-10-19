@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1890,
+  "output_tokens": 105,
+  "request_id": "req_011CgC8xou1xoCwej2gYPoVD"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are a capitalization change to 'ENDING TRACHOMA', removal of a real-world data news teaser, and addition of a Latino healthcare disparities teaser and founder story. These are article teasers and capitalization, with no shift in stated values or commitments."
+ }
+}

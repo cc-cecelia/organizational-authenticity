@@ -1,0 +1,13 @@
+{
+ "label": "OXY 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1984,
+  "output_tokens": 108,
+  "request_id": "req_011CgCA5rPQpQUud1NPbugWi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission changed: 'continue at the forefront... stockholders' became 'achieve excellence... THE leader... stakeholders'; 'maximize shareholder value' became 'maximize value'. Shifts emphasis from shareholders toward stakeholders and leadership ambition."
+ }
+}

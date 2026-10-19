@@ -1,0 +1,50 @@
+{
+ "label": "SCHW 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5410,
+  "output_tokens": 1955,
+  "request_id": "req_011CgC8ir7qNQDSdnMaSfFg5"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Every action and each decision is based on building trust and seeing things through the eyes of our clients."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Working at Schwab is about more than just earning a paycheck. It\u2019s about building a career with purpose."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Charles Schwab & Co., Inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our culture of service extends beyond our clients to include our communities as well."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "delivering excellent client service supported by strong corporate governance practices"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Our disruptive approach to serving investors and solving for their needs leads to a better investing experience."
+   }
+  },
+  "analyst_notes": "Aspirational, promotional tone with heavy awards and rankings. Client focus leads, then employees and communities. Mostly first-person plural voice. Commitments are largely absolute ('Every action', 'We believe'). Values appear in short taglines, with much business-scale data and chrome such as stock quotes and links."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3214,
+  "output_tokens": 457,
+  "request_id": "req_011CgC8kkDSBC2ERGf51NGeg"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "A heritage built on service and sustained by innovation. We're a global services company that provides customers with access to products, insights and experiences that enrich lives"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "products, insights and experiences that enrich lives and build business success"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "American Express Plans to Increase Quarterly Dividend by 9 Percent and Buy Back up to $4.4 Billion of Common Shares"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Annual Report Amex Offers Corporate Responsibility"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "A heritage built on service and sustained by innovation."
+   }
+  },
+  "analyst_notes": "Brief, factual-leaning page dominated by press-release teasers and navigation chrome. The one framing statement is aspirational ('A heritage built on service and sustained by innovation'), leads with customers and service, and uses first-person plural ('We're'). Shareholder content appears only as a dividend and buyback headline. No hedged commitments; no employee, DEI or environmental content."
+ }
+}

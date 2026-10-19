@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2565,
+  "output_tokens": 143,
+  "request_id": "req_011CgC9wuAMuFeNw9biR2ya6"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page drops the 2016 'world leader in visual computing' framing and 'Sound ethics guide our business' line, replacing them with GPU-invention and AI history, a 'Read the policies that help guide how we conduct business' prompt, and a new 'Sustainability' nav item. Emphasis moves from visual computing toward AI and innovation, with ethics stated less directly."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3384,
+  "output_tokens": 1859,
+  "request_id": "req_011CgC8mKo2GBTZ7N7g2Rt1j"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "worked to make a difference in our customers' lives in ways that matter most to them"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "we bring the powerful backing of American Express to our customers, colleagues and communities"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Through our enterprise ESG strategy and Community Giving from the American Express Foundation"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Promotional, aspirational newsroom-style page, mostly navigation and teasers. Uses first-person plural ('our customers, colleagues and communities') and leads with customers. Commitments are soft and hedged ('worked to make a difference'), anchored by a heritage claim ('Since 1850'). Most sections are site chrome, so few stakeholder values are actually stated."
+ }
+}

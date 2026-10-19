@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5026,
+  "output_tokens": 2629,
+  "request_id": "req_011CgC8xeHq2Ztr299KQ4cWA"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our purpose ensures that patients remain at the center of all we do."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We find joy when we take pride, recognize one another, and have fun."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We believe that every person deserves to be seen, heard, and cared for."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "reflects the value we strive to bring to patients and society"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "act with integrity"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We innovate every day to make the world a healthier place."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute framing ('every day', 'every decision'). Patients are addressed first and dominate the page, followed by innovation; the four values (courage, excellence, equity, joy) are framed through culture. Environment, safety and shareholder commitments are absent, and achievements appear as scale and awards rather than values. The headline phrase 'Breakthroughs that change patients' lives' is distinctive."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2045,
+  "output_tokens": 125,
+  "request_id": "req_011CgC9wzW5ZRPMm2W76mg8X"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 page adds navigation labels (Platforms, AI and Deep Learning, Data Center, GeForce Gaming, etc.) and removes a featured headline about the new Silicon Valley home. The only wording change is a rewritten product-description sentence, and the office-count line is removed. No mission, values or commitments change."
+ }
+}

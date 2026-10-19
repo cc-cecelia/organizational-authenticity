@@ -1,0 +1,50 @@
+{
+ "label": "COP 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4335,
+  "output_tokens": 2334,
+  "request_id": "req_011CgC9GrkfYpumPApvo49hr"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "while creating lasting value for employees, communities and shareholders"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are focused on sustainably meeting energy demand"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "ConocoPhillips announced today that it is donating $2 million to provide humanitarian assistance to those directly impacted by the war in Ukraine"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "while creating lasting value for employees, communities and shareholders"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "We are challenged with an important job to safely find and deliver energy to the world."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through that history we have become a technical company committed to innovation and the responsible development of energy"
+   }
+  },
+  "analyst_notes": "Factual, corporate-voiced page led by business description and scale claims; values are mostly implicit. Commitments are hedged ('focused on', 'committed to') rather than absolute. Employees and shareholders appear only in one list. First-person plural 'we' and 'our' throughout. Safety is framed as a challenge. Customers, DEI and integrity are absent from the page."
+ }
+}

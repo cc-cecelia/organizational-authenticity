@@ -1,0 +1,50 @@
+{
+ "label": "WFC 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3895,
+  "output_tokens": 1474,
+  "request_id": "req_011CgC8e4seGCaW6wQwQnnrb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We\u2019ve never lost sight of putting our customers first and helping them succeed financially."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "how every Wells Fargo team member can help us get there"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "will guide us toward continued growth and success for decades to come"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "When we make mistakes, we admit them, we learn from them"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "CEO welcome in first-person plural, aspirational and self-congratulatory. Customers are named first and most often. Commitments are framed as beliefs and continuity rather than measurable targets. Much of the text is scale and ranking claims (households served, Forbes and Barron's rankings), which are business description rather than values. The admission of mistakes is the most distinctive value statement."
+ }
+}

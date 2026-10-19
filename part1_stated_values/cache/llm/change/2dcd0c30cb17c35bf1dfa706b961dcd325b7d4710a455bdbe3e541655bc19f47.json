@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2438,
+  "output_tokens": 569,
+  "request_id": "req_011CgC8vHgXTCsrb4o11oxPZ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new 'Step ahead. Step beyond.' section committing to 'pushing science and technology a step beyond', emphasizing innovation and anticipating customer needs. The mission to make the world healthier, cleaner and safer is unchanged; revenue and headcount figures are updated."
+ }
+}

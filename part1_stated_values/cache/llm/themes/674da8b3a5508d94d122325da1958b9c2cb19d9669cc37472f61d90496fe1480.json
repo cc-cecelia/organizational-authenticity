@@ -1,0 +1,50 @@
+{
+ "label": "MPC 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3466,
+  "output_tokens": 1785,
+  "request_id": "req_011CgC9KXAHGWiQiHbA8op3j"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "the quality products and services we provide for our customers"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "provide our employees with a collaborative, supportive and inclusive work environment"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We value diversity and strive to provide our employees with a collaborative, supportive and inclusive work environment"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are committed to minimizing our environmental impact and continually look for ways to reduce our footprint."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We work to make a positive difference in the communities where we have the privilege to operate."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We are in the business of creating value for our shareholders"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We uphold the highest standards of business ethics and integrity, enforcing strict principles of corporate governance"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We have the highest regard for the health and safety of our employees, contractors and neighboring communities."
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Short, headline-led sections in first-person plural, with a conversational opener. Shareholders are named first, then customers and business partners. Commitments mix hedged verbs ('strive', 'work to') with absolute claims ('uphold the highest standards'). Integrity is the strongest theme, repeated in the board section. Hedged, aspirational wording dominates; the history section is business description."
+ }
+}

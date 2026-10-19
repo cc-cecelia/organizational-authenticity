@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3666,
+  "output_tokens": 571,
+  "request_id": "req_011CgC8u7ekGYDFCsfSA23Dt"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work hard to bring you the medications and vaccines that help fight some of the world's most serious health concerns."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We recognize the importance of embedding a culture of inclusion and belonging at every level of our company."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We use the power of leading-edge science to save and improve lives around the world"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "A DE&I mindset is central to our business growth and enables us to ensure patients and customers experience ultimate health outcomes."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We hold ourselves to the highest standards of ethics and integrity."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation and scientific excellence"
+   }
+  },
+  "analyst_notes": "Aspirational and mission-led, using third-person 'we' with a mix of first-person 'you' toward patients. Patients are addressed first, then employees and DE&I. Commitments are largely absolute ('We're committed', 'We hold ourselves'), with 'aspire' hedging the leadership goal. Wording like 'hope to humanity' is distinctive."
+ }
+}

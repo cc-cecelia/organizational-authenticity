@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2928,
+  "output_tokens": 126,
+  "request_id": "req_011CgCA44EEhUzBskFTdtSFB"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed Executive Management ('Driven to create value for our customers, our shareholders and our employees') and rewrote Global Stewardship with new emphasis on 'social and environmental stewardship' and lower environmental impact. Added Accountability section on 'progressive accountability guidelines.' Revenue figure updated (cosmetic)."
+ }
+}

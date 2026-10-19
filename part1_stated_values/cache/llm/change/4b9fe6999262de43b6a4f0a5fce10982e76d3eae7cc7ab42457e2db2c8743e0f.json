@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2140,
+  "output_tokens": 123,
+  "request_id": "req_011CgCA4VU2xbX7kB1ecfpfT"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added framing that core values guide stakeholder treatment and that how work is performed matters equally; added explicit commitment to \"Behave ethically in all we do\" and \"unwavering commitment\" to safe operations; \"accident-free\" became \"injury-free\". Emphasis shifts toward ethics and stakeholders."
+ }
+}

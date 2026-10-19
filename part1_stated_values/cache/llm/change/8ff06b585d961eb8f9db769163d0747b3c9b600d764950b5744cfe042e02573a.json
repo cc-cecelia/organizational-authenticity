@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3867,
+  "output_tokens": 135,
+  "request_id": "req_011CgC9BU32xBMpaNYdzHt1U"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 2020 pandemic-era narrative of preserving cash returns and prioritizing associate health and safety. Added a focus on flexibility, adaptability, and a 'maintained an unwavering focus on the execution' of the off-price model, plus a 'more profitable, $60 billion-plus company' aspiration. Mostly updated figures otherwise."
+ }
+}

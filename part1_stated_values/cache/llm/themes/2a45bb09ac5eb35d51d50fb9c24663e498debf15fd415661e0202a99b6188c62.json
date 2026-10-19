@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3295,
+  "output_tokens": 884,
+  "request_id": "req_011CgC8veTC6S7WZHVjyE1Li"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "both as individuals and as communities"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "we\u2019re discovering new ways to make life better"
+   }
+  },
+  "analyst_notes": "The page is aspirational and brief, built around a tagline about making life better through health. It speaks in first-person plural (we, us) and addresses individuals and communities rather than any named stakeholder group. Commitments are soft and unhedged in tone but undeveloped, with no stated values on customers, employees, governance or environment. Most of the text is legal and site chrome, which is excluded from coding."
+ }
+}

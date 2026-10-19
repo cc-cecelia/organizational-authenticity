@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2456,
+  "output_tokens": 121,
+  "request_id": "req_011CgCA3Xvqcac9AmVHn6Dtr"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds a governance section stating good corporate governance supports long-term growth, with high ethical standards, transparency, and independent board oversight. It removes the 2021 history passage praising strengths of directors, officers and employees, and the safety and innovation-focused upstream and refining descriptions, which were mostly business description."
+ }
+}

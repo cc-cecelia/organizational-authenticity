@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3117,
+  "output_tokens": 1141,
+  "request_id": "req_011CgC8wZBhy2zBiJvmTDoaw"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "to the people who need them"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our purpose is to make the world a better place"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "LIFE-CHANGING TECHNOLOGY"
+   }
+  },
+  "analyst_notes": "Aspirational, purpose-led framing with first-person plural and direct address to 'you'. Emphasis is on personal wellbeing and patients rather than workforce or business metrics. Commitments are stated absolutely ('our purpose is', 'our commitment'). Community appears mainly through the 'better place' purpose and a closing reference to individuals and communities. No quantified claims beyond a blood-supply example."
+ }
+}

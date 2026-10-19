@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3414,
+  "output_tokens": 989,
+  "request_id": "req_011CgC8wNFeAJfvC6c1Dh9Bv"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "That\u2019s our commitment to helping you live your best life."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice ('our purpose', 'our commitment') centered on individual patients and personal living. Most stated commitments are broad purpose claims about health and the world; the headline is descriptive. Product examples are listed rather than framed as innovation. Legal disclaimers dominate the closing text, and no stakeholder beyond patients and society is addressed."
+ }
+}

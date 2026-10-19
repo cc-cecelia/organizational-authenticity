@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3916,
+  "output_tokens": 1887,
+  "request_id": "req_011CgC91KXntA6jar1mYmdPJ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We have the brightest people in the industry"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Preservation of natural resources is one of our key commitments."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "create a positive impact in the communities where we live and work"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "achieve transformative business results"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We conduct our global business with the utmost integrity and transparency."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We never give up in our search for the next innovation that could mean new hope for patients"
+   }
+  },
+  "analyst_notes": "Aspirational, patient-first framing with patients placed at the centre of everything. Written in first-person plural. Commitments are often hedged (strive, aspire, dedicated to) but some are absolute (we conduct business with the utmost integrity). Innovation and integrity recur, and the page lists shared values and short thematic sections for ethics, inclusion, sustainability and responsibility."
+ }
+}

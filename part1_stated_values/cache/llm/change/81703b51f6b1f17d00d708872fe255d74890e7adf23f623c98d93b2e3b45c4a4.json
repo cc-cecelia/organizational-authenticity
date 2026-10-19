@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2473,
+  "output_tokens": 173,
+  "request_id": "req_011CgCA5rGhdTKVsm4ZNFhjj"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 mission-style text (\"Our Products Fuel Modern Life\", \"best-in-class producer\", \"protecting our communities and the environment\") and the \"Our Guiding Principles\" link were removed. The 2024 version replaces them with business facts and metrics (\"~10,000 Employees\", refinery and ethanol rankings) plus a \"$77 million generated for charities\" item and emissions-target progress, shifting emphasis from stated values to description."
+ }
+}

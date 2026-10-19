@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5026,
+  "output_tokens": 2284,
+  "request_id": "req_011CgC8xXp98Nxs2D795juC3"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our purpose ensures that patients remain at the center of all we do."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We find joy when we take pride, recognize one another, and have fun."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "This happens when we are inclusive, act with integrity, and reduce healthcare disparities."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "reflects the value we strive to bring to patients and society"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "This happens when we are inclusive, act with integrity, and reduce healthcare disparities."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We innovate every day to make the world a healthier place."
+   }
+  },
+  "analyst_notes": "Aspirational, patient-centred framing with absolute, first-person plural commitments such as 'every day' and 'every decision'. Patients lead, and innovation is the headline theme. Employee culture and inclusion appear through the four values. Shareholders are absent. Awards and sales figures are factual business description. Environment and safety are not addressed."
+ }
+}

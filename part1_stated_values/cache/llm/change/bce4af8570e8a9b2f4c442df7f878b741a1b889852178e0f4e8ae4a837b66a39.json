@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2164,
+  "output_tokens": 113,
+  "request_id": "req_011CgC9ywhU3adPuxUQAUdfk"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are rotating news teasers and updated figures: dividend raised from 9 to 11 percent, buyback from $4.4 billion to $3.4 billion through Q2 2019, and new Saks and Propel Card announcements replacing older items. No mission, values or stated commitments changed."
+ }
+}

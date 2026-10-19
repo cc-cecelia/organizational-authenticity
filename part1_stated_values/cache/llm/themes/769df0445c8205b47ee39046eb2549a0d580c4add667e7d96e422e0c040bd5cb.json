@@ -1,0 +1,50 @@
+{
+ "label": "GOOGL 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5544,
+  "output_tokens": 1925,
+  "request_id": "req_011CgC8TEcEcQLHXTz2472Dt"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Focus on the user and all else will follow."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We put great stock in our employees"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "energetic, passionate people from diverse backgrounds"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "our mission is to facilitate access to information for the entire world, and in every language"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "You can make money without doing evil."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "so it does not compromise the integrity of our search results"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Through innovation and iteration, we aim to take things that work well and improve upon them"
+   }
+  },
+  "analyst_notes": "Aspirational, self-referential page written mostly in first-person plural with declarative 'we know' and 'we believe' framing, plus hedges like 'we hope' and 'we aim'. Leads with users and search quality. Revenue is framed as a principle, and integrity around advertising is stated firmly and repeatedly. Employees and DEI receive only brief, culture-focused mentions, and environment and safety are absent."
+ }
+}

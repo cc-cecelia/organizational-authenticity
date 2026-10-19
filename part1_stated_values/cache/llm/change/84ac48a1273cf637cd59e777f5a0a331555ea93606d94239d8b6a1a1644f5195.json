@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3123,
+  "output_tokens": 117,
+  "request_id": "req_011CgCA1aAiY9L2FonF2XmVm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission changed from \"sustainable transport\" to \"sustainable energy\", a reworded stated mission. Also removed \"free\" from Supercharger access and updated facts (vehicle count, capacity, timeline); the Model X and Model 3 descriptions were otherwise unchanged in the diff."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3746,
+  "output_tokens": 130,
+  "request_id": "req_011CgC8Wxxkzd7GRD1x2AobV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2024 removes the 'Customer Company' mission framing, the 'Customer Success', 'Innovation', 'Equality' and 'Sustainability' core-value sections, and the 'Customer 360' product copy, while leaving the Trust and Values in Action sections. Some reframing of emphasis toward Trust and stakeholder capitalism."
+ }
+}

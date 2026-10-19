@@ -1,0 +1,50 @@
+{
+ "label": "TMO 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3130,
+  "output_tokens": 1704,
+  "request_id": "req_011CgC8uKE266Pf76ctxcyNT"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our mission is to enable our customers to make the world healthier, cleaner and safer."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "make the world healthier, cleaner and safer"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "enable our customers to make the world healthier"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "cleaner and safer"
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mission-led and customer-first, with the stated mission the only explicit value. Most text is factual business description: revenue, headcount and brands. Voice is first-person plural (Our mission, We help). Commitments are absolute and aspirational, with no hedging. Stakeholders beyond customers receive little attention."
+ }
+}

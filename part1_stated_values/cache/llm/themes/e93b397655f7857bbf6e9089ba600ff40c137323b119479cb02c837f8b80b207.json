@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4116,
+  "output_tokens": 2274,
+  "request_id": "req_011CgC8Vj34xixk4dRF3WLhe"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We\u2019re obsessed with our customers\u2019 success and take pride in their achievements."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Salesforce prides itself not only on award-winning technology, but also on the talent of its people."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We respect and value employees from every background, and we thrive as a result."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "we're helping create a future with greater opportunity and equality for all."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We communicate openly with our customers, and do what it takes to keep their data secure."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We pursue ideas that could change our company, our country \u2014 and maybe even the world."
+   }
+  },
+  "analyst_notes": "Aspirational, inspirational tone using first-person plural and a family metaphor (Ohana). Customers are addressed first, with four named core values (Trust, Growth, Innovation, Equality) as headline framing. Commitments are stated absolutely ('We respect and value', 'We pursue') and are largely unquantified. Business scale and awards appear as proof points rather than values."
+ }
+}

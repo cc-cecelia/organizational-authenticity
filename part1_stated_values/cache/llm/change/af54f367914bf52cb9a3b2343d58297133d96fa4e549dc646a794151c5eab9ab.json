@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2330,
+  "output_tokens": 122,
+  "request_id": "req_011CgC8N2ZYLidqT9Jtum6z2"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 diff only adds lists of regional and country brand navigation (Mobil, Esso, Mobil 1, Mobil Delvac, Wholesale Fuels) and region names. No values, commitments, mission statements or stakeholders are added or removed, so this is site navigation rather than a shift in stated values."
+ }
+}

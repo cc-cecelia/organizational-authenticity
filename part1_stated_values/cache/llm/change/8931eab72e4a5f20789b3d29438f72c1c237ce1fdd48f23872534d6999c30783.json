@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3701,
+  "output_tokens": 135,
+  "request_id": "req_011CgC9BZEaFqaV9afNyu5xR"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission 'to deliver great value to our customers every day' is retained, but the 2019 emphasis on shareholder returns and financial strength is softened to 'Historically, our strong financial returns...'. The 2020 text drops 'we are constantly innovating and testing new ideas' for 'while also testing new ideas', and adds a sourcing and buying-power focus."
+ }
+}

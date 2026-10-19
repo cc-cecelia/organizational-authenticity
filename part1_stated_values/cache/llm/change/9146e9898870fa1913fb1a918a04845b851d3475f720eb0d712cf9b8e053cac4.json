@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2674,
+  "output_tokens": 169,
+  "request_id": "req_011CgC8tykjZJp6rhpynLw4y"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed women-of-color advancement, Beacon of Hope diversity-in-trials and LGBTQ+ story items and research-investment teasers; added LGBTQ+ allyship ('our commitment to allyship'), nursing, HIV activist and Q1 2023 earnings teasers. Updated figures (R&D $13.5B, giving $1.85B) are facts. Shift from DEI teasers toward LGBTQ+ allyship and earnings news."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "JNJ 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3124,
+  "output_tokens": 941,
+  "request_id": "req_011CgC8qQ1dxqS41x24xvuXF"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our Credo challenges us to put the needs and well-being of the people we serve first."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We believe it\u2019s a recipe for business success."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Our Credo is more than just a moral compass."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice centered on the Credo as guiding document. Customers ('people we serve') are placed first and framed as the core commitment. Founder history and business success are used as justification. Commitments are stated absolutely ('challenges us'), while the business-success claim is hedged ('We believe'). Other stakeholders are absent."
+ }
+}

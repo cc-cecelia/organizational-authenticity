@@ -1,0 +1,50 @@
+{
+ "label": "GOOGL 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5544,
+  "output_tokens": 1995,
+  "request_id": "req_011CgC8T1RV1PLmQ65SSzfDQ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Focus on the user and all else will follow."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We put great stock in our employees"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "energetic, passionate people from diverse backgrounds"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "our mission is to facilitate access to information for the entire world"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "You can make money without doing evil."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We never manipulate rankings to put our partners higher in our search results"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through innovation and iteration, we aim to take things that work well and improve upon them in unexpected ways."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice that addresses users first, with headline principles framed as beliefs. Commitments mix absolute language (we never, no one can buy) with hedges (we hope, we aim, we believe). Business revenue is acknowledged but framed around user trust. Employees and DEI appear only briefly in the culture passage. Wording is informal and self-deprecating, such as 'you can hold us to that'."
+ }
+}

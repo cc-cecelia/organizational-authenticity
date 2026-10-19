@@ -1,0 +1,50 @@
+{
+ "label": "OXY 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3392,
+  "output_tokens": 1460,
+  "request_id": "req_011CgC9PaMe3f9Atwc3zdbdV"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "reliable energy and essential products"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "the right assets in the hands of remarkable people driven by passion to outperform"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "reducing greenhouse gas emissions and making the world a better place to live"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "making the world a better place to live"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Outperform expectations"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Deliver results responsibly"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "committed to safe and efficient operations and products"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute phrasing ('we won't stop until we're there'). Climate and net-zero framing dominates, with grand slogans like 'reaching for the impossible'. Employees, customers and financial returns get only brief mentions, and DEI and integrity are largely absent."
+ }
+}

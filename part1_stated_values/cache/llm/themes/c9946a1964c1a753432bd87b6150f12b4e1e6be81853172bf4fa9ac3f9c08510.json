@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4006,
+  "output_tokens": 1465,
+  "request_id": "req_011CgC929R7Up1oakii17w6a"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "They are vocally self-critical, even when doing so is awkward or embarrassing."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Prescriptive, aspirational framing built on named Leadership Principles, mostly third-person 'Leaders' with occasional 'We'. Customers come first, with headline principles on innovation and customer. Absolute, hedge-free wording ('never', 'always', 'relentlessly'). Distinctive idioms ('peculiar', 'body odor smells of perfume', 'not invented here'). Few concrete commitments to stakeholders beyond customers."
+ }
+}

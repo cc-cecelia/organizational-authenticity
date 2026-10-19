@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3352,
+  "output_tokens": 134,
+  "request_id": "req_011CgC99S1Syen6zDyPNTWH2"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page's named values (great shopping, design for all, more for your money, diversity & inclusion, supplier diversity, community support, team culture) were removed. The 2019 version centers a purpose: \"To help all families discover the joy of everyday life,\" with joy at the center of business decisions, plus a good-neighbor community pledge and 5% profit giving."
+ }
+}

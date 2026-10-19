@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2630,
+  "output_tokens": 130,
+  "request_id": "req_011CgC9NMCqMRBEhCVfAzjKr"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2020 About page only updates facts and figures: throughput rises from 3.1 to 3.2 million barrels per day, revenue is updated from $50.2 billion to $53.9 billion, the figure 24 becomes 32, and U.S. states served drop from 43 to 41. No values, commitments, or stakeholders were added or removed."
+ }
+}

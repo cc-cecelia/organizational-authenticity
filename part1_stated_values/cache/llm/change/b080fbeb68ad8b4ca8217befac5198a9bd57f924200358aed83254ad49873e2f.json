@@ -1,0 +1,13 @@
+{
+ "label": "WFC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3484,
+  "output_tokens": 127,
+  "request_id": "req_011CgC8emf5grkEPJDBjehNY"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page replaces the legacy vision and values narrative with a structured 'Vision, Values, and Goals' framework. It adds five primary values (customers, people, ethics, diversity and inclusion, leadership) and six goals, including innovation, risk management, corporate citizenship and shareholder value. It also drops the older history and size text."
+ }
+}

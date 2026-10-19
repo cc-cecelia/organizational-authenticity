@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2943,
+  "output_tokens": 110,
+  "request_id": "req_011CgC943jbu62QjUrsFk9DK"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 version adds Model Y and Cybertruck launch details and Gigafactory Shanghai, and drops 'Model 3' from the safety-rate sentence. The safety commitment is retained, so the shift is mostly product and factory facts, with no clear reframing of stated values."
+ }
+}

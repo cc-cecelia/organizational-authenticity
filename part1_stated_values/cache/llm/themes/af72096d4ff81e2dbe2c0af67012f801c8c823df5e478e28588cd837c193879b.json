@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3082,
+  "output_tokens": 403,
+  "request_id": "req_011CgC8tCn3oojeK9dG3kwYi"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "to make a difference in the lives of people globally through our innovative medicines, vaccines, and animal health products"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "helping people in need, we're committed to improving health and well-being around the world"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are committed to being the premier, research-intensive biopharmaceutical company and are dedicated to providing leading innovations and solutions for today and the future."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing with absolute commitment language ('we're committed', 'dedicated'). Health-outcome and innovation themes dominate; community and patients are addressed before employees or shareholders. Uses first-person plural voice and terms like 'premier' and 'leading'. Mostly short statements, with little elaboration on how commitments are met."
+ }
+}

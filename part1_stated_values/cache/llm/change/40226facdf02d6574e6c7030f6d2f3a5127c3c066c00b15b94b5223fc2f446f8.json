@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3786,
+  "output_tokens": 369,
+  "request_id": "req_011CgC9B449tNRC3Ln3ircqN"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds shareholder emphasis: \"return cash to shareholders\" and a disciplined capital-allocation/ROIC passage. Innovation shifts from \"leaders in innovation\" to \"constantly innovating\". The mission to deliver great value is retained."
+ }
+}

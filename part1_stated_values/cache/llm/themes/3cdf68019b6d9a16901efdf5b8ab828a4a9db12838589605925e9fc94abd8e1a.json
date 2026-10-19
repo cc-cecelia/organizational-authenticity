@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3806,
+  "output_tokens": 1646,
+  "request_id": "req_011CgC8zZSB84g1j8mhZBjfe"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Each day, our employees around the world work together for patients"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Preservation of natural resources is one of our key commitments."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Through the Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Our policies and procedures are designed so that the company and our partners conduct business in a legal, ethical and responsible manner."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through our R&D organization, we have built a sustainable pipeline of potential therapies"
+   }
+  },
+  "analyst_notes": "Mostly factual, with aspirational mission language around patients. Patients are addressed first, then employees and community. Uses first-person plural and hedged verbs such as seek to and strive to. Integrity is anchored by an ethics quotation. Safety and shareholders are absent."
+ }
+}

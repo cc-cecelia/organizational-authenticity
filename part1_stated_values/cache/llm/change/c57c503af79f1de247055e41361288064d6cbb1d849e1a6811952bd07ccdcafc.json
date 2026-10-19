@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2104,
+  "output_tokens": 131,
+  "request_id": "req_011CgCA1CVk2SYcqc2CLoQBq"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The Mission text is essentially unchanged: the 'ONE COMPANY, ONE MISSION' and 'THE MEDTRONIC MISSION' headings were replaced by 'Mission Statement About Medtronic', a browser-update banner was added, and a comma became a semicolon. No value or commitment was added, removed, or reworded."
+ }
+}

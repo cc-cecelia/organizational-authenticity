@@ -1,0 +1,50 @@
+{
+ "label": "C 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3504,
+  "output_tokens": 1589,
+  "request_id": "req_011CgC8n4K8V6K879ZMmUxGq"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "to serve as a trusted partner to our clients by responsibly providing financial services"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "so they can build sustainable infrastructure"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "we make a positive financial and social impact in the communities we serve"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We responsibly provide financial services that enable growth and economic progress"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We strive to earn and maintain the public's trust by constantly adhering to the highest ethical standards"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Institutional, first-person plural voice with a headline mission framed as simple and client-centred. Aspirational language ('we strive', 'we strive to earn') sits beside firmer commitments ('we will take decisive action'). Clients and trust lead, with community impact and economic growth following. Wording is largely descriptive of banking activities, with few concrete metrics or hedges."
+ }
+}

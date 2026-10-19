@@ -1,0 +1,50 @@
+{
+ "label": "META 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5428,
+  "output_tokens": 1684,
+  "request_id": "req_011CgC8Uip9FLLv6LNqYgVJc"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "To be supported by 100% renewable energy"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Give people the power to build community and bring the world closer together."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Use our apps to connect with customers and grow"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We have a responsibility to promote the best of what people can do together by keeping people safe and preventing harm."
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational mission framing led by connection and community, using first-person plural 'our' and absolute phrasing such as 'We work to' and 'We have a responsibility'. Principles lead with user voice and connection; safety and access appear secondary. Business scale claims and a long product-launch timeline are factual description. No workforce, DEI or ethics commitments appear."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2131,
+  "output_tokens": 128,
+  "request_id": "req_011CgC8qDqiD4jt7dET5XN3s"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures only: countries rose from 130 to 140, technology investment from $3.5B to $3.6B, workforce from 305,000 to 325,000 and clinicians from 85,000 to approximately 122,000. The commitment wording ('commitment to quality') is unchanged, so no value or stakeholder emphasis shifted."
+ }
+}

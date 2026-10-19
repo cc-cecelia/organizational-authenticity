@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1964,
+  "output_tokens": 138,
+  "request_id": "req_011CgCA5zQMofJEHjnyew3bD"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the 'world's largest providers' description, the 1919 founding history, and the statement that Halliburton and its 40,000+ employees 'collaborate and engineer solutions'. It also removes the 'execution culture' focus on 'continuous improvement' and the values line that 'guide us to achieve more'. These removals cut stated values about culture and improvement."
+ }
+}

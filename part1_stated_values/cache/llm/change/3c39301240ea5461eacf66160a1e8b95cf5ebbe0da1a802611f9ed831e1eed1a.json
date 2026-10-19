@@ -1,0 +1,13 @@
+{
+ "label": "COP 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3042,
+  "output_tokens": 110,
+  "request_id": "req_011CgCA3x5A2k6VYcrbZagUN"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The only standing-statement change is the opening line: 'We are challenged with an important job' became 'We have an important job \u2013 to safely find and deliver energy', a rewording with the same safety emphasis. Other changes are photo captions, social posts, and rotating news teasers, which are cosmetic."
+ }
+}

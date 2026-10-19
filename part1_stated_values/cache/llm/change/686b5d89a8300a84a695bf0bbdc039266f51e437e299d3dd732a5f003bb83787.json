@@ -1,0 +1,13 @@
+{
+ "label": "MS 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2099,
+  "output_tokens": 106,
+  "request_id": "req_011CgC8herPPJEidGXsCvHxu"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Core values expanded from four to five, adding \"commit to diversity and inclusion\" (dei) and the reordering puts \"Do the right thing\" first. A new Technology section adds innovation: \"committed to technological innovation\". Other changes are headline and link-label updates."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "BLK 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2530,
+  "output_tokens": 149,
+  "request_id": "req_011CgC8iERyocYpbMxau53A8"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 version drops the explicit mission 'create a better financial future for our clients' and the 'interests come first' and 'voice of the investor' client-fiduciary principles, replacing them with 'help more and more people invest in their financial well-being' and 'your goals are our goals'. It adds emotional ownership and collaboration language, drops the explicit diversity line, and reframes innovation as driving continuous change."
+ }
+}

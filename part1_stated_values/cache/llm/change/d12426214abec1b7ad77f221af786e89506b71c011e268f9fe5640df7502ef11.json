@@ -1,0 +1,13 @@
+{
+ "label": "META 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5483,
+  "output_tokens": 88,
+  "request_id": "req_011CgC8UGX6wa9vgwZWZDZ5Y"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission reframed from \"share and make the world more open and connected\" to \"build community and bring the world closer together\" (also repeated in the hacker culture paragraph). Other changes are news teasers, updated figures and bios."
+ }
+}

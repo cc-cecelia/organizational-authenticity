@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3691,
+  "output_tokens": 104,
+  "request_id": "req_011CgCA39m6BwfkUtSsmBJic"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the commitment 'We are committed to making a positive, sustainable impact on the world' and the detailed business-model and sourcing narrative; the mission line is retained, and 'Corporate Responsibility' appears only as a link label, so the page's stated commitments shift."
+ }
+}

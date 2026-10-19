@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4108,
+  "output_tokens": 460,
+  "request_id": "req_011CgC9BWGzAVvGcEtLqo4EJ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our mission is to deliver great value to our customers every day."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "With stores and offices around the world, there is a breadth of opportunities at TJX to discover a career in retail."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our strong sales and profitability performance in Fiscal 2023 give us great confidence in the outlook for our business"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "constantly focused on seeking the right categories, fashions, and brands, while also testing new ideas."
+   }
+  },
+  "analyst_notes": "Factual, confident tone centred on the off-price model and value for customers, which the mission statement puts first. Shareholder returns and growth are discussed at length, while employees and sustainability appear only briefly. Uses first-person plural and absolute phrasing; the sustainability commitment is stated without specifics."
+ }
+}

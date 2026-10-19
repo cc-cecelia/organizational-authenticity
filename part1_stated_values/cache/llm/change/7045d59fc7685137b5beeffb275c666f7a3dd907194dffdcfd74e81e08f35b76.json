@@ -1,0 +1,13 @@
+{
+ "label": "BAC 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2688,
+  "output_tokens": 115,
+  "request_id": "req_011CgC9yBAK6YBRCGZ2w2ci6"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are legal disclaimers, a relocated boilerplate block, Erica app terms, and footer link labels ('CA Opt-Out Preference Signals Honored' replaced by 'Your Privacy Choices'). No mission, values, or stated commitments were added, removed, or reworded."
+ }
+}

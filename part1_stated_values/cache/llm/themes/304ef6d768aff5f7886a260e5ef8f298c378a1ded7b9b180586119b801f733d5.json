@@ -1,0 +1,50 @@
+{
+ "label": "C 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3508,
+  "output_tokens": 1557,
+  "request_id": "req_011CgC8may5vaN2KQ1HS34EW"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "we make a positive financial and social impact in the communities we serve"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "create economic value"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We strive to earn and maintain the public's trust by constantly adhering to the highest ethical standards."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly first-person plural ('we', 'our') and client-centred, opening with a mission statement. Tone blends aspirational language ('strive', 'positive impact') with factual descriptions of services. Integrity is framed around trust and ethics, with conditional commitments such as 'If we fall short, we will take decisive action'. Environmental and workforce topics are absent."
+ }
+}

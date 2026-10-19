@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2039,
+  "output_tokens": 401,
+  "request_id": "req_011CgC8w2AQEo9ZS5VD8n45H"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the purpose line \"We champion science because we're scientists too.\" Added \"unrivaled choice\", \"premier scientific marketplace\", \"defined choice and convenience for over a century\", \"over 2.5 million products\", and \"We keep science moving forward.\" Emphasis shifts from stated values toward market position and scale."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "COP 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2983,
+  "output_tokens": 146,
+  "request_id": "req_011CgC9HNBixSGCJpfKCAtNN"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The mission line softened from 'We are challenged with an important job' to 'We have an important job', dropping the 'challenged' framing. Removed the humanitarian donation and employee-impact social posts, and the 2022 news teasers were replaced by 2023 ones; photo captions were trimmed. The shift is mainly in tone, but it is a reframing of the stated purpose, so I rated it substantive."
+ }
+}

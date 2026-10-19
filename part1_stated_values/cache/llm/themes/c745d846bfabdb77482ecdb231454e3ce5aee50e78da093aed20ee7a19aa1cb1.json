@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3256,
+  "output_tokens": 1300,
+  "request_id": "req_011CgC8ZcupyGNhgo4YAfct6"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We are investing $300 million in our Diversity in Technology Initiative to achieve full representation of women and under-represented minorities at Intel by 2020"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We believe technology must constantly evolve to make more things possible and all things easier, smarter, and more connected than ever before."
+   }
+  },
+  "analyst_notes": "Promotional and aspirational, written in first-person plural. The page leads with technology innovation and a specific, time-bound diversity investment ($300 million by 2020). Most content is chrome: rankings, social links and a recruiting prompt. Customers, environment, integrity and safety are not addressed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3718,
+  "output_tokens": 1496,
+  "request_id": "req_011CgC8zMrf5jyiWVmprW23N"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Patients are at the center of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Each day, our employees around the world work together for patients"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Preservation of natural resources is one of our key commitments."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "As global citizens, we work sustainably, responsibly and seek to give back."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "commit us to the highest standard of moral and ethical behavior"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "discover, develop and deliver innovative medicines that help patients prevail over serious diseases"
+   }
+  },
+  "analyst_notes": "Patient-centred, mission-led framing with collective first-person 'we' and mostly absolute commitments ('one of our key commitments', 'essential to our integrity'). Patients are addressed first, before employees and community. Ethics is anchored in a quoted maxim. Shareholder and safety themes are absent, and environment and DEI get brief, generic treatment."
+ }
+}

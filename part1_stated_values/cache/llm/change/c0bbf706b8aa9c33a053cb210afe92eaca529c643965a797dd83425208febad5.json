@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2063,
+  "output_tokens": 134,
+  "request_id": "req_011CgCA634bqT92NPEq6i3sC"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2023 version adds a business-description sentence about Halliburton's products and services and a 'sustainable energy future' phrase, plus 'View Guiding Principles' and 'View XMR' link labels. The community principle ('Enhancing the economic and social well-being...') persists unchanged, and the award promo was only reformatted, so no standing value shifts."
+ }
+}

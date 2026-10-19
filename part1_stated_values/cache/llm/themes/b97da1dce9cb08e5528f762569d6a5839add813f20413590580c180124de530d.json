@@ -1,0 +1,50 @@
+{
+ "label": "BRK.B 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11931,
+  "output_tokens": 1729,
+  "request_id": "req_011CgC8berUBjaqcGrscLkbQ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "to maximize Berkshire\u2019s average annual rate of gain in intrinsic business value on a per-share basis"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We will be candid in our reporting to you, emphasizing the pluses and minuses important in appraising business value."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Written in the first person by Chairman Warren Buffett, addressing shareholders as owner-partners. Tone is reflective and candid, mixing hedged expectations (we hope, we expect) with absolute pledges (we will never sell good businesses). Shareholder returns and candor dominate; employees, customers and community are barely addressed. Folksy metaphors such as eggs-in-one-basket and gin rummy give the wording a distinctive voice."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4756,
+  "output_tokens": 2005,
+  "request_id": "req_011CgC8Y3HEFNz7L5vmATgMJ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s commitment to our community, customers, employees, and partners during the COVID-19 crisis."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Employees develop skills and achieve success alongside managers who invest in them."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Learn how Oracle believes that innovation starts with inclusion, and that to create the future we need people with diverse backgrounds to help us get there."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s philanthropic efforts in the areas of sustainability, education, giving, volunteering, and more."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Learn about Oracle\u2019s commitment to our community, customers, employees, and partners during the COVID-19 crisis."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Learn about Oracle investor relations, and find information for stockholders, potential investors, and financial analysts."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s security policies and practices across the various ways Oracle engages with our customers."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Our mission is to help people see data in new ways, discover insights, unlock endless possibilities."
+   }
+  },
+  "analyst_notes": "Mostly factual corporate history and navigation, with the mission statement as the only aspirational headline. Stakeholder framing is brief and third-person, with some first-person 'we' in the DEI and customer sections. Commitments are hedged ('believes', 'commitment') rather than absolute. Safety is absent; the page leans on milestones and product showcases."
+ }
+}

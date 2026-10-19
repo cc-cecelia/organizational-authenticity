@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4564,
+  "output_tokens": 1461,
+  "request_id": "req_011CgC8XQ9aeVJUtqsF95WaT"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Employees develop skills and achieve success alongside managers who invest in them"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We don\u2019t just value differences\u2014we celebrate them."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "At Oracle, we know that sustainability is good business."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Socially Responsible"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Oracle at 30 continues to grow and innovate"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Oracle applies enterprise expertise to startup ingenuity to solve business problems"
+   }
+  },
+  "analyst_notes": "Mostly factual corporate history with a short aspirational mission line. Employee-focused 'Working @ Oracle' section gives workforce the most attention. Commitments are largely absolute ('we don't just', 'we know'), with first-person plural used sparingly. Sustainability appears only as a brief, business-framed claim, and customers receive no stated value."
+ }
+}

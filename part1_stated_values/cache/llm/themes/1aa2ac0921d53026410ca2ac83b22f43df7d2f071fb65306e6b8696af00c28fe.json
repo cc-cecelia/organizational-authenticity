@@ -1,0 +1,50 @@
+{
+ "label": "META 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3336,
+  "output_tokens": 1641,
+  "request_id": "req_011CgC8UxxCGGRvqNVpR1QjP"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "the makeup of our company reflects the diverse perspectives of the people who use our technologies"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We have a responsibility to promote the best of what people can do together"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "keeping people safe and preventing harm"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "At Meta, we\u2019re building innovative new ways to help people feel closer to each other"
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing centred on connection and the metaverse. Commitments are largely stated in absolute or declarative terms, with hedging only in 'when they're at their best'. Customers and society are addressed through principles; employees, governance and environment are nearly absent. Voice is mainly first-person plural and brief, with a list of principles and little elaboration."
+ }
+}

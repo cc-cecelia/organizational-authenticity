@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3703,
+  "output_tokens": 1421,
+  "request_id": "req_011CgC98MKeHqe6TEjbHqGCA"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We are committed to the highest standards of quality and service"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We are committed to making our partners proud and investing in their health, well-being and success"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "creating a culture of belonging where everyone is welcome"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe Starbucks can, and should, have a positive impact on the communities we serve."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "embracing our heritage while innovating to create new experiences to savor"
+   }
+  },
+  "analyst_notes": "Warm, first-person plural narrative that leads with heritage and origin story before stating values. Commitments use firm language ('We are committed to...', 'We believe...'). Partners (employees) and community/doing good receive the most developed treatment. Environment, integrity, safety and shareholders are essentially absent; profit is explicitly subordinated to purpose."
+ }
+}

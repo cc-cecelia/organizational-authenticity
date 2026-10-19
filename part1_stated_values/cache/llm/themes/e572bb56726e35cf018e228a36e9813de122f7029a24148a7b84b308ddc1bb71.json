@@ -1,0 +1,50 @@
+{
+ "label": "AAPL 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3163,
+  "output_tokens": 293,
+  "request_id": "req_011CgC8LfJamcGDF46m1dQW8"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "The page is almost entirely site chrome and contact information: store locators, phone numbers, sales support, and recruiting prompts. It states no values or commitments; 'Apple Values' appears only as a menu label. Tone is purely functional and factual, with no first-person voice, aspirational language, or stakeholder priority beyond customers as callers."
+ }
+}

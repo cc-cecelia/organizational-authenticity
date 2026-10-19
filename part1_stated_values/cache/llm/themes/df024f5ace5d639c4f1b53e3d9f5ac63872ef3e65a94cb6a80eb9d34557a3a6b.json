@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3442,
+  "output_tokens": 1568,
+  "request_id": "req_011CgC98unWurEobGwH9BsTG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "The promise of surprises, fun, ease and inspiration at every turn, no matter when, where or how you shop."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "It gets our teams excited to come to work each day."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Nearly half of our 1,800+ Target stores are run by women."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're dedicated to being a good neighbor, and working with our communities and partners to make life a little better everywhere we do business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, upbeat tone led by a purpose of family joy and a customer promise, with absolute phrasing such as 'no matter when, where or how you shop'. Uses first-person plural and 'Target Team' branding. Most commitments are broad; community and employees appear briefly, and most content is facts about scale and store counts."
+ }
+}

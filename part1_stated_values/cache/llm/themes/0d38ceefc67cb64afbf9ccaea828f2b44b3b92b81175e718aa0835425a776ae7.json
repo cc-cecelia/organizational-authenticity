@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3151,
+  "output_tokens": 260,
+  "request_id": "req_011CgC97jYatwLpUdNSbtdAX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "The page is an error message, not a values statement. It contains no stated commitments, priorities or values across any stakeholder category. Its only content is troubleshooting instructions and a request for users to report browser and operating system details, so all categories are coded absent."
+ }
+}

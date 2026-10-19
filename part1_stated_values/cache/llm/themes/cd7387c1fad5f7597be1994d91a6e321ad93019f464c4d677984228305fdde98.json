@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4526,
+  "output_tokens": 447,
+  "request_id": "req_011CgC8dQeFmvYiyCAC1LZR3"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We\u2019re focused on serving our clients to help them live their financial lives."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We want our employees to reach their full potential."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "We believe that diverse backgrounds and experiences make us stronger."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "grounded in the principles of shared success, responsible citizenship, and community building."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We believe everything we do for clients, employees and the communities we serve is built on a solid foundation that delivers for shareholders."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We hold ourselves accountable for the disciplined management of risk and for doing the right thing."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual and aspirational in tone, using first-person plural 'we' and 'believe'. Integrity and risk management lead the values, with clients and shareholders prominent. Responsible growth recurs as a framing strategy. Commitments are hedged ('strive', 'believe'), not absolute. Navigation chrome and product promotions are largely present."
+ }
+}

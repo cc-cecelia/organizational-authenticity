@@ -1,0 +1,13 @@
+{
+ "label": "JPM 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5996,
+  "output_tokens": 147,
+  "request_id": "req_011CgC8dF5nHvA3A5cKVk5dv"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page replaces the short 2020 principles list with an extensive set of detailed principles, adding emphasis on customers ('Exceed expectations by listening to customers'), safety ('Build a safety-first culture'), diversity ('Diverse Employees'), and community giving ('give back to the communities'). Also adds 'Innovate, test and learn'. Major expansion and emphasis shift."
+ }
+}

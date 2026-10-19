@@ -1,0 +1,50 @@
+{
+ "label": "MS 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4646,
+  "output_tokens": 1805,
+  "request_id": "req_011CgC8gX5JDwLuRumhnrpPj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our skilled workforce is comprised of individuals drawn from a broad cross section of the global communities we serve."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We know a diverse workforce and an inclusive culture matters to our clients."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "help reduce the firm's carbon footprint"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "The Firm is dedicated to making a positive contribution to society through our core business activities, employment practices, operations and philanthropic giving."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Leadership at Morgan Stanley isn't just about good corporate governance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual, with aspirational lines led by community and philanthropy; the 'Firm is dedicated' sentence is the main absolute commitment. Voice mixes 'the Firm' and first-person 'we'. Commitments are often hedged ('help reduce'). Most of the page is a dated history and statistics, with little on shareholders despite the banking business."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1949,
+  "output_tokens": 84,
+  "request_id": "req_011CgCA19C4Yg8yGvrcjcWfr"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are capitalization of the trachoma item and rotating featured content: a real-world data article teaser was replaced by a Latino healthcare disparities story. No standing mission, values or commitments were altered."
+ }
+}

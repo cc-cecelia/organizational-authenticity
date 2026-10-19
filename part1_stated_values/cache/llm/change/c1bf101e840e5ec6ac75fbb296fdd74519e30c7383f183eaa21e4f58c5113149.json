@@ -1,0 +1,13 @@
+{
+ "label": "F 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2914,
+  "output_tokens": 136,
+  "request_id": "req_011CgC9DGihdedS9oQi7eYT8"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 replaces the 2020 mission (\"drive human progress through the freedom of movement\") and history/facts with a purpose statement: \"build a better world\", \"free to move\". New pillars: Better Lives, Stronger Communities (employees, union partners, customers), and healthier planet (\"sustainable future\"), shifting emphasis toward community and environment."
+ }
+}

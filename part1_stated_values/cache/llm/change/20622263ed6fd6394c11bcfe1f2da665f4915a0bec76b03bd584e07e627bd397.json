@@ -1,0 +1,13 @@
+{
+ "label": "COP 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3776,
+  "output_tokens": 120,
+  "request_id": "req_011CgCA3p2xgVf9mDXCF3uNk"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The SPIRIT Values section (\"set the tone for how we behave\") was replaced by \"Who We Are\" with a business-description line, \"Integrating Sustainability\" link added. Otherwise changes are photo gallery, rotating news and social posts, and address removal; no stated values reworded in meaning."
+ }
+}

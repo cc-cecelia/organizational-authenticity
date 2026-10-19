@@ -1,0 +1,50 @@
+{
+ "label": "BRK.B 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11923,
+  "output_tokens": 1860,
+  "request_id": "req_011CgC8avfwpVNcy7D8Rjhnz"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "to maximize Berkshire\u2019s average annual rate of gain in intrinsic business value on a per-share basis"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We will be candid in our reporting to you, emphasizing the pluses and minuses important in appraising business value."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Owner-oriented, first-person voice (we, Charlie and I) addressing shareholders as partners throughout; shareholders are addressed first and most often. Aspirational goals are paired with hedges such as 'Charlie and I cannot promise you results,' while some pledges are absolute ('we will never'). Folksy analogies and candor themes recur. Employees, customers and community receive little or no attention."
+ }
+}

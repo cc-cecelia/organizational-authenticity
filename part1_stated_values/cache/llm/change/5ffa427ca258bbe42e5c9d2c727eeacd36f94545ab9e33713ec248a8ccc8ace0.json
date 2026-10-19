@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4651,
+  "output_tokens": 124,
+  "request_id": "req_011CgC8shA5cxPyVYXZBuCQg"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly capitalization, updated figures (170+ to 175+ countries, $4.3B to $5.1B R&D, ~29,000 to ~30,000 employees), and a new intro line and legal/offer notice. No value, commitment or mission statement was added or removed; the new intro is chrome and description, not a stated value."
+ }
+}

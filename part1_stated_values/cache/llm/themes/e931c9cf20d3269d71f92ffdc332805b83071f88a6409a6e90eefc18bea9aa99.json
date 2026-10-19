@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4213,
+  "output_tokens": 1679,
+  "request_id": "req_011CgC8Vt8GSMdHes3eXk4dS"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our customers\u2019 success is critical to our growth and we\u2019re committed to succeeding together."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "but also on the talent of its people"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Ensuring that all voices are welcome and heard increases our awareness of what is possible."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "helping improve the lives and opportunities of people around the world"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "and, most importantly, sales revenues"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Nothing is more important to our company than the privacy of our customers\u2019 data."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Regularly providing new, innovative solutions gives our customers a competitive advantage."
+   }
+  },
+  "analyst_notes": "Aspirational, Trailblazer and Ohana-themed framing, with first-person plural 'we' throughout. Customers are addressed first and most often, with trust, innovation and equality as the four named core values. Commitments are often absolute ('Nothing is more important'), while equality and community appear only briefly. Recruiting prompts and testimonials are treated as chrome."
+ }
+}

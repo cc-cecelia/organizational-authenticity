@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3423,
+  "output_tokens": 613,
+  "request_id": "req_011CgC9N5byWxe5k6hde4bSC"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "The page is purely factual and third-person, describing scale, locations, capacity, asset value and market reach. It states no values, commitments or priorities, and uses no first-person or aspirational language. Its only audience framing is the wholesale and brand-outlet footprint. Stakeholder categories are therefore absent, and the page's framing is descriptive rather than value-led."
+ }
+}

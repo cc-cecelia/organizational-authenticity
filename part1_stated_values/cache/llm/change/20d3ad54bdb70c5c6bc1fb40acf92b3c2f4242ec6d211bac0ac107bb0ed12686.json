@@ -1,0 +1,13 @@
+{
+ "label": "NKE 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2262,
+  "output_tokens": 355,
+  "request_id": "req_011CgCA2YeUDFFTRhyZiMY4f"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaced the mission line \"Our mission is to double our business, while cutting our environmental impact in half\" with \"We believe in a fair, sustainable future\", shifting emphasis from business growth and emissions targets to broader fairness and sustainability values. The section heading also changed from \"A Fair, Sustainable Future For Every Athlete\" to \"Protecting the Future of Sport\". Other changes are navigation and wording tweaks."
+ }
+}

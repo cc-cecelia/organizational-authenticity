@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2661,
+  "output_tokens": 123,
+  "request_id": "req_011CgCA5gS7xA189p1JSU6e2"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts and figures only: ethanol capacity 1.4 to 1.45 billion gallons, a $46.2 to $50.2 billion figure, 37 to 31 (apparently a count), market footprint now adds Peru and 43 states; 'Click here to view' became 'View'. No values or commitments changed."
+ }
+}

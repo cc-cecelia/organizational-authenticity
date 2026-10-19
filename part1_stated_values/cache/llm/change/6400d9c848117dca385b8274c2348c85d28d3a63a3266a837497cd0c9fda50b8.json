@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2428,
+  "output_tokens": 125,
+  "request_id": "req_011CgC8XGpJEyHhhx9v13qyd"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page shifts emphasis from relationships, unity and community (\"relationships, built on trust and respect\") to customer focus (\"focus on our customers drove our every decision\", \"the customer will still be the customer\"). The 1-1-1 community commitment is kept, with the company count updated from 15,000 to 17,000."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3411,
+  "output_tokens": 135,
+  "request_id": "req_011CgCA2fdAoJ6PL3iRrSB7D"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the 2018 'purpose & beliefs' values sections (great shopping, design for all, more for your money, diversity & inclusion, community support) with a new purpose statement: 'To help all families discover the joy of everyday life.' It emphasizes joy, fun and surprise, and drops explicit diversity and supplier-diversity commitments."
+ }
+}

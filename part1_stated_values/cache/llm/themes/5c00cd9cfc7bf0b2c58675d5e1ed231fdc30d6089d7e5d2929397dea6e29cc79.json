@@ -1,0 +1,50 @@
+{
+ "label": "CVX 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3725,
+  "output_tokens": 2135,
+  "request_id": "req_011CgC9EWdPeKrUpLCvGpUVx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Invest in people to develop and empower a highly-competent workforce"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We have an inclusive work environment that values the uniqueness and diversity of individual talents, experiences and ideas."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We place the highest priority on the health and safety of our workforce and protection of our assets, communities and the environment."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We conduct our business in a socially and environmentally responsible manner, respecting the law and universal human rights to benefit the communities where we work."
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Our strategies guide our actions to deliver industry-leading results and superior shareholder value in any business environment."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We earn the trust of our colleagues and partners by operating with the highest ethical standards in all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "We place the highest priority on the health and safety of our workforce and protection of our assets, communities and the environment."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "always look for innovative and agile solutions"
+   }
+  },
+  "analyst_notes": "Aspirational, declarative first-person-plural voice opening with a vision of being most admired. Absolute superlatives recur ('highest priority', 'highest ethical standards'). Stakeholders are addressed through a values list, with workforce and safety prominent. Shareholder value dominates the terse imperative strategy section. Customers are largely absent as a direct focus."
+ }
+}

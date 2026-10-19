@@ -1,0 +1,13 @@
+{
+ "label": "MCD 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2223,
+  "output_tokens": 116,
+  "request_id": "req_011CgCA2QVqR3Gcvk7x1Z7EC"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Strategy line now adds innovation and efficiency: \"more innovative and more efficient at solving problems for our customers\". New paragraph adds \"Accelerating the Organization\" commitment to find and scale solutions with speed, agility and growth. Latest Stories, History and Leadership links are chrome."
+ }
+}

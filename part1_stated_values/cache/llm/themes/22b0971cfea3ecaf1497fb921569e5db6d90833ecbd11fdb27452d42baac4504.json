@@ -1,0 +1,50 @@
+{
+ "label": "LOW 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3217,
+  "output_tokens": 1085,
+  "request_id": "req_011CgC9AAnSKQFafRcgsJVbj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "The people we serve are at the heart of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our associates have deep home improvement experience and training"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "$150M Invested in Communities in 2020"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "build a sustainable foundation for growth"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "supply chain transformation"
+   }
+  },
+  "analyst_notes": "Mostly factual and numbers-led, with a customer-first opening framed in first-person plural. Service and expertise are presented as capabilities rather than hedged aspirations. Stakeholder emphasis is customers, then associates. Community and growth appear only briefly, and the strategy section lists pillars without elaboration."
+ }
+}

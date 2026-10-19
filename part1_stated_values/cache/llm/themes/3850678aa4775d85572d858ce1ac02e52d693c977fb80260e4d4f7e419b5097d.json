@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3235,
+  "output_tokens": 1002,
+  "request_id": "req_011CgC9QC3UvXgEPgMqXKZ8Y"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Sustainability is at the core of the Company\u2019s long-term success"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "devoting time and resources to charitable causes"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual, third-person description of scale, history and services, with few explicit values. Community philanthropy gets the most developed statement, framed as cultural tradition. Sustainability appears as a headline with one unelaborated claim. No first-person voice, hedging, or measurable commitments; the company is the grammatical subject throughout."
+ }
+}

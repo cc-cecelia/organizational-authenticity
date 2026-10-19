@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2178,
+  "output_tokens": 142,
+  "request_id": "req_011CgC8w2AAFRBSqNvJ8Z1wi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2016 'Fulfilling the promise of human potential' and 'innovative, responsible and sustainable business... economic, environmental and social well-being' commitments were removed. 2017 replaces them with 'Abbott is in the business of life' and 'make life better', plus 'live fully' individual and community framing, shifting from sustainability and innovation emphasis to general life-improvement messaging."
+ }
+}

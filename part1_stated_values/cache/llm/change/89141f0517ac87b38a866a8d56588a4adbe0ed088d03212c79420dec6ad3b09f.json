@@ -1,0 +1,13 @@
+{
+ "label": "F 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2370,
+  "output_tokens": 128,
+  "request_id": "req_011CgC9CTLtY8qXZTxKNqr1w"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2018 page drops the 'core value' sustainability and 'better world' framing and adds Ford Fund's aim to 'advance social mobility' and 'create transformational programs', plus a 'freedom of movement drives human progress' and 'world's most trusted company' aspiration. Emphasis shifts toward social mobility, innovation and trust."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ABBV 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3951,
+  "output_tokens": 2808,
+  "request_id": "req_011CgC8sbnNrEZxhhqaFPgNa"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We care deeply for patients and customers, their families, our employees, and our communities."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We care deeply for patients and customers, their families, our employees, and our communities."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We embrace diverse backgrounds and perspectives and treat everyone equally, with dignity and respect, allowing us all to achieve our best."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Each day, we work to deliver sustainable solutions that improve the health of our business and the health of humankind."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We care deeply for patients and customers, their families, our employees, and our communities."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "uncompromising integrity at the heart of everything we do"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "pursuing the highest standards in quality, compliance, safety, and performance."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "And it requires a continued investment in innovation to address the known and unknown challenges of tomorrow."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice ('we aim', 'we care deeply') with absolute phrasing ('we strive to always'). Patients and innovation lead; employees, community and DEI follow in brief commitments. Financial returns are absent and sustainability appears only once. Headings like 'Our principles' and 'Equity, Equality, Diversity & Inclusion' frame the values."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3423,
+  "output_tokens": 632,
+  "request_id": "req_011CgC9N25tVknRRzUTsenNK"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Purely factual, third-person corporate description with no stated values, commitments or priorities. Figures on scale (refinery capacity, total assets, employee count, outlets, Fortune rank) dominate. No first-person voice, aspirational language or hedging. Ethanol and renewable diesel plants are described as facts, not sustainability commitments."
+ }
+}

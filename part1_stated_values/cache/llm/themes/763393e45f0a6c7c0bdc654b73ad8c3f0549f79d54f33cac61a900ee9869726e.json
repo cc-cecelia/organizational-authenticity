@@ -1,0 +1,50 @@
+{
+ "label": "OXY 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3392,
+  "output_tokens": 1947,
+  "request_id": "req_011CgC9PY6Cgbtho4N5H6uuH"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "remarkable people driven by passion to outperform"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "while reducing greenhouse gas emissions"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "making the world a better place to live"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Outperform expectations"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Deliver results responsibly"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "committed to safe and efficient operations and products"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with mostly absolute language ('we won't stop until we're there', 'We dare to do what others won't'). Environmental and society-facing claims dominate the opening; shareholder performance appears mainly as value slogans. Little on customers, workforce wellbeing, or DEI. Distinctive wording: 'reaching for the impossible', 'Commit to good'."
+ }
+}

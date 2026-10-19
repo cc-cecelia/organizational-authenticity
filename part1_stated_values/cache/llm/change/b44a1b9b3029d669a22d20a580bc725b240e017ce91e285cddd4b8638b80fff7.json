@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2089,
+  "output_tokens": 112,
+  "request_id": "req_011CgC9zD2DapiwdprmJcZGY"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures only: technology investment rose from $3.3B to $3.5B, transactions from 1 trillion to 1.1 trillion, and workforce from 285,000 to 305,000. The 'at least' qualifier before clinical professionals was dropped. No values or commitments changed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BRK.B 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11931,
+  "output_tokens": 1318,
+  "request_id": "req_011CgC8LfPYdN5rPoz6VJqSj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "All Berkshire shares will be left to foundations"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "to maximize Berkshire\u2019s average annual rate of gain in intrinsic business value on a per-share basis"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We will be candid in our reporting to you, emphasizing the pluses and minuses important in appraising business value."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "First-person, owner-directed letter from Buffett and Munger, addressing shareholders as partners first. Tone is aspirational yet candid, with hedged commitments ('we hope', 'we will try'). Shareholder value and candor dominate; customers, employees, environment and safety are absent. Distinctive framing: shareholders as 'owner-partners' and 'eggs-in-one-basket' alignment."
+ }
+}

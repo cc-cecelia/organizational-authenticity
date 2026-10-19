@@ -1,0 +1,50 @@
+{
+ "label": "MSFT 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3151,
+  "output_tokens": 2039,
+  "request_id": "req_011CgC8QRmcH6R1Qi4PTd5k4"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Check out how we deliver secure, private, and reliable computing experiences based on sound business practices."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Explore how we maximize every person\u2019s contribution\u2014from our employees to our customers"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "so that the way we innovate naturally includes diverse thought."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "lead the way in sustainability and use our technologies to minimize the impact of our operations and products"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Find out how we empower people by investing technology, money, employee talent, and the company\u2019s voice in programs that promote digital inclusion."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "conducting business in a way that is inclusive, transparent, and respectful of human rights"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Learn about innovations from our computer science research organization."
+   }
+  },
+  "analyst_notes": "Short navigational sections opened with imperatives (Explore, Discover, Find out, Check out) and first-person plural 'we'. Leads with innovation and research, with scale claims about researchers as description. Commitments are stated in absolute terms ('lead the way', 'empower people') with little hedging. Stakeholders are addressed in sequence, not prioritized. Shareholders and safety are absent."
+ }
+}

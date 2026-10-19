@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3668,
+  "output_tokens": 2130,
+  "request_id": "req_011CgC9NNt3AoyE4k7U11e2m"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We are guided by five principles, in Safety, Environment, Community, Employees and Governance."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "On track to achieve 100% global refinery Scope 1 and Scope 2 GHG emissions reduction/displacement target by 2035."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Over $77 million generated for charities in 2023"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our executive team and board of directors are committed to operations excellence, disciplined management of capital and long-term value."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We are guided by five principles, in Safety, Environment, Community, Employees and Governance."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "We are guided by five principles, in Safety, Environment, Community, Employees and Governance."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Valero is leading through innovation, ingenuity and unmatched execution to responsibly meet the world's growing demand for reliable and sustainable energy."
+   }
+  },
+  "analyst_notes": "Mostly factual, metric-heavy page with claims of scale and rank ('World's Largest', 'Industry safety leader') rather than stated values. Written in third person, not first person. Aspirational language appears mainly in the 'Our Story' and 'Leadership' sections, with hedged wording such as 'responsibly' and 'On track'. Values are listed briefly in the five-principles summary."
+ }
+}

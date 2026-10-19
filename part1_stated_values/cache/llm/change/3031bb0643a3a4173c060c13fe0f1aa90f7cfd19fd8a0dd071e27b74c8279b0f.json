@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2998,
+  "output_tokens": 134,
+  "request_id": "req_011CgC9JkUCjMgciSivwZytj"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Rebranding from Schlumberger to SLB; the 2023 page adds an 'Ethics and Compliance' section, 'Bring Balance Back to Our Planet', and emphasis on 'innovating oil and gas', 'decarbonizing industries' and 'accelerate the energy transition', shifting emphasis toward integrity and climate/environment."
+ }
+}

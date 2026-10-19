@@ -1,0 +1,13 @@
+{
+ "label": "META 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2891,
+  "output_tokens": 150,
+  "request_id": "req_011CgC9xKkj1ducHDKDxbMvV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page replaces the 2022 mission statement and the five named principles (Give People a Voice, Serve Everyone, etc.) with a shorter tagline and a 'Our Story' section on immersive experiences and the metaverse. Diversity language about workforce reflecting people served is reworded to 'the makeup of our company reflects the diverse perspectives'. Principles are mostly removed from the page."
+ }
+}

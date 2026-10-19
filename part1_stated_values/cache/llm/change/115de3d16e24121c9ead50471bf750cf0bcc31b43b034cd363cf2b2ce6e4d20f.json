@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2941,
+  "output_tokens": 132,
+  "request_id": "req_011CgCA4Z4awUhZCYGWAcWYx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 adds 'committed to safety, reliability and environmental stewardship' and 'Committed to dividend growth, share repurchases and financial strength'; removes 'deliver quality products to customers' and 'contribute to the well-being of the communities'; adds Technology/R&D section. Shifts emphasis toward safety, environment and shareholder returns."
+ }
+}

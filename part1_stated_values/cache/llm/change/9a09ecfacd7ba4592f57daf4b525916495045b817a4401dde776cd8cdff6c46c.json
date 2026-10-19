@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1963,
+  "output_tokens": 131,
+  "request_id": "req_011CgC8MFWdkGBH3nMpWmt5Q"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page replaces the 2019 CSR framing of being a responsible, inclusive, transparent partner respecting human rights, and drops the Trustworthy Computing item on secure, private, reliable computing. It adds a belief that technology is 'a powerful force for good' and a commitment to 'a sustainable future' with access to technology's benefits."
+ }
+}

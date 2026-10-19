@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2122,
+  "output_tokens": 114,
+  "request_id": "req_011CgC9zcysJJmiWgYR1gjfi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Principles now described as \"the foundational building blocks of who we are\" and \"woven into our decisions\", adding \"inspire us to make the world a better place\" (a new commitment). Leadership signature changed to Robert A. Michael, CEO; exit-site disclaimer removed (chrome)."
+ }
+}

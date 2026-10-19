@@ -1,0 +1,50 @@
+{
+ "label": "GS 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3324,
+  "output_tokens": 373,
+  "request_id": "req_011CgC8g4k23T239EjmcNAU3"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "to help our clients and the communities we serve"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Our people are our greatest asset."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We focus on cultivating and sustaining a diverse work environment and workforce"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "to help our clients and the communities we serve"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief, factual-leaning page with aspirational lines in the About Us and People sections. Clients are named first, then communities and people. Voice is institutional third person and first-person plural (we, our). Commitments are stated absolutely, with no hedging. Wording like 'our greatest asset' and 'brings people, capital and ideas together' is distinctive. Most of the page is business description and site chrome."
+ }
+}

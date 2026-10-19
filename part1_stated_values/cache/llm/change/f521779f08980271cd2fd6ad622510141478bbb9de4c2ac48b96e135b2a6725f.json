@@ -1,0 +1,13 @@
+{
+ "label": "MS 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4721,
+  "output_tokens": 127,
+  "request_id": "req_011CgC9yPtnHyoMPHCsKTwgC"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 About page adds a Core Values section naming four values (putting clients first, leading with exceptional ideas, doing the right thing, giving back) and a Giving Back section. It also adds sustainability and diversity commitments. The 2019 historical timeline of community and sustainability milestones is removed, shifting emphasis toward stated values."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2058,
+  "output_tokens": 108,
+  "request_id": "req_011CgC9QegrT9QN5Ewv9F4Kh"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Removed sign-in/register chrome and changed the headcount from 'approximately 60,000 employees' to 'more than 40,000 employees'. The rest of the business description is unchanged. Only updated facts and navigation changed, with no value, commitment or stakeholder shift."
+ }
+}

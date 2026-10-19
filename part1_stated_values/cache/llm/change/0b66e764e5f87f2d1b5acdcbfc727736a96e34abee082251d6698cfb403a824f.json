@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2712,
+  "output_tokens": 127,
+  "request_id": "req_011CgC8qGgc2CsFREmJdnNrH"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 2020 commitment to 'innovative approaches, products and services' and the mission-style opener. Added new value statements: 'Health Equity' ('Deliver Equitable Health Care For All'), 'Corporate Governance' ('Perform With Integrity'), and a people and culture section. Also removed the scale and investment figures."
+ }
+}

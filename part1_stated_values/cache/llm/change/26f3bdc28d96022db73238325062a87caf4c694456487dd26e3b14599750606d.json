@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2908,
+  "output_tokens": 174,
+  "request_id": "req_011CgC9NH24dju7GrjJNEoL1"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 adds value statements: 'best-in-class producer', 'industry-leading safety records', 'continued efforts to reduce emissions', 'five principles' (Safety, Environment, Community, Employees, Governance), 'innovation, ingenuity', 'sustainable energy', and 'committed to operations excellence, disciplined management of capital'. Removes the 2020 business-description paragraph and highlights facts. Emphasis shifts toward safety, environment and innovation."
+ }
+}

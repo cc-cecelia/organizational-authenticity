@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2624,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9NGNcy6mSNbqAUvy8R"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are updated facts and figures: refinery and ethanol plant counts and capacities, outlet count (7,400 to 7,000), a Diamond Green Diesel joint venture mention, a Latin America market reference, and the employee count dropped. No value, commitment, mission or stakeholder statement is added or removed."
+ }
+}

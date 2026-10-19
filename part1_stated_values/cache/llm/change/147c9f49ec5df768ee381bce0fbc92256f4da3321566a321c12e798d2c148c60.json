@@ -1,0 +1,13 @@
+{
+ "label": "META 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2832,
+  "output_tokens": 178,
+  "request_id": "req_011CgC8VZw91r27jwkjagMbq"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 mission ('Give people the power to build community and bring the world closer together') was kept, but the 2023 page drops the 'Our Principles' section, the workforce-diversity statement and the 'Supported by 100% renewable energy' note. It adds a 'Meta is moving beyond 2D screens toward immersive experiences' AR/VR innovation focus and 'the makeup of our company reflects the diverse perspectives'. Emphasis shifts toward innovation and the metaverse."
+ }
+}

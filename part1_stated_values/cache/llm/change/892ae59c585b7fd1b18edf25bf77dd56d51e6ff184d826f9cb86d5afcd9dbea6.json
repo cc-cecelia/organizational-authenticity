@@ -1,0 +1,13 @@
+{
+ "label": "COP 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2023,
+  "output_tokens": 136,
+  "request_id": "req_011CgC9Hg51fu9QDt5VyYEaS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only news and article teasers changed: 2023 headlines (boreal reclamation, system of systems, DIG office move, offices feature) were replaced by 2024 headlines (Norway HSE milestone, Girls Talk Tech, Congo legacy partnership, Australia Pacific LNG). No value, commitment or stakeholder statement was added or removed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "XOM 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3582,
+  "output_tokens": 2588,
+  "request_id": "req_011CgC9EPL7Nfhf5gSnvze5W"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We continue to evolve to meet growing global demand for oil, natural gas and refined products"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "play a key role in a thoughtful transition to an energy-secure, lower-emissions future for society"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "We work to provide the fuels and chemicals that make modern life possible and support human progress."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "we must continuously achieve superior financial and operating results"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Fueling the world safely and responsibly"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "A combination of scale, technology, integration, and expertise makes us uniquely positioned to provide new solutions for industry."
+   }
+  },
+  "analyst_notes": "Confident, aspirational first-person plural voice, with hedged phrasing ('we like to think', 'aim to') alongside absolute 'committed to' language. Leads with fuel supply, energy-transition and safety in the headline. Distinctive 'and equation' framing. Workforce, community and dei are thinly addressed. Business-description claims dominate much of the text."
+ }
+}

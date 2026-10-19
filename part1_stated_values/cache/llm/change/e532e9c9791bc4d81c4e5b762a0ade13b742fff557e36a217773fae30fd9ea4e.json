@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2683,
+  "output_tokens": 124,
+  "request_id": "req_011CgCA5i84XYSPPY7adH2xa"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are updated facts and figures (ethanol plants 11 to 14, outlets 7,400 to 7,000, fiscal figures), a new Diamond Green Diesel joint venture description, and reworded business-description and market-scope sentences. No mission, values or stated commitments were added, removed or re-emphasized."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3650,
+  "output_tokens": 2362,
+  "request_id": "req_011CgC8i5x1PbAYoa5ZR5j7b"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our clients\u2019 interests come first."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We are equally invested in the success of our firm and our colleagues."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "An inclusive, equitable environment makes us thrive."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we run our business sustainably and responsibly"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We rely on our principles to guide how we interact with each other, our clients, the communities in which we operate"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We are passionate about performance."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We hold ourselves and each other to the highest standards of excellence."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Since our founding, innovation has been at the center of how we deliver performance and stay ahead of our clients\u2019 needs."
+   }
+  },
+  "analyst_notes": "Aspirational, principle-based framing in first-person plural throughout. Clients lead, stated absolutely as fiduciary duty. Employees, community and shareholders follow. Distinctive wording includes One BlackRock, emotional ownership and cultural language. Commitments are mostly absolute, though some aspirations are hedged with strive and always strive."
+ }
+}

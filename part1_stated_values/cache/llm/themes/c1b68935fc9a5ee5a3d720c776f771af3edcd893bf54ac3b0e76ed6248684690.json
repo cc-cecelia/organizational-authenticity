@@ -1,0 +1,50 @@
+{
+ "label": "JPM 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3495,
+  "output_tokens": 1670,
+  "request_id": "req_011CgC8ceJFtBaQPa8SuSPj9"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Exceptional Client Service"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Teams succeed because they are disciplined, they work well together, they execute consistently and they have a passion to win."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "always be there for our clients and communities - in good times and in bad times"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "continually invest in building our businesses for the future"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Maintaining the highest standards of integrity involves faithfully meeting our commitments to all our constituents"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with headline-driven structure. Leads with client service and integrity. Hedges on outcomes ('We cannot promise specific outcomes') but commits absolutely to conduct ('What we can and will promise'). Distinctive phrasing includes 'fierce resolve' and 're-double our efforts'. Environment, DEI, safety and innovation are absent."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2289,
+  "output_tokens": 344,
+  "request_id": "req_011CgCA3csG1FN6oUxQJyBkA"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The same five values (high performance, protect people and the environment, growth, execution) are retained with identical wording and only reordered; growth moved to the end. The intro sentence describing The Chevron Way was removed and a heading 'the chevron way evolution' added. No value statement was added, removed, or reworded in meaning."
+ }
+}

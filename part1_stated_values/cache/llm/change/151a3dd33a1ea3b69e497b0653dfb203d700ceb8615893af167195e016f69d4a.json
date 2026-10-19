@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2110,
+  "output_tokens": 109,
+  "request_id": "req_011CgC9xaE7e1F7VpS6rtxAF"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures: customers 420,000 to 430,000, employees 130,000 to 138,000, revenue FY15 $38.2B to FY17 $37.7B; business description reworded (145 to 175 countries, service list). Navigation links changed. No values or commitments altered."
+ }
+}

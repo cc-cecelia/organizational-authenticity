@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1905,
+  "output_tokens": 443,
+  "request_id": "req_011CgC9RFmVanfW7uQe1cknR"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2022 removes the statements 'Our execution culture focuses on continuous improvement' and 'Our values guide us to achieve more in how we relate to each other', plus the employee headcount and customer-value wording. Nothing replaces them, so stated values and an improvement-culture emphasis are dropped."
+ }
+}

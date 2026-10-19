@@ -1,0 +1,13 @@
+{
+ "label": "IBM 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7454,
+  "output_tokens": 163,
+  "request_id": "req_011CgC8Znpe1Qo7RfDcTvHY1"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 mission line \"IBMers believe in progress... improve business, society and the human condition\" was replaced by \"Creators, partners and clients putting technology to work in the real world\", and \"We make the world work better\" was added. Research and IBMer-diversity emphasis was removed; a \"trusted partner\" and \"meaningful impact\" framing appeared. Emphasis shifts from progress and innovation to client partnership and practical technology."
+ }
+}

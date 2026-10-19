@@ -1,0 +1,13 @@
+{
+ "label": "MCD 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2164,
+  "output_tokens": 125,
+  "request_id": "req_011CgC96rwoViAGFWo9mcT6b"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds emphasis on being \"faster, more innovative and more efficient at solving problems for our customers\" and a new \"Accelerating the Organization\" commitment to find and scale solutions with \"speed and agility\" and \"driving growth\", shifting toward innovation and shareholder growth. Story and history teasers are chrome."
+ }
+}

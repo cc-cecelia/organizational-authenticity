@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3928,
+  "output_tokens": 492,
+  "request_id": "req_011CgC8tUhkyom9tJtMHLJcG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "These simple but enduring values have earned us the trust and respect of our colleagues, customers and communities."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Curiosity, inventiveness and a passion for excellence are what drive our people to discover what's possible."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "executive roles held by women"
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "ENVIRONMENTAL SUSTAINABILITY"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "At Merck, we believe that no one should go without the medicines or vaccines they need."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Ethics and transparency at Merck are cornerstones of our corporate reputation."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are committed to being the premier, research-intensive biopharmaceutical company and are dedicated to providing leading innovations and solutions for today and the future."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led tone with a values-first opening. Stakeholder framing centres on patients and customers, then colleagues and communities. Uses first-person plural and absolute commitments. Heavy on innovation and science. Environmental and DEI items appear only as statistic labels, with little elaboration. Shareholder and safety themes are absent."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2661,
+  "output_tokens": 131,
+  "request_id": "req_011CgC8kwLffe6ZoTzWZS6ff"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 page adds a Mission and a Values section: customer experience, 'Provide the world's best customer experience', 'We Deliver for Our Customers', 'We Do What's Right' (integrity), 'We Respect People' (diverse and inclusive), 'We Care About Communities'. Removes the 2018 heritage/service tagline and press releases."
+ }
+}

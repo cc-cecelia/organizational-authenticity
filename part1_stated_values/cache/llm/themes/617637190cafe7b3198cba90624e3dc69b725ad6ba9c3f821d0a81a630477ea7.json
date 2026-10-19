@@ -1,0 +1,50 @@
+{
+ "label": "ABBV 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3892,
+  "output_tokens": 2161,
+  "request_id": "req_011CgC8sNNiSYqUZo51MnkRR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "we aim to make a remarkable impact on people\u2019s lives"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "their commitment to patients fuels our culture"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We\u2019re constantly working to create solutions that go beyond treating the illness to have a positive impact on patients\u2019 lives"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We\u2019re focused on sustainable growth"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "we pledge to do so in a transparent and sustainable way"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We come up with new approaches to addressing today\u2019s health issues"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural tone with a 'People. Passion. Possibilities.' tagline. Patients and health outcomes are foregrounded; workforce and financial themes are brief. Commitments are often hedged ('we aim', 'we pledge'). Statistics on patients, countries and R&D spend are presented as factual business description."
+ }
+}

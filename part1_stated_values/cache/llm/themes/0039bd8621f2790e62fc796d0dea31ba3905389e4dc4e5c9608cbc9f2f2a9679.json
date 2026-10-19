@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4160,
+  "output_tokens": 506,
+  "request_id": "req_011CgC912YqR3Qy8Dg9A4TBZ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Each day, our employees around the world work together for patients \u2013 patients are at the center of everything we do."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We have the brightest people in the industry and believe that their diverse experiences and perspectives help to bring out our best ideas"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We have the brightest people in the industry and believe that their diverse experiences and perspectives help to bring out our best ideas, drive innovation and achieve transformative business results."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Preservation of natural resources is one of our key commitments."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We conduct our global business with the utmost integrity and transparency."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Passion, innovation, urgency, accountability, inclusion and integrity ground our work and unite our community."
+   }
+  },
+  "analyst_notes": "Aspirational, patient-centred framing; patients are placed first, employees and community follow. Mostly third-person 'we' with absolute language ('utmost integrity', 'at the center of everything'). Innovation and shared values are headline items. Shareholder and safety themes are absent; environment appears only once."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "LOW 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3219,
+  "output_tokens": 1213,
+  "request_id": "req_011CgC99w8evsTsapZNwzZYR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "The people we serve are at the heart of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our associates have deep home improvement experience and training"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "build a sustainable foundation for growth"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "supply chain transformation"
+   }
+  },
+  "analyst_notes": "Customer-first, aspirational framing opens the page with the people served and a 'we designed our business' reassurance. Voice is first-person plural with largely absolute claims. Headline figures (sales, associates, customers, community investment) are presented as factual scale rather than commitments. Workforce, environment, DEI and integrity are essentially absent."
+ }
+}

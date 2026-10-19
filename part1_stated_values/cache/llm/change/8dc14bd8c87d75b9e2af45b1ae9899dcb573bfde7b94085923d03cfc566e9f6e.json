@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2643,
+  "output_tokens": 137,
+  "request_id": "req_011CgC9NAKVU5JYXTxYgc2T7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 'Vision and Values' section, including the commitment to 'safety, honor and commitment' and the vision to 'provide energy and improve lives' as a stated value. Added 'now, more than ever, is the time to try new things', a sentiment about trying new things (innovation). Removed the business-description sections on refining, midstream, marketing, chemicals and energy."
+ }
+}

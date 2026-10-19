@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3091,
+  "output_tokens": 472,
+  "request_id": "req_011CgC9836mgTYrVhCwgDb6h"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "With our partners, our coffee and our customers at our core, we live these values:"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Creating a culture of warmth and belonging, where everyone is welcome."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "To inspire and nurture the human spirit \u2013 one person, one cup and one neighborhood at a time."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Delivering our very best in all we do, holding ourselves accountable for results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Being present, connecting with transparency, dignity and respect."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Acting with courage, challenging the status quo and finding new ways to grow our company and each other."
+   }
+  },
+  "analyst_notes": "Aspirational, values-led framing with short, absolute statements and no hedging. Customers and partners are named first in the closing line, while employee culture and belonging dominate the value list. Uses first-person plural ('our', 'we') throughout. Distinctive wording: 'through the lens of humanity' and 'performance driven'. Environment and safety are absent."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2086,
+  "output_tokens": 572,
+  "request_id": "req_011CgC9A4FXVRXdDHLNZXBYG"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mostly updated figures and capitalization. Added a new representation claim: \"Nearly half of our stores are run by a female leader and more than a third are managed by a leader of color\", replacing the 1,800+ store count. Also updated the HRC index year to 2022 and \"1 million+\" hours to \"nearly 1 million\"."
+ }
+}

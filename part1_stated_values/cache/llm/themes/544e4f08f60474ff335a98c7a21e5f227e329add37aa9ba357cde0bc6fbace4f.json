@@ -1,0 +1,50 @@
+{
+ "label": "GS 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3967,
+  "output_tokens": 1441,
+  "request_id": "req_011CgC8fTBcPi8fcFLM1LDfU"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our clients\u2019 interests always come first."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We offer our people the opportunity to move ahead more rapidly than is possible at most other places."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "For us to be successful, our men and women must reflect the diversity of the communities and cultures in which we operate."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Our goal is to provide superior returns to our shareholders."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity and honesty are at the heart of our business."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We stress creativity and imagination in everything we do."
+   }
+  },
+  "analyst_notes": "Declarative first-person plural voice with absolute wording such as 'always', 'never' and 'unswerving'. Clients are addressed first, followed by shareholder returns, integrity and people. Commitments are stated firmly and often explained, such as profitability linked to attracting people. No environment, community or safety statements appear. Tone is aspirational and self-describing, focused on internal culture."
+ }
+}

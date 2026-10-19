@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2631,
+  "output_tokens": 130,
+  "request_id": "req_011CgCA3jS8s48yhaao7dJHp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds a Wirth quote on trust, respect, humility, performance, truth and accountability, and says \"We believe the future of energy will be lower carbon.\" It drops \"the future is lower carbon,\" \"human ingenuity fuels innovation,\" and the \"Chevron Way has stood the test of time\" passage."
+ }
+}

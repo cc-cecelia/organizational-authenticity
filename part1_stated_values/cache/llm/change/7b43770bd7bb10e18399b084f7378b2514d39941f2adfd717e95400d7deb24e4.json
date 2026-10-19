@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1896,
+  "output_tokens": 138,
+  "request_id": "req_011CgC8XJms8aNqMti16wtqt"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The diff mainly reorders the '130,000+ Employees' line and rewords the tagline from 'Integrated Cloud Applications and Platform Services' to 'Integrated Cloud Applications & Platform Services' (ampersand change). Added items are navigation, contact and sales prompts, and site chrome; no values, commitments or stakeholders were added or removed."
+ }
+}

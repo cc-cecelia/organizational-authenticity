@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2246,
+  "output_tokens": 112,
+  "request_id": "req_011CgCA5oGdemHk2rfwmoKwG"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Rankings and facts updated: refiner now called \"the world's largest independent petroleum refiner\" and renewable fuels producer \"the world's largest\" (previously second largest). DGD plant description updated to two plants beside refineries. Values text unchanged; no stated commitments altered."
+ }
+}

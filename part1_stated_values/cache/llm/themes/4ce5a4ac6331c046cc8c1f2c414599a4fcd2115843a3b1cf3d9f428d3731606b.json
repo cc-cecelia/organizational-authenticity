@@ -1,0 +1,50 @@
+{
+ "label": "PSX 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4471,
+  "output_tokens": 2551,
+  "request_id": "req_011CgC9M4avxoYMHpQZ5LLdo"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Our hard work, and team work, keeps energy flowing."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Our employees are dedicated to building capability, pursuing excellence and doing the right thing."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we are committed to safety, reliability and environmental stewardship while protecting shareholder value."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "improving lives by providing access to the energy which is essential to a high standard of living and health throughout the world."
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We do this while living out our values of safety, honor and commitment"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "we back that up with core company values of safety, honor and commitment."
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice under the headline Providing Energy. Improving Lives. Opens with vision and values, then shifts to factual business description and a long company history. Shareholder commitments are absolute ('We are committed to'), while employees appear late and briefly. Customers and innovation are largely absent."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "MCD 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3022,
+  "output_tokens": 1446,
+  "request_id": "req_011CgC95syHZZAseT44APoi1"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "reaching customers wherever they are"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Building on our commitments to our people"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Building on our commitments to our people, our communities and our world."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "innovating new tastes and choices"
+   }
+  },
+  "analyst_notes": "Proud, first-person plural framing centers customers and brand experience. Commitments to people and communities appear once, in a single brief sentence. Language is aspirational and promotional, with no measurable targets, hedges, or governance, safety, or environmental detail."
+ }
+}

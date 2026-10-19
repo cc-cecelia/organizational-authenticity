@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2882,
+  "output_tokens": 126,
+  "request_id": "req_011CgC9MTWK8SrmGBebDkT5V"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 adds explicit commitment to \"safety, reliability and environmental stewardship\" and a new Technology/R&D section on innovation. Dividend growth and share repurchases get emphasis. Shareholder-value wording drops the community and customer aims of the 2018 mission line, and capital is refocused on earnings from existing assets."
+ }
+}

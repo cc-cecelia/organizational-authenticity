@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2073,
+  "output_tokens": 100,
+  "request_id": "req_011CgC8WrhDeEcd5jsXh5EL9"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are capitalization of section headings (e.g., 'OUR SAFEGUARDS' to 'our safeguards') and an updated IDC source date from April 2020 to October 2020. No values, commitments, or stakeholders were added or removed."
+ }
+}

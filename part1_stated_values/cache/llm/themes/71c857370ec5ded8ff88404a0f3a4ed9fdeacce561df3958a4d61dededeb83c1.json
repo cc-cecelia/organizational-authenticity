@@ -1,0 +1,50 @@
+{
+ "label": "SCHW 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3830,
+  "output_tokens": 1409,
+  "request_id": "req_011CgC8jxW5fr3R2gCTZP6rQ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Coming together with a single goal: to serve you."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're investing our resources where we can make the most difference in areas that align with our business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief, marketing-led page with headline slogans addressed to you in second person, placing customers first. Values are mostly asserted rather than elaborated; the Citizenship line is the only explicit commitment. Recognition claims, stock quotes, news teasers and recruiting prompts are page chrome. Tone is warm and aspirational, with no hedging and no specific targets."
+ }
+}

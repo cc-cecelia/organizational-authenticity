@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2479,
+  "output_tokens": 104,
+  "request_id": "req_011CgCA1c4prk3dVFcxZxX2B"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 text adds a safety commitment: \"To achieve our goal of having the safest factories in the world\", with multi-day training and daily performance tracking, a new stated priority. Production-volume and battery-capacity facts were removed or updated, which is cosmetic."
+ }
+}

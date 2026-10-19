@@ -1,0 +1,13 @@
+{
+ "label": "F 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1953,
+  "output_tokens": 143,
+  "request_id": "req_011CgC9DGGg1KA12aCoCWWbi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page replaces the 2021 'Helping build a better world - making life electric' with a new purpose statement: 'To help build a better world, where every person is free to move and pursue their dreams.' It drops 'making life electric' and shifts emphasis from electrification toward personal mobility and freedom. It also swaps the sustainability report teaser for a 118-years story about transforming how people move."
+ }
+}

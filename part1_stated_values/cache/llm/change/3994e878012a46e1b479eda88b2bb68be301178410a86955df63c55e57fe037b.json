@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2397,
+  "output_tokens": 148,
+  "request_id": "req_011CgC9EPTnTgH1jVQCzt7ja"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a governance section stating ExxonMobil uses policies to \"uphold high ethical standards and promote transparency\" under independent board oversight, a new integrity emphasis. Removed operational text on safely and responsibly meeting energy demand and innovation and technology in upstream work, shifting emphasis away from innovation and safety. Also removes the \"greatest strengths\" employee-quality statement."
+ }
+}

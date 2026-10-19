@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4771,
+  "output_tokens": 2207,
+  "request_id": "req_011CgC8XoQ4tRR1ZyXQwvMEx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s commitment to our community, customers, employees, and partners during the COVID-19 crisis."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Oracle\u2019s corporate culture values teamwork, quality, and collaboration."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Learn how Oracle believes that innovation starts with inclusion, and that to create the future we need people with diverse backgrounds to help us get there."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Learn about Oracle\u2019s philanthropic efforts in the areas of sustainability, education, giving, volunteering, and more."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "find information for stockholders, potential investors, and financial analysts"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s security policies and practices across the various ways Oracle engages with our customers."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Our mission is to help people see data in new ways, discover insights, unlock endless possibilities."
+   }
+  },
+  "analyst_notes": "Mostly factual navigation and history with few explicit values. The one mission line is aspirational, and the culture and DEI blurbs use hedged belief language like believes and values. Employees and community get the most attention, with stockholders and customers mentioned only briefly. Voice is first-person plural, and the page is dominated by links and chrome."
+ }
+}

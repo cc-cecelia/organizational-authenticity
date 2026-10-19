@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4708,
+  "output_tokens": 517,
+  "request_id": "req_011CgC9zjkfLL2bDVEXVPbm2"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Values section rewritten: the detailed descriptions of Patients first, Respect for people, Ethics and integrity, and Innovation were removed, leaving only titles. A new DE&I section adds commitments such as \"A DE&I mindset is central to our business growth\". The responsibility and stakeholder statements were dropped."
+ }
+}

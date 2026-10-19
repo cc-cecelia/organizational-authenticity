@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3523,
+  "output_tokens": 123,
+  "request_id": "req_011CgC8kdz8FJtNypbJU5pR9"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 'Coming together with a single goal: to serve you' and 'it is your tomorrow we care about most'; added 'One combined company dedicated to serving investors across every phase of their financial journeys', a shift to investor-service framing. Most other changes are news teasers, awards, footnotes and figures, which are cosmetic."
+ }
+}

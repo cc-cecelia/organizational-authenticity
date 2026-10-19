@@ -1,0 +1,50 @@
+{
+ "label": "SLB 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3522,
+  "output_tokens": 1441,
+  "request_id": "req_011CgC9JBNPLc7Abckcxw9bD"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Our curiosity drives us to better understand what our customers do, how they do it, and what they need to help overcome their challenges."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "it all starts with competent and talented teams working together"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "minimizing environmental footprints"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "maximizing positive influence on the communities in which we live and work"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Our story begins with what it truly means to be a technology innovator."
+   }
+  },
+  "analyst_notes": "Aspirational, identity-driven first-person plural voice centred on innovation as the core theme. Customers are addressed through curiosity and understanding of their needs. Environment and community appear as hedged, process-level aims ('minimizing', 'maximizing') rather than absolute commitments. Safety, integrity and shareholder value are absent. Much text is metaphorical or historical rather than stated values."
+ }
+}

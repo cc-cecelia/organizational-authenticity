@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1775,
+  "output_tokens": 87,
+  "request_id": "req_011CgC8SZWk61ZUnbAgBsfZH"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only navigation chrome changed: the removed lines are the cart link and menu items (ABOUT US, Company, Careers, News, Events). No values, commitments, mission statements or stakeholders were added or removed."
+ }
+}

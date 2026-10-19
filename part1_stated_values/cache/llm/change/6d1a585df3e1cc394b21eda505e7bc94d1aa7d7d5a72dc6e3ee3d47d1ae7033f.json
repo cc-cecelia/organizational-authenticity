@@ -1,0 +1,13 @@
+{
+ "label": "MDT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2694,
+  "output_tokens": 153,
+  "request_id": "req_011CgC8z5FmZxuFBLukkToHt"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page reframes the mission under 'ONE COMPANY, ONE MISSION' and drops the 'Mission Statement' heading and the 'See Patients/Quality/Investors/Careers/Citizenship' cross-links, while the five mission commitments remain word-for-word. It adds a new 'CITIZENSHIP' section on the Foundation and volunteering, a shift toward community emphasis."
+ }
+}

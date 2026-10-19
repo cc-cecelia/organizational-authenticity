@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3620,
+  "output_tokens": 149,
+  "request_id": "req_011CgC8T2deUVGbEVkwhy1Ap"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page shifts emphasis from metaverse and entertainment toward generative AI, AI factories and sustainability. It adds 'Accelerated Computing Is Sustainable Computing' and 'Supercharging Healthcare', and drops 'Powering the Metaverse', 'Turbocharging Science' and the 'Democratizing' section. Culture and mission lines are retained but reframed."
+ }
+}

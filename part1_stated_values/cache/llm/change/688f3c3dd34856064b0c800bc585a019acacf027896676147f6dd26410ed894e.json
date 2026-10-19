@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4270,
+  "output_tokens": 130,
+  "request_id": "req_011CgC8kf5repKpJrnfU6tsS"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2024 drops the 'exists to help people achieve better financial outcomes' purpose and the 'helping improve people's lives' and citizenship lines. It adds 'champions of investors', 'treat clients and colleagues the way we'd like to be treated', 'investments in the success of our employees and the communities', and 'free to be their authentic and full selves'."
+ }
+}

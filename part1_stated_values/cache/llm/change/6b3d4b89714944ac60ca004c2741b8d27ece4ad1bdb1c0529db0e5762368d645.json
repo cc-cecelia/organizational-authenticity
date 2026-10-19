@@ -1,0 +1,13 @@
+{
+ "label": "BAC 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1903,
+  "output_tokens": 98,
+  "request_id": "req_011CgC9y5msPGaZscW7nRmKs"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The only change is a rotating featured-content teaser: 'Investing in women' (empowering women) was replaced by 'Breaking the cycle and ending hunger'. This is a featured initiative promo, not a change to the page's standing values or commitments."
+ }
+}

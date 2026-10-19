@@ -1,0 +1,50 @@
+{
+ "label": "GS 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3324,
+  "output_tokens": 360,
+  "request_id": "req_011CgC8g5gKe83Wg3URTUESx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "to help our clients and the communities we serve"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Our people are our greatest asset."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We focus on cultivating and sustaining a diverse work environment and workforce"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "to help our clients and the communities we serve"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief, factual-leaning page with aspirational lines in the About Us and People sections. Clients are named first, then communities and people. Voice is corporate third person and first-plural (we). Commitments are stated absolutely but briefly. Business description (founding, headquarters, client base) dominates and is not coded as values. Ends with newsletter and site chrome."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5407,
+  "output_tokens": 629,
+  "request_id": "req_011CgC8aQ5wP5bmGb4S95GRV"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Today we are applying our reach, scale, and resources to enable our customers to capitalize more fully on the power of digital technology."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "From the challenging and rewarding work, to the supportive benefits and programs, to the inclusive, welcoming environment, Intel is committed to helping every one of us learn, grow and thrive at work and beyond."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "the inclusive, welcoming environment"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Intel\u2019s longstanding commitment to corporate responsibility and sustainability\u2014built on a strong foundation of transparency, governance, and ethics\u2014is deeply integrated throughout all aspects of our business."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "driving business and society forward by creating radical innovation that revolutionizes the way we live."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We're on the front end of sustained growth in semiconductors and technologies, driven by the digitization of everything."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "built on a strong foundation of transparency, governance, and ethics"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Intel is at the forefront of developing new semiconductor technologies, products, and solutions as building blocks for an increasingly smart and connected world across a broad spectrum of markets."
+   }
+  },
+  "analyst_notes": "Aspirational, confident tone with a grand purpose statement ('world-changing technology'). Customers and innovation lead the framing; employees and sustainability appear as supporting commitments. Mixes first-person plural ('we', 'our') with absolute claims ('uniquely Intel', 'only available to Intel'). Sustainability and ethics appear only in a single brief passage."
+ }
+}

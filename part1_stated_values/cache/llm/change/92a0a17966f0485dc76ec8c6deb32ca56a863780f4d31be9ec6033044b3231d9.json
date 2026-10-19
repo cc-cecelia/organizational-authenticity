@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3094,
+  "output_tokens": 135,
+  "request_id": "req_011CgC8vTpjHdPY2Nc86e4yz"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 'Step ahead. Step beyond.' pledge to push science, plus 'Our Mission is to enable our customers to make the world healthier, cleaner and safer' and 'world leader' framing, were removed. 2022 adds 'We champion science because we're scientists too' and brand-by-brand descriptions emphasizing customers, innovation and therapies."
+ }
+}

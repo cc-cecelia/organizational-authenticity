@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2063,
+  "output_tokens": 110,
+  "request_id": "req_011CgC8tLQvuwLtjW5VUoWvt"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Principles reframed from unifying guidance to 'woven into our decisions' and a new commitment: 'inspire us to make the world a better place' (community purpose added). CEO changed from Richard A. Gonzalez to Robert A. Michael; removed leave-site legal text is chrome."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "COP 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2848,
+  "output_tokens": 166,
+  "request_id": "req_011CgC9HGC54dq5vaGXZgpZF"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Diff is mostly news and social-post teasers swapped out. Added: 'Creating a Pipeline of GHG Reduction Projects', 'Accelerating analytics', and CEO quote on 'capturing additional synergies... generating free cash flow'. Removed: 'Condemning racial injustice, championing human rights' and 'Water Recycling in the Delaware Basin'. Emphasis moves toward shareholder returns and emissions reduction."
+ }
+}

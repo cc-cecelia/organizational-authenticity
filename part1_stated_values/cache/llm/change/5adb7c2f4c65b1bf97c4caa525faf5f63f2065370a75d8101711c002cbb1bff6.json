@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3841,
+  "output_tokens": 164,
+  "request_id": "req_011CgC9BPTU48J9RTahNBw8F"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new commitment: \"We are committed to making a positive, sustainable impact on the world in which we live and conduct business.\" Adds COVID-era emphasis on \"prioritizing the health and safety of our Associates, customers, and communities.\" Also adds \"career in retail\" recruiting prompt and stock-listing chrome; updates facts (sales dropped, headcount, rank) and changes \"customers\" to \"consumers\"."
+ }
+}

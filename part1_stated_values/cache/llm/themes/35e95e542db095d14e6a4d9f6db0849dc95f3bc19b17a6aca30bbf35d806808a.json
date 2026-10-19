@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3918,
+  "output_tokens": 1527,
+  "request_id": "req_011CgC98uDHkD57KmWzGpdn8"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we work hard to ensure your experience is always enjoyable and exciting"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Our team is our greatest asset, so we invest in the growth and development of our team members and leaders"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "As champions of diversity and inclusivity, we're making our business stronger"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe in being an active citizen and good neighbor in our communities"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We\u2019re committed to building a team that does the right thing for our communities, our shareholders and, above all, our guests."
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Find out what drives our focus on design and innovation"
+   }
+  },
+  "analyst_notes": "Warm, first-person plural voice with aspirational headings like 'a fun and rewarding place to work'. Leads with customers and team members, then community and diversity. Commitments are largely absolute ('does not waver', 'we believe'). Figures such as the 100 index score and 5% of profit are used as factual proof points."
+ }
+}

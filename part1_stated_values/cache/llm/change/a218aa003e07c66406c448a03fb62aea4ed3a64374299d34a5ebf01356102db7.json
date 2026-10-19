@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5530,
+  "output_tokens": 117,
+  "request_id": "req_011CgC9ygYeNxeFv3nuJoXBa"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2019 version swaps out news teasers, social posts, legal footnotes, and award/ranking promos for new featured content: a 'What we do' statement, a citizenship teaser, updated figures, and new accolades. Its standing mission or values statements are largely unchanged, so the change is cosmetic."
+ }
+}

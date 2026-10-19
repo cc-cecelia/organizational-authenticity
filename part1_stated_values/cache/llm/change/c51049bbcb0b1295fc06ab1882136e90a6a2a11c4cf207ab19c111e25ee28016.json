@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2147,
+  "output_tokens": 106,
+  "request_id": "req_011CgC9zR8Edq8PtP58FfevA"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2023 version adds mostly chrome: a browser-support notice, skip link, redirect/leaving-site notice and a 'Continue' button, plus a Credo history paragraph. The Credo itself and its stated values were not changed, so no standing value statement shifted."
+ }
+}

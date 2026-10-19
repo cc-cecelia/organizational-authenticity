@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3022,
+  "output_tokens": 125,
+  "request_id": "req_011CgC8qxLLMhHH7RJ5rt1Lx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Values were rewritten: the detailed 2023 Integrity, Compassion, Relationships, Innovation and Performance statements were replaced by shorter 2024 versions, and Inclusion was added as a sixth value. Sustainability and access/affordability commitments were added, and a new 'Driven By Our Mission' section appeared."
+ }
+}

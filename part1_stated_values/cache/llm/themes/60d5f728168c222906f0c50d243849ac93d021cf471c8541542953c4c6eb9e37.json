@@ -1,0 +1,50 @@
+{
+ "label": "SCHW 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4432,
+  "output_tokens": 1372,
+  "request_id": "req_011CgC8jC2ekiHx2m6FaS1KX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Schwab scored \"Highest in Investor Satisfaction with DIY Self-Directed Services\" in the 2019 Self-Directed Investor Satisfaction Study."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're investing our resources where we can make the most difference in areas that align with our business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Schwab continues to earn high praise for its heritage of innovation"
+   }
+  },
+  "analyst_notes": "Mostly factual, award-heavy page with aspirational opening lines. Customers come first, through satisfaction accolades and the claim that Schwab exists to help people achieve better financial outcomes. Voice is corporate 'we' with absolute phrasing ('we believe'). Citizenship commitment is hedged ('where we can'). Employees, DEI, environment and integrity are absent."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "NKE 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4013,
+  "output_tokens": 1751,
+  "request_id": "req_011CgC97MosjErSyDS8qyxks"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Our team shares a singular goal: to make all athletes better."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "To help everyone on our team to realize their full potential"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "At Nike, diversity is about acknowledging and valuing our differences."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We believe in a fair, sustainable future\u2014one where everyone thrives on a healthy planet and level playing field."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "by making a positive impact in communities where we live and work."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "we're holding ourselves accountable for progress"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "by creating groundbreaking sport innovations"
+   }
+  },
+  "analyst_notes": "Aspirational, athlete-centred framing using first-person plural 'we' and 'our'. Mission-led and headline-driven, with innovation, diversity and community leading. Commitments are mostly stated as beliefs or aims rather than measurable targets. Financial and safety content is absent. Wording such as 'Standing Up For Our Values' and 'demanding a better future' gives a strong, activist tone."
+ }
+}

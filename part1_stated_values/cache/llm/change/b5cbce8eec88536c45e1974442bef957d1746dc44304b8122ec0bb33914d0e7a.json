@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1943,
+  "output_tokens": 110,
+  "request_id": "req_011CgCA19mXLtsgFCx7pQ25P"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The featured item changed from a Latino healthcare disparities story about founder Venus Gin\u00e9s to a stated commitment: 'we are committed to advancing health equity' and 'creating access to quality care for all', with a new 'Social Justice' headline. This adds an explicit equity and access commitment."
+ }
+}

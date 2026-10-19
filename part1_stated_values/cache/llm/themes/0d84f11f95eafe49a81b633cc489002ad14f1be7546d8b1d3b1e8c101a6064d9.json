@@ -1,0 +1,50 @@
+{
+ "label": "NVDA 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3408,
+  "output_tokens": 1170,
+  "request_id": "req_011CgC8RjQHr6UkMmBvqaA68"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "commitment to market leadership"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Sound ethics guide our business."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "NVIDIA has pioneered visual computing, the art and science of computer graphics."
+   }
+  },
+  "analyst_notes": "Mostly factual and business-descriptive, with a few absolute claims such as 'The world leader' and 'Sound ethics guide our business.' Uses first-person plural ('we offer', 'Our work'). Addresses markets and technology trends first, with little on employees or society. Values appear only briefly, and the careers and research blurbs read as promotional."
+ }
+}

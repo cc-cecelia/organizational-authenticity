@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4942,
+  "output_tokens": 157,
+  "request_id": "req_011CgC8aauK6bVGhw2Wu6LP8"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page centered on a $300 million Diversity in Technology initiative and rankings; the 2020 page adds a 'Our Purpose' statement, a stated values list (customer obsessed, truth and transparency, inclusion), 'Global Impact' and a '2030 Strategy and Goals' commitment to society, sustainability and climate. Clear shift in emphasis toward stated purpose and stakeholder commitments."
+ }
+}

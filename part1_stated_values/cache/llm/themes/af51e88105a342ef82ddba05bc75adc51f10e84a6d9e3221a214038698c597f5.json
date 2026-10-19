@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3914,
+  "output_tokens": 1313,
+  "request_id": "req_011CgC9Ap4HLfSBdU71eh71b"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "our mission is to deliver great value to our customers through the combination of brand, fashion, price, and quality"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "we have delivered steady sales and earnings growth and some of the highest returns on investment we have seen in retail"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas"
+   }
+  },
+  "analyst_notes": "Factual and self-promotional, written in first-person plural. Customer value and financial growth lead, with returns and sales history stressed. Claims are often absolute ('one of the most flexible business models in the world', 'leaders in innovation'), softened by 'we believe'. Employees appear only as a headcount figure, and no environmental, safety, or DEI commitments are made."
+ }
+}

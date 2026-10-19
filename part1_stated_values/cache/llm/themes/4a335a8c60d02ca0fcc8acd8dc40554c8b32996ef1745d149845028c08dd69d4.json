@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3669,
+  "output_tokens": 499,
+  "request_id": "req_011CgC9Qf2SgCvgQTMm545E5"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work together with customers and understand that everyone has a role in providing the best solution."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Employees that form a talented, global team"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We value diversity and equality. It makes us stronger, more innovative, and better positioned for success."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "advance a sustainable energy future."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Enhancing the economic and social well-being of the communities where we live and operate is among our most enduring principles."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "meeting the needs of our customers, shareholders, and global communities."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Priority number one. We are focused on our own personal safety as well as the safety of others."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are resourceful. We are innovative and strive to apply the right technology and solution every time."
+   }
+  },
+  "analyst_notes": "Mostly declarative, with a short list of named values using imperative and first-person plural voice (we value, we are committed). Safety and integrity lead as headline values; diversity commitment is explicit but brief. Shareholder and environment content is thin and largely business-description, and the page ends with a self-praising collaboration claim."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1683,
+  "output_tokens": 110,
+  "request_id": "req_011CgC8F3fpjJ1KN1gDBov29"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 'Philanthropies' and 'Trustworthy Computing' sections and the 'inclusive, transparent, and respectful of human rights' language. Added a belief that technology is 'a powerful force for good' and a commitment to 'a sustainable future' with broad access to technology."
+ }
+}

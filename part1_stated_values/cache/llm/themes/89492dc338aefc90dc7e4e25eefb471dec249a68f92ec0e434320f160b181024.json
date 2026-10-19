@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4862,
+  "output_tokens": 1313,
+  "request_id": "req_011CgC8dgu3xwRae1YyJAw3P"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We have to be client focused."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "being a great place to work for our teammates"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "sharing our success with our communities"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We have to grow \u2014 no excuses."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Part of driving responsible growth is maintaining strong guidelines for business practices and professional and personal conduct"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Assertive first-person plural voice with absolute framing ('no excuses', 'resolute'), organized around 'responsible growth' and growth-led purpose. Growth and clients lead, with employees and communities appearing briefly. Commitments are stated firmly, though a disclaimer calls goals aspirational. Much of the page is legal disclaimer text, which is uncoded."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3146,
+  "output_tokens": 342,
+  "request_id": "req_011CgC8WfBBD2KXeDjh4mTi8"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We can create more extraordinary experiences for our customers and that will move us forward."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Join the community"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief page dominated by a customer testimonial and site navigation. Customer focus is the only substantive value, framed through a partner's quoted voice rather than the company's own first-person commitment. Other items are calls to action or chrome: 'Join the community' is an event prompt, and 'Focusing on customers has its rewards' is an awards link. No hedged or absolute commitments are stated by the company itself."
+ }
+}

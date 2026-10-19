@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2096,
+  "output_tokens": 407,
+  "request_id": "req_011CgCA3eHpcX4NVBTotCMm2"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly reordering: the 'diversity and inclusion' value text moved and the 'Chevron Way' intro was added. Also added 'getting results the right way', a 'transcript available' promo and 'translations'. No value or commitment was added, removed or reworded in meaning."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "WFC 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3809,
+  "output_tokens": 1704,
+  "request_id": "req_011CgC8e8csmMEoYCxgG3vdW"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "putting our customers first and helping them succeed financially"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "every Wells Fargo team member can help us get there"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "guide us toward continued growth and success for decades to come"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "When we've made mistakes, we've admitted them, we've learned from them"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Heritage-focused and first-person plural, with a retrospective, reassuring tone. Customers are named as the priority in the closing paragraph. Commitments are mostly absolute ('must never lose sight'), while accountability is framed through admitted mistakes. Much of the text is business scale description, which is not coded as values."
+ }
+}

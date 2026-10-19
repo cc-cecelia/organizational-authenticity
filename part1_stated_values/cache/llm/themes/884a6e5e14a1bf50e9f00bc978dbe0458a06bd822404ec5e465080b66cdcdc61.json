@@ -1,0 +1,50 @@
+{
+ "label": "IBM 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3859,
+  "output_tokens": 1181,
+  "request_id": "req_011CgC8Y4VuMXpTg6BnUnS2h"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Dedication to every client's success."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "IBMers came together to define the essence of the company"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "actively build relationships with all the constituencies of our business"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Trust and personal responsibility in all relationships."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation that matters - for our company and for the world."
+   }
+  },
+  "analyst_notes": "Aspirational, values-led framing that uses first-person plural and internal IBMers voice. Client success is listed first and innovation and trust follow as headline values. Commitments are largely absolute ('strive to be first', 'rely on our colleagues'). Includes a Palmisano quote that treats values as more than ethics and compliance. Stakeholders beyond clients are addressed only briefly."
+ }
+}

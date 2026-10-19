@@ -1,0 +1,13 @@
+{
+ "label": "GS 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4915,
+  "output_tokens": 114,
+  "request_id": "req_011CgC8fz4ypHy2ELxpY6PxA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the 2018 Business Principles and Standards text with an extensive People and Culture and Diversity and Inclusion section, adding stated commitments to a diverse workforce, inclusion and women's advancement. This marks a major shift in emphasis toward workforce and DEI values."
+ }
+}

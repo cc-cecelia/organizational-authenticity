@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2081,
+  "output_tokens": 140,
+  "request_id": "req_011CgC9Lwa183hX7ipxHjjem"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new value, \"Behave ethically in all we do\" (integrity), and strengthens safety with \"unwavering commitment\" plus \"every day\". Also adds framing of values as core to success and stakeholder treatment. Drops the \"accident-free\" wording, changing emphasis from zero-accident to zero-incident/injury, and removes the automobile history line."
+ }
+}

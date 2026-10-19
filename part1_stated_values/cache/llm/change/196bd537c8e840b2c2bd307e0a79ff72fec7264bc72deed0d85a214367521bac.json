@@ -1,0 +1,13 @@
+{
+ "label": "JPM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3421,
+  "output_tokens": 137,
+  "request_id": "req_011CgC9y4fPVeTmAXTV2bSUS"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a 'Exceptional Client' heading and new bullet principles: customer advocacy, anti-complacency, fair compensation with a balanced scorecard, employee wellbeing, humility and openness, lifelong learning, and fighting 'social, racial and economic inequities'. Adds 'communities' to the integrity list and 'For more than two centuries' wording."
+ }
+}

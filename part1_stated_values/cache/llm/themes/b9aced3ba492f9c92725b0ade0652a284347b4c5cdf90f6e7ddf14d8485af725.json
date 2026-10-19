@@ -1,0 +1,50 @@
+{
+ "label": "C 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4218,
+  "output_tokens": 2112,
+  "request_id": "req_011CgC8noa99K2wmgXCKWbux"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "empathize the needs of our clients and customers in ways that other banks simply cannot"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Our diverse leadership team is committed to stewarding a firm known for excellence."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "committed to ESG"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We set goals and we hold ourselves accountable to reaching them."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We are transforming Citi into a modern, simpler, more efficient bank."
+   }
+  },
+  "analyst_notes": "Confident, aspirational, largely factual tone built on scale statistics. Speaks mainly to clients and customers, with first-person plural 'we'. ESG and societal commitments are framed as beliefs and self-accountability rather than hard targets. Workforce, safety and shareholder returns are largely absent."
+ }
+}

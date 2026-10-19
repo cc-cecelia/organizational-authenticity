@@ -1,0 +1,13 @@
+{
+ "label": "F 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4252,
+  "output_tokens": 142,
+  "request_id": "req_011CgC9CcCT9SfAMUcTuu1bk"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the 2018 vision and Quality/Safe/Green/Smart pillars with a new belief and aspiration: \"Freedom of movement drives human progress\" and \"the world's most trusted company.\" It adds commitments on clean-running cars, customer-centered products, AV design around humans, and data protection. Community, sustainability, and quality language is removed."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4329,
+  "output_tokens": 139,
+  "request_id": "req_011CgC9ys6f4AWRKL8Lb2nFr"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Old mission \"exists to help people achieve better financial outcomes\" and Citizenship/Careers blurbs removed; new text adds \"We are champions of investors\", \"Main Street investors\", \"most trusted leader\", \"more human approach\", and \"free to be their authentic and full selves\", shifting values toward client advocacy, trust, and employee inclusion."
+ }
+}

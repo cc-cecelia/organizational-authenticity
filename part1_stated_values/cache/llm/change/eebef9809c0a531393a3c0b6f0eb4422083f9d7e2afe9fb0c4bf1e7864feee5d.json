@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1836,
+  "output_tokens": 131,
+  "request_id": "req_011CgC8Xw1hUyttKE7yuhNts"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a COVID-19 section: 'Oracle is helping government agencies and the medical community better understand and combat the coronavirus,' a new commitment to public-health and community support. Also adds 'Contact Sales' and 'Why Oracle' and removes 'Partners', 'Solutions' and the cloud product heading, mostly navigation changes."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4116,
+  "output_tokens": 133,
+  "request_id": "req_011CgC9yprTVVSboCE4zSEMd"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly rotating content and updated facts: new featured teasers (Crypto/NBA, Community Ambassadors), updated client-asset figures, new Fed CCAR news, awards and disclosures refreshed for 2022, plus 'Learn more >' links. The 'What We Do' mission statement is unchanged; no standing values were added or removed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3456,
+  "output_tokens": 2042,
+  "request_id": "req_011CgC99vjM573uCZ7VXzwYu"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "The promise of surprises, fun, ease and inspiration at every turn, no matter when, where or how you shop."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "It gets our teams excited to come to work each day."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We\u2019re dedicated to being a good neighbor and working with our communities and partners to make life a little better everywhere we do business."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Our durable business model is designed to stand the test of time and differentiate us in the marketplace."
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice that leads with customer joy and surprise rather than factual metrics. Purpose is stated absolutely ('That's our purpose'), while community commitments are framed as dedication to being a good neighbor. Financial, governance, safety and ethics content is absent; history and workforce facts are presented as business description."
+ }
+}

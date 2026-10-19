@@ -1,0 +1,50 @@
+{
+ "label": "JPM 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3495,
+  "output_tokens": 1489,
+  "request_id": "req_011CgC8cEjRZoyE1gF4csFEn"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Exceptional Client Service"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "A Great Team and Winning Culture"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "always be there for our clients and communities"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "grow our company over time"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "A Commitment to Integrity, Fairness and Responsibility"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with short headline-driven sections. Leads with clients and customer service, then integrity and team culture. Hedges outcomes ('We cannot promise specific outcomes') while making firm commitments to honesty and integrity. Shareholders, environment, DEI, safety and innovation are absent or minimal."
+ }
+}

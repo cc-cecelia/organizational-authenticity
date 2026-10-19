@@ -1,0 +1,50 @@
+{
+ "label": "ABBV 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 6407,
+  "output_tokens": 1598,
+  "request_id": "req_011CgC8s35rhcxYz3DhCrMk2"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "providing life-changing products to patients who need them"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "From respected employer practices to environmental stewardship"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "have a positive impact on patients\u2019 lives, on societies"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We\u2019re focused on sustainable growth"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Our commitment to ethics and compliance guides each of us, every single day."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Research and innovation are the cornerstones of our business."
+   }
+  },
+  "analyst_notes": "Confident, aspirational tone in first-person plural, with broad claims such as 'we're really just getting started'. Science, research and patients lead the framing. Ethics & compliance is a dedicated, structured section. Much of the page is recognition, scale and an acquisition disclaimer, which is chrome or business description. Commitments are mostly stated absolutely."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "JNJ 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3658,
+  "output_tokens": 1393,
+  "request_id": "req_011CgC8qoBuaTqifJ9dH8a7Y"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We believe our first responsibility is to the doctors, nurses and patients, to mothers and fathers and all others who use our products and services."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We are responsible to our employees, the men and women who work with us throughout the world."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "There must be equal opportunity for employment, development and advancement for those qualified."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "protecting the environment and natural resources"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We are responsible to the communities in which we live and work and to the world community as well."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our final responsibility is to our stockholders."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We must provide competent management, and their actions must be just and ethical."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "working conditions clean, orderly and safe"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Research must be carried on, innovative programs developed and mistakes paid for."
+   }
+  },
+  "analyst_notes": "Prescriptive, first-person plural voice built on 'must' and 'responsible to', ordered as a sequence of stakeholder duties: customers first, then employees, communities and stockholders. Framed through the 1943 Credo, with 'We believe' hedging the business-success claim. Commitments are absolute, while environment and safety appear only briefly."
+ }
+}

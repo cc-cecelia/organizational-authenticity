@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2037,
+  "output_tokens": 125,
+  "request_id": "req_011CgC9FRyPHhAarbWz5hMSd"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2020 adds 'The Chevron Way' framing text: 'getting results the right way' and 'energy that improves lives and powers the world forward', plus a 'Chevron Way evolution' link. The diversity and inclusion passage is removed from the page, though it appears in the diff as both removed and re-added, so the net effect is unclear."
+ }
+}

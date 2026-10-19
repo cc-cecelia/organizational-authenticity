@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3638,
+  "output_tokens": 144,
+  "request_id": "req_011CgCA64RTDqKFktR5QAovZ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new values section (Integrity, Safety, Collaboration, Creativity, Reliability, Respect) and drops 'We compete to win', plus the diversity/inclusion commitment and R&D-to-community continuous improvement text. Also adds a 'Prioritizing safe, thriving communities' principle and 'Dedication to a sustainable future' section, shifting emphasis."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2487,
+  "output_tokens": 118,
+  "request_id": "req_011CgC9xWLi63NoRwRPxkh5k"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 'bringing people together' mission (relationships, unity, leaving the planet better, trust and respect) is replaced by a customer-focused identity: 'the Customer Company' and 'customer focus remains.' Pledge 1% count updated from 15,000 to 17,000 companies (a fact update)."
+ }
+}

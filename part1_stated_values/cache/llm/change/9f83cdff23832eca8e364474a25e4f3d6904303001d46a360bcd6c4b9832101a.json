@@ -1,0 +1,13 @@
+{
+ "label": "LLY 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2004,
+  "output_tokens": 114,
+  "request_id": "req_011CgC9z7dGptPF8nfQokN7m"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page adds a new section stating three core values: Integrity (lawful, honest dealings), Excellence (pharmaceutical innovation, high-quality products, superior results), and Respect for People (mutual respect, concern for all stakeholders). These stated values were absent from the 2016 page."
+ }
+}

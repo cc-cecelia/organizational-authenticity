@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2497,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9zqE4z3BX59WHVB3ws"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The mission statement ('make the world healthier, cleaner and safer') is retained. Updated figures (revenue $24B to $25B, employees 70,000 to 75,000) and reworded business description. Added a new 'Step ahead. Step beyond.' pledge to push science and technology, which adds innovation emphasis."
+ }
+}

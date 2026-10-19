@@ -1,0 +1,13 @@
+{
+ "label": "UNH 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2190,
+  "output_tokens": 103,
+  "request_id": "req_011CgC9zDAtLZexkNJ8VHYJS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts and figures only: countries rose from 130 to 140, technology investment from $3.5B to $3.6B, and workforce from 305K to 325K, with clinical staff restated as about 122,000 clinicians. No mission, values or commitments changed."
+ }
+}

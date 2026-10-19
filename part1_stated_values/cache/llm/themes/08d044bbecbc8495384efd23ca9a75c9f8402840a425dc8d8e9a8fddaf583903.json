@@ -1,0 +1,50 @@
+{
+ "label": "F 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3354,
+  "output_tokens": 1271,
+  "request_id": "req_011CgC9D56DWztpF8MweVr7P"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "we've worked to earn their trust, every single day."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "prioritizing the wellbeing of our employees and community members"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "aligning business practices with societal and environmental imperatives"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "To help build a better world, where every person is free to move and pursue their dreams."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We've innovated to expand their opportunities."
+   }
+  },
+  "analyst_notes": "Aspirational, purpose-led framing centred on freedom of movement, dreams and a better world for society and future generations. Mostly first-person plural with some generic 'every person' language. Commitments are stated absolutely ('we do what we do best'). Stakeholder focus is broad societal; customers, employees and environment appear only briefly. Financial and safety themes are absent."
+ }
+}

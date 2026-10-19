@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2460,
+  "output_tokens": 132,
+  "request_id": "req_011CgC8ug2BA9Z4pLAwAF5G2"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly updated facts (revenue $17B to $18B, employees 50,000 to 55,000), dropped ticker and 'About' heading, and a headline reworded to 'Devoted to Science and Finding Answers'. The mission statement ('enable our customers to make the world healthier, cleaner and safer') is unchanged, so no value shift."
+ }
+}

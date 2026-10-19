@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4550,
+  "output_tokens": 1729,
+  "request_id": "req_011CgC8dNbDpiZpPbJSVEPj2"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We're focused on serving our clients to help them live their financial lives."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We want our employees to reach their full potential."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We believe that diverse backgrounds and experiences make us stronger."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We deliver for clients, communities and shareholders"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Our leaders deliver for our clients and shareholders through a strategy of responsible growth"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We believe that integrity and the disciplined management of risk form the foundation of our business."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly first-person plural and aspirational ('We believe', 'We strive', 'We want'), with absolute rather than hedged wording. Clients lead the framing, followed by shareholders, communities and integrity via 'disciplined management of risk'. Safety, environment and innovation are absent. Much of the text is navigation and investor-relations links, which are not coded as values."
+ }
+}

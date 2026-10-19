@@ -1,0 +1,13 @@
+{
+ "label": "IBM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5152,
+  "output_tokens": 133,
+  "request_id": "req_011CgC9xp44yVvaZJG1uGsWF"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly layout and reformatting, plus rotating content: the 2023 timeline of historical milestones was removed and a few featured items were added. The IBM Sustainability Accelerator and SkillsBuild promos were added, and 'Creativity at work' and business-unit blurbs were reworded or relinked. No mission or values statements changed in meaning."
+ }
+}

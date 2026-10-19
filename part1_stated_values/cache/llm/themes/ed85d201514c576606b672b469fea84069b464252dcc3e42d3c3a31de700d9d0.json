@@ -1,0 +1,50 @@
+{
+ "label": "ABT 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3414,
+  "output_tokens": 1225,
+  "request_id": "req_011CgC8wVNGoNfbejRLC2kUk"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "bringing life-changing health technologies to the people who need them"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our purpose is to make the world a better place"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, consumer-facing tone built on the headline 'Abbott is in the business of life' and lifestyle language ('live your best life', 'live fully'). Commitments are stated absolutely in first-person plural ('our purpose', 'our commitment'). Patients and individuals are addressed first; employees, governance and financial matters are absent. Most text is chrome or legal disclaimers, with little operational detail."
+ }
+}

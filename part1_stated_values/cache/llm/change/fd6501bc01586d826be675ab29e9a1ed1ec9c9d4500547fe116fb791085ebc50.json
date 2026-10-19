@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2129,
+  "output_tokens": 128,
+  "request_id": "req_011CgC8wSnjhoHzYYwhgniMX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds an explicit purpose statement: \"our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them\", framed as a commitment to patients and communities. The 2018 anthem about discovering ways to make life better through health is removed, replacing its broad framing with a concrete technology-focused mission."
+ }
+}

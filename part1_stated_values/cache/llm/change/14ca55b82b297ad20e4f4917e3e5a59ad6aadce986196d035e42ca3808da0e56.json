@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2506,
+  "output_tokens": 148,
+  "request_id": "req_011CgC8S2i6SBEmBTTGUn3t4"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page drops the 'visual computing' framing and 'passionate culture' and 'Sound ethics guide our business' lines, and adds a GPU/AI narrative ('ignited modern AI') plus a 'Read the policies that help guide how we conduct business' line. Emphasis shifts from visual computing toward AI and self-driving cars, with Citizenship replaced by Sustainability."
+ }
+}

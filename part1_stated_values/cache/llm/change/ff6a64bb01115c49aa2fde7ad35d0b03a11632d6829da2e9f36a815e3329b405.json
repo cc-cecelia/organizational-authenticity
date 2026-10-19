@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3900,
+  "output_tokens": 329,
+  "request_id": "req_011CgCA32ASjKuQhxx9d5KYS"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new standing commitment: \"We are committed to making a positive, sustainable impact on the world in which we live and conduct business.\" Also adds a COVID-era priority on \"the health and safety of our Associates, customers, and communities.\" Mission is unchanged; most other edits are updated figures."
+ }
+}

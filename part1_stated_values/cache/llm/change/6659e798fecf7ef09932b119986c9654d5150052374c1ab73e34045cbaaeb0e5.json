@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2396,
+  "output_tokens": 139,
+  "request_id": "req_011CgC8rA9EcfZ3YnjnDTwg9"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page adds the full Credo text: responsibilities to customers ('doctors, nurses and patients'), employees ('dignity and recognize their merit'), communities ('good citizens', 'protecting the environment'), and stockholders ('make a sound profit', 'experiment with new ideas'). Only the hyphen in 'decision-making' changed in the original sentence."
+ }
+}

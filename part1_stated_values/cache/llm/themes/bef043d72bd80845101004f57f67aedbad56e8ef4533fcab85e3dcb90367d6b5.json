@@ -1,0 +1,50 @@
+{
+ "label": "META 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3672,
+  "output_tokens": 1750,
+  "request_id": "req_011CgC8Un861TmdhwvWExV1p"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "working together to connect people all over the world"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "That\u2019s why it\u2019s important that our workforce reflects the diversity of the people we serve."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Supported by 100% renewable energy"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Give people the power to build community and bring the world closer together."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Keep People Safe and Protect Privacy"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We have a responsibility to promote the best of what people can do together by keeping people safe and preventing harm."
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "we are constantly iterating, solving problems and working together"
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing in first-person plural ('we', 'our'), leading with community and connection. Principles are stated as firm beliefs ('what we stand for'), but some claims are hedged ('when they're at their best'). Business and scale facts (users, messages, offices) sit alongside values with little separation. Stakeholders addressed first are users and communities; shareholders and investors are largely absent."
+ }
+}

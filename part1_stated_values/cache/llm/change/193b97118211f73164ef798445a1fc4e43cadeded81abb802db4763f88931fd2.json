@@ -1,0 +1,13 @@
+{
+ "label": "F 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2006,
+  "output_tokens": 132,
+  "request_id": "req_011CgC9DWtjhJ7mZuPcJHo8P"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page adds a commitment to 'prioritizing the wellbeing of our employees and community members' and to 'aligning business practices with societal and environmental imperatives,' emphasizing employee and community stakeholders. The 2023 'measurable gains against ambitious environmental sustainability targets' framing is removed. Other changes are report-year updates."
+ }
+}

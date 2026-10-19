@@ -1,0 +1,13 @@
+{
+ "label": "MS 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2428,
+  "output_tokens": 130,
+  "request_id": "req_011CgC8hp6W8jwZy2gmuRtCv"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added 'Building a Future We Believe In' stating the firm will 'prioritize diversity and inclusion' and 'give back' to 'communities', a new values section. Also added 'Why Us' and 'Why Morgan Stanley' passages on client focus. Headcount, years and country figures updated; news teasers and CTAs changed as chrome."
+ }
+}

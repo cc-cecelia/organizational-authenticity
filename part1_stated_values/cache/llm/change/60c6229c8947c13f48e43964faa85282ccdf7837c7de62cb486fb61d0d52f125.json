@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2089,
+  "output_tokens": 119,
+  "request_id": "req_011CgCA5xT2xKZmjBqyac1Br"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only the business description changed: headcount rose from \"approximately 50,000 employees\" to \"over 55,000 employees\", country count from \"approximately 70 countries\" to \"more than 80 countries\", and the lifecycle wording was reworded. No mission, values or stated commitments changed in meaning."
+ }
+}

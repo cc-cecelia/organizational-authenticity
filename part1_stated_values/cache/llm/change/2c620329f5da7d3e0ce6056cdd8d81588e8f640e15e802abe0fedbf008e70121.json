@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2030,
+  "output_tokens": 116,
+  "request_id": "req_011CgC9QZWJkKi9FxumJsUVR"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only updated facts and rewording of the business description: headcount changed from approximately 50,000 to over 55,000 and countries from approximately 70 to more than 80. Added \"helps its customers maximize value\" is a light phrasing shift, but no value, commitment, or stakeholder is added or removed."
+ }
+}

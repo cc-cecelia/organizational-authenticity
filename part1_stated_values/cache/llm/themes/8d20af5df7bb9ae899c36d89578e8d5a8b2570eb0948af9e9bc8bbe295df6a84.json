@@ -1,0 +1,50 @@
+{
+ "label": "XOM 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3415,
+  "output_tokens": 1169,
+  "request_id": "req_011CgC8FSJMyHnXL147E6jay"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We must continuously achieve superior financial and operating results"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Our commitment to high ethical standards, compliance and integrity is reflected in our safety and environmental policies and practices."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "reflected in our safety and environmental policies and practices"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "uses technology and innovation to help meet the world\u2019s growing energy needs"
+   }
+  },
+  "analyst_notes": "Mostly factual business description, with brief absolute commitments ('must', 'our commitment'). Shareholder performance is stated first, with ethics paired alongside it. First-person plural voice. Most of the page is product and location lists. No stakeholder beyond shareholders and integrity is addressed, and no hedged language appears."
+ }
+}

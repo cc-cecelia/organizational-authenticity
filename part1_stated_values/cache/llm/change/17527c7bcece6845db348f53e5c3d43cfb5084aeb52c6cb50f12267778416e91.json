@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2084,
+  "output_tokens": 143,
+  "request_id": "req_011CgC8Yc2iWwSWdb3uZ2p8k"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 2014 leadership and 2014 startup-support history entries; added Cerner acquisition tied to a mission to \"Build and deploy integrated, mostly automated healthcare information systems and processes,\" plus Red Bull Racing F1 Oracle Cloud partnership and accessibility keyboard tip. Adds a healthcare mission statement, shifting emphasis."
+ }
+}

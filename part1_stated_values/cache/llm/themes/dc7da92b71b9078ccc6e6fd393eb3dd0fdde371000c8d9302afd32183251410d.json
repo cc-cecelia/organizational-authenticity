@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4057,
+  "output_tokens": 1721,
+  "request_id": "req_011CgC8wcNxBpzaKNB5htocH"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We strive to provide access to safe, effective and affordable medicines and related health care services to the people who need them."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "we are committed to creating an environment where our colleagues can achieve success while contributing to the improved health of the world"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "nurturing a workplace of diversity and inclusion for our colleagues"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "giving back to the communities where we work and live"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "continue to deliver on our commitments to the patients, customers and shareholders who rely on us"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "we are committed to upholding the highest ethical standards in everything from research and development to sales and marketing"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "We strive to set the standard for quality, safety and value in the discovery, development and manufacture of health care products."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "we are dedicated to making continual progress in innovation by investing our resources wisely"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice ('we are committed', 'we strive') with absolute commitment wording. Leads with patients and health access, then customers, colleagues and communities. Shareholders appear only in a single passing clause. Career section frames employees around shared purpose rather than specific workforce terms. Safety and environment are minimal or absent."
+ }
+}

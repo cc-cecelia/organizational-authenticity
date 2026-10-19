@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3122,
+  "output_tokens": 1166,
+  "request_id": "req_011CgCA2ZsPkD1Jg4hcFGZDB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "our commitment to the highest quality coffee in the world"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "we've tried to make it a little better than we found it"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "to do business responsibly"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Warm, aspirational tone built on a single customer moment and the idea of connection. Uses first-person plural throughout. Pairs an absolute claim ('we make sure everything we do honors that connection') with hedged effort ('we've tried'). Customers and communities are addressed first; employees, shareholders and environment are absent. Commitments are general and unquantified."
+ }
+}

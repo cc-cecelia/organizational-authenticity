@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3672,
+  "output_tokens": 421,
+  "request_id": "req_011CgC9BXh4BMB6B73jBgRdG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our mission is to deliver great value to our customers every day."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "With stores and offices around the world, there is a breadth of opportunities at TJX to discover a career in retail."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Corporate Responsibility is an important part of how we conduct our business."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "our strong financial results and cash generation have allowed us to simultaneously invest in the growth of the business and return cash to shareholders."
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Factual and customer-led, with the mission statement placed first and framed around value and price (20% to 60% below full-price retailers). Shareholder returns appear as a secondary, descriptive point. Third-person corporate voice mostly, with some first-person plural (we, our). Commitments are stated absolutely. Corporate responsibility is referenced only through a generic link with no specifics."
+ }
+}

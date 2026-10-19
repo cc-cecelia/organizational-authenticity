@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3152,
+  "output_tokens": 1231,
+  "request_id": "req_011CgC8wzHpeqdou4XYgTgW9"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're focusing on eliminating it by 2020."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Sparse page dominated by headlines and news teasers, so most content is chrome. The only values content addresses global health and disease elimination, framed through community. It uses first-person plural with a hedged, dated goal ('focusing on', 'by 2020') and an aspirational UN Sustainable Development Goals reference. Workforce, shareholder and integrity themes are absent."
+ }
+}

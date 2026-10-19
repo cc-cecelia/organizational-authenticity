@@ -1,0 +1,13 @@
+{
+ "label": "GS 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4974,
+  "output_tokens": 128,
+  "request_id": "req_011CgC9yJVMN7LKSFnTp7soA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the 2018 'Business Principles and Standards' framing with extensive new material on people, diversity and inclusion, and women's advancement, adding stated commitments such as 'Our commitment to creating and sustaining a diverse work environment is absolute.' Emphasis shifts strongly toward DEI and workforce values."
+ }
+}

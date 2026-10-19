@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5027,
+  "output_tokens": 123,
+  "request_id": "req_011CgC9yibRUHH9wPi77iNcb"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2020 About page swaps 2019 figures and award accolades for 2020 ones, updates client assets to $4.0T and employees to 20,200, and adds news teasers. The mission line 'Charles Schwab exists to help people achieve better financial outcomes' persists, only reordered. No standing values or commitments change."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1978,
+  "output_tokens": 103,
+  "request_id": "req_011CgC9xjCMgDTsxh5eLEYGW"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Removed search-error text and changed the 'Diversity and Inclusion' heading to 'Culture and Inclusion'; the rest is navigation and sign-up chrome. No standing commitments or values were materially reworded in meaning, so this is cosmetic."
+ }
+}

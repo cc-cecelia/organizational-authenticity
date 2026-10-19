@@ -1,0 +1,50 @@
+{
+ "label": "PSX 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4080,
+  "output_tokens": 1863,
+  "request_id": "req_011CgC9MXg6iBYHiJoYgn17v"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "providing access to the energy which is essential to a high standard of living and health throughout the world"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Our employees are dedicated to building capability, pursuing excellence and doing the right thing"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we are committed to safety, reliability and environmental stewardship"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "improving lives by providing access to the energy which is essential to a high standard of living and health throughout the world"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "living out our values of safety, honor and commitment"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "living out our values of safety, honor and commitment"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "is the time to try new things"
+   }
+  },
+  "analyst_notes": "Upbeat, aspirational opener ('We are excited about the future') in first-person plural. Financial commitments are the most explicit and absolute ('We are committed to'). Safety and shareholders recur most. Community framing ('Improving Lives') is headline-level but thinly elaborated. History and company facts are factual and carry no values."
+ }
+}

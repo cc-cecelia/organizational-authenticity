@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5610,
+  "output_tokens": 2346,
+  "request_id": "req_011CgC8aAqi8ytYyhy3p7KcZ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our customers\u2019 success is our obsession."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "diversity and inclusion initiatives"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Our customers rely on Intel technologies to make roads safer, combat climate change"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Harness our reach around the globe to better society, business, and the planet."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Our values \u2014 customer obsessed, One Intel, fearless, truth and transparency, inclusion and quality \u2014 guide how we make decisions"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Our customers rely on Intel technologies to make roads safer"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Intel is working relentlessly to unleash the potential of data"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute language such as 'We promise' and 'our obsession'. Headlines emphasize innovation, customers and purpose. Social, climate and inclusion items appear as brief, general list items or 'catalyst' framing. Employees and shareholders are essentially absent. Wording is marketing-led, with 'wonderful' and 'world-changing' recurring."
+ }
+}

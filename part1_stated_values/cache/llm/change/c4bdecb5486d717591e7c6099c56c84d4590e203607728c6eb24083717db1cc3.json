@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2618,
+  "output_tokens": 147,
+  "request_id": "req_011CgC9wzkxaWKUbowrcTs6c"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are almost entirely navigation and link-label rework (menus, 'Related Links', 'University Relations' renamed 'University Recruiting', 'NPN (NPN)' label), a 'READY TO LEARN MORE? CONTACT US' call to action, and a capitalization fix to the GPU invention paragraph. No mission, values or commitment statements were added, removed or reworded."
+ }
+}

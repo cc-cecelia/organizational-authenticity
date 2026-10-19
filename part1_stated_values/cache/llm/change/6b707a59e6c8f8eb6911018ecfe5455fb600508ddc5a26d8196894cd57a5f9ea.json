@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1834,
+  "output_tokens": 96,
+  "request_id": "req_011CgC9x1AHDV6fAAZPt5GQh"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The diff only removes navigation and menu labels (Cart, ABOUT US, Company, Careers, News, Events) from the visible text. No mission, values, or stated commitments were added, removed, or reworded, so the change is cosmetic."
+ }
+}

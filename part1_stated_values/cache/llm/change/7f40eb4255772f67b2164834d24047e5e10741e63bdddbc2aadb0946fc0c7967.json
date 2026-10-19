@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2967,
+  "output_tokens": 291,
+  "request_id": "req_011CgCA5hxdyC5fVFpQyYwNT"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page adds value statements absent in 2020: \"guided by five principles, in Safety, Environment, Community, Employees, and Governance,\" a commitment to \"operations excellence,\" and \"innovation\" with \"sustainable energy.\" The 2020 page had only business facts."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4989,
+  "output_tokens": 561,
+  "request_id": "req_011CgC8tnUabPVkz8uk6yTmE"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We strive to identify and meet the most critical needs of patients and customers through continuous innovation across all areas of our business."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We reward commitment and performance and are responsive to the needs of our employees and their families."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "enable a safe, sustainable and healthy future for all people and communities."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We believe corporate responsibility is about our health, social, environmental and economic impact on people and communities around the world."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Our Q1 2023 earnings report"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We are committed to the highest standards of ethics and integrity."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity, safety and teamwork of our employees."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are dedicated to the highest standard of innovation and scientific excellence."
+   }
+  },
+  "analyst_notes": "Largely aspirational, with 'we aspire' and 'we are committed' framing. Leads with purpose, science and innovation, then patients and customers. Values section is detailed and absolute ('We do not take professional or ethical shortcuts'). Mostly first-person plural; much of the page is navigation and story teasers, which are treated as chrome."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4730,
+  "output_tokens": 466,
+  "request_id": "req_011CgC8dBYi5MGsw1bYmWRXn"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We are customer-driven, building a business model that enables us to serve customers\u2019 financial needs in ways that are seamless and efficient."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We strive to help our employees reach their full potential."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We believe that diverse backgrounds and experiences make us stronger."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Committing $125 billion to help transition to a low-carbon economy"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We deliver for customers, clients, communities and shareholders"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We believe everything we do for customers, clients, teammates and the communities we serve is built on a solid business foundation that delivers for shareholders."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We hold ourselves accountable for the disciplined management of risk and for doing the right thing."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly declarative, first-person plural voice with 'we believe' and 'we strive' framing. Customers, communities and risk discipline lead the page. Commitments are stated in absolute terms, with little hedging. Much of the page is navigation and report links, so the values content is brief."
+ }
+}

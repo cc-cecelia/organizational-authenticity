@@ -1,0 +1,50 @@
+{
+ "label": "UNH 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3423,
+  "output_tokens": 1489,
+  "request_id": "req_011CgC8pMUKe9wzPALa2SzTy"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "uniquely enable us to meet the evolving needs of a changing health care environment"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "helping make the health system work better for everyone"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are committed to introducing innovative approaches, products and services that can improve personal health"
+   }
+  },
+  "analyst_notes": "Corporate, mostly factual tone, with aspirational framing in the mission ('a leader worldwide'). Uses first-person 'we' only in the commitment paragraph; otherwise third-person 'UnitedHealth Group'. Innovation is the most explicit commitment, hedged by 'can improve'. Much of the page is scale statistics (130 countries, 1 trillion transactions, 285,000 people), which are business description. Employees appear only as headcount."
+ }
+}

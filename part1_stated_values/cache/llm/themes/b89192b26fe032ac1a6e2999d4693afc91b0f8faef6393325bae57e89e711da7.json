@@ -1,0 +1,50 @@
+{
+ "label": "SBUX 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3091,
+  "output_tokens": 1809,
+  "request_id": "req_011CgC98H6eCy2jeqNAHEL3S"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "With our partners, our coffee and our customers at our core"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Creating a culture of warmth and belonging"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "where everyone is welcome"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "one person, one cup and one neighborhood at a time"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We are performance driven, through the lens of humanity."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Being present, connecting with transparency, dignity and respect."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "challenging the status quo and finding new ways to grow our company and each other"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with short bullet-form values. Leads with mission on human connection and neighborhood, then culture and belonging. Customers, partners and coffee named as core. Environment and safety absent. Absolute declarative wording ('We are performance driven'); no hedging or metrics."
+ }
+}

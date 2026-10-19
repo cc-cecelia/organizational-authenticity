@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4099,
+  "output_tokens": 159,
+  "request_id": "req_011CgC9xcvaTkwSoiLKuMMUn"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page drops the 2019 corporate-facts and About text and adds a 'Working @ Oracle' section with stated values: 'Our mission is to help people see data in new ways', 'Oracle\u2019s corporate culture values teamwork, quality, and collaboration', and 'we know that sustainability is good business' and 'we celebrate them' (differences). Emphasis shifts toward workforce culture, sustainability and inclusion."
+ }
+}

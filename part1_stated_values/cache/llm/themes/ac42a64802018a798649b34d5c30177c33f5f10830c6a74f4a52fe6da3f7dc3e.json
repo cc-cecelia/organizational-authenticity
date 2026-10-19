@@ -1,0 +1,50 @@
+{
+ "label": "XOM 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3830,
+  "output_tokens": 1572,
+  "request_id": "req_011CgC9EGtttKpU97wkvX8mY"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Stay on the go with a range of convenient payment methods"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "while addressing the risks of climate change"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Access to energy underpins human comfort, mobility, economic prosperity and social progress."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "we must continuously achieve superior financial and operating results"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Fueling the world safely and responsibly"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "develops and applies next-generation technologies to help safely and responsibly meet"
+   }
+  },
+  "analyst_notes": "Factual, corporate tone with mostly third-person description and some first-person 'we' in product sections. Leads with business scale and financial results; ethics appear as conduct standards. Climate is framed as a risk to address, and 'help' hedges its commitments. Much of the page is product promotion and site chrome."
+ }
+}

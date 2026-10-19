@@ -1,0 +1,13 @@
+{
+ "label": "LLY 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3103,
+  "output_tokens": 114,
+  "request_id": "req_011CgC8pT4RPJur4ro6N3gzY"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page drops the founding story, the Purpose statement and the three core values (Integrity, Excellence, Respect for People, covering customers, employees, shareholders, communities). It is replaced by a video script on getting better care regardless of income and being dismissed, with patient-centred and affordability themes."
+ }
+}

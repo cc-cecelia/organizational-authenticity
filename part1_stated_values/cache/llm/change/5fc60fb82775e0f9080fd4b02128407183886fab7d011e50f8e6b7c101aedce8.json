@@ -1,0 +1,13 @@
+{
+ "label": "COP 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2888,
+  "output_tokens": 90,
+  "request_id": "req_011CgCA3mxSgejk4UxtvFX35"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 diff mostly swaps rotating featured content: social posts, news and story teasers replace older ones. The only structural change is an added heading, \"Sustainability Approach\", but no stated value or commitment changed."
+ }
+}

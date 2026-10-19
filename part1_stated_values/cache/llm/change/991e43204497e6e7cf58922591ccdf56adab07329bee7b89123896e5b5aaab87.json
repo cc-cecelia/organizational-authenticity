@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1811,
+  "output_tokens": 103,
+  "request_id": "req_011CgC9AZUSZ3iNBqtjaSNhC"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only updated facts and figures changed: customers count ~18M to 20M, sales $72.1B to ~$90B (2019 to 2020), community investment $42M to $150M, and year labels updated. No values, commitments or stakeholder framing were added or removed."
+ }
+}

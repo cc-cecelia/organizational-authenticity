@@ -1,0 +1,50 @@
+{
+ "label": "ABBV 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4102,
+  "output_tokens": 1787,
+  "request_id": "req_011CgC8siBbDa3KiJYP4NZPr"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "we care deeply for our patients, their families, our employees, and our communities"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We make decisions based on our deep caring and compassion for people, delivering a lasting impact to our patients, their families, our employees"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "Embracing diversity & inclusion"
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "do our part to protect the environment"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Serving the community"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Acting with integrity"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "pursuing the highest standards in quality, compliance, safety, and performance"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Driving innovation"
+   }
+  },
+  "analyst_notes": "Aspirational, emotive framing in first-person plural ('we', 'our') with absolute phrasing such as 'always do the right thing' and 'relentlessly'. Patients and healthcare impact lead, with community and employees following. Distinctive wording includes 'one AbbVie team' and 'uncompromising integrity'. Shareholders and financial performance are absent."
+ }
+}

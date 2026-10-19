@@ -1,0 +1,50 @@
+{
+ "label": "MCD 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3578,
+  "output_tokens": 425,
+  "request_id": "req_011CgC96dRDEeMZUvTaMY1ZR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We put our customers and people first"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We will elevate our people practices to ensure our people feel welcomed, valued, and part of the McDonald\u2019s community"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Inclusion We open our doors to everyone"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Community We are good neighbors"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "driving growth while operating together"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Integrity We do the right thing"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "committed to fostering a safe, respectful and inclusive workplace"
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "getting faster, more innovative and more efficient at solving problems for our customers and people"
+   }
+  },
+  "analyst_notes": "Aspirational, absolute phrasing ('We put', 'We do') in a short-value list format. Customers are foregrounded first, then people and inclusion. Mostly first-person plural voice. Financial and environmental content is largely absent; growth is mentioned only briefly. Values are framed as a filter for decisions."
+ }
+}

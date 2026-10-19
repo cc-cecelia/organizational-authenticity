@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5404,
+  "output_tokens": 435,
+  "request_id": "req_011CgC9ycJQdPq5kyDeKNDao"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are mostly rotating featured content: award blurbs (Civic 50, Barron's, FORTUNE, J.D. Power) were updated or dropped, and Twitter feed tweets and a new Austin campus promo were swapped in. The 'heritage of innovation' and 'customer service' praise line was retained, and the 'Join our team' recruiting prompt was removed as chrome."
+ }
+}

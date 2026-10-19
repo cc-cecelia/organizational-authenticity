@@ -1,0 +1,50 @@
+{
+ "label": "META 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 8183,
+  "output_tokens": 1295,
+  "request_id": "req_011CgC8UA9ca4gfcX4b7Szcc"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Our open culture keeps everyone informed and allows people to move around and solve the problems they care about most."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Facebook\u2019s mission is to give people the power to build community and bring the world closer together."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We work in small teams and move fast to develop new products, constantly iterating and improving."
+   }
+  },
+  "analyst_notes": "Aspirational and mission-led, with the community mission as the headline. Culture is described in first-person plural ('we encourage', 'our open culture'), with bold, fast-moving language. Employees and innovation get some elaboration; customers, environment, DEI, shareholders, integrity and safety are absent. Most of the page is factual chronology, statistics and leadership bios, not stated commitments."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2160,
+  "output_tokens": 115,
+  "request_id": "req_011CgC8ri8LNTJ9Pfy6mYu4x"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The Credo text is essentially unchanged: the only substantive wording difference is a curly apostrophe in \"Customers\u2019 orders\". Other changes are navigation labels (\"Home/\", \"Our Company/\"), a date line, and share-button chrome, none of which alter values or emphasis."
+ }
+}

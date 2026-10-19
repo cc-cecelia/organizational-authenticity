@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3248,
+  "output_tokens": 143,
+  "request_id": "req_011CgC8WYWLHzMKCsuREtXcV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page shifts emphasis from CRM product and AI-for-everyone claims to a stated mission around Trailblazers and a 'future with greater opportunity and equality for all' and helping people improve their lives. It adds an innovation-driven transformation theme and 'helping our Ohana (aka, family) improve the state of the world'. Removed items were mostly product claims and awards."
+ }
+}

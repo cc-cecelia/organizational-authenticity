@@ -1,0 +1,13 @@
+{
+ "label": "C 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1884,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9z7AjhpFy6zxQ83ix4"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2016 heading 'A Mission of Enabling Growth and Progress' and 'What You Can Expect From Us & What We Expect From Ourselves' were replaced by 'our mission is simple: We responsibly provide financial services that enable growth and economic progress', adding the word 'responsibly' and restating the mission."
+ }
+}

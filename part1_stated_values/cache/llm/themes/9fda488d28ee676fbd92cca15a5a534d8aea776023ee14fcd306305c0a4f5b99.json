@@ -1,0 +1,50 @@
+{
+ "label": "IBM 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5360,
+  "output_tokens": 1608,
+  "request_id": "req_011CgC8ZD29rggP8Dj2SmPzH"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "to help clients solve the most pressing business problems"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "AI-powered workers who can relieve employees of their most repetitive, mundane tasks"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "announcing a goal of net-zero greenhouse gas emissions by 2030 across all the countries in which we operate"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "IBM brings the power of its technology, resources and people to help with initiatives around the world"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Learn how IBM protects our clients and business with security and privacy practices"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "IBM is always on the hunt for what\u2019s next"
+   }
+  },
+  "analyst_notes": "Mostly factual and historical: a long timeline of past inventions dominates, with little stated values. Opens with an absolute, first-person-plural claim that IBM makes the world work better. Clients are addressed first and most often. Sustainability is framed as a goal, and most other commitments are brief teasers or links."
+ }
+}

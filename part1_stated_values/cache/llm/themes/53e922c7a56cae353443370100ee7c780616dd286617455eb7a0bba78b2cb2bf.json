@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3650,
+  "output_tokens": 2232,
+  "request_id": "req_011CgC8iWStzyEdKWmkjhtfX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We are a fiduciary to our clients. Our clients\u2019 interests come first."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We are equally invested in the success of our firm and our colleagues."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "A diverse workforce is indispensable to our creativity and success."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we advocate for sustainable and responsible business practices that drive long-term value"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "our clients, the communities in which we operate, and all of our other stakeholders"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We are passionate about performance."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We hold ourselves and each other to the highest standards of excellence."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Since our founding, innovation has been at the center of how we deliver performance and stay ahead of our clients\u2019 needs."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice ('we', 'our') framing principles as core values and cultural language. Client fiduciary duty is stated in absolute terms ('come first'), while several commitments are hedged as aspirations ('We always strive'). Clients are addressed first; innovation and the long-term ethos are emphasized, with sustainability and safety largely absent."
+ }
+}

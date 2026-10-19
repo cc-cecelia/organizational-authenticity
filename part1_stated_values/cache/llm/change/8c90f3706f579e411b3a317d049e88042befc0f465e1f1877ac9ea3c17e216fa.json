@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2143,
+  "output_tokens": 120,
+  "request_id": "req_011CgC9xii6sEmerA5gwWACd"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are rotating featured content and history timeline entries: a 2022 Cerner acquisition item and Red Bull Racing promo were added, a 2014 CEO-succession entry and 2016 startup entry were removed. Navigation labels and accessibility text also changed; no standing mission or value statements were altered."
+ }
+}

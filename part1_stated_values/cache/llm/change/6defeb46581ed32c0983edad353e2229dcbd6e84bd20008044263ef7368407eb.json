@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1950,
+  "output_tokens": 509,
+  "request_id": "req_011CgCA1K76sftC2af2G6RLZ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page drops the value statement \"Patients are at the center of everything we do.\" The heading \"Working Together for Patients\" stays, now with lowercase \"for\". Added items are rotating featured content: \"Survivorship Today\" and an AtlanticLIVE cancer promo."
+ }
+}

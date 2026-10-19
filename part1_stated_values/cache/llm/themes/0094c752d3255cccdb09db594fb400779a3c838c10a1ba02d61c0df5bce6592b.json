@@ -1,0 +1,50 @@
+{
+ "label": "SCHW 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4610,
+  "output_tokens": 1547,
+  "request_id": "req_011CgC8jpxQcUJ8rFjo9Rpmp"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Coming together with a single goal: to serve you."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're investing our resources where we can make the most difference in areas that align with our business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Schwab continues to earn high praise for its heritage of innovation, modern wealth management capabilities, and customer service."
+   }
+  },
+  "analyst_notes": "Promotional, awards-heavy page written in first-person plural with direct address to 'you'. Most content is third-party recognition and scale metrics rather than stated values. Customers are addressed first; community and financial outcomes appear briefly. Commitments are absolute and brief, with no elaboration on workforce, environment or governance."
+ }
+}

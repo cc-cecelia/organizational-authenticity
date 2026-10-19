@@ -1,0 +1,50 @@
+{
+ "label": "C 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4027,
+  "output_tokens": 1921,
+  "request_id": "req_011CgC8o1V15JxQTX8i76F51"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "empathize the needs of our clients and customers in ways that other banks simply cannot"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "we take ownership, we deliver with pride and we succeed together"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Our diverse leadership team is committed to stewarding a firm known for excellence."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "transforming Citi into a modern, simpler, more efficient bank."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We set goals and we hold ourselves accountable to reaching them."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "supported by leading digital capabilities"
+   }
+  },
+  "analyst_notes": "Confident, aspirational corporate voice mixing third-person ('Citi is a bank') with first-person 'we'. Clients are addressed first, then society. Language is absolute ('simply cannot', 'uniquely positioned'). ESG commitment is stated with accountability but no specifics. Workforce, safety and environment are largely absent."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "AMZN 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2178,
+  "output_tokens": 139,
+  "request_id": "req_011CgCA1SufSj2BDmWPGPJGh"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Leadership Principles intro was reworded: the 2017 'aren't just a pretty inspirational wall hanging... interviewing candidates' framing was replaced by a shorter 'We use our Leadership Principles every day' line. The leadership standards text changed only from 'raising' to 'drive' (verb tense). The stated principles themselves are unchanged in meaning."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5153,
+  "output_tokens": 142,
+  "request_id": "req_011CgC8XHavfubRMXA4b1PNY"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2022 drops the privacy-of-data, customer-success, and 'Ensuring that all voices are welcome' commitments and the Ohana-based core values framing; adds stakeholder capitalism, 'Pledge 1%' and net-zero climate commitments, equal opportunities, and a 'trusted advisors' value. Emphasis shifts toward community, environment, and DEI."
+ }
+}

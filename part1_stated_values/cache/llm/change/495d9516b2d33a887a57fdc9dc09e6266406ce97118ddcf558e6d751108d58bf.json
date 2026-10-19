@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2416,
+  "output_tokens": 113,
+  "request_id": "req_011CgCA5suSbD6jJACsFipgr"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts and figures: 'America's largest renewable fuels producer' became 'the world's second largest renewable fuels producer'; ethanol plant count and DGD joint venture details added; office list removed. The five principles and stated commitments are unchanged; the rest is punctuation and link text."
+ }
+}

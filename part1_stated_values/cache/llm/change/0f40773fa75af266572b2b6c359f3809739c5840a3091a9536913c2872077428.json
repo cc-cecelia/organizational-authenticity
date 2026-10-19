@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1849,
+  "output_tokens": 119,
+  "request_id": "req_011CgC8RSBSXB4SAvBozrQoJ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page adds a COVID-19 section stating Microsoft is 'ensuring the safety of our employees', protecting 'the health and well-being of the communities', and providing resources to customers, plus a 'Trustworthy Computing' heading. This adds employee safety, community wellbeing and customer commitments."
+ }
+}

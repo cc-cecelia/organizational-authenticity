@@ -1,0 +1,50 @@
+{
+ "label": "WFC 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3308,
+  "output_tokens": 1460,
+  "request_id": "req_011CgC8esAU2VRxoDor73sTj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Explore our stories of how we\u2019re helping customers succeed and communities thrive."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "focusing on housing affordability, small business growth, financial health and sustainability."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We\u2019re building stronger communities by focusing on housing affordability, small business growth, financial health and sustainability."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Brief, navigation-heavy page with mostly factual link teasers. Aspirational framing centers communities, with 'helping' and 'stronger communities' repeated. First-person 'we' voice, no absolute numeric commitments. Employees, shareholders and governance appear only as chrome or recruiting links. Spanish-language notice is site chrome."
+ }
+}

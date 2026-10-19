@@ -1,0 +1,50 @@
+{
+ "label": "UNH 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3403,
+  "output_tokens": 1795,
+  "request_id": "req_011CgC8peVFod9C4zBSwhxSc"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "meet the evolving needs of a changing health care environment"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "promote healthier populations in local communities"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are committed to introducing innovative approaches, products and services"
+   }
+  },
+  "analyst_notes": "Corporate, third-person voice ('UnitedHealth Group') with one first-person-plural commitment ('We are committed to'). Opening is aspirational ('a leader worldwide'), but most content is factual scale statistics (140 countries, 325,000 people, 1.1 trillion transactions). Stakeholder focus is health-system and community first, with innovation next. Commitments are hedged ('can improve'). No governance, environment or safety values stated."
+ }
+}

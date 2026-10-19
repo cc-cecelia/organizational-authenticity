@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2168,
+  "output_tokens": 99,
+  "request_id": "req_011CgCA14cE2WPjSimkW7ChL"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are mostly rotating featured content: the UN Global Goals and Wonderbag and family-planning stories were replaced by emergency medicine access, a local vaccines approach, and real-world data articles. Standing mission or values statements were not changed."
+ }
+}

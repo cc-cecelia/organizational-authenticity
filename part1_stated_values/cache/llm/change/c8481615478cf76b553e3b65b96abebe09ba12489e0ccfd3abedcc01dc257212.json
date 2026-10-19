@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3712,
+  "output_tokens": 137,
+  "request_id": "req_011CgCA2yTTrp1p6s96hdb1E"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The mission was reworded from delivering value 'through the combination of brand, fashion, price, and quality' to delivering great value 'every day' via quality, fashionable merchandise, and the 'demographic reach is among the widest in retail' claim was dropped. Financial strength now serves to 'invest in the growth of the business' rather than 'reinvesting in our business for the future'."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "JPM 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3121,
+  "output_tokens": 463,
+  "request_id": "req_011CgC8cHg2HQ5B44NdJrbVz"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Purely factual and descriptive, with no stated values, commitments or priorities. It lists scale (assets, markets, headcount), history and market position in a third-person, unhedged register. Stock index membership is stated as fact. Customers and employees are mentioned only as counts, and no stakeholder is addressed first or in the first person."
+ }
+}

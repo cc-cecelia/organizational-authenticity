@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2817,
+  "output_tokens": 97,
+  "request_id": "req_011CgC8aDrng8iSuvKQU3CDS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are ranking updates (#14 to #15, #46 to #45), a reordered \"View the list\" line, removal of a Twitter link, and added trademark, script and tracking code. No values, commitments or stakeholders were added or removed."
+ }
+}

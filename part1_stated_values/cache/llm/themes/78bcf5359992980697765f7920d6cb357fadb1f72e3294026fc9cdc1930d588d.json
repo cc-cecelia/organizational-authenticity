@@ -1,0 +1,50 @@
+{
+ "label": "NKE 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3139,
+  "output_tokens": 1450,
+  "request_id": "req_011CgC96rbDjVSToXadR9QZm"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We create products, services and experiences for today\u2019s athlete while solving problems for the next generation."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "The brightest leaders create opportunity and inspire others to do their best work."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Sustainable innovation is a catalyst for revolutionizing the way we do business"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "NIKE, Inc. is committed to building deeper community connections and spurring positive social change around the world."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "NIKE, Inc. fosters a culture of invention."
+   }
+  },
+  "analyst_notes": "Headline-led and aspirational, with innovation dominating the page. Corporate third-person voice ('NIKE, Inc.') rather than first person. Commitment to community is stated firmly ('is committed to'), while sustainability is framed as integrated into business. Customers appear only through athletes. No metrics, safety or shareholder content; mostly calls to learn more."
+ }
+}

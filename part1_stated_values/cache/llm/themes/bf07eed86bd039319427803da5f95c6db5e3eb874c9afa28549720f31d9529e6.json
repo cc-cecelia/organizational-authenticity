@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3350,
+  "output_tokens": 1524,
+  "request_id": "req_011CgC99PEW9vSigktyqswVc"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "The promise of surprises, fun, ease and inspiration at every turn, no matter when, where or how you shop."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "It gets our teams excited to come to work each day."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We\u2019re dedicated to being a good neighbor, and working with our communities and partners to make life a little better everywhere we do business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, joy-centred framing led by a purpose headline about families and everyday joy. Mostly first-person plural voice. Customer experience is foregrounded; community is a hedged-free but brief 'dedicated' commitment. Rankings and store facts appear as trivia, not stated values. No shareholder, environment, or safety language."
+ }
+}

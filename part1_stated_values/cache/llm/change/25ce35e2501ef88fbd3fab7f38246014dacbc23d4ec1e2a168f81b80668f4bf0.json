@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2815,
+  "output_tokens": 154,
+  "request_id": "req_011CgC9xfWMeSS5wSCwTorpB"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 'Socially Responsible' ('sustainability is good business') and 'Diverse and Inclusive' ('we celebrate them') value statements and the 'Innovative' section; added a 'Corporate Responsibility' link and a 'Diversity and Inclusion' link describing inclusion as believed to drive innovation. Emphasis shifts toward link-style navigation, with fewer stated values on the page itself."
+ }
+}

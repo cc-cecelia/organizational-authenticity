@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3290,
+  "output_tokens": 1710,
+  "request_id": "req_011CgC8hvWiqfqyz9JKmgmgj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We are a fiduciary to our clients"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Culture inspires employees to go above and beyond their responsibilities every day"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "a set of principles that ensure we never forget what we stand for"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are proud of our long history of innovation, driving continuous change to help investors achieve their goals."
+   }
+  },
+  "analyst_notes": "Short declarative headlines in first-person plural, aspirational and confident, with no hedging. Clients are addressed first, via the fiduciary headline and 'your goals are our goals'. Employees and culture follow, partly through a CEO quote in first person. Innovation is framed as a long-standing identity. Concrete commitments and measurable targets are absent; the page speaks in principles rather than specifics."
+ }
+}

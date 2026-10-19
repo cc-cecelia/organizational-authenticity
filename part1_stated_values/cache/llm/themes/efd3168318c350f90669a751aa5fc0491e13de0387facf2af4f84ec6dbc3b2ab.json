@@ -1,0 +1,50 @@
+{
+ "label": "LOW 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3251,
+  "output_tokens": 973,
+  "request_id": "req_011CgC9AJZzjpcpcVbMLfNia"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "The people we serve are at the heart of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our associates have deep home improvement experience and training"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "To deliver on our mission and drive market share acceleration"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Customer-first, first-person plural voice with an aspirational headline. Statements are absolute rather than hedged. Most content is business description and strategy (scale figures, Total Home Strategy pillars), with little stated commitment on workforce, community, or governance values."
+ }
+}

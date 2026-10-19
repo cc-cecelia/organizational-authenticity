@@ -1,0 +1,50 @@
+{
+ "label": "MSFT 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3264,
+  "output_tokens": 1611,
+  "request_id": "req_011CgC8RWgKVHHFEdA4MhV5k"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "providing technology, tips, and resources to our customers"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We engage our employees\u2019 and customers\u2019 experiences, strengths, and different points of view"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We thrive on diverse voices."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "are working to foster a sustainable future where everyone has access"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "striving to protect the health and well-being of the communities in which we operate"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Trustworthy Computing"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "ensuring the safety of our employees"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "meaningful innovation can and will contribute to a brighter world in big and small ways"
+   }
+  },
+  "analyst_notes": "Aspirational, mostly first-person plural with 'we believe' framing. Innovation and technology lead as the headline value, with D&I and COVID-19 sections addressing employees and customers. Commitments are often hedged ('working to', 'striving to') though some are absolute ('can and will'). Shareholders and governance are absent; 'Trustworthy Computing' appears only as an unelaborated heading."
+ }
+}

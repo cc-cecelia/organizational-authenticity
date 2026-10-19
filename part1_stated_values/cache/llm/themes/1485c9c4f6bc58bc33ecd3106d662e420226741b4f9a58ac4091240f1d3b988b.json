@@ -1,0 +1,50 @@
+{
+ "label": "OXY 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3387,
+  "output_tokens": 1437,
+  "request_id": "req_011CgC9PnXNNzPoU84Xa2qJ5"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "provide society with reliable energy and essential products"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "the right assets in the hands of remarkable people driven by passion to outperform"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "reducing greenhouse gas emissions"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "making the world a better place to live"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Outperform expectations"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Deliver results responsibly"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "committed to safe and efficient operations and products"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero"
+   }
+  },
+  "analyst_notes": "Aspirational, bold tone with heavy use of first-person plural and slogans like 'reaching for the impossible.' Environment and net zero lead the framing, with energy supply and safety next. Commitments are absolute ('we won't stop until we're there'), while stakeholder wording on workforce, integrity and DEI is thin."
+ }
+}

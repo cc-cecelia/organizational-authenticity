@@ -1,0 +1,13 @@
+{
+ "label": "COP 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3196,
+  "output_tokens": 128,
+  "request_id": "req_011CgCA3rAxQZwyWrp2iHivh"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly rotating featured content swapped: 2019 stories replaced by 2020 posts and related stories on Pride, Juneteenth, stormwater, and rigless pumps. Social links reordered, and one fact changed from \"largest\" to \"one of the world's largest\" E&P companies. No standing mission or values statements changed."
+ }
+}

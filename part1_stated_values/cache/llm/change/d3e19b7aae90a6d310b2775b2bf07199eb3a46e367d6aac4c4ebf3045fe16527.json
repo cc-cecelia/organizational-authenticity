@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2530,
+  "output_tokens": 491,
+  "request_id": "req_011CgCA4FPSqE6WWh6SCwHPp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 'Inclusive Culture' value is retitled 'Diversity and Inclusion', making diversity an explicit headline value. 'Bottom line' becomes 'performance', and the principles are now listed 'including' rather than as a fixed set."
+ }
+}

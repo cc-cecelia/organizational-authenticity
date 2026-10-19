@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2015,
+  "output_tokens": 124,
+  "request_id": "req_011CgCA1Kyh9BQZQfwKPisct"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Replaced the 'A Commitment to Patients' feature with a stated mission to 'discover, develop and deliver innovative medicines' and a value that 'People and patients are at the center of everything we do.' Removed rotating-style links and section headers such as Ethics and Compliance, Diversity & Inclusion and Sustainability."
+ }
+}

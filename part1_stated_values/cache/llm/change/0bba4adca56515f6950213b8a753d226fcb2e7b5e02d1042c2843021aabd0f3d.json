@@ -1,0 +1,13 @@
+{
+ "label": "AMZN 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2119,
+  "output_tokens": 139,
+  "request_id": "req_011CgC92V735W9uZ8Txui4ip"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 version mostly rewords the Leadership Principles intro, dropping the 'wall hanging' and interviewing/customer-problem examples and shifting to 'we' phrasing. The high-standards passage changes only 'drives' to 'drive'. No value, commitment, or stakeholder is added or removed, so the change is wording and style rather than emphasis."
+ }
+}

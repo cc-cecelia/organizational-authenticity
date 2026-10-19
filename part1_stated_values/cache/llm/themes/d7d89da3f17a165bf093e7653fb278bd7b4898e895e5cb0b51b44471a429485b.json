@@ -1,0 +1,50 @@
+{
+ "label": "BRK.B 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 11651,
+  "output_tokens": 418,
+  "request_id": "req_011CgC8E6DqWJ4n8rCe9vfDL"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Berkshire has about 377,000 employees, only 26 of these are at headquarters."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Charlie and I think of our shareholders as owner-partners, and of ourselves as managing partners."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We will be candid in our reporting to you, emphasizing the pluses and minuses important in appraising business value."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational and first-person, with Buffett and Munger speaking as 'Charlie and I'. Shareholders are addressed first and most often, framed as owner-partners. Commitments are often hedged or conditional (we will try, we hope). Distinctive wording includes 'We eat our own cooking' and 'We do not measure ... by its size; we measure by per-share progress.' Largely factual, with explanatory essays on principles."
+ }
+}

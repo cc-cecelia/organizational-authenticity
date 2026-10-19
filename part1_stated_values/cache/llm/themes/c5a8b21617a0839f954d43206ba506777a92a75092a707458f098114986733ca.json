@@ -1,0 +1,50 @@
+{
+ "label": "META 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7914,
+  "output_tokens": 465,
+  "request_id": "req_011CgC8TxEm4gcB7gTbz3HPA"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "People use Facebook to stay connected with friends and family, to discover what\u2019s going on in the world"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We work in small teams and move fast to develop new products, constantly iterating and improving."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Sheryl is the author of the number-one best seller Lean In: Women, Work, and the Will to Lead and founder of LeanIn.Org, a global community committed to empowering all women to achieve their ambitions."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Facebook\u2019s mission is to give people the power to share and make the world more open and connected."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We encourage people to be bold."
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led tone centred on connection and openness, with first-person plural voice in the culture section. Its stated commitments are absolute rather than hedged. Users and people are addressed first, with employees and culture second. Most of the page is business description (history, statistics, offices), which is not coded. The 'this journey is 1% finished' phrase signals ongoing ambition."
+ }
+}

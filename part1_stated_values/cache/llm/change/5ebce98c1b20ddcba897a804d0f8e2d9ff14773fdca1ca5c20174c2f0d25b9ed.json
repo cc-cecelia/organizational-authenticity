@@ -1,0 +1,13 @@
+{
+ "label": "META 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4400,
+  "output_tokens": 132,
+  "request_id": "req_011CgC8Up1vo3cpwaPTdyzFm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the old hacker-culture description (\"defined by our hacker culture\", \"move fast\") with \"we're building a different kind of company\" that \"helps bring people closer together\" and \"empower people around the world to build community\". Most other changes are updated facts, personnel and cookie text. The shift in stated values and self-description is clear."
+ }
+}

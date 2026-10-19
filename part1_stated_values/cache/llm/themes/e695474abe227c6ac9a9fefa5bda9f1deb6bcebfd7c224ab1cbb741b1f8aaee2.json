@@ -1,0 +1,50 @@
+{
+ "label": "MSFT 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3255,
+  "output_tokens": 489,
+  "request_id": "req_011CgC8QRfeo4mdeXBwHQzbJ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We engage our employees\u2019 and customers\u2019 experiences, strengths, and different points of view to inform, challenge, and stretch our thinking."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We engage our employees\u2019 and customers\u2019 experiences, strengths, and different points of view to inform, challenge, and stretch our thinking."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We thrive on diverse voices."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "investing technology, money, employee talent, and the company\u2019s voice in programs that promote digital inclusion."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "conducting business in a way that is inclusive, transparent, and respectful of human rights."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways."
+   }
+  },
+  "analyst_notes": "Aspirational, belief-led tone with absolute phrasing ('can and will') and no hedges. Leads with innovation and technology for good, then inclusion and social responsibility. Uses 'we' for the company and 'you' in the AI section. Security and privacy appear only as a chrome-like page teaser, not as a stated commitment."
+ }
+}

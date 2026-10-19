@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3679,
+  "output_tokens": 139,
+  "request_id": "req_011CgC9x75ixQudN1C1iVFHN"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission-level framing shifts from 'AI and the metaverse' to 'AI and digital twins'. Added sustainability commitment ('Accelerated Computing Is Sustainable Computing... achieve sustainability and net zero') and healthcare and automotive growth sections. Removed metaverse, science, democratization and autonomous-machine sections; culture quote reworded."
+ }
+}

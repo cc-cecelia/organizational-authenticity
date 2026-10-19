@@ -1,0 +1,13 @@
+{
+ "label": "F 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2252,
+  "output_tokens": 160,
+  "request_id": "req_011CgCA3LFs1nshLHTd3eycc"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 2022 standing value statements 'BETTER LIVES' (removing obstacles to progress), 'STRONGER COMMUNITIES' (bonds with employees, union partners, customers, and communities) and 'HEALTHIER PLANET' (creating a sustainable future). The 2023 text swaps them for a report promo about 'measurable gains' against sustainability targets, so the page's standing commitments are dropped.}"
+ }
+}

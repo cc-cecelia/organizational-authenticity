@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2149,
+  "output_tokens": 312,
+  "request_id": "req_011CgCA1RVpxvrvSDr1vH8Jk"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the standing commitments \"Committed to creating a better future for cancer patients\" and \"People and patients are at the center of everything we do,\" plus the diverse-workplace achievement and the health equity Foundation statement. Added only a navigation prompt and a renamed D&I link."
+ }
+}

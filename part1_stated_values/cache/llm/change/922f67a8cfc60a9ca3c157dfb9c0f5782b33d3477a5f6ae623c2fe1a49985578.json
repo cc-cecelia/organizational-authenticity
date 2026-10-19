@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2006,
+  "output_tokens": 112,
+  "request_id": "req_011CgC9zxYMKTGHjtp9wcYQv"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added the anthem-style statement \"OUR ANTHEM ABBOTT IS IN THE BUSINESS OF LIFE.\" as a new headline, a new mission-like tagline. Legal disclaimer change from \"countries\" to \"country or region\" is cosmetic."
+ }
+}

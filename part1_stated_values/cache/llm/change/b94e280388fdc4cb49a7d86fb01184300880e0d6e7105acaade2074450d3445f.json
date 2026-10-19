@@ -1,0 +1,13 @@
+{
+ "label": "EOG 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2128,
+  "output_tokens": 111,
+  "request_id": "req_011CgCA43AzEymCZ7RJ3BifV"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only updated facts changed: reserves rose from 2,147 to 2,527 MMBoe, 2016 production of 205 MMBoe became 2017 production of 222 MMBoe, and employees went from about 2,650 to 2,660. No mission, values or commitments were altered."
+ }
+}

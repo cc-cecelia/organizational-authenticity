@@ -1,0 +1,13 @@
+{
+ "label": "EOG 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2528,
+  "output_tokens": 120,
+  "request_id": "req_011CgC9HsAkmiKv8q1TC8qwp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Strategy now adds a safety and cost-structure emphasis: \"EOG strives to maintain the lowest possible operating cost structure that is consistent with prudent and safe operations.\" It also adds technology focus (3D seismic, microseismic, proprietary technology). Reserve and employee figures are updated facts."
+ }
+}

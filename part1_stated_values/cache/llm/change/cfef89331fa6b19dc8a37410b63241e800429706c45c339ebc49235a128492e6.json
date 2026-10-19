@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1891,
+  "output_tokens": 453,
+  "request_id": "req_011CgC914sVFBgVBjtMdNTdX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page drops the statement \"Patients are at the center of everything we do,\" a stated patient-centric priority, while keeping the \"Working Together for Patients\" heading (case changed). It adds article teasers on survivorship and cancer communities, which are chrome."
+ }
+}

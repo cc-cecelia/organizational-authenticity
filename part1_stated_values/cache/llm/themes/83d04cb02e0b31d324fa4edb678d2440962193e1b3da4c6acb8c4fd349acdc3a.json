@@ -1,0 +1,50 @@
+{
+ "label": "MDT 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3451,
+  "output_tokens": 1425,
+  "request_id": "req_011CgC8xy1hkb2dWJVaBnN7N"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "To strive without reserve for the greatest possible reliability and quality in our products"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "To recognize the personal worth of employees by providing an employment framework that allows personal satisfaction in work accomplished, security, advancement opportunity"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "our first and foremost priority is to contribute to human welfare"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "To make a fair profit on current operations to meet our obligations, sustain our growth, and reach our goals"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "to be recognized as a company of dedication, honesty, integrity, and service"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "to continuously build on these areas through education and knowledge assimilation"
+   }
+  },
+  "analyst_notes": "Aspirational, ethics-led framing rooted in a 1960 mission, written in first-person plural. Human welfare and patients are placed before employees and investors. Commitments are largely absolute ('first and foremost', 'without reserve'), though growth scope is hedged ('where we display maximum strength'). Several values are listed as sub-goals with links to other pages."
+ }
+}

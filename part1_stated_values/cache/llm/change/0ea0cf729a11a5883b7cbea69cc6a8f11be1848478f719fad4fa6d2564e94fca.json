@@ -1,0 +1,13 @@
+{
+ "label": "SBUX 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2212,
+  "output_tokens": 150,
+  "request_id": "req_011CgC98FRw6J2pvhaNHPJm2"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page replaces an error message with a new mission and values section. Added: mission to 'inspire and nurture the human spirit'; values of 'warmth and belonging', courage, transparency, dignity and respect, accountability for results, and 'performance driven' with partners, customers and coffee at core. Prior 2016 content was an error page, so the change is a new values statement rather than a shift from an earlier stated value."
+ }
+}

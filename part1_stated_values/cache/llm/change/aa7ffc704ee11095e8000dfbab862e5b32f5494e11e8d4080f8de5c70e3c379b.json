@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3844,
+  "output_tokens": 141,
+  "request_id": "req_011CgC9xQTjR1fj4Yn7Ghg5a"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Core values rewritten: 'We respect and value employees from every background' and 'pursue ideas that could change our company' removed; 'Our Ohana... four core values' reframed; new 'Nothing is more important... than the privacy of our customers' data' and 'OUR COMMITMENT: Ensuring that all voices are welcome and heard' added; customer success emphasis strengthened."
+ }
+}

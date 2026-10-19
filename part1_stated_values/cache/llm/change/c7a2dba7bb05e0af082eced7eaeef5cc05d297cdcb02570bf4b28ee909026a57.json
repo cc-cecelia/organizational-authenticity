@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3845,
+  "output_tokens": 125,
+  "request_id": "req_011CgCA31dCJDiY82p4e3JqF"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Mission wording kept, but the page drops the 'leading' and 'leaders in innovation' self-claims, adds a shareholder-return statement ('return cash to shareholders', disciplined capital allocation), and reframes customer reach toward 'geographies'. Emphasis shifts toward financial returns and away from innovation self-description."
+ }
+}

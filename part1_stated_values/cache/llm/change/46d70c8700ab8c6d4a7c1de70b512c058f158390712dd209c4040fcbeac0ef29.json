@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2096,
+  "output_tokens": 119,
+  "request_id": "req_011CgC94pKVBFxjpyEaPUWi3"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds an equal opportunity and affirmative action employer statement committed to workplace diversity, non-discrimination across protected categories, and disability accommodation, plus E-Verify and screen-reader notices. Impact figures (CO2e avoided, miles equivalent) are updated numbers, which are cosmetic."
+ }
+}

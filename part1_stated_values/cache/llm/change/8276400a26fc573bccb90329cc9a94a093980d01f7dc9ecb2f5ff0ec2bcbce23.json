@@ -1,0 +1,13 @@
+{
+ "label": "F 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2065,
+  "output_tokens": 108,
+  "request_id": "req_011CgCA3MWGpSUHzeEnE66hc"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The change swaps a featured report promo: the 2023 report teaser is replaced by a 2024 teaser. The new text adds 'prioritizing the wellbeing of our employees and community members', but it is rotating report promo content and updated facts, not a change to Ford's standing values."
+ }
+}

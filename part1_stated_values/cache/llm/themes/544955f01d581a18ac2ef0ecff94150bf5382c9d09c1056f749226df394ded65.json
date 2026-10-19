@@ -1,0 +1,50 @@
+{
+ "label": "WFC 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3699,
+  "output_tokens": 1618,
+  "request_id": "req_011CgC8eCcUrmTqqCi71BmP9"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We place customers at the center of everything we do."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Our team members are our most valuable resource."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We value and promote diversity and inclusion in all aspects of business and at all levels."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "promoting environmental sustainability"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We make a positive contribution to communities through philanthropy"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We want to deliver long-term value for shareholders through a balanced business model, strong risk discipline, efficient execution, and a world-class team."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We\u2019re committed to the highest standards of integrity, transparency, and principled performance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through innovative thinking, industry-leading technology, and a willingness to test and learn, we create lasting value for customers"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute framing ('every action', 'everything we do'). Customers lead as the first value and vision focus; team members and integrity follow. Goals use 'We want to' phrasing. Safety is absent. Community and environment appear mainly as list items within corporate citizenship."
+ }
+}

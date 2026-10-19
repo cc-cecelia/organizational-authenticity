@@ -1,0 +1,13 @@
+{
+ "label": "MS 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2158,
+  "output_tokens": 96,
+  "request_id": "req_011CgC9yU544udAz6wQXsFP4"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Core values expanded from four to five: \"commit to diversity and inclusion\" added as a new value. A new Technology section adds a stated commitment to \"technological innovation\". Wealth page headline and careers link labels changed (cosmetic)."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3299,
+  "output_tokens": 646,
+  "request_id": "req_011CgC8X4bLbvFquEAQ3EUsV"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Factual and descriptive, with no stated values. Headline statistics on customers, partners, employees and revenue lead the page. The only first-person phrasing is 'who we are' in a link prompt. Product description dominates the body, and the other links are navigation chrome. No commitments, hedged or absolute, appear."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3438,
+  "output_tokens": 1261,
+  "request_id": "req_011CgC8XMhUvpuAHRn1LrtQg"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "solve real, tangible challenges"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Oracle has embedded innovative technologies in every aspect of our cloud"
+   }
+  },
+  "analyst_notes": "Promotional and aspirational, with words like revolutionizing and reimagine. Mostly third-person Oracle, with one first-person 'our cloud'. Headline figures for customers, employees and revenue are factual scale claims. Values are largely absent; innovation is the only stated emphasis. Site chrome includes contact and recruiting prompts."
+ }
+}

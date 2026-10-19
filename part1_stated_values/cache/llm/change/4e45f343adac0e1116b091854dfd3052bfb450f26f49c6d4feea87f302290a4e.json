@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4927,
+  "output_tokens": 139,
+  "request_id": "req_011CgC8awESFQdgkvr9ztZjm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 adds a corporate responsibility framing: 'setting a new standard for corporate responsibility', 'advancing climate solutions to diversity and inclusion initiatives', plus new Vision, Mission, 'Go Bigger' and brand 'wonderful' statements about enriching lives. The 2020 version lacked these value statements; the script/browser text is technical noise."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5001,
+  "output_tokens": 130,
+  "request_id": "req_011CgC9xwBgSaGVNUz6b6Abt"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2020 adds a \"Our Purpose\" statement, a \"Our Values\" list (customer obsessed, One Intel, fearless, truth and transparency, inclusion and quality), and \"2030 Strategy and Goals\" with commitments to positive global impact. 2019's diversity investment ($300 million) and ranking promos are removed."
+ }
+}

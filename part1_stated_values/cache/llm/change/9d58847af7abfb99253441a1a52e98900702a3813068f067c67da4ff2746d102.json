@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5801,
+  "output_tokens": 129,
+  "request_id": "req_011CgCA4BEur7huZLr3Zt5VT"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 About page reframes its identity around \"energy innovation\" and \"a balanced planet\", adds a Values section and a 'Performance' value on safety and integrity, adds a sustainability focus, and drops the 'Our Promise and Commitment to you' and 'Case Studies' framing. The purpose line stays largely unchanged."
+ }
+}

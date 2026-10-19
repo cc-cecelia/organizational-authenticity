@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3687,
+  "output_tokens": 163,
+  "request_id": "req_011CgC8tUCk1FCnr59FY2Jc3"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds an explicit mission statement (\"Our mission is to discover and deliver innovative medicines and products\"), a values paragraph citing compassion, innovation, inclusion, community service and integrity, and commitments to quality, compliance, safety, diversity and sustainability. It adds innovation emphasis (\"continued investment in innovation\") and removes the \"What AbbVie's all about\" sustainable-growth and facts section."
+ }
+}

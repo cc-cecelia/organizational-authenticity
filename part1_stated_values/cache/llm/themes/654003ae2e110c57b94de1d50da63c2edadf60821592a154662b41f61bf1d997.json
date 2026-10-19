@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3363,
+  "output_tokens": 1809,
+  "request_id": "req_011CgC99Qb7j88MDLRk5ndbP"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "To help all families discover the joy of everyday life."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "It gets our teams excited to come to work each day."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Nearly half of our stores are run by a female leader and more than a third are managed by a leader of color."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We\u2019re dedicated to being a good neighbor, and working with our communities and partners to make life a little better everywhere we do business."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Design for all \u2014 it\u2019s our way of taking the expected and making it extraordinary."
+   }
+  },
+  "analyst_notes": "Aspirational, joy-centred brand language in first-person plural with absolute phrasing ('at the center of every business decision'). Customers are addressed first and most often. Community appears second, framed as neighborliness. Employees, environment, shareholders and integrity get little or no stated commitment, and the DEI content is largely factual statistics."
+ }
+}

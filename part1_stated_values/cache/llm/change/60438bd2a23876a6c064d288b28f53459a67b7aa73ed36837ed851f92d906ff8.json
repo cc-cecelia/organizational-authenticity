@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2042,
+  "output_tokens": 97,
+  "request_id": "req_011CgC9xrPx2hkAy3ySKidcc"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are rankings updates (#12 to #14, #40 to #44/#46), a headline recapitalization and wording tweak, removed asterisks, and removed tag and navigation chrome. The company's stated values and commitments are unchanged."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2113,
+  "output_tokens": 158,
+  "request_id": "req_011CgCA13mcw1v2f76rTieK5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Removed mostly navigation and legal text: the 'ABBOTT IS IN THE BUSINESS OF LIFE.' and 'LIFE. TO THE FULLEST.' taglines, headings, a disclaimer about country-specific content, screen-size notices, and external link disclaimers. No stated values or commitments changed in substance; the tagline removal is a branding/wording change rather than a shift in stated mission."
+ }
+}

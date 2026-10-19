@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3225,
+  "output_tokens": 1116,
+  "request_id": "req_011CgC9QFhzmjc78iYms7cNx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "helps its customers maximize value throughout the lifecycle of the reservoir"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Sustainability is at the core of the Company\u2019s long-term success, and it is embedded throughout our business."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "devoting time and resources to charitable causes \u2013 wherever our people live and work \u2013 has been central to our corporate culture"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual, third-person corporate description focused on scale, history and energy-industry services. Stated values are few: sustainability is asserted in absolute terms, and charitable giving is framed as longstanding culture. No first-person voice, hedging, or aspirational language; the page leads with business facts rather than stakeholder commitments."
+ }
+}

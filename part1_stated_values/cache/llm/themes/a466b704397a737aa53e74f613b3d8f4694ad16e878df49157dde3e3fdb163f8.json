@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3242,
+  "output_tokens": 1176,
+  "request_id": "req_011CgC9QBTWY65Pygy59tugi"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "the Company helps its customers maximize value throughout the lifecycle of the reservoir"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Sustainability is at the core of the Company\u2019s long-term success, and it is embedded throughout our business."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "devoting time and resources to charitable causes"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual, third-person 'the Company' voice with heavy business description. Sustainability and community appear as section headings with absolute, unhedged claims ('at the core', 'central to our corporate culture'). Customers get only a brief service aim. Employees, safety and governance are absent, and scale figures are stated without any value commitment."
+ }
+}

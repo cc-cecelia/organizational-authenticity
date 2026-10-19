@@ -108,7 +108,8 @@ The pre-fill is rule-based plus a manual read, and a reviewer spot-checks it. `s
 - At least 1.5 s between any two requests.
 - Exponential backoff (4 to 64 s) on connection errors and 5xx responses, with at least 20 s after 429 or 503 (archive.org's throttling signals). `Retry-After` is honored.
 - A descriptive User-Agent.
-- Every CDX response and raw page is cached under `part1_stated_values/cache/` (git-ignored), so re-runs are offline and deterministic.
+- Every CDX response and raw page is cached under `part1_stated_values/cache/` (git-ignored, re-creatable from Wayback), so re-runs are offline and deterministic.
+- The LLM response cache (`cache/llm/`, 854 responses, about 3 MB) **is committed**, so the LLM step reproduces exactly and offline from the committed `snapshots.csv`.
 
 ## LLM analysis (`src/llm_analyze.py` → `output/stated_values.csv`)
 
@@ -117,7 +118,7 @@ The pre-fill is rule-based plus a manual read, and a reviewer spot-checks it. `s
 ### Theme categories
 - **Taxonomy.** Rows are coded into the **shared stakeholder taxonomy** (CLAUDE.md; Freeman 1984) that Part 2 uses for proxy statements. The 9 codes are customers, employees, dei, environment, community, shareholders, integrity, safety and innovation.
 - **Why this taxonomy.** Part 3 compares what a firm says (this page) with what it pays for and is pressed on (its proxy), stakeholder by stakeholder. That comparison only works if both sides use identical categories.
-- **No duplicated definitions.** The definitions and tie-break rules are imported read-only from Part 2's `theme_dictionary.py`, so the two parts cannot drift apart.
+- **No duplicated definitions.** The definitions and tie-break rules are imported read-only from Part 2's `part2_lived_values/src/theme_dictionary.py`, so the two parts cannot drift apart.
 
 For each category the model returns:
 - `sal_<cat>`: salience on a 0 to 3 scale.

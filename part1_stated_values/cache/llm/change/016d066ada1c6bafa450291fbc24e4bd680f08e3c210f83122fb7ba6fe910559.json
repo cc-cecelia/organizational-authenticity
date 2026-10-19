@@ -1,0 +1,13 @@
+{
+ "label": "F 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2193,
+  "output_tokens": 140,
+  "request_id": "req_011CgC9DCzUikuSFTZHsV41A"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 2022 'Better Lives', 'Stronger Communities' and 'Healthier Planet' value statements (mobility, community bonds, sustainable future) and the 118-years intro. Added a 2023 report teaser stressing 'measurable gains against ambitious environmental sustainability targets' and 'sustainability transparency', shifting emphasis toward environment."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5408,
+  "output_tokens": 606,
+  "request_id": "req_011CgC8ahcdVLuChBMT1WVUT"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Today we are applying our reach, scale, and resources to enable our customers to capitalize more fully on the power of digital technology."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "From the challenging and rewarding work, to the supportive benefits and programs, to the inclusive, welcoming environment, Intel is committed to helping every one of us learn, grow and thrive at work and beyond."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "to the inclusive, welcoming environment, Intel is committed to helping every one of us learn, grow and thrive at work and beyond."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "99% renewable electricity globally in 2023"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "driving business and society forward by creating radical innovation that revolutionizes the way we live."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "total revenue in 2023"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Intel\u2019s longstanding commitment to corporate responsibility and sustainability\u2014built on a strong foundation of transparency, governance, and ethics\u2014is deeply integrated throughout all aspects of our business."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "creating radical innovation that revolutionizes the way we live."
+   }
+  },
+  "analyst_notes": "Aspirational, big-vision tone with a first-person plural voice (we, our, us) and frequent absolute claims such as 'world-changing' and 'uniquely Intel.' Innovation and customers lead, with employees and society next. Commitments are stated directly, though the purpose is framed grandly. Repeated 'Opportunities' and 'That's what makes us Intel' lines add distinctive rhetorical flourish."
+ }
+}

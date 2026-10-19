@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2249,
+  "output_tokens": 245,
+  "request_id": "req_011CgC9zmhVVR8A5NbRPTNm9"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mission ('enable our customers to make the world healthier, cleaner and safer') is unchanged. Updated figures: revenue '$18 billion' to 'more than $20 billion', employees '55,000' to 'approximately 70,000'. Added 'deliver medicines to market' to the list of customer goals; 'comprehensive support' became 'comprehensive services'."
+ }
+}

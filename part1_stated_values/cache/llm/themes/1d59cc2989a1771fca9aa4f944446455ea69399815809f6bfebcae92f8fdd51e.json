@@ -1,0 +1,50 @@
+{
+ "label": "JNJ 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3487,
+  "output_tokens": 1781,
+  "request_id": "req_011CgC8qsb5HyYGBQ7U4gKxS"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Customers' orders must be serviced promptly and accurately."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We must provide an inclusive work environment where each person must be considered as an individual."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We must respect their diversity and dignity and recognize their merit."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We must maintain in good order the property we are privileged to use, protecting the environment and natural resources."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We must be good citizens \u2014 support good works and charities, better health and education, and bear our fair share of taxes."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our final responsibility is to our stockholders."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We must provide highly capable leaders and their actions must be just and ethical."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "working conditions clean, orderly and safe"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Research must be carried on, innovative programs developed, investments made for the future and mistakes paid for."
+   }
+  },
+  "analyst_notes": "Aspirational, directive Credo in first-person plural, dominated by absolute 'must' commitments with no hedging. It addresses stakeholders in ranked order: patients and customers first, then employees, communities, and stockholders last. Wording is distinctive and dated, such as 'good citizens' and 'fair share of taxes'. Business-profit language is framed as a final responsibility."
+ }
+}

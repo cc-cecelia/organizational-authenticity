@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2756,
+  "output_tokens": 171,
+  "request_id": "req_011CgC8YXZ6QAuisJ73kBhrf"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 'Innovative' value block (Oracle applies enterprise expertise to startup ingenuity), 'Socially Responsible' (sustainability is good business) and 'Diverse and Inclusive' (we celebrate differences); added Diversity and Inclusion, Corporate Responsibility and COVID-19 commitment links, and 'Growth centric' and 'People oriented' cultural statements remain. Emphasis shifts toward DEI and community framing."
+ }
+}

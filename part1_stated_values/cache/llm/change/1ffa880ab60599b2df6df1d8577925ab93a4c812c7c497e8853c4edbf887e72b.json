@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1884,
+  "output_tokens": 106,
+  "request_id": "req_011CgC8xgVHgP4ZUar6N8bUM"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 version replaces a story about reducing Latino healthcare disparities and a founder's breast cancer journey with a commitment to \"advancing health equity\" and \"social justice\" through community investment, adding a stated commitment to \"creating access to quality care for all.\""
+ }
+}

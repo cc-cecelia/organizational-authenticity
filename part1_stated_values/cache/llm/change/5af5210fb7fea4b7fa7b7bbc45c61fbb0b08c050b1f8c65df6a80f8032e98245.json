@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3195,
+  "output_tokens": 144,
+  "request_id": "req_011CgCA3ZdHEnk8HAivJpKc9"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page adds a 'lower-emission solutions' and 'energy transition' framing ('an \"and\" equation', 'a thoughtful transition to an energy-secure, lower-emissions future') and a people focus ('a global team of 62,000'). It drops the 'committed to being the world's premier' petroleum statement, shifting emphasis toward energy transition and lower emissions."
+ }
+}

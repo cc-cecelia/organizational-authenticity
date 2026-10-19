@@ -1,0 +1,50 @@
+{
+ "label": "GOOGL 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3314,
+  "output_tokens": 1209,
+  "request_id": "req_011CgC8SZUmZFKgX3wBZtxff"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we\u2019ve focused on providing the best user experience possible"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "GV\u2019s companies aim to improve lives and change industries"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, user-first framing, with a first-person plural voice and absolute phrasing ('we know to be true'). The page addresses users first and defines its mission in broad terms of access and usefulness. Employees, investors and governance appear only as navigation teasers, not as stated commitments. Environment and safety are absent. The bottom-line disavowal is worded as a contrast, not a commitment."
+ }
+}

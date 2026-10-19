@@ -1,0 +1,13 @@
+{
+ "label": "COP 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2829,
+  "output_tokens": 112,
+  "request_id": "req_011CgC9GkvwESXi1KouqzPS1"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2018 version swaps 2017 news teasers, social posts and article headlines for newer ones, with only one heading added: \"Sustainability Approach\". No stated value, commitment or stakeholder is clearly added or removed, so the change is mostly refreshed feed content and navigation."
+ }
+}

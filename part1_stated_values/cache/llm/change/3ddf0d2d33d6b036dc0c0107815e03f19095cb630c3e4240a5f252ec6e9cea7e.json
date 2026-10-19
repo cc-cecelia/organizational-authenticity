@@ -1,0 +1,13 @@
+{
+ "label": "BLK 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2915,
+  "output_tokens": 167,
+  "request_id": "req_011CgC8isccyNd7cpo2wA9dD"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 replaces the 2020 'What we stand for' culture framing with a 'BlackRock principles' page. Adds explicit stakeholder commitments: 'the communities where we operate', 'our employees, our shareholders', 'run our business sustainably and responsibly', 'Our clients\u2019 interests come first', and a diversity and inclusion point. Also adds long-term thinking and innovation at the center of performance; the 'We are innovators' heading is dropped."
+ }
+}

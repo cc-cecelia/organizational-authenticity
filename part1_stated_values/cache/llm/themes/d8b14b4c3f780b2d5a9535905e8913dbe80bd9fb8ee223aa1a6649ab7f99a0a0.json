@@ -1,0 +1,50 @@
+{
+ "label": "CVX 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3949,
+  "output_tokens": 2481,
+  "request_id": "req_011CgC9FMdRvM5DHxw71cih5"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We develop the affordable, reliable, ever-cleaner energy that enables human progress."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We develop leaders and collaborate as one team to deliver industry-leading performance."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We have an inclusive work environment that values the uniqueness and diversity of individual talents, experiences and ideas."
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "The protection of people, assets, communities and the environment is our highest priority."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "We work together \u2013 and with our partners \u2013 to achieve solutions and breakthroughs that benefit our shareholders and society."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We aim to deliver industry leading results."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We earn trust and respect by acting with integrity and operating with the highest ethical standards."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We aim to lead our industry in health, safety and environmental performance."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Meeting the world\u2019s growing energy needs demands pursuit of innovations and advancements that deliver a better future for all."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural 'we' throughout, mixing absolute commitments ('highest priority', 'will continue') with hedged aims ('We aim to'). Opens with energy supply and human progress, then named values; workforce, partners and shareholders are prominent. Distinctive framing: 'human ingenuity', 'The Chevron Way', and 'getting results the right way'."
+ }
+}

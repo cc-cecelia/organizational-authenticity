@@ -1,0 +1,50 @@
+{
+ "label": "CVX 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3677,
+  "output_tokens": 607,
+  "request_id": "req_011CgC9FAqoXokwrsrxn3bS2"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "partnership We build trusting and mutually beneficial relationships by collaborating with our communities, governments, customers, suppliers and other business partners."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We place the highest priority on the health and safety of our workforce"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We have an inclusive work environment that values the uniqueness and diversity of individual talents, experiences and ideas."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We conduct our business in a socially and environmentally responsible manner, respecting the law and universal human rights to benefit the communities where we work."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We conduct our business in a socially and environmentally responsible manner, respecting the law and universal human rights to benefit the communities where we work."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our strategies guide our actions to deliver industry-leading results and superior shareholder value in any business environment."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We earn the trust of our colleagues and partners by operating with the highest ethical standards in all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "We place the highest priority on the health and safety of our workforce and protection of our assets, communities and the environment."
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We apply proven processes in a fit-for-purpose manner and always look for innovative and agile solutions."
+   }
+  },
+  "analyst_notes": "Confident, aspirational framing led by vision and performance language. Safety is the stated top priority; workforce, communities and partners are addressed before shareholders. Commitments are largely absolute ('always', 'highest'). Uses first-person plural throughout. Shareholder value appears in strategy section, framed as a result to deliver."
+ }
+}

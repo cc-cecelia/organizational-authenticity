@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1947,
+  "output_tokens": 112,
+  "request_id": "req_011CgC8w27BN6ZaFBtPZYyMf"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page adds a headline \"OUR ANTHEM: ABBOTT IS IN THE BUSINESS OF LIFE.\", a central purpose statement. The legal disclaimer changes only in wording (\"countries\" to \"country or region\") and is cosmetic."
+ }
+}

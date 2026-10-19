@@ -1,0 +1,13 @@
+{
+ "label": "META 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4904,
+  "output_tokens": 194,
+  "request_id": "req_011CgC9xHKNznAiEQfuFQVoM"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the 2021 mission-era and history content (e.g., 'Help people express themselves and connect' removed then re-added) and reorders values; principles like 'People deserve to be heard' and 'promote the best of what people can do together by keeping people safe' now appear in the new layout, while the 'Our Mission' section was recast with a new diversity-focused statement added ('workforce reflects the diversity of the people we serve'), and the timeline and principles blocks were restructured, shifting emphasis toward dei and the company's stated principles."
+ }
+}

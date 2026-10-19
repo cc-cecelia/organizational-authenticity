@@ -1,0 +1,50 @@
+{
+ "label": "PSX 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4766,
+  "output_tokens": 1844,
+  "request_id": "req_011CgC9LquS8M8nRioHGyLQx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "providing access to energy which is essential to a high standard of living and health throughout the world"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we are committed to safety, reliability and environmental stewardship"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Providing Energy. Improving Lives."
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "consistently executing the strategies proven to drive shareholder value"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "making responsible choices to adapt"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "core company values of safety, honor and commitment"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "in-house research and development at Phillips 66 drives new ideas toward commercialization"
+   }
+  },
+  "analyst_notes": "Factual, corporate tone with aspirational phrasing about the future and energy access. Mostly first-person plural 'we'. Commitments are often hedged with 'committed to'. Shareholder value and safety lead, with the 'Providing Energy. Improving Lives.' tagline framing social purpose. Historical and business-description passages carry much of the text, with few explicit stakeholder commitments."
+ }
+}

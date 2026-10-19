@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4055,
+  "output_tokens": 1730,
+  "request_id": "req_011CgC91cfBW351cHrT3kHD7"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "They seek diverse perspectives and work to disconfirm their beliefs."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "don't sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Aspirational, internally directed text led by third-person 'Leaders' and 'Amazonians', with 'we' in places. Customers come first, and the Ownership and Earn Trust sections are framed in absolute terms ('never say', 'never settle'). Distinctive, informal wording includes 'peculiar', 'body odor smells of perfume' and 'no extra points'. Few commitments are hedged, and the page is silent on environment, community and safety."
+ }
+}

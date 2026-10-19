@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2893,
+  "output_tokens": 168,
+  "request_id": "req_011CgCA44T8cudVqGijEwbxa"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page's 'Guiding Principles', 'Global Stewardship', 'Accountability' and 'Code of Conduct' sections were replaced by a 2019 emphasis on knowledge, technical innovation and 'International teamwork' with diversity (\"diversity spurs creativity\"), plus 'Technology innovation' investment. The 'Learn More' drilling-series teaser is rotating content. Stewardship and integrity statements were removed."
+ }
+}

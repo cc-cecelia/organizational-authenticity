@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4272,
+  "output_tokens": 104,
+  "request_id": "req_011CgC9ynteAUfkXjPAJijfz"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added headline-style lines \"Coming together with a single goal: to serve you\" and \"it is your tomorrow we care about most,\" a stated customer-service and future-focused commitment. Other changes are rotating awards, news, and updated figures, which are cosmetic."
+ }
+}

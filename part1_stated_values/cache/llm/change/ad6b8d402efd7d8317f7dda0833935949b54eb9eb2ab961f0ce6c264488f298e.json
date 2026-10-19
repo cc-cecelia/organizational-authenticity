@@ -1,0 +1,13 @@
+{
+ "label": "IBM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2575,
+  "output_tokens": 129,
+  "request_id": "req_011CgC9xjuXs5jEEsbR5L48t"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are mostly rotating featured content: the 2020 Fellows announcement became a 2021 Fellows release with a Dario Gil quote, the 1937 history item was replaced by a 2021 2-nanometer chip story, and the hybrid-cloud services copy was updated to IBM Consulting. No mission or stated values changed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4900,
+  "output_tokens": 2142,
+  "request_id": "req_011CgC8WXwrnUEYXWqga6JwS"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "focus on our customers drove our every decision."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We're a one-of-a-kind family."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We believe everyone should be seen, heard, valued, and empowered to succeed."
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "We are committed to bringing the full power of Salesforce to accelerate the world\u2019s journey to net zero."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe business is the greatest platform for change."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "It fueled our growth and powered our customers' success."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We earn the trust of our customers, employees, and extended family through transparency, security, compliance, privacy, and performance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We innovate together."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice that leads with customers and a branded Customer Company identity. Core values are stated as absolute commitments ('We are committed to', 'We believe'), with 'We strive' the only softer phrasing. Business claims such as the world's #1 CRM sit alongside values. Family and Trailblazer language frames employees briefly; safety is absent."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3650,
+  "output_tokens": 2014,
+  "request_id": "req_011CgC8iCUQQWoWA1JPfbLrd"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our clients\u2019 interests come first."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We are equally invested in the success of our firm and our colleagues."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "A diverse workforce is indispensable to our creativity and success."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we run our business sustainably and responsibly"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We are deeply invested in the success of all of our stakeholders \u2013 our clients, our employees, our shareholders, and the communities where we operate"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We are passionate about performance."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We hold ourselves and each other to the highest standards of excellence."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Since our founding, innovation has been at the center of how we deliver performance and stay ahead of our clients\u2019 needs."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute phrasing ('come first', 'highest standards'). Clients are addressed first, then the firm and colleagues. Innovation and performance are framed as core identity. Sustainability is a brief hedged-free mention. Safety and environment are largely absent. Distinctive wording includes 'One BlackRock' and 'emotional ownership'."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3918,
+  "output_tokens": 497,
+  "request_id": "req_011CgC98rxqzbiyBaY7pY2rR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we work hard to ensure your experience is always enjoyable and exciting"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Our team is our greatest asset, so we invest in the growth and development of our team members and leaders"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "As champions of diversity and inclusivity, we're making our business stronger, building our talented team, and working toward a more equal society."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe in being an active citizen and good neighbor in our communities."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "we've given 5 percent of our profit"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "We\u2019re committed to building a team that does the right thing for our communities, our shareholders and, above all, our guests."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "We give our time, talent and business strengths to make our communities strong, healthy and safe."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "innovative digital experiences that take your trip to the next level"
+   }
+  },
+  "analyst_notes": "Warm, aspirational, first-person plural voice ('we believe', 'our team'). Leads with guest experience and design, then team members and community giving. Commitments are absolute ('does not waver', 'committed to'). Diversity claims are self-congratulatory, citing a 100 Corporate Equality Index score. Environment is absent."
+ }
+}

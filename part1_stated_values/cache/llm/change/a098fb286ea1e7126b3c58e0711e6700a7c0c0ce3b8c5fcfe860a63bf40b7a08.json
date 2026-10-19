@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3034,
+  "output_tokens": 163,
+  "request_id": "req_011CgCA485f7fxQjjiJwBoDw"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page replaces the 2021 story of pioneering innovation and sustainable hydrocarbon recovery with a purpose-led message: \"Our purpose: Together, we create amazing technology that unlocks access to energy for the benefit of all.\" It adds emphasis on customer partnership, diversity (\"it is our diversity that makes us stronger\"), and energy transition, including a \"Decarbonize Your Operations\" promo."
+ }
+}

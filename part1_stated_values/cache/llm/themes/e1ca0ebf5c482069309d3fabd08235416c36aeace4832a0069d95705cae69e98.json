@@ -1,0 +1,50 @@
+{
+ "label": "AAPL 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2883,
+  "output_tokens": 337,
+  "request_id": "req_011CgC8E6H4GvNhBg7JvP93a"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "More ways to shop: Visit an Apple Store, call 1-800-MY-APPLE, or find a reseller."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Want to work at Apple?"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "The page is almost entirely navigational contact information with no stated values; 'Apple Values' appears only as a menu label, which is chrome. Customer access is framed through purchase channels, and employment appears as a recruiting prompt. Tone is factual and transactional, with no first-person commitments, aspirational language, or hedged claims."
+ }
+}

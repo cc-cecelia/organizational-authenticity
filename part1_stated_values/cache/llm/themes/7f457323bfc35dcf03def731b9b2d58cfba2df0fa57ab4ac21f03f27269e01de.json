@@ -1,0 +1,50 @@
+{
+ "label": "MS 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5608,
+  "output_tokens": 581,
+  "request_id": "req_011CgC8M9htReNPmdPhj1kRD"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Morgan Stanley is differentiated by the caliber of our diverse team. Our culture of access and inclusion has built our legacy and shapes our future, helping to strengthen our business and bring value to clients."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We believe our greatest asset is our people. We value our commitment to diverse perspectives and a culture of inclusion across the firm."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "commit to diversity and inclusion"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Our firm's commitment to sustainability informs our operations, governance, risk management, diversity efforts, philanthropy and research."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Our board of directors and senior executives hold the belief that capital can and should benefit all of society."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Morgan Stanley has consistently delivered first-class business in a first-class way."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Do the right thing, put clients first, lead with exceptional ideas, commit to diversity and inclusion, and give back."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "As a global financial services firm, Morgan Stanley is committed to technological innovation."
+   }
+  },
+  "analyst_notes": "Confident, absolute framing built on a list of five core values and repeated 'first-class' and 'exceptional ideas' slogans. Clients are addressed first, then community and employees. Uses firm-voice 'we' and 'our'; commitments are stated plainly. Safety and environment are thin, and DEI appears heavily in recruiting and marketing copy."
+ }
+}

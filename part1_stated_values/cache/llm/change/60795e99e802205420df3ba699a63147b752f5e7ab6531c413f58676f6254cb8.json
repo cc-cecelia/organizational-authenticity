@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2171,
+  "output_tokens": 160,
+  "request_id": "req_011CgC9MauZw15ZkJ7iJ4vfg"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2020 version replaces the brand-history paragraph (\"rich history, strong brand recognition\", \"great moments that demonstrate its vision and values\") with a corporate-history account of predecessors, the 2002 ConocoPhillips merger and 2012 separation. Headcount wording changed from \"14,000\" to \"more than 14,000\". No value or commitment is added or removed; the changes are historical facts and figures."
+ }
+}

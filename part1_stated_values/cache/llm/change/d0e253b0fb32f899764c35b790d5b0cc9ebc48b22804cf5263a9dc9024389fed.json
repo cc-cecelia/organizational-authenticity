@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2136,
+  "output_tokens": 115,
+  "request_id": "req_011CgCA5wKKF2mkTti9wjpxG"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2017 diff changes only business description: headcount updated from 55,000 to 50,000, a founding date (1919) added, the headquarters sentence dropped, and the upstream service description reworded. No mission, values or commitments are added, removed or reweighted, so this is an updated fact and wording change."
+ }
+}

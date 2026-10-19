@@ -1,0 +1,50 @@
+{
+ "label": "MRK 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4979,
+  "output_tokens": 580,
+  "request_id": "req_011CgC8tiYwyA5mFkxpXr9FY"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We are responsible to our customers, to our competitors, to distributors and suppliers, to shareholders and to the communities we serve worldwide."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We reward commitment and performance and are responsive to the needs of our employees and their families."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity, safety and teamwork of our employees."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We demonstrate our commitment to patients and population health by increasing access to health care through far-reaching policies, programs and partnerships."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "We are responsible to our customers, to our competitors, to distributors and suppliers, to shareholders and to the communities we serve worldwide."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We are committed to the highest standards of ethics and integrity."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity, safety and teamwork of our employees."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We are dedicated to innovation and scientific excellence."
+   }
+  },
+  "analyst_notes": "Aspirational and patient-centred, led by 'Patients first' and mission language to 'save and improve lives'. Commitments are largely absolute ('We are committed', 'We are dedicated'), with few hedges. Voice is mostly first-person plural. Stakeholders are addressed in the value list order, with patients foregrounded ahead of employees and shareholders."
+ }
+}

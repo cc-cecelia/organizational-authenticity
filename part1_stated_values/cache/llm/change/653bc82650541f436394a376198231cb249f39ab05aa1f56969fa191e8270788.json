@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2481,
+  "output_tokens": 115,
+  "request_id": "req_011CgCA1N7CFTMZHiK3AWqSx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds a new headline commitment, \"Committed to creating a better future for cancer patients\", plus new sections on ethics and compliance, diversity and inclusion, sustainability, responsibility, and health equity. The mission-style paragraph is retained, so the emphasis on values shifts."
+ }
+}

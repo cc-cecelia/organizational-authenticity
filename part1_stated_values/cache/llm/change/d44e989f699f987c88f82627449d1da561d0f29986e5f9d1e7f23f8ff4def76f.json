@@ -1,0 +1,13 @@
+{
+ "label": "PFE 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2109,
+  "output_tokens": 117,
+  "request_id": "req_011CgC8xRZ7Jk1kr1f4ndcPB"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed UN Global Goals support statement and family planning commitment ('committed to helping more women... access to family planning'); added emergency medicine access, a local vaccines approach referencing UN Sustainable Development Goals, and news teasers. Shifts emphasis from global health commitments toward emergency access and news items."
+ }
+}

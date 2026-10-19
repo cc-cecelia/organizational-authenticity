@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4710,
+  "output_tokens": 131,
+  "request_id": "req_011CgC9zWPz7X7Rpxi9vG2qx"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly capitalization and updated figures (170+ to 175+, 28 million to 30+ million, $4.3B to $5.1B R&D in 2018), plus a new intro line 'We Are AbbVie' about possibility and patient lives. Added Allergan offer legal notice is non-values; no core mission or value statements were substantively changed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "NKE 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3139,
+  "output_tokens": 1178,
+  "request_id": "req_011CgC96iYn3vAvEbMrGToBD"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We create products, services and experiences for today\u2019s athlete while solving problems for the next generation."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "The brightest leaders create opportunity and inspire others to do their best work."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Sustainable innovation is a catalyst for revolutionizing the way we do business"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "NIKE, Inc. is committed to building deeper community connections and spurring positive social change around the world."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "NIKE, Inc. fosters a culture of invention."
+   }
+  },
+  "analyst_notes": "Aspirational and largely third-person, using 'NIKE, Inc.' rather than 'we' for its key claims. Innovation dominates the headline and opening. Social commitment is stated firmly ('is committed to'). Sustainability is framed as a business opportunity. Athletes, the company and the world are named as beneficiaries. Employee and leadership language is brief."
+ }
+}

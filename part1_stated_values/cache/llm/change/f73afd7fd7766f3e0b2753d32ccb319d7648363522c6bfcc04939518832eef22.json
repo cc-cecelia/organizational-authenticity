@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4040,
+  "output_tokens": 169,
+  "request_id": "req_011CgC8Xu3Pj8cXSr7SPhcGG"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page drops the 2019 facts and company-info links (customers, employees, revenue, #1 claim) and adds values: 'Our mission is to help people see data in new ways', 'Growth Centric', 'People Oriented' (teamwork, quality, collaboration), 'Socially Responsible' ('sustainability is good business') and 'Diverse and Inclusive' ('we celebrate them'). Mostly new value framing, plus a new history timeline."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3480,
+  "output_tokens": 169,
+  "request_id": "req_011CgCA2SQSF7sinhh633Trq"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page drops the 2022 mission statement ('accelerate the world's transition to sustainable energy') and founding story, adding 'Accelerating the World's Transition to Sustainable Energy' as a headline. New emphasis on 'Make it (Ridiculously) Fun', 'extreme scale', and 'first-principles' problem solving; safety and fossil-fuel-transition commitments are reframed; the 2022 safety-training commitment is removed."
+ }
+}

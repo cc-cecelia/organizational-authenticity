@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2566,
+  "output_tokens": 113,
+  "request_id": "req_011CgC9LtWTCKAJh7xJE9vn7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Largely reformatted into bullets, but the 2022 text adds an explicit 'accident-free, incident-free workplace' goal and drops the 'Integrity' and 'Respect' framing and the 'driven, accomplished professionals' line; community partnership shifts to 'stakeholders'."
+ }
+}

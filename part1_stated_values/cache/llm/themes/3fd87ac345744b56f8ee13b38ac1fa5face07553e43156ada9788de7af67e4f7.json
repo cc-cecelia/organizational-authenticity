@@ -1,0 +1,50 @@
+{
+ "label": "CVX 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3818,
+  "output_tokens": 592,
+  "request_id": "req_011CgC9FE61FZgpGUYzjdEFk"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We build trusting and mutually beneficial relationships by collaborating with our communities, governments, customers, suppliers and other business partners."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Invest in people to develop and empower a highly-competent workforce that delivers results the right way"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We have an inclusive work environment that values the uniqueness and diversity of individual talents, experiences and ideas."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We place the highest priority on the health and safety of our workforce and protection of our assets, communities and the environment."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We conduct our business in a socially and environmentally responsible manner, respecting the law and universal human rights to benefit the communities where we work."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "Our strategies guide our actions to deliver industry-leading results and superior shareholder value in any business environment."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We earn the trust of our colleagues and partners by operating with the highest ethical standards in all we do."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "We place the highest priority on the health and safety of our workforce and protection of our assets, communities and the environment."
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "always look for innovative and agile solutions"
+   }
+  },
+  "analyst_notes": "Aspirational, principle-driven tone with a Chevron Way framing around vision, people and performance. Values are stated in third person plural ('We'), with mostly absolute commitments ('highest priority', 'highest ethical standards'). Safety and integrity lead; shareholder value and returns appear in strategy sections, which are more financial than the values statements."
+ }
+}

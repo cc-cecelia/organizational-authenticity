@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2591,
+  "output_tokens": 131,
+  "request_id": "req_011CgC9zWTxLRoXiTG5XzK9D"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly capitalization, punctuation and rewording of headings; the mission line is kept with the same meaning. Changes include updated headcount (~30,000 to ~47,000), added 'but we're really just getting started', and a new 'Our history' heading. The ethics and compliance commitment text is unchanged apart from '&' replacing 'and'."
+ }
+}

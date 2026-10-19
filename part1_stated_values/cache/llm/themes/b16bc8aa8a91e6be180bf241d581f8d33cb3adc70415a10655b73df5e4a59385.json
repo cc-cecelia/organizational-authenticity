@@ -1,0 +1,50 @@
+{
+ "label": "COP 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4273,
+  "output_tokens": 1705,
+  "request_id": "req_011CgC9GCsrWmdc3FsHtstWa"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "expected to reduce the facility\u2019s carbon emissions from power generation by 20 percent"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "When the Norwegian government needed help placing migrants in IT jobs, ConocoPhillips Norway stepped up."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "to safely find and deliver energy to the world"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through that history we have become a technical company committed to innovation and the responsible development of energy."
+   }
+  },
+  "analyst_notes": "Mostly factual and descriptive, with first-person plural voice and superlative self-description such as 'world's largest' and 'unmatched'. Stated commitments are few and framed as commitment to E&P and innovation. Stakeholder emphasis is thin; the social-media feed adds employee and community examples, but these are not framed as values."
+ }
+}

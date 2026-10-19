@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2720,
+  "output_tokens": 96,
+  "request_id": "req_011CgC9ywoAetMW1B96AjbRj"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds a mission and a set of six stated values (customers, excellence, integrity, respect for people, different views, teamwork, communities). The 2018 page had only a generic service tagline and rotating press releases, so the standing statements are new."
+ }
+}

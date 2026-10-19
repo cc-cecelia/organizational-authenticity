@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2096,
+  "output_tokens": 150,
+  "request_id": "req_011CgC9MPdejT8XgnfXYa5Jg"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page adds a business-description sentence, a \"We Are the Makers and Movers\" tagline, and a stated vision with core values of \"safety, honor and commitment\", replacing the generic \"guiding principles\" line. It also drops the explicit \"Providing Energy, Improving Lives\u00ae\" wording in favor of punctuated version and removes the colon introducing the shareholder-value strategies."
+ }
+}

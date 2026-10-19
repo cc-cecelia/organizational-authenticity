@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4345,
+  "output_tokens": 2305,
+  "request_id": "req_011CgC92cuLQPtMoPUtsLZjp"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Leaders have a vision for and commitment to their employees\u2019 personal success, whether that be at Amazon or elsewhere."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Leaders create more than they consume and always leave things better than how they found them."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our local communities, planet, and future generations need us to be better every day."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Aspirational, directive voice addressed to leaders, using third-person 'Leaders' with occasional 'we'. Customers and employees come first; absolute, habitual wording ('never', 'always', 'every day'). Distinctive phrasing includes 'Earth's Best Employer' and 'not invented here'. Shareholder and community content is framed indirectly through long-term value and broad responsibility."
+ }
+}

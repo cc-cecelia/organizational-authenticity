@@ -1,0 +1,13 @@
+{
+ "label": "COP 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3137,
+  "output_tokens": 140,
+  "request_id": "req_011CgC9GzyXCPuNhUSduna96"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2020 adds posts on racial justice and human rights (\"standing for racial justice\", \"Condemning racial injustice, championing human rights\"), DEI-related Pride messaging, and stormwater/water and innovation items, while removing 2019 items on Forbes employer recognition, a battery innovation project and community stories. This shifts emphasis toward dei, community and environment."
+ }
+}

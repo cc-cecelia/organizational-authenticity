@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3503,
+  "output_tokens": 2560,
+  "request_id": "req_011CgC9NMQk1wvRhB5Uvjmmf"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We are guided by five principles, in Safety, Environment, Community, Employees and Governance."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "continued efforts to reduce emissions"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "protecting our communities"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "disciplined management of capital and long-term value"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "The Highest Standards"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "industry-leading safety records"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Valero is leading through innovation, ingenuity and unmatched execution"
+   }
+  },
+  "analyst_notes": "Confident, self-promotional tone led by scale claims ('world's largest') that are business description, not values. Uses first-person plural 'we' throughout. Environment and safety appear in the lead paragraph; community, employees and governance appear only as principle names. Commitments are mostly absolute ('the best-in-class', 'the highest standards'), with 'responsibly' the only hedge. Customers receive no direct value statement."
+ }
+}

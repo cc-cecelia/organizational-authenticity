@@ -1,0 +1,13 @@
+{
+ "label": "META 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2226,
+  "output_tokens": 115,
+  "request_id": "req_011CgC9xKysGBMjFAaGZwsXz"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mission text was reworded mainly by adding 'mixed reality' and a new 'OUR MISSION' heading, while the same mission statement and values sentence were kept. Navigation links such as 'Our leadership' and 'Our History' were reordered, and 'Explore current openings' was removed."
+ }
+}

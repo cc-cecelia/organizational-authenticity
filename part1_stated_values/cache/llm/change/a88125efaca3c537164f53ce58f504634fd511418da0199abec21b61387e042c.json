@@ -1,0 +1,13 @@
+{
+ "label": "C 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2887,
+  "output_tokens": 165,
+  "request_id": "req_011CgC8odsX2J6QfZG5j5N4n"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Headline metrics updated (assets to nearly $5 trillion, 19,000 clients, 180 countries) and client claim changed from 90% of global Fortune 500 to 85% of Fortune 500. Mostly updated figures and news teasers, but the removal of 'institutional clients' framing and the shift toward 'Growth & Prosperity' and 'Technology & Innovation' article tags modestly shifts emphasis toward innovation and growth."
+ }
+}

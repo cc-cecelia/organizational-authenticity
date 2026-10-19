@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3298,
+  "output_tokens": 425,
+  "request_id": "req_011CgCA3TaQDqpRCtnjUoFrV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a formal \"Our Mission: Fueling the world safely and responsibly\" and \"Our guiding principles\" with a \"committed to being the world's premier\" statement. Drops the \"commitment to high ethical standards, compliance and integrity\" line, and adds \"safely and responsibly\" framing throughout."
+ }
+}

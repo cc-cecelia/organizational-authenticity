@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4067,
+  "output_tokens": 173,
+  "request_id": "req_011CgC8tzY8GMn4j4hioen4p"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2022 drops 'mission to save and improve lives' and 'invent for a more hopeful future' for 'Our purpose: We use the power of leading-edge science to save and improve lives'. Adds explicit DEI emphasis ('We foster a diverse and inclusive global workforce'), stakeholder list including employees and patients, and 'innovative health solutions'. Removes philanthropy-era access-policy language and the 'mission' framing; swaps news teasers and updates figures."
+ }
+}

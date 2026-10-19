@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3582,
+  "output_tokens": 126,
+  "request_id": "req_011CgC9yqZ8QUk7YhFNsf7Si"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 'Coming together with a single goal: to serve you' and 'it is your tomorrow we care about most'; added 'One combined company dedicated to serving investors across every phase of their financial journeys.' The standing service-commitment statement is reworded toward investors and combined-company framing. Other changes are news, awards, and footnote updates."
+ }
+}

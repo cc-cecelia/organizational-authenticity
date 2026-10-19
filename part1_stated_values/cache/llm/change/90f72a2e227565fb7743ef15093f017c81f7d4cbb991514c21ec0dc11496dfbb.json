@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2022,
+  "output_tokens": 121,
+  "request_id": "req_011CgC9wtwDewRYcUhLeW7dp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the CSR description of being a responsible partner that is inclusive, transparent and respects human rights, plus the Philanthropies and Trustworthy Computing sections on digital inclusion and secure, private computing. Added a belief that technology is a force for good and a commitment to a sustainable future with access to technology's benefits."
+ }
+}

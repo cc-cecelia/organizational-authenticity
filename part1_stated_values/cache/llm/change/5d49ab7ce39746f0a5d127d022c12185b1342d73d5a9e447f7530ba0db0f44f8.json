@@ -1,0 +1,13 @@
+{
+ "label": "META 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4147,
+  "output_tokens": 97,
+  "request_id": "req_011CgC9xAoTegoEXqBuSLnii"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated employee count, user metrics, office and data center lists, and executive bios; the Chris Cox bio drops the 'mission, values and people strategy' phrase. No mission, values or stated commitments were added, removed or reworded in meaning."
+ }
+}

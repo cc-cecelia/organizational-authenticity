@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2090,
+  "output_tokens": 334,
+  "request_id": "req_011CgC91rLSci9CjJp3CvYVp"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page drops the headline commitment to 'creating a better future for cancer patients' and the 'patient care' pledge, the 'people and patients are at the center' priority, the top-employer claim, and the Foundation's health equity commitment. It adds only the 'Our Company' mission link and renames Diversity & Inclusion to 'Global Inclusion & Diversity'."
+ }
+}

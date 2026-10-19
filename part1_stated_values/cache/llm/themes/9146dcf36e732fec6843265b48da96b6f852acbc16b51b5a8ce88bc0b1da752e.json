@@ -1,0 +1,50 @@
+{
+ "label": "MPC 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3639,
+  "output_tokens": 1612,
+  "request_id": "req_011CgC9KhjXeSAUQ3zP5YJz8"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We strive to provide our employees with a collaborative, supportive and inclusive work environment where they can maximize their full potential for personal and business success."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We value diversity in culture, background, perspective and experiences."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are committed to safe and environmentally responsible operations"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We actively partner with our communities, governments, and business partners to find and create shared values, making a positive difference together."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity at MPC is more than the business conduct policies and procedures we follow."
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "Protecting our people and the world we all share is a priority to MPC."
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with headline value sections, and largely absolute wording such as We say what we're going to do and then do it. Safety and integrity lead, with inclusion and collaboration framed around employees and communities. Shareholders are mentioned only as a trust relationship. The Board section makes unhedged governance and transparency claims, while the History section is business description."
+ }
+}

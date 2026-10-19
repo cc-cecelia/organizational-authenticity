@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3057,
+  "output_tokens": 143,
+  "request_id": "req_011CgCA4AL6WwPztjgUrHuSL"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Rebranding from Schlumberger to SLB, and the core statement now emphasizes innovating oil and gas, decarbonizing industries, and scaling new energy systems for the energy transition, dropping 'cleaner, safer access to energy for every community'. New sections added on ethics and compliance, planet balance, and values, reflecting a shift toward energy transition and integrity emphasis."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2230,
+  "output_tokens": 117,
+  "request_id": "req_011CgCA4b4PZEySHZakKKzV5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Replaced the 'name reflects our rich history' and 'vision and values' intro with a corporate history narrative (1875 predecessors, 2002 ConocoPhillips merger, 2012 separation). Employee count changed from '14,000' to 'more than 14,000'. No value statements added or removed."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "GS 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3967,
+  "output_tokens": 1244,
+  "request_id": "req_011CgC8fhLuWAnfToy1anRzM"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our clients\u2019 interests always come first."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We make an unusual effort to identify and recruit the very best person for every job."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "For us to be successful, our men and women must reflect the diversity of the communities and cultures in which we operate."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Our goal is to provide superior returns to our shareholders."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity and honesty are at the heart of our business."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "We stress creativity and imagination in everything we do."
+   }
+  },
+  "analyst_notes": "Declarative, first-person plural voice with absolute language ('always', 'never', 'unswerving'). Clients are listed first, then shareholders and people. Commitments are stated as principles rather than hedged. Distinctive phrasing includes 'rather be best than biggest'. Environment and community are absent."
+ }
+}

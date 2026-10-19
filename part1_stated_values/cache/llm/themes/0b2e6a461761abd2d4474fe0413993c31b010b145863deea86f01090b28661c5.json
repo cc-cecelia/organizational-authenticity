@@ -1,0 +1,50 @@
+{
+ "label": "LLY 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3820,
+  "output_tokens": 1220,
+  "request_id": "req_011CgC8ozYEA7445dxRfELMt"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "when your pain isn't minimized, dismissed, forgotten."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Because when medicine gets better all of us can get better."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Because when medicine gets better"
+   }
+  },
+  "analyst_notes": "Aspirational, emotive video script addressed to patients in second person, with a repeated 'when your care doesn't depend on your income' access theme. Values are framed around patients, not employees or investors. Commitments are absolute ('We will never stop trying') but unquantified. Tagline-driven: 'GET BETTER' and 'A Medicine Company' close the piece. No first-person company voice beyond 'We'."
+ }
+}

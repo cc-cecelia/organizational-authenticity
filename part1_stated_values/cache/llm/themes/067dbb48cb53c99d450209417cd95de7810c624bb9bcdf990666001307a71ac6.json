@@ -1,0 +1,50 @@
+{
+ "label": "OXY 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3299,
+  "output_tokens": 1654,
+  "request_id": "req_011CgC9NSxrShUVyXwksJeg8"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "we invest in our employees to ensure they have every opportunity to grow professionally and excel"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "with an unwavering commitment to safety and environmental stewardship"
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "To develop energy resources safely, profitably and responsibly to maximize shareholder value."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We demand integrity and personal accountability at every level of the company"
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "To develop energy resources safely, profitably and responsibly"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We promote innovation that improves processes and results"
+   }
+  },
+  "analyst_notes": "Corporate third-person-plural 'we' voice with absolute, emphatic phrasing ('We demand', 'unwavering commitment'). Mission and vision lead with shareholders and financial soundness before other stakeholders. Values are framed as three alliterated named terms. Investment is reframed around employees and assets. Partners and investors are named as audiences; communities and customers are absent."
+ }
+}

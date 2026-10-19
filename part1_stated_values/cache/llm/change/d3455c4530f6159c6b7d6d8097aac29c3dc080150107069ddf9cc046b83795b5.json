@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1946,
+  "output_tokens": 123,
+  "request_id": "req_011CgC9zdCWadEehaGkXq3th"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Only updated facts and figures changed: headcount rose from approximately 69,000 to 71,000 (as of 12/31/19), 2019 R&D expenses were $9.9 billion, and 2019 revenue was $46.8 billion, replacing 2018 figures. No values or commitments were added, removed or reworded."
+ }
+}

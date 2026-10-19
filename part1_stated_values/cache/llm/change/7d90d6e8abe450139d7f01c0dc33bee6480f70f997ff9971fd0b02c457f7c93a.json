@@ -1,0 +1,13 @@
+{
+ "label": "ABBV 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3746,
+  "output_tokens": 148,
+  "request_id": "req_011CgC9zXQVqq8w6bx2rw1pe"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds a stated mission (\"Our mission is to discover and deliver innovative medicines and products\"), new values on compassion, innovation, inclusion, community and integrity, and a commitment to diversity and equal treatment, while dropping the \"Our mission of improving lives\" framing and the old facts block. Emphasis shifts toward innovation, R&D investment and inclusion.}"
+ }
+}

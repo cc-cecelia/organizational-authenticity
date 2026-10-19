@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2145,
+  "output_tokens": 125,
+  "request_id": "req_011CgCA2kXMVbaykwcFyuNtE"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly capitalization, punctuation and chrome changes. Figures updated: 'nearly 1 million hours' replaces '1 million+', CEI year 2018 becomes 2022, and '1,800+ Target stores' is dropped for a female/leader-of-color framing. No mission, values or commitments were added or removed."
+ }
+}

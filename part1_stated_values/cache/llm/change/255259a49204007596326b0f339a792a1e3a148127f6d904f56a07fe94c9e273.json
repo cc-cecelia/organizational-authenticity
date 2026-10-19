@@ -1,0 +1,13 @@
+{
+ "label": "C 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2946,
+  "output_tokens": 109,
+  "request_id": "req_011CgC9z7hyusVTrRUvFSzuN"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures (\"Nearly $5 trillion\", 19,000 clients, 85% of Fortune 500, nearly 180 countries), a rotating news list replaced, and navigation/chrome changes. No mission, values or stated commitments were added, removed or reworded."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2975,
+  "output_tokens": 175,
+  "request_id": "req_011CgC9K9scQ6gVSdGXoyKTa"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page drops the 2021 story of pore-to-pipeline products, Schlumberger's 1920s well-logging origins, and the 'less-invasive' environmental-footprint commitment. It adds purpose, customer-centric and diversity language ('Our purpose', 'it is our diversity that makes us stronger'), cleaner and safer energy access for communities, and a Decarbonize/energy-transition push. Emphasis shifts toward customers, dei, community and environment."
+ }
+}

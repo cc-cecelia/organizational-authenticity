@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4046,
+  "output_tokens": 362,
+  "request_id": "req_011CgC9AtbNrmh6eaED6czRK"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "our mission is to deliver great value to our customers every day"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "Our strong financial returns and cash generation allow us to simultaneously invest in the growth of the business and return cash to shareholders."
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We are constantly innovating and testing new ideas"
+   }
+  },
+  "analyst_notes": "Factual, confident tone with absolute language such as 'constantly innovating' and 'great value'. Customers are addressed first through the mission statement, and shareholder returns and financial growth follow closely. The page uses third-person 'we' voice and little hedging. Employees, DEI, environment, community and safety receive no coverage."
+ }
+}

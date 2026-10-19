@@ -1,0 +1,50 @@
+{
+ "label": "TGT 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3911,
+  "output_tokens": 1703,
+  "request_id": "req_011CgC98oidr2L7MmgbKq5Fq"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We fulfill the needs and fuel the potential of our guests."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Our team is our greatest asset, so we invest in the growth and development of our team members and leaders"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "Diversity is core to every area of our business: from our team, to our suppliers, to the communities we serve."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We believe in being an active citizen and good neighbor in our communities."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "does the right thing for our communities, our shareholders and, above all, our guests"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "committed to building a team that does the right thing"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "delivering outstanding value, continuous innovation and exceptional experiences"
+   }
+  },
+  "analyst_notes": "Aspirational, guest-centred tone built on the 'Expect More. Pay Less.' slogan. Heavy first-person plural ('we believe', 'we invest'). Customers are addressed first, then team and diversity. Commitments are mostly phrased as beliefs or work-in-progress ('we work hard to'), with few absolute guarantees, though the 5 percent giving pledge is stated as unwavering."
+ }
+}

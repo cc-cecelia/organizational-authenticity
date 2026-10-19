@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2088,
+  "output_tokens": 129,
+  "request_id": "req_011CgC8rTAvAPB8fGSTtVcmm"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Added mostly chrome: skip link, browser-support notice, redirect warning and a 'Continue' button, plus an intro paragraph restating that Our Credo puts the people served first and crediting its 1943 origin. No value or commitment was removed or reframed; the Credo emphasis is unchanged from the prior version as shown in the diff."
+ }
+}

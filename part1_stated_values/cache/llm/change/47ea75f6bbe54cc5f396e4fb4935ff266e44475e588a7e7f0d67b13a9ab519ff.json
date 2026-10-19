@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2082,
+  "output_tokens": 126,
+  "request_id": "req_011CgC9AnZk3etiXHn3Vski2"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts: Canada dropped from the associates line, sales rose from $96.3B (2021) to $97.1B (2022), and communities count updated to 2022. The Total Home Strategy text changed only from \"we have launched\" to \"we launched\" (tense), with the same five focus areas and no shift in values or emphasis."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3785,
+  "output_tokens": 173,
+  "request_id": "req_011CgC8WPa4YeoMkAYUwnTPk"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page drops the 2018 'respect and value employees from every background' and 'communicate openly with our customers' values and the 'Growth' heading, adding an 'Ohana' guided-by-values framing, a privacy-of-customer-data emphasis, and a 'Customer Success' section with an 'Ensuring that all voices are welcome and heard' commitment. Shifts emphasis toward customers and inclusion wording, with a pivot to 'sales revenues' language."
+ }
+}

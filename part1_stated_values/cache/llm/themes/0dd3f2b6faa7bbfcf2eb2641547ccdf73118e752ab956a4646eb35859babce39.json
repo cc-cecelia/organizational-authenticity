@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3718,
+  "output_tokens": 1815,
+  "request_id": "req_011CgC8zSsHeQHLeEP6b53cJ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Patients are at the center of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "We have been recognized as a top employer that fosters a diverse, innovative, and progressive workplace."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Preservation of natural resources is one of our key commitments."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Through the Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases and conditions"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "The Bristol-Myers Squibb values and principles commit us to the highest standard of moral and ethical behavior"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Through our R&D organization, we have built a sustainable pipeline of potential therapies"
+   }
+  },
+  "analyst_notes": "Aspirational, patient-centred mission framing in a mostly first-person plural voice. Patients are addressed first and most often, with absolute phrasing such as 'at the center of everything we do'. Commitments to ethics, community and environment are stated briefly. Shareholders, safety and formal governance receive little or no attention on the page."
+ }
+}

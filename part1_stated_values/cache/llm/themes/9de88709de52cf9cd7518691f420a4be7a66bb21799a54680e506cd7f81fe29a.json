@@ -1,0 +1,50 @@
+{
+ "label": "WFC 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3304,
+  "output_tokens": 1805,
+  "request_id": "req_011CgC8erZkreH1ZoP8CtG82"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "We\u2019re building stronger communities by focusing on housing affordability, small business growth, financial health and sustainability."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We\u2019re building stronger communities by focusing on housing affordability, small business growth, financial health and sustainability."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We\u2019re helping to create long-term economic growth and improved quality of life for everyone in our communities."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Community-first framing: 'communities' recurs throughout, while customers and sustainability appear only in one list-style focus sentence. Voice is first-person plural with hedged verbs like 'helping' and 'focusing on'. Much of the text is teasers and calls to action, with few absolute commitments. Governance and recruiting appear only as chrome labels."
+ }
+}

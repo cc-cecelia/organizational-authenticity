@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2240,
+  "output_tokens": 123,
+  "request_id": "req_011CgCA2w5qYVMsUa2HFw3to"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated figures: 19M+ to 16M+, sales $97.1B (2022) to $86.4B (2023), and removed $100M invested in communities. Mission wording drops \"we\" (\"Together, deliver\") and \"omni-channel\" becomes \"omnichannel\"; no shift in stated values."
+ }
+}

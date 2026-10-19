@@ -1,0 +1,13 @@
+{
+ "label": "GS 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2999,
+  "output_tokens": 143,
+  "request_id": "req_011CgC8gmWDKv9h7TgBCAd2c"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2020 adds a 'Our First Year as a Signatory' section reporting progress toward the Women in Finance Charter goal and commits to sustaining it. It also adds 'ensure they receive the development opportunities' and 'it just makes good business sense', and changes 'men and women' to 'our people'. It removes the admission 'it is not enough' and the 'Yet we are committed' passage."
+ }
+}

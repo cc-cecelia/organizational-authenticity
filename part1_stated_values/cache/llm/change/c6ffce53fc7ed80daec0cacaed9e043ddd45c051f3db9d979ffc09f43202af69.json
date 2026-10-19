@@ -1,0 +1,13 @@
+{
+ "label": "LLY 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2092,
+  "output_tokens": 102,
+  "request_id": "req_011CgC8p74tE4oS2NKZHg5Vi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 removes the separate Our mission, Our vision and Our values sections (integrity, excellence, respect for people) and replaces them with a single Our Purpose statement; 'unites caring with discovery' is kept but now aims to 'create medicines that make life better'."
+ }
+}

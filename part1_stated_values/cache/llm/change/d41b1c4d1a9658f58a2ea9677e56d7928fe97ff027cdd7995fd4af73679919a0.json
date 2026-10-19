@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2529,
+  "output_tokens": 100,
+  "request_id": "req_011CgCA3XtrspM4gaAgN8p8x"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly layout and facts: history updated from 135 to 140 years, whitespace and the 'About us' label removed. Governance intro sentences and governance/navigation links were dropped, with no change to the stated commitment to high ethical standards or integrity."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2108,
+  "output_tokens": 107,
+  "request_id": "req_011CgC9z2rXXA8dnFPiia7mc"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The visible text changed mainly through navigation chrome and rotating newsroom teasers (e.g., CFO retirement announcement, BET Awards watch party). No mission, values, or stated commitments were added, removed, or reworded, so the page's standing statements are unchanged."
+ }
+}

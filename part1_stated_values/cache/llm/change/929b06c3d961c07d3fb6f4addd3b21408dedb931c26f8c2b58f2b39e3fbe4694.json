@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2113,
+  "output_tokens": 126,
+  "request_id": "req_011CgC8QchggcZ9bC8QQW6Td"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2019 adds a mission statement (\"empower every person and every organization on the planet to achieve more\"), value headlines for innovation as a \"force for good\", diversity and inclusion, CSR, AI and Trustworthy Computing. It removes the research-lab description and the sustainability commitment (\"lead the way in sustainability\")."
+ }
+}

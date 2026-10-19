@@ -1,0 +1,13 @@
+{
+ "label": "XOM 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2330,
+  "output_tokens": 92,
+  "request_id": "req_011CgC9EB2SHaqW9kY8nWwjV"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2019 page removed navigation-style product and region menu items (Mobil, Esso, Mobil 1, regional lists). These are site chrome, not values or commitments, so no stated value, mission, or stakeholder changed."
+ }
+}

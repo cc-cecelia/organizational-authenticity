@@ -7,8 +7,11 @@ venv/
 __pycache__/
 *.pyc
 
-# Raw archived HTML cache (large, re-creatable from Wayback)
-part1_stated_values/cache/
+# Part 1 caches: raw archived HTML, CDX and discovery results are large and
+# re-creatable from Wayback, so they stay out. The LLM response cache (cache/llm/,
+# ~3 MB) is committed so the LLM step reproduces exactly and offline.
+part1_stated_values/cache/*
+!part1_stated_values/cache/llm/
 data/cache/
 
 # OS / editor

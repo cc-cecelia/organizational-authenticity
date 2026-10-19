@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4862,
+  "output_tokens": 1385,
+  "request_id": "req_011CgC8M8N29ByBmGe6ynY2b"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We have to be client focused."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "being a great place to work for our teammates"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "sharing our success with our communities"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We have to grow \u2014 no excuses."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "maintaining strong guidelines for business practices and professional and personal conduct"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Corporate and aspirational, using first-person plural we throughout. Responsible growth is the headline frame, with growth stated as absolute and resolute, while clients are listed first. Community and employees appear as tenet elements. Legal disclaimers note that company goals are aspirational, not guarantees. Wording is largely abstract, with no environmental or safety commitments."
+ }
+}

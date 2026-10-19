@@ -1,0 +1,50 @@
+{
+ "label": "F 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3501,
+  "output_tokens": 1900,
+  "request_id": "req_011CgC9BwkQjLWfKLYnMZtLS"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We are committed to providing the products our customers want in the markets where we know we can win."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are committed to producing clean-running cars - without sacrificing the power, style, and performance customers expect."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our goal is to create a set of mobility experiences that win trust, protect data, and address problems of congested cities."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "To become the world\u2019s most trusted company,"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "designing smart vehicles for a smart world."
+   }
+  },
+  "analyst_notes": "Aspirational tone in a first-person plural voice, with firm commitments ('We are committed to') and a heritage section plus executive quotes. Leads with freedom of movement and smart, autonomous technology, then customers and environment. Trust recurs. Workforce, DEI, safety and shareholder returns are largely absent."
+ }
+}

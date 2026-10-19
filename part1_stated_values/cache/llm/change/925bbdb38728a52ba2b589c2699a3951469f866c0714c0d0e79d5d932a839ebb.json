@@ -1,0 +1,13 @@
+{
+ "label": "VLO 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2187,
+  "output_tokens": 111,
+  "request_id": "req_011CgC9PCPHGsmfJ13fC8h5R"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Rank claims changed from 'largest independent refiner' and 'second largest renewable fuels producer' to 'largest' in both categories; plant facts updated (DGD plants now next to refineries in St. Charles and Port Arthur). No stakeholder values or commitments added or removed."
+ }
+}

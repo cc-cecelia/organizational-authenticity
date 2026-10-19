@@ -1,0 +1,50 @@
+{
+ "label": "TMO 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3745,
+  "output_tokens": 1378,
+  "request_id": "req_011CgC8ux2agaC54qr2pGQx4"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "offers customers convenient access to a complete portfolio of laboratory equipment"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "protecting our global climate"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "improving life for patients"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "our customers look to Thermo Fisher Scientific for innovative solutions"
+   }
+  },
+  "analyst_notes": "Aspirational opening quote, then mostly factual brand and service descriptions. Customers are addressed first, and the page uses first-person plural 'we' and 'our'. Commitments are largely implied rather than stated as absolute pledges. Wording such as 'push science and technology a step beyond' is distinctive. Employees, DEI, integrity and shareholder concerns are absent."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "LLY 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3292,
+  "output_tokens": 1490,
+  "request_id": "req_011CgC8oqJ7Kv3y8UvJGMBCx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "the people we serve starting with those who take our medicines"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We maintain an environment built on mutual respect, openness and individual integrity."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "Respect for people includes our concern for all people who touch or are touched by our company"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "the communities in which we live"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "strive to deliver superior business results"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity: We conduct our business consistent with all applicable laws"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We pursue pharmaceutical innovation"
+   }
+  },
+  "analyst_notes": "Heritage-driven, aspirational tone opening with the 1876 founding and a Purpose statement. Uses first-person plural 'we' with absolute, unhedged commitments. Three named core values (Integrity, Excellence, Respect for People) structure the page. Customers are addressed first, with employees, communities and shareholders following."
+ }
+}

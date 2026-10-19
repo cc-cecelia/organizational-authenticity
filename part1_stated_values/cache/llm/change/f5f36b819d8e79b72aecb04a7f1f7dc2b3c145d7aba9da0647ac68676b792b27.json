@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2979,
+  "output_tokens": 122,
+  "request_id": "req_011CgCA47qY1JayBw9UhUewm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page replaces the 2019 'Corporate Profile' (knowledge, teamwork, technology innovation) with 'Who We Are' text adding new standing statements: energy powers society's progress, and minimizing environmental footprints while maximizing positive influence on communities, a clear new emphasis on environment and community."
+ }
+}

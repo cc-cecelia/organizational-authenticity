@@ -1,0 +1,13 @@
+{
+ "label": "JNJ 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3100,
+  "output_tokens": 167,
+  "request_id": "req_011CgC8rRR14ndo4weFJg1vC"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 Credo reframes employee and community commitments: adds 'inclusive work environment', 'respect their diversity', 'sense of security, fulfillment and purpose', 'support the health and well-being of our employees', and 'help people be healthier'; adds 'provide value' and 'investments made for the future'; changes 'customers' to 'patients' first; drops the intro paragraph on Robert Wood Johnson and the 'put the needs... first' framing."
+ }
+}

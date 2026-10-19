@@ -1,0 +1,13 @@
+{
+ "label": "COP 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2907,
+  "output_tokens": 130,
+  "request_id": "req_011CgCA3sLtowQdtNxZYoq4c"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The changes are almost entirely rotating featured content: social posts, news teasers and story headlines were swapped (e.g., removed 'Condemning racial injustice, championing human rights' and 'Juneteenth' posts; added 'Accelerating analytics', 'A spotlight on sustainability'). No mission, values or stated commitments changed."
+ }
+}

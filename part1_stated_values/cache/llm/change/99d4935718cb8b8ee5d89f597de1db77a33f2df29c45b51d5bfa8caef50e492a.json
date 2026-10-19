@@ -1,0 +1,13 @@
+{
+ "label": "MSFT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2172,
+  "output_tokens": 111,
+  "request_id": "req_011CgC9wu5A58AMfRRPXxc1T"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds a mission statement ('empower every person and every organization on the planet to achieve more'), core commitments to innovation as a force for good, diversity and inclusion, CSR, AI and Trustworthy Computing. It drops the research-organization and sustainability featured blurbs."
+ }
+}

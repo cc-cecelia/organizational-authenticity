@@ -1,0 +1,50 @@
+{
+ "label": "MSFT 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3147,
+  "output_tokens": 1821,
+  "request_id": "req_011CgC8QRgQ48ej2aF4rpmzE"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "deliver secure, private, and reliable computing experiences"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Explore how we maximize every person\u2019s contribution\u2014from our employees to our customers"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "so that the way we innovate naturally includes diverse thought"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "we lead the way in sustainability and use our technologies to minimize the impact of our operations and products"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "investing technology, money, employee talent, and the company\u2019s voice in programs that promote digital inclusion"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "be a responsible partner to those who place their trust in us"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Learn about innovations from our computer science research organization"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person-plural voice with absolute verbs such as lead, maximize and empower; no hedging. Opens with research and innovation, then moves to people, inclusion, sustainability and trust. Scale claim about 1,000 researchers is business description. Health and safety is absent."
+ }
+}

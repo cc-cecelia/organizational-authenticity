@@ -1,0 +1,50 @@
+{
+ "label": "AXP 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3457,
+  "output_tokens": 480,
+  "request_id": "req_011CgC8kkzZKEz6qVdff99TZ"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Provide the world\u2019s best customer experience every day."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We view each other as colleagues \u2013 part of the same team, striving to deliver the brand promise to our customers and each other every day."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We are a diverse and inclusive company, and serve diverse customers."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We aim to make a difference in the communities where we work and live."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Become essential to our customers by providing differentiated products and services to help them achieve their aspirations."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We earn that trust by ensuring everything we do is reliable, consistent, and with the highest level of integrity."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "From our innovative products to our world-class customer service, our customers expect the best"
+   }
+  },
+  "analyst_notes": "Customer-centric and aspirational, with absolute phrasing such as 'every day' and 'unparalleled'. Mostly first-person plural voice. Customers are addressed first and most often; employees, DEI and integrity appear as value statements. No environment or safety content. The 'Our Values' section drives the framing, and the commitments are stated rather than hedged."
+ }
+}

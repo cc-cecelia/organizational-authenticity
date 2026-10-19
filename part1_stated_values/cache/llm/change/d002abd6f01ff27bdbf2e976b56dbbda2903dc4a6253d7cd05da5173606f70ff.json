@@ -1,0 +1,13 @@
+{
+ "label": "META 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2167,
+  "output_tokens": 137,
+  "request_id": "req_011CgC8Vd5eTcozWwRejVDnq"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly reordering and relabeling: the mission text is re-headed as 'OUR MISSION', 'Our leadership' and 'Our History' are reordered, and 'augmented and virtual reality' becomes 'augmented, virtual and mixed reality'. The values sentence is unchanged; the 'Explore current openings' recruiting prompt is removed."
+ }
+}

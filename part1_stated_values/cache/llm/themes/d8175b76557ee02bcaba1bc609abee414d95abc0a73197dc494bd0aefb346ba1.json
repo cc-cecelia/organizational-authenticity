@@ -1,0 +1,50 @@
+{
+ "label": "VLO 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3372,
+  "output_tokens": 446,
+  "request_id": "req_011CgC9MZ3SYbgHAWEvgqj1e"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "The page is purely factual and third-person, describing scale, assets, outlets and footprint with no stated values, commitments or priorities. It uses no first-person voice, no aspirational language and no hedged or absolute commitments. Employees, customers and shareholders are mentioned only as counts or market facts, so no stakeholder is addressed first."
+ }
+}

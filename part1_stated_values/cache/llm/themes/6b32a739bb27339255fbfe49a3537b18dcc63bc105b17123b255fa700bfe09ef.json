@@ -1,0 +1,50 @@
+{
+ "label": "MCD 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3409,
+  "output_tokens": 1200,
+  "request_id": "req_011CgC96KRUhoVc8DtFTLrbB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We put our customers and people first"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We will elevate our people practices to ensure our people feel welcomed, valued, and part of the McDonald\u2019s community"
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "We open our doors to everyone"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We are good neighbors"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We do the right thing"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "fostering a safe, respectful and inclusive workplace"
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Warm, aspirational, first-person plural voice throughout. Values appear as short headline statements, with customers listed first under 'Serve'. Commitments are largely unhedged ('we are committed to'). Much of the text is mission and feel-good branding rather than measurable pledges. Environment, shareholders and innovation are absent."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3423,
+  "output_tokens": 1639,
+  "request_id": "req_011CgC8hMoxepNMhgmxtWNEN"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Our promise is to give them insight into what to do with their money"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "take into account environmental, social and governance issues"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We aim to be a responsible corporate citizen"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "find the best balance of risk and return across all investment styles on behalf of our clients"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "As a fiduciary for our clients"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual scale claims plus aspirational promises. Clients are addressed first, with the firm speaking in first-person plural. Commitments are hedged ('we aim', 'we strive'), though 'Our promise' is absolute. ESG appears briefly and is framed around financial impact. Employees, DEI and innovation are absent."
+ }
+}

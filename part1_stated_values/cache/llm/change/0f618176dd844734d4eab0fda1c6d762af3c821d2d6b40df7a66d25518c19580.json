@@ -1,0 +1,13 @@
+{
+ "label": "F 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2429,
+  "output_tokens": 117,
+  "request_id": "req_011CgCA3DS71igbe3NtKaQW6"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2018 page drops the 'Contributing to a better world always has been a core value' sustainability statement and Henry Ford vision line, replacing them with 'freedom of movement drives human progress' and an aspiration to be 'the world's most trusted company', plus Ford Fund focus on social mobility and basic needs."
+ }
+}

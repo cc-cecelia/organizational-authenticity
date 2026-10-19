@@ -1,0 +1,13 @@
+{
+ "label": "ABT 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2188,
+  "output_tokens": 165,
+  "request_id": "req_011CgC9zzuUa3zgWnDD52TGv"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds a new standing statement: \"our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them,\" framed as a commitment. It also adds a \"WHO WE ARE\" heading, a \"LIFE-CHANGING TECHNOLOGY\" section, and a \"LIFE. TO THE FULLEST.\" tagline; the removed anthem line is replaced by the purpose statement."
+ }
+}

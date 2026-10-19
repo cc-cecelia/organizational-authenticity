@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1981,
+  "output_tokens": 105,
+  "request_id": "req_011CgC9ytSWkCPQs7jRet2YH"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2017 diff only adds dated news teasers: a dividend increase and $4.4 billion share buyback, a millennials and historic places study, and Express Checkout rollout. These are rotating featured content and updated facts, not changes to the page's stated values or commitments."
+ }
+}

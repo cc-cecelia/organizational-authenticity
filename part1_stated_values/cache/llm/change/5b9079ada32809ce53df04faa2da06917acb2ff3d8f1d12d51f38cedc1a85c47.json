@@ -1,0 +1,13 @@
+{
+ "label": "BMY 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3423,
+  "output_tokens": 111,
+  "request_id": "req_011CgC91AqA8wxRzNE2vZ7q5"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2020 page drops the mission statement and the 'highest standard of moral and ethical behavior' integrity language, adds 'Passion, innovation, urgency, accountability, inclusion and integrity' as shared values and 'a positive impact in the communities', and emphasizes innovation and patients."
+ }
+}

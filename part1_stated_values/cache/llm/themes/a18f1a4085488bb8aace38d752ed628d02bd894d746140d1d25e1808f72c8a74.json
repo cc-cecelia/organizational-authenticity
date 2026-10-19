@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4003,
+  "output_tokens": 1873,
+  "request_id": "req_011CgC91u4AV1DcpyuKRKhGR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We work on behalf of our people to invent mechanisms for development like Career Choice."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "Leaders listen attentively, speak candidly, and treat others respectfully."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Aspirational and prescriptive, framed as Leadership Principles addressed to managers in the third person (\"Leaders\"), with few first-person company claims. Customers are placed first, and innovation and customer obsession dominate. Language is absolute (\"never\", \"always\", \"relentlessly\"). Diversity appears only as cognitive \"diverse perspectives\", not representation. Environment and community are absent."
+ }
+}

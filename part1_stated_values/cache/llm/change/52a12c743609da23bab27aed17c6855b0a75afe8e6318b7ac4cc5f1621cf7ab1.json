@@ -1,0 +1,13 @@
+{
+ "label": "MS 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2449,
+  "output_tokens": 137,
+  "request_id": "req_011CgC8MN1oZLTkv3c3A41cS"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the carbon-footprint item ('Reducing our Carbon Footprint', Westchester solar/fuel-cell) and added a commitment to equitable society and diversity of future leaders ('We are committed to supporting the next generation of leaders'), plus a 'lead with exceptional ideas' framing. Shifts emphasis from environment toward community and dei."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "META 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3333,
+  "output_tokens": 1863,
+  "request_id": "req_011CgC8UvcJyDcGomo8yi5WK"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "the makeup of our company reflects the diverse perspectives of the people who use our technologies"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We have a responsibility to promote the best of what people can do together"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "keeping people safe and preventing harm"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "we\u2019re building innovative new ways to help people feel closer to each other"
+   }
+  },
+  "analyst_notes": "Aspirational, mission-led framing in first-person plural, centring connection and technology's social potential. Commitments are mostly absolute ('We have a responsibility'), while the connection claim is hedged ('when they're at their best'). Innovation and the metaverse dominate. Customers and community come first; employees, shareholders and environment are absent."
+ }
+}

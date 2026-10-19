@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2935,
+  "output_tokens": 125,
+  "request_id": "req_011CgCA4MaGfMskRAyYHBDY7"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Old values (health and safety, environmental stewardship, ethics/transparency, citizenship, diversity) were replaced by new headings: Safety & Environmental Stewardship, Integrity, Respect, Inclusion, Collaboration. Shareholder-value framing was dropped; accident-free goal and collaboration with communities added."
+ }
+}

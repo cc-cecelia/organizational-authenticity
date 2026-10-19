@@ -1,0 +1,13 @@
+{
+ "label": "COP 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2082,
+  "output_tokens": 145,
+  "request_id": "req_011CgCA3xhruQDHN8atgcBAz"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The diff replaces rotating featured stories and news teasers from 2023 (boreal reclamation, DIG office move, 'Who We Are' offices) with 2024 teasers (Norway HSE milestone, Girls Talk Tech, Congo partnership, Australia Pacific LNG). The standing mission, values and commitments are unchanged, so this is featured-content rotation only."
+ }
+}

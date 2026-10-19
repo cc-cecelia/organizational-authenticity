@@ -1,0 +1,50 @@
+{
+ "label": "IBM 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3859,
+  "output_tokens": 1335,
+  "request_id": "req_011CgC8YmYxTzKdmYwSjBuG4"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Dedication to every client's success."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "defined by IBMers for IBMers"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "can improve business, society and the human condition"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Trust and personal responsibility in all relationships."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation that matters - for our company and for the world."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with absolute claims such as 'shape everything we do'. Client dedication and innovation lead as headline values, with trust following. Employees appear mainly as the origin of the values. The Palmisano quote stresses values over ethics and compliance, and the page says values 'mean more than ethics, compliance'."
+ }
+}

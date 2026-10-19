@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2181,
+  "output_tokens": 127,
+  "request_id": "req_011CgC9B2A4CGC7ZoyCCRTRd"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts: customers reached 16M+ (from 19M+), sales $86.4B in 2023 (from $97.1B in 2022), and the $100M community investment line was dropped. Mission text lost 'We' at the start and 'omni-channel' became 'omnichannel'. No values or stakeholder emphasis shifted."
+ }
+}

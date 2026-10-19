@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3802,
+  "output_tokens": 158,
+  "request_id": "req_011CgCA3cr1Pz6bq7Gdt15Ck"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2017 page drops the explicit values list (Integrity, Trust, Diversity, Ingenuity, Partnership, High performance) and renames them into merged headings like 'integrity and trust' and 'high performance'. It removes the 'Grow profitably' and renewable energy strategy language and adds 'industry-leading returns' and 'superior shareholder value'. Stated values and emphasis shift toward results and shareholder value."
+ }
+}

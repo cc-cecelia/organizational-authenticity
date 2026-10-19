@@ -1,0 +1,13 @@
+{
+ "label": "CRM 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5212,
+  "output_tokens": 160,
+  "request_id": "req_011CgC9xTM8PdcPuwcvQyRT5"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page replaces the 2021 Ohana/four core values framing with new mission and values text: 'Our mission is to deliver it' (connection), 'We act as trusted advisors' (trust), and new sections on equal opportunities, net zero, stakeholder capitalism and Pledge 1%. The 2021 'Nothing is more important... than the privacy' and 'Ensuring that all voices are welcome' statements are removed."
+ }
+}

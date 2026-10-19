@@ -1,0 +1,50 @@
+{
+ "label": "NVDA 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3252,
+  "output_tokens": 989,
+  "request_id": "req_011CgC8S47vFcE3L2TqJBXsx"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "NVIDIA'S Invention of the GPU"
+   }
+  },
+  "analyst_notes": "Factual and historical, framed around past invention and market impact rather than stated values. The page is mostly navigation and links, with no explicit commitments to any stakeholder. Innovation dominates through the headline and the GPU history. Voice is impersonal, with 'we' appearing only in link text, and the tone is promotional."
+ }
+}

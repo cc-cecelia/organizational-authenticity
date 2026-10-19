@@ -1,0 +1,50 @@
+{
+ "label": "SLB 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3507,
+  "output_tokens": 1733,
+  "request_id": "req_011CgC9JWwrgh3e8zac8C9Wc"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "they are at the center of everything we do"
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "We are industry leaders because of our exceptional and talented people."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "it is our diversity that makes us stronger"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "reduce your carbon footprint and accelerate the path to net zero"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "unlocks access to energy for the benefit of all"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "They are the core that drives our purpose and integrity"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Ever-evolving and constantly innovating, we transcend every cultural and technological boundary set before us."
+   }
+  },
+  "analyst_notes": "Aspirational, promotional tone in first-person plural ('we'). Customers and people are addressed first, with innovation as the dominant theme. Commitments are stated absolutely ('we want', 'we must') with little hedging. Energy transition appears only in a closing call-to-action section, which reads as a product promotion rather than a stated value."
+ }
+}

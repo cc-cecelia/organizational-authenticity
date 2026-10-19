@@ -1,0 +1,50 @@
+{
+ "label": "TJX 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3879,
+  "output_tokens": 1044,
+  "request_id": "req_011CgC9AqqgnrjXjbSn1VXbB"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "our mission is to deliver great value to our customers every day"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "we have delivered steady sales and earnings growth and some of the highest returns on investment we have seen in retail"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas"
+   }
+  },
+  "analyst_notes": "Mostly factual business description with confident, absolute self-claims such as leading, one of the most flexible, and some of the highest returns. First-person plural voice. Customers are addressed first through the mission statement, while growth and returns dominate the rest. Workforce, community and sustainability are absent."
+ }
+}

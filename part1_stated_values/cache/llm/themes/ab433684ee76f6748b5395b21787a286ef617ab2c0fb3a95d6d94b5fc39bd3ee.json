@@ -1,0 +1,50 @@
+{
+ "label": "MDT 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3440,
+  "output_tokens": 1875,
+  "request_id": "req_011CgC8xopZ6r3YGMY798Uam"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "To strive without reserve for the greatest possible reliability and quality in our products"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "To recognize the personal worth of employees by providing an employment framework that allows personal satisfaction in work accomplished"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "our first and foremost priority is to contribute to human welfare"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "To make a fair profit on current operations to meet our obligations, sustain our growth, and reach our goals."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "to be recognized as a company of dedication, honesty, integrity, and service"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "continuously build on these areas through education and knowledge assimilation"
+   }
+  },
+  "analyst_notes": "Aspirational, mission-driven framing led by human welfare and patient outcomes, with \"our\" and \"we\" voice throughout. Commitments are largely absolute (\"first and foremost,\" \"without reserve\"). Employees, integrity and citizenship appear later as bullet items. Distinctive archaic wording (\"Written in 1960,\" \"unsurpassed standard\") signals a long-standing creed."
+ }
+}

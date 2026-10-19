@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3760,
+  "output_tokens": 151,
+  "request_id": "req_011CgCA31zGf1sZ8WNq5q7zw"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The page's mission statement (deliver great value to customers every day) is unchanged. Updates are mainly new figures (revenue, stores, Associates), layout, and reworded business-model description. Shareholder-return language shifts from \"allow us to\" to \"Historically... allowed us\", and innovation wording moves from \"constantly innovating\" to \"testing new ideas\". No stated values are added or removed."
+ }
+}

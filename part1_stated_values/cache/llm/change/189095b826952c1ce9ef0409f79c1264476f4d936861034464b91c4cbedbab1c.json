@@ -1,0 +1,13 @@
+{
+ "label": "MS 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4662,
+  "output_tokens": 156,
+  "request_id": "req_011CgC8h9223u7Moxt9kiSY1"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page adds a Sustainability and Diversity & Inclusion emphasis, a 'Core Values' section naming four values (putting clients first, exceptional ideas, doing the right thing, giving back), and a 'Giving Back' core value. It removes the 1935-2013 history timeline, including community and children's health commitments and the 2013-2014 sustainability dedication, and changes the country count from 42 to 41."
+ }
+}

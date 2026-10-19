@@ -1,0 +1,50 @@
+{
+ "label": "COP 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4234,
+  "output_tokens": 2346,
+  "request_id": "req_011CgC9GFZLLyA5JwtU3zCBV"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "thousands of lights representing the thousands of #ConocoPhillips employees standing for racial justice"
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "See how an industry-leading stormwater management system at our #APLNG facility near Gladstone resulted in stormwater runoff from the site being cleaner"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "products that improve quality of life globally"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We are challenged with an important job to safely find and deliver energy to the world."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Through that history we have become a technical company committed to innovation and the responsible development of energy."
+   }
+  },
+  "analyst_notes": "Factual, business-led tone: opens with scale and capability claims and describes operations. Uses first-person plural 'we' and mostly absolute language ('committed'). Values are sparse; social posts add DEI and environment items. Customers, employees and integrity go unaddressed. 'Challenged with an important job' is distinctive wording."
+ }
+}

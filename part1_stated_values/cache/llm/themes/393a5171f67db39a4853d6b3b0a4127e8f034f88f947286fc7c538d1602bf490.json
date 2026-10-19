@@ -1,0 +1,50 @@
+{
+ "label": "GOOGL 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5544,
+  "output_tokens": 2162,
+  "request_id": "req_011CgC8TMbR8ASL4EtHig7wX"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Focus on the user and all else will follow."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We put great stock in our employees"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "people from diverse backgrounds with creative approaches to work, play and life"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Google is a business."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "so it does not compromise the integrity of our search results"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Through innovation and iteration, we aim to take things that work well and improve upon them in unexpected ways"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice throughout, opening with users under the headline 'Focus on the user'. Commitments mix hedged phrasing ('we aim', 'we hope', 'we believe') with absolute claims ('never sold', 'never manipulate'). Revenue and business scale are described factually. Closes with an accountability invitation: 'you can hold us to that' is on the page's intro."
+ }
+}

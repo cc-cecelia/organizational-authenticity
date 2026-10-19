@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2101,
+  "output_tokens": 121,
+  "request_id": "req_011CgC9z3vXN5NvoTWD28Fmr"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The diff removes navigation chrome and dated news teasers (CFO retirement, BET Awards watch party, June 2023 experiences) and adds new section headers and dates (\"TRAVEL AND DINING\", \"PRODUCTS AND SERVICES\"). No mission, values or stated commitments change."
+ }
+}

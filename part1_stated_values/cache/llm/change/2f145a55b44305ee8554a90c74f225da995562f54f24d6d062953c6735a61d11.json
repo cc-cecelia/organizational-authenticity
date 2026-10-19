@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2834,
+  "output_tokens": 152,
+  "request_id": "req_011CgC9JQ7LietduuXgbijDE"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page adds values of teamwork and diversity (\"Reflecting our belief that diversity spurs creativity\"), technical innovation (\"place strong emphasis on developing innovative technology\"), and customer added value. It drops the 2018 stewardship/sustainability commitment and the Guiding Principles and accountability sections, shifting emphasis from social and environmental stewardship toward people and innovation."
+ }
+}

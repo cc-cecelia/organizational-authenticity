@@ -1,0 +1,13 @@
+{
+ "label": "INTC 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 7174,
+  "output_tokens": 165,
+  "request_id": "req_011CgC8ap54xe4NaZpNHwfMA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 version drops the 2022 'Catalyst for Wonderful' corporate responsibility framing, values list (Customer First, Integrity, Inclusion), and 'Our customers' success is our obsession' commitments, and adds RISE strategy, supply-chain resilience and geographic balance, Moore's Law, open ecosystems, and a Our Scale facts section, shifting emphasis toward shareholders, innovation and manufacturing."
+ }
+}

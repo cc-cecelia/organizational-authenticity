@@ -1,0 +1,13 @@
+{
+ "label": "TGT 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2451,
+  "output_tokens": 157,
+  "request_id": "req_011CgCA2oqXG4t37zyGJgTuS"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly restructuring: the page adds a 'Purpose & History' section and new headings (Our Leadership, Our Corporate Strategy, Our Commitments, Our Design Approach, History Timeline) reusing existing statements. Removed 'Target trivia' facts and a Human Rights Campaign score, replaced by updated giving, volunteer and Fortune ranking facts; no stated value meaningfully changed."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "CVX 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2572,
+  "output_tokens": 137,
+  "request_id": "req_011CgC9G9qJr9VJd8wQp8q4t"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2022 page adds a CEO statement that the company 'intend[s] to be a leader' in a 'lower carbon' future and reframes the purpose as 'affordable, reliable, ever-cleaner energy'. It drops 'the future is lower carbon' and 'leadership carries great responsibility', and shifts the Chevron Way text to a value-focused framing."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2245,
+  "output_tokens": 130,
+  "request_id": "req_011CgC8M2S5r5qK1j9Zv9RcE"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 page centered on GPU invention history and partner/policy links; 2022 adds a mission-style headline \"Taking on the world's greatest challenges\" and \"pioneered accelerated computing to tackle challenges no one else can solve,\" plus \"profoundly impacting society,\" shifting emphasis toward innovation and societal impact."
+ }
+}

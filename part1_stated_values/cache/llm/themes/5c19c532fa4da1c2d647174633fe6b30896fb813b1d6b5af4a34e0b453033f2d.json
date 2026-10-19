@@ -1,0 +1,50 @@
+{
+ "label": "F 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4707,
+  "output_tokens": 2325,
+  "request_id": "req_011CgC9BfMRazvgfRmFz4Zdj"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Improving quality is a daily priority at Ford. From design and manufacture to sales and service, Ford always aims to increase customer satisfaction."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "we\u2019ve continued to fund our employee pension plans worldwide, delivered record profit-sharing contributions to our U.S. hourly employees"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "our commitment to sustainability is a key part of our company DNA."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Community service is an important part of Ford\u2019s heritage and always has been."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "We\u2019re growing without sacrificing profits."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "To promote ethics at Ford, Raphael created a unique compliance app to better engage and train employees in good decision-making."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "We have a longstanding commitment to developing and implementing innovations that make our vehicles safer for our customers and their families."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation is at the core of our company."
+   }
+  },
+  "analyst_notes": "Confident, self-promotional tone with absolute claims such as always and daily priority. Leads with products, innovation and growth, then sustainability and community. Heavy first-person plural voice. Mixes achievement statements (record profits, bestselling F-150) with commitments. Recurring slogans include go further and people serving people."
+ }
+}

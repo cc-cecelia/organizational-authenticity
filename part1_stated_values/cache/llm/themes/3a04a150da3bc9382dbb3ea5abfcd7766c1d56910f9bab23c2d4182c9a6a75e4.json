@@ -1,0 +1,50 @@
+{
+ "label": "CRM 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3999,
+  "output_tokens": 1858,
+  "request_id": "req_011CgC8VgayaECbjzWL6QV9A"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our customers\u2019 success is our success."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We respect and value employees from every background, and we thrive as a result."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We respect and value employees from every background, and we thrive as a result."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Our Ohana is built on four core values that inspire us to work together every day toward improving the world."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We communicate openly with our customers, and do what it takes to keep their data secure."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We pursue ideas that could change our company, our country \u2014 and maybe even the world."
+   }
+  },
+  "analyst_notes": "Aspirational, promotional tone built on a family metaphor (Ohana) and four named core values. Customers are addressed first, and the page speaks in first-person plural throughout. Commitments are stated absolutely ('We\u2019re obsessed with', 'We respect and value') with few hedges. Awards, testimonials and recruiting appeals carry much of the page, and Shareholders and Safety are essentially absent."
+ }
+}

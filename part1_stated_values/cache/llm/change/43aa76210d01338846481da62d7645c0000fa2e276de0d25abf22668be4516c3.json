@@ -1,0 +1,13 @@
+{
+ "label": "AMZN 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2140,
+  "output_tokens": 131,
+  "request_id": "req_011CgCA1WMHkuosUxRZNBV9C"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds two new standing sections: \"Strive to be Earth's Best Employer\" (leaders' commitment to employees' growth and personal success) and \"Success and Scale Bring Broad Responsibility\" (humility, responsibility to local communities, planet, future generations, and leaving things better), shifting emphasis toward employees and community responsibility."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "BMY 2020 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3755,
+  "output_tokens": 1524,
+  "request_id": "req_011CgC8zhKCFXcv6qF3CCXPG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions"
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "powered by talented individuals who drive scientific innovation"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "believe that their diverse experiences and perspectives help to bring out our best ideas"
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "we work sustainably and responsibly to create a positive impact"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We support programs, initiatives and organizations that help improve health"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "achieve transformative business results"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "We conduct our global business with the utmost integrity and transparency."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "We never give up in our search for the next innovation that could mean new hope for patients"
+   }
+  },
+  "analyst_notes": "Patient-centred and aspirational, using first-person plural 'we' with absolute language such as 'patients are at the center of everything we do'. Patients lead; employees and community come next. Values are listed in a single 'shared values' sentence. Hedged phrasing appears in 'we aspire' and 'we strive'. Safety is absent."
+ }
+}

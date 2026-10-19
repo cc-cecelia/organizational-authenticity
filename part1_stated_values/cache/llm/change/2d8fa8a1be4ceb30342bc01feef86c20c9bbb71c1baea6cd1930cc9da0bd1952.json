@@ -1,0 +1,13 @@
+{
+ "label": "TMO 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2098,
+  "output_tokens": 571,
+  "request_id": "req_011CgC9zwdn7mFmUWq65VwmZ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the self-description \"We champion science because we're scientists too.\" and the channel's offering description. Added \"unrivaled choice\", a \"premier\" marketplace claim, and a commitment that \"We keep science moving forward\", plus a \"2.5 million products\" fact."
+ }
+}

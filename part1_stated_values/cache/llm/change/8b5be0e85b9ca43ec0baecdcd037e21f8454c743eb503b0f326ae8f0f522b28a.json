@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2022 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3926,
+  "output_tokens": 150,
+  "request_id": "req_011CgCA35mjg8KPDHQytgjBh"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly updated facts and figures (2022 Fortune rank 75, ~4,700 stores, 1,200 buyers, fiscal 2022 date) plus wording tweaks. Added \"tremendous flexibility\" and \"unwavering focus\" on the off-price model, but the core value statements (off-price value, flexible model, shareholder returns) persist without a clear shift in emphasis."
+ }
+}

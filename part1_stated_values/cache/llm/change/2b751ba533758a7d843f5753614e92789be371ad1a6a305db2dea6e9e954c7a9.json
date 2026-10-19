@@ -1,0 +1,13 @@
+{
+ "label": "GS 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3058,
+  "output_tokens": 133,
+  "request_id": "req_011CgC9yMLVzWZsk6ijp26cx"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed the 'Our People' profile of Tuvia and Pim and 'Diversity champion' tag; the women-representation section shifts from 'we have yet to find' toward commitment language ('We are committed to ensuring that women represent at least 30 percent'), and adds a 'First Year as a Signatory' progress update and 'it just makes good business sense'."
+ }
+}

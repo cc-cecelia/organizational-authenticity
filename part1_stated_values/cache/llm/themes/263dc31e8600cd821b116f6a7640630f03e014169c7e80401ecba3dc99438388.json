@@ -1,0 +1,50 @@
+{
+ "label": "HAL 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3241,
+  "output_tokens": 1199,
+  "request_id": "req_011CgC9Q6WMm2VUU4PV4ugzf"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Sustainability is at the core of the Company\u2019s long-term success, and it is embedded throughout our business."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "devoting time and resources to charitable causes \u2013 wherever our people live and work \u2013 has been central to our corporate culture"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Mostly factual business description, opening with founding date, size and scale figures rather than values. Sustainability and community appear as short, unelaborated statements in later sections, with no metrics or dated targets. The voice is largely third-person company ('the Company'), with first-person plural 'our' in the sustainability section. Commitments are absolute in wording but brief, and no stakeholder is addressed first or at length."
+ }
+}

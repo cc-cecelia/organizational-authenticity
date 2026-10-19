@@ -1,0 +1,13 @@
+{
+ "label": "SLB 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2920,
+  "output_tokens": 122,
+  "request_id": "req_011CgC9JgAju2MaP9qGXHgrm"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2020 page replaces the 2019 corporate profile with a 'Who We Are' narrative stressing innovation, energy's role in society, and new text on minimizing environmental footprints and benefiting communities. It adds environment and community emphasis that was absent in 2019, and shifts emphasis to purpose and innovation."
+ }
+}

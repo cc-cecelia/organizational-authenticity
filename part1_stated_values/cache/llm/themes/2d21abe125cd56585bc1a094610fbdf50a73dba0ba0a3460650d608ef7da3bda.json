@@ -1,0 +1,50 @@
+{
+ "label": "BAC 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4532,
+  "output_tokens": 1368,
+  "request_id": "req_011CgC8dLjr93ZGFBuRGbPRC"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We\u2019re focused on serving our clients to help them live their financial lives."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We want our employees to reach their full potential."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We believe that diverse backgrounds and experiences make us stronger."
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Investing in people and communities through our business and partnerships"
+   },
+   "shareholders": {
+    "salience": 3,
+    "evidence": "We deliver for clients, communities and shareholders"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We hold ourselves accountable for the disciplined management of risk and for doing the right thing."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural voice with frequent 'we believe' and 'we strive' phrasing. Clients are addressed first, followed by employees, communities and shareholders. Commitments are stated as beliefs or aims rather than measurable targets. Risk management and accountability are headline values. Safety, environment and innovation are absent."
+ }
+}

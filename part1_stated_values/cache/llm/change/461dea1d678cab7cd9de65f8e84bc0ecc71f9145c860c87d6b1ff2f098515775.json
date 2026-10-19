@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2049,
+  "output_tokens": 115,
+  "request_id": "req_011CgC8mw2bLZJ48R44DSvWk"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The 2023 diff is almost entirely navigation chrome, news teasers (CFO retirement, BET watch party, June 2023 experiences) and removal of a 'News Hub' label. No stakeholder value, commitment or mission statement is added or removed, so no shift in emphasis is evident."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "BAC 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1844,
+  "output_tokens": 131,
+  "request_id": "req_011CgC8dxo2pzzzdR8Cmfuuo"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 'Investing in women' teaser, which described empowering women in the company and globally, was replaced in 2019 by 'Breaking the cycle and ending hunger', about investing in local and national programs to fight hunger. This shifts featured commitment from gender empowerment to hunger relief, a community focus. The 'Search site' removal is chrome."
+ }
+}

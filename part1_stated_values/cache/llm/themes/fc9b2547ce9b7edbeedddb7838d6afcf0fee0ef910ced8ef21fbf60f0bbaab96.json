@@ -1,0 +1,50 @@
+{
+ "label": "XOM 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4396,
+  "output_tokens": 1890,
+  "request_id": "req_011CgC9DoGzHFxGFP12ZRxet"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "have provided reliable and trusted fuels that not only meet, but exceed customer confidence and expectations."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "The company's greatest strengths are its high quality directors, officers and employees, ingenuity and long-term perspective."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "while addressing the risks of climate change"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "economic development of the communities where we operate"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "we must continuously achieve superior financial and operating results"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business."
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "Fueling the world safely and responsibly"
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "develops and applies next-generation technologies"
+   }
+  },
+  "analyst_notes": "Factual, corporate third-person voice mixing 'ExxonMobil' with first-person 'we'. Shareholder performance and ethics appear in the guiding principles, while safety and innovation recur as framing. Climate is acknowledged only as a risk to address. Commitments are mostly stated as absolute ('committed to being the world's premier'), with much of the page devoted to product and business description."
+ }
+}

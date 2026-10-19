@@ -1,0 +1,50 @@
+{
+ "label": "UNH 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3332,
+  "output_tokens": 1508,
+  "request_id": "req_011CgC8pmyxBRrEbBKjrcxZ1"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "on behalf of those we serve"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "creating a culture where all team members are appreciated, valued and able to contribute to their full potential"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We Are On A Journey to Deliver Equitable Health Care For All."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "The people of UnitedHealth Group are committed to sound corporate governance principles in everything we do, every day."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "applying distinctive competencies in insights, technology and clinical excellence to reimagine health care"
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural tone ('we', 'journey', 'change the face of health care'). Health equity and governance lead, with governance stated as an absolute commitment ('committed... in everything we do, every day'). Employee culture gets one sentence. Customers, innovation and business description are mostly implied. Environment, safety and shareholders are absent."
+ }
+}

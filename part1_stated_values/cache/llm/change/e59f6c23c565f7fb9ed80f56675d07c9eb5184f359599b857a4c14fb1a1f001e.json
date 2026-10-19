@@ -1,0 +1,13 @@
+{
+ "label": "LOW 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2141,
+  "output_tokens": 114,
+  "request_id": "req_011CgCA2v6KGF3wnCSgT64ys"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Changes are updated facts (Associates in the United States only, sales $96.3B to $97.1B for 2021 to 2022, communities count year) and a tense change from \"we have launched\" to \"we launched.\" No values, commitments, or priorities were added, removed, or reworded in meaning."
+ }
+}

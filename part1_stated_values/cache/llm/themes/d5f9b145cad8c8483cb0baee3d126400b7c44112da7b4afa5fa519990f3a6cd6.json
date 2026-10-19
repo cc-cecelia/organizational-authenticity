@@ -1,0 +1,50 @@
+{
+ "label": "ORCL 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4819,
+  "output_tokens": 1994,
+  "request_id": "req_011CgC8XwVUHNRbNmz82XqPk"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s commitment to our community, customers, employees, and partners during the COVID-19 crisis."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Oracle\u2019s corporate culture values teamwork, quality, and collaboration."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Learn how Oracle believes that innovation starts with inclusion, and that to create the future we need people with diverse backgrounds to help us get there."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s philanthropic efforts in the areas of sustainability, education, giving, volunteering, and more."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s commitment to our community, customers, employees, and partners during the COVID-19 crisis."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Learn about Oracle investor relations, and find information for stockholders, potential investors, and financial analysts."
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Learn about Oracle\u2019s security policies and practices across the various ways Oracle engages with our customers."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 1,
+    "evidence": "Our mission is to help people see data in new ways, discover insights, unlock endless possibilities."
+   }
+  },
+  "analyst_notes": "Mostly factual and history-heavy, with sparse aspirational wording. Values are brief and in headings or short lists, not developed. The page uses first-person plural in its mission and section lines. Employees and inclusion get the most attention. Commitments are hedged or stated as belief, and most content is product, history, and partner promotion."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "HAL 2017 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2077,
+  "output_tokens": 111,
+  "request_id": "req_011CgC9QUvjjjvfQCJypgAPf"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "The About page was mainly re-worded and updated with facts: headcount changed from \u201cover 55,000 employees\u201d to \u201capproximately 50,000 employees\u201d, and \u201cFounded in 1919\u201d was added. Headquarters details were dropped. No values, commitments or stakeholder statements were added or removed."
+ }
+}

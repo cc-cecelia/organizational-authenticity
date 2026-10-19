@@ -1,0 +1,13 @@
+{
+ "label": "BAC 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2187,
+  "output_tokens": 107,
+  "request_id": "req_011CgC9y5UG72QniZx2DPhV5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly rotating featured content changed: ESG Report and Student Leaders teasers removed; Arts & Culture and Investing in women teasers added. Responsible growth wording changed from 'strategy of' to 'focus on', a minor rewording without a shift in core values."
+ }
+}

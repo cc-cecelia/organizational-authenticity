@@ -1,0 +1,50 @@
+{
+ "label": "SCHW 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5390,
+  "output_tokens": 2152,
+  "request_id": "req_011CgC8iznUjCtNVxCRSkxmg"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Winning By Putting Clients First Every Day"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "committed to diversifying its workforce"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Schwab's commitment to helping individuals and communities succeed"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Innovation is at the heart of Schwab."
+   }
+  },
+  "analyst_notes": "Page is largely factual and award-driven, using third-person corporate voice with 'Schwab' throughout. Explicit commitments are few and mostly appear in link labels or social posts. Investors and clients are addressed first through awards and satisfaction rankings. Innovation and community are framed as heritage and recognition rather than stated goals. Wording is mostly absolute, with 'modern' a distinctive framing term."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4213,
+  "output_tokens": 278,
+  "request_id": "req_011CgC8kbRqefhbYZEyo2Chh"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added a headline commitment: \"Coming together with a single goal: to serve you\" and \"it is your tomorrow we care about most,\" shifting emphasis to customers. Also added community-minded and customer-service award mentions; removed the employee headcount and older awards."
+ }
+}

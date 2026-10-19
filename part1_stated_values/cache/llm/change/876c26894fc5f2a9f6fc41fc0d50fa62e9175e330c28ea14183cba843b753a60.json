@@ -1,0 +1,13 @@
+{
+ "label": "F 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4311,
+  "output_tokens": 177,
+  "request_id": "req_011CgCA3EuAU9JFCyicn7QDn"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 values framing (lean global enterprise vision; Quality, Safe, Green, Smart pillars; 'people serving people'; sustainability and community commitments) was replaced by a 2019 'Our belief' and 'Our aspiration' to be 'the world's most trusted company', plus new commitments like 'clean-running cars' and 'designing products centered around the needs of humans'. Emphasis shifts toward trust, mobility and autonomy, with less on sustainability and community service."
+ }
+}

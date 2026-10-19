@@ -1,0 +1,50 @@
+{
+ "label": "BLK 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3668,
+  "output_tokens": 1462,
+  "request_id": "req_011CgC8hFBbRvJHCcb89jn46"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "We work only for our clients\u2014period."
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "We're investing in our communities and our neighbors through our signature focus on education"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "find the best balance of risk and return across all investment styles on behalf of our clients"
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "BlackRock embraces a strong commitment both to transparency in financial markets and to sound corporate governance."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Confident, first-person plural voice with absolute client-first framing (\"only\", \"period\"). Scale and size claims dominate the page, with values stated briefly. Clients are addressed first; the workforce is absent apart from a stat block. Commitments to governance and communities are stated without hedging, though community and governance language is brief."
+ }
+}

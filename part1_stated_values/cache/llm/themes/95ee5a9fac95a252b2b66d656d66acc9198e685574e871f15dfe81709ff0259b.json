@@ -1,0 +1,50 @@
+{
+ "label": "UNH 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3766,
+  "output_tokens": 2038,
+  "request_id": "req_011CgC8qK7xVze8jgtK9UVvf"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "expand access to high-quality health care so people get the care they need at an affordable price."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Compassion. We listen, advocate and act with urgency for those we serve and our colleagues."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "Inclusion. We welcome, value, respect and hear all voices and diverse points of view."
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are committed to charting a more sustainable path forward"
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "improve the overall health and well-being of the people we are privileged to serve and their communities."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "dedicated to continuously improving the quality of our performance for consumers, customers, care providers and our shareholders."
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Integrity. We do the right thing and follow through on our shared commitment to Quality."
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Innovation. We invent a better future by learning from the past."
+   }
+  },
+  "analyst_notes": "Mostly corporate 'we' voice with an aspirational, mission-driven tone. A named six-value list is prominent, and commitments use 'committed' and 'strive' language with few measurable targets. Access and affordability framing addresses customers early. Shareholders appear only in one investor relations line, and safety is absent."
+ }
+}

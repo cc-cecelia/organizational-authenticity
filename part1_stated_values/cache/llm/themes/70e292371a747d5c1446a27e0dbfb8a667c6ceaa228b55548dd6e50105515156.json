@@ -1,0 +1,50 @@
+{
+ "label": "SLB 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3522,
+  "output_tokens": 1531,
+  "request_id": "req_011CgC9JVw6KNqHrvppzdwVY"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Our curiosity drives us to better understand what our customers do, how they do it, and what they need to help overcome their challenges."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "it all starts with competent and talented teams working together"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "we're developing methods and processes using ever-less-invasive means minimizing environmental footprints"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "maximizing positive influence on the communities in which we live and work"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Our story begins with what it truly means to be a technology innovator."
+   }
+  },
+  "analyst_notes": "Aspirational, first-person plural tone centred on technology and innovation as identity. Customers are addressed most directly. Much of the text is business description (headcount, countries, history). Environmental and community commitments are brief and hedged with 'minimizing' and 'maximizing'. Safety, integrity and shareholder value are absent. The 'we believe' framing and the 'figuring it out' quotation add a distinctive, promotional voice."
+ }
+}

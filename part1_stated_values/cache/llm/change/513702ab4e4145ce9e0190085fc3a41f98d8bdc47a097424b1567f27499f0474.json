@@ -1,0 +1,13 @@
+{
+ "label": "META 2019 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4459,
+  "output_tokens": 154,
+  "request_id": "req_011CgC9xCfpwc9x4BN21jKNU"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2019 page replaces the hacker-culture description (rewarding bold problem solving, 'this journey is 1% finished', mission to 'bring the world closer together') with a new framing: 'we're building a different kind of company that connects billions of people' and 'empower people around the world to build community'. This shifts the stated self-description and emphasis, while headcount, user counts, locations, bios and cookie text are updated or chrome."
+ }
+}

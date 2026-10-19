@@ -1,0 +1,13 @@
+{
+ "label": "BLK 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2974,
+  "output_tokens": 183,
+  "request_id": "req_011CgC9yas6KEJ7G6efJkZqf"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2021 replaces the 2020 'What we stand for' principles with a new 'The BlackRock principles' framing. Adds explicit 'Our clients' interests come first', 'without silos and without turf', 'A diverse workforce' and 'inclusive, equitable environment' (DEI), 'long-term thinkers... run our business sustainably and responsibly' (environment/stakeholders), and 'advocate for sustainable and responsible business practices'. Emphasis shifts toward DEI and sustainability."
+ }
+}

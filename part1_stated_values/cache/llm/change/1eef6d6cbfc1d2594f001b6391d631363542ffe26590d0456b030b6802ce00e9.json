@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2020 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2876,
+  "output_tokens": 123,
+  "request_id": "req_011CgC9LEhcdF8tGQCrt8Uax"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Dropped shareholder value, corporate citizenship and environmental-footprint commitments and the old D&I wording; added Safety & Environmental Stewardship as a headline, Integrity, Respect, Inclusion and Collaboration values with new emphasis on safety and trust. Rebranding to MPC is cosmetic."
+ }
+}

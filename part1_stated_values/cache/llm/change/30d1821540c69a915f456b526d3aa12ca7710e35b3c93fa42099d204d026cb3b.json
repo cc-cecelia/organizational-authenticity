@@ -1,0 +1,13 @@
+{
+ "label": "NKE 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3194,
+  "output_tokens": 153,
+  "request_id": "req_011CgCA2WnqyQNt6hoqL7CYA"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2018 page replaces the 2017 'Innovation to Every Athlete' mission with 'Bring Inspiration And Innovation To Every Athlete' and adds a stated mission to expand human potential via innovation, sustainability, diverse teams and community impact. It also adds commitments to double business while halving environmental impact, to increasing women and underrepresented minorities, and to 'fairness, justice, and change'."
+ }
+}

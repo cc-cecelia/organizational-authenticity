@@ -1,0 +1,50 @@
+{
+ "label": "COP 2016 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3862,
+  "output_tokens": 2177,
+  "request_id": "req_011CgC9FX7SrVwxSgwbPXgHm"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Sustainable Development is about conducting our business to promote economic growth, a healthy environment and vibrant communities, now and into the future."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our dedication as a community partner is evidenced in the local events we sponsor."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 2,
+    "evidence": "Striving to work each day without injury, illness or incidents."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "Working daily to design innovative ways to find and produce oil and gas."
+   }
+  },
+  "analyst_notes": "Mostly factual, business-descriptive copy that frames the company through its operations, scale and competitive position. Values appear mainly in the sustainable development, community and safety sections, with hedged aspirational wording such as 'striving' and 'committed'. The voice is first-person plural ('we', 'our') with some absolute claims of being 'unmatched'. Customers, employees and integrity receive no stated commitment."
+ }
+}

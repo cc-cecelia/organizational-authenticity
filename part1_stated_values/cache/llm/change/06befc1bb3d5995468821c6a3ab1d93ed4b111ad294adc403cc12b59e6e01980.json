@@ -1,0 +1,13 @@
+{
+ "label": "GS 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3248,
+  "output_tokens": 128,
+  "request_id": "req_011CgC8gLz4kij6XPh21Q2Se"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 version adds a race-equity section (UK Race at Work Charter, Black talent goals, Fund for Racial Equity), expands gender-diversity framing to 'measurable change' at all levels, and replaces the 2019 report-focused text with 2020 progress highlights. Emphasis shifts toward racial equity and DEI."
+ }
+}

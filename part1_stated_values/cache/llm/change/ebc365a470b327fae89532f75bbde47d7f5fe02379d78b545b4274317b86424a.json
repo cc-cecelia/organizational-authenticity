@@ -1,0 +1,13 @@
+{
+ "label": "SCHW 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5345,
+  "output_tokens": 134,
+  "request_id": "req_011CgC8jgBZXmjF369EepSbX"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "2018 adds a headline on helping others achieve dreams and a Financial Literacy Survey, and drops the 2017 'championing investors' award and Civic 50 community-minded recognition, 'Join our team', and 'Winning By Putting Clients First' references. Shifts toward digital and financial-literacy themes, with customer awards and innovation praise retained."
+ }
+}

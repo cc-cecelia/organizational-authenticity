@@ -1,0 +1,13 @@
+{
+ "label": "TSLA 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2155,
+  "output_tokens": 126,
+  "request_id": "req_011CgCA2TKkQk4E5XyyCPBWS"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Added an equal opportunity and affirmative action employer statement committed to diversity, non-discrimination across race, sex, sexual orientation, gender identity and other factors, plus a disability accommodation commitment; E-Verify notice and screen-reader help also added. Emissions figure updated from 8.4 to 20.4 Mmt."
+ }
+}

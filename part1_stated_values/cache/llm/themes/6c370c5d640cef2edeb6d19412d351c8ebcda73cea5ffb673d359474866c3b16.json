@@ -1,0 +1,50 @@
+{
+ "label": "PFE 2017 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3153,
+  "output_tokens": 1092,
+  "request_id": "req_011CgC8wjCyMGsrVw8B2pBEb"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "Pfizer is committed to helping more women around the world have access to family planning information and a wide range of contraceptive choices"
+   },
+   "employees": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Supporting the UN Global Goals"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Short page led by global health and social-impact themes, with the UN Global Goals as the headline. Mostly third-person corporate voice with occasional 'we'. Commitments are hedged or time-bound, such as 'focusing on eliminating it by 2020' and 'committed to helping'. Stakeholder framing centres on patients and women, and employees, shareholders and integrity are absent."
+ }
+}

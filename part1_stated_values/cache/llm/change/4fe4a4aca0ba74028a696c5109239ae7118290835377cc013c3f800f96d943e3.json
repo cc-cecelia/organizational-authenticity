@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2051,
+  "output_tokens": 141,
+  "request_id": "req_011CgC8Xe5UQteNdcXkUtzX5"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Updated facts and figures: customers 420,000 to 430,000, employees 130,000 to 138,000, FY15 revenue US$38.2B to FY17 US$37.7B, and countries 145 to 175. The business description now lists SaaS, PaaS, IaaS and DaaS. Menu and link labels changed, with no value or stakeholder statement added or removed."
+ }
+}

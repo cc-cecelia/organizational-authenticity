@@ -1,0 +1,13 @@
+{
+ "label": "MPC 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2009,
+  "output_tokens": 109,
+  "request_id": "req_011CgCA4Mckk8LgFx59iU8vC"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Safety and environmental commitment is reworded and expanded. The removed 'accident-free, incident-free workplace' aim is dropped, and 'This commitment is reflected in our safety systems design...continuous learning and improvement' is added, shifting emphasis toward stated safety practices."
+ }
+}

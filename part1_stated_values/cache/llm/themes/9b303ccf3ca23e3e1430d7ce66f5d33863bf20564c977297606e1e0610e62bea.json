@@ -1,0 +1,50 @@
+{
+ "label": "MS 2021 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5101,
+  "output_tokens": 1510,
+  "request_id": "req_011CgC8h5mobaRDd7X6XEcDU"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "put clients first"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "We believe our greatest asset is our people."
+   },
+   "dei": {
+    "salience": 3,
+    "evidence": "commit to diversity and inclusion"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "Our firm's commitment to sustainability informs our operations, governance, risk management, diversity efforts, philanthropy and research."
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "At Morgan Stanley, giving back is a core value"
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "Do the right thing"
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "As a global financial services firm, Morgan Stanley is committed to technological innovation."
+   }
+  },
+  "analyst_notes": "Mostly aspirational, institutional framing built around five named core values, which lead with ethics and clients. Uses first-person plural and hedged phrasing such as 'We believe'. Distinctive slogan 'first-class business in a first-class way' is repeated. Stakeholder emphasis runs through clients, diversity, and giving back; shareholder returns are absent."
+ }
+}

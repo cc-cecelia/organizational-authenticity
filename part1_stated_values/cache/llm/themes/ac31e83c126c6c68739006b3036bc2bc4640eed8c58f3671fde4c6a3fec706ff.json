@@ -1,0 +1,50 @@
+{
+ "label": "NVDA 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4019,
+  "output_tokens": 455,
+  "request_id": "req_011CgC8SM2uj8NHL6b2KDEYV"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "Today, more than 35,000 companies are building on the NVIDIA AI platform."
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "NVIDIA is a learning machine. The mission is boss. Everyone has a voice. And we\u2019ve built a culture where people can do their life's work."
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "We\u2019re even creating a digital twin of our planet\u2014called Earth-2\u2014to help predict climate change decades in advance."
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "Our work in AI and the metaverse is transforming the world's largest industries and profoundly impacting society."
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "NVIDIA pioneered accelerated computing to tackle challenges no one else can solve."
+   }
+  },
+  "analyst_notes": "Confident, aspirational tone centred on technology breakthroughs and the company's own achievements. Employees get the most human-facing content, but briefly. Uses absolute wording with no hedging. The first-person plural 'we' is common. Product and customer lists are mostly chrome or business description rather than stated values."
+ }
+}

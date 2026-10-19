@@ -1,0 +1,13 @@
+{
+ "label": "TJX 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3522,
+  "output_tokens": 434,
+  "request_id": "req_011CgC9Bjf9G1XGz5fbs2Hcx"
+ },
+ "result": {
+  "classification": "cosmetic",
+  "summary": "Mostly updated facts: store count rose from \"nearly 4,700\" to \"over 4,800\", and the fiscal year-end date and fiscal label changed. Wording shifts include \"financial returns\" becoming \"financial results\" and \"company\" becoming \"revenue company\". The COVID sentence was dropped, and the \"unwavering focus\" sentence was moved earlier. No value or stakeholder was added or removed."
+ }
+}

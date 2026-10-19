@@ -1,0 +1,50 @@
+{
+ "label": "AMZN 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4338,
+  "output_tokens": 2710,
+  "request_id": "req_011CgC92b3UMnBTDo9Zcd5qG"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Leaders start with the customer and work backwards."
+   },
+   "employees": {
+    "salience": 3,
+    "evidence": "Leaders have a vision for and commitment to their employees' personal success, whether that be at Amazon or elsewhere."
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "They seek diverse perspectives and work to disconfirm their beliefs."
+   },
+   "environment": {
+    "salience": 1,
+    "evidence": "Our local communities, planet, and future generations need us to be better every day."
+   },
+   "community": {
+    "salience": 2,
+    "evidence": "Our local communities, planet, and future generations need us to be better every day."
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "They think long term and don\u2019t sacrifice long-term value for short-term results."
+   },
+   "integrity": {
+    "salience": 2,
+    "evidence": "They are vocally self-critical, even when doing so is awkward or embarrassing."
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment."
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Leaders expect and require innovation and invention from their teams and always find ways to simplify."
+   }
+  },
+  "analyst_notes": "Aspirational, third-person framing centred on Leaders and their principles, with customers and employees addressed first. Absolute, frequent language ('every day', 'never', 'always') with few hedges. First-person plural appears mainly in the closing section on responsibility. Distinctive wording includes 'Earth's Best Employer' and 'It is just one of the things that makes Amazon peculiar.'"
+ }
+}

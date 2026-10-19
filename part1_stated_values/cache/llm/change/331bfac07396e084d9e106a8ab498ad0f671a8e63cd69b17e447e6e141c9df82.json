@@ -1,0 +1,13 @@
+{
+ "label": "MRK 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4967,
+  "output_tokens": 148,
+  "request_id": "req_011CgC8txBEMdKaoBHTNKu3o"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2021 page replaces the old mission and values statements with new ones: 'Patients first', 'Respect for people', 'Ethics and integrity' and 'Innovation and scientific excellence', plus new 'mission to save and improve lives' and 'Diversity & inclusion fuels our mission' framing. Emphasis moves toward patients, ethics and innovation, with the diversity theme newly added."
+ }
+}

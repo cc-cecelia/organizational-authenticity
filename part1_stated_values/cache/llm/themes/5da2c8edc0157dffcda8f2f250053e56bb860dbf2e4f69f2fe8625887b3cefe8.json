@@ -1,0 +1,50 @@
+{
+ "label": "COP 2023 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3705,
+  "output_tokens": 1570,
+  "request_id": "req_011CgC9Gs7Fd7xnvmridnVo9"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "while creating lasting value for employees, communities and shareholders"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "We are focused on sustainably meeting energy demand"
+   },
+   "community": {
+    "salience": 1,
+    "evidence": "products that improve quality of life globally"
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "while creating lasting value for employees, communities and shareholders"
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "We have an important job \u2013 to safely find and deliver energy to the world."
+   },
+   "innovation": {
+    "salience": 2,
+    "evidence": "committed to innovation and the responsible development of energy"
+   }
+  },
+  "analyst_notes": "Factual, business-led framing with aspirational superlatives ('unmatched', 'uniquely position us'). Commitments are often hedged ('focused on', 'committed to'). Voice mixes first-person plural with third-person description. Shareholders, employees and communities are grouped in one sentence. Safety and environment appear briefly. No customer, DEI or integrity language."
+ }
+}

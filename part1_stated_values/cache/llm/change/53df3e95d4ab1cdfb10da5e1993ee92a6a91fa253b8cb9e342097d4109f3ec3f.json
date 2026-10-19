@@ -1,0 +1,13 @@
+{
+ "label": "MS 2018 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1869,
+  "output_tokens": 125,
+  "request_id": "req_011CgC8h7vnQLx6JSBvxLibQ"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2015 Sustainability Report blurb is replaced by a 2018 statement that the Firm is 'dedicated to making a positive contribution to society' through core business, employment practices, operations and philanthropic giving. This adds a community and employee commitment framing and a more developed stated commitment, shifting the page from report description to explicit values."
+ }
+}

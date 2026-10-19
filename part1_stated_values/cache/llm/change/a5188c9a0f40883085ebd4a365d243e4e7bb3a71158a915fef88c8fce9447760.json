@@ -1,0 +1,13 @@
+{
+ "label": "MS 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2169,
+  "output_tokens": 159,
+  "request_id": "req_011CgC8FGfAtpNzWX7Nqm2jM"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Removed 'Reducing our Carbon Footprint' (fuel-cell and solar campus item, environment) and the Careers culture items; added sponsorship text on 'a more equitable society' and 'diversity of the world they inherit' (dei/community), an advisor recruiting pitch, and 'we lead with exceptional ideas' (innovation-adjacent). Most other changes are news teasers or the 87-to-88 years update."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "label": "INTC 2022 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 5943,
+  "output_tokens": 2085,
+  "request_id": "req_011CgC8aJxN2UGgjzzSC17o7"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "Our customers\u2019 success is our obsession."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "guide how we make decisions, treat each other, serve our customers"
+   },
+   "dei": {
+    "salience": 1,
+    "evidence": "From advancing climate solutions to diversity and inclusion initiatives"
+   },
+   "environment": {
+    "salience": 2,
+    "evidence": "From advancing climate solutions to diversity and inclusion initiatives"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "Harness our reach around the globe to better society, business, and the planet."
+   },
+   "shareholders": {
+    "salience": 1,
+    "evidence": "Customer First, Fearless Innovation, Results Driven, One Intel"
+   },
+   "integrity": {
+    "salience": 1,
+    "evidence": "Quality and Integrity"
+   },
+   "safety": {
+    "salience": 1,
+    "evidence": "Drive innovation that makes the world safer"
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Intel is working relentlessly to unleash the potential of data, leading to more capable and efficient networks"
+   }
+  },
+  "analyst_notes": "Aspirational, headline-driven copy with first-person plural voice. Opens with world-changing purpose and 'every person on the planet' framing. Customer commitments are absolute ('We promise'). Sustainability and DEI appear mostly as brief mentions. Brand slogan 'wonderful' recurs."
+ }
+}

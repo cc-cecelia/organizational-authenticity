@@ -1,0 +1,50 @@
+{
+ "label": "SLB 2019 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3443,
+  "output_tokens": 1372,
+  "request_id": "req_011CgC9HxQGMHjpGwvFrHbbW"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 2,
+    "evidence": "we have focused on leveraging these assets to deliver solutions that improve customer performance"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "Knowledge communities and special interest groups with our organization enable teamwork and knowledge sharing unencumbered by geographic boundaries."
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "Reflecting our belief that diversity spurs creativity, collaboration, and understanding of customers' needs"
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 3,
+    "evidence": "Knowledge, technical innovation and teamwork are at the center of who we are."
+   }
+  },
+  "analyst_notes": "Confident, first-person plural voice with absolute, unhedged claims. Opens by centring knowledge, innovation and teamwork rather than stakeholders. Customer performance is framed as the purpose of those assets. Innovation receives the strongest emphasis, with R&E investment cited as evidence. Language is aspirational with factual scale details, and no safety, environmental or governance commitments appear."
+ }
+}

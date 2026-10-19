@@ -1,0 +1,13 @@
+{
+ "label": "NVDA 2023 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3101,
+  "output_tokens": 140,
+  "request_id": "req_011CgC8SYfeyKUeQBFauYCf6"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2023 page shifts emphasis from the 'world's greatest challenges' and AI transforming industries framing to metaverse, graphics, science and autonomous-machine themes. It adds a culture statement, 'Like No Place You've Ever Worked', with 'The mission is boss' and 'Everyone has a voice'. The 2022 CSR and Investors links were removed."
+ }
+}

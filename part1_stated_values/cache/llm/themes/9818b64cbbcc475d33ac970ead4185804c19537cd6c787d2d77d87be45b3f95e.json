@@ -1,0 +1,50 @@
+{
+ "label": "MPC 2018 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3258,
+  "output_tokens": 2149,
+  "request_id": "req_011CgC9KHSH2EiSAkKtTVJ5C"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 1,
+    "evidence": "through the quality products and services we provide for our customers"
+   },
+   "employees": {
+    "salience": 2,
+    "evidence": "provide our employees with a collaborative, supportive, and inclusive work environment where they can maximize their full potential"
+   },
+   "dei": {
+    "salience": 2,
+    "evidence": "We value diversity and strive to provide our employees with a collaborative, supportive, and inclusive work environment"
+   },
+   "environment": {
+    "salience": 3,
+    "evidence": "We are committed to minimizing our environmental impact and continually look for ways to reduce our footprint"
+   },
+   "community": {
+    "salience": 3,
+    "evidence": "We work to make a positive difference in the communities where we have the privilege to operate"
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "MPC is in the business of creating value for our shareholders"
+   },
+   "integrity": {
+    "salience": 3,
+    "evidence": "We uphold the highest standards of business ethics and integrity, enforcing strict principles of corporate governance"
+   },
+   "safety": {
+    "salience": 3,
+    "evidence": "We have the highest regard for the health and safety of our employees, contractors and neighboring communities"
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Corporate voice mixing 'we' with third-person 'MPC'. Opens by framing shareholder value and customer products, then lists named core principles, each with a headline. Commitments range from absolute ('uphold the highest standards') to hedged ('strive', 'continually look for ways'). Safety and environment are phrased as commitments; innovation is absent. Wording is generic and aspirational."
+ }
+}

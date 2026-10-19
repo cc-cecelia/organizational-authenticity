@@ -1,0 +1,50 @@
+{
+ "label": "LOW 2024 themes",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 3229,
+  "output_tokens": 945,
+  "request_id": "req_011CgC9AfcXUCs9h6LdrsoyR"
+ },
+ "result": {
+  "themes": {
+   "customers": {
+    "salience": 3,
+    "evidence": "The people we serve are at the heart of everything we do."
+   },
+   "employees": {
+    "salience": 1,
+    "evidence": "Our associates have deep home improvement experience and training"
+   },
+   "dei": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "environment": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "community": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "shareholders": {
+    "salience": 2,
+    "evidence": "To deliver on our mission and drive market share acceleration, we launched our Total Home Strategy."
+   },
+   "integrity": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "safety": {
+    "salience": 0,
+    "evidence": ""
+   },
+   "innovation": {
+    "salience": 0,
+    "evidence": ""
+   }
+  },
+  "analyst_notes": "Customer-first, absolute framing: 'at the heart of everything we do' and 'Every aspect of our business' leave no hedging. First-person plural voice. Business-volume figures and strategy pillars dominate, with market share as the main growth goal. Workforce appears only as expertise, and values like safety, sustainability and ethics are absent."
+ }
+}

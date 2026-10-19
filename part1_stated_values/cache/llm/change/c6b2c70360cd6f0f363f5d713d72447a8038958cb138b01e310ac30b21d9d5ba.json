@@ -1,0 +1,13 @@
+{
+ "label": "ORCL 2024 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 1919,
+  "output_tokens": 104,
+  "request_id": "req_011CgC8YfLQEmears8CRq7Fi"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "The 2024 page replaces 'Diversity and Inclusion' with 'Culture and Inclusion', shifting the heading from explicit DEI framing toward culture. Search error text and sign-in navigation were also removed or reworded, which is chrome and not a value change."
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "label": "AXP 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 2751,
+  "output_tokens": 131,
+  "request_id": "req_011CgC8mUAoi88rmG8TAqbzD"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a dedicated diversity and inclusion section: 'We Embrace Diversity' and 'We Stand for Inclusion' (committed to 'a welcoming and inclusive culture'). Replaces 'We Need Different Views' with 'We Back Our Customers' and 'We Support Our Communities', adding community commitment and accountability language."
+ }
+}

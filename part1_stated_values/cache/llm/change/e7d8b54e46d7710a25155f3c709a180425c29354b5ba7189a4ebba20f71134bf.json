@@ -1,0 +1,13 @@
+{
+ "label": "PSX 2021 change",
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 4908,
+  "output_tokens": 166,
+  "request_id": "req_011CgCA4tfnkEVVJe3hRDMYV"
+ },
+ "result": {
+  "classification": "substantive",
+  "summary": "Adds a new 'Vision and Values' section and reframes 'Strategy' as 'We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.' Removes the Technology/R&D section and the 'Our Refineries' and 'History' blocks; adds 'Our Energy' ('helping to advance sustainable communities'). Shifts emphasis toward shareholder returns and values; updated figures are cosmetic."
+ }
+}
