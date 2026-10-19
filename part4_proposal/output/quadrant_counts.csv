@@ -1,0 +1,114 @@
+theme,spec,sector,quadrant,n_firms
+dei,ext,Consumer Discretionary,cut_both,3
+dei,ext,Consumer Discretionary,cut_say_only,1
+dei,ext,Consumer Discretionary,no_pre_do,6
+dei,ext,Energy,cut_both,2
+dei,ext,Energy,cut_say_only,2
+dei,ext,Energy,no_pre_do,6
+dei,ext,Financials,cut_both,4
+dei,ext,Financials,no_pre_do,6
+dei,ext,Healthcare,cut_both,1
+dei,ext,Healthcare,kept_both,1
+dei,ext,Healthcare,no_pre_do,8
+dei,ext,Technology,cut_both,1
+dei,ext,Technology,cut_say_only,2
+dei,ext,Technology,no_pre_do,7
+dei,imputed_weights,Consumer Discretionary,cut_say_only,1
+dei,imputed_weights,Consumer Discretionary,kept_both,3
+dei,imputed_weights,Consumer Discretionary,no_pre_do,6
+dei,imputed_weights,Energy,conflict,1
+dei,imputed_weights,Energy,kept_both,3
+dei,imputed_weights,Energy,no_pre_do,6
+dei,imputed_weights,Financials,cut_both,1
+dei,imputed_weights,Financials,cut_say_only,2
+dei,imputed_weights,Financials,kept_both,1
+dei,imputed_weights,Financials,no_pre_do,6
+dei,imputed_weights,Healthcare,kept_both,2
+dei,imputed_weights,Healthcare,no_pre_do,8
+dei,imputed_weights,Technology,cut_say_only,2
+dei,imputed_weights,Technology,kept_both,1
+dei,imputed_weights,Technology,no_pre_do,7
+dei,lag,Consumer Discretionary,cut_say_only,1
+dei,lag,Consumer Discretionary,kept_both,3
+dei,lag,Consumer Discretionary,no_pre_do,6
+dei,lag,Energy,insufficient_data,1
+dei,lag,Energy,kept_both,2
+dei,lag,Energy,no_pre_do,7
+dei,lag,Financials,cut_say_only,3
+dei,lag,Financials,kept_both,1
+dei,lag,Financials,no_pre_do,6
+dei,lag,Healthcare,kept_both,2
+dei,lag,Healthcare,no_pre_do,8
+dei,lag,Technology,cut_say_only,2
+dei,lag,Technology,kept_both,1
+dei,lag,Technology,no_pre_do,7
+dei,main,Consumer Discretionary,cut_say_only,1
+dei,main,Consumer Discretionary,kept_both,3
+dei,main,Consumer Discretionary,no_pre_do,6
+dei,main,Energy,conflict,1
+dei,main,Energy,kept_both,3
+dei,main,Energy,no_pre_do,6
+dei,main,Financials,cut_both,1
+dei,main,Financials,cut_say_only,2
+dei,main,Financials,kept_both,1
+dei,main,Financials,no_pre_do,6
+dei,main,Healthcare,kept_both,2
+dei,main,Healthcare,no_pre_do,8
+dei,main,Technology,cut_say_only,2
+dei,main,Technology,kept_both,1
+dei,main,Technology,no_pre_do,7
+environment,ext,Consumer Discretionary,cut_both,1
+environment,ext,Consumer Discretionary,cut_say_only,1
+environment,ext,Consumer Discretionary,no_pre_do,8
+environment,ext,Energy,cut_do_only,2
+environment,ext,Energy,cut_say_only,4
+environment,ext,Energy,kept_both,3
+environment,ext,Energy,no_pre_do,1
+environment,ext,Financials,cut_both,1
+environment,ext,Financials,cut_say_only,2
+environment,ext,Financials,no_pre_do,7
+environment,ext,Healthcare,kept_both,2
+environment,ext,Healthcare,no_pre_do,8
+environment,ext,Technology,cut_both,1
+environment,ext,Technology,cut_say_only,1
+environment,ext,Technology,no_pre_do,8
+environment,imputed_weights,Consumer Discretionary,kept_both,2
+environment,imputed_weights,Consumer Discretionary,no_pre_do,8
+environment,imputed_weights,Energy,kept_both,9
+environment,imputed_weights,Energy,no_pre_do,1
+environment,imputed_weights,Financials,cut_do_only,1
+environment,imputed_weights,Financials,cut_say_only,1
+environment,imputed_weights,Financials,kept_both,1
+environment,imputed_weights,Financials,no_pre_do,7
+environment,imputed_weights,Healthcare,cut_do_only,1
+environment,imputed_weights,Healthcare,kept_both,1
+environment,imputed_weights,Healthcare,no_pre_do,8
+environment,imputed_weights,Technology,cut_say_only,1
+environment,imputed_weights,Technology,kept_both,1
+environment,imputed_weights,Technology,no_pre_do,8
+environment,lag,Consumer Discretionary,kept_both,2
+environment,lag,Consumer Discretionary,no_pre_do,8
+environment,lag,Energy,insufficient_data,1
+environment,lag,Energy,kept_both,7
+environment,lag,Energy,no_pre_do,2
+environment,lag,Financials,cut_say_only,1
+environment,lag,Financials,kept_both,2
+environment,lag,Financials,no_pre_do,7
+environment,lag,Healthcare,kept_both,1
+environment,lag,Healthcare,no_pre_do,9
+environment,lag,Technology,cut_say_only,1
+environment,lag,Technology,kept_both,1
+environment,lag,Technology,no_pre_do,8
+environment,main,Consumer Discretionary,kept_both,2
+environment,main,Consumer Discretionary,no_pre_do,8
+environment,main,Energy,kept_both,9
+environment,main,Energy,no_pre_do,1
+environment,main,Financials,cut_say_only,1
+environment,main,Financials,kept_both,2
+environment,main,Financials,no_pre_do,7
+environment,main,Healthcare,cut_do_only,1
+environment,main,Healthcare,kept_both,1
+environment,main,Healthcare,no_pre_do,8
+environment,main,Technology,cut_say_only,1
+environment,main,Technology,kept_both,1
+environment,main,Technology,no_pre_do,8

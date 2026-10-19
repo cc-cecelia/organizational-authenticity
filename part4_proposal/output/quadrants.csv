@@ -1,0 +1,401 @@
+ticker,sector,theme,spec,say_p1_salience_pre,say_p1_salience_post,say_p2_fv_rate_pre,say_p2_fv_rate_post,do_present_pre,do_present_post,do_weight_pre,do_weight_post,p3_unstated_backing_pre,p3_unstated_backing_post,p3_unstated_this_theme_pre,p3_unstated_this_theme_post,page_type_switch,weights_imputed,v_p1,v_p2,v_present,v_weight,say,do,eligible,quadrant
+AAPL,Technology,dei,main,,,16.61,19.215,0.0,1.0,0.0,0.0592,,,,,False,True,na,kept,rise,rise,kept,rise,False,no_pre_do
+AAPL,Technology,environment,main,,,10.58,15.934999999999999,0.0,1.0,0.0,0.0592,,,,,False,True,na,rise,rise,rise,rise,rise,False,no_pre_do
+ABBV,Healthcare,dei,main,1.0,3.0,7.52,6.965,0.5,1.0,0.025,0.05,0.3333333333333333,0.0,0.5,0.0,True,True,rise,kept,rise,rise,rise,rise,True,kept_both
+ABBV,Healthcare,environment,main,0.5,1.0,6.335,11.25,0.5,0.0,0.05555,0.0,0.3333333333333333,0.0,0.5,0.0,True,True,rise,rise,cut,cut,rise,cut,True,cut_do_only
+ABT,Healthcare,dei,main,0.0,0.0,16.310000000000002,21.12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+ABT,Healthcare,environment,main,0.0,0.0,16.915,24.725,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+AMZN,Consumer Discretionary,dei,main,1.0,1.5,33.195,31.38,0.0,,,,,,0.0,,False,False,rise,kept,na,na,rise,na,False,no_pre_do
+AMZN,Consumer Discretionary,environment,main,0.5,1.0,58.46000000000001,37.835,0.0,,,,,,0.0,,False,False,rise,cut,na,na,conflict,na,False,no_pre_do
+AVGO,Technology,dei,main,,,4.265,5.945,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AVGO,Technology,environment,main,,,6.285,11.915,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AXP,Financials,dei,main,1.5,0.0,40.03,23.85,0.0,1.0,0.0,0.06665,0.3,0.4,0.5,1.0,False,True,cut,cut,rise,rise,cut,rise,False,no_pre_do
+AXP,Financials,environment,main,0.0,0.5,6.705,7.470000000000001,0.0,1.0,0.0,0.06665,0.3,0.4,0.5,0.5,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+BAC,Financials,dei,main,0.0,0.0,56.275,31.415,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BAC,Financials,environment,main,0.0,0.0,56.675,39.585,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BLK,Financials,dei,main,2.0,2.0,37.05,25.25,1.0,1.0,0.05835,0.0528,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+BLK,Financials,environment,main,1.0,1.0,21.15,14.635,0.5,1.0,0.05,0.07015,0.0,0.0,0.0,0.0,False,True,kept,cut,rise,kept,cut,rise,True,cut_say_only
+BMY,Healthcare,dei,main,2.0,2.0,32.900000000000006,34.655,0.0,1.0,0.0,0.04,0.0,0.0,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
+BMY,Healthcare,environment,main,1.0,2.0,18.49,17.595,0.0,1.0,0.0,0.02,0.0,0.0,0.0,0.0,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+BRK.B,Financials,dei,main,0.0,0.0,7.03,4.28,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+BRK.B,Financials,environment,main,0.0,0.0,2.525,0.595,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+C,Financials,dei,main,0.0,1.0,25.73,32.974999999999994,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,na,rise,kept,False,no_pre_do
+C,Financials,environment,main,0.0,0.5,25.34,29.759999999999998,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,na,rise,kept,False,no_pre_do
+COP,Energy,dei,main,0.0,0.0,17.625,20.41,0.5,1.0,0.0143,0.0216,0.5,0.5,1.0,1.0,False,True,kept,kept,rise,rise,kept,rise,True,kept_both
+COP,Energy,environment,main,1.0,1.5,54.57,50.225,0.5,1.0,0.05715,0.08635000000000001,0.5,0.5,0.5,0.0,False,True,rise,kept,rise,rise,rise,rise,True,kept_both
+CRM,Technology,dei,main,2.0,1.5,5.365,4.72,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,True,cut,kept,rise,rise,cut,rise,False,no_pre_do
+CRM,Technology,environment,main,1.0,1.5,11.735,12.469999999999999,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+CVX,Energy,dei,main,3.0,3.0,12.68,19.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+CVX,Energy,environment,main,3.0,3.0,69.57499999999999,77.36500000000001,1.0,1.0,0.04835,0.1,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,rise,kept,kept,True,kept_both
+EOG,Energy,dei,main,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+EOG,Energy,environment,main,,,37.644999999999996,45.195,1.0,1.0,0.037500000000000006,0.075,,,,,False,True,na,kept,kept,rise,kept,kept,True,kept_both
+F,Consumer Discretionary,dei,main,0.0,0.0,6.904999999999999,3.995,0.0,,0.0,,0.0,,0.0,,False,True,kept,cut,na,na,cut,na,False,no_pre_do
+F,Consumer Discretionary,environment,main,2.0,1.0,6.694999999999999,8.355,0.0,,0.0,,0.0,,0.0,,False,True,cut,kept,na,na,cut,na,False,no_pre_do
+GOOGL,Technology,dei,main,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,,,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
+GOOGL,Technology,environment,main,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GS,Financials,dei,main,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
+GS,Financials,environment,main,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.06945,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
+HAL,Energy,dei,main,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.06665,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
+HAL,Energy,environment,main,1.0,1.5,14.424999999999999,37.795,0.0,1.0,0.0,0.1,0.0,0.1,0.0,0.0,False,True,rise,rise,rise,rise,rise,rise,False,no_pre_do
+HD,Consumer Discretionary,dei,main,2.0,2.0,28.669999999999998,26.775,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+HD,Consumer Discretionary,environment,main,0.0,0.0,7.585,11.530000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+IBM,Technology,dei,main,1.0,0.5,15.48,13.774999999999999,0.5,1.0,0.1,0.20224999999999999,0.0,0.125,0.0,0.5,False,True,cut,kept,rise,rise,cut,rise,True,cut_say_only
+IBM,Technology,environment,main,0.0,2.0,17.195,10.115,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,False,True,rise,cut,kept,kept,conflict,kept,False,no_pre_do
+INTC,Technology,dei,main,1.0,1.0,27.169999999999998,13.555,1.0,1.0,0.04465,0.02555,0.125,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+INTC,Technology,environment,main,2.0,1.5,19.27,13.17,1.0,1.0,0.04465,0.0322,0.125,0.0,0.0,0.0,False,True,cut,cut,kept,kept,cut,kept,True,cut_say_only
+JNJ,Healthcare,dei,main,2.0,2.0,22.284999999999997,23.98,1.0,1.0,0.02565,0.018349999999999998,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+JNJ,Healthcare,environment,main,1.0,1.0,8.705,11.879999999999999,0.5,1.0,0.01565,0.02665,0.0,0.0,0.0,0.0,False,True,kept,rise,rise,rise,rise,rise,True,kept_both
+JPM,Financials,dei,main,2.0,2.0,41.025,31.78,1.0,1.0,0.12945,0.10695,0.1547619047619047,0.1428571428571428,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+JPM,Financials,environment,main,0.0,0.0,20.625,17.37,1.0,1.0,0.049100000000000005,0.037500000000000006,0.1547619047619047,0.1428571428571428,1.0,1.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+LLY,Healthcare,dei,main,,0.0,31.005000000000003,26.4,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LLY,Healthcare,environment,main,,0.0,12.190000000000001,12.915,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,dei,main,0.0,0.0,22.71,22.604999999999997,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,environment,main,0.0,0.0,22.21,35.065,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+MCD,Consumer Discretionary,dei,main,3.0,2.5,38.095,35.339999999999996,0.5,1.0,0.05625,0.26415,0.0,0.0,0.0,0.0,False,True,cut,kept,rise,rise,cut,rise,True,cut_say_only
+MCD,Consumer Discretionary,environment,main,0.0,0.0,20.57,15.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+MDT,Healthcare,dei,main,0.0,0.0,10.379999999999999,8.73,0.0,1.0,0.0,0.00165,0.25,0.5,0.5,1.0,False,True,kept,kept,rise,kept,kept,rise,False,no_pre_do
+MDT,Healthcare,environment,main,0.0,0.0,9.485,8.205,0.0,0.0,0.0,0.0,0.25,0.5,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+META,Technology,dei,main,1.0,1.0,32.230000000000004,9.905000000000001,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+META,Technology,environment,main,1.0,0.0,19.27,14.725,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,cut,kept,kept,kept,cut,kept,False,no_pre_do
+MPC,Energy,dei,main,2.5,2.0,12.53,18.605,1.0,1.0,0.05835,0.0417,0.0,0.0,0.0,0.0,False,True,cut,rise,kept,kept,conflict,kept,True,conflict
+MPC,Energy,environment,main,2.0,2.0,18.965,32.545,1.0,1.0,0.13335,0.25,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,rise,rise,kept,True,kept_both
+MRK,Healthcare,dei,main,2.0,2.5,17.16,14.775,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+MRK,Healthcare,environment,main,0.5,1.0,10.600000000000001,12.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+MS,Financials,dei,main,3.0,3.0,20.2,13.405000000000001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+MS,Financials,environment,main,2.0,2.0,12.655,25.384999999999998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+MSFT,Technology,dei,main,2.0,2.0,33.54,25.515,1.0,1.0,0.030950000000000002,0.030950000000000002,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+MSFT,Technology,environment,main,1.0,1.0,25.6,22.979999999999997,1.0,1.0,0.02765,0.030950000000000002,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+NKE,Consumer Discretionary,dei,main,3.0,,16.415,22.175,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NKE,Consumer Discretionary,environment,main,2.0,,11.445,16.265,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NVDA,Technology,dei,main,0.0,0.0,19.48,33.485,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+NVDA,Technology,environment,main,0.0,1.5,7.365,13.420000000000002,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+ORCL,Technology,dei,main,2.0,2.0,10.84,8.405000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+ORCL,Technology,environment,main,0.5,1.0,1.25,1.84,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,dei,main,0.0,0.0,10.815,19.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,environment,main,2.5,3.0,58.595,70.25999999999999,1.0,1.0,0.29705,0.3,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,True,kept_both
+PFE,Healthcare,dei,main,1.0,2.0,21.645000000000003,15.825,0.0,1.0,0.0,0.0125,0.0,0.29166666666666663,0.0,0.0,True,True,rise,cut,rise,rise,conflict,rise,False,no_pre_do
+PFE,Healthcare,environment,main,1.0,0.0,22.66,16.82,0.0,1.0,0.0,0.00625,0.0,0.29166666666666663,0.0,1.0,True,True,cut,cut,rise,kept,cut,rise,False,no_pre_do
+PSX,Energy,dei,main,0.0,,17.46,16.59,0.0,0.0,0.0,0.0,0.0,,0.0,,True,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+PSX,Energy,environment,main,1.0,,47.46,53.239999999999995,1.0,1.0,0.0875,0.15835,0.0,,0.0,,True,True,na,kept,kept,rise,kept,kept,True,kept_both
+SBUX,Consumer Discretionary,dei,main,1.0,1.0,23.42,23.695,0.5,1.0,0.05,0.03705,0.5,0.41666666666666663,0.0,0.0,True,True,kept,kept,rise,kept,kept,rise,True,kept_both
+SBUX,Consumer Discretionary,environment,main,0.0,0.0,15.280000000000001,14.715,1.0,1.0,0.125,0.07205,0.5,0.41666666666666663,1.0,1.0,True,True,kept,kept,kept,kept,kept,kept,True,kept_both
+SCHW,Financials,dei,main,0.0,0.5,8.780000000000001,9.524999999999999,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+SCHW,Financials,environment,main,0.0,0.0,7.625,3.265,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+SLB,Energy,dei,main,0.5,1.5,19.72,33.755,0.5,0.5,0.02145,0.02,0.41666666666666663,0.1,0.5,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+SLB,Energy,environment,main,2.0,2.5,20.34,33.99,1.0,1.0,0.07145,0.057249999999999995,0.41666666666666663,0.1,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+TGT,Consumer Discretionary,dei,main,0.5,0.5,17.62,14.625,0.5,1.0,0.0275,0.055,0.16666666666666666,0.16666666666666666,0.5,0.5,False,True,kept,kept,rise,rise,kept,rise,True,kept_both
+TGT,Consumer Discretionary,environment,main,0.0,0.0,13.275,23.38,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+TJX,Consumer Discretionary,dei,main,0.0,0.0,12.004999999999999,10.37,0.0,0.5,0.0,0.004,0.125,0.25,0.5,0.5,False,True,kept,kept,rise,kept,kept,rise,False,no_pre_do
+TJX,Consumer Discretionary,environment,main,1.0,0.5,10.434999999999999,14.985,0.0,0.5,0.0,0.008,0.125,0.25,0.0,0.0,False,True,cut,rise,rise,kept,conflict,rise,False,no_pre_do
+TMO,Healthcare,dei,main,0.0,0.0,21.05,4.515,0.0,1.0,0.0,0.01585,0.5,0.3333333333333333,0.5,1.0,False,True,kept,cut,rise,rise,cut,rise,False,no_pre_do
+TMO,Healthcare,environment,main,1.0,1.0,18.53,12.18,0.0,1.0,0.0,0.01165,0.5,0.3333333333333333,0.0,0.0,False,True,kept,cut,rise,rise,cut,rise,False,no_pre_do
+TSLA,Consumer Discretionary,dei,main,0.0,0.5,3.815,11.225,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,rise,rise,kept,na,rise,kept,False,no_pre_do
+TSLA,Consumer Discretionary,environment,main,3.0,3.0,1.73,3.505,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,kept,rise,kept,na,rise,kept,False,no_pre_do
+UNH,Healthcare,dei,main,0.5,2.0,20.770000000000003,27.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+UNH,Healthcare,environment,main,0.0,1.0,11.735,13.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+VLO,Energy,dei,main,0.0,0.0,13.41,22.175,1.0,1.0,0.035,0.018349999999999998,0.1833333333333333,0.1666666666666666,1.0,1.0,False,True,kept,rise,kept,kept,rise,kept,True,kept_both
+VLO,Energy,environment,main,2.0,2.0,44.105,98.715,1.0,1.0,0.035,0.044500000000000005,0.1833333333333333,0.1666666666666666,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,True,kept_both
+WFC,Financials,dei,main,0.0,0.0,54.065,25.935000000000002,1.0,0.5,0.1027,0.01545,0.6190476190476191,0.5714285714285714,1.0,1.0,False,True,kept,cut,cut,cut,cut,cut,True,cut_both
+WFC,Financials,environment,main,1.0,1.0,9.615,10.835,0.5,0.5,0.0625,0.03095,0.6190476190476191,0.5714285714285714,0.0,0.0,False,True,kept,kept,kept,cut,kept,kept,True,kept_both
+XOM,Energy,dei,main,0.0,0.0,17.705,14.765,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+XOM,Energy,environment,main,1.0,1.5,67.395,97.51,1.0,1.0,0.23335,0.26439999999999997,0.0,0.0,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+AAPL,Technology,dei,lag,,,16.61,19.215,0.0,1.0,0.0,0.0073,,,,,False,True,na,kept,rise,kept,kept,rise,False,no_pre_do
+AAPL,Technology,environment,lag,,,10.58,15.934999999999999,0.0,1.0,0.0,0.0073,,,,,False,True,na,rise,rise,kept,rise,rise,False,no_pre_do
+ABBV,Healthcare,dei,lag,1.0,3.0,7.52,6.965,1.0,1.0,0.05,0.05,0.3333333333333333,0.0,0.5,0.0,True,True,rise,kept,kept,kept,rise,kept,True,kept_both
+ABBV,Healthcare,environment,lag,0.5,1.0,6.335,11.25,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.5,0.0,True,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+ABT,Healthcare,dei,lag,0.0,0.0,16.310000000000002,21.12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+ABT,Healthcare,environment,lag,0.0,0.0,16.915,24.725,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+AMZN,Consumer Discretionary,dei,lag,1.0,1.5,33.195,31.38,0.0,,,,,,0.0,,False,False,rise,kept,na,na,rise,na,False,no_pre_do
+AMZN,Consumer Discretionary,environment,lag,0.5,1.0,58.46000000000001,37.835,0.0,,,,,,0.0,,False,False,rise,cut,na,na,conflict,na,False,no_pre_do
+AVGO,Technology,dei,lag,,,4.265,5.945,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AVGO,Technology,environment,lag,,,6.285,11.915,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AXP,Financials,dei,lag,1.5,0.0,40.03,23.85,0.0,1.0,0.0,0.0833,0.3,0.4,0.5,1.0,False,True,cut,cut,rise,rise,cut,rise,False,no_pre_do
+AXP,Financials,environment,lag,0.0,0.5,6.705,7.470000000000001,0.0,1.0,0.0,0.0833,0.3,0.4,0.5,0.5,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+BAC,Financials,dei,lag,0.0,0.0,56.275,31.415,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BAC,Financials,environment,lag,0.0,0.0,56.675,39.585,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BLK,Financials,dei,lag,2.0,2.0,37.05,25.25,1.0,1.0,0.05,0.0556,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+BLK,Financials,environment,lag,1.0,1.0,21.15,14.635,1.0,1.0,0.1,0.0903,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+BMY,Healthcare,dei,lag,2.0,2.0,32.900000000000006,34.655,0.0,,0.0,,0.0,0.0,0.0,0.0,False,False,kept,kept,na,na,kept,na,False,no_pre_do
+BMY,Healthcare,environment,lag,1.0,2.0,18.49,17.595,0.0,,0.0,,0.0,0.0,0.0,0.0,False,False,rise,kept,na,na,rise,na,False,no_pre_do
+BRK.B,Financials,dei,lag,0.0,0.0,7.03,4.28,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+BRK.B,Financials,environment,lag,0.0,0.0,2.525,0.595,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+C,Financials,dei,lag,0.0,1.0,25.73,32.974999999999994,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,na,rise,kept,False,no_pre_do
+C,Financials,environment,lag,0.0,0.5,25.34,29.759999999999998,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,na,rise,kept,False,no_pre_do
+COP,Energy,dei,lag,0.0,0.0,17.625,20.41,1.0,1.0,0.0286,0.025,0.5,0.5,1.0,1.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+COP,Energy,environment,lag,1.0,1.5,54.57,50.225,1.0,1.0,0.1143,0.1,0.5,0.5,0.5,0.0,False,True,rise,kept,kept,kept,rise,kept,True,kept_both
+CRM,Technology,dei,lag,2.0,1.5,5.365,4.72,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,False,cut,kept,rise,rise,cut,rise,False,no_pre_do
+CRM,Technology,environment,lag,1.0,1.5,11.735,12.469999999999999,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,False,rise,kept,rise,rise,rise,rise,False,no_pre_do
+CVX,Energy,dei,lag,3.0,3.0,12.68,19.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+CVX,Energy,environment,lag,3.0,3.0,69.57499999999999,77.36500000000001,1.0,1.0,0.0667,0.1,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+EOG,Energy,dei,lag,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+EOG,Energy,environment,lag,,,37.644999999999996,45.195,1.0,1.0,0.05,0.075,,,,,False,True,na,kept,kept,kept,kept,kept,True,kept_both
+F,Consumer Discretionary,dei,lag,0.0,0.0,6.904999999999999,3.995,,,,,0.0,,0.0,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+F,Consumer Discretionary,environment,lag,2.0,1.0,6.694999999999999,8.355,,,,,0.0,,0.0,,False,False,cut,kept,na,na,cut,na,False,no_pre_do
+GOOGL,Technology,dei,lag,1.0,1.0,17.96,18.89,0.0,0.0,,0.0,,,0.0,0.0,False,True,kept,kept,kept,na,kept,kept,False,no_pre_do
+GOOGL,Technology,environment,lag,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GS,Financials,dei,lag,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
+GS,Financials,environment,lag,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.0833,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
+HAL,Energy,dei,lag,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.0333,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
+HAL,Energy,environment,lag,1.0,1.5,14.424999999999999,37.795,0.0,1.0,0.0,0.1,0.0,0.1,0.0,0.0,False,True,rise,rise,rise,rise,rise,rise,False,no_pre_do
+HD,Consumer Discretionary,dei,lag,2.0,2.0,28.669999999999998,26.775,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+HD,Consumer Discretionary,environment,lag,0.0,0.0,7.585,11.530000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+IBM,Technology,dei,lag,1.0,0.5,15.48,13.774999999999999,1.0,1.0,0.2,0.2,0.0,0.125,0.0,0.5,False,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
+IBM,Technology,environment,lag,0.0,2.0,17.195,10.115,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,False,True,rise,cut,kept,kept,conflict,kept,False,no_pre_do
+INTC,Technology,dei,lag,1.0,1.0,27.169999999999998,13.555,1.0,1.0,0.0476,0.0067,0.125,0.0,0.0,0.0,False,True,kept,cut,kept,cut,cut,kept,True,cut_say_only
+INTC,Technology,environment,lag,2.0,1.5,19.27,13.17,1.0,1.0,0.0476,0.02,0.125,0.0,0.0,0.0,False,True,cut,cut,kept,cut,cut,kept,True,cut_say_only
+JNJ,Healthcare,dei,lag,2.0,2.0,22.284999999999997,23.98,1.0,1.0,0.0313,0.0167,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+JNJ,Healthcare,environment,lag,1.0,1.0,8.705,11.879999999999999,1.0,1.0,0.0313,0.0333,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,True,kept_both
+JPM,Financials,dei,lag,2.0,2.0,41.025,31.78,1.0,1.0,0.0714,0.125,0.1547619047619047,0.1428571428571428,0.0,0.0,False,True,kept,kept,kept,rise,kept,kept,True,kept_both
+JPM,Financials,environment,lag,0.0,0.0,20.625,17.37,1.0,1.0,0.0357,0.0417,0.1547619047619047,0.1428571428571428,1.0,1.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+LLY,Healthcare,dei,lag,,0.0,31.005000000000003,26.4,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LLY,Healthcare,environment,lag,,0.0,12.190000000000001,12.915,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,dei,lag,0.0,0.0,22.71,22.604999999999997,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,environment,lag,0.0,0.0,22.21,35.065,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+MCD,Consumer Discretionary,dei,lag,3.0,2.5,38.095,35.339999999999996,1.0,1.0,0.1125,0.3,0.0,0.0,0.0,0.0,False,True,cut,kept,kept,rise,cut,kept,True,cut_say_only
+MCD,Consumer Discretionary,environment,lag,0.0,0.0,20.57,15.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+MDT,Healthcare,dei,lag,0.0,0.0,10.379999999999999,8.73,0.0,1.0,0.0,0.0033,0.25,0.5,0.5,1.0,False,True,kept,kept,rise,kept,kept,rise,False,no_pre_do
+MDT,Healthcare,environment,lag,0.0,0.0,9.485,8.205,0.0,0.0,0.0,0.0,0.25,0.5,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+META,Technology,dei,lag,1.0,1.0,32.230000000000004,9.905000000000001,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+META,Technology,environment,lag,1.0,0.0,19.27,14.725,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,cut,kept,kept,kept,cut,kept,False,no_pre_do
+MPC,Energy,dei,lag,2.5,2.0,12.53,18.605,1.0,,0.05,,0.0,0.0,0.0,0.0,False,False,cut,rise,na,na,conflict,na,False,insufficient_data
+MPC,Energy,environment,lag,2.0,2.0,18.965,32.545,1.0,,0.1,,0.0,0.0,0.0,0.0,False,False,kept,rise,na,na,rise,na,False,insufficient_data
+MRK,Healthcare,dei,lag,2.0,2.5,17.16,14.775,0.0,,0.0,,0.0,0.0,0.0,0.0,False,True,rise,kept,na,na,rise,na,False,no_pre_do
+MRK,Healthcare,environment,lag,0.5,1.0,10.600000000000001,12.04,0.0,,0.0,,0.0,0.0,0.0,0.0,False,True,rise,kept,na,na,rise,na,False,no_pre_do
+MS,Financials,dei,lag,3.0,3.0,20.2,13.405000000000001,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,na,cut,kept,False,no_pre_do
+MS,Financials,environment,lag,2.0,2.0,12.655,25.384999999999998,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,na,rise,kept,False,no_pre_do
+MSFT,Technology,dei,lag,2.0,2.0,33.54,25.515,1.0,1.0,0.0286,0.0476,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,rise,kept,kept,True,kept_both
+MSFT,Technology,environment,lag,1.0,1.0,25.6,22.979999999999997,1.0,1.0,0.0286,0.0476,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,rise,kept,kept,True,kept_both
+NKE,Consumer Discretionary,dei,lag,3.0,,16.415,22.175,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NKE,Consumer Discretionary,environment,lag,2.0,,11.445,16.265,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NVDA,Technology,dei,lag,0.0,0.0,19.48,33.485,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+NVDA,Technology,environment,lag,0.0,1.5,7.365,13.420000000000002,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+ORCL,Technology,dei,lag,2.0,2.0,10.84,8.405000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+ORCL,Technology,environment,lag,0.5,1.0,1.25,1.84,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,dei,lag,0.0,0.0,10.815,19.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,environment,lag,2.5,3.0,58.595,70.25999999999999,1.0,1.0,0.3,0.3,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,True,kept_both
+PFE,Healthcare,dei,lag,1.0,2.0,21.645000000000003,15.825,0.0,1.0,0.0,0.025,0.0,0.29166666666666663,0.0,0.0,True,True,rise,cut,rise,rise,conflict,rise,False,no_pre_do
+PFE,Healthcare,environment,lag,1.0,0.0,22.66,16.82,0.0,1.0,0.0,0.0125,0.0,0.29166666666666663,0.0,1.0,True,True,cut,cut,rise,rise,cut,rise,False,no_pre_do
+PSX,Energy,dei,lag,0.0,,17.46,16.59,,0.0,,0.0,0.0,,0.0,,True,True,na,kept,na,na,kept,na,False,no_pre_do
+PSX,Energy,environment,lag,1.0,,47.46,53.239999999999995,,1.0,,0.1667,0.0,,0.0,,True,True,na,kept,na,na,kept,na,False,no_pre_do
+SBUX,Consumer Discretionary,dei,lag,1.0,1.0,23.42,23.695,1.0,1.0,0.1,0.0441,0.5,0.41666666666666663,0.0,0.0,True,True,kept,kept,kept,cut,kept,kept,True,kept_both
+SBUX,Consumer Discretionary,environment,lag,0.0,0.0,15.280000000000001,14.715,1.0,1.0,0.1,0.0441,0.5,0.41666666666666663,1.0,1.0,True,True,kept,kept,kept,cut,kept,kept,True,kept_both
+SCHW,Financials,dei,lag,0.0,0.5,8.780000000000001,9.524999999999999,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+SCHW,Financials,environment,lag,0.0,0.0,7.625,3.265,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+SLB,Energy,dei,lag,0.5,1.5,19.72,33.755,0.0,1.0,0.0,0.04,0.41666666666666663,0.1,0.5,0.0,False,True,rise,rise,rise,rise,rise,rise,False,no_pre_do
+SLB,Energy,environment,lag,2.0,2.5,20.34,33.99,1.0,1.0,0.1,0.06,0.41666666666666663,0.1,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+TGT,Consumer Discretionary,dei,lag,0.5,0.5,17.62,14.625,1.0,1.0,0.055,0.055,0.16666666666666666,0.16666666666666666,0.5,0.5,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+TGT,Consumer Discretionary,environment,lag,0.0,0.0,13.275,23.38,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+TJX,Consumer Discretionary,dei,lag,0.0,0.0,12.004999999999999,10.37,0.0,0.0,,0.0,0.125,0.25,0.5,0.5,False,True,kept,kept,kept,na,kept,kept,False,no_pre_do
+TJX,Consumer Discretionary,environment,lag,1.0,0.5,10.434999999999999,14.985,0.0,0.0,,0.0,0.125,0.25,0.0,0.0,False,True,cut,rise,kept,na,conflict,kept,False,no_pre_do
+TMO,Healthcare,dei,lag,0.0,0.0,21.05,4.515,0.0,1.0,0.0,0.0167,0.5,0.3333333333333333,0.5,1.0,False,True,kept,cut,rise,rise,cut,rise,False,no_pre_do
+TMO,Healthcare,environment,lag,1.0,1.0,18.53,12.18,0.0,1.0,0.0,0.0083,0.5,0.3333333333333333,0.0,0.0,False,True,kept,cut,rise,kept,cut,rise,False,no_pre_do
+TSLA,Consumer Discretionary,dei,lag,0.0,0.5,3.815,11.225,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,rise,rise,kept,na,rise,kept,False,no_pre_do
+TSLA,Consumer Discretionary,environment,lag,3.0,3.0,1.73,3.505,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,kept,rise,kept,na,rise,kept,False,no_pre_do
+UNH,Healthcare,dei,lag,0.5,2.0,20.770000000000003,27.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+UNH,Healthcare,environment,lag,0.0,1.0,11.735,13.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+VLO,Energy,dei,lag,0.0,0.0,13.41,22.175,1.0,1.0,0.05,0.02,0.1833333333333333,0.1666666666666666,1.0,1.0,False,True,kept,rise,kept,cut,rise,kept,True,kept_both
+VLO,Energy,environment,lag,2.0,2.0,44.105,98.715,1.0,1.0,0.05,0.02,0.1833333333333333,0.1666666666666666,0.0,0.0,False,True,kept,rise,kept,cut,rise,kept,True,kept_both
+WFC,Financials,dei,lag,0.0,0.0,54.065,25.935000000000002,1.0,1.0,0.0625,0.0309,0.6190476190476191,0.5714285714285714,1.0,1.0,False,True,kept,cut,kept,cut,cut,kept,True,cut_say_only
+WFC,Financials,environment,lag,1.0,1.0,9.615,10.835,1.0,1.0,0.125,0.0619,0.6190476190476191,0.5714285714285714,0.0,0.0,False,True,kept,kept,kept,cut,kept,kept,True,kept_both
+XOM,Energy,dei,lag,0.0,0.0,17.705,14.765,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+XOM,Energy,environment,lag,1.0,1.5,67.395,97.51,1.0,1.0,0.3,0.1538,0.0,0.0,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+AAPL,Technology,dei,imputed_weights,,,16.61,19.215,0.0,1.0,0.0,0.0592,,,,,False,True,na,kept,rise,rise,kept,rise,False,no_pre_do
+AAPL,Technology,environment,imputed_weights,,,10.58,15.934999999999999,0.0,1.0,0.0,0.0592,,,,,False,True,na,rise,rise,rise,rise,rise,False,no_pre_do
+ABBV,Healthcare,dei,imputed_weights,1.0,3.0,7.52,6.965,0.5,1.0,0.025,0.05,0.3333333333333333,0.0,0.5,0.0,True,True,rise,kept,rise,rise,rise,rise,True,kept_both
+ABBV,Healthcare,environment,imputed_weights,0.5,1.0,6.335,11.25,0.5,0.0,0.05555,0.0,0.3333333333333333,0.0,0.5,0.0,True,True,rise,rise,cut,cut,rise,cut,True,cut_do_only
+ABT,Healthcare,dei,imputed_weights,0.0,0.0,16.310000000000002,21.12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+ABT,Healthcare,environment,imputed_weights,0.0,0.0,16.915,24.725,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+AMZN,Consumer Discretionary,dei,imputed_weights,1.0,1.5,33.195,31.38,0.0,,,,,,0.0,,False,False,rise,kept,na,na,rise,na,False,no_pre_do
+AMZN,Consumer Discretionary,environment,imputed_weights,0.5,1.0,58.46000000000001,37.835,0.0,,,,,,0.0,,False,False,rise,cut,na,na,conflict,na,False,no_pre_do
+AVGO,Technology,dei,imputed_weights,,,4.265,5.945,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AVGO,Technology,environment,imputed_weights,,,6.285,11.915,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+AXP,Financials,dei,imputed_weights,1.5,0.0,40.03,23.85,0.0,1.0,0.0,0.06665,0.3,0.4,0.5,1.0,False,True,cut,cut,rise,rise,cut,rise,False,no_pre_do
+AXP,Financials,environment,imputed_weights,0.0,0.5,6.705,7.470000000000001,0.0,1.0,0.0,0.06665,0.3,0.4,0.5,0.5,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+BAC,Financials,dei,imputed_weights,0.0,0.0,56.275,31.415,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BAC,Financials,environment,imputed_weights,0.0,0.0,56.675,39.585,0.0,0.0,,,,,0.0,0.0,False,False,kept,cut,kept,na,cut,kept,False,no_pre_do
+BLK,Financials,dei,imputed_weights,2.0,2.0,37.05,25.25,1.0,1.0,0.05835,0.0528,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+BLK,Financials,environment,imputed_weights,1.0,1.0,21.15,14.635,0.5,1.0,0.05,0.07015,0.0,0.0,0.0,0.0,False,True,kept,cut,rise,kept,cut,rise,True,cut_say_only
+BMY,Healthcare,dei,imputed_weights,2.0,2.0,32.900000000000006,34.655,0.0,1.0,0.0,0.04,0.0,0.0,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
+BMY,Healthcare,environment,imputed_weights,1.0,2.0,18.49,17.595,0.0,1.0,0.0,0.02,0.0,0.0,0.0,0.0,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+BRK.B,Financials,dei,imputed_weights,0.0,0.0,7.03,4.28,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+BRK.B,Financials,environment,imputed_weights,0.0,0.0,2.525,0.595,,,,,,,,,False,False,kept,cut,na,na,cut,na,False,no_pre_do
+C,Financials,dei,imputed_weights,0.0,1.0,25.73,32.974999999999994,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,na,rise,kept,False,no_pre_do
+C,Financials,environment,imputed_weights,0.0,0.5,25.34,29.759999999999998,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,na,rise,kept,False,no_pre_do
+COP,Energy,dei,imputed_weights,0.0,0.0,17.625,20.41,0.5,1.0,0.0143,0.0216,0.5,0.5,1.0,1.0,False,True,kept,kept,rise,rise,kept,rise,True,kept_both
+COP,Energy,environment,imputed_weights,1.0,1.5,54.57,50.225,0.5,1.0,0.05715,0.08635000000000001,0.5,0.5,0.5,0.0,False,True,rise,kept,rise,rise,rise,rise,True,kept_both
+CRM,Technology,dei,imputed_weights,2.0,1.5,5.365,4.72,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,True,cut,kept,rise,rise,cut,rise,False,no_pre_do
+CRM,Technology,environment,imputed_weights,1.0,1.5,11.735,12.469999999999999,0.0,1.0,0.0,0.05,0.0,0.5,0.0,0.5,False,True,rise,kept,rise,rise,rise,rise,False,no_pre_do
+CVX,Energy,dei,imputed_weights,3.0,3.0,12.68,19.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+CVX,Energy,environment,imputed_weights,3.0,3.0,69.57499999999999,77.36500000000001,1.0,1.0,0.04835,0.1,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,rise,kept,rise,True,kept_both
+EOG,Energy,dei,imputed_weights,,,9.81,17.685000000000002,0.0,0.0,0.0,0.0,,,,,False,True,na,rise,kept,kept,rise,kept,False,no_pre_do
+EOG,Energy,environment,imputed_weights,,,37.644999999999996,45.195,1.0,1.0,0.037500000000000006,0.075,,,,,False,True,na,kept,kept,rise,kept,rise,True,kept_both
+F,Consumer Discretionary,dei,imputed_weights,0.0,0.0,6.904999999999999,3.995,0.0,,0.0,,0.0,,0.0,,False,True,kept,cut,na,na,cut,na,False,no_pre_do
+F,Consumer Discretionary,environment,imputed_weights,2.0,1.0,6.694999999999999,8.355,0.0,,0.0,,0.0,,0.0,,False,True,cut,kept,na,na,cut,na,False,no_pre_do
+GOOGL,Technology,dei,imputed_weights,1.0,1.0,17.96,18.89,0.0,0.5,,0.25,,,0.0,0.0,False,True,kept,kept,rise,na,kept,rise,False,no_pre_do
+GOOGL,Technology,environment,imputed_weights,0.0,0.0,10.41,14.555,0.0,1.0,,0.5,,,0.0,0.0,False,True,kept,rise,rise,na,rise,rise,False,no_pre_do
+GS,Financials,dei,imputed_weights,2.5,2.0,21.0,19.92,1.0,1.0,0.0909,0.0833,0.2,0.4,0.0,0.0,True,True,cut,kept,kept,kept,cut,kept,True,cut_say_only
+GS,Financials,environment,imputed_weights,0.0,0.0,16.98,21.405,0.0,1.0,0.0,0.06945,0.2,0.4,0.5,1.0,True,True,kept,rise,rise,rise,rise,rise,False,no_pre_do
+HAL,Energy,dei,imputed_weights,2.0,2.0,7.970000000000001,7.834999999999999,0.0,1.0,0.0,0.06665,0.0,0.1,0.0,0.0,False,True,kept,kept,rise,rise,kept,rise,False,no_pre_do
+HAL,Energy,environment,imputed_weights,1.0,1.5,14.424999999999999,37.795,0.0,1.0,0.0,0.1,0.0,0.1,0.0,0.0,False,True,rise,rise,rise,rise,rise,rise,False,no_pre_do
+HD,Consumer Discretionary,dei,imputed_weights,2.0,2.0,28.669999999999998,26.775,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+HD,Consumer Discretionary,environment,imputed_weights,0.0,0.0,7.585,11.530000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+IBM,Technology,dei,imputed_weights,1.0,0.5,15.48,13.774999999999999,0.5,1.0,0.1,0.20224999999999999,0.0,0.125,0.0,0.5,False,True,cut,kept,rise,rise,cut,rise,True,cut_say_only
+IBM,Technology,environment,imputed_weights,0.0,2.0,17.195,10.115,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,False,True,rise,cut,kept,kept,conflict,kept,False,no_pre_do
+INTC,Technology,dei,imputed_weights,1.0,1.0,27.169999999999998,13.555,1.0,1.0,0.04465,0.02555,0.125,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,True,cut_say_only
+INTC,Technology,environment,imputed_weights,2.0,1.5,19.27,13.17,1.0,1.0,0.04465,0.0322,0.125,0.0,0.0,0.0,False,True,cut,cut,kept,kept,cut,kept,True,cut_say_only
+JNJ,Healthcare,dei,imputed_weights,2.0,2.0,22.284999999999997,23.98,1.0,1.0,0.02565,0.018349999999999998,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+JNJ,Healthcare,environment,imputed_weights,1.0,1.0,8.705,11.879999999999999,0.5,1.0,0.01565,0.02665,0.0,0.0,0.0,0.0,False,True,kept,rise,rise,rise,rise,rise,True,kept_both
+JPM,Financials,dei,imputed_weights,2.0,2.0,41.025,31.78,1.0,1.0,0.12945,0.10695,0.1547619047619047,0.1428571428571428,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+JPM,Financials,environment,imputed_weights,0.0,0.0,20.625,17.37,1.0,1.0,0.049100000000000005,0.037500000000000006,0.1547619047619047,0.1428571428571428,1.0,1.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+LLY,Healthcare,dei,imputed_weights,,0.0,31.005000000000003,26.4,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LLY,Healthcare,environment,imputed_weights,,0.0,12.190000000000001,12.915,0.0,0.0,0.0,0.0,,0.0,,0.0,False,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,dei,imputed_weights,0.0,0.0,22.71,22.604999999999997,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,kept,kept,kept,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,environment,imputed_weights,0.0,0.0,22.21,35.065,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,False,False,kept,rise,kept,kept,rise,kept,False,no_pre_do
+MCD,Consumer Discretionary,dei,imputed_weights,3.0,2.5,38.095,35.339999999999996,0.5,1.0,0.05625,0.26415,0.0,0.0,0.0,0.0,False,True,cut,kept,rise,rise,cut,rise,True,cut_say_only
+MCD,Consumer Discretionary,environment,imputed_weights,0.0,0.0,20.57,15.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+MDT,Healthcare,dei,imputed_weights,0.0,0.0,10.379999999999999,8.73,0.0,1.0,0.0,0.00165,0.25,0.5,0.5,1.0,False,True,kept,kept,rise,kept,kept,rise,False,no_pre_do
+MDT,Healthcare,environment,imputed_weights,0.0,0.0,9.485,8.205,0.0,0.0,0.0,0.0,0.25,0.5,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+META,Technology,dei,imputed_weights,1.0,1.0,32.230000000000004,9.905000000000001,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+META,Technology,environment,imputed_weights,1.0,0.0,19.27,14.725,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.0,0.0,False,True,cut,kept,kept,kept,cut,kept,False,no_pre_do
+MPC,Energy,dei,imputed_weights,2.5,2.0,12.53,18.605,1.0,1.0,0.05835,0.0417,0.0,0.0,0.0,0.0,False,True,cut,rise,kept,kept,conflict,kept,True,conflict
+MPC,Energy,environment,imputed_weights,2.0,2.0,18.965,32.545,1.0,1.0,0.13335,0.25,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,rise,rise,rise,True,kept_both
+MRK,Healthcare,dei,imputed_weights,2.0,2.5,17.16,14.775,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+MRK,Healthcare,environment,imputed_weights,0.5,1.0,10.600000000000001,12.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+MS,Financials,dei,imputed_weights,3.0,3.0,20.2,13.405000000000001,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+MS,Financials,environment,imputed_weights,2.0,2.0,12.655,25.384999999999998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+MSFT,Technology,dei,imputed_weights,2.0,2.0,33.54,25.515,1.0,1.0,0.030950000000000002,0.030950000000000002,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+MSFT,Technology,environment,imputed_weights,1.0,1.0,25.6,22.979999999999997,1.0,1.0,0.02765,0.030950000000000002,0.0833333333333333,0.16666666666666666,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,True,kept_both
+NKE,Consumer Discretionary,dei,imputed_weights,3.0,,16.415,22.175,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NKE,Consumer Discretionary,environment,imputed_weights,2.0,,11.445,16.265,1.0,1.0,0.0,0.0,0.0,,0.0,,True,False,na,rise,kept,kept,rise,kept,True,kept_both
+NVDA,Technology,dei,imputed_weights,0.0,0.0,19.48,33.485,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+NVDA,Technology,environment,imputed_weights,0.0,1.5,7.365,13.420000000000002,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+ORCL,Technology,dei,imputed_weights,2.0,2.0,10.84,8.405000000000001,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+ORCL,Technology,environment,imputed_weights,0.5,1.0,1.25,1.84,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,dei,imputed_weights,0.0,0.0,10.815,19.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+OXY,Energy,environment,imputed_weights,2.5,3.0,58.595,70.25999999999999,1.0,1.0,0.29705,0.3,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,True,kept_both
+PFE,Healthcare,dei,imputed_weights,1.0,2.0,21.645000000000003,15.825,0.0,1.0,0.0,0.0125,0.0,0.29166666666666663,0.0,0.0,True,True,rise,cut,rise,rise,conflict,rise,False,no_pre_do
+PFE,Healthcare,environment,imputed_weights,1.0,0.0,22.66,16.82,0.0,1.0,0.0,0.00625,0.0,0.29166666666666663,0.0,1.0,True,True,cut,cut,rise,kept,cut,rise,False,no_pre_do
+PSX,Energy,dei,imputed_weights,0.0,,17.46,16.59,0.0,0.0,0.0,0.0,0.0,,0.0,,True,True,na,kept,kept,kept,kept,kept,False,no_pre_do
+PSX,Energy,environment,imputed_weights,1.0,,47.46,53.239999999999995,1.0,1.0,0.0875,0.15835,0.0,,0.0,,True,True,na,kept,kept,rise,kept,rise,True,kept_both
+SBUX,Consumer Discretionary,dei,imputed_weights,1.0,1.0,23.42,23.695,0.5,1.0,0.05,0.03705,0.5,0.41666666666666663,0.0,0.0,True,True,kept,kept,rise,kept,kept,rise,True,kept_both
+SBUX,Consumer Discretionary,environment,imputed_weights,0.0,0.0,15.280000000000001,14.715,1.0,1.0,0.125,0.07205,0.5,0.41666666666666663,1.0,1.0,True,True,kept,kept,kept,kept,kept,kept,True,kept_both
+SCHW,Financials,dei,imputed_weights,0.0,0.5,8.780000000000001,9.524999999999999,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+SCHW,Financials,environment,imputed_weights,0.0,0.0,7.625,3.265,0.0,0.0,0.0,0.0,,,0.0,0.0,False,True,kept,cut,kept,kept,cut,kept,False,no_pre_do
+SLB,Energy,dei,imputed_weights,0.5,1.5,19.72,33.755,0.5,0.5,0.02145,0.02,0.41666666666666663,0.1,0.5,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+SLB,Energy,environment,imputed_weights,2.0,2.5,20.34,33.99,1.0,1.0,0.07145,0.057249999999999995,0.41666666666666663,0.1,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+TGT,Consumer Discretionary,dei,imputed_weights,0.5,0.5,17.62,14.625,0.5,1.0,0.0275,0.055,0.16666666666666666,0.16666666666666666,0.5,0.5,False,True,kept,kept,rise,rise,kept,rise,True,kept_both
+TGT,Consumer Discretionary,environment,imputed_weights,0.0,0.0,13.275,23.38,0.0,0.0,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,False,no_pre_do
+TJX,Consumer Discretionary,dei,imputed_weights,0.0,0.0,12.004999999999999,10.37,0.0,0.5,0.0,0.004,0.125,0.25,0.5,0.5,False,True,kept,kept,rise,kept,kept,rise,False,no_pre_do
+TJX,Consumer Discretionary,environment,imputed_weights,1.0,0.5,10.434999999999999,14.985,0.0,0.5,0.0,0.008,0.125,0.25,0.0,0.0,False,True,cut,rise,rise,kept,conflict,rise,False,no_pre_do
+TMO,Healthcare,dei,imputed_weights,0.0,0.0,21.05,4.515,0.0,1.0,0.0,0.01585,0.5,0.3333333333333333,0.5,1.0,False,True,kept,cut,rise,rise,cut,rise,False,no_pre_do
+TMO,Healthcare,environment,imputed_weights,1.0,1.0,18.53,12.18,0.0,1.0,0.0,0.01165,0.5,0.3333333333333333,0.0,0.0,False,True,kept,cut,rise,rise,cut,rise,False,no_pre_do
+TSLA,Consumer Discretionary,dei,imputed_weights,0.0,0.5,3.815,11.225,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,rise,rise,kept,na,rise,kept,False,no_pre_do
+TSLA,Consumer Discretionary,environment,imputed_weights,3.0,3.0,1.73,3.505,0.0,0.0,,,0.5,0.0,0.0,0.0,False,False,kept,rise,kept,na,rise,kept,False,no_pre_do
+UNH,Healthcare,dei,imputed_weights,0.5,2.0,20.770000000000003,27.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,rise,kept,kept,rise,kept,False,no_pre_do
+UNH,Healthcare,environment,imputed_weights,0.0,1.0,11.735,13.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,True,rise,kept,kept,kept,rise,kept,False,no_pre_do
+VLO,Energy,dei,imputed_weights,0.0,0.0,13.41,22.175,1.0,1.0,0.035,0.018349999999999998,0.1833333333333333,0.1666666666666666,1.0,1.0,False,True,kept,rise,kept,kept,rise,kept,True,kept_both
+VLO,Energy,environment,imputed_weights,2.0,2.0,44.105,98.715,1.0,1.0,0.035,0.044500000000000005,0.1833333333333333,0.1666666666666666,0.0,0.0,False,True,kept,rise,kept,kept,rise,kept,True,kept_both
+WFC,Financials,dei,imputed_weights,0.0,0.0,54.065,25.935000000000002,1.0,0.5,0.1027,0.01545,0.6190476190476191,0.5714285714285714,1.0,1.0,False,True,kept,cut,cut,cut,cut,cut,True,cut_both
+WFC,Financials,environment,imputed_weights,1.0,1.0,9.615,10.835,0.5,0.5,0.0625,0.03095,0.6190476190476191,0.5714285714285714,0.0,0.0,False,True,kept,kept,kept,cut,kept,cut,True,cut_do_only
+XOM,Energy,dei,imputed_weights,0.0,0.0,17.705,14.765,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,True,kept,kept,kept,kept,kept,kept,False,no_pre_do
+XOM,Energy,environment,imputed_weights,1.0,1.5,67.395,97.51,1.0,1.0,0.23335,0.26439999999999997,0.0,0.0,0.0,0.0,False,True,rise,rise,kept,kept,rise,kept,True,kept_both
+AAPL,Technology,dei,ext,,,16.61,6.3999999999999995,0.0,0.0,0.0,,,,,,False,False,na,cut,kept,na,cut,kept,False,no_pre_do
+AAPL,Technology,environment,ext,,,10.58,5.645,0.0,0.0,0.0,,,,,,False,False,na,cut,kept,na,cut,kept,False,no_pre_do
+ABBV,Healthcare,dei,ext,1.0,,7.52,8.469999999999999,0.5,1.0,0.025,,0.3333333333333333,0.0,0.5,0.0,True,True,na,kept,rise,na,kept,rise,True,kept_both
+ABBV,Healthcare,environment,ext,0.5,,6.335,10.735,0.5,0.5,0.05555,,0.3333333333333333,0.0,0.5,0.0,True,True,na,rise,kept,na,rise,kept,True,kept_both
+ABT,Healthcare,dei,ext,0.0,,16.310000000000002,7.755,0.0,0.0,0.0,,1.0,1.0,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+ABT,Healthcare,environment,ext,0.0,,16.915,18.17,0.0,0.0,0.0,,1.0,1.0,0.0,0.0,True,False,na,kept,kept,na,kept,kept,False,no_pre_do
+AMZN,Consumer Discretionary,dei,ext,1.0,,33.195,12.925,0.0,0.0,,,,,0.0,,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+AMZN,Consumer Discretionary,environment,ext,0.5,,58.46000000000001,49.315,0.0,0.0,,,,,0.0,,True,False,na,kept,kept,na,kept,kept,False,no_pre_do
+AVGO,Technology,dei,ext,,,4.265,2.67,0.0,0.0,0.0,,,,,,False,False,na,cut,kept,na,cut,kept,False,no_pre_do
+AVGO,Technology,environment,ext,,,6.285,2.68,0.0,0.0,0.0,,,,,,False,False,na,cut,kept,na,cut,kept,False,no_pre_do
+AXP,Financials,dei,ext,1.5,,40.03,3.985,0.0,0.0,0.0,,0.3,0.4,0.5,1.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+AXP,Financials,environment,ext,0.0,,6.705,6.145,0.0,0.0,0.0,,0.3,0.4,0.5,0.5,True,True,na,kept,kept,na,kept,kept,False,no_pre_do
+BAC,Financials,dei,ext,0.0,,56.275,3.465,0.0,0.0,,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+BAC,Financials,environment,ext,0.0,,56.675,14.365,0.0,0.5,,,,,0.0,0.0,True,False,na,cut,rise,na,cut,rise,False,no_pre_do
+BLK,Financials,dei,ext,2.0,,37.05,4.275,1.0,0.0,0.05835,,0.0,0.0,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+BLK,Financials,environment,ext,1.0,,21.15,10.745000000000001,0.5,1.0,0.05,,0.0,0.0,0.0,0.0,True,True,na,cut,rise,na,cut,rise,True,cut_say_only
+BMY,Healthcare,dei,ext,2.0,,32.900000000000006,5.01,0.0,0.5,0.0,,0.0,0.0,0.0,0.0,True,False,na,cut,rise,na,cut,rise,False,no_pre_do
+BMY,Healthcare,environment,ext,1.0,,18.49,20.85,0.0,1.0,0.0,,0.0,0.0,0.0,0.0,True,False,na,kept,rise,na,kept,rise,False,no_pre_do
+BRK.B,Financials,dei,ext,0.0,,7.03,4.98,,0.0,,,,,,,True,False,na,cut,na,na,cut,na,False,no_pre_do
+BRK.B,Financials,environment,ext,0.0,,2.525,0.0,,0.0,,,,,,,True,False,na,cut,na,na,cut,na,False,no_pre_do
+C,Financials,dei,ext,0.0,,25.73,8.865,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+C,Financials,environment,ext,0.0,,25.34,24.314999999999998,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,kept,kept,na,kept,kept,False,no_pre_do
+COP,Energy,dei,ext,0.0,,17.625,6.275,0.5,0.5,0.0143,,0.5,0.5,1.0,1.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+COP,Energy,environment,ext,1.0,,54.57,20.11,0.5,1.0,0.05715,,0.5,0.5,0.5,0.0,True,True,na,cut,rise,na,cut,rise,True,cut_say_only
+CRM,Technology,dei,ext,2.0,,5.365,0.8400000000000001,0.0,0.0,0.0,,0.0,0.5,0.0,0.5,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+CRM,Technology,environment,ext,1.0,,11.735,3.365,0.0,0.0,0.0,,0.0,0.5,0.0,0.5,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+CVX,Energy,dei,ext,3.0,,12.68,10.15,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,kept,kept,na,kept,kept,False,no_pre_do
+CVX,Energy,environment,ext,3.0,,69.57499999999999,42.364999999999995,1.0,1.0,0.04835,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+EOG,Energy,dei,ext,,,9.81,3.29,0.0,0.0,0.0,,,,,,False,True,na,cut,kept,na,cut,kept,False,no_pre_do
+EOG,Energy,environment,ext,,,37.644999999999996,36.81999999999999,1.0,0.0,0.037500000000000006,,,,,,False,True,na,kept,cut,na,kept,cut,True,cut_do_only
+F,Consumer Discretionary,dei,ext,0.0,,6.904999999999999,5.165,0.0,0.0,0.0,,0.0,,0.0,,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+F,Consumer Discretionary,environment,ext,2.0,,6.694999999999999,9.309999999999999,0.0,0.0,0.0,,0.0,,0.0,,True,True,na,rise,kept,na,rise,kept,False,no_pre_do
+GOOGL,Technology,dei,ext,1.0,,17.96,7.300000000000001,0.0,0.0,,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+GOOGL,Technology,environment,ext,0.0,,10.41,4.755,0.0,0.0,,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+GS,Financials,dei,ext,2.5,,21.0,5.9350000000000005,1.0,0.0,0.0909,,0.2,0.4,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+GS,Financials,environment,ext,0.0,,16.98,10.11,0.0,0.0,0.0,,0.2,0.4,0.5,1.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+HAL,Energy,dei,ext,2.0,,7.970000000000001,2.505,0.0,0.5,0.0,,0.0,0.1,0.0,0.0,True,True,na,cut,rise,na,cut,rise,False,no_pre_do
+HAL,Energy,environment,ext,1.0,,14.424999999999999,29.51,0.0,1.0,0.0,,0.0,0.1,0.0,0.0,True,True,na,rise,rise,na,rise,rise,False,no_pre_do
+HD,Consumer Discretionary,dei,ext,2.0,,28.669999999999998,2.54,0.0,0.0,0.0,,,,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+HD,Consumer Discretionary,environment,ext,0.0,,7.585,18.2,0.0,0.0,0.0,,,,0.0,0.0,True,False,na,rise,kept,na,rise,kept,False,no_pre_do
+IBM,Technology,dei,ext,1.0,,15.48,6.605,0.5,0.5,0.1,,0.0,0.125,0.0,0.5,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+IBM,Technology,environment,ext,0.0,,17.195,3.865,0.0,0.0,0.0,,0.0,0.125,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+INTC,Technology,dei,ext,1.0,,27.169999999999998,1.5,1.0,0.0,0.04465,,0.125,0.0,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+INTC,Technology,environment,ext,2.0,,19.27,4.48,1.0,0.0,0.04465,,0.125,0.0,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+JNJ,Healthcare,dei,ext,2.0,,22.284999999999997,2.835,1.0,0.0,0.02565,,0.0,0.0,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+JNJ,Healthcare,environment,ext,1.0,,8.705,9.445,0.5,1.0,0.01565,,0.0,0.0,0.0,0.0,True,True,na,kept,rise,na,kept,rise,True,kept_both
+JPM,Financials,dei,ext,2.0,,41.025,7.2299999999999995,1.0,0.5,0.12945,,0.1547619047619047,0.1428571428571428,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+JPM,Financials,environment,ext,0.0,,20.625,12.205,1.0,0.5,0.049100000000000005,,0.1547619047619047,0.1428571428571428,1.0,1.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+LLY,Healthcare,dei,ext,,,31.005000000000003,10.74,0.0,0.0,0.0,,,0.0,,0.0,False,True,na,cut,kept,na,cut,kept,False,no_pre_do
+LLY,Healthcare,environment,ext,,,12.190000000000001,12.84,0.0,0.0,0.0,,,0.0,,0.0,False,True,na,kept,kept,na,kept,kept,False,no_pre_do
+LOW,Consumer Discretionary,dei,ext,0.0,,22.71,5.265,0.0,0.0,0.0,,,0.0,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+LOW,Consumer Discretionary,environment,ext,0.0,,22.21,28.174999999999997,0.0,0.0,0.0,,,0.0,0.0,0.0,True,False,na,rise,kept,na,rise,kept,False,no_pre_do
+MCD,Consumer Discretionary,dei,ext,3.0,,38.095,11.754999999999999,0.5,0.0,0.05625,,0.0,0.0,0.0,0.0,True,False,na,cut,cut,na,cut,cut,True,cut_both
+MCD,Consumer Discretionary,environment,ext,0.0,,20.57,11.745000000000001,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+MDT,Healthcare,dei,ext,0.0,,10.379999999999999,6.15,0.0,0.0,0.0,,0.25,0.5,0.5,1.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+MDT,Healthcare,environment,ext,0.0,,9.485,12.795,0.0,0.0,0.0,,0.25,0.5,0.0,0.0,True,True,na,rise,kept,na,rise,kept,False,no_pre_do
+META,Technology,dei,ext,1.0,,32.230000000000004,2.525,0.0,0.0,0.0,,0.5,0.16666666666666666,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+META,Technology,environment,ext,1.0,,19.27,1.775,0.0,0.0,0.0,,0.5,0.16666666666666666,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+MPC,Energy,dei,ext,2.5,,12.53,3.865,1.0,0.0,0.05835,,0.0,0.0,0.0,0.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+MPC,Energy,environment,ext,2.0,,18.965,35.79,1.0,0.0,0.13335,,0.0,0.0,0.0,0.0,True,True,na,rise,cut,na,rise,cut,True,cut_do_only
+MRK,Healthcare,dei,ext,2.0,,17.16,6.995,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+MRK,Healthcare,environment,ext,0.5,,10.600000000000001,18.54,0.0,1.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,rise,rise,na,rise,rise,False,no_pre_do
+MS,Financials,dei,ext,3.0,,20.2,2.575,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+MS,Financials,environment,ext,2.0,,12.655,15.774999999999999,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,kept,kept,na,kept,kept,False,no_pre_do
+MSFT,Technology,dei,ext,2.0,,33.54,8.79,1.0,1.0,0.030950000000000002,,0.0833333333333333,0.16666666666666666,0.0,0.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+MSFT,Technology,environment,ext,1.0,,25.6,5.86,1.0,1.0,0.02765,,0.0833333333333333,0.16666666666666666,0.0,0.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+NKE,Consumer Discretionary,dei,ext,3.0,,16.415,1.835,1.0,0.0,0.0,,0.0,,0.0,,True,False,na,cut,cut,na,cut,cut,True,cut_both
+NKE,Consumer Discretionary,environment,ext,2.0,,11.445,6.75,1.0,0.5,0.0,,0.0,,0.0,,True,False,na,cut,cut,na,cut,cut,True,cut_both
+NVDA,Technology,dei,ext,0.0,,19.48,11.02,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+NVDA,Technology,environment,ext,0.0,,7.365,14.09,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,rise,kept,na,rise,kept,False,no_pre_do
+ORCL,Technology,dei,ext,2.0,,10.84,3.2199999999999998,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+ORCL,Technology,environment,ext,0.5,,1.25,2.875,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,rise,kept,na,rise,kept,False,no_pre_do
+OXY,Energy,dei,ext,0.0,,10.815,7.359999999999999,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+OXY,Energy,environment,ext,2.5,,58.595,25.355,1.0,1.0,0.29705,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+PFE,Healthcare,dei,ext,1.0,,21.645000000000003,2.88,0.0,0.0,0.0,,0.0,0.29166666666666663,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+PFE,Healthcare,environment,ext,1.0,,22.66,3.92,0.0,0.5,0.0,,0.0,0.29166666666666663,0.0,1.0,True,True,na,cut,rise,na,cut,rise,False,no_pre_do
+PSX,Energy,dei,ext,0.0,,17.46,5.68,0.0,0.0,0.0,,0.0,,0.0,,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+PSX,Energy,environment,ext,1.0,,47.46,28.03,1.0,1.0,0.0875,,0.0,,0.0,,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+SBUX,Consumer Discretionary,dei,ext,1.0,,23.42,8.200000000000001,0.5,1.0,0.05,,0.5,0.41666666666666663,0.0,0.0,True,True,na,cut,rise,na,cut,rise,True,cut_say_only
+SBUX,Consumer Discretionary,environment,ext,0.0,,15.280000000000001,9.4,1.0,1.0,0.125,,0.5,0.41666666666666663,1.0,1.0,True,True,na,cut,kept,na,cut,kept,True,cut_say_only
+SCHW,Financials,dei,ext,0.0,,8.780000000000001,2.36,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+SCHW,Financials,environment,ext,0.0,,7.625,0.895,0.0,0.0,0.0,,,,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+SLB,Energy,dei,ext,0.5,,19.72,9.58,0.5,1.0,0.02145,,0.41666666666666663,0.1,0.5,0.0,True,True,na,cut,rise,na,cut,rise,True,cut_say_only
+SLB,Energy,environment,ext,2.0,,20.34,27.18,1.0,1.0,0.07145,,0.41666666666666663,0.1,0.0,0.0,True,True,na,rise,kept,na,rise,kept,True,kept_both
+TGT,Consumer Discretionary,dei,ext,0.5,,17.62,1.14,0.5,0.0,0.0275,,0.16666666666666666,0.16666666666666666,0.5,0.5,True,True,na,cut,cut,na,cut,cut,True,cut_both
+TGT,Consumer Discretionary,environment,ext,0.0,,13.275,9.89,0.0,0.0,0.0,,0.16666666666666666,0.16666666666666666,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+TJX,Consumer Discretionary,dei,ext,0.0,,12.004999999999999,8.705,0.0,0.0,0.0,,0.125,0.25,0.5,0.5,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+TJX,Consumer Discretionary,environment,ext,1.0,,10.434999999999999,10.69,0.0,0.0,0.0,,0.125,0.25,0.0,0.0,True,True,na,kept,kept,na,kept,kept,False,no_pre_do
+TMO,Healthcare,dei,ext,0.0,,21.05,1.08,0.0,0.5,0.0,,0.5,0.3333333333333333,0.5,1.0,True,True,na,cut,rise,na,cut,rise,False,no_pre_do
+TMO,Healthcare,environment,ext,1.0,,18.53,10.565000000000001,0.0,0.5,0.0,,0.5,0.3333333333333333,0.0,0.0,True,True,na,cut,rise,na,cut,rise,False,no_pre_do
+TSLA,Consumer Discretionary,dei,ext,0.0,,3.815,1.53,0.0,0.0,,,0.5,0.0,0.0,0.0,True,False,na,cut,kept,na,cut,kept,False,no_pre_do
+TSLA,Consumer Discretionary,environment,ext,3.0,,1.73,4.14,0.0,0.0,,,0.5,0.0,0.0,0.0,True,False,na,rise,kept,na,rise,kept,False,no_pre_do
+UNH,Healthcare,dei,ext,0.5,,20.770000000000003,5.9,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+UNH,Healthcare,environment,ext,0.0,,11.735,6.550000000000001,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+VLO,Energy,dei,ext,0.0,,13.41,4.28,1.0,0.0,0.035,,0.1833333333333333,0.1666666666666666,1.0,1.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+VLO,Energy,environment,ext,2.0,,44.105,60.095,1.0,1.0,0.035,,0.1833333333333333,0.1666666666666666,0.0,0.0,True,True,na,rise,kept,na,rise,kept,True,kept_both
+WFC,Financials,dei,ext,0.0,,54.065,6.495,1.0,0.0,0.1027,,0.6190476190476191,0.5714285714285714,1.0,1.0,True,True,na,cut,cut,na,cut,cut,True,cut_both
+WFC,Financials,environment,ext,1.0,,9.615,2.875,0.5,1.0,0.0625,,0.6190476190476191,0.5714285714285714,0.0,0.0,True,True,na,cut,rise,na,cut,rise,True,cut_say_only
+XOM,Energy,dei,ext,0.0,,17.705,6.8,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,True,True,na,cut,kept,na,cut,kept,False,no_pre_do
+XOM,Energy,environment,ext,1.0,,67.395,55.405,1.0,1.0,0.23335,,0.0,0.0,0.0,0.0,True,True,na,kept,kept,na,kept,kept,True,kept_both
