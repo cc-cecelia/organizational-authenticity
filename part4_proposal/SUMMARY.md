@@ -1,77 +1,101 @@
 # After the backlash: did companies go quiet, or actually change course?
 
-## The question
-From mid-2023, US companies faced strong pressure against diversity (DEI) and
-environmental (ESG) commitments. The Supreme Court's affirmative-action ruling
-(June 2023), state anti-ESG laws and activist campaigns all pushed the same
-way. A popular view is that companies simply **stopped talking** about these
-commitments while quietly keeping them ("greenhushing"). We tested that view
-on 50 large US companies by comparing what they **say** (their websites and
-the narrative in their annual proxy statements) with what they **pay
-executives for** (the criteria in bonus and long-term incentive plans).
+## In one paragraph
+After the 2023 backlash against DEI, large US companies first went quiet
+about DEI in their **proxy statements**, the annual documents explaining
+governance and executive pay. They did **not** go quiet on their **websites**,
+which still emphasized DEI as much as ever in mid-2024. Executive pay seemed
+untouched at first, but that was a timing illusion: once pay plans designed
+after the backlash became public (in 2025-2026), explicit DEI goals largely
+disappeared from pay too. Most companies replaced them with broader "people"
+or "culture" goals. Whether those new goals still measure the same things is
+something the current disclosures cannot tell us.
 
-## What we found
-**1. At first it looked like quiet retention.** In the proxy statements
-published in 2023 and 2024, the number of companies tying executive pay to
-DEI goals jumped from 16 to 25, even as DEI language in those same documents
-stopped rising and then fell. Firm by firm, among the 17 companies that had
-both DEI talk and DEI pay criteria before the backlash, 5 cut only the talk
-and none cut only the pay.
+## How we got there
 
-**2. That was mostly a timing effect.** There is a built-in lag. A proxy
-published in, say, spring 2024 reports pay plans that were designed in early
-2023, before the June 2023 ruling. To test this, we collected the 2025 and
-2026 proxy statements, the first to report plans designed after the backlash.
-The picture changes sharply:
-- Companies with DEI criteria in executive pay fell from 23 (2024) to 9 (2025)
-  and 3 (2026).
-- DEI language in proxies fell to about a quarter of its 2022 level.
-- Of the 17 companies that had both before, 11 cut both. Only one, AbbVie,
-  kept both.
+**1. The hypothesis: "quiet retention".** A popular view holds that companies
+stopped talking about DEI but quietly kept their commitments ("greenhushing").
+We tested it on 50 large US companies by comparing what they **say** (websites
+and proxy statements) with what they **pay executives for**.
 
-**3. DEI did not just disappear from pay; it was usually renamed.** Of the 23
-companies paying for DEI in 2024, 13 removed the explicit DEI goal but kept or
-added a broader "people", "culture" or "talent" goal. Examples:
-- American Express kept "talent retention" and "culture" and dropped
-  "diversity representation".
-- Halliburton replaced four diversity targets with "workforce localization".
-- Alphabet's bonus described its social goal as "progress toward our DEI
-  goals" in 2023 and as building "products for a global audience" in 2024.
+**2. The first result seemed to confirm it.** In proxies published in 2023 and
+2024, the number of companies tying executive pay to DEI jumped from 16 to 25,
+even as DEI language in those same proxies stalled and then fell. Among the 17
+companies with both DEI talk and DEI pay goals before the backlash, 5 cut only
+the talk and none cut only the pay.
 
-Five companies dropped DEI with no replacement, and five kept it (AbbVie,
-Microsoft, Starbucks, SLB and Thermo Fisher).
+**3. Then we found a confound: the pay calendar.** A proxy published in spring
+2024 describes pay plans designed in early 2023, before the June 2023
+affirmative-action ruling. The 2023-2024 proxies were reporting decisions made
+before the backlash.
 
-**4. Environment held up better than DEI, especially in Energy.** Talk about
-environmental goals fell after 2023, but pay-linked environmental criteria
-declined only modestly (from 26 to 15 company-years). Energy companies such as
-ExxonMobil, Valero and SLB kept paying for environmental performance while
-saying less about it. That is closer to genuine quiet retention.
+**4. The out-of-sample test.** We collected the 2025 and 2026 proxies, the
+first to report plans designed after the backlash, and applied exactly the
+same method.
 
-## The bottom line
-Companies did not keep doing DEI while merely saying less. They **said less
-first and changed pay a year or two later**, usually by recasting DEI goals as
-generic people goals. For environment, especially in Energy, the commitment in
-pay has proved stickier than the rhetoric.
+| Explicit DEI goals in executive pay | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Number of companies | 16 | 25 | 23 | 9 | 3 |
+
+Of the 17 companies that had both before, 11 cut both DEI talk and explicit
+DEI pay goals. Only AbbVie kept both.
+
+**5. The revised conclusion.** Strong quiet retention, keeping the same DEI
+goals while saying less, does not hold up. What the data show is an order of
+retreat across channels:
+
+| Channel | What happened |
+|---|---|
+| Proxy statements | Retreated first: DEI language fell from 2024 and is now about a quarter of its 2022 level |
+| Company websites | Had not retreated by July 2024: 40% of About/values pages still emphasized DEI, the same as in 2022 (22% in 2016) |
+| Executive pay | Followed one to two years later, as explicit DEI goals were taken out |
+
+## The open question: renamed, or removed?
+Of the 23 companies paying for DEI in 2024:
+- **13 replaced the DEI goal with a generic people, culture or talent goal.**
+  Examples:
+  - American Express dropped "diversity representation" but kept "talent
+    retention" and "culture".
+  - Halliburton replaced four diversity targets with "workforce
+    localization".
+  - Alphabet's bonus described its social goal as "progress toward our DEI
+    goals" in 2023 and as building "products for a global audience" in 2024.
+- **5 dropped DEI with nothing in its place:** Apple, ConocoPhillips,
+  Salesforce, Medtronic, Pfizer.
+- **5 kept an explicit DEI goal:** AbbVie, Microsoft, Starbucks, SLB, Thermo
+  Fisher.
+
+For the 13, the **label retreated, but the substance is unknown**. The new
+goals might be a genuine removal of the DEI objective, or the same targets
+under a safer name, which would itself be a form of quiet retention. Today's
+disclosures cannot tell the two apart. The question would be settled by the
+**metrics behind the new goals**, if later proxies disclose them: for example,
+whether a "talent" goal still includes representation or promotion targets by
+group, or a "culture" score still includes an inclusion index.
+
+## Environment is different
+Talk about environmental goals also fell after 2023, but pay-linked
+environmental goals declined only modestly (from 26 to 15 company-years).
+Energy companies such as ExxonMobil, Valero and SLB kept paying for
+environmental performance while saying less about it. That is the closest
+thing to genuine quiet retention in this study.
 
 ## How far to trust it
-- **Small sample.** These are 50 companies, and fewer than 20 had both talk
-  and pay on each theme before 2023. Treat firm-level counts as illustrations,
-  not statistics.
-- **Short window.** Only two years of post-backlash pay plans exist so far;
+- **Small sample:** 50 companies, and fewer than 20 had both talk and pay on
+  each theme before 2023. The firm counts are illustrations, not statistics.
+- **Short window:** only two years of post-backlash pay plans exist so far;
   2026 is missing Microsoft and Tesla, which had not yet filed.
-- **Website comparisons stop in 2024**, because the website snapshots were
-  not collected for later years. After 2024, "say" means the proxy narrative
-  only.
-- **Labels are judgments.** Whether "inclusive culture" counts as DEI or as a
-  general people goal is a coding decision. The underlying criteria are listed
-  firm by firm, so readers can judge each case.
+- **Websites are observed once a year,** on one page per company, and only up
+  to July 2024. A website retreat after that date would not be seen.
+- **Classifying goals involves judgment.** Each case is listed so readers can
+  check it.
 
 ## What a reader could do with this
-- **Investors and stewardship teams:** do not read silence as retention, or
-  renaming as removal. Check the pay plan's actual criteria and how they are
-  measured.
-- **Boards:** if a commitment survives under a new name, say how it is
-  measured. Otherwise investors will reasonably assume it was dropped.
-- **Researchers and journalists:** compare like with like in time. Proxy
-  statements lag decisions by a year, so judging policy changes from the
-  latest proxy alone will mislead.
+- **Investors and stewardship teams:** ask companies that renamed DEI goals
+  what the new goals measure, and how much pay depends on them. That single
+  question separates removal from relabeling.
+- **Boards:** if a commitment survives under a new name, disclose its metric.
+  Otherwise investors will reasonably assume it was dropped.
+- **Researchers and journalists:** judge policy changes by the right channel
+  and the right year. Websites, proxy language and pay move at different
+  speeds, and proxies lag decisions by a year.
