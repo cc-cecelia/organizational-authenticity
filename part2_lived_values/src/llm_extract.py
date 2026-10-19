@@ -288,6 +288,8 @@ def main(argv=None) -> int:
     client = None
     if not args.dry_run:
         import anthropic
+        from dotenv import load_dotenv
+        load_dotenv(config.REPO_DIR / ".env")   # gitignored; ANTHROPIC_API_KEY=...
         if not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
             print("No ANTHROPIC_API_KEY set. Export a key, or use --dry-run.", file=sys.stderr)
             return 2
