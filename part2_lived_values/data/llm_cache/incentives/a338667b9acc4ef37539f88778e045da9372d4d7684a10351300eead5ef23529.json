@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "LOW",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2025,
+  "accession": "0001193125-25-083589",
+  "task": "incentives",
+  "section_words": 8169,
+  "section_method": "heading",
+  "cache_key": "a338667b9acc4ef37539f88778e045da9372d4d7684a10351300eead5ef23529",
+  "est_input_tokens": 19022
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 21042,
+  "output_tokens": 854,
+  "request_id": "req_011CgCJiFepo9hARz1asummG"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales | Rewards NEOs on effective merchandising, driving market share gains | Company sales | 40%"
+   },
+   {
+    "metric": "Operating Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Income | Rewards NEOs for profitability of Company operations | Company operating income | 40%"
+   },
+   {
+    "metric": "Inventory Turnover",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Inventory Turnover | Rewards NEOs for focusing on improving inventory management | Cost of goods sold / average inventory | 10%"
+   },
+   {
+    "metric": "Pro Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pro Sales Growth | Rewards NEOs for focusing on growing Pro market share | Percentage increase in Pro customer sales over the prior fiscal year | 10%"
+   },
+   {
+    "metric": "ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the PSUs awarded in 2024 will be earned based on the Company's ROIC for the three-year performance period of fiscal years 2024 through 2026"
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the relative TSR modifier also helps align executive outcomes with the creation of long-term shareholder value"
+   }
+  ]
+ }
+}

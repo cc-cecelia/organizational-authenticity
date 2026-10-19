@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2025,
+  "accession": "0000797468-25-000054",
+  "task": "incentives",
+  "section_words": 11492,
+  "section_method": "heading",
+  "cache_key": "feac34622b386ad0f690235012f33fa2a416624df8e6ff4c58c385844c62c720",
+  "est_input_tokens": 26786
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 29005,
+  "output_tokens": 952,
+  "request_id": "req_011CgCJpNCsymPkw5JTLURth"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Spend per Barrel",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial 0% - 70% | Total Spend per Barrel (1) | $30.15 | $29.30 | 55%"
+   },
+   {
+    "metric": "CROCE",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "0% - 70% | CROCE | 21% | 20.63% | 30%"
+   },
+   {
+    "metric": "Sustainability",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The sustainability metric remains weighted at 30% to continue advancing the company's net-zero and sustainability strategy"
+   },
+   {
+    "metric": "Emissions Reduction Projects (Scope 1 and 2)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Emissions Reduction Projects (Scope 1 and 2) | Reduce operating emissions"
+   },
+   {
+    "metric": "Low Carbon Ventures (Scope 3)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Low Carbon Ventures (Scope 3) | Advance carbon management platform"
+   },
+   {
+    "metric": "Total Shareholder Return (TSR) PSU Award",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "which is comprised of a performance-based TSR award (30%) and a performance-based CROCE award (30%)"
+   },
+   {
+    "metric": "CROCE PSU Award",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a performance-based CROCE award (30%)"
+   }
+  ]
+ }
+}

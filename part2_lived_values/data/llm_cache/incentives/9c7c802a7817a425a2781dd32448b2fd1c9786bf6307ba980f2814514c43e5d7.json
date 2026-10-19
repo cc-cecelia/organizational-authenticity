@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2025,
+  "accession": "0001213900-25-006516",
+  "task": "incentives",
+  "section_words": 15872,
+  "section_method": "heading",
+  "cache_key": "9c7c802a7817a425a2781dd32448b2fd1c9786bf6307ba980f2814514c43e5d7",
+  "est_input_tokens": 35478
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 36547,
+  "output_tokens": 1736,
+  "request_id": "req_011CgCJhwFnmNAVaWPBzRrYz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted net revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "75% of the overall Annual Incentive Bonus Plan payout was based on adjusted net revenue and adjusted operating income goals"
+   },
+   {
+    "metric": "Adjusted operating income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "75% of the overall Annual Incentive Bonus Plan payout was based on adjusted net revenue and adjusted operating income goals"
+   },
+   {
+    "metric": "Individual performance factor (strategic, operational and team goals)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the remaining 25% of the overall Annual Incentive Bonus Plan payout was based on individual performance goals"
+   },
+   {
+    "metric": "Sustain Belonging Index \u2013 US Non-Store Score",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sustain Belonging Index\u2013 US Non-Store Score"
+   },
+   {
+    "metric": "Sustain Partner Engagement \u2013 US Non-Store Score",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sustain Partner Engagement \u2013 US Non-Store Score"
+   },
+   {
+    "metric": "Increase Global Store Count",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Increase Global Store Count"
+   },
+   {
+    "metric": "Adjusted EPS (three-year, against annual targets)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "60% in the form of PRSUs, where the number of shares earned is based on three-year adjusted EPS performance against pre-established annual targets"
+   },
+   {
+    "metric": "Relative TSR modifier (vs S&P 500)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "subject to a downward or upward adjustment of up to 25% based on relative TSR performance"
+   },
+   {
+    "metric": "Talent modifier (U.S. people of color representation at manager level and above)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an additional downward or upward adjustment of up to 10% based on achievement of three-year talent goals"
+   },
+   {
+    "metric": "Sustainability modifier (greenhouse gas emissions reduction)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an additional downward or upward adjustment of up to 10% based on achievement of three-year sustainability goals"
+   },
+   {
+    "metric": "Reducing greenhouse gas emissions (sustainability goal)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 10,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "focuses on reducing Starbucks greenhouse gas emissions to 76% of our fiscal year 2019 baseline value"
+   },
+   {
+    "metric": "Representation growth of U.S. people of color partners at manager level and above (talent goal)",
+    "plan": "long_term_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 10,
+    "weight_of": "parent_component",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "improvement in U.S. people of color representation at the manager level and above by 1.5 percentage points or more by fiscal year 2026"
+   }
+  ]
+ }
+}

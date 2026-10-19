@@ -1,0 +1,127 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2026,
+  "accession": "0000354950-26-000090",
+  "task": "incentives",
+  "section_words": 9283,
+  "section_method": "heading",
+  "cache_key": "e08f6830fb2a86bdff306afeb0f021c3cc97acc2bc4f86d69d6ece2381a26bb6",
+  "est_input_tokens": 20926
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22767,
+  "output_tokens": 1123,
+  "request_id": "req_011CgCJfUSRfwf116EYCgGxe"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Sales | 50% | $147.56 | 90% | 50% | $163.95 | $180.35"
+   },
+   {
+    "metric": "Operating Profit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Profit | 30% | $19.22 | 90% | 50% | $21.35 | $23.49"
+   },
+   {
+    "metric": "Inventory Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Inventory Turns | 10% | 4.06 | 90% | 50% | 4.51 | 4.97"
+   },
+   {
+    "metric": "Pro Strategic Goal",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pro Strategic Goal | 10% | n/a | n/a | n/a | Increase in managed account sales from Fiscal 2024"
+   },
+   {
+    "metric": "Three-Year Average ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance share awards are based on two equally weighted measures: three-year average ROIC and three-year average operating profit."
+   },
+   {
+    "metric": "Three-Year Average Operating Profit",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The performance share awards are based on two equally weighted measures: three-year average ROIC and three-year average operating profit."
+   },
+   {
+    "metric": "Operating Profit (performance-based restricted stock condition)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Restricted stock is forfeited if Fiscal 2025 operating profit is not at least 90% of the MIP target."
+   },
+   {
+    "metric": "Stock Price Performance (stock options)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Based on stock price performance \u2013 annual grant with an exercise price of $362.13 made on March 26, 2025."
+   }
+  ]
+ }
+}

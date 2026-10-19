@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "3ca3a8fff8f35d1cc7db9659371d639bf741f096f5581b8cbac33e5dedfcb92d",
+  "est_input_tokens": 23185
+ },
+ "usage": {
+  "input_tokens": 25017,
+  "output_tokens": 242
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY24-26 cycle"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY24-26 cycle"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Our NEOs were entitled under their employment or offer letter agreements to participate in the SIP, MIP, and LRPIP"
+   }
+  ],
+  "equal_split": []
+ }
+}

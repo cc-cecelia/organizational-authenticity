@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "OXY",
+  "sector": "Energy",
+  "filing_year": 2026,
+  "accession": "0001628280-26-019816",
+  "task": "incentives",
+  "section_words": 6757,
+  "section_method": "heading",
+  "cache_key": "2a32303c0064090007de70854262519cd5e0298c2e02db5b374f85ed42757cd2",
+  "est_input_tokens": 15813
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17821,
+  "output_tokens": 3504,
+  "request_id": "req_011CgCJpnSu1VSpUUagSXXG4"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Key Corporate Objectives (Financial)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 70,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee approved metrics related to the company's total spend per barrel and free cash flow before working capital"
+   },
+   {
+    "metric": "Total Spend per Barrel",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Spend per Barrel (2) | $30.74 | $29.00 | $27.26 | $28.21 | 50%"
+   },
+   {
+    "metric": "Free Cash Flow before Working Capital",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "replace CROCE with free cash flow before working capital as a performance metric to promote near-term capital discipline and shareholder value creation"
+   },
+   {
+    "metric": "Strategic / Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "metrics related to the company's total spend per barrel and free cash flow before working capital as well as strategy/innovation and sustainability goals"
+   },
+   {
+    "metric": "Technology / AI Applications",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Develop and deploy at least 10 AI applications that realize >$10 MM each of annual value impact to our business"
+   },
+   {
+    "metric": "Low Carbon Ventures",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Advance Carbon Management Platform \u25ba Achieve STRATOS commercial operation"
+   },
+   {
+    "metric": "Sustainability",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "maintain the sustainability metric for such award"
+   },
+   {
+    "metric": "Emissions Reduction Projects",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Deploy at least 5 emissions reduction projects or operational changes that reduce direct GHG or other air emissions"
+   },
+   {
+    "metric": "Three-year Relative and Absolute TSR (TSR Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The TSR award is denominated in PSUs, each of which is equivalent to one share of common stock."
+   },
+   {
+    "metric": "Three-year Absolute CROCE (CROCE Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The percentage of target PSUs that become payable at the end of the applicable three-year performance period depends on Occidental's absolute CROCE"
+   }
+  ]
+ }
+}

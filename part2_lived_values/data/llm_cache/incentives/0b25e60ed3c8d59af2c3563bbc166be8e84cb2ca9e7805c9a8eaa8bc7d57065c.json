@@ -1,0 +1,114 @@
+{
+ "meta": {
+  "ticker": "PFE",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0000078003-26-000033",
+  "task": "incentives",
+  "section_words": 13719,
+  "section_method": "heading",
+  "cache_key": "0b25e60ed3c8d59af2c3563bbc166be8e84cb2ca9e7805c9a8eaa8bc7d57065c",
+  "est_input_tokens": 31410
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 33604,
+  "output_tokens": 963,
+  "request_id": "req_011CgCJdR5Tvf7B6MdpudV2u"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Total Revenue (40%) | A leading indicator of performance and value creation"
+   },
+   {
+    "metric": "Adjusted Net Income",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Net Income* (40%) | A measure of income that provides focus on profitable growth"
+   },
+   {
+    "metric": "Cash Flow from Operations",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Cash Flow from Operations (20%) | A measure that provides focus on generating cash in the short term"
+   },
+   {
+    "metric": "Pipeline Achievement Modifier",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Pipeline Achievement Modifier of up to +/- 25 percentage points"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance Share Awards (PSAs)* (50% of value at grant)"
+   },
+   {
+    "metric": "Relative TSR modifier vs DRG Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Average Performance Factors percentage adjusted by modifier as follows: +/- differential between Pfizer's TSR % and DRG Index TSR %"
+   },
+   {
+    "metric": "Absolute TSR (5-Year TSRUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "5-Year Total Shareholder Return Units (TSRUs) Represents 50% of total annual grant value"
+   }
+  ]
+ }
+}

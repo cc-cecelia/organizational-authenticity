@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "ABT",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0001308179-26-000064",
+  "task": "incentives",
+  "section_words": 9680,
+  "section_method": "heading",
+  "cache_key": "44be2389f462941967dac7c232cba949ddef9400918497c71e458a4161545190",
+  "est_input_tokens": 21411
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 24755,
+  "output_tokens": 4431,
+  "request_id": "req_011CgCJdH8E2jSEqtxindVUo"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Sales (2) | $42.294B | 25% | $43.840B"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted Diluted EPS | $4.67 | 25% | $5.10 | $5.15 | $5.20"
+   },
+   {
+    "metric": "Adjusted ROA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Adjusted ROA | 14.3% | 10% | 13.5% | 13.6% | 13.8%"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Free Cash Flow | $6.4B | 10% | $6.2B | $6.5B | $6.8B"
+   },
+   {
+    "metric": "Structural Heart Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Structural Heart Growth | 10% | 11.5% | 13.6% | 15.5%"
+   },
+   {
+    "metric": "Meet key product submission and launch milestones",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Goal (10% weight) (3) : Meet key product submission and launch milestones."
+   },
+   {
+    "metric": "Meet talent and succession planning targets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Goal (10% weight): Meet talent and succession planning targets. | Achieved | 10.0%"
+   },
+   {
+    "metric": "Total Shareholder Return",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Compare Abbott's TSR performance against our peer group"
+   },
+   {
+    "metric": "Adjusted Return on Equity vesting target",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance restricted shares vest only if the 15% Adjusted Return on Equity (ROE) performance target is achieved."
+   },
+   {
+    "metric": "Sales and Market Share Growth Contribution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: \u2022 Sales and market share growth"
+   },
+   {
+    "metric": "Margin Contribution",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: \u2022 Margin"
+   },
+   {
+    "metric": "Strategic Metrics",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "LTI award guideline adjusted up or down based on individual officer's sustained 3-year contributions to: \u2022 Strategic metrics"
+   }
+  ]
+ }
+}

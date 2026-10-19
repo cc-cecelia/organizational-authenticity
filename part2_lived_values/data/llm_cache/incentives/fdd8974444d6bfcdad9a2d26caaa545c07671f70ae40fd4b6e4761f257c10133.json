@@ -1,0 +1,101 @@
+{
+ "meta": {
+  "ticker": "F",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2026,
+  "accession": "0001552781-26-000164",
+  "task": "incentives",
+  "section_words": 19910,
+  "section_method": "heading",
+  "cache_key": "fdd8974444d6bfcdad9a2d26caaa545c07671f70ae40fd4b6e4761f257c10133",
+  "est_input_tokens": 41226
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 49023,
+  "output_tokens": 2064,
+  "request_id": "req_011CgCJnP6tuzrg65YjZfoYA"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "EBIT Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2025, the Company's financial metric was EBIT Margin"
+   },
+   {
+    "metric": "Repairs/1,000 at zero and three months in service",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the quality metric consisted of Repairs/1,000 at zero and three months in service"
+   },
+   {
+    "metric": "Global electrified vehicle volume (excluding China)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The metrics also include global electrified vehicle volume (excluding China)"
+   },
+   {
+    "metric": "Integrated services revenue per vehicle sold",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the metrics measure the revenue from integrated services for each vehicle sold"
+   },
+   {
+    "metric": "Individual performance toward key performance indicators and objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "adjustments based on individual performance toward key performance indicators and objectives"
+   },
+   {
+    "metric": "Relative total shareholder return (rTSR) versus 2025 PSU TSR Peer Group",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee selected rTSR as the sole performance metric for the 2025 PSU Grants"
+   }
+  ]
+ }
+}

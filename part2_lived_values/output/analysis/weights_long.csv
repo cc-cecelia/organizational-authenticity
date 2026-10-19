@@ -211,11 +211,11 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 0,long_term_incentive,Time-vested restricted stock units (no performance metric),shareholders,,3,True,100.0,imputed_emphasis,AMZN,2022
 0,annual_incentive,Days Sales Outstanding,shareholders,,1,True,17.0,disclosed,AVGO,2016
 1,annual_incentive,Zero Audit Adjustments,integrity,,1,True,17.0,disclosed,AVGO,2016
-2,annual_incentive,Direct Expenses,shareholders,,2,True,17.0,disclosed,AVGO,2016
-3,annual_incentive,Revenue Growth,shareholders,,3,True,25.0,disclosed,AVGO,2016
-4,annual_incentive,Product Revenue,shareholders,,1,True,20.0,disclosed,AVGO,2016
-5,annual_incentive,Design Wins,innovation,,1,True,20.0,disclosed,AVGO,2016
-6,annual_incentive,Non-GAAP Operating Profit,shareholders,,3,True,50.0,disclosed,AVGO,2016
+2,annual_incentive,Product Revenue,shareholders,,1,True,20.0,disclosed,AVGO,2016
+3,annual_incentive,Design Wins,innovation,,1,True,20.0,disclosed,AVGO,2016
+4,annual_incentive,Direct Expenses,shareholders,,2,True,10.0,disclosed,AVGO,2016
+5,annual_incentive,Non-GAAP Operating Profit,shareholders,,2,True,50.0,disclosed,AVGO,2016
+6,annual_incentive,Revenue Growth,shareholders,,2,True,25.0,disclosed,AVGO,2016
 7,annual_incentive,Non-GAAP Gross Margin %,shareholders,,1,True,25.0,disclosed,AVGO,2016
 8,long_term_incentive,Share price performance (120% of grant-date closing price over 20 trading days),shareholders,,3,True,100.0,imputed_emphasis,AVGO,2016
 0,annual_incentive,Non-GAAP Revenue,shareholders,,3,True,0.0,disclosed,AVGO,2017
@@ -1383,7 +1383,13 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 1,long_term_incentive,"Relative TSR vs. S&P 100 (three-year performance period, January 2020 to December 2022)",shareholders,,2,True,50.0,imputed_emphasis,GOOGL,2020
 0,long_term_incentive,"Sundar PSU market-based goals (2019 PSU award, 2020-2021 and 2020-2022 performance periods)",shareholders,,2,True,100.0,imputed_emphasis,GOOGL,2021
 0,long_term_incentive,market-based performance goals,shareholders,,2,True,100.0,imputed_emphasis,GOOGL,2022
-0,annual_incentive,"Environmental, Social, and Governance Bonus",other,,2,True,100.0,imputed_emphasis,GOOGL,2024
+0,annual_incentive,"Environmental, Social, and Governance Bonus",other,,2,False,100.0,imputed_emphasis,GOOGL,2023
+1,annual_incentive,Environmental component (ESG Bonus),environment,0.0,1,True,50.0,imputed_emphasis,GOOGL,2023
+2,annual_incentive,Social component (ESG Bonus),dei,0.0,1,True,50.0,imputed_emphasis,GOOGL,2023
+3,long_term_incentive,Relative TSR vs. S&P 100 (PSUs),shareholders,,3,True,100.0,imputed_emphasis,GOOGL,2023
+0,annual_incentive,"Environmental, Social, and Governance Bonus",other,,2,False,100.0,imputed_emphasis,GOOGL,2024
+2,annual_incentive,Environmental component (ESG Bonus),environment,0.0,1,True,50.0,imputed_emphasis,GOOGL,2024
+3,annual_incentive,Social component (ESG Bonus),community,0.0,1,True,50.0,imputed_emphasis,GOOGL,2024
 1,long_term_incentive,TSR performance goals,shareholders,,2,True,100.0,imputed_emphasis,GOOGL,2024
 0,long_term_incentive,"firmwide ROE (annual, as calculated under the LTIP)",shareholders,,2,True,40.0,imputed_emphasis,GS,2016
 1,long_term_incentive,average change in BVPS,shareholders,,1,True,20.0,imputed_emphasis,GS,2016
@@ -2896,12 +2902,12 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 0,annual_incentive,Adjusted Revenue,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2022
 1,annual_incentive,Adjusted Digital Revenue,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2022
 2,annual_incentive,Adjusted EBIT,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2022
-3,long_term_incentive,People & Planet modifier,other,,3,False,50.0,imputed_emphasis,NKE,2022
-4,long_term_incentive,employee engagement and inclusion,employees,3.0,1,True,8.333,imputed_emphasis,NKE,2022
-5,long_term_incentive,leadership diversity,dei,3.0,1,True,8.333,imputed_emphasis,NKE,2022
-6,long_term_incentive,sustainability,environment,3.0,1,True,8.333,imputed_emphasis,NKE,2022
-7,long_term_incentive,Relative TSR,shareholders,,3,True,50.0,imputed_emphasis,NKE,2022
-3r,long_term_incentive,People & Planet modifier (residual),other,3.0,3,True,25.0,imputed_emphasis,NKE,2022
+3,long_term_incentive,Relative TSR,shareholders,,3,True,60.0,imputed_emphasis,NKE,2022
+4,long_term_incentive,People & Planet modifier,other,,2,False,40.0,imputed_emphasis,NKE,2022
+5,long_term_incentive,employee engagement and inclusion,employees,4.0,1,True,8.0,imputed_emphasis,NKE,2022
+6,long_term_incentive,leadership diversity,dei,4.0,1,True,8.0,imputed_emphasis,NKE,2022
+7,long_term_incentive,sustainability,environment,4.0,1,True,8.0,imputed_emphasis,NKE,2022
+4r,long_term_incentive,People & Planet modifier (residual),other,4.0,2,True,16.0,imputed_emphasis,NKE,2022
 0,annual_incentive,Adjusted Revenue,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2023
 1,annual_incentive,Adjusted Digital Revenue,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2023
 2,annual_incentive,Adjusted EBIT,shareholders,,2,True,33.333,derived_from_stated_split,NKE,2023
@@ -3654,7 +3660,7 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 5,long_term_incentive,"Divisional weightings (Marmaxx 68.5%, HomeGoods, TJX Europe, TJX Canada 10.5% each) for LRPIP",shareholders,4.0,2,True,50.0,imputed_emphasis,TJX,2016
 6,long_term_incentive,Performance-based stock awards vesting on cumulative 3-year adjusted pre-tax income (fiscal 2016-2018 LRPIP),shareholders,,2,True,33.333,imputed_emphasis,TJX,2016
 7,long_term_incentive,Fiscal 2016 corporate MIP performance (performance-based stock awards for CEO and CFO),shareholders,,1,True,16.667,imputed_emphasis,TJX,2016
-0,annual_incentive,Fiscal 2017 MIP (Corporate),other,,2,True,100.0,imputed_emphasis,TJX,2017
+0,annual_incentive,Adjusted pre-tax income (corporate MIP goal),shareholders,,2,True,100.0,imputed_emphasis,TJX,2017
 1,long_term_incentive,Corporate performance target under LRPIP,other,,2,True,100.0,imputed_emphasis,TJX,2017
 0,annual_incentive,Adjusted pre-tax income (MIP corporate goal),shareholders,,3,True,100.0,imputed_emphasis,TJX,2018
 1,long_term_incentive,"Adjusted pre-tax income (LRPIP fiscal 2016-2018 cycle, divisional weighted)",shareholders,,2,True,33.333,imputed_emphasis,TJX,2018
@@ -3695,6 +3701,7 @@ item_id,plan,metric,category,parent_id,emphasis,is_leaf,weight,weight_source,tic
 10,long_term_incentive,Incentive ROIC modifier,shareholders,,2,True,22.222,imputed_emphasis,TJX,2023
 11,long_term_incentive,LRPIP Incentive Pre-Tax Income (FY23-25),shareholders,,2,True,22.222,imputed_emphasis,TJX,2023
 12,long_term_incentive,LRPIP Incentive Pre-Tax Income (FY21-23 cycle),shareholders,,2,True,22.222,imputed_emphasis,TJX,2023
+2,annual_incentive,MIP Incentive Pre-Tax Income,shareholders,,2,True,100.0,imputed_emphasis,TJX,2024
 0,long_term_incentive,Incentive EPS growth,shareholders,,2,True,50.0,imputed_emphasis,TJX,2024
 1,long_term_incentive,Incentive ROIC,shareholders,,2,True,50.0,imputed_emphasis,TJX,2024
 0,annual_incentive,Organic Revenue Growth,shareholders,,3,True,40.0,disclosed,TMO,2016

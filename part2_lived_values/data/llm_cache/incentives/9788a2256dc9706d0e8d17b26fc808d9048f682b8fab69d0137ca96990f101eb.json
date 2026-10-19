@@ -1,0 +1,192 @@
+{
+ "meta": {
+  "ticker": "ABBV",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0001104659-26-033387",
+  "task": "incentives",
+  "section_words": 9196,
+  "section_method": "heading",
+  "cache_key": "9788a2256dc9706d0e8d17b26fc808d9048f682b8fab69d0137ca96990f101eb",
+  "est_input_tokens": 18705
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23537,
+  "output_tokens": 1735,
+  "request_id": "req_011CgCJefQxYdFQBdvT19J1V"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Platform Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Financial Goals: Platform Revenue, Income Before Taxes, Operating Margin, and Return on Assets (1) ... Financial goals are equally weighted."
+   },
+   {
+    "metric": "Non-GAAP Income Before Taxes",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Robert A. Michael | 20% | 60% | 10% | 10%"
+   },
+   {
+    "metric": "Adjusted Return on Assets",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "metric": "Non-GAAP Operating Margin",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Financial goals are equally weighted."
+   },
+   {
+    "metric": "R&D/Innovation",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Robert A. Michael | 20% | 60% | 10% | 10%"
+   },
+   {
+    "metric": "Business Development",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Strategic and Leadership Goals: R&D/Innovation, Business Development, ESG, Other"
+   },
+   {
+    "metric": "ESG",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The ESG goal was weighted 10% within the short-term incentive program for each NEO."
+   },
+   {
+    "metric": "Strategic and leadership goals",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Each NEO achieved or exceeded their 2025 strategic and leadership goals"
+   },
+   {
+    "metric": "Diversity and inclusion goal",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "all senior leaders, including the NEOs, continued to take a goal aligned to furthering AbbVie's commitment to embracing diversity and inclusion"
+   },
+   {
+    "metric": "Adjusted Diluted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Performance Shares | Adjusted Diluted EPS, 3 - Year Relative TSR Modifier | 3 Years"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR is measured over a 3 - year performance period and used as a modifier"
+   },
+   {
+    "metric": "Relative Return on Invested Capital",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "40% Performance - Vested Restricted Stock Units | Relative Return on Invested Capital | 3 Years"
+   },
+   {
+    "metric": "Stock Price Appreciation",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% Non - Qualified Stock Options | Stock Price Appreciation | 10 - year term"
+   }
+  ]
+ }
+}

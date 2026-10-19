@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2025,
+  "accession": "0001613103-25-000151",
+  "task": "incentives",
+  "section_words": 9110,
+  "section_method": "heading",
+  "cache_key": "5e9bdac84e458eeb534574caf39f295434cc5b9d87f6fcf2fae8d1579ccc0bf7",
+  "est_input_tokens": 20712
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22924,
+  "output_tokens": 3941,
+  "request_id": "req_011CgCJdiTj35NoavLLETjSz"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue Growth Over Prior Year (Organic)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Top line growth continues to be a key driver of shareholder value."
+   },
+   {
+    "metric": "Diluted EPS Growth (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Earnings both from operating efficiency and financial management is a key driver of returns to shareholders."
+   },
+   {
+    "metric": "Free Cash Flow (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free cash flow is a key driver of shareholder returns"
+   },
+   {
+    "metric": "Quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The quality goals can only reduce a payout."
+   },
+   {
+    "metric": "Findings/Inspections (FDA 483)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 30,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Findings/Inspections (FDA 483)"
+   },
+   {
+    "metric": "On-Time FCA Execution",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 30,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "On-Time FCA Execution"
+   },
+   {
+    "metric": "Complaint (Open) Timeliness",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 30,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Complaint (Open) Timeliness"
+   },
+   {
+    "metric": "CAPA Action Phase Timeliness",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 10,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "CAPA Action Phase Timeliness"
+   },
+   {
+    "metric": "Individual performance scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "individual performance based on an assessment of performance for each individual considering financial, strategic, and cultural objectives."
+   },
+   {
+    "metric": "3-Yr Average Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Organic Revenue Growth is the 3-year simple average"
+   },
+   {
+    "metric": "Relative Total Shareholder Return",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative TSR is measured against the S&P 500 Healthcare Equipment Index."
+   },
+   {
+    "metric": "Return on Invested Capital (ROIC) Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reduced by 30% if the ROIC target is not achieved."
+   }
+  ]
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2026,
+  "accession": "0000320187-26-000089",
+  "task": "incentives",
+  "section_words": 8745,
+  "section_method": "heading",
+  "cache_key": "e6807ce409fe609dc41dfb2d91680bbacdb426ae02dc5bf162c3fe4269377490",
+  "est_input_tokens": 20215
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22334,
+  "output_tokens": 1307,
+  "request_id": "req_011CgCJhUcuMdJnM1xQ2DMwG"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted Revenue",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Consistent with the prior year, the Compensation Committee maintained equally weighted financial metrics of Adjusted Revenue and Adjusted EBIT"
+   },
+   {
+    "metric": "Adjusted EBIT",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted EBIT (1) (Weighted 50%)"
+   },
+   {
+    "metric": "Management by Objectives (MBO): wage-related operating overhead spend",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Committee approved leader-specific goals (or MBOs) weighted at 20%. The two MBOs consisted of: Managing wage-related operating overhead spend"
+   },
+   {
+    "metric": "Management by Objectives (MBO): enterprise goals for employee engagement",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Enterprise goals for employee engagement remained generally consistent with the prior year."
+   },
+   {
+    "metric": "Adjusted Revenue",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the Compensation Committee selected Adjusted Revenue (50%) and Adjusted EPS (50%) as the financial metrics for the fiscal 2026 \u2013 2028 PSU awards"
+   },
+   {
+    "metric": "Adjusted EPS",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Adjusted Revenue (50%) and Adjusted EPS (50%) as the financial metrics for the fiscal 2026 \u2013 2028 PSU awards"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "with a Relative TSR modifier that aligns payouts with shareholder experience"
+   },
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "based on Relative TSR over a three-year performance period (subject to a payout cap of 100% if Absolute TSR was negative)"
+   },
+   {
+    "metric": "Adjusted Operating Margin Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "50% subject to achievement of Adjusted Operating Margin Growth targets"
+   }
+  ]
+ }
+}

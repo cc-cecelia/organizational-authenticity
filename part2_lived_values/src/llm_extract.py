@@ -29,6 +29,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import sys
 import threading
 import time
@@ -324,6 +325,32 @@ def apply_overrides(df: pd.DataFrame, task: str) -> pd.DataFrame:
     return df
 
 
+def apply_additions(met: pd.DataFrame, cov: pd.DataFrame) -> pd.DataFrame:
+    """Documented rows the extraction missed (data/extraction_additions.csv).
+    Each row's evidence must occur verbatim (whitespace-normalised) in that
+    firm-year's proxy text, otherwise the run stops."""
+    path = config.DATA_DIR / "extraction_additions.csv"
+    if not path.exists():
+        return met
+    add = pd.read_csv(path)
+    keep = cov.set_index(["ticker", "filing_year"])
+    norm = lambda x: re.sub(r"\s+", " ", str(x)).strip().lower()
+    rows = []
+    for a in add.to_dict("records"):
+        k = (a["ticker"], int(a["filing_year"]))
+        if k not in keep.index:
+            continue   # not in this run
+        text = norm((config.REPO_DIR / keep.loc[k, "text_path"]).read_text())
+        if norm(a["evidence"]) not in text:
+            raise RuntimeError(f"addition evidence not found verbatim: {k} {a['metric']}")
+        a = dict(a, sector=keep.loc[k, "sector"], accession=keep.loc[k, "accession"],
+                 filing_year=int(a["filing_year"]))
+        a.pop("reason", None)
+        rows.append(a)
+        print(f"  addition applied: {k[0]} {k[1]} {a['metric']} [{a['category']}]")
+    return pd.concat([met, pd.DataFrame(rows)], ignore_index=True) if rows else met
+
+
 def firm_year_aggregates(runs_df: pd.DataFrame, met: pd.DataFrame, prop: pd.DataFrame) -> pd.DataFrame:
     """One row per firm-year: incentive emphasis and proposal pressure by category."""
     keys = ["ticker", "sector", "filing_year"]
@@ -449,6 +476,7 @@ def main(argv=None) -> int:
         return 0
     met, prop = flatten(runs)
     met = apply_overrides(met, "incentives")
+    met = apply_additions(met, cov)
     prop = apply_overrides(prop, "proposals")
     met.to_csv(out / "incentive_metrics.csv", index=False)
     prop.to_csv(out / "shareholder_proposals.csv", index=False)

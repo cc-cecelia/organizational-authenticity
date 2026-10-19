@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "ticker": "EOG",
+  "sector": "Energy",
+  "filing_year": 2026,
+  "accession": "0001104659-26-036125",
+  "task": "incentives",
+  "section_words": 17421,
+  "section_method": "heading",
+  "cache_key": "7458d9a3a3d1b47018098bf217706351538be74f3a476526cbf30dc81e50dd56",
+  "est_input_tokens": 30925
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 40206,
+  "output_tokens": 1989,
+  "request_id": "req_011CgCJonLBFzcZxNZT6w32t"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Relative TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "a performance multiple of 0% to 200% will be applied to the performance units granted based on EOG's TSR"
+   },
+   {
+    "metric": "Absolute ROCE* modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "which will be adjusted by the absolute ROCE* modifier by a factor of minus 70% to plus 70% based on EOG's average ROCE* over the three-year performance period"
+   },
+   {
+    "metric": "Absolute TSR",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The overall performance award payout ... is capped at target (100%) if EOG's absolute TSR is negative over the three-year performance period"
+   },
+   {
+    "metric": "ROCE*",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "ROCE* is a heavily weighted performance metric under our short-term incentive plan (i.e., in the determination of annual bonuses)"
+   }
+  ]
+ }
+}

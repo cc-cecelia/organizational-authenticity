@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2026,
+  "accession": "0000109198-26-000015",
+  "task": "incentives",
+  "section_words": 10346,
+  "section_method": "heading",
+  "cache_key": "c31e4e375961efe4c7a2cff44f98fd29a4705ebd68ca0f9063e186951a42c0f9",
+  "est_input_tokens": 22753
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25512,
+  "output_tokens": 944,
+  "request_id": "req_011CgCJjRZuYQySBbcW6a74f"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Incentive EPS growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY26-28 cycle"
+   },
+   {
+    "metric": "Incentive ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the performance-based conditions are tied to achievement of Incentive EPS growth and Incentive ROIC targets for the FY26-28 cycle"
+   }
+  ]
+ }
+}

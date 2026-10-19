@@ -399,6 +399,21 @@ so a stale override never applies silently. Every application is logged.
 | Firm-year | Correction | Why |
 |---|---|---|
 | JPM 2024 | "Risk, Controls & Conduct": weight 50% → none, `weight_of` plan_total → none, application weighted → holistic_factor | The source says "an approximately 50% weighting to its qualitative consideration of risk, controls & conduct, customer/client/stakeholder and teamwork & leadership": the 50% covers the three dimensions together. Attaching it to one dimension gave the other two, and their DEI, environment and customer criteria, 0%. After the fix the weight layer splits the 50% across the three by emphasis: DEI 12.5% (was 0%). Found in the Part 4 review; a scan of all firm-years found no other instance. |
+| TJX 2017 | "Fiscal 2017 MIP (Corporate)" → "Adjusted pre-tax income (corporate MIP goal)", `other` → `shareholders` | A plan name was extracted instead of its criterion. Source: "Fiscal 2017 MIP Performance Goals (Adjusted Pre-Tax Income…)". Flagged by Part 3. |
+
+**Additions** (`data/extraction_additions.csv`): rows the model missed. Each
+must quote evidence found verbatim in that proxy, otherwise the run stops.
+
+| Firm-year | Added | Why |
+|---|---|---|
+| GOOGL 2024 | Environmental component (50%, `environment`) and Social component (50%, `community`) under the "Environmental, Social, and Governance Bonus" | Only the bonus name had been extracted (coded `other`), so 100% of the bonus read as `other` (flagged by Part 3). Source: "an environmental and a social component, each with a maximum potential payout of $1.0 million". The social component is `community`, not `dei`: the 2024 text describes it as "steps taken to design and build products for a global audience". |
+| GOOGL 2023 | The ESG Bonus with Environmental (50%) and Social (50%, `dei`) components, plus relative TSR PSUs | No items had been extracted. In 2023 the social component is "progress toward our DEI goals, including our 2020 Racial Equity Commitments". The DEI wording disappears in the next proxy, a clean example of the relabeling documented in Part 4. |
+| TJX 2024 | MIP Incentive Pre-Tax Income (annual, `shareholders`) | Only long-term metrics had been extracted. |
+
+Known issue left as is: TJX 2017's long-term row ("Corporate performance
+target under LRPIP") is still a plan name coded `other`. That year's text does
+not name the measure (other years use cumulative pre-tax income), and a
+correction would need inference, not a quote.
 
 ## Out-of-sample extension: filing years 2025-2026
 `P2_EXTENSION=2025_2026` runs the unchanged pipeline (same rules, CIK

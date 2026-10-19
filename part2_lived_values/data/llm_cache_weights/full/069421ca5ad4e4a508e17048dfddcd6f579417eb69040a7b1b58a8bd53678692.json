@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "ticker": "TJX",
+  "filing_year": 2017,
+  "masked": false,
+  "fingerprint": "069421ca5ad4e4a508e17048dfddcd6f579417eb69040a7b1b58a8bd53678692",
+  "est_input_tokens": 20616
+ },
+ "usage": {
+  "input_tokens": 23304,
+  "output_tokens": 148
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Grants of Plan-Based Awards in Fiscal 2017 Reflects award opportunities under the fiscal 2017 MIP."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "the performance-based conditions are tied to the corporate performance target under our LRPIP"
+   }
+  ],
+  "equal_split": []
+ }
+}

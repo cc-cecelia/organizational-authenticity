@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "MCD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2025,
+  "accession": "0001558370-25-004544",
+  "task": "incentives",
+  "section_words": 6802,
+  "section_method": "heading",
+  "cache_key": "a9c6419ec638bb5d5e965bfedb7f8414200b562afdde470c0e3df3a47b224cd8",
+  "est_input_tokens": 14856
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 17958,
+  "output_tokens": 1330,
+  "request_id": "req_011CgCJfp9r3S63jwK25zq4q"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Operating Income Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "OPERATING INCOME (\" OI \")* (40% WEIGHTING)"
+   },
+   {
+    "metric": "Systemwide Sales Growth",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "SYSTEMWIDE SALES (\" SWS \") (30% WEIGHTING)"
+   },
+   {
+    "metric": "New Restaurant Openings",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "NEW RESTAURANT OPENINGS (\" NRO \") (15% WEIGHTING)"
+   },
+   {
+    "metric": "Strategic Scorecard",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The strategic scorecard represented 15% weighting in the STIP at target"
+   },
+   {
+    "metric": "Advancing the Company's values",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "designed to hold management accountable for efforts towards advancing the Company's values"
+   },
+   {
+    "metric": "Driving employee engagement",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "driving employee engagement and executing its franchising strategy"
+   },
+   {
+    "metric": "Executing its franchising strategy",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "holistic_factor",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "executing its franchising strategy"
+   },
+   {
+    "metric": "Three-Year Compound Annual EPS Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 75,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "Three-Year Average of Annualized ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "EPS growth (weighted 75%) and ROIC (weighted 25%)"
+   },
+   {
+    "metric": "Relative TSR modifier vs. S&P 500 Index",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The PRSUs are also subject to a modifier based on our relative TSR performance measured over the three-year performance period vs. the S&P 500 Index."
+   }
+  ]
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2025,
+  "accession": "0001308179-25-000029",
+  "task": "incentives",
+  "section_words": 10519,
+  "section_method": "heading",
+  "cache_key": "2f18464aa2a3f60e45e723c0afd78fb73b14bc3f5cd9670b9dbf1fe956f97cf6",
+  "est_input_tokens": 23400
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 25468,
+  "output_tokens": 2346,
+  "request_id": "req_011CgCJnjHqEBdHw2Z5DiPBU"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "70% of our NEOs' target STI opportunity was based on achieving quantitative Company financial objectives"
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial portion of the target plan was evenly split between adjusted EBITDA and free cash flow performance goals."
+   },
+   {
+    "metric": "Quantitative Company Non-Financial Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "10% was based on achieving quantitative Company non-financial objectives"
+   },
+   {
+    "metric": "Reducing Scope 1 and 2 Emissions Intensity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Reducing Scope 1 and 2 Emissions Intensity"
+   },
+   {
+    "metric": "Improving Gender Balance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Improving Gender Balance"
+   },
+   {
+    "metric": "Strategic Personal Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% was based on achieving quantitative Company non-financial objectives, and 20% was based on strategic personal objectives"
+   },
+   {
+    "metric": "Absolute FCF Margin PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Free Cash Flow Margin PSUs | Absolute performance metric, based on our FCF margin over a 3-year period"
+   },
+   {
+    "metric": "Relative ROCE PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Return on Capital Employed PSUs | Relative performance metric, comparing our average annual ROCE over a 3-year period"
+   },
+   {
+    "metric": "Relative TSR PSUs",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Total Shareholder Return PSUs | Relative performance metric, comparing our cumulative TSR over a 3-year period"
+   }
+  ]
+ }
+}

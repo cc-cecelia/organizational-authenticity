@@ -1,0 +1,62 @@
+{
+ "meta": {
+  "ticker": "TSLA",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2025,
+  "accession": "0001104659-25-090866",
+  "task": "incentives",
+  "section_words": 7946,
+  "section_method": "heading",
+  "cache_key": "ee2324cd1740ff7ff48c79b4457b04a97b30fd3ff158867b213716a8a67da0ab",
+  "est_input_tokens": 17105
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 18950,
+  "output_tokens": 492,
+  "request_id": "req_011CgCJezTvxxCTaFcFDkgYY"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Total Revenue (2018 CEO Performance Award operational milestones)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "Each of the 12 tranches of the 2018 CEO Performance Award vested upon certification by the Board that both (i) the market capitalization milestone"
+   },
+   {
+    "metric": "Adjusted EBITDA (2018 CEO Performance Award operational milestones)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "any one of the following eight operational milestones focused on revenue or eight operational milestones focused on profitability, was met"
+   },
+   {
+    "metric": "Market capitalization milestones (2018 CEO Performance Award)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "ceo",
+    "evidence": "the market capitalization milestone for such tranche, which began at $100 billion for the first tranche and increased by increments of $50 billion thereafter"
+   }
+  ]
+ }
+}

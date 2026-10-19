@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2023,
+  "masked": false,
+  "fingerprint": "702073d1406db23875c4f325a43ad943704dc3eb1db825db891f02a91698d4cc",
+  "est_input_tokens": 16012
+ },
+ "usage": {
+  "input_tokens": 17655,
+  "output_tokens": 205
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Environmental, Social, and Governance Bonus"
+   },
+   {
+    "id": 1,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Environmental component (ESG Bonus)"
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Social component (ESG Bonus)"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "relative TSR is the sole and most important financial performance measure as it relates to CAP"
+   }
+  ],
+  "equal_split": []
+ }
+}

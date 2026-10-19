@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "HD",
+  "sector": "Consumer Discretionary",
+  "filing_year": 2025,
+  "accession": "0000354950-25-000123",
+  "task": "incentives",
+  "section_words": 9077,
+  "section_method": "heading",
+  "cache_key": "b7521924c7acd97cf34d79c4e0d6efbbd62bbaaf7a5cdfaecd38381784b74d47",
+  "est_input_tokens": 20414
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 22273,
+  "output_tokens": 2815,
+  "request_id": "req_011CgCJf72L3Ct5eiSjNXCgq"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the LDC Committee determined to include a new Pro strategic goal weighted at 10%, with a corresponding decrease in the weighting assigned to each of the sales and operating profit goals to 40%"
+   },
+   {
+    "metric": "Operating Profit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 40,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Operating Profit | 40% | $19.62 | 90% | 50% | $21.80 | $23.98 | 110% | 200%"
+   },
+   {
+    "metric": "Inventory Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The weighting of the inventory turns measure at 10% maintained visibility and focus on inventory management."
+   },
+   {
+    "metric": "Pro Strategic Goal (increase in managed account sales)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The pro strategic goal measures the year-over-year increase in total sales in the U.S. to Pros whose accounts are managed by our outside sales team"
+   },
+   {
+    "metric": "Sales",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "the LDC Committee has determined to increase the weighting assigned to the sales goal to 50% for the Fiscal 2025 MIP"
+   },
+   {
+    "metric": "Operating Profit",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 30,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "future_year",
+    "scope": "all",
+    "evidence": "the operating profit goal in the Fiscal 2025 MIP will be weighted at 30%, demonstrating a continued focus on profitability"
+   },
+   {
+    "metric": "Three-Year Average ROIC",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-Year Average ROIC (50%) | 30.98% | 36.45% | 41.91% | 37.68%"
+   },
+   {
+    "metric": "Three-Year Average Operating Profit",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Three-Year Average Operating Profit (50%) | $18.45 | $21.71 | $24.96 | $21.42"
+   },
+   {
+    "metric": "Operating Profit (performance-based restricted stock forfeiture condition)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Restricted stock is forfeited if Fiscal 2024 operating profit is not at least 90% of the MIP target."
+   }
+  ]
+ }
+}

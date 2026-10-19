@@ -1,0 +1,22 @@
+{
+ "meta": {
+  "ticker": "MPC",
+  "sector": "Energy",
+  "filing_year": 2025,
+  "accession": "0001510295-25-000023",
+  "task": "incentives",
+  "section_words": 3976,
+  "section_method": "heading",
+  "cache_key": "6ba13c6a3b0797f1b2874280129290a583bb443b8a179dc0a306b612ac213310",
+  "est_input_tokens": 9502
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 12282,
+  "output_tokens": 240,
+  "request_id": "req_011CgCJoVXeDXB9nf6PTEL3F"
+ },
+ "result": {
+  "metrics": []
+ }
+}

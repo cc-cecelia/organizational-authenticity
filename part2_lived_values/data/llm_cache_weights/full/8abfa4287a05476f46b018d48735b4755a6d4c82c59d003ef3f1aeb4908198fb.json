@@ -1,0 +1,42 @@
+{
+ "meta": {
+  "ticker": "GOOGL",
+  "filing_year": 2024,
+  "masked": false,
+  "fingerprint": "8abfa4287a05476f46b018d48735b4755a6d4c82c59d003ef3f1aeb4908198fb",
+  "est_input_tokens": 11870
+ },
+ "usage": {
+  "input_tokens": 13697,
+  "output_tokens": 266
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The company's non-equity incentive plan award is the environmental, social, and governance bonus opportunity, which consists of a target and maximum of $2.0 million and no threshold value."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Assuming the maximum achievement of the TSR performance goals, the aggregate market value of the PSUs on the date of grant would be $9,978,464."
+   },
+   {
+    "id": 2,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Environmental component (ESG Bonus)"
+   },
+   {
+    "id": 3,
+    "parent_id": 0,
+    "emphasis": 1,
+    "evidence": "Social component (ESG Bonus)"
+   }
+  ],
+  "equal_split": []
+ }
+}

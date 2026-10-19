@@ -1,0 +1,72 @@
+{
+ "meta": {
+  "ticker": "NKE",
+  "filing_year": 2022,
+  "masked": false,
+  "fingerprint": "f6f597e16bde7a0375bab45074097c2f1fc976234f129fa3a79a228bc8b6a5d0",
+  "est_input_tokens": 19432
+ },
+ "usage": {
+  "input_tokens": 20600,
+  "output_tokens": 1911
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "selected three equally-weighted metrics and corresponding performance goals for the fiscal 2022 PSP awards"
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "to support digital growth in connection with our Consumer Direct Acceleration strategy"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "earnings before interest and taxes (\"EBIT\"), to manage overall profitability"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "The Compensation Committee selected three-year Relative TSR as the performance metric because it is an objective and transparent measure"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The fiscal 2022 \u2013 2024 PSU awards also contain a \"People & Planet\" modifier designed to support our commitment to Purpose"
+   },
+   {
+    "id": 5,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 6,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   },
+   {
+    "id": 7,
+    "parent_id": 4,
+    "emphasis": 1,
+    "evidence": "based on a holistic assessment of the Company's performance with respect to employee engagement and inclusion, leadership diversity, and sustainability"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "selected three equally-weighted metrics and corresponding performance goals for the fiscal 2022 PSP awards"
+   }
+  ]
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "meta": {
+  "ticker": "MDT",
+  "sector": "Healthcare",
+  "filing_year": 2026,
+  "accession": "0001613103-26-000010",
+  "task": "incentives",
+  "section_words": 9140,
+  "section_method": "heading",
+  "cache_key": "eb8029258d01f73238ec49a1f8c029ce69a102291f7bbfd76003959251d03c35",
+  "est_input_tokens": 21031
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 23024,
+  "output_tokens": 1728,
+  "request_id": "req_011CgCJdxLuEwWCbWrpvCTXV"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Revenue Growth Over Prior Year (Organic)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Revenue Growth Over Prior Year (Organic) | Top line growth continues to be a key driver of shareholder value. | 33%"
+   },
+   {
+    "metric": "Diluted EPS (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Diluted EPS (Non-GAAP) | Earnings both from operating efficiency and financial management are a key driver of returns to shareholders. | 33%"
+   },
+   {
+    "metric": "Free Cash Flow (Non-GAAP)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 33,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Free Cash Flow (Non-GAAP) ($ in millions) | Free cash flow is a key driver of shareholder returns | 33%"
+   },
+   {
+    "metric": "Quality",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "safety",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "the quality modifier on the Team scorecard may increase or decrease the payout for senior executives, including NEOs."
+   },
+   {
+    "metric": "Findings/Inspections (FDA 483)",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Findings/Inspections (FDA 483) | \u2264 0.45 | 25.0%"
+   },
+   {
+    "metric": "On-time FCA Execution",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "On-time FCA Execution | \u226593% | 25.0%"
+   },
+   {
+    "metric": "Complaint (Open) Timeliness",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "customers",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Complaint (Open) Timeliness | \u226587% | 25.0%"
+   },
+   {
+    "metric": "Classic CAPA Timeliness through Action Phase",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 25,
+    "weight_of": "parent_component",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "integrity",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Classic CAPA Timeliness through Action Phase | \u226585% | 25.0%"
+   },
+   {
+    "metric": "Individual Performance (financial, strategic and cultural objectives)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "qualitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "reflected an assessment of each NEO's performance against financial, strategic, and cultural objectives."
+   },
+   {
+    "metric": "3-Yr Average Organic Revenue Growth",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "3-Yr Average Organic Revenue Growth (1) | 0%-200% | X | 50% | Target Award"
+   },
+   {
+    "metric": "Relative Total Shareholder Return",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 50,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Relative Total Shareholder Return (2) | 0%-200% | X | 50% | X"
+   },
+   {
+    "metric": "Return on Invested Capital (ROIC) Modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Return on Invested Capital (ROIC) Modifier (3) | 30% Reduction | \u2014 | Modifier"
+   }
+  ]
+ }
+}

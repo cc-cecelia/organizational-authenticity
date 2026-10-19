@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "ticker": "AVGO",
+  "filing_year": 2016,
+  "masked": false,
+  "fingerprint": "a08cccfe31305fe6f3fd5f23b42dc272f6543bc9a2d4bbaaa73eac7090014813",
+  "est_input_tokens": 22852
+ },
+ "usage": {
+  "input_tokens": 24207,
+  "output_tokens": 2245
+ },
+ "result": {
+  "items": [
+   {
+    "id": 0,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Days sales outstanding target for Fiscal Year 2015 was 42 days."
+   },
+   {
+    "id": 1,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Zero Audit Adjustments (17%) | 150%"
+   },
+   {
+    "id": 2,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Product Revenue (20%) | 150%"
+   },
+   {
+    "id": 3,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Design Wins (20%) | 128%"
+   },
+   {
+    "id": 4,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "For direct expense performance targets only, achieving the minimum level of performance would result in 80% attainment"
+   },
+   {
+    "id": 5,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   },
+   {
+    "id": 6,
+    "parent_id": null,
+    "emphasis": 2,
+    "evidence": "The target for revenue growth for Fiscal Year 2015 was 16.1%, and the maximum attainment level was 20%"
+   },
+   {
+    "id": 7,
+    "parent_id": null,
+    "emphasis": 1,
+    "evidence": "Non-GAAP gross margin target for Fiscal Year 2015 was 58.3%."
+   },
+   {
+    "id": 8,
+    "parent_id": null,
+    "emphasis": 3,
+    "evidence": "the performance criteria for the performance-based awards were based on sustained increases in the Company's share price"
+   }
+  ],
+  "equal_split": [
+   {
+    "parent_id": -1,
+    "plan": "annual_incentive",
+    "evidence": "Each goal carried an equal weighting of 50% of the corporate performance component."
+   }
+  ]
+ }
+}

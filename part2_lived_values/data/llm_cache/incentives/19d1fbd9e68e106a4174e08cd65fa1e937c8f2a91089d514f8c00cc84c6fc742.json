@@ -1,0 +1,153 @@
+{
+ "meta": {
+  "ticker": "HAL",
+  "sector": "Energy",
+  "filing_year": 2026,
+  "accession": "0000045012-26-000033",
+  "task": "incentives",
+  "section_words": 11405,
+  "section_method": "heading",
+  "cache_key": "19d1fbd9e68e106a4174e08cd65fa1e937c8f2a91089d514f8c00cc84c6fc742",
+  "est_input_tokens": 26543
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 27322,
+  "output_tokens": 2982,
+  "request_id": "req_011CgCJrP9yyUQh275atfAzf"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Net Operating Profit After Taxes (NOPAT)",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 60,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance measured against: \u2022 60% NOPAT \u2022 20% Asset Turns \u2022 20% Non-Financial Strategic Metrics"
+   },
+   {
+    "metric": "Asset Turns",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Performance measured against: \u2022 60% NOPAT \u2022 20% Asset Turns \u2022 20% Non-Financial Strategic Metrics"
+   },
+   {
+    "metric": "Non-Financial Strategic Metrics",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Non-Financial Strategic Metrics comprise 20% of the annual plan structure."
+   },
+   {
+    "metric": "GHG Emissions Reduction Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 15,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "GHG Emissions Reduction Performance | 15%"
+   },
+   {
+    "metric": "Our People Performance",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Our People Performance | Achieved"
+   },
+   {
+    "metric": "Convert North America hydraulic fracturing fleet to lower emission footprint",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Convert North America hydraulic fracturing fleet to lower emission footprint | 10%"
+   },
+   {
+    "metric": "Complete additional rounds of prospects for Halliburton Labs",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "innovation",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Complete additional rounds of prospects for Halliburton Labs | 5%"
+   },
+   {
+    "metric": "Ensure appropriate global workforce localization",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": 5,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "employees",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Ensure appropriate global workforce localization | 5%"
+   },
+   {
+    "metric": "Relative ROCE (PUP primary metric)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The 2025 performance units measured against ROCE performance relative to performance peers and including a relative TSR modifier."
+   },
+   {
+    "metric": "Relative TSR modifier",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "modifier",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "can increase or decrease the incentive opportunity payout by 25%"
+   }
+  ]
+ }
+}

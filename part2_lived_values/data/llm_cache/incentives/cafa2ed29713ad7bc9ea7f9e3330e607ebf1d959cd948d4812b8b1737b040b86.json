@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "ticker": "SLB",
+  "sector": "Energy",
+  "filing_year": 2026,
+  "accession": "0001308179-26-000024",
+  "task": "incentives",
+  "section_words": 11147,
+  "section_method": "heading",
+  "cache_key": "cafa2ed29713ad7bc9ea7f9e3330e607ebf1d959cd948d4812b8b1737b040b86",
+  "est_input_tokens": 24757
+ },
+ "model": "claude-haiku-5-5",
+ "usage": {
+  "input_tokens": 26857,
+  "output_tokens": 2316,
+  "request_id": "req_011CgCJntTVhHuv9zWCDcWhY"
+ },
+ "result": {
+  "metrics": [
+   {
+    "metric": "Adjusted EBITDA",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The financial portion of the target plan was evenly split between adjusted EBITDA and free cash flow performance goals."
+   },
+   {
+    "metric": "Free Cash Flow",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 35,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "For 2025, 70% of our NEOs' target STI opportunity was based on achieving quantitative Company financial objectives"
+   },
+   {
+    "metric": "Quantitative Company Non-Financial Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 10,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "an additional 10% quantitative component (at target) focused on reducing SLB's emissions intensity and improving gender balance"
+   },
+   {
+    "metric": "Reducing Scope 1 and 2 Emissions Intensity",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "environment",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "The Committee approved a goal for SLB to achieve a 7.0% year-on-year reduction in Scope 1 and 2 emissions intensity"
+   },
+   {
+    "metric": "Improving Gender Balance",
+    "plan": "annual_incentive",
+    "level": "sub_criterion",
+    "weight_pct": null,
+    "weight_of": "none",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "dei",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "Below 25.0% women in salaried population | 0%; 25.0% women in salaried population | Minimum | 50%"
+   },
+   {
+    "metric": "Strategic Personal Objectives",
+    "plan": "annual_incentive",
+    "level": "metric",
+    "weight_pct": 20,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "qualitative",
+    "category": "other",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "20% was based on strategic personal objectives."
+   },
+   {
+    "metric": "Absolute FCF Margin (2025 FCF Margin PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Free Cash Flow Margin PSUs | Absolute performance metric, based on our FCF margin over a 3-year period"
+   },
+   {
+    "metric": "Relative ROCE (2025 ROCE PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Return on Capital Employed PSUs | Relative performance metric, comparing our average annual ROCE over a 3-year period"
+   },
+   {
+    "metric": "Relative TSR (2025 TSR PSUs)",
+    "plan": "long_term_incentive",
+    "level": "metric",
+    "weight_pct": 25,
+    "weight_of": "plan_total",
+    "application": "weighted",
+    "measurement": "quantitative",
+    "category": "shareholders",
+    "applies_to": "reported_year",
+    "scope": "all",
+    "evidence": "25% Total Shareholder Return PSUs | Relative performance metric, comparing our cumulative TSR over a 3-year period"
+   }
+  ]
+ }
+}
