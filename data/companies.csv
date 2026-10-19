@@ -1,0 +1,51 @@
+ticker,company_name,sector,domain,seed_urls
+MSFT,Microsoft,Technology,microsoft.com,https://www.microsoft.com/en-us/about;https://www.microsoft.com/en-us/about/values;https://news.microsoft.com/facts-about-microsoft/
+AAPL,Apple,Technology,apple.com,https://www.apple.com/about/;https://www.apple.com/diversity/
+NVDA,NVIDIA,Technology,nvidia.com,https://www.nvidia.com/en-us/about-nvidia/;https://www.nvidia.com/object/about-nvidia.html
+GOOGL,Alphabet,Technology,google.com,https://about.google/;https://www.google.com/about/;https://about.google/philosophy/;https://www.google.com/about/philosophy.html;https://abc.xyz/
+META,Meta Platforms,Technology,meta.com,https://about.meta.com/company-info/;https://about.fb.com/company-info/;https://newsroom.fb.com/company-info/;https://about.meta.com/
+AVGO,Broadcom,Technology,broadcom.com,https://www.broadcom.com/company/about-us;https://www.broadcom.com/company/about-broadcom
+CRM,Salesforce,Technology,salesforce.com,https://www.salesforce.com/company/about-us/;https://www.salesforce.com/company/our-story/;https://www.salesforce.com/company/values/
+ORCL,Oracle,Technology,oracle.com,https://www.oracle.com/corporate/;https://www.oracle.com/corporate/index.html;https://www.oracle.com/about/
+IBM,IBM,Technology,ibm.com,https://www.ibm.com/about;https://www.ibm.com/ibm/us/en/;https://www.ibm.com/ibm/values/us/
+INTC,Intel,Technology,intel.com,https://www.intel.com/content/www/us/en/company-overview/company-overview.html;https://www.intel.com/content/www/us/en/company-overview/our-values.html
+BRK.B,Berkshire Hathaway,Financials,berkshirehathaway.com,https://www.berkshirehathaway.com/;https://www.berkshirehathaway.com/ownman.pdf
+JPM,JPMorgan Chase,Financials,jpmorganchase.com,https://www.jpmorganchase.com/about;https://www.jpmorganchase.com/corporate/About-JPMC/about-us.htm;https://www.jpmorganchase.com/about/business-principles;https://www.jpmorganchase.com/corporate/About-JPMC/ab-business-principles.htm
+BAC,Bank of America,Financials,bankofamerica.com,https://about.bankofamerica.com/en-us/who-we-are/;https://about.bankofamerica.com/en/our-company;https://about.bankofamerica.com/en-us/our-company/
+WFC,Wells Fargo,Financials,wellsfargo.com,https://www.wellsfargo.com/about/;https://www.wellsfargo.com/about/corporate/vision-and-values/
+GS,Goldman Sachs,Financials,goldmansachs.com,https://www.goldmansachs.com/our-firm/;https://www.goldmansachs.com/who-we-are/;https://www.goldmansachs.com/who-we-are/business-standards/business-principles/;https://www.goldmansachs.com/our-firm/our-people-and-culture/
+MS,Morgan Stanley,Financials,morganstanley.com,https://www.morganstanley.com/about-us;https://www.morganstanley.com/about-us/values;https://www.morganstanley.com/about-us/mission
+BLK,BlackRock,Financials,blackrock.com,https://www.blackrock.com/corporate/about-us;https://www.blackrock.com/corporate/about-us/mission-and-principles
+SCHW,Charles Schwab,Financials,aboutschwab.com,https://www.aboutschwab.com/;https://www.aboutschwab.com/who-we-are;https://www.aboutschwab.com/purpose-and-values
+AXP,American Express,Financials,americanexpress.com,https://about.americanexpress.com/;https://about.americanexpress.com/our-company/default.aspx;https://about.americanexpress.com/our-company/our-mission-and-values/
+C,Citigroup,Financials,citigroup.com,https://www.citigroup.com/citi/about/;https://www.citigroup.com/global/about-us;https://www.citigroup.com/citi/about/mission-and-value-proposition.html
+LLY,Eli Lilly,Healthcare,lilly.com,https://www.lilly.com/who-we-are;https://www.lilly.com/who-we-are/about-lilly;https://www.lilly.com/about
+UNH,UnitedHealth Group,Healthcare,unitedhealthgroup.com,https://www.unitedhealthgroup.com/about.html;https://www.unitedhealthgroup.com/About/CultureValues.aspx;https://www.unitedhealthgroup.com/about/culture-values.html
+JNJ,Johnson & Johnson,Healthcare,jnj.com,https://www.jnj.com/credo;https://www.jnj.com/about-jnj/jnj-credo;https://www.jnj.com/our-company/our-credo;https://www.jnj.com/about-jnj
+ABBV,AbbVie,Healthcare,abbvie.com,https://www.abbvie.com/our-company.html;https://www.abbvie.com/who-we-are.html;https://www.abbvie.com/who-we-are/our-principles.html
+MRK,Merck,Healthcare,merck.com,https://www.merck.com/company-overview/;https://www.merck.com/about/home.html;https://www.merck.com/about/our-values/
+TMO,Thermo Fisher Scientific,Healthcare,thermofisher.com,https://corporate.thermofisher.com/en/about-us.html;https://corporate.thermofisher.com/us/en/index/about.html;https://www.thermofisher.com/us/en/home/about-us.html
+ABT,Abbott Laboratories,Healthcare,abbott.com,https://www.abbott.com/about-abbott.html;https://www.abbott.com/about-abbott/our-values.html
+PFE,Pfizer,Healthcare,pfizer.com,https://www.pfizer.com/about;https://www.pfizer.com/purpose;https://www.pfizer.com/about/purpose
+MDT,Medtronic,Healthcare,medtronic.com,https://www.medtronic.com/us-en/about/mission.html;https://www.medtronic.com/us-en/about.html;https://www.medtronic.com/covidien/en-us/about/mission.html
+BMY,Bristol-Myers Squibb,Healthcare,bms.com,https://www.bms.com/about-us.html;https://www.bms.com/about-us/our-company.html;https://www.bms.com/about-us/our-company/our-mission-and-values.html
+AMZN,Amazon,Consumer Discretionary,aboutamazon.com,https://www.aboutamazon.com/about-us;https://www.amazon.jobs/en/principles;https://www.aboutamazon.com/about-us/leadership-principles
+TSLA,Tesla,Consumer Discretionary,tesla.com,https://www.tesla.com/about;https://www.tesla.com/about/
+HD,Home Depot,Consumer Discretionary,homedepot.com,https://corporate.homedepot.com/about;https://corporate.homedepot.com/about/values;https://corporate.homedepot.com/en/about/values
+MCD,McDonald's,Consumer Discretionary,mcdonalds.com,https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-values.html;https://corporate.mcdonalds.com/corpmcd/about-us.html;https://corporate.mcdonalds.com/mcd/our_company.html;https://www.aboutmcdonalds.com/mcd/our_company/mission_and_values.html
+NKE,Nike,Consumer Discretionary,nike.com,https://about.nike.com/;https://news.nike.com/company;https://purpose.nike.com/
+SBUX,Starbucks,Consumer Discretionary,starbucks.com,https://www.starbucks.com/about-us/company-information/mission-statement;https://www.starbucks.com/about-us
+TGT,Target,Consumer Discretionary,target.com,https://corporate.target.com/about;https://corporate.target.com/about/purpose-history;https://corporate.target.com/about/mission-values
+LOW,Lowe's,Consumer Discretionary,lowes.com,https://corporate.lowes.com/our-company;https://corporate.lowes.com/who-we-are;https://newsroom.lowes.com/who-we-are/
+TJX,TJX Companies,Consumer Discretionary,tjx.com,https://www.tjx.com/company;https://www.tjx.com/company/our-values;https://www.tjx.com/about-tjx
+F,Ford Motor,Consumer Discretionary,ford.com,https://corporate.ford.com/about.html;https://corporate.ford.com/company.html;https://corporate.ford.com/about/purpose.html
+XOM,ExxonMobil,Energy,exxonmobil.com,https://corporate.exxonmobil.com/who-we-are;https://corporate.exxonmobil.com/About-us/Who-we-are;https://corporate.exxonmobil.com/en/company/about-us;https://corporate.exxonmobil.com/About-us
+CVX,Chevron,Energy,chevron.com,https://www.chevron.com/about/the-chevron-way;https://www.chevron.com/who-we-are/the-chevron-way;https://www.chevron.com/about
+COP,ConocoPhillips,Energy,conocophillips.com,https://www.conocophillips.com/about-us/;https://www.conocophillips.com/about-us/our-spirit-values/;https://www.conocophillips.com/about-us/who-we-are/
+EOG,EOG Resources,Energy,eogresources.com,https://www.eogresources.com/company/;https://www.eogresources.com/company/culture;https://www.eogresources.com/about-eog
+SLB,SLB (Schlumberger),Energy,slb.com,https://www.slb.com/who-we-are;https://www.slb.com/about;https://www.slb.com/about/who.aspx
+MPC,Marathon Petroleum,Energy,marathonpetroleum.com,https://www.marathonpetroleum.com/About/;https://www.marathonpetroleum.com/About/Our-Values/
+PSX,Phillips 66,Energy,phillips66.com,https://www.phillips66.com/about/;https://www.phillips66.com/about/our-values/;https://www.phillips66.com/about/who-we-are/
+VLO,Valero Energy,Energy,valero.com,https://www.valero.com/about;https://www.valero.com/en-us/AboutValero;https://www.valero.com/about/our-values
+OXY,Occidental Petroleum,Energy,oxy.com,https://www.oxy.com/about-us/;https://www.oxy.com/AboutOxy/Pages/default.aspx;https://www.oxy.com/about-us/our-values/
+HAL,Halliburton,Energy,halliburton.com,https://www.halliburton.com/en/about-us;https://www.halliburton.com/en-US/about-us/default.html;https://www.halliburton.com/en/about-us/our-values
