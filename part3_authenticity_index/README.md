@@ -95,10 +95,14 @@ The guard also distorts individual rows. WFC 2016's 5.7% customer weight is drop
 - The index varies more between firms than within them over time: the SD of firm means is 0.24, against an average within-firm SD of 0.16.
 - 2 firms have no index. AAPL has no page with codable values, and BRK.B has no pay-metric section to extract.
 
-**The rankings are interpretable.**
-- **Lowest firm means** are SCHW 0.02, NVDA 0.03, CRM 0.09, GOOGL 0.12, ABT 0.14 and AMZN 0.14. Their pay is purely financial or equity-based, while their pages state customers, innovation and community.
-- **Highest firm means** are JPM 0.92, VLO 0.82, MSFT 0.80, BLK 0.71 and WFC 0.69. These firms run stakeholder scorecards.
-- EOG (1.00) rests on only 3 firm-years because of Part 1 gaps.
+**The rankings, and what they measure.** The full table is `output/analysis/firm_ranking.csv`. Firms with fewer than 5 firm-years are flagged **(n<5)**.
+- **Lowest firm means:** SCHW 0.02, NVDA 0.03, CRM 0.09, GOOGL 0.12, AMZN 0.14 (n<5), ABT 0.14 and HD 0.16.
+- **Highest firm means:** EOG 1.00 (n<5), JPM 0.92, VLO 0.82, MSFT 0.80, BLK 0.71 and WFC 0.69.
+- **A measures whether stated values enter executive incentive design. It does not measure honesty in general.**
+  - NVDA, SCHW and GOOGL score near 0 because their annual bonus is purely financial *by design*. Their pages state customers, innovation and community, and their pay philosophy deliberately ties executive incentives to financial results and equity value alone.
+  - A firm with a purely financial pay philosophy therefore scores low by construction, whatever it practices elsewhere.
+  - JPM, MSFT and the energy firms score high because they run stakeholder scorecards that name the same stakeholders their pages do.
+  - This is the first threat to validity below.
 
 **By sector and year.**
 - Energy (0.53) and Financials (0.52) score highest. Consumer Discretionary (0.30) and Technology (0.32) score lowest.
@@ -106,24 +110,46 @@ The guard also distorts individual rows. WFC 2016's 5.7% customer weight is drop
 
 **Weighted versions are much lower:** mean 0.33 at τ = 5%, 0.29 at τ = 10% and 0.24 at τ = 20%. Most non-financial criteria are unweighted holistic factors or small slices of the bonus. **The gap between `A` and `A_tau10` separates nominal backing from material backing.**
 
-**Sensitivity to τ** (41 firms with weights): the firm rankings are stable. Spearman correlations are 0.94 between τ → 0 and 5%, 0.89 with 10%, and 0.82 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight.
+**Sensitivity to τ** (41 firms with weights): the firm rankings are stable. Spearman correlations are 0.94 between τ → 0 and 5%, 0.89 with 10%, and 0.82 with 20%. The firms whose rank drops most as τ rises are the "token coverage" cases: they list many stakeholder criteria that carry little bonus weight. In this table, n counts the firm-years where all four τ values are defined.
 
-| Firm | Rank at τ → 0 | Rank at τ = 20% |
-|---|---|---|
-| TGT | 16 | 34 |
-| TMO | 13 | 31 |
-| NKE | 26 | 41 |
-| WFC | 5 | 17 |
-| MSFT | 4 | 15 |
+| Firm | Rank at τ → 0 | Rank at τ = 20% | n |
+|---|---|---|---|
+| TGT | 16 | 34 | 3 (n<5) |
+| TMO | 13 | 31 | 5 |
+| NKE | 26 | 41 | 6 |
+| WFC | 5 | 17 | 6 |
+| MSFT | 4 | 15 | 9 |
+
+**Robustness: stated weights only.** As Session 2 suggested, the weighted index was recomputed using only `disclosed` and `derived_from_stated_split` weights, excluding Part 2's `imputed_emphasis` estimates. This leaves 85 firm-years across 19 firms (`output/analysis/robustness_stated_weights.csv`).
+- **Rankings hold.** Compared on the same firm-years, the Spearman correlation with the all-weights version is 0.96 at τ = 10% and 0.97 at τ = 20%.
+- **The largest single change is XOM,** which falls from rank 2 to 5 (n<5). Its weighted score at τ = 10% is 0.51 with imputed weights and 0.29 with stated weights only.
+- **Caveat:** 11 of the 19 firms have fewer than 5 firm-years with stated weights, so this check covers a small, stated-weight-disclosing subset.
+- **The weight-free and weighted indexes differ:** their correlation is only 0.64 (τ → 0 vs stated-only τ = 10%). They answer different questions: whether pay names a stakeholder, and how much pay rides on it.
 
 **Validity: known groups.**
 - **XOM environment: passes.** Environment pay criteria go 0 → 1 → 4 as the 2022 proxy adds energy-transition metrics. With the t/t+1 window, that shows as coverage from page-year 2020 and full strength from 2021. The page keeps environment at low salience (1, then 2 in 2024): pay moved before the page did.
-- **WFC customers: partly fails, and the failure is informative.** Coverage was expected to be low in 2016 to 2018, around the fake-accounts scandal.
-  - Page-year 2017 has no customer pay criteria, as expected.
-  - Page-year 2016 is covered by a 2016 holistic factor: "furthering the Company's objectives of creating deep and enduring relationships with our customers". That is the cross-selling objective at the root of the scandal, which the coding treats as `customers`.
-  - Page-year 2018 borrows the 2019 proxy's new post-scandal "Customer Service and Advice" metric through the t+1 window.
-  - Weighted coverage is low in all three years (0, 0 and 0.42 at τ = 10%).
-  - The lesson is a threat to validity: **a category match cannot tell a customer metric that serves customers from one that harmed them.**
+- **WFC: the check fails as specified, and the reason is timing.**
+  - **The expectation:** customer coverage should be low in 2016 to 2018, when pay was decoupled from customer welfare around the fake-accounts scandal.
+  - **The result for customers (τ → 0 coverage):** 1 in page-year 2016, 0 in 2017, 1 in 2018. That is not low.
+  - **Per-category detail** (`output/analysis/known_group_WFC_all_categories.csv`; cell = salience / coverage τ → 0 / weighted coverage τ = 10%):
+
+| Page-year | customers | integrity | dei | employees | community |
+|---|---|---|---|---|---|
+| 2016 | 2 / 1 / 0.0 | 2 / 1 / 0.0 | 0 / 1 / 0.0 | 1 / 0 / 0.0 | 0 / 1 / 0.0 |
+| 2017 | 3 / 0 / 0.0 | 2 / 1 / 0.0 | 0 / 0 / 0.0 | 1 / 0 / 0.0 | 0 / 0 / 0.0 |
+| 2018 | 3 / 1 / 0.4 | 3 / 1 / 1.0 | 3 / 1 / 0.6 | 3 / 1 / 0.4 | 2 / 1 / 0.4 |
+| 2019 | 3 / 1 / 0.4 | 3 / 1 / 1.0 | 3 / 1 / 0.6 | 3 / 1 / 0.4 | 2 / 1 / 0.4 |
+
+  - **Likely explanation.** The sample starts too late to see the decoupling. The scandal was disclosed in September 2016.
+    - The panel holds a single pre-disclosure proxy: the 2016 proxy, filed in March 2016 and covering fiscal 2015. Its one customer criterion is an unweighted holistic factor, "furthering the Company's objectives of creating deep and enduring relationships with our customers". That is the cross-selling objective at the root of the misconduct, which the coding reads as `customers`.
+    - Everything after that is **post-scandal remediation**. From the 2019 proxy (page-year 2018 under the t + 1 window), customer, risk/conduct (`integrity`) and DEI criteria enter pay with real weight: weighted integrity coverage goes from 0 to 1.0, and customers from 0 to 0.4.
+    - The page meanwhile raises those same categories to salience 3. So the index captures **re-coupling**, not the earlier decoupling.
+    - The weighted zeros for page-year 2016 are partly an artifact of the interim guard. It drops the 2016 proxy's weights, because that plan has 5.7% in `other`. With them, customer weighted coverage would be 0.57.
+  - **What would test the hypothesis properly:** **2011 to 2016** data, the period of the sales-goal pressure later documented in the CFPB consent order (September 2016).
+    - Wells Fargo's DEF 14A proxies for 2011 to 2016 (on EDGAR, extracted with Part 2's pipeline).
+    - Its archived About and Vision & Values pages for the same years (Wayback, Part 1's pipeline).
+    - The prediction: customers stated at high salience, while pay-linked customer criteria are either absent or are cross-sell volume metrics. That second case calls for coding cross-sell and product-per-household metrics as volume (`shareholders` under the shared tie-break rule) rather than as `customers`.
+- **A threat to validity, shown by WFC: a category match is not a values match.** A criterion coded `customers` can reward the very behavior that harmed customers.
 
 **Validity: discriminant check.** OLS of A on page type, log word count and sector, with firm-clustered standard errors, gives R² = 0.16.
 - Page type (values vs About: +0.10, p = 0.11) and page length (p = 0.17) do not significantly explain the score, so the index is not an artifact of which page was scraped or how long it is.
@@ -131,14 +157,18 @@ The guard also distorts individual rows. WFC 2016's 5.7% customer weight is drop
 - This is consistent with substance rather than artifact. Energy pay plans carry safety and environment scorecards, and bank plans carry risk and conduct criteria, which matches what those firms state. Cross-firm comparisons are best made within sector.
 
 ## Limitations and threats to validity
-1. **LLM label noise on both sides.** Salience (Part 1) and pay-criterion categories (Part 2) are single-model codings without temperature control. Both were hand-checked on samples, but re-sampling can move a category by ±1 salience or flip a borderline criterion's category. The index is a ratio over a few categories, so one flip can move a firm-year by 0.1 to 0.3. Firm-level means over years are more robust than single years.
-2. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights. 168 of the firm-years with weights rest on Part 2's `imputed_emphasis` weights, which are estimates. This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
-3. **Say-side coverage gaps and the page mix.**
+1. **Construct validity: A measures whether stated values enter executive incentive design, not honesty in general.**
+   - A firm whose pay philosophy is purely financial by design scores low by construction, however sincerely it pursues the values it states. NVDA, SCHW and GOOGL score near 0 for this reason.
+   - Conversely, a firm can score high by adding a stakeholder line to a bonus scorecard while its practice is unchanged.
+   - Read A as "incentive alignment of stated values", one observable channel through which a firm can make its stated values costly, not as a verdict on authenticity.
+2. **LLM label noise on both sides.** Salience (Part 1) and pay-criterion categories (Part 2) are single-model codings without temperature control. Both were hand-checked on samples, but re-sampling can move a category by ±1 salience or flip a borderline criterion's category. The index is a ratio over a few categories, so one flip can move a firm-year by 0.1 to 0.3. Firm-level means over years are more robust than single years.
+3. **Pay criteria are a proxy for priority, and weights are often missing.** A criterion can be a holistic factor with no weight. Many firms disclose no category weights. 168 of the firm-years with weights rest on Part 2's `imputed_emphasis` weights, which are estimates. This is why the primary index is weight-free and the weighted version is secondary. Pay also covers only top executives, not company-wide practice.
+4. **Say-side coverage gaps and the page mix.**
    - 35 firm-years have no page (Part 1 gaps), and 9 pages state no codable value.
    - About pages and values pages differ systematically: values pages have higher total salience and more integrity and employees content. Comparisons across firms should control for `page_type`, which is what the discriminant check tests.
-4. **Survivorship.** The sample is the 2024 constituents of the S&P 500, observed back to 2016. Firms that fell out of the index, possibly those whose rhetoric and practice diverged most, are not observed. Levels are therefore likely biased upward, and the 2016 cross-section is not representative of the 2016 S&P 500.
-5. **A category match is not a values match.** WFC 2016 shows this: a pay criterion coded `customers` can reward the very behavior that harmed customers. The index measures whether the same stakeholder appears on both sides, not whether pay serves the stated value.
-6. **Recall is not precision.** A firm that states almost nothing scores well if that little is paid for. `say_all_zero` rows are excluded rather than scored, but thin pages still make high scores cheap. Read `A` together with total salience and `unstated_backing`.
+5. **Survivorship.** The sample is the 2024 constituents of the S&P 500, observed back to 2016. Firms that fell out of the index, possibly those whose rhetoric and practice diverged most, are not observed. Levels are therefore likely biased upward, and the 2016 cross-section is not representative of the 2016 S&P 500.
+6. **A category match is not a values match.** WFC 2016 shows this: a pay criterion coded `customers` can reward the very behavior that harmed customers. The index measures whether the same stakeholder appears on both sides, not whether pay serves the stated value.
+7. **Recall is not precision.** A firm that states almost nothing scores well if that little is paid for. `say_all_zero` rows are excluded rather than scored, but thin pages still make high scores cheap. Read `A` together with total salience and `unstated_backing`.
 
 ## With more time
 - A precision-side companion: the share of material pay weight in categories the page states. The two together would give an F1-style alignment.

@@ -54,6 +54,8 @@ OUT_CSV = OUT_DIR / "authenticity_index.csv"
 MAX_UNRESOLVED_OTHER = 0.05
 TAUS = {"tau0": 0.0, "tau5": 0.05, "tau10": 0.10, "tau20": 0.20}
 LAST_YEAR = 2024
+# Weight sources counted as stated (not estimated) for the robustness variant.
+STRICT_SOURCES = {"disclosed", "derived_from_stated_split"}
 # Candidate names for the imputed-weight column Part 2 may add to the panel
 # (fraction of the plan, 0-1). The first prefix found is used.
 IMPUTED_WEIGHT_PREFIXES = ["pay_weight_imputed_", "pay_imputed_weight_", "pay_w_imputed_", "pay_weight_"]
@@ -199,6 +201,16 @@ def index_row(say: dict, do_t: dict, do_t1: dict, year: int) -> dict:
             c = np.minimum(wmax / tau, 1.0)
         out[f"A_{name}"] = A(c, CATEGORIES) if c is not None else np.nan
         out[f"A_ex_shareholders_{name}"] = A(c, NON_SH) if c is not None else np.nan
+    # Robustness variant: weighted index from stated weights only (disclosed or
+    # derived_from_stated_split), excluding Part 2's imputed_emphasis estimates.
+    srows = [x for x in wrows if x.get("w_source") in STRICT_SOURCES]
+    smax = (np.nanmax(np.array([[x[f"w_{k}"] for k in CATEGORIES] for x in srows], dtype=float), axis=0)
+            if srows else None)
+    for name, tau in TAUS.items():
+        if tau == 0:
+            continue
+        c = None if (reason or smax is None) else np.minimum(smax / tau, 1.0)
+        out[f"A_strict_{name}"] = A(c, CATEGORIES) if c is not None else np.nan
     out["A_reason"] = reason
     out["A_weighted_reason"] = reason or (("disclosed_weights_unresolved" if unresolved else "no_weights")
                                           if wmax is None else "")

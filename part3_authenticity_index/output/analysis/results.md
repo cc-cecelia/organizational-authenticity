@@ -36,6 +36,35 @@ Firm-years with A: 383; firms: 48.
 | 2023 | 41 | 0.460 | 0.500 | 0.422 | 0.189 |
 | 2024 | 39 | 0.397 | 0.368 | 0.346 | 0.203 |
 
+## Firm ranking (mean A over firm-years)
+Firms flagged `n<5` rest on fewer than 5 firm-years; read their position with caution.
+
+Lowest 8:
+
+| ticker | sector | n | mean_A | mean_A_ex_sh | mean_unstated | flag |
+|---|---|---|---|---|---|---|
+| SCHW | Financials | 9 | 0.019 | 0.000 |  |  |
+| NVDA | Technology | 9 | 0.028 | 0.000 |  |  |
+| CRM | Technology | 8 | 0.088 | 0.067 | 0.333 |  |
+| GOOGL | Technology | 8 | 0.117 | 0.000 |  |  |
+| AMZN | Consumer Discretionary | 3 | 0.140 | 0.000 |  | n<5 |
+| ABT | Healthcare | 9 | 0.143 | 0.143 | 0.750 |  |
+| HD | Consumer Discretionary | 9 | 0.156 | 0.000 |  |  |
+| AVGO | Technology | 2 | 0.167 | 0.167 | 0.750 | n<5 |
+
+Highest 8:
+
+| ticker | sector | n | mean_A | mean_A_ex_sh | mean_unstated | flag |
+|---|---|---|---|---|---|---|
+| EOG | Energy | 3 | 1.000 | 1.000 | 0.333 | n<5 |
+| JPM | Financials | 8 | 0.919 | 0.909 | 0.141 |  |
+| VLO | Energy | 5 | 0.824 | 0.743 | 0.340 |  |
+| MSFT | Technology | 9 | 0.798 | 0.798 | 0.108 |  |
+| BLK | Financials | 9 | 0.711 | 0.663 | 0.161 |  |
+| WFC | Financials | 9 | 0.685 | 0.659 | 0.331 |  |
+| JNJ | Healthcare | 9 | 0.676 | 0.624 | 0.093 |  |
+| GS | Financials | 9 | 0.672 | 0.617 | 0.171 |  |
+
 ## Sensitivity to τ
 Compared on the 253 firm-years (41 firms) where all four τ values are defined (the weighted versions need disclosed or imputed weights).
 
@@ -50,18 +79,51 @@ Spearman rank correlation of firm rankings (firm mean A):
 
 Firms whose rank drops most as τ rises (token coverage: pay criteria exist but carry little weight):
 
-| ticker | rank_tau0 | rank_tau20 | rank_drop | A_tau0 | A_tau20 |
-|---|---|---|---|---|---|
-| TGT | 16.000 | 34.000 | 18.000 | 0.549 | 0.085 |
-| TMO | 13.000 | 31.000 | 18.000 | 0.610 | 0.101 |
-| NKE | 26.000 | 41.000 | 15.000 | 0.306 | 0.010 |
-| WFC | 5.000 | 17.000 | 12.000 | 0.724 | 0.267 |
-| MSFT | 4.000 | 15.000 | 11.000 | 0.798 | 0.292 |
-| BMY | 15.000 | 21.000 | 6.000 | 0.580 | 0.237 |
-| INTC | 14.000 | 19.000 | 5.000 | 0.591 | 0.244 |
-| GS | 6.000 | 11.000 | 5.000 | 0.715 | 0.328 |
-| JNJ | 7.000 | 12.000 | 5.000 | 0.710 | 0.323 |
-| MS | 25.000 | 28.000 | 3.000 | 0.315 | 0.182 |
+| ticker | rank_tau0 | rank_tau20 | rank_drop | A_tau0 | A_tau20 | n | flag |
+|---|---|---|---|---|---|---|---|
+| TGT | 16.000 | 34.000 | 18.000 | 0.549 | 0.085 | 3 | n<5 |
+| TMO | 13.000 | 31.000 | 18.000 | 0.610 | 0.101 | 5 |  |
+| NKE | 26.000 | 41.000 | 15.000 | 0.306 | 0.010 | 6 |  |
+| WFC | 5.000 | 17.000 | 12.000 | 0.724 | 0.267 | 6 |  |
+| MSFT | 4.000 | 15.000 | 11.000 | 0.798 | 0.292 | 9 |  |
+| BMY | 15.000 | 21.000 | 6.000 | 0.580 | 0.237 | 7 |  |
+| INTC | 14.000 | 19.000 | 5.000 | 0.591 | 0.244 | 5 |  |
+| GS | 6.000 | 11.000 | 5.000 | 0.715 | 0.328 | 6 |  |
+| JNJ | 7.000 | 12.000 | 5.000 | 0.710 | 0.323 | 8 |  |
+| MS | 25.000 | 28.000 | 3.000 | 0.315 | 0.182 | 3 | n<5 |
+
+## Robustness: stated weights only
+The weighted index recomputed with only `disclosed` and `derived_from_stated_split` weights (Part 2's `imputed_emphasis` estimates excluded). Defined for 85 firm-years, 19 firms. Rankings compared on the same firm-years.
+
+| comparison | spearman |
+|---|---|
+| τ=10%: all weights vs stated only | 0.963 |
+| τ=20%: all weights vs stated only | 0.974 |
+| τ→0 vs τ=10% stated only | 0.639 |
+
+Firm means (τ = 10%):
+
+| ticker | n | A_tau0 | A_tau10_all | A_tau10_stated | A_tau20_all | A_tau20_stated | rank_all | rank_stated | flag |
+|---|---|---|---|---|---|---|---|---|---|
+| JPM | 2 | 0.826 | 0.826 | 0.826 | 0.826 | 0.826 | 1.000 | 1.000 | n<5 |
+| TJX | 2 | 0.429 | 0.429 | 0.429 | 0.429 | 0.429 | 3.000 | 2.000 | n<5 |
+| LOW | 5 | 0.411 | 0.411 | 0.411 | 0.319 | 0.319 | 4.000 | 3.000 |  |
+| MPC | 3 | 0.546 | 0.399 | 0.354 | 0.317 | 0.246 | 5.000 | 4.000 | n<5 |
+| XOM | 2 | 0.604 | 0.514 | 0.292 | 0.413 | 0.292 | 2.000 | 5.000 | n<5 |
+| MCD | 4 | 0.368 | 0.264 | 0.264 | 0.213 | 0.213 | 6.000 | 6.000 | n<5 |
+| BMY | 6 | 0.562 | 0.264 | 0.252 | 0.235 | 0.229 | 7.000 | 7.000 |  |
+| UNH | 2 | 0.250 | 0.250 | 0.250 | 0.156 | 0.156 | 8.000 | 8.000 | n<5 |
+| LLY | 2 | 0.225 | 0.225 | 0.225 | 0.225 | 0.225 | 9.000 | 9.000 | n<5 |
+| AVGO | 2 | 0.167 | 0.167 | 0.167 | 0.093 | 0.093 | 12.000 | 10.000 | n<5 |
+| HD | 9 | 0.156 | 0.156 | 0.156 | 0.156 | 0.156 | 13.000 | 11.000 |  |
+| MDT | 9 | 0.383 | 0.212 | 0.154 | 0.209 | 0.153 | 10.000 | 12.000 |  |
+| MRK | 6 | 0.175 | 0.175 | 0.139 | 0.175 | 0.139 | 11.000 | 13.000 |  |
+| SBUX | 3 | 0.053 | 0.053 | 0.053 | 0.053 | 0.053 | 16.000 | 14.000 | n<5 |
+| CRM | 8 | 0.088 | 0.055 | 0.041 | 0.039 | 0.032 | 15.000 | 15.000 |  |
+| IBM | 6 | 0.161 | 0.021 | 0.021 | 0.021 | 0.021 | 17.000 | 16.000 |  |
+| PFE | 7 | 0.181 | 0.080 | 0.008 | 0.080 | 0.008 | 14.000 | 17.000 |  |
+| NKE | 3 | 0.590 | 0.000 | 0.000 | 0.000 | 0.000 | 18.500 | 18.500 | n<5 |
+| ABT | 4 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 18.500 | 18.500 | n<5 |
 
 ## Validity
 ### Known groups
@@ -92,6 +154,20 @@ Firms whose rank drops most as τ rises (token coverage: pay criteria exist but 
 | 2022 | 1.00 | 4.00 | 1.00 | 0.38 | 1.00 | 0.36 | 0.33 |  |
 | 2023 | 1.00 | 4.00 | 1.00 | 0.38 | 1.00 | 0.60 | 0.38 |  |
 | 2024 | 2.00 | 3.00 | 1.00 |  |  | 0.75 |  |  |
+
+**WFC, every category** (cell = stated salience / coverage τ→0 / weighted coverage τ=10%):
+
+| year | page_type | A | customers | employees | dei | environment | community | shareholders | integrity | safety | innovation |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2016 | values | 0.83 | 2/1/0.0 | 1/0/0.0 | 0/1/0.0 | 0/0/0.0 | 0/1/0.0 | 1/1/1.0 | 2/1/0.0 | 0/0/0.0 | 0/0/0.0 |
+| 2017 | values | 0.43 | 3/0/0.0 | 1/0/0.0 | 0/0/0.0 | 0/0/0.0 | 0/0/0.0 | 1/1/1.0 | 2/1/0.0 | 0/0/0.0 | 0/0/0.0 |
+| 2018 | values | 0.84 | 3/1/0.4 | 3/1/0.4 | 3/1/0.6 | 1/0/0.0 | 2/1/0.4 | 2/1/1.0 | 3/1/1.0 | 0/0/0.0 | 2/0/0.0 |
+| 2019 | values | 0.84 | 3/1/0.4 | 3/1/0.4 | 3/1/0.6 | 1/0/0.0 | 2/1/0.4 | 2/1/1.0 | 3/1/1.0 | 0/0/0.0 | 2/0/0.0 |
+| 2020 | values | 0.42 | 3/0 | 3/0 | 3/1 | 1/0 | 2/0 | 2/1 | 3/1 | 0/0 | 2/0 |
+| 2021 | about | 0.40 | 1/1/1.0 | 0/1/0.6 | 0/1/0.6 | 1/1/1.0 | 3/0/0.0 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
+| 2022 | about | 1.00 | 1/1/1.0 | 0/1/0.6 | 0/1/0.6 | 1/1/1.0 | 3/1/0.0 | 0/1/1.0 | 0/1/1.0 | 0/0/0.0 | 0/1/1.0 |
+| 2023 | about | 1.00 | 1/1 | 0/1 | 0/1 | 1/1 | 3/1 | 0/1 | 0/1 | 0/0 | 0/1 |
+| 2024 | about | 0.40 | 1/1 | 0/1 | 0/1 | 1/1 | 3/0 | 0/1 | 0/1 | 0/0 | 0/1 |
 
 ### Discriminant check
 OLS of A (τ→0) on page type, log page word count and sector, standard errors clustered by firm. A valid alignment measure should not be explained by which page was scraped or how long it is.

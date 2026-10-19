@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "part3_authenticity_index" / "output"
 AN, FIG = OUT / "analysis", OUT / "figures"
 TAUS = ["tau0", "tau5", "tau10", "tau20"]
+MIN_N = 5   # firms with fewer firm-years are flagged in every ranking table
 TAU_LABEL = {"tau0": "τ→0", "tau5": "τ=5%", "tau10": "τ=10%", "tau20": "τ=20%"}
 
 # Reference palette (dataviz skill, light mode): surface, text tokens, slot-1 blue.
@@ -100,6 +101,24 @@ def distribution(ok: pd.DataFrame, res: list) -> None:
         fig.tight_layout(); fig.savefig(FIG / fname, dpi=160); plt.close(fig)
 
 
+def flag_n(n) -> str:
+    return f"n<{MIN_N}" if n < MIN_N else ""
+
+
+def firm_ranking(ok: pd.DataFrame, res: list) -> None:
+    """Firm means of the primary index, with the number of firm-years behind each."""
+    f = ok.groupby(["ticker", "sector"]).agg(n=("A", "size"), mean_A=("A", "mean"),
+                                             mean_A_ex_sh=("A_ex_shareholders", "mean"),
+                                             mean_unstated=("unstated_backing", "mean")).reset_index()
+    f["flag"] = f.n.map(flag_n)
+    f = f.sort_values("mean_A").round(3)
+    f.to_csv(AN / "firm_ranking.csv", index=False)
+    res += ["## Firm ranking (mean A over firm-years)",
+            f"Firms flagged `n<{MIN_N}` rest on fewer than {MIN_N} firm-years; read their position with caution.",
+            "", "Lowest 8:", "", md_table(f.head(8), ".3f"), "", "Highest 8:", "",
+            md_table(f.tail(8).iloc[::-1], ".3f"), ""]
+
+
 def sensitivity(ok_all: pd.DataFrame, res: list) -> None:
     """Rank firms by mean A over the firm-years where every tau is defined."""
     common = ok_all.dropna(subset=[f"A_{t}" for t in TAUS])
@@ -110,6 +129,7 @@ def sensitivity(ok_all: pd.DataFrame, res: list) -> None:
         res += ["Too few firms with weights for a rank comparison yet.", ""]
         return
     firm = common.groupby("ticker")[[f"A_{t}" for t in TAUS]].mean()
+    n_obs = common.groupby("ticker").size()
     rho = pd.DataFrame(index=TAUS, columns=TAUS, dtype=float)
     for a in TAUS:
         for b in TAUS:
@@ -122,7 +142,8 @@ def sensitivity(ok_all: pd.DataFrame, res: list) -> None:
     ranks = firm.rank(ascending=False)
     drop = pd.DataFrame({"rank_tau0": ranks.A_tau0, "rank_tau20": ranks.A_tau20,
                          "rank_drop": ranks.A_tau20 - ranks.A_tau0,
-                         "A_tau0": firm.A_tau0.round(3), "A_tau20": firm.A_tau20.round(3)}
+                         "A_tau0": firm.A_tau0.round(3), "A_tau20": firm.A_tau20.round(3),
+                         "n": n_obs, "flag": n_obs.map(flag_n)}
                         ).sort_values("rank_drop", ascending=False)
     drop.to_csv(AN / "rank_drop_tau.csv")
     res += ["Firms whose rank drops most as τ rises (token coverage: pay criteria exist but carry little weight):",
@@ -141,6 +162,33 @@ def sensitivity(ok_all: pd.DataFrame, res: list) -> None:
     fig.tight_layout(); fig.savefig(FIG / "A_by_tau.png", dpi=160); plt.close(fig)
 
 
+def robustness_stated_weights(ok: pd.DataFrame, res: list) -> None:
+    """Weighted index from stated weights only (disclosed, derived_from_stated_split) vs all weights."""
+    c = ok.dropna(subset=["A_strict_tau10", "A_tau10"])
+    res += ["## Robustness: stated weights only",
+            "The weighted index recomputed with only `disclosed` and `derived_from_stated_split` weights "
+            f"(Part 2's `imputed_emphasis` estimates excluded). Defined for {len(c)} firm-years, "
+            f"{c.ticker.nunique()} firms. Rankings compared on the same firm-years.", ""]
+    if c.ticker.nunique() < 3:
+        res += ["Too few firms.", ""]
+        return
+    f = c.groupby("ticker").agg(n=("A", "size"), A_tau0=("A", "mean"), A_tau10_all=("A_tau10", "mean"),
+                                A_tau10_stated=("A_strict_tau10", "mean"),
+                                A_tau20_all=("A_tau20", "mean"), A_tau20_stated=("A_strict_tau20", "mean"))
+    rho = {
+        "τ=10%: all weights vs stated only": spearmanr(f.A_tau10_all, f.A_tau10_stated).correlation,
+        "τ=20%: all weights vs stated only": spearmanr(f.A_tau20_all, f.A_tau20_stated).correlation,
+        "τ→0 vs τ=10% stated only": spearmanr(f.A_tau0, f.A_tau10_stated).correlation,
+    }
+    f["rank_all"] = f.A_tau10_all.rank(ascending=False)
+    f["rank_stated"] = f.A_tau10_stated.rank(ascending=False)
+    f["flag"] = f.n.map(flag_n)
+    f = f.sort_values("rank_stated").round(3)
+    f.to_csv(AN / "robustness_stated_weights.csv")
+    res += [md_table(pd.DataFrame({"comparison": list(rho), "spearman": list(rho.values())}), ".3f"), "",
+            "Firm means (τ = 10%):", "", md_table(f.reset_index(), ".3f"), ""]
+
+
 def validity(d: pd.DataFrame, ok: pd.DataFrame, res: list) -> None:
     res += ["## Validity", "### Known groups"]
     for t, k, years, expect in (("WFC", "customers", range(2016, 2025), "low coverage 2016-2018"),
@@ -153,6 +201,24 @@ def validity(d: pd.DataFrame, ok: pd.DataFrame, res: list) -> None:
         res += [f"**{t} {k}** (expected: {expect}). `s` = stated salience, `d` = pay-linked criteria and "
                 "`w` = plan weight (max over proxies t and t+1), `cov` = coverage indicator (τ→0), "
                 "`cov10` = weighted coverage at τ = 10%:", "", md_table(x, ".2f"), ""]
+
+    # WFC, every category: stated salience / coverage (tau -> 0) / weighted coverage at tau = 10%.
+    import sys as _s
+    _s.path.insert(0, str(ROOT / "part2_lived_values" / "src"))
+    from theme_dictionary import CATEGORIES
+    wfc = d[d.ticker == "WFC"].sort_values("year")
+    rows = []
+    for _, r in wfc.iterrows():
+        row = {"year": int(r.year), "page_type": r.page_type, "A": r.A}
+        for k in CATEGORIES:
+            cov10 = min(r[f"w_{k}"] / 0.10, 1.0) if pd.notna(r[f"w_{k}"]) else np.nan
+            row[k] = (f"{int(r[f's_{k}'])}/{int(r[f'cov_{k}'])}" if pd.notna(r[f"cov_{k}"]) else "")\
+                + (f"/{cov10:.1f}" if pd.notna(cov10) else "")
+        rows.append(row)
+    wt = pd.DataFrame(rows)
+    wt.to_csv(AN / "known_group_WFC_all_categories.csv", index=False)
+    res += ["**WFC, every category** (cell = stated salience / coverage τ→0 / weighted coverage τ=10%):", "",
+            md_table(wt, ".2f"), ""]
 
     res += ["### Discriminant check", "OLS of A (τ→0) on page type, log page word count and sector, "
             "standard errors clustered by firm. A valid alignment measure should not be explained by "
@@ -179,7 +245,9 @@ def main() -> int:
            "NaN reasons for A: " + ", ".join(f"{k or 'computed'} {v}" for k, v in
                                              d.A_reason.fillna("").value_counts().items()), ""]
     distribution(ok, res)
+    firm_ranking(ok, res)
     sensitivity(ok, res)
+    robustness_stated_weights(ok, res)
     validity(d, ok, res)
     (AN / "results.md").write_text("\n".join(res))
     print("\n".join(res))
