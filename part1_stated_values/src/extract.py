@@ -21,7 +21,7 @@ import re
 from typing import Tuple
 
 import trafilatura
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment, Declaration, Doctype, ProcessingInstruction
 
 import config
 
@@ -53,7 +53,7 @@ _BLOCK_TAGS = ["p", "div", "li", "h1", "h2", "h3", "h4", "h5", "h6", "br", "tr",
 # Whole lines that are UI chrome rather than content (seen in pilot output).
 _UI_LINE_RE = re.compile(
     r"^(search|menu|close|skip to (main )?content|back to top|learn more|read more|"
-    r"please update your browser\.?|share|print|toggle navigation|loading\.*)$",
+    r"please update your browser\.?|selected item|share|print|toggle navigation|loading\.*)$",
     re.I,
 )
 
@@ -97,6 +97,9 @@ def _extract_pdf(content: bytes) -> str:
 
 def _extract_bs4(html: bytes) -> str:
     soup = BeautifulSoup(html, "lxml")
+    # HTML comments (tracking-tag notes, IE conditional blocks) are not visible.
+    for node in soup.find_all(string=lambda t: isinstance(t, (Comment, Declaration, Doctype, ProcessingInstruction))):
+        node.extract()
     for tag in soup(_DROP_TAGS):
         tag.decompose()
     for tag in soup.find_all(attrs={"role": _DROP_ROLES}):
